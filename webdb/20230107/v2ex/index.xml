@@ -1,0 +1,1196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>V2EX</title>
+<subtitle>way to explore</subtitle>
+
+
+<link rel="alternate" type="text/html" href="https://www.v2ex.com/" />
+<link rel="self" type="application/atom+xml" href="https://www.v2ex.com/index.xml" />
+<id>https://www.v2ex.com/</id>
+
+<updated>2023-01-07T18:29:02Z</updated>
+
+<rights>Copyright © 2010-2018, V2EX</rights>
+<entry>
+	<title>[macOS] mac 把文件从内置硬盘移动到移动硬盘，发现写入算内置硬盘？</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907289#reply0" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907289</id>
+	<published>2023-01-07T18:30:02Z</published>
+	<updated>2023-01-07T18:29:02Z</updated>
+	<author>
+		<name>xyzmhx</name>
+		<uri>https://www.v2ex.com/member/xyzmhx</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	<p>苹果这个 activity monitor 计算写入是不是有问题</p>
+
+	]]></content>
+</entry><entry>
+	<title>[程序员] React Native 可以精简大小吗？在 Android 下默认就 55MB 了</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907288#reply1" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907288</id>
+	<published>2023-01-07T17:57:57Z</published>
+	<updated>2023-01-07T18:47:55Z</updated>
+	<author>
+		<name>nnegier</name>
+		<uri>https://www.v2ex.com/member/nnegier</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	<p>就是啥也没写，环境配好，跑一下安装，一看 55MB ，这也太大了。版本 0.70.6</p>
+
+	]]></content>
+</entry><entry>
+	<title>[深圳] 有没有 14-15 号深圳回南阳的车， 2 个位。火车抢不到哇</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907287#reply0" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907287</id>
+	<published>2023-01-07T17:56:56Z</published>
+	<updated>2023-01-07T17:56:56Z</updated>
+	<author>
+		<name>j717273419</name>
+		<uri>https://www.v2ex.com/member/j717273419</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	<p>如果到 12 号还抢不到，我就准备去汽车站买大巴回去了。</p>
+
+	]]></content>
+</entry><entry>
+	<title>[宽带症候群] 成都电信组播看 iptv</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907285#reply0" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907285</id>
+	<published>2023-01-07T16:55:10Z</published>
+	<updated>2023-01-07T16:54:10Z</updated>
+	<author>
+		<name>memeda123</name>
+		<uri>https://www.v2ex.com/member/memeda123</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	请教一下大家，成都电信组播看 iptv ，咋个搞哦
+	]]></content>
+</entry><entry>
+	<title>[分享创造] 开源 C 库实现 HTTP 服务器：多线程+事件模型+外挂式跟踪技术</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907284#reply0" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907284</id>
+	<published>2023-01-07T16:52:21Z</published>
+	<updated>2023-01-05T16:51:21Z</updated>
+	<author>
+		<name>monkeyNik</name>
+		<uri>https://www.v2ex.com/member/monkeyNik</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	<p>本文主要介绍 Melon 库中的一种跟踪技术，并以一个 HTTP 服务器的实现和使用为例进行说明。</p>
+<p>关于 Melon 库，这是一个开源的 C 语言库，这个库不依赖其他开源第三方库，因此安装方便，开箱即用。并且中英文文档详细，便于作为工具书进行查阅。Github 仓库：<a href="https://github.com/Water-Melon/Melon" rel="nofollow">传送门</a>。</p>
+<p>闲话少叙，我们直接上代码：</p>
+<pre><code class="language-c">#include &lt;stdio.h&gt;
+#include &lt;stdlib.h&gt;
+#include &lt;sys/socket.h&gt;
+#include &lt;netinet/in.h&gt;
+#include &lt;errno.h&gt;
+#include &lt;arpa/inet.h&gt;
+#include &lt;sys/time.h&gt;
+#include "mln_core.h"
+#include "mln_log.h"
+#include "mln_http.h"
+#include "mln_iothread.h"
+#include "mln_trace.h"
+
+
+static void *mln_thread_entry(void *args);
+static void mln_accept(mln_event_t *ev, int fd, void *data);
+static int mln_http_recv_body_handler(mln_http_t *http, mln_chain_t **in, mln_chain_t **nil);
+static void mln_recv(mln_event_t *ev, int fd, void *data);
+static void mln_quit(mln_event_t *ev, int fd, void *data);
+static void mln_send(mln_event_t *ev, int fd, void *data);
+static int mln_http_send_body_handler(mln_http_t *http, mln_chain_t **body_head, mln_chain_t **body_tail);
+
+static void mln_accept(mln_event_t *ev, int fd, void *data)
+{
+    mln_tcp_conn_t *connection;
+    mln_http_t *http;
+    int connfd;
+    socklen_t len;
+    struct sockaddr_in addr;
+
+    while (1) {
+        memset(&amp;addr, 0, sizeof(addr));
+        len = sizeof(addr);
+        connfd = accept(fd, (struct sockaddr *)&amp;addr, &amp;len);
+        if (connfd &lt; 0) {
+            if (errno == EAGAIN) break;
+            if (errno == EINTR) continue;
+            perror("accept");
+            exit(1);
+        }
+
+        connection = (mln_tcp_conn_t *)malloc(sizeof(mln_tcp_conn_t));
+        if (connection == NULL) {
+            fprintf(stderr, "3No memory.\n");
+            close(connfd);
+            continue;
+        }
+        if (mln_tcp_conn_init(connection, connfd) &lt; 0) {
+            fprintf(stderr, "4No memory.\n");
+            close(connfd);
+            free(connection);
+            continue;
+        }
+
+        http = mln_http_init(connection, NULL, mln_http_recv_body_handler);
+        if ( http == NULL) {
+            fprintf(stderr, "5No memory.\n");
+            mln_tcp_conn_destroy(connection);
+            free(connection);
+            close(connfd);
+            continue;
+        }
+
+        if (mln_event_fd_set(ev, \
+                             connfd, \
+                             M_EV_RECV|M_EV_NONBLOCK, \
+                             M_EV_UNLIMITED, \
+                             http, \
+                             mln_recv) &lt; 0)
+        {
+            fprintf(stderr, "6No memory.\n");
+            mln_http_destroy( http);
+            mln_tcp_conn_destroy(connection);
+            free(connection);
+            close(connfd);
+            continue;
+        }
+    }
+}
+
+static void mln_quit(mln_event_t *ev, int fd, void *data)
+{
+    mln_http_t *http = (mln_http_t *)data;
+    mln_tcp_conn_t *connection = mln_http_get_connection( http);
+
+    mln_event_fd_set(ev, fd, M_EV_CLR, M_EV_UNLIMITED, NULL, NULL);
+    mln_http_destroy( http);
+    mln_tcp_conn_destroy(connection);
+    free(connection);
+    close(fd);
+}
+
+static void mln_recv(mln_event_t *ev, int fd, void *data)
+{
+    mln_http_t *http = (mln_http_t *)data;
+    mln_tcp_conn_t *connection = mln_http_get_connection( http);
+    int ret, rc;
+    mln_chain_t *c;
+
+    while (1) {
+        ret = mln_tcp_conn_recv(connection, M_C_TYPE_MEMORY);
+        if (ret == M_C_FINISH) {
+            continue;
+        } else if (ret == M_C_NOTYET) {
+            c = mln_tcp_conn_remove(connection, M_C_RECV);
+            if (c != NULL) {
+                rc = mln_http_parse( http, &amp;c);
+                if (c != NULL) {
+                    mln_tcp_conn_append_chain(connection, c, NULL, M_C_RECV);
+                }
+                if (rc == M_HTTP_RET_OK) {
+                    return;
+                } else if (rc == M_HTTP_RET_DONE) {
+                    mln_send(ev, fd, data);
+                } else {
+                    fprintf(stderr, "Http parse error. error_code:%u\n", mln_http_get_error( http));
+                    mln_quit(ev, fd, data);
+                    return;
+                }
+            }
+            break;
+        } else if (ret == M_C_CLOSED) {
+            c = mln_tcp_conn_remove(connection, M_C_RECV);
+            if (c != NULL) {
+                rc = mln_http_parse( http, &amp;c);
+                if (c != NULL) {
+                    mln_tcp_conn_append_chain(connection, c, NULL, M_C_RECV);
+                }
+                if (rc == M_HTTP_RET_ERROR) {
+                    fprintf(stderr, "Http parse error. error_code:%u\n", mln_http_get_error( http));
+                }
+            }
+            mln_quit(ev, fd, data);
+            return;
+        } else if (ret == M_C_ERROR) {
+            mln_quit(ev, fd, data);
+            return;
+        }
+    }
+}
+
+static int mln_http_recv_body_handler(mln_http_t *http, mln_chain_t **in, mln_chain_t **nil)
+{
+    mln_u32_t method = mln_http_get_method( http);
+    mln_trace("s", method == M_HTTP_GET? "GET": "OTHERS");
+    if (method == M_HTTP_GET)
+        return M_HTTP_RET_DONE;
+    mln_http_set_error( http, M_HTTP_NOT_IMPLEMENTED);
+    return M_HTTP_RET_ERROR;
+}
+
+static void mln_send(mln_event_t *ev, int fd, void *data)
+{
+    mln_http_t *http = (mln_http_t *)data;
+    mln_tcp_conn_t *connection = mln_http_get_connection( http);
+    mln_chain_t *c = mln_tcp_conn_get_head(connection, M_C_SEND);
+    int ret;
+
+    if (c == NULL) {
+        mln_http_reset( http);
+        mln_http_set_status( http, M_HTTP_OK);
+        mln_http_set_version( http, M_HTTP_VERSION_1_0);
+        mln_http_set_type( http, M_HTTP_RESPONSE);
+        mln_http_set_handler( http, mln_http_send_body_handler);
+        mln_chain_t *body_head = NULL, *body_tail = NULL;
+        if (mln_http_generate( http, &amp;body_head, &amp;body_tail) == M_HTTP_RET_ERROR) {
+            fprintf(stderr, "mln_http_generate() failed. %u\n", mln_http_get_error( http));
+            mln_quit(ev, fd, data);
+            return;
+        }
+        mln_tcp_conn_append_chain(connection, body_head, body_tail, M_C_SEND);
+    }
+
+    while ((c = mln_tcp_conn_get_head(connection, M_C_SEND)) != NULL) {
+        ret = mln_tcp_conn_send(connection);
+        if (ret == M_C_FINISH) {
+            mln_quit(ev, fd, data);
+            break;
+        } else if (ret == M_C_NOTYET) {
+            mln_chain_pool_release_all(mln_tcp_conn_remove(connection, M_C_SENT));
+            mln_event_fd_set(ev, fd, M_EV_SEND|M_EV_APPEND|M_EV_NONBLOCK, M_EV_UNLIMITED, data, mln_send);
+            return;
+        } else if (ret == M_C_ERROR) {
+            mln_quit(ev, fd, data);
+            return;
+        } else {
+            fprintf(stderr, "Shouldn't be here.\n");
+            abort();
+        }
+    }
+}
+
+static int mln_http_send_body_handler(mln_http_t *http, mln_chain_t **body_head, mln_chain_t **body_tail)
+{
+    mln_u8ptr_t buf;
+    mln_alloc_t *pool = mln_http_get_pool( http);
+    mln_string_t cttype_key = mln_string("Content-Type");
+    mln_string_t cttype_val = mln_string("text/html");
+
+    buf = mln_alloc_m(pool, 5);
+    if (buf == NULL) {
+        mln_http_set_error( http, M_HTTP_INTERNAL_SERVER_ERROR);
+        return M_HTTP_RET_ERROR;
+    }
+    memcpy(buf, "hello", 5);
+
+    if (mln_http_set_field( http, &amp;cttype_key, &amp;cttype_val) == M_HTTP_RET_ERROR) {
+        mln_http_set_error( http, M_HTTP_INTERNAL_SERVER_ERROR);
+        return M_HTTP_RET_ERROR;
+    }
+
+    mln_string_t ctlen_key = mln_string("Content-Length");
+    mln_string_t ctlen_val = mln_string("5");
+    if (mln_http_set_field( http, &amp;ctlen_key, &amp;ctlen_val) == M_HTTP_RET_ERROR) {
+        mln_http_set_error( http, M_HTTP_INTERNAL_SERVER_ERROR);
+        return M_HTTP_RET_ERROR;
+    }
+
+    mln_chain_t *c = mln_chain_new(pool);
+    if (c == NULL) {
+        mln_http_set_error( http, M_HTTP_INTERNAL_SERVER_ERROR);
+        return M_HTTP_RET_ERROR;
+    }
+    mln_buf_t *b = mln_buf_new(pool);
+    if (b == NULL) {
+        mln_chain_pool_release(c);
+        mln_http_set_error( http, M_HTTP_INTERNAL_SERVER_ERROR);
+        return M_HTTP_RET_ERROR;
+    }
+    c-&gt;buf = b;
+    b-&gt;left_pos = b-&gt;pos = b-&gt;start = buf;
+    b-&gt;last = b-&gt;end = buf + 5;
+    b-&gt;in_memory = 1;
+    b-&gt;last_buf = 1;
+    b-&gt;last_in_chain = 1;
+
+    if (*body_head == NULL) {
+        *body_head = *body_tail = c;
+    } else {
+        (*body_tail)-&gt;next = c;
+        *body_tail = c;
+    }
+
+    return M_HTTP_RET_DONE;
+}
+
+static void *mln_thread_entry(void *args)
+{
+    mln_event_dispatch((mln_event_t *)args);
+    return NULL;
+}
+
+int main(int argc, char *argv[])
+{
+    mln_event_t *ev;
+    mln_iothread_t t;
+    struct sockaddr_in addr;
+    int val = 1, listenfd;
+    int nthread = 1;
+    mln_u16_t port = 1234;
+    mln_s8_t ip[] = "0.0.0.0";
+    struct mln_core_attr cattr;
+    struct mln_iothread_attr tattr;
+
+    /* init library */
+    cattr.argc = 0;
+    cattr.argv = NULL;
+    cattr.global_init = NULL;
+    cattr.master_process = NULL;
+    cattr.worker_process = NULL;
+    mln_core_init(&amp;cattr);
+
+    /* create event instance */
+    if ((ev = mln_event_new()) == NULL) {
+        mln_log(error, "event new error.\n");
+        return -1;
+    }
+
+    /* set listen fd */
+    listenfd = socket(AF_INET, SOCK_STREAM, 0);
+    if (listenfd &lt; 0) {
+        mln_log(error, "listen socket error\n");
+        return -1;
+    }
+    if (setsockopt(listenfd, SOL_SOCKET, SO_REUSEADDR, &amp;val, sizeof(val)) &lt; 0) {
+        mln_log(error, "setsockopt error\n");
+        return -1;
+    }
+    addr.sin_family = AF_INET;
+    addr.sin_port = htons(port);
+    addr.sin_addr.s_addr = inet_addr(ip);
+    if (bind(listenfd, (struct sockaddr *)&amp;addr, sizeof(addr)) &lt; 0) {
+        mln_log(error, "bind error\n");
+        return -1;
+    }
+    if (listen(listenfd, 511) &lt; 0) {
+        mln_log(error, "listen error\n");
+        return -1;
+    }
+    if (mln_event_fd_set(ev, \
+                         listenfd, \
+                         M_EV_RECV|M_EV_NONBLOCK, \
+                         M_EV_UNLIMITED, \
+                         NULL, \
+                         mln_accept) &lt; 0)
+    {
+        mln_log(error, "listen sock set event error\n");
+        return -1;
+    }
+
+    /* init trace */
+    if (mln_trace_init(ev, mln_trace_path()) &lt; 0) {
+        mln_log(error, "trace init failed.\n");
+        return -1;
+    }
+
+    /* create threads */
+    tattr.nthread = nthread;
+    tattr.entry = (mln_iothread_entry_t)mln_thread_entry;
+    tattr.args = ev;
+    tattr.handler = NULL;
+    if (mln_iothread_init(&amp;t, &amp;tattr) &lt; 0) {
+        mln_log(error, "iothread init failed\n");
+        return -1;
+    }
+
+    mln_event_dispatch(ev);
+    return 0;
+}
+</code></pre>
+<p>在这 329 行代码中，我们使用 Melon 库实现了一个简单的 HTTP1.1 服务器，这个服务器的行为就是，当收到 GET 请求后会回复一个 200 Hello 。</p>
+<p>在这个例子中，我们起了两个线程（主线程+1 个工作线程），两个线程都会操作同一个事件对象（<code>ev</code>)。而我们的 HTTP 服务器的 socket 则是依赖于这个事件对象<code>ev</code>的。换言之，事件对象是可以跨线程调度的，且事件模型帮我们屏蔽了惊群的问题。</p>
+<blockquote>
+<p>这里其实可以只用单线程，只是为了给读者演示和证明事件模型是支持多线程的。</p>
+</blockquote>
+<p>接着，我们可以看到<code>mln_trace_init</code>这个函数在<code>main</code>中被调用，用于初始化跟踪（ tracing ）任务。</p>
+<p>标题中之所以称为<strong>外挂式</strong>，原因是因为，跟踪（ tracing ）数据是由一个额外的脚本任务进行处理的。虽然脚本任务也依赖于事件模型，但脚本任务不会阻止 socket 事件的触发和处理。<strong>简单来说，所有的句柄、定时器事件与脚本运行是分时处理的，且不会因为脚本中存在死循环而导致其余事件无法被处理</strong>。此外，如果我们不启用跟踪脚本，或者不配置跟踪配置项，那么程序是不会投递跟踪信息的（见<code>mln_accept</code>中的<code>mln_trace</code>调用处）。</p>
+<p>trace 脚本使用的在 Melon 库中内置的脚本语言<a href="melang.org" rel="nofollow">Melang</a>，我们看一下与本例配套的 Melang 脚本：</p>
+<pre><code>sys = Import('sys');
+
+Pipe('subscribe');
+beg = sys.time();
+sum = [];
+while (1) {
+    ret = Pipe('recv');
+    if (!ret) {
+       now = sys.time();
+       if (now - beg &gt;= 3) {
+           sys.print(sum);
+           beg = now;
+       } fi
+       sys.msleep(10);
+    } else {
+       n = sys.size(ret);
+       for (i = 0; i &lt; n; ++i) {
+           if (!(sys.has(sum, ret[i][0])))
+               sum[ret[i][0]] = 0;
+           fi
+           sum[ret[i][0]]++;
+       }
+    }
+}
+Pipe('unsubscribe');
+</code></pre>
+<p>简单描述一下：我们会对所有的请求按方法(method)的不同进行归类统计，统计不同方法的请求总次数，并每 3 秒输出一次统计结果。</p>
+<p>接着，我们要修改 Melon 的配置文件，将<code>trace_mode</code>配置项注释去掉。</p>
+<p>注意：如果你是在 Melon 源码目录中启动 http 服务器，那么应该修改的是<code>Melon/trace/trace.m</code>文件。否则，应该修改<code>/usr/local/lib/melang/trace/trace.m</code>文件，因为解释器会优先查看当前路径下是否有该文件。</p>
+<p>下面，我们来运行程序：</p>
+<pre><code class="language-shell">#tty1
+$ ./a
+</code></pre>
+<pre><code class="language-shell">#tty2
+$ ab -c 100 -n 100 http://127.1:1234/
+</code></pre>
+<p>此时，我们可以看到 tty1 中输出：</p>
+<pre><code>...
+[]
+[]
+[100, ]
+...
+</code></pre>
+<p>并且随着<code>ab</code>被多次调用，数组中的值也会随之增加。</p>
+<p>最后，总结一下这样做的好处。</p>
+<ol>
+<li>采用这种跟踪模式可以按需开启跟踪和关闭跟踪，甚至可以在程序中调用 trace 模块接口实现动态开启和关闭跟踪模式。</li>
+<li>Melang 脚本本身也支持与 MySQL 通信，因此可以在脚本层进行跟踪信息汇总和入库，这样就将统计与功能相分离，完全不需要在 C 程序中加入大量统计变量。</li>
+</ol>
+
+	]]></content>
+</entry><entry>
+	<title>[Apple] 马区 Apple One 中杯订阅合租季付</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907282#reply4" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907282</id>
+	<published>2023-01-07T16:23:29Z</published>
+	<updated>2023-01-07T17:08:03Z</updated>
+	<author>
+		<name>mlui</name>
+		<uri>https://www.v2ex.com/member/mlui</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	<p>Apple One 马来中杯 6 人车差 4 人，季付 40RMB</p>
+<p>自备马区账号</p>
+<p>联系方式： <a href="https://t.me/icharle" rel="nofollow">https://t.me/icharle</a></p>
+
+	]]></content>
+</entry><entry>
+	<title>[京东] 1.8 京东 PLUS 超级联名卡又开启耍猴模式</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907280#reply7" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907280</id>
+	<published>2023-01-07T16:14:43Z</published>
+	<updated>2023-01-07T16:33:37Z</updated>
+	<author>
+		<name>euph</name>
+		<uri>https://www.v2ex.com/member/euph</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	<p>笑死，下单页面一直显示拥堵，几十秒后就没了，什么值得买上面也是一堆人说耍猴，玩不起就别玩呗，陪着这样熬夜有意思嘛，今年的 plus 会员也不打算续了。狗东再见</p>
+
+	]]></content>
+</entry><entry>
+	<title>[问与答] 如何快速删除我所有的微信收藏？</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907279#reply0" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907279</id>
+	<published>2023-01-07T16:05:33Z</published>
+	<updated>2023-01-07T00:05:33Z</updated>
+	<author>
+		<name>zealinux</name>
+		<uri>https://www.v2ex.com/member/zealinux</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	微信收藏里有上万条收藏的公众号文章了。<br /><br />一直以来没有清理，如何才能快速全部删光掉。
+	]]></content>
+</entry><entry>
+	<title>[Java] 新手请教各位前辈 关于换项目和新技术的学习</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907278#reply0" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907278</id>
+	<published>2023-01-07T15:59:20Z</published>
+	<updated>2023-01-07T11:59:20Z</updated>
+	<author>
+		<name>JPginkgo</name>
+		<uri>https://www.v2ex.com/member/JPginkgo</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	<p>我目前刚开始做 java 实习生，维护日本外包的老项目，这个项目十多年了 也没有 spring 。感觉对以后发展帮助不大。其实这个实习我是想熟练 spring 系列技术，不打算转正，毕业就润。
+我学过基础的 springboot 整合 ssm 框架的简单项目，一开始找实习也是为了练这个，但是找的时候没问清楚，进了公司才知道实习生是做老项目维护。
+想问领导能不能带我做新项目。这个新技术的项目组都是两三年以上经验的前辈，我没经验，担心真的进项目又是各种不会，整的大家都很尬尴。（面试的时候关于 java 只有基础语法的笔试，没有 spring 的面试）
+想请教各位前辈两点：1 ，我应该跟领导说 让我进较新的项目组吗？ 2 ，各位前辈最初学 spring 系列，或者其他的技术 学到什么程度才开始实际工作的项目呢？很熟练才开始，或者学点基础就开始 在项目里边做边学？</p>
+
+	]]></content>
+</entry><entry>
+	<title>[问与答] 微信支付的小微商户收款只能通过第三方来申请？</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907277#reply1" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907277</id>
+	<published>2023-01-07T15:51:54Z</published>
+	<updated>2023-01-07T15:51:54Z</updated>
+	<author>
+		<name>azev</name>
+		<uri>https://www.v2ex.com/member/azev</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	<p>就是无营业执照的商户收款，看了下，官方貌似没有入口，网上倒是很多三方服务商。</p>
+
+	]]></content>
+</entry><entry>
+	<title>[前端开发] 使用 Taro 来构建一个小程序组件库，有什么可以抄作业的最佳实践吗？</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907276#reply1" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907276</id>
+	<published>2023-01-07T15:50:00Z</published>
+	<updated>2023-01-07T17:51:57Z</updated>
+	<author>
+		<name>cssTheGreatest</name>
+		<uri>https://www.v2ex.com/member/cssTheGreatest</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	为什么用 Taro 而不是 Uniapp 就不展开了，年纪大了对团队的“现状”不想多纠结；<br /><br />老板给了一个组件库的任务，需要满足：<br />1 、基于 Taro 来编写组件源码（ Taro 、React 、Typescript 、Sass 之类的现有特性）；<br />2 、构建产物既能被 Taro 项目使用，也能被原生微信小程序项目使用（ usingComponent 那一套），后者是因为这个组件库可能会被外部合作者使用到，他们的现成项目都是原生的微信小程序（又一个“现状”）；<br />3 、在第 2 点的两种情况下都 tree-shaking 友好；<br /><br />搜了一圈 Taro 的物料，好像没有适合这种 组件库 场景的 init 模板，所以想来请教下各位，看能不能复制一下前人的智慧
+	]]></content>
+</entry><entry>
+	<title>[Apple] 现在 iPhone 无法关闭双重验证了吗</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907275#reply6" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907275</id>
+	<published>2023-01-07T15:33:01Z</published>
+	<updated>2023-01-07T19:11:36Z</updated>
+	<author>
+		<name>BaiLinfeng</name>
+		<uri>https://www.v2ex.com/member/BaiLinfeng</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	<p>现在无法关闭双重验证了吗，把 id 借给朋友使用，给我开了双重验证，我发现现在无法关闭了，怎么搞</p>
+
+	]]></content>
+</entry><entry>
+	<title>[分享发现] 各位城市最近行车状况如何，我感觉越临近过年，乱插的车越多</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907274#reply3" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907274</id>
+	<published>2023-01-07T15:25:18Z</published>
+	<updated>2023-01-07T16:37:05Z</updated>
+	<author>
+		<name>sevenyangcc</name>
+		<uri>https://www.v2ex.com/member/sevenyangcc</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	<p>成都这边，前天在三环看到插车的事故，今天回家，40 分钟路程，在路上看到 3 起插队的事故。个人感觉，乱变道的明显增加，还有不打灯变道的也烦，尤其是外地牌的~~</p>
+
+	]]></content>
+</entry><entry>
+	<title>[分享发现] 《朗文当代高级英语词典》mac 版，适配原生 Dictionary APP</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907272#reply3" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907272</id>
+	<published>2023-01-07T15:23:09Z</published>
+	<updated>2023-01-07T16:04:25Z</updated>
+	<author>
+		<name>codingbody</name>
+		<uri>https://www.v2ex.com/member/codingbody</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	<p><strong>新年送大家一本词典吧，《朗文当代高级英语词典》适配 mac 原生 Dictionary APP 。</strong></p>
+<p>为缓解版权焦虑可以考虑购买纸质字典<a href="https://item.jd.com/11443029.html" rel="nofollow">《朗文当代高级英语辞典》第五版</a></p>
+<p><img alt="231540" class="embedded_image" loading="lazy" referrerpolicy="no-referrer" rel="noreferrer" src="https://image.yuhaowin.com/2023/01/07/231540.png"/></p>
+<p><img alt="231437" class="embedded_image" loading="lazy" referrerpolicy="no-referrer" rel="noreferrer" src="https://image.yuhaowin.com/2023/01/07/231437.png"/></p>
+<p><img alt="231455" class="embedded_image" loading="lazy" referrerpolicy="no-referrer" rel="noreferrer" src="https://image.yuhaowin.com/2023/01/07/231455.png"/></p>
+<p><img alt="231505" class="embedded_image" loading="lazy" referrerpolicy="no-referrer" rel="noreferrer" src="https://image.yuhaowin.com/2023/01/07/231505.png"/></p>
+<p><img alt="231518" class="embedded_image" loading="lazy" referrerpolicy="no-referrer" rel="noreferrer" src="https://image.yuhaowin.com/2023/01/07/231518.png"/></p>
+<p><a href="https://cowtransfer.com/s/03ed232886bc48" rel="nofollow">https://cowtransfer.com/s/03ed232886bc48</a> 点击链接查看 [ LDOCE5_0.1.dmg ] ，或访问奶牛快传 <a href="http://cowtransfer.com" rel="nofollow">cowtransfer.com</a> 输入传输口令 gseq2s 查看；有效期 30 天。</p>
+
+	]]></content>
+</entry><entry>
+	<title>[macOS] 破案 Tab 键在 Safari 中刷题不是空格而是键盘巡航功能</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907271#reply0" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907271</id>
+	<published>2023-01-07T15:20:03Z</published>
+	<updated>2023-01-07T15:17:03Z</updated>
+	<author>
+		<name>spongeboBoy</name>
+		<uri>https://www.v2ex.com/member/spongeboBoy</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	之前的帖子 <a target="_blank" href="https://www.v2ex.com/t/905910" rel="nofollow noopener">https://www.v2ex.com/t/905910</a><br />开始创建一个新用户发现问题解决了，于是废了好大劲把用户换了，结果问题又复现了，刚刚无意间禁用了 vimkey 插件发现问题解决了。错怪 ventura 了。<br />还有设置中 icloud 特别卡的原因，我之前知道是开启 专用代理 导致的，但我不知道它是默认开启的，因此刚换用户时设置很卡的时候并没有往那个方向上想。忍着卡顿把专用代理关了就行。<br /><br />另再问一下：mac 里 vscode 调试 c++，输出语句只有调试结束才会一次性输出，而不会遇着 cout 就输出，除非在 cout 后加一个 fflush(stdout);才行。请问这个问题怎么解决呢？
+	]]></content>
+</entry><entry>
+	<title>[Windows] Microsoft store 老是出现“假更新”</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907269#reply1" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907269</id>
+	<published>2023-01-07T14:56:13Z</published>
+	<updated>2023-01-07T15:11:24Z</updated>
+	<author>
+		<name>AndyLuo</name>
+		<uri>https://www.v2ex.com/member/AndyLuo</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	<p>所谓“假更新”就是程序明明没发布新版本但是还是弹出有更新。更新完后更新日期又是好久之前。你们有碰到类似情况吗？</p>
+
+	]]></content>
+</entry><entry>
+	<title>[分享发现] 最近接触到 matrix 网桥，创建了一个通过 matrix 桥接 tg 和 discord 的联合群组，有兴趣的可以加入</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907267#reply3" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907267</id>
+	<published>2023-01-07T14:43:23Z</published>
+	<updated>2023-01-07T15:20:12Z</updated>
+	<author>
+		<name>lengyuqu</name>
+		<uri>https://www.v2ex.com/member/lengyuqu</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	三个群组之间是消息互通<br />鉴于 tg 最近+86 的验证码存在问题<br />matrix 和 discord 都是不需要手机就可以注册的社交软件<br />matrix 用户更是可以自建节点（ 懂自懂），可以跨越墙<br /><br />当然 matrix 也属于中文社区比较好的一个平台，推荐使用官方客户端 Element 。<br />当然你可以自建节点，也可以根据自己的网络情况使用公共第三方服务器<br /><a target="_blank" href="https://www.hello-matrix.net/public_servers.php" rel="nofollow noopener">https://www.hello-matrix.net/public_servers.php</a><br /><a target="_blank" href="https://matrixim.cc/" rel="nofollow noopener">https://matrixim.cc/</a><br /><a target="_blank" href="https://wiki.asra.gr/en:public_servers" rel="nofollow noopener">https://wiki.asra.gr/en:public_servers</a><br /><br /><br />另外可以加入群组<br /><br />tg 群组： <a target="_blank" href="https://t.me/v2ex_tg_matrix_discord" rel="nofollow noopener">https://t.me/v2ex_tg_matrix_discord</a><br /><br />matrix： <a target="_blank" href="https://matrix.to/#/#v2exmatrix:matrix.org" rel="nofollow noopener">https://matrix.to/#/#v2exmatrix:matrix.org</a><br /><br />discord： <a target="_blank" href="https://discord.gg/qX3EEFr54S" rel="nofollow noopener">https://discord.gg/qX3EEFr54S</a>
+	]]></content>
+</entry><entry>
+	<title>[英雄联盟] 台服 LOL 也有 mac 版了</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907266#reply3" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907266</id>
+	<published>2023-01-07T14:41:05Z</published>
+	<updated>2023-01-07T15:09:12Z</updated>
+	<author>
+		<name>quzard</name>
+		<uri>https://www.v2ex.com/member/quzard</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	
+	]]></content>
+</entry><entry>
+	<title>[程序员] 有接私活的吗 来一个</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907265#reply0" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907265</id>
+	<published>2023-01-07T13:52:29Z</published>
+	<updated>2023-01-07T09:44:29Z</updated>
+	<author>
+		<name>Authorization</name>
+		<uri>https://www.v2ex.com/member/Authorization</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	批量注册国外游戏账号<br /><a target="_blank" href="https://account.riotgames.com/account" rel="nofollow noopener">https://account.riotgames.com/account</a><br /><br />要求<br /><br />注册完成需提供 账号 密码 生日 邮箱 <br /><br />注册完成不需要验证邮箱地址。<br /><br />为了验证他会出现哪些问题，我用统一 IP ，同一个浏览器注册了多个，会遇到验证邮箱， 出现验证码。<br /><br />如果出现验证邮箱，此时，用 POP 协议去邮箱收信验证，如果不提示邮箱验证，就无需验证邮箱地址。<br /><br />账号注册完成后会根据对应 IP 显示该账号所属对应国家，比如 IP 为美国，会显示账号是美国，那么在代理 IP 的设置应该个性化，因为我要注册不同国家的账号。<br /><br />有代理 IP 接口，打码接口。<br /><br />注册的时候，浏览器需要独立，要设置语言为英语，浏览器 cookie 清除，另外浏览器需要特别处理？<br /><br />有经验着报价。<br /><br />tg:botsmtp
+	]]></content>
+</entry><entry>
+	<title>[程序员] PerimeterX 的按压验证 咋这么牛</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907264#reply0" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907264</id>
+	<published>2023-01-07T13:47:30Z</published>
+	<updated>2023-01-07T09:47:30Z</updated>
+	<author>
+		<name>pppppp1688</name>
+		<uri>https://www.v2ex.com/member/pppppp1688</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	<p>PerimeterX 的按压验证 怎么破解或者自动过 有没有遇到过的学长</p>
+
+	]]></content>
+</entry><entry>
+	<title>[哔哩哔哩] 请教成功经验，怎么减少看 b 站？</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907263#reply37" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907263</id>
+	<published>2023-01-07T13:22:17Z</published>
+	<updated>2023-01-07T16:20:43Z</updated>
+	<author>
+		<name>revalue</name>
+		<uri>https://www.v2ex.com/member/revalue</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	<p>(查看个人 b 站年度报告的方法：b 站搜索“年度报告”)</p>
+<p>2022 年年度本人居然看了 8000 多个 b 站视频，按个人偏好，喜欢看每个视频 10 分钟到 15 分钟的，基本都是 1.2 倍速看到底。算下来平均每天有七分之一时间在上 b 站。</p>
+<p>如果自己掐表统计每一天在线时长，也是差不多这个占比。减少看的时间，应该做更多有意义的事</p>
+
+	]]></content>
+</entry><entry>
+	<title>[Apple] airpods 和 win11 的兼容性问题</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907261#reply1" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907261</id>
+	<published>2023-01-07T13:07:21Z</published>
+	<updated>2023-01-07T13:10:27Z</updated>
+	<author>
+		<name>kqq19930511</name>
+		<uri>https://www.v2ex.com/member/kqq19930511</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	<ul>
+<li>之前笔记本是 win10 系统，和 airpods 没有卡顿问题</li>
+<li>换成 win11 后，连接完 airpods 播放视频，中间暂停一会儿，然后再继续播放视频会出现声音延迟的情况，大概延迟 2-3 秒左右，有相同情况的人吗？</li>
+</ul>
+
+	]]></content>
+</entry><entry>
+	<title>[宽带症候群] 杭州电信 ipv6， tracert 二跳就丢包运营商问题吗</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907260#reply0" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907260</id>
+	<published>2023-01-07T13:07:17Z</published>
+	<updated>2023-01-07T13:07:17Z</updated>
+	<author>
+		<name>nocover</name>
+		<uri>https://www.v2ex.com/member/nocover</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	我接入移动一切正常；电信一年半前正常，现回家 v6 ping 不通，当地线务员不了解这方面的，我半年前反应过后台运维，至今没反应，我反复自己搞自己内网，假如不是我内网问题，直接投诉了吧，onu 桥接拨号最直接了吧...
+	]]></content>
+</entry><entry>
+	<title>[分享创造] Tailchat v1.4.0 已发布，欢迎试用</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907259#reply0" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907259</id>
+	<published>2023-01-07T13:00:49Z</published>
+	<updated>2023-01-07T12:59:49Z</updated>
+	<author>
+		<name>moonrailgun</name>
+		<uri>https://www.v2ex.com/member/moonrailgun</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	<p>经过几个月的努力，<code>Tailchat</code> 终于迎来了他的 <code>1.4.0</code> 版本。</p>
+<p>在本次重大更新中，<code>Tailchat</code> 弥补了在音视频通话上的重大缺失，引入了第三方声网的集成，允许通过插件的形式赋予群组音视频通话的能力。</p>
+<p>同时，声网作为老牌的音视频服务商，其稳定的基础建设与服务质量，以及每月免费的额度，对于大部分独立部署的个人用户来说已经是完全足够的了，不论是与朋友交流，还是一起游戏，<code>Tailchat</code> 与声网的组合都会是你最好的选择。</p>
+<p><img alt="" class="embedded_image" loading="lazy" referrerpolicy="no-referrer" rel="noreferrer" src="https://raw.githubusercontent.com/msgbyte/tailchat/master/website/blog/images/v1.4.0-agora.png"/></p>
+<p>关于想要自行部署声网插件的同学，可以查看这篇文档: <a href="https://tailchat.msgbyte.com/docs/meeting/agora" rel="nofollow">声网插件部署指南</a></p>
+<p>当然，对于想要完全独立部署的用户来说，可完全部署的音视频解决方案<code>tailchat-meeting</code>正在开发中，请务必期待一下。</p>
+<hr/>
+<p>除此之外，Tailchat 在 <code>1.4.0</code> 版本还修复了一堆 bug ，并增加了优化用户体验的一些小功能:</p>
+<ul>
+<li>增加 webview 的缓存，极大优化在切换 webview 时加载问题</li>
+<li>增加群组配置权限，增加群组成员隐私控制选项</li>
+<li>群组用户名隐藏唯一标识位</li>
+<li>增加成员管理踢出用户功能</li>
+<li>聊天记录滚动到底部</li>
+<li>优化<code>service-worker</code>的缓存策略，加快<code>Tailchat</code>访问速度</li>
+<li>修复低版本 mac/android 的兼容问题</li>
+<li>优化了功能引导，并增加了国际化翻译</li>
+<li>增加安装应用按钮</li>
+<li>增加 wormhole 插件用于文件传输</li>
+<li>markdown 渲染的图片允许被放大预览</li>
+</ul>
+<p>官方网站: <a href="https://tailchat.msgbyte.com/" rel="nofollow">https://tailchat.msgbyte.com/</a></p>
+
+	]]></content>
+</entry><entry>
+	<title>[程序员] 为什么 npm 包不要求把包作者也写到依赖中去？</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907258#reply3" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907258</id>
+	<published>2023-01-07T12:16:48Z</published>
+	<updated>2023-01-07T00:16:48Z</updated>
+	<author>
+		<name>zjsxwc</name>
+		<uri>https://www.v2ex.com/member/zjsxwc</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	<p>由帖子
+<a href="https://v2ex.com/t/906834?p=2#reply201" rel="nofollow">新的前端 npm 包投毒事件</a>
+想到为什么同样是包管理的 php composer 、java maven 都会要求同时写包依赖的 包作者 与 包名，唯独 js npm 只需要写包名，不需要写上包作者，这样当前端有相似包名时就容易被“投毒”。</p>
+<p><img alt="npmae91bd0b0d04570b.jpg" class="embedded_image" loading="lazy" referrerpolicy="no-referrer" rel="noreferrer" src="https://youjb.com/images/2023/01/07/npmae91bd0b0d04570b.jpg"/></p>
+<p><img alt="composer58d50f3aeb802727.jpg" class="embedded_image" loading="lazy" referrerpolicy="no-referrer" rel="noreferrer" src="https://youjb.com/images/2023/01/07/composer58d50f3aeb802727.jpg"/></p>
+<p><img alt="mvn023f3811d24e151a.jpg" class="embedded_image" loading="lazy" referrerpolicy="no-referrer" rel="noreferrer" src="https://youjb.com/images/2023/01/07/mvn023f3811d24e151a.jpg"/></p>
+
+	]]></content>
+</entry><entry>
+	<title>[电影] 请问还有哪些像终结者 2、黑客帝国这样好看的电影</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907256#reply12" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907256</id>
+	<published>2023-01-07T12:05:16Z</published>
+	<updated>2023-01-07T14:28:27Z</updated>
+	<author>
+		<name>wheeler</name>
+		<uri>https://www.v2ex.com/member/wheeler</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	<p>最好有公路追逐，情节紧张刺激。</p>
+<p>速度激情系列、疯狂的麦克斯我都看过了。</p>
+<p>谢谢！</p>
+
+	]]></content>
+</entry><entry>
+	<title>[数据库] 你们工作或者业余时候，有使用到 InfluxDB 的地方吗？</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907255#reply3" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907255</id>
+	<published>2023-01-07T12:01:54Z</published>
+	<updated>2023-01-07T15:49:28Z</updated>
+	<author>
+		<name>shilinlee</name>
+		<uri>https://www.v2ex.com/member/shilinlee</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	<p>看<a href="https://db-engines.com/en/ranking/time+series+dbms" rel="nofollow">DB-Engines Ranking of Time Series DBMS</a> 排名, InfluxDB 遥遥领先，但是好像集群版本没有开源，不知道有没有类似的的其他产品代替呢？最好能兼容 InfluxDB 。</p>
+
+	]]></content>
+</entry><entry>
+	<title>[问与答] 请教下各位，你们结婚后，还有异性朋友吗？</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907253#reply15" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907253</id>
+	<published>2023-01-07T11:55:53Z</published>
+	<updated>2023-01-07T15:19:06Z</updated>
+	<author>
+		<name>Crazy07</name>
+		<uri>https://www.v2ex.com/member/Crazy07</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	<p>我还没结婚，谈恋爱中，已经没有了联系的任何异性朋友...</p>
+<p>这应该是大多数吧？</p>
+
+	]]></content>
+</entry><entry>
+	<title>[分享发现] 一个 17 岁高中生开发的前端工具，极简又强大</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907252#reply0" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907252</id>
+	<published>2023-01-07T11:55:09Z</published>
+	<updated>2023-01-05T11:55:09Z</updated>
+	<author>
+		<name>vitovan</name>
+		<uri>https://www.v2ex.com/member/vitovan</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	Show HN: I spent 2 years building Tablane as a 17-year-old<br /><a target="_blank" href="https://news.ycombinator.com/item?id=34279062" rel="nofollow noopener">https://news.ycombinator.com/item?id=34279062</a><br /><br />Tablane is a workspace that adapts to your needs. It's as minimal or as powerful as you need it to be. <br /><a target="_blank" href="https://github.com/Tablane/tablane" rel="nofollow noopener">https://github.com/Tablane/tablane</a><br /><br /><a target="_blank" href="/i/Nng4EbUY.png" rel="nofollow noopener" target="_blank" title="在新窗口打开图片 Nng4EbUY.png"><img src="//i.v2ex.co/Nng4EbUY.png" class="embedded_image"></a><br /><br />不是我。
+	]]></content>
+</entry><entry>
+	<title>[macOS] 求问大佬有没有谁用 spyder 写 Python 的 T—T</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907251#reply0" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907251</id>
+	<published>2023-01-07T11:42:03Z</published>
+	<updated>2023-01-07T11:40:03Z</updated>
+	<author>
+		<name>MUMU2399</name>
+		<uri>https://www.v2ex.com/member/MUMU2399</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	<p>我的 spyder 重新安装后还是出现三个图标，但是实际只有一个有效，其余两个不知道是什么东东，如果关闭的话就一起全部关闭了呜呜呜呜
+<a href="https://raw.githubusercontent.com/Mu2399/personalimagehost/master/uPic/%E6%88%AA%E5%B1%8F" rel="nofollow">https://raw.githubusercontent.com/Mu2399/personalimagehost/master/uPic/截屏</a> 2023-01-07 19.34.15.png</p>
+
+	]]></content>
+</entry><entry>
+	<title>[问与答] 整天担心路由器被黑，怎么办？</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907250#reply35" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907250</id>
+	<published>2023-01-07T11:41:32Z</published>
+	<updated>2023-01-07T18:41:48Z</updated>
+	<author>
+		<name>kiari</name>
+		<uri>https://www.v2ex.com/member/kiari</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	<p>吓得我不敢用搜索引擎搜索资料，怕上到了一些专门黑路由器的网站，电脑中毒还能重装系统，路由器中招好像没什么好办法.</p>
+<p>有没有朋友能指点下，该咋办</p>
+
+	]]></content>
+</entry><entry>
+	<title>[NGINX] 使用相对地址软连接到/etc/nginx/site-enabled/xxx.conf 无法通过测试</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907249#reply5" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907249</id>
+	<published>2023-01-07T11:24:11Z</published>
+	<updated>2023-01-05T12:08:47Z</updated>
+	<author>
+		<name>albert0yyyy</name>
+		<uri>https://www.v2ex.com/member/albert0yyyy</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	<p>比如当前目录有 nginx 配置文件</p>
+<p>t.conf</p>
+<p>我使用：</p>
+<p>ln -s t.conf /etc/nginx/site-enabled/xxx.conf</p>
+<p>nginx -t</p>
+<p>报错 1：Too many levels of symbolic links</p>
+<p>报错 2：No such file or directory</p>
+<p>使用绝对地址或者硬连接就不报错，真心求教</p>
+
+	]]></content>
+</entry><entry>
+	<title>[生活] 对于包饺子这件事你怎么看？</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907248#reply35" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907248</id>
+	<published>2023-01-07T11:21:16Z</published>
+	<updated>2023-01-07T16:29:41Z</updated>
+	<author>
+		<name>iovekkk</name>
+		<uri>https://www.v2ex.com/member/iovekkk</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	我说的是买肉买菜剁馅和面擀饺子皮最后再包这一整个过程都自己做<br />其实就是从小到大一直到现在每年过年我父母都会做的事情<br />他们会花整整一下午的时间包下够未来全家吃三到五天的分量<br />我甚至怀疑他们从来没有买过速冻水饺<br />然而我却从来没有独自做过这样的事情<br />所以我先说下我的观点，我大概永远不会做这样的事情，因为太浪费时间了<br /><br />之所以想到这件事，是因为看到一个东北妹子 up 主发的一个视频<br />她下午四点多跟男友出门，然后不知道吃什么决定买点肉回家包饺子<br />最后等两人吃完饺子已经晚上 11 点多了<br />我觉得实在是太费时间了<br /><br />有人说速冻饺子不如手工包的好吃<br />但其实也有好吃的，只不过要贵不少<br />也会有人说超市里也卖剁好的馅和饺子皮<br />说实话这个方案我觉得是可以接受的<br />这个可以在我觉得还可以接受的时间范围内做出一顿饺子
+	]]></content>
+</entry><entry>
+	<title>[宽带症候群] cf fq 问题</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907247#reply0" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907247</id>
+	<published>2023-01-07T11:01:38Z</published>
+	<updated>2023-01-07T07:00:38Z</updated>
+	<author>
+		<name>59973</name>
+		<uri>https://www.v2ex.com/member/59973</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	现在是不是有这种 fq 的方式如 客户端通过域名访问 cf 的 cdn 通过控制面板放行并转发 fq 需要的 udp 或 tcp 流量到国内容易控制的一个动态地址上连接成功然后再原路返回利用 cf 的 ip fq 。 或者说这种方式可行吗？
+	]]></content>
+</entry><entry>
+	<title>[生活] 面对即将工作，感到很迷茫</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907245#reply9" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907245</id>
+	<published>2023-01-07T10:49:34Z</published>
+	<updated>2023-01-07T12:10:01Z</updated>
+	<author>
+		<name>Ayaya233</name>
+		<uri>https://www.v2ex.com/member/Ayaya233</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	因为高中没有好好学习，沉迷游戏，导致高考只考了一个末流大专，选择了计算机专业。<br />大专三年其实并没有学到什么东西，学校的专业课程很多，也很杂，vue,nodejs,javaee,spring,mysql 等等，前端后端都有涉及，但也基本上处于一个可能入门都还没入门的阶段。<br />这三年过的其实挺浑浑噩噩的，<br />大一学的都是 HTML,JavaScript 和附带的框架啥的，本身我对前端不怎么感兴趣，而切我没有什么审美能力，做不出好看的网页，所以学的挺糟糕的，而且 JavaScript 那混乱语法以及各种摸不着头脑的返回值让我深恶痛绝，所以我的前端水平至今仍属于有但不多的<br />Java 是大二上半年的课程，因为我在高中阶段就已经自学过一遍的，而且当时沉迷 Android ，所以前期的 Java 课程我基本都翘了，呆在寝室里自学 Android 和 Kotlin ，对着 Android studio 瞎折腾，最终也没折腾出啥有用的东西，对一些自己感兴趣的网站写过几个客户端，但也就处于堪堪能用的阶段，时间长了失去兴趣，也懒得去完善了。<br />到了大二下半学期，学校开始教 JavaEE ，spring 全家桶，这个阶段算是我那三年中比较清醒的时间段，对于教的那些东西，也有全部去实操一遍，自己也写了一个极其极其简陋的博客后台<br />到了大三，其实就没什么课了，vue ，node 这些课我基本上都没怎么听，那时候我正纠结于是专升本还是直接就业，后来，因为对就业的恐惧，我选择了前者。<br />22 年 9 月，我专升本''上岸''。也不能叫做上岸，因为我对自己的实力非常不自信，所以只选择了一所极其简单的民办本科。后来结果出来时发现其实就算报个公办的问题也不大（总之就是非常后悔<br />如今 2023 了，我又要面对毕业了，在学校学习的时光也只剩半年了，回首几年大学时光，自己好像并没有学到什么，也不知道到时候该怎么就业，怀疑自己有没有能力从事这方面的工作。现在就是非常迷茫，不知道未来的路在何方。
+	]]></content>
+</entry><entry>
+	<title>[英雄联盟] 2023 年 LPL 比赛日历文件已更新</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907244#reply4" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907244</id>
+	<published>2023-01-07T10:45:37Z</published>
+	<updated>2023-01-07T14:39:18Z</updated>
+	<author>
+		<name>ChengLuffy</name>
+		<uri>https://www.v2ex.com/member/ChengLuffy</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	<p>前情提要 <a href="https://v2ex.com/t/683659" rel="nofollow">https://v2ex.com/t/683659</a> <a href="https://www.v2ex.com/t/827250" rel="nofollow">https://www.v2ex.com/t/827250</a></p>
+<p>iPhone 用户可以在 设置 -&gt; 密码和账户 -&gt; 添加账户 -&gt; 其他 -&gt; 添加已订阅的日历</p>
+<p>iOS 14 及以上在 设置 -&gt; 日历 -&gt; 账户...，或者在 日历应用 -&gt; 底部日历按钮 -&gt; 添加日历 -&gt; 添加订阅日历</p>
+<p>Github 订阅源 <a href="https://raw.githubusercontent.com/ChengLuffy/lpl.ics/master/LPL2023.ics" rel="nofollow">https://raw.githubusercontent.com/ChengLuffy/lpl.ics/master/LPL2023.ics</a></p>
+<p>加入了日历提醒，会在比赛预订开始时间 5 分钟之前提醒，可以在 日历应用点击下面的日历，点击该订阅后的叹号，把日程提醒关了就不会有提醒。</p>
+<p>可以用作一个简单的数据查询当年战绩使用使用。</p>
+<p><a href="http://raw.githubusercontent.com" rel="nofollow">raw.githubusercontent.com</a> 访问受限的用户可以尝试寻找一些免费 cdn 加速服务，例如将 <a href="http://raw.githubusercontent.com" rel="nofollow">raw.githubusercontent.com</a> 更改为 <a href="http://raw.staticdn.net" rel="nofollow">raw.staticdn.net</a></p>
+<p>图片为旧图，缝缝补补又一年</p>
+<p><img alt="" class="embedded_image" loading="lazy" referrerpolicy="no-referrer" rel="noreferrer" src="https://user-images.githubusercontent.com/15682381/85242553-ea188100-b471-11ea-9d15-2bea61354a8f.PNG"/></p>
+
+	]]></content>
+</entry><entry>
+	<title>[Apple] 在 macos 的 books 上, 丢了阅读笔记和标记</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907243#reply4" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907243</id>
+	<published>2023-01-07T10:34:28Z</published>
+	<updated>2023-01-07T13:49:04Z</updated>
+	<author>
+		<name>ooToo</name>
+		<uri>https://www.v2ex.com/member/ooToo</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	火大, 垃圾 Apple <br />幸好丢的是最近读的一本书的最近几章, 不是全部 <br />之前看到有人丢了 notes
+	]]></content>
+</entry><entry>
+	<title>[问与答] 手机定位漂移，是哪个环节出了问题</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907242#reply13" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907242</id>
+	<published>2023-01-07T10:33:26Z</published>
+	<updated>2023-01-07T16:08:48Z</updated>
+	<author>
+		<name>hadooow</name>
+		<uri>https://www.v2ex.com/member/hadooow</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	<p>进入家所在的小区，手机定位莫名就跑到了十几公里外的一个地方，估计是手机连上基站就被带偏了？
+家里所有人能打电话的手机定位全都是偏的，地图、外卖软件、打车软件、wx 定位也是偏的，应该就是系统的定位漂移了</p>
+<p>家里人有移动、电信两家的号码，定位都是一样的位置，应该和运营商没啥关系</p>
+<p>定位问题导致智能家居设备的地理围栏失效了，就很头大</p>
+<p>求助这种问题应该找哪类相关部门反馈呀？</p>
+
+	]]></content>
+</entry><entry>
+	<title>[分享发现] 我老婆健身环通关了</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907240#reply23" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907240</id>
+	<published>2023-01-07T10:10:31Z</published>
+	<updated>2023-01-07T18:54:28Z</updated>
+	<author>
+		<name>xd880616</name>
+		<uri>https://www.v2ex.com/member/xd880616</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	<p>终于，7 个月后，健身环通关了。</p>
+<p>虽然她一斤肉也没有掉，但是也值得小小纪念一下。</p>
+<p>总共跑动了 87 公里多，升级到 190 级，好像是到了 world 22 还是 23 ，不太记得了。</p>
+<p>准备继续向 extra world 出发。</p>
+<p>我的 profile 仍停留在开机的第一天...</p>
+<p>其实后面的动作和强度都挺难的，还得费心思榨蜜桃汁要不然打 boss 很容易死。</p>
+<p>像射箭、深蹲、挤压健身环等动作，强度和频次上去以后，真的超级累，特别是动作要规范。偶尔我会帮她偷偷懒哈哈哈</p>
+
+	]]></content>
+</entry><entry>
+	<title>[问与答] fdisk 可以对系统盘进行分区吗？</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907238#reply8" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907238</id>
+	<published>2023-01-07T09:56:00Z</published>
+	<updated>2023-01-07T15:33:05Z</updated>
+	<author>
+		<name>tanglu</name>
+		<uri>https://www.v2ex.com/member/tanglu</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	<p>我尝试用 fdisk 给 /dev/vda 再分个 8G 大小的 vdb1,但是失败了(直接失联了)</p>
+<p>我这样做的目的是将 vdb1 分出来，然后与 2.8G sda 挂在盘 用 LVM 进行合并形成一个 10.8G 容量的文件夹</p>
+<p>感谢各位大佬</p>
+<p><img alt="" class="embedded_image" loading="lazy" referrerpolicy="no-referrer" rel="noreferrer" src="https://i2.100024.xyz/2023/01/07/t14f59.webp"/></p>
+
+	]]></content>
+</entry><entry>
+	<title>[分享发现] Porkbun :免费领取 1 年域名信息</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907237#reply1" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907237</id>
+	<published>2023-01-07T09:48:52Z</published>
+	<updated>2023-01-07T09:47:52Z</updated>
+	<author>
+		<name>ggvm</name>
+		<uri>https://www.v2ex.com/member/ggvm</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	<p>Porkbun :免费领取 1 年域名信息</p>
+<p>P 站新客专享，每人限领一个规定范围内的域名使用。目前可领取 design /xyz / ink / wiki /gay 域名
+折扣码
+design UPLABS21B
+.XyZ XYZFREE22
+.ink FREEINKWIKI
+.wiki FREEINKWIKI
+GAYPRIDE22gay</p>
+<p>不知道 porkbun 网址的，访问博客  <a href="https://zhuji188.com/1049.html" rel="nofollow">https://zhuji188.com/1049.html</a> 看网址和注意事项。</p>
+
+	]]></content>
+</entry><entry>
+	<title>[iPhone] 求个快捷指令，批量删除文件夹中带空格的文件</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907235#reply0" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907235</id>
+	<published>2023-01-07T09:23:06Z</published>
+	<updated>2023-01-06T17:21:06Z</updated>
+	<author>
+		<name>fengchen0vr</name>
+		<uri>https://www.v2ex.com/member/fengchen0vr</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	<p>因为经常把图片文件创建副本修改后使用，这样图片文件会有好多个不用的副本，<br/>
+想批量把这些副本文件删掉</p>
+
+	]]></content>
+</entry><entry>
+	<title>[MacBook] 现在如果花 7558 块买官翻 MBA-M1 是否合适</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907234#reply9" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907234</id>
+	<published>2023-01-07T09:17:40Z</published>
+	<updated>2023-01-07T11:34:35Z</updated>
+	<author>
+		<name>staycool</name>
+		<uri>https://www.v2ex.com/member/staycool</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	<p>配置：MPA M1 16g 256 </p>
+<p>现在官翻价格是 8069 ，员工优惠 85 折，淘宝问了个服务费 700</p>
+<p>8069*0.85+700=7558.65</p>
+
+	]]></content>
+</entry><entry>
+	<title>[微软] 定向收微软邮箱 z@outlook.com，预算 6k+</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907233#reply5" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907233</id>
+	<published>2023-01-07T09:16:23Z</published>
+	<updated>2023-01-07T12:19:34Z</updated>
+	<author>
+		<name>zhoujinjianx</name>
+		<uri>https://www.v2ex.com/member/zhoujinjianx</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	<p>欢迎老板联系：备注账号和价钱。</p>
+<p>wei/ 信：zhoujinjianxx</p>
+<p>欢迎各位老板联系 Q：2025913394 。备注 V2EX 。</p>
+<p>补充内容 (2023-1-7 15:24):</p>
+<p>欢迎老板，价钱好谈</p>
+
+	]]></content>
+</entry><entry>
+	<title>[Android] 魔趣开发者宣布魔趣项目结束。</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907231#reply48" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907231</id>
+	<published>2023-01-07T09:00:54Z</published>
+	<updated>2023-01-07T15:31:44Z</updated>
+	<author>
+		<name>LxnChan</name>
+		<uri>https://www.v2ex.com/member/LxnChan</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	<p>目前官网主页还能打开，下载服务器直接 524 了。</p>
+<p><img alt="" class="embedded_image" loading="lazy" referrerpolicy="no-referrer" rel="noreferrer" src="https://i.imgur.com/XRIOUK7.jpg"/></p>
+
+	]]></content>
+</entry><entry>
+	<title>[程序员] 被刀了</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907230#reply15" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907230</id>
+	<published>2023-01-07T08:59:00Z</published>
+	<updated>2023-01-07T12:43:24Z</updated>
+	<author>
+		<name>helloword123</name>
+		<uri>https://www.v2ex.com/member/helloword123</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	<p>12 月 8 号谈被裁。12 月 30 号最后一天，组里实在没人了，现在在家把病养好了，投了很多，不见回复，之前的上一家的同事，昨晚发盆友圈，也被裁了，今年看来很难啊</p>
+
+	]]></content>
+</entry><entry>
+	<title>[问与答] 请问有没有键程短，手感软的键盘</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907229#reply25" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907229</id>
+	<published>2023-01-07T08:52:51Z</published>
+	<updated>2023-01-07T19:38:51Z</updated>
+	<author>
+		<name>v2e0xAdmin2</name>
+		<uri>https://www.v2ex.com/member/v2e0xAdmin2</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	事情是这样的，op 是一名程序员，长期敲击键盘，手指很疼，导致现在都不想敲代码了，但是我本身是很喜欢写代码的。<br /><br />我之前一直在使用红轴机械键盘，手指疼痛后，我换成了静电容的，但还是没有缓解，后来又买了人体工程学的键盘，类似微软的那种，还是不行。<br /><br />昨天，我突然发现 thinkpad T480 笔记本的键盘很软很舒适，然后我就闲鱼上买了一个 thinkpad 的键盘，但是这个独立的键盘是没有笔记本的键盘手感那么软的。<br /><br />然后我在闲鱼上搜了 480 笔记本拆卸下来的键盘，但是没有搜到。<br /><br />所以，想在这里请教各位，有没有那种 键程短、手感软 的键盘推荐下，万分感激！<br /><br />ps：我有一台 2020 年的 touch bar 的 13 寸 MacBook pro ，给我的感觉是手感太硬了。
+	]]></content>
+</entry><entry>
+	<title>[Python] chatGPT 没有回答完就结束了，怎么让他继续回答？？</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907228#reply7" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907228</id>
+	<published>2023-01-07T08:50:11Z</published>
+	<updated>2023-01-07T15:35:25Z</updated>
+	<author>
+		<name>iPhonePKAndroid</name>
+		<uri>https://www.v2ex.com/member/iPhonePKAndroid</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	<p>这是图片地址，咋弄？
+<a href="http://123.129.217.85:8080/LgL3UN/%E6%88%AA%E5%B1%8F2023-01-07%2016.49.06.png" rel="nofollow">http://123.129.217.85:8080/LgL3UN/%E6%88%AA%E5%B1%8F2023-01-07%2016.49.06.png</a></p>
+
+	]]></content>
+</entry><entry>
+	<title>[问与答] 你们如何看国外媒体的新闻</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907227#reply24" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907227</id>
+	<published>2023-01-07T08:47:47Z</published>
+	<updated>2023-01-07T16:10:20Z</updated>
+	<author>
+		<name>movq</name>
+		<uri>https://www.v2ex.com/member/movq</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	<p>之前一直用 twitter 看新闻，最近感觉 twitter 体验越来越差要倒闭了，时间线乱七八糟，看新闻的目的都达不到了</p>
+<p>如果单独下某家新闻的 app ，比如 BBC news app ，感觉这样太偏颇了，容易被某个媒体影响，得多看几家媒体才行，所以需要一个整合方式</p>
+<p>想改用 apple news 或者用 rss 订阅、telegram channel 来看新闻，不知道怎样体验好</p>
+<p>rss 订阅一些主流新闻媒体需要收费吗？</p>
+<p>rss 感觉有个缺点就是没评论区</p>
+<p>telegram channel 貌似有些媒体没有官方号，比如 reuters</p>
+
+	]]></content>
+</entry><entry>
+	<title>[问与答] 求助 如何进行组网</title>
+	<link rel="alternate" type="text/html" href="https://www.v2ex.com/t/907226#reply10" />
+	<id>tag:www.v2ex.com,2023-01-07:/t/907226</id>
+	<published>2023-01-07T08:45:58Z</published>
+	<updated>2023-01-07T11:26:08Z</updated>
+	<author>
+		<name>blankmiss</name>
+		<uri>https://www.v2ex.com/member/blankmiss</uri>
+	</author>
+	<content type="html" xml:base="https://www.v2ex.com/" xml:lang="en"><![CDATA[
+	<p><img alt="image.png" class="embedded_image" loading="lazy" referrerpolicy="no-referrer" rel="noreferrer" src="https://img.dnsl.in/images/2023/01/07/image.png"/></p>
+<blockquote>
+<p>交换机是普通的交换机没什么其他功能就一个扩展网口（很垃圾的 8 口，咸鱼买的</p>
+</blockquote>
+<blockquote>
+<p>WIFI 都用的原生电信的系统 没有刷机（也不知道能不能刷</p>
+</blockquote>
+<p><img alt="U1XXV8Q3J7RJZT2HO.jpg" class="embedded_image" loading="lazy" referrerpolicy="no-referrer" rel="noreferrer" src="https://img.dnsl.in/images/2023/01/07/U1XXV8Q3J7RJZT2HO.jpg"/></p>
+<p><img alt="HZ_GNXT1ZFRLX79XOD.jpg" class="embedded_image" loading="lazy" referrerpolicy="no-referrer" rel="noreferrer" src="https://img.dnsl.in/images/2023/01/07/HZ_GNXT1ZFRLX79XOD.jpg"/></p>
+
+	]]></content>
+</entry>
+</feed>

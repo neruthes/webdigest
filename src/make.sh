@@ -11,7 +11,7 @@ ln -svf webdb/$DATEMARK/final today
 
 mkdir -p issue/${DATEMARK:0:4}
 
-latex_file_path="issue/${DATEMARK:0:4}/issue-$DATEMARK.tex"
+latex_file_path="issue/${DATEMARK:0:4}/WebDigest-$DATEMARK.tex"
 
 
 

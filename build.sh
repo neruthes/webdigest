@@ -10,6 +10,13 @@ fi
 
 
 case $1 in
+    ISSUES.md)
+        echo -e "# List of Issues\n\n" > ISSUES.md
+        for i in $(find _dist -name '*.pdf' | sort -r); do
+            echo "- [$(cut -d/ -f4 <<< $i)](https://webdigest.pages.dev/$i)" >> ISSUES.md
+        done
+        cat ISSUES.md
+        ;;
     today)
         source ~/.bashrc
         s5pon h
@@ -33,6 +40,7 @@ case $1 in
         # echo "actual rangedfn=$rangedfn"
         ;;
     wwwdist*)
+        bash $0 ISSUES.md
         find _dist -name '*.pdf' | sort -r > wwwsrc/pdflist.txt
         rsync -av --delete wwwsrc/ wwwdist/
         rsync -av --delete _dist/ wwwdist/_dist/

@@ -9,3 +9,7 @@ https://webdigest.pages.dev/
 ## Telegram Channel
 
 https://t.me/webdigestchannel
+
+## List of Issues
+
+https://github.com/neruthes/webdigest/blob/master/ISSUES.md

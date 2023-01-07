@@ -10,6 +10,21 @@ fi
 
 
 case $1 in
+    tag)
+        tag_suffix="$(git tag | grep v$(date +%Y%m) | wc -l)"
+        tagname="v$(date +%Y%m).$tag_suffix"
+        echo git tag $tagname
+        echo git push origin $tagname
+        echo "https://github.com/neruthes/webdigest/releases/new"
+        bash $0 count
+        ;;
+    count)
+        echo "Snapshot of PDF artifacts, total count: $(
+            find _dist -name '*.pdf' | wc -l
+        ), up to $(
+            find _dist -name '*.pdf' | sort -r | head -n1 | cut -d/ -f4 | cut -d- -f2 | cut -d. -f1
+        )"
+        ;;
     ISSUES.md)
         echo -e "# List of Issues\n\n" > ISSUES.md
         for i in $(find _dist -name '*.pdf' | sort -r); do
@@ -46,7 +61,7 @@ case $1 in
         rsync -av --delete _dist/ wwwdist/_dist/
         ;;
     pkgdist*)
-        tar -vcf pkgdist/pdfdist.tar _dist/
+        tar -vcf pkgdist/pdfdist.tar --exclude '_dist/issue/*/*.jpg' _dist/
         tar -vcf pkgdist/wwwdist.tar wwwdist/
         cd wwwdist
         zip -9vr ../pkgdist/wwwdist .

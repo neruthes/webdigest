@@ -24,5 +24,6 @@ echo "\\coverpic{$item_url}{$author_name}" > webdb/$DATEMARK/final/coverpic.tex
 
 
 ### Genric sources
-node src/processors/hackernews.js
-node src/processors/v2ex.js
+for js in src/data/*.js; do
+    node $js
+done

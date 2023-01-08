@@ -68,7 +68,7 @@ case $1 in
         ;;
     deploy)
         shareDirToNasPublic
-        wrangler pages publish wwwdist --project-name=webdigest --commit-dirty=true
+        wrangler pages publish wwwdist --project-name=webdigest --commit-dirty=true --branch=main
         for i in pkgdist/*; do
             cfoss $i
         done

@@ -51,12 +51,14 @@ case $1 in
         pdftoimg "$rangedfn"
         imgfn="$rangedfn.jpg"
         mv "$imgfn" "$pdffn.jpg"
+        cfoss "$pdffn.jpg"
         # echo "wanted rangedfn=/tmp/http/pdfrange/issue-20230107_page1-1.pdf"
         # echo "actual rangedfn=$rangedfn"
         ;;
     wwwdist*)
         bash $0 ISSUES.md
         find _dist -name '*.pdf' | sort -r > wwwsrc/pdflist.txt
+        grep oss-r2 .osslist | grep WebDigest | sed 's/oss-r2.neruthes.xyz/pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/g' | sort -r > wwwsrc/pdflist-oss.txt
         rsync -av --delete wwwsrc/ wwwdist/
         rsync -av --delete _dist/ wwwdist/_dist/
         ;;

@@ -123,6 +123,39 @@
                 </div>
                 <script>
                     let xhr = new XMLHttpRequest();
+                    xhr.open('GET', './pdflist-oss.txt');
+                    xhr.onload = function () {
+                        let txt = xhr.responseText;
+                        window.pdflist = txt.trim().split('\n');
+                        window.osskvmap = new Map();
+                        window.pdflist.map(function (item) {
+                            kv = item.split(' ');
+                            osskvmap[kv[0]] = kv[1];
+                        });
+                        console.log(pdflist);
+                        let latestIssueId = pdflist[1].match(/\d{8}/)[0];
+                        document.querySelector('.current-issue').innerHTML = `<div>
+                            <div>
+                                <a href="${pdflist[1].split(' ')[1]}">
+                                    <img src="${pdflist[0].split(' ')[1]}">
+                                </a>
+                            </div>
+                        </div>`;
+                        document.querySelector('.issues-list').innerHTML = pdflist.map(function (item, i) {
+                            if (item.indexOf('.jpg ') !== -1) {
+                                // Skip jpg artifacts
+                                return '';
+                            };
+                            const issueId = item.match(/\d{8}/)[0];
+                            return `<a href="${item.split(' ')[1]}" class="issue-link">
+                                <div>${issueId.replace(/(\d{6})/, '$1-').replace(/(\d{4})/, '$1-') }</div>
+                            </a>`
+                        }).join('');
+                    };
+                    xhr.send();
+                </script>
+                <!-- <script>
+                    let xhr = new XMLHttpRequest();
                     xhr.open('GET', './pdflist.txt');
                     xhr.onload = function () {
                         let txt = xhr.responseText;
@@ -136,7 +169,7 @@
                                 </a>
                             </div>
                             <div>
-                                <!-- <a href="${pdflist[0]}" class="btn-read-current">Read ${latestIssueId}</a> -->
+                                <a href="${pdflist[0]}" class="btn-read-current">Read ${latestIssueId}</a>
                             </div>
                         </div>`;
                         document.querySelector('.issues-list').innerHTML = pdflist.map(function (item) {
@@ -147,7 +180,7 @@
                         }).join('');
                     };
                     xhr.send();
-                </script>
+                </script> -->
             </div>
         </div>
         <div class="bigpart">

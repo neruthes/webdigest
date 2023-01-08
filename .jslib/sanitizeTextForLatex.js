@@ -9,7 +9,7 @@ module.exports = {
         tmp = tmp.replace(/’/g, `'`);
         tmp = tmp.replace(/\$/g, `\\$`);
         tmp = tmp.replace(/%/g, `\\%`);
-        tmp = tmp.replace(/\#/g, `\\%`);
+        tmp = tmp.replace(/\#/g, `\\#`);
         return tmp;
     }
 }

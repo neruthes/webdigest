@@ -62,18 +62,21 @@ case $1 in
         rsync -av --delete wwwsrc/ wwwdist/
         # rsync -av --delete _dist/ wwwdist/_dist/
         ;;
-    pkgdist*)
+    pkgdist | pkgdist/ )
         tar -vcf pkgdist/pdfdist.tar --exclude '_dist/issue/*/*.jpg' _dist/
         tar -vcf pkgdist/wwwdist.tar wwwdist/
         cd wwwdist
         zip -9vr ../pkgdist/wwwdist .
         ;;
+    pkgdist/*.*)
+        cfoss $1
+        ;;
     deploy)
         shareDirToNasPublic
         wrangler pages publish wwwdist --project-name=webdigest --commit-dirty=true --branch=main
-        for i in pkgdist/*; do
-            cfoss $i
-        done
+        # for i in pkgdist/*; do
+        #     cfoss $i
+        # done
         ;;
     '')
         bash $0 wwwdist pkgdist deploy

@@ -1,7 +1,7 @@
 \documentclass[11pt,a4paper]{article}
 \usepackage[textwidth=37em,vmargin=30mm]{geometry}
 \usepackage{calc,xunicode,amsmath,amssymb,paralist,enumitem,tabu,booktabs,datetime2,xeCJK,xeCJKfntef,listings}
-\usepackage{tocloft,fancyhdr,tcolorbox,xcolor,graphicx,eso-pic}
+\usepackage{tocloft,fancyhdr,tcolorbox,xcolor,graphicx,eso-pic,xltxtra,xelatexemoji}
 
 \usepackage[hidelinks]{hyperref}
 \hypersetup{
@@ -19,9 +19,9 @@
 \XeTeXlinebreakskip = 0pt
 
 
-\setmainfont[Numbers=Lining]{Brygada 1918}
-\setromanfont[Numbers=Lining]{Brygada 1918}
-\setsansfont[Numbers=Lining]{IBM Plex Sans}
+\setmainfont{Brygada 1918}
+\setromanfont{Brygada 1918}
+\setsansfont{IBM Plex Sans}
 \setmonofont{JetBrains Mono NL}
 \setCJKmainfont{Noto Serif CJK SC}
 \setCJKromanfont{Noto Serif CJK SC}
@@ -78,6 +78,9 @@
     \end{titlepage}
     % \restoregeometry
 }
+\newcommand{\simplehref}[1]{%
+    \textcolor{blue!80!green}{\href{#1}{#1}}%
+}
 \renewcommand{\contentsname}{\center\Huge\sffamily\bfseries Contents\par\vskip 20pt}
 \newcounter{ipartcounter}
 \setcounter{ipartcounter}{0}
@@ -100,7 +103,7 @@
     \parbox{\linewidth}{
         \entrytitlefont#1\par\vskip 5pt
         \footnotesize\ttfamily\mdseries
-        \href{#2}{#2}\par
+        \simplehref{#2}\par
     }\vskip 11pt
 }
 \newcommand{\entryitemGithub}[3]{
@@ -108,7 +111,7 @@
     \parbox{\linewidth}{
         \entrytitlefont#1\par\vskip 5pt
         \footnotesize\ttfamily\mdseries
-        \href{#2}{#2}\par\vskip 5pt
+        \simplehref{#2}\par\vskip 5pt
         \small\rmfamily\mdseries#3
     }\vskip 11pt
 }
@@ -117,7 +120,7 @@
     \parbox{\linewidth}{
         \entrytitlefont#1\par\vskip 5pt
         \footnotesize\ttfamily\mdseries
-        \href{#2}{#2}\par\vskip 5pt
+        \simplehref{#2}\par\vskip 5pt
         \small\rmfamily\mdseries#3
     }\vskip 11pt
 }
@@ -126,7 +129,7 @@
     \parbox{\linewidth}{
         \entrytitlefont#1\par\vskip 5pt
         \footnotesize\ttfamily\mdseries
-        \href{#3}{#3}\par
+        \simplehref{#3}\par
         \textcolor{black!50}{\href{#2}{#2}}\par
     }\vskip 11pt
 }

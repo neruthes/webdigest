@@ -6,7 +6,7 @@ source .localenv
 
 
 [[ -e today ]] && rm today
-ln -svf webdb/$DATEMARK/final today
+ln -svf $DATADIR/final today
 
 
 mkdir -p issue/${DATEMARK:0:4}

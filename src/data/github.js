@@ -7,7 +7,7 @@ let parser = new Parser();
 
 
 (async () => {
-    let feed = await parser.parseString(fs.readFileSync(`webdb/${process.env.DATEMARK}/github/github.xml`));
+    let feed = await parser.parseString(fs.readFileSync(`${process.env.DATADIR}/github/github.xml`));
     
     const outputLatex = feed.items.map(item => {
         const sanitizedContent = sh(`pandoc -f html -t latex`, { input: item.content }).toString().trim().split('\n').slice(1).join('\n');

@@ -7,14 +7,15 @@ let parser = new Parser();
 
 
 (async () => {
-    let feed = await parser.parseString(fs.readFileSync(`webdb/${process.env.DATEMARK}/ap/ap.xml`));
+    let feed = await parser.parseString(fs.readFileSync(`${process.env.DATADIR}/ap/ap.xml`));
     
     const outputLatex = feed.items.map(item => {
         const sanitizedContent = sh(`pandoc -f html -t latex`, {
             input: item.contentSnippet
-        }).toString().replace(/\n/g, ' ').trim().slice(0, 220).replace(/[\-\s\,\.\(\)]*?[\w\,]+?$/, '...');
+        }).toString().replace(/\n/g, ' ').trim().slice(0, 240).replace(/[^\w]*$/, '').replace(/[\\\-\s\,\.\(\)]*?[\w\,]+?$/, '...');
         // console.log(sanitizedContent)
-        return sanitizeTextForLatex(`\\entryitemAp{\\hskip 0pt{}${item.title}}{${item.link.replace(/\#.+$/, '')}}`) + `{${sanitizedContent}}`;
+        const shorturl = 'https://apnews.com/article/' + item.link.match(/\w+$/)[0];
+        return sanitizeTextForLatex(`\\entryitemAp{\\hskip 0pt{}${item.title}}{${shorturl}}`) + `{${sanitizedContent}}`;
     }).join('\n\n');
 
     // console.log(feed.items[0]);

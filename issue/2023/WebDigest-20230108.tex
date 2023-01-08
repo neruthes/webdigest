@@ -77,7 +77,7 @@
     % \vskip 10pt
     % \clearpage
 }
-\renewcommand{\contentsname}{\Huge\sffamily\bfseries Contents\par\vskip 20pt}
+\renewcommand{\contentsname}{\center\Huge\sffamily\bfseries Contents\par\vskip 20pt}
 \newcounter{ipartcounter}
 \setcounter{ipartcounter}{0}
 \newcommand{\ipart}[1]{
@@ -93,21 +93,40 @@
     \end{center}
     \vskip 20pt
 }
-\newcommand{\entryitemHackernews}[3]{
-    % argv: title, hnurl, rawurl
-    \parbox{\linewidth}{
-        \Large\rmfamily\bfseries#1\par\vskip 5pt
-        \footnotesize\ttfamily\mdseries
-        \href{#3}{#3}\par
-        \textcolor{black!50}{\href{#2}{#2}}\par
-    }\vskip 11pt
-}
+\newcommand{\entrytitlefont}[0]{\Large\sffamily\bfseries}
 \newcommand{\entryitemGeneric}[2]{
     % argv: title, url
     \parbox{\linewidth}{
-        \Large\rmfamily\bfseries#1\par\vskip 5pt
+        \entrytitlefont#1\par\vskip 5pt
         \footnotesize\ttfamily\mdseries
         \href{#2}{#2}\par
+    }\vskip 11pt
+}
+\newcommand{\entryitemGithub}[3]{
+    % argv: title, url, desc
+    \parbox{\linewidth}{
+        \entrytitlefont#1\par\vskip 5pt
+        \footnotesize\ttfamily\mdseries
+        \href{#2}{#2}\par\vskip 5pt
+        \small\rmfamily\mdseries#3
+    }\vskip 11pt
+}
+\newcommand{\entryitemAp}[3]{
+    % argv: title, url, desc
+    \parbox{\linewidth}{
+        \entrytitlefont#1\par\vskip 5pt
+        \footnotesize\ttfamily\mdseries
+        \href{#2}{#2}\par\vskip 5pt
+        \small\rmfamily\mdseries#3
+    }\vskip 11pt
+}
+\newcommand{\entryitemHackernews}[3]{
+    % argv: title, hnurl, rawurl
+    \parbox{\linewidth}{
+        \entrytitlefont#1\par\vskip 5pt
+        \footnotesize\ttfamily\mdseries
+        \href{#3}{#3}\par
+        \textcolor{black!50}{\href{#2}{#2}}\par
     }\vskip 11pt
 }
 
@@ -126,19 +145,25 @@
 
 
 \ipart{Hacker News}
-\input{today/hackernews.tex}
+\input{./webdb/20230108/final/hackernews.tex}
 
 \ipart{V2EX}
-\input{today/v2ex.tex}
+\input{./webdb/20230108/final/v2ex.tex}
 
 \ipart{Solidot}
-\input{today/solidot.tex}
+\input{./webdb/20230108/final/solidot.tex}
 
 \ipart{联合早报}
-\input{today/zaobao.tex}
+\input{./webdb/20230108/final/zaobao.tex}
+
+\ipart{AP News}
+\input{./webdb/20230108/final/ap.tex}
+
+\ipart{GitHub}
+\input{./webdb/20230108/final/github.tex}
 
 \ipart{Dribbble}
-\input{today/dribbble.tex}
+\input{./webdb/20230108/final/dribbble.tex}
 
 
 

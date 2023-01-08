@@ -25,5 +25,6 @@ echo "\\coverpic{$item_url}{$author_name}" > webdb/$DATEMARK/final/coverpic.tex
 
 ### Genric sources
 for js in src/data/*.js; do
+    echo "[INFO] Working on '$js'..."
     node $js
 done

@@ -16,7 +16,7 @@ latex_file_path="issue/${DATEMARK:0:4}/WebDigest-$DATEMARK.tex"
 
 
 ### Head
-sed "s|DATESTRING|$(date '+%F')|g" .texlib/template-v1.tex > $latex_file_path
+sed "s|DATESTRING|$(date '+%F')|g" .texlib/template-v1.tex | sed "s|FINALDIR|./webdb/$DATEMARK/final|" > $latex_file_path
 
 
 

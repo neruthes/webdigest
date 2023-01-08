@@ -7,7 +7,7 @@ source .localenv
 
 mkdir -p webdb/$DATEMARK/{coverpic,final}
 
-SOURCES_LIST="hackernews v2ex solidot zaobao dribbble"
+SOURCES_LIST="hackernews v2ex solidot zaobao dribbble github ap"
 for i in $SOURCES_LIST; do
     mkdir -p webdb/$DATEMARK/$i
 done
@@ -43,6 +43,12 @@ case $1 in
         ;;
     dribbble)
         curl 'https://rsshub.app/dribbble/popular/week' > webdb/$DATEMARK/dribbble/dribbble.xml
+        ;;
+    github)
+        curl 'https://rsshub.app/github/trending/daily/any/any' > webdb/$DATEMARK/github/github.xml
+        ;;
+    ap)
+        curl 'https://rsshub.app/apnews/topics/ap-top-news' > webdb/$DATEMARK/ap/ap.xml
         ;;
     '')
         bash $0 coverpic

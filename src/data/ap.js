@@ -19,5 +19,5 @@ let parser = new Parser();
 
     // console.log(feed.items[0]);
 
-    fs.writeFileSync(`webdb/${process.env.DATEMARK}/final/ap.tex`, outputLatex);
+    fs.writeFileSync(`${process.env.DATADIR}/final/ap.tex`, outputLatex);
 })();

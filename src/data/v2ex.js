@@ -12,5 +12,5 @@ let parser = new Parser();
         return sanitizeTextForLatex(`\\entryitemGeneric{\\hskip 0pt{}${item.title}}{${item.link.replace(/\#.+$/, '')}}`);
     }).join('\n\n');
 
-    fs.writeFileSync(`webdb/${process.env.DATEMARK}/final/v2ex.tex`, outputLatex);
+    fs.writeFileSync(`${process.env.DATADIR}/final/v2ex.tex`, outputLatex);
 })();

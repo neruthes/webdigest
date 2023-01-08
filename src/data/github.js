@@ -17,5 +17,5 @@ let parser = new Parser();
 
     // console.log(feed.items[0]);
 
-    fs.writeFileSync(`webdb/${process.env.DATEMARK}/final/github.tex`, outputLatex);
+    fs.writeFileSync(`${process.env.DATADIR}/final/github.tex`, outputLatex);
 })();

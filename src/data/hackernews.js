@@ -10,4 +10,4 @@ const outputLatex = fetchedData.items.map(function (item) {
 }).join('\n\n');
 
 
-fs.writeFileSync(`webdb/${process.env.DATEMARK}/final/hackernews.tex`, outputLatex);
+fs.writeFileSync(`${process.env.DATADIR}/final/hackernews.tex`, outputLatex);

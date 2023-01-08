@@ -60,7 +60,7 @@ case $1 in
         find _dist -name '*.pdf' | sort -r > wwwsrc/pdflist.txt
         grep oss-r2 .osslist | grep WebDigest | sed 's/oss-r2.neruthes.xyz/pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/g' | sort -r > wwwsrc/pdflist-oss.txt
         rsync -av --delete wwwsrc/ wwwdist/
-        rsync -av --delete _dist/ wwwdist/_dist/
+        # rsync -av --delete _dist/ wwwdist/_dist/
         ;;
     pkgdist*)
         tar -vcf pkgdist/pdfdist.tar --exclude '_dist/issue/*/*.jpg' _dist/

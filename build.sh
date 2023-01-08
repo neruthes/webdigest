@@ -35,9 +35,9 @@ case $1 in
     today)
         source ~/.bashrc
         s5pon h
-        bash src/fetch.js
-        DOWNLOAD=y bash src/process.js
-        bash src/make.js
+        bash src/fetch.sh
+        DOWNLOAD=y bash src/process.sh
+        bash src/make.sh
         texfn="$(find issue -name '*.tex' | sort -r | head -n1)"
         bash $0 $texfn
         ;;

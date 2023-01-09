@@ -1,6 +1,7 @@
 const fs = require('fs');
 const sh = require('child_process').execSync;
 const sanitizeTextForLatex = require('../../.jslib/sanitizeTextForLatex.js').sanitizeTextForLatex;
+const utils = require('../../.jslib/utils.js');
 
 let Parser = require('rss-parser');
 let parser = new Parser();
@@ -16,7 +17,7 @@ let parser = new Parser();
         // console.log(sanitizedContent)
         const shorturl = 'https://apnews.com/article/' + item.link.match(/\w+$/)[0];
         return sanitizeTextForLatex(`\\entryitemAp{\\hskip 0pt{}${item.title}}{${shorturl}}`) + `{${sanitizedContent}}`;
-    }).join('\n\n');
+    }).filter(utils.killbadwords).join('\n\n');
 
     // console.log(feed.items[0]);
 

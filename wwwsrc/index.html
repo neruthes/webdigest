@@ -44,7 +44,7 @@
             box-shadow: rgba(0, 0, 0, 0.2) 0 4px 16px 1px;
             display: block;
             max-width: 100%;
-            height: 50vh;
+            height: 50vmin;
             margin: 0 auto 20px;
             transition: all 200ms ease;
         }
@@ -154,33 +154,6 @@
                     };
                     xhr.send();
                 </script>
-                <!-- <script>
-                    let xhr = new XMLHttpRequest();
-                    xhr.open('GET', './pdflist.txt');
-                    xhr.onload = function () {
-                        let txt = xhr.responseText;
-                        window.pdflist = txt.trim().split('\n');
-                        console.log(pdflist);
-                        let latestIssueId = pdflist[0].match(/\d{8}/)[0];
-                        document.querySelector('.current-issue').innerHTML = `<div>
-                            <div>
-                                <a href="${pdflist[0]}">
-                                    <img src="${pdflist[0]}.jpg">
-                                </a>
-                            </div>
-                            <div>
-                                <a href="${pdflist[0]}" class="btn-read-current">Read ${latestIssueId}</a>
-                            </div>
-                        </div>`;
-                        document.querySelector('.issues-list').innerHTML = pdflist.map(function (item) {
-                            const issueId = item.match(/\d{8}/)[0];
-                            return `<a href="${item}" class="issue-link">
-                                <div>${issueId.replace(/(\d{6})/, '$1-').replace(/(\d{4})/, '$1-') }</div>
-                            </a>`
-                        }).join('');
-                    };
-                    xhr.send();
-                </script> -->
             </div>
         </div>
         <div class="bigpart">

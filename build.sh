@@ -54,7 +54,7 @@ case $1 in
         rangedfn="$(sed 's|.pdf$|_page1-1.pdf|' <<< "$rangedfn")"
         pdftoimg "$rangedfn"
         imgfn="$rangedfn.jpg"
-        mv "$imgfn" "$pdffn.jpg"
+        convert "$imgfn" -resize x1200 "$pdffn.jpg"
         cfoss "$pdffn.jpg"
         # echo "wanted rangedfn=/tmp/http/pdfrange/issue-20230107_page1-1.pdf"
         # echo "actual rangedfn=$rangedfn"

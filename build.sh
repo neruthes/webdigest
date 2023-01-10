@@ -36,15 +36,14 @@ case $1 in
         cat ISSUES.md
         ;;
     today)
-        source ~/.bashrc
+        source $HOME/.bashrc
         s5pon h
         bash src/fetch.sh
         DOWNLOAD=y bash src/process.sh
         bash $0 "$(bash src/make.sh | tail -n1)"
         # texfn="$(find issue -name '*.tex' | sort -r | head -n1)"
         # bash $0 $texfn
-        echo "[INFO] What to do next:"
-        echo "  ./build.sh wwwdist pkgdist deploy pkgdist/*.*"
+        bash $0 wwwdist pkgdist deploy pkgdist/*.*
         ;;
     issue/*.tex)
         ntex $1 --2 --oss

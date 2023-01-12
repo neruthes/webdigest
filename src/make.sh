@@ -44,14 +44,14 @@ function fill_parts_tex() {
 
 
 ### Start converting
-convert_to_markdown     hackernews      "Hacker News"
-convert_to_markdown     v2ex            "V2EX"
-convert_to_markdown     solidot         "Solidot"
-convert_to_markdown     phoronix        "Phoronix"
-convert_to_markdown     zaobao          "联合早报"
-convert_to_markdown     ap              "AP News"
-convert_to_markdown     github          "GitHub"
-convert_to_markdown     dribbble        "Dribbble"
+fill_parts_tex      hackernews      "Hacker News"
+fill_parts_tex      v2ex            "V2EX"
+fill_parts_tex      solidot         "Solidot"
+fill_parts_tex      phoronix        "Phoronix"
+fill_parts_tex      zaobao          "联合早报"
+fill_parts_tex      ap              "AP News"
+fill_parts_tex      github          "GitHub"
+fill_parts_tex      dribbble        "Dribbble"
 
 # \ipart{Hacker News}
 # \input{FINALDIR/hackernews.tex}

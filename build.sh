@@ -18,16 +18,22 @@ fi
 
 
 case $1 in
-    tgmsg)
-        dnow=$(date +%s)
-        dtomorrow=$((dnow+3600*24));
-        DATEMARK="$(date --date=@$dtomorrow +%Y%m%d)"
-        BETTER_DATEMARK="$(date --date=@$dtomorrow +%F)"
+    tgmsg*)
+        # dnow=$(date +%s)
+        # dtomorrow=$((dnow+3600*24));
+        DATEMARK="$(date +%Y%m%d)"
+        BETTER_DATEMARK="$(date +%F)"
         year="${DATEMARK:0:4}"
-        printf "**Web Digest $BETTER_DATEMARK**\n\n"
-        printf "PDF:\n$(cfoss _dist/issue/$year/WebDigest-$DATEMARK.pdf | grep "FINAL_HTTP_URL=" | cut -d= -f2)\n\n"
-        printf "HTML:\nhttps://webdigest.pages.dev/readhtml/$year/WebDigest-$DATEMARK.html\n\n"
-        printf "Markdown:\nhttps://github.com/neruthes/webdigest/blob/master/markdown/$year/WebDigest-$DATEMARK.md"
+        fn=".tmp/tgmsg/$year/$DATEMARK.txt"
+        fn2=".tmp/tgmsg/tgmsg.txt"
+        mkdir -p ".tmp/tgmsg/$year"
+        printf "**Web Digest $BETTER_DATEMARK**\n\n" > $fn
+        printf "PDF:\n$(grep "$DATEMARK.pdf https" .osslist | cut -d' ' -f2)\n\n" >> $fn
+        printf "HTML:\nhttps://webdigest.pages.dev/readhtml/$year/WebDigest-$DATEMARK.html\n\n" >> $fn
+        printf "Markdown:\nhttps://github.com/neruthes/webdigest/blob/master/markdown/$year/WebDigest-$DATEMARK.md" >> $fn
+        cp $fn $fn2
+        cat $fn
+        cfoss $fn2
         ;;
     tag)
         tag_suffix="$(git tag | grep v$(date +%Y%m) | wc -l)"
@@ -162,7 +168,7 @@ case $1 in
         # texfn="$(find issue -name '*.tex' | sort -r | head -n1)"
         # bash $0 $texfn
         bash src/markdown.sh
-        bash $0 gc rss wwwdist deploy pkgdist pkgdist/*.*
+        bash $0 tgmsg gc rss wwwdist deploy pkgdist pkgdist/*.*
         git add .
         git commit -m "Automatic commit via bash build.sh today"
         git push

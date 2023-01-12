@@ -6,4 +6,4 @@ cd /home/neruthes/DEV/webdigest
 
 source /home/neruthes/.bashrc
 
-bash build.sh today
+bash build.sh today > .tmp/build.log 2>&1

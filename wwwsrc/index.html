@@ -55,11 +55,6 @@
             box-shadow: rgba(0, 0, 0, 0.3) 0 8px 24px 5px;
         }
 
-        /* h3 {
-            font-size: 19px;
-            text-align: center;
-        } */
-
         .issues-list a.issue-link {
             font-family: 'JetBrains Mono', 'Inconsolata', 'Courier New', Courier, monospace;
             font-size: 14px;
@@ -94,6 +89,7 @@
             padding: 12px 0px;
             margin: 20px auto;
         }
+
     </style>
 </head>
 
@@ -141,6 +137,11 @@
                                 </a>
                             </div>
                         </div>`;
+                        document.querySelector('.current-issue img').onload = function () {
+                            setTimeout(() => {
+                                document.querySelector('.current-issue img').style.height = Math.floor(document.querySelector('.current-issue img').offsetHeight) + 'px';
+                            }, 5);
+                        };
                         document.querySelector('.issues-list').innerHTML = pdflist.map(function (item, i) {
                             if (item.indexOf('.jpg ') !== -1) {
                                 // Skip jpg artifacts
@@ -148,7 +149,7 @@
                             };
                             const issueId = item.match(/\d{8}/)[0];
                             return `<a href="${item.split(' ')[1]}" class="issue-link">
-                                <div>${issueId.replace(/(\d{6})/, '$1-').replace(/(\d{4})/, '$1-') }</div>
+                                <div>${issueId.replace(/(\d{6})/, '$1-').replace(/(\d{4})/, '$1-')}</div>
                             </a>`
                         }).join('');
                     };

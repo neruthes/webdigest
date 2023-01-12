@@ -50,7 +50,7 @@ case $1 in
         ;;
     gc)
         du -xhd1 webdb
-        max_allowed_pics=2
+        max_allowed_pics=10
         # ============================
         coverpic_count="$(find webdb -name 'coverpic.jpg' | sort | wc -l)"
         echo "[INFO] Remaining cover pics: $coverpic_count"
@@ -68,6 +68,8 @@ case $1 in
             rm -v $(find webdb -name 'raw.jpg' | sort | head -n$to_delete_quantity)
         fi
         # ============================
+        max_allowed_pics=100
+        # ============================
         prodcoverpic_count="$(find webdb -name 'coverpic-prod.jpg' | sort | wc -l)"
         echo "[INFO] Remaining production cover pics: $prodcoverpic_count"
         if [[ $prodcoverpic_count -gt $max_allowed_pics ]]; then
@@ -76,7 +78,6 @@ case $1 in
             rm -v $(find webdb -name 'coverpic-prod.jpg' | sort | head -n$to_delete_quantity)
         fi
         # ============================
-        max_allowed_pics=50
         pdfcover_count="$(find _dist/issue -name '*.pdf.jpg' | sort | wc -l)"
         echo "[INFO] Remaining dist PDF covers: $pdfcover_count"
         if [[ $pdfcover_count -gt $max_allowed_pics ]]; then
@@ -148,7 +149,8 @@ case $1 in
         source $HOME/.bashrc
         s5pon h
         bash src/fetch.sh
-        DOWNLOAD=y bash src/process.sh
+        bash src/process.sh
+        DOWNLOAD=y bash src/coverpic.sh
         bash $0 "$(bash src/make.sh | tail -n1)"
         # texfn="$(find issue -name '*.tex' | sort -r | head -n1)"
         # bash $0 $texfn
@@ -171,6 +173,17 @@ case $1 in
         cfoss "$pdffn.jpg"
         # echo "wanted rangedfn=/tmp/http/pdfrange/issue-20230107_page1-1.pdf"
         # echo "actual rangedfn=$rangedfn"
+        ;;
+    _dist/issue/*/*.pdf)
+        pdffn="$1"
+        # echo "$pdffn"
+        pdfrange $pdffn 1-1
+        rangedfn="/tmp/http/pdfrange/$(basename "$pdffn")"
+        rangedfn="$(sed 's|.pdf$|_page1-1.pdf|' <<< "$rangedfn")"
+        pdftoimg "$rangedfn"
+        imgfn="$rangedfn.jpg"
+        convert "$imgfn" -resize x1200 "$pdffn.jpg"
+        cfoss "$pdffn.jpg"
         ;;
     wwwdist*)
         echo "[INFO] Building website..."

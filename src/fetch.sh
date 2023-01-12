@@ -25,7 +25,7 @@ function stdfetch() {
     feedurl="$1"
     fspath="$2"
     if [[ ! -e "$fspath" ]]; then
-        stdfetch "$feedurl" > "$fspath"
+        curl "$feedurl" > "$fspath"
     else
         echo "[ERROR] Feed file '$fspath' already exists. Delete it to fetch '$sourcename' again." >&2
     fi
@@ -33,11 +33,7 @@ function stdfetch() {
 function rssxmlfetch() {
     feedurl="$1"
     fspath="$DATADIR/$sourcename.xml"
-    if [[ ! -e "$fspath" ]]; then
-        stdfetch "$feedurl" > "$fspath"
-    else
-        echo "[ERROR] Feed file '$fspath' already exists. Delete it to fetch '$sourcename' again." >&2
-    fi
+    stdfetch "$feedurl" "$fspath"
 }
 
 sourcename="$1"
@@ -46,9 +42,6 @@ case $1 in
     coverpic)
         json_file=$DATADIR/coverpic/random.json
         stdfetch https://api.unsplash.com/photos/random?client_id=$UNSPLASH_API_KEY $json_file
-        raw_url=$(jq -r .urls.raw $json_file)
-        item_url=$(jq -r .links.html $json_file)
-        author_name=$(jq -r .user.name $json_file)
         ;;
     hackernews)
         stdfetch https://hnrss.org/newest.jsonfeed?points=100 $DATADIR/hackernews/newest.json

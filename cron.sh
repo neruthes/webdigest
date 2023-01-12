@@ -1,6 +1,6 @@
 #!/bin/bash
 
-### This script may be used as entry for a cronjob
+### This script may be used as the entry for a cronjob
 
 cd /home/neruthes/DEV/webdigest
 

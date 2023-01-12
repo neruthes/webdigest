@@ -1,5 +1,7 @@
 #!/bin/bash
 
+export TZ=UTC
+
 
 if [[ ! -z $2 ]]; then
     for i in $*; do
@@ -61,7 +63,62 @@ case $1 in
         fi
         du -xhd1 webdb
         ;;
+    rss)
+        function rss_header() {
+            cat src/rsslib/header.txt
+            echo "<lastBuildDate>$(TZ=UTC date)</lastBuildDate>"
+        }
+        function rss_footer() {
+            cat src/rsslib/footer.txt
+        }
+        function rss_item() {
+            pdffn="$1"
+            pdfossurl="$2"
+            item_id="$(cut -d- -f2 <<< "$pdffn" | cut -d. -f1)"
+            item_datemark="$(TZ=UTC date --date=$item_id +%F)"
+            item_datetime="$(TZ=UTC date --date="$item_id 00:01:00 UTC" -Is)"
+            item_pubdate="$(TZ=UTC date --date="$item_id 00:01:00 UTC")"
+            item_title="WebDigest $item_datemark has been released"
+            echo "debug:
+                pdffn=$pdffn
+                pdfossurl=$pdfossurl
+                item_id=$item_id
+                item_datemark=$item_datemark
+                item_datetime=$item_datetime
+                item_pubdate=$item_pubdate
+            " >&2
+            # pdfossurl="$(grep "$(basename $pdffn) " .osslist | cut -d' ' -f2)"
+            echo "<item>"
+            echo "    <title><![CDATA[$item_title]]></title>"
+            echo '    <guid isPermaLink="false">'"https://webdigest.pages.dev/?issuepdf=$item_id"'</guid>'
+            echo "    <link>https://webdigest.pages.dev/?issuepdf=$item_id</link>"
+            echo "    <pubDate>$item_pubdate</pubDate>"
+            # <pubDate>Wed, 11 Jan 2023 15:02:28 GMT</pubDate>
+            echo "    <description>"
+            echo "<p>Dear subscriber,</p>
+                <p>WebDigest $item_datemark has been released.</p>
+                <p>Link: <a href=\"$pdfossurl\">$pdfossurl</a></p>"
+            echo "    </description>"
+            echo "</item>"
+            echo ""
+        }
+        RSS_FN=wwwsrc/rss.xml
+        rss_header > $RSS_FN
+        IFS=$'\n'
+        for pdffn_line in $(grep '.pdf http' .osslist | sort -r); do
+            pdffn="$(cut -d' ' -f1 <<< "$pdffn_line")"
+            pdfossurl="$(cut -d' ' -f2 <<< "$pdffn_line")"
+            rss_item "$pdffn" "$pdfossurl" >> $RSS_FN
+        done
+        rss_footer >> $RSS_FN
+        cat $RSS_FN
+        ;;
     today)
+        if [[ -e "_dist/issue/$(TZ=UTC date +%Y)/WebDigest-$(TZ=UTC date +%Y%m%d).pdf" ]]; then
+            echo "[ERROR] The PDF artifact of today has been generated already."
+            echo "        If you want to proceed, delete _dist/issue/$(date +%Y)/WebDigest-$(date +%Y%m%d).pdf"
+            exit 1
+        fi
         source $HOME/.bashrc
         s5pon h
         bash src/fetch.sh
@@ -69,7 +126,7 @@ case $1 in
         bash $0 "$(bash src/make.sh | tail -n1)"
         # texfn="$(find issue -name '*.tex' | sort -r | head -n1)"
         # bash $0 $texfn
-        bash $0 gc wwwdist deploy pkgdist pkgdist/*.*
+        bash $0 gc rss wwwdist deploy pkgdist pkgdist/*.*
         git add .
         git commit -m "Automatic commit via bash build.sh today"
         git push

@@ -2,6 +2,8 @@
 
 Collection of big stories on the web.
 
+Available formats: PDF / HTML / Markdown.
+
 ## Read Online
 
 https://webdigest.pages.dev/

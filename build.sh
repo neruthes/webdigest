@@ -3,6 +3,12 @@
 export TZ=UTC
 
 
+function die() {
+    echo "$1" >&2
+    exit 1
+}
+
+
 if [[ ! -z $2 ]]; then
     for i in $*; do
         bash $0 $i || die "[ERROR] Some problem happaned."
@@ -30,12 +36,13 @@ case $1 in
         echo git push origin $tagname
         echo "https://github.com/neruthes/webdigest/releases/new"
         bash $0 count
+        du -h "$(realpath pkgdist/pdfdist.tar)"
         ;;
     count)
         echo "Snapshot of PDF artifacts, total count: $(
             find _dist -name '*.pdf' | wc -l
         ), up to $(
-            find _dist -name '*.pdf' | sort -r | head -n1 | cut -d/ -f4 | cut -d- -f2 | cut -d. -f1
+            find _dist -name '*.pdf' | sort -r | head -n1 | cut -d/ -f4 | cut -d- -f2 | cut -d. -f1 | date --date=$(cat /dev/stdin) +%F
         )"
         ;;
     ISSUES.md)
@@ -50,8 +57,8 @@ case $1 in
         ;;
     gc)
         du -xhd1 webdb
-        max_allowed_pics=10
-        # ============================
+        max_allowed_pics=50
+        # ============================ coverpic.jpg
         coverpic_count="$(find webdb -name 'coverpic.jpg' | sort | wc -l)"
         echo "[INFO] Remaining cover pics: $coverpic_count"
         if [[ $coverpic_count -gt $max_allowed_pics ]]; then
@@ -59,7 +66,7 @@ case $1 in
             echo "[INFO] Will remove $to_delete_quantity files:"
             rm -v $(find webdb -name 'coverpic.jpg' | sort | head -n$to_delete_quantity)
         fi
-        # ============================
+        # ============================ raw.jpg
         rawpic_count="$(find webdb -name 'raw.jpg' | sort | wc -l)"
         echo "[INFO] Remaining raw cover pics: $rawpic_count"
         if [[ $rawpic_count -gt $max_allowed_pics ]]; then
@@ -69,7 +76,7 @@ case $1 in
         fi
         # ============================
         max_allowed_pics=100
-        # ============================
+        # ============================ coverpic-prod.jpg
         prodcoverpic_count="$(find webdb -name 'coverpic-prod.jpg' | sort | wc -l)"
         echo "[INFO] Remaining production cover pics: $prodcoverpic_count"
         if [[ $prodcoverpic_count -gt $max_allowed_pics ]]; then
@@ -77,7 +84,7 @@ case $1 in
             echo "[INFO] Will remove $to_delete_quantity files:"
             rm -v $(find webdb -name 'coverpic-prod.jpg' | sort | head -n$to_delete_quantity)
         fi
-        # ============================
+        # ============================ artifact *.pdf.jpg
         pdfcover_count="$(find _dist/issue -name '*.pdf.jpg' | sort | wc -l)"
         echo "[INFO] Remaining dist PDF covers: $pdfcover_count"
         if [[ $pdfcover_count -gt $max_allowed_pics ]]; then

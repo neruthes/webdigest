@@ -81,7 +81,7 @@ case $1 in
     rss)
         function rss_header() {
             cat src/rsslib/header.txt
-            echo "<lastBuildDate>$(TZ=UTC date)</lastBuildDate>"
+            echo "<lastBuildDate>$(date)</lastBuildDate>"
         }
         function rss_footer() {
             cat src/rsslib/footer.txt
@@ -90,9 +90,9 @@ case $1 in
             pdffn="$1"
             pdfossurl="$2"
             item_id="$(cut -d- -f2 <<< "$pdffn" | cut -d. -f1)"
-            item_datemark="$(TZ=UTC date --date=$item_id +%F)"
-            item_datetime="$(TZ=UTC date --date="$item_id 00:01:00 UTC" -Is)"
-            item_pubdate="$(TZ=UTC date --date="$item_id 00:01:00 UTC")"
+            item_datemark="$(date --date=$item_id +%F)"
+            item_datetime="$(date --date="$item_id 00:01:00 UTC" -Is)"
+            item_pubdate="$(date --date="$item_id 00:01:00 UTC")"
             item_title="WebDigest $item_datemark has been released"
             echo "debug:
                 pdffn=$pdffn
@@ -129,7 +129,7 @@ case $1 in
         cat $RSS_FN
         ;;
     today)
-        if [[ -e "_dist/issue/$(TZ=UTC date +%Y)/WebDigest-$(TZ=UTC date +%Y%m%d).pdf" ]]; then
+        if [[ -e "_dist/issue/$(date +%Y)/WebDigest-$(date +%Y%m%d).pdf" ]]; then
             echo "[ERROR] The PDF artifact of today has been generated already."
             echo "        If you want to proceed, delete _dist/issue/$(date +%Y)/WebDigest-$(date +%Y%m%d).pdf"
             exit 1

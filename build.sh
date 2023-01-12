@@ -12,6 +12,17 @@ fi
 
 
 case $1 in
+    tgmsg)
+        dnow=$(date +%s)
+        dtomorrow=$((dnow+3600*24));
+        DATEMARK="$(date --date=@$dtomorrow +%Y%m%d)"
+        BETTER_DATEMARK="$(date --date=@$dtomorrow +%F)"
+        year="${DATEMARK:0:4}"
+        printf "**Web Digest $BETTER_DATEMARK**\n\n"
+        printf "PDF:\n$(cfoss _dist/issue/$year/WebDigest-$DATEMARK.pdf | grep "FINAL_HTTP_URL=" | cut -d= -f2)\n\n"
+        printf "HTML:\nhttps://webdigest.pages.dev/readhtml/$year/WebDigest-$DATEMARK.html\n\n"
+        printf "Markdown:\nhttps://github.com/neruthes/webdigest/blob/master/markdown/$year/WebDigest-$DATEMARK.md"
+        ;;
     tag)
         tag_suffix="$(git tag | grep v$(date +%Y%m) | wc -l)"
         tagname="v$(date +%Y%m).$tag_suffix"

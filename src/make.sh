@@ -21,6 +21,7 @@ fi
 
 ### Head
 sed "s|DATESTRING|$(date '+%F')|g" .texlib/template-v1.tex |
+    sed "s|DATEMARK|$DATEMARK|" |
     sed "s|COPYRIGHTYEARSRANGE|$COPYRIGHTYEARSRANGE|" |
     sed "s|DATETHISYEAR|$THISYEAR|" |
     sed "s|FINALDIR|$DATADIR/final|" > "$latex_file_path"

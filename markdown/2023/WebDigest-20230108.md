@@ -694,12 +694,6 @@ https://www.zaobao.com/news/china/story20230107-1350831
 
 
 
-### **习近平小马可斯会谈 中菲重申维护地区稳定和平处理争议** 
-
-https://www.zaobao.com/news/china/story20230106-1350490
-
-
-
 ### **封关近三年后1月8日起重开口岸 陆港恢复通关每天往返人数设限** 
 
 https://www.zaobao.com/news/china/story20230106-1350491

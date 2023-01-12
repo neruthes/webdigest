@@ -13,12 +13,6 @@ mkdir -p issue/$THISYEAR
 
 latex_file_path="issue/$THISYEAR/WebDigest-$DATEMARK.tex"
 
-if [[ $THISYEAR == 2023 ]]; then
-    COPYRIGHTYEARSRANGE="2023"
-else
-    COPYRIGHTYEARSRANGE="2023-$THISYEAR"
-fi
-
 
 ### Head
 sed "s|DATESTRING|$(date '+%F')|g" .texlib/template-v1.tex |
@@ -37,13 +31,13 @@ function fill_parts_tex() {
         echo "[WARNING] Omitting '$part_id' due to lack of file '$texpath'"
         return 0
     fi
-    alltexpath=$DATADIR/final/all.tex
-    echo "\section{$part_title}" >> $alltexpath
-    cat $texpath >> $alltexpath
+    echo "\ipart{$part_title}" >> $output_tex_path
+    cat $texpath >> $output_tex_path
 }
 
 
-### Start converting
+output_tex_path=$DATADIR/final/all.tex
+printf "" > $output_tex_path
 fill_parts_tex      hackernews      "Hacker News"
 fill_parts_tex      v2ex            "V2EX"
 fill_parts_tex      solidot         "Solidot"

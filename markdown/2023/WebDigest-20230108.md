@@ -1,3 +1,6 @@
+Other formats: [PDF](https://oss-r2.neruthes.xyz/keep/webdigest/WebDigest-20230108.pdf--88b24f5f2b5f9a4df725c9c735fdaa38.pdf) / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20230108.html)
+
+
 # Web Digest 2023-01-08
 
 

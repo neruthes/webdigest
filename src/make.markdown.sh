@@ -87,3 +87,13 @@ cat src/htmllib/artifact.footer.html |
     sed "s|PDFURL|https://webdigest.pages.dev/?issuepdf=$DATEMARK|g" >> $final_output_html_fn
 
 rm $final_output_html_fn.content.html
+
+
+
+
+
+### Get back to remove heading anchors in the Markdown file
+sed -i 's|{#.*.unnumbered}$||' $final_output_markdown_fn
+sed -i 's|{style=.*||' $final_output_markdown_fn
+sed -i 's|^\[<||' $final_output_markdown_fn
+sed -i 's|>]$||' $final_output_markdown_fn

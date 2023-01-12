@@ -55,6 +55,17 @@
             box-shadow: rgba(0, 0, 0, 0.3) 0 8px 24px 5px;
         }
 
+        .current-issue-links {
+            text-align: center;
+            padding: 20px 0 0;
+        }
+        .current-issue-links a {
+            font-size: 18px;
+            text-decoration: none;
+            display: inline-block;
+            padding: 0 12px;
+        }
+
         .issues-list a.issue-link {
             font-family: 'JetBrains Mono', 'Inconsolata', 'Courier New', Courier, monospace;
             font-size: 14px;
@@ -109,6 +120,7 @@
                     </div>
                     <div class="current-issue">
                     </div>
+                    <div class="current-issue-links"></div>
                 </div>
                 <div class="section">
                     <div>
@@ -149,6 +161,12 @@
 
                         // Continue...
                         let latestIssueId = pdflist[1].match(/\d{8}/)[0];
+                        let latestIssueYear = latestIssueId.slice(0, 4);
+                        document.querySelector('.current-issue-links').innerHTML = `<div>
+                            <a href="${pdflist[1].split(' ')[1]}">PDF</a>
+                            <a href="/readhtml/${latestIssueYear}/WebDigest-${latestIssueId}.html">HTML</a>
+                            <a href="https://github.com/neruthes/webdigest/blob/master/markdown/${latestIssueYear}/WebDigest-${latestIssueId}.md">Markdown</a>
+                        </div>`;
                         document.querySelector('.current-issue').innerHTML = `<div>
                             <div>
                                 <a href="${pdflist[1].split(' ')[1]}">

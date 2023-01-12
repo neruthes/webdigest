@@ -1,9 +1,6 @@
 # WebDigest 2023-01-12
 
 
-[[TOC]]
-
-
 ## Hacker News
 
 ### **Conc: Better Structured Concurrency for Go** 

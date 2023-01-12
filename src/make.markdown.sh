@@ -59,7 +59,6 @@ mkdir -p "$DESTMDDIR"
 # echo "DESTMDDIR=$DESTMDDIR"
 # echo "final_output_markdown_fn=$final_output_markdown_fn"
 echo -e "# WebDigest $BETTER_DATEMARK\n\n" > $final_output_markdown_fn
-echo -e "[[TOC]]\n\n" >> $final_output_markdown_fn
 cat $output_md >> $final_output_markdown_fn
 
 

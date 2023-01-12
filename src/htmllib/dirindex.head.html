@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>Web Digest - RAWDIRNAME</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="/favicon.png">
+    <link rel="apple-touch-icon" href="/favicon.png">
+    <style>
+        * {
+            text-rendering: geometricPrecision;
+            box-sizing: border-box;
+        }
+
+        html,
+        body {
+            font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            font-size: 15px;
+            line-height: 1.6;
+            padding: 0px;
+            margin: 0px;
+        }
+
+        a {
+            color: #03C;
+            text-decoration: none;
+        }
+
+        .part-inner {
+            max-width: 800px;
+            padding: 30px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            font-size: 25px;
+        }
+
+        h2 {
+            font-size: 22px;
+        }
+
+        .sitemap-section {
+            line-height: 1.6;
+            border-bottom: 1px solid #DDD;
+            padding: 25px 0px;
+        }
+
+        header nav a,
+        .sitemap-section-links a {
+            color: #03C;
+            text-decoration: none;
+            /* display: inline-block; */
+            display: block;
+            padding: 5px 0px;
+            /* margin: 0px 15px 0px 0px; */
+        }
+
+        .sitemap-section-links a:hover {
+            color: #000;
+        }
+
+        footer.global-part {
+            font-size: 13px;
+            color: #888;
+        }
+
+    </style>
+</head>
+
+<body data-my-location="RAWDIRNAME">
+
+    <header>
+        <div class="part-inner">
+
+            <h1>Web Digest</h1>
+            <nav id="grand-nav">
+            </nav>
+        </div>
+        <script>
+            const nav = document.querySelector('#grand-nav');
+            const rawdirstr = document.body.getAttribute('data-my-location');
+            const hierarchychain = rawdirstr.split('/');
+            const totalDepth = hierarchychain.length;
+            nav.innerHTML = `<a style="display: inline-block;" href="${(new Array(totalDepth)).fill('../').join('')}">Home</a> / `;
+            nav.innerHTML += hierarchychain.slice(0, totalDepth - 1).map(function (dir, i) {
+                const depth = totalDepth - i - 1;
+                return `<a style="display: inline-block;" href="${(new Array(depth)).fill('../').join('')}">${dir}</a> / `;
+            }).join('');
+            nav.innerHTML += `${hierarchychain[totalDepth - 1]}`;
+        </script>
+    </header>
+    <div class="part-inner sitemap-section-links">
+        <h2>List of files</h2>

@@ -8,20 +8,26 @@ source .localenv
 [[ -e today ]] && rm today
 ln -svf $DATADIR/final today
 
+mkdir -p issue/$THISYEAR
 
-mkdir -p issue/${DATEMARK:0:4}
+latex_file_path="issue/$THISYEAR/WebDigest-$DATEMARK.tex"
 
-latex_file_path="issue/${DATEMARK:0:4}/WebDigest-$DATEMARK.tex"
-
+if [[ $THISYEAR == 2023 ]]; then
+    COPYRIGHTYEARSRANGE="2023"
+else
+    COPYRIGHTYEARSRANGE="2023-$THISYEAR"
+fi
 
 
 ### Head
-sed "s|DATESTRING|$(date '+%F')|g" .texlib/template-v1.tex | sed "s|FINALDIR|$DATADIR/final|" > "$latex_file_path"
-
+sed "s|DATESTRING|$(date '+%F')|g" .texlib/template-v1.tex |
+    sed "s|COPYRIGHTYEARSRANGE|$COPYRIGHTYEARSRANGE|" |
+    sed "s|DATETHISYEAR|$THISYEAR|" |
+    sed "s|FINALDIR|$DATADIR/final|" > "$latex_file_path"
+# DATETHISYEAR
 
 
 echo $latex_file_path
 
 
 
-# bash src/make.markdown.sh

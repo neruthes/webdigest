@@ -1,4 +1,4 @@
-# WebDigest 2023-01-08
+# Web Digest 2023-01-08
 
 
 ## Hacker News

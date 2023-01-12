@@ -141,6 +141,7 @@ case $1 in
         bash $0 "$(bash src/make.sh | tail -n1)"
         # texfn="$(find issue -name '*.tex' | sort -r | head -n1)"
         # bash $0 $texfn
+        bash src/markdown.sh
         bash $0 gc rss wwwdist deploy pkgdist pkgdist/*.*
         git add .
         git commit -m "Automatic commit via bash build.sh today"
@@ -162,9 +163,32 @@ case $1 in
         ;;
     wwwdist*)
         echo "[INFO] Building website..."
+        function make_indexhtml_for_dirs() {
+            DIRSLIST="$(find wwwdist -type d)"
+            for DIR in $DIRSLIST; do
+                RAWDIR="${DIR:8}"
+                echo "[INFO] Generating 'index.html' for directory '$RAWDIR'..."
+                # mkdir -p $DIR
+                INDEXFILE="$DIR/index.html"
+                if [[ ! -e $INDEXFILE ]]; then
+                    sed "s:HTMLTITLE:Web Digest | ${RAWDIR^^}:" src/htmllib/dirindex.head.html \
+                        | sed "s|RAWDIRNAME|$RAWDIR|"  > $INDEXFILE
+                    for ITEM in $(ls $DIR | grep -v 'index.html' | sort); do
+                        if [[ -d $DIR/$ITEM ]]; then
+                            ITEM_SUFFIX="/"
+                        else
+                            ITEM_SUFFIX=""
+                        fi
+                        echo "<a class='dirindexlistanchor' href='./$ITEM$ITEM_SUFFIX'>$ITEM$ITEM_SUFFIX</a>" >> $INDEXFILE
+                    done
+                    cat src/htmllib/dirindex.tail.html >> $INDEXFILE
+                fi
+            done
+        }
         grep oss-r2 .osslist | grep WebDigest | sed 's/oss-r2.neruthes.xyz/pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/g' | sort -r > wwwsrc/pdflist-oss.txt
         bash $0 ISSUES.md
         rsync -av --delete wwwsrc/ wwwdist/
+        make_indexhtml_for_dirs
         ;;
     pkgdist | pkgdist/ )
         echo "[INFO] Producing tarballs..."

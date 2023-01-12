@@ -62,7 +62,7 @@ final_output_markdown_fn="$DESTMDDIR/WebDigest-$DATEMARK.md"
 mkdir -p "$DESTMDDIR"
 # echo "DESTMDDIR=$DESTMDDIR"
 # echo "final_output_markdown_fn=$final_output_markdown_fn"
-echo -e "# WebDigest $BETTER_DATEMARK\n\n" > $final_output_markdown_fn
+echo -e "# Web Digest $BETTER_DATEMARK\n\n" > $final_output_markdown_fn
 cat $output_md >> $final_output_markdown_fn
 
 
@@ -75,7 +75,7 @@ cat $output_md >> $final_output_markdown_fn
 DESTHTMLDIR="${DESTMDDIR/markdown/wwwsrc/readhtml}"
 final_output_html_fn="$DESTHTMLDIR/WebDigest-$DATEMARK.html"
 mkdir -p "$DESTHTMLDIR"
-cat $final_output_markdown_fn | sed 's|\[\[TOC\]\]||' | grep -v '# WebDigest' | pandoc -f markdown --toc -o $final_output_html_fn.content.html
+cat $final_output_markdown_fn | sed 's|\[\[TOC\]\]||' | grep -v '# Web Digest' | pandoc -f markdown --toc -o $final_output_html_fn.content.html
 sed -i 's|color\: blue\!80\!green||g' $final_output_html_fn.content.html
 sed -i 's|color\: black\!50|color: #888;|g' $final_output_html_fn.content.html
 

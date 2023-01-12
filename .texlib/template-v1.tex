@@ -3,11 +3,15 @@
 \usepackage{calc,xunicode,amsmath,amssymb,paralist,enumitem,tabu,booktabs,datetime2,xeCJK,xeCJKfntef,listings}
 \usepackage{fancyhdr,tcolorbox,xcolor,graphicx,eso-pic,xltxtra,xelatexemoji}
 
+\newcommand{\envyear}[0]{DATETHISYEAR}
+\newcommand{\envdatestr}[0]{DATESTRING}
+\newcommand{\envfinaldir}[0]{FINALDIR}
+
 \usepackage[hidelinks]{hyperref}
 \hypersetup{
     colorlinks=false,
     pdfpagemode=FullScreen,
-    pdftitle={Web Digest - DATESTRING}
+    pdftitle={Web Digest - \envyear}
 }
 
 \setdefaultleftmargin{2em}{2em}{1em}{1em}{1em}{1em}
@@ -50,8 +54,6 @@
 
 
 
-\newcommand{\envdatestr}[0]{DATESTRING}
-\newcommand{\envfinaldir}[0]{FINALDIR}
 
 
 \input{.texlib/libcmd-v1.tex}
@@ -100,7 +102,7 @@
 \leavevmode\vfill
 \footnotesize
 
-Copyright \copyright{} DATESTRING Neruthes and other contributors.
+Copyright \copyright{} \envdatestr{} Neruthes and other contributors.
 
 This document is published with CC BY-NC-ND 4.0 license.
 
@@ -116,6 +118,9 @@ This newsletter is available in PDF format at\\
 
 The source code being used to generated this newsletter is available at\\
 \CJKunderline{\href{https://github.com/neruthes/webdigest/}{github.com/neruthes/webdigest}}.
+
+This newsletter is also available in
+\CJKunderline{\href{http://webdigest.localhost.neruthes.xyz/readhtml/\envyear/WebDigest-\datestr.html}{}}
 
 
 \input{FINALDIR/coverpic.tex}

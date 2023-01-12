@@ -40,6 +40,7 @@ case $1 in
     gc)
         du -xhd1 webdb
         max_allowed_pics=2
+        # ============================
         coverpic_count="$(find webdb -name 'coverpic.jpg' | sort | wc -l)"
         echo "[INFO] Remaining cover pics: $coverpic_count"
         if [[ $coverpic_count -gt $max_allowed_pics ]]; then
@@ -47,6 +48,7 @@ case $1 in
             echo "[INFO] Will remove $to_delete_quantity files:"
             rm -v $(find webdb -name 'coverpic.jpg' | sort | head -n$to_delete_quantity)
         fi
+        # ============================
         rawpic_count="$(find webdb -name 'raw.jpg' | sort | wc -l)"
         echo "[INFO] Remaining raw cover pics: $rawpic_count"
         if [[ $rawpic_count -gt $max_allowed_pics ]]; then
@@ -54,6 +56,7 @@ case $1 in
             echo "[INFO] Will remove $to_delete_quantity files:"
             rm -v $(find webdb -name 'raw.jpg' | sort | head -n$to_delete_quantity)
         fi
+        # ============================
         prodcoverpic_count="$(find webdb -name 'coverpic-prod.jpg' | sort | wc -l)"
         echo "[INFO] Remaining production cover pics: $prodcoverpic_count"
         if [[ $prodcoverpic_count -gt $max_allowed_pics ]]; then
@@ -61,7 +64,19 @@ case $1 in
             echo "[INFO] Will remove $to_delete_quantity files:"
             rm -v $(find webdb -name 'coverpic-prod.jpg' | sort | head -n$to_delete_quantity)
         fi
+        # ============================
+        max_allowed_pics=50
+        pdfcover_count="$(find _dist/issue -name '*.pdf.jpg' | sort | wc -l)"
+        echo "[INFO] Remaining dist PDF covers: $pdfcover_count"
+        if [[ $pdfcover_count -gt $max_allowed_pics ]]; then
+            to_delete_quantity=$((pdfcover_count-max_allowed_pics))
+            echo "[INFO] Will remove $to_delete_quantity files:"
+            echo rm -v $(find _dist/issue -name '*.pdf.jpg'  | sort | head -n$to_delete_quantity)
+            du -h $(find _dist/issue -name '*.pdf.jpg'  | sort | head -n$to_delete_quantity)
+        fi
+        # ============================
         du -xhd1 webdb
+        du -xhd1 _dist
         ;;
     rss)
         function rss_header() {

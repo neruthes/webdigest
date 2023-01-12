@@ -8,7 +8,7 @@ let parser = new Parser();
 
 
 (async () => {
-    let feed = await parser.parseString(fs.readFileSync(`${process.env.DATADIR}/ap/ap.xml`));
+    let feed = await parser.parseString(fs.readFileSync(`${process.env.DATADIR}/ap.xml`));
     
     const outputLatex = feed.items.map(item => {
         const sanitizedContent = sh(`pandoc -f html -t latex`, {

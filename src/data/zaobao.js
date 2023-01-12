@@ -7,7 +7,7 @@ let Parser = require('rss-parser');
 let parser = new Parser();
 
 (async () => {
-    let feed = await parser.parseString(fs.readFileSync(`${process.env.DATADIR}/zaobao/zaobao.xml`));
+    let feed = await parser.parseString(fs.readFileSync(`${process.env.DATADIR}/zaobao.xml`));
 
     const outputLatex = feed.items.map(item => {
         return sanitizeTextForLatex(`\\entryitemGeneric{\\hskip 0pt{}${item.title}}{${item.link.replace(/\#.+$/, '')}}`);

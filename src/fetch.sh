@@ -21,40 +21,70 @@ if [[ ! -z $2 ]]; then
 fi
 
 
+function stdfetch() {
+    feedurl="$1"
+    fspath="$2"
+    if [[ ! -e "$fspath" ]]; then
+        stdfetch "$feedurl" > "$fspath"
+    else
+        echo "[ERROR] Feed file '$fspath' already exists. Delete it to fetch '$sourcename' again." >&2
+    fi
+}
+function rssxmlfetch() {
+    feedurl="$1"
+    fspath="$DATADIR/$sourcename.xml"
+    if [[ ! -e "$fspath" ]]; then
+        stdfetch "$feedurl" > "$fspath"
+    else
+        echo "[ERROR] Feed file '$fspath' already exists. Delete it to fetch '$sourcename' again." >&2
+    fi
+}
+
+sourcename="$1"
+
 case $1 in
     coverpic)
         json_file=$DATADIR/coverpic/random.json
-        curl https://api.unsplash.com/photos/random?client_id=$UNSPLASH_API_KEY > $json_file
+        stdfetch https://api.unsplash.com/photos/random?client_id=$UNSPLASH_API_KEY $json_file
         raw_url=$(jq -r .urls.raw $json_file)
         item_url=$(jq -r .links.html $json_file)
         author_name=$(jq -r .user.name $json_file)
         ;;
     hackernews)
-        curl https://hnrss.org/newest.jsonfeed?points=100 > $DATADIR/hackernews/newest.json
+        stdfetch https://hnrss.org/newest.jsonfeed?points=100 $DATADIR/hackernews/newest.json
         ;;
     v2ex)
-        curl 'https://www.v2ex.com/index.xml' > $DATADIR/v2ex/index.xml
+        rssxmlfetch 'https://www.v2ex.com/index.xml'
         ;;
     solidot)
-        curl 'https://rsshub.app/solidot/linux' > $DATADIR/solidot/solidot.xml
+        rssxmlfetch 'https://rsshub.app/solidot/linux'
         ;;
     zaobao)
-        curl 'https://rsshub.app/zaobao/znews/china' > $DATADIR/zaobao/zaobao.xml
+        rssxmlfetch 'https://rsshub.app/zaobao/znews/china'
         ;;
     dribbble)
-        curl 'https://rsshub.app/dribbble/popular/week' > $DATADIR/dribbble/dribbble.xml
+        rssxmlfetch 'https://rsshub.app/dribbble/popular/week'
         ;;
     github)
-        curl 'https://rsshub.app/github/trending/daily/any/any' > $DATADIR/github/github.xml
+        rssxmlfetch 'https://rsshub.app/github/trending/daily/any/any'
         ;;
     ap)
-        curl 'https://rsshub.app/apnews/topics/ap-top-news' > $DATADIR/ap/ap.xml
+        rssxmlfetch 'https://rsshub.app/apnews/topics/ap-top-news'
         ;;
     phoronix)
-        curl 'https://www.phoronix.com/rss.php' > $DATADIR/phoronix/phoronix.xml
+        rssxmlfetch 'https://www.phoronix.com/rss.php'
         ;;
     '')
         bash $0 coverpic
         bash $0 $SOURCES_LIST
         ;;
 esac
+
+
+# v2ex
+# solidot
+# zaobao
+# dribbble
+# github
+# ap
+# phoronix

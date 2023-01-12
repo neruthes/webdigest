@@ -19,8 +19,12 @@ cat .texlib/libcmd-v1.tex >> $md_tex
 function convert_to_markdown() {
     part_id="$1"
     part_title="$2"
+    texpath=$DATADIR/final/$part_id.tex
+    if [[ ! -e $texpath ]]; then
+        return 0
+    fi
     echo "\section{$part_title}" >> $md_tex
-    cat $DATADIR/final/$part_id.tex >> $md_tex
+    cat $texpath >> $md_tex
 }
 
 
@@ -72,6 +76,8 @@ DESTHTMLDIR="${DESTMDDIR/markdown/wwwsrc/readhtml}"
 final_output_html_fn="$DESTHTMLDIR/WebDigest-$DATEMARK.html"
 mkdir -p "$DESTHTMLDIR"
 cat $final_output_markdown_fn | sed 's|\[\[TOC\]\]||' | grep -v '# WebDigest' | pandoc -f markdown --toc -o $final_output_html_fn.content.html
+sed -i 's|color\: blue\!80\!green||g' $final_output_html_fn.content.html
+sed -i 's|color\: black\!50|color: #888;|g' $final_output_html_fn.content.html
 
 cat src/htmllib/artifact.header.html |
     sed "s|BETTER_DATEMARK|$BETTER_DATEMARK|g" |
@@ -86,6 +92,7 @@ cat src/htmllib/artifact.footer.html |
     sed "s|PDFURL|https://webdigest.pages.dev/?issuepdf=$DATEMARK|g" >> $final_output_html_fn
 
 rm $final_output_html_fn.content.html
+
 
 
 

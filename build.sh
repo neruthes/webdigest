@@ -198,13 +198,13 @@ case $1 in
             DIRSLIST="$(find wwwdist -type d)"
             for DIR in $DIRSLIST; do
                 RAWDIR="${DIR:8}"
-                echo "[INFO] Generating 'index.html' for directory '$RAWDIR'..."
                 # mkdir -p $DIR
                 INDEXFILE="$DIR/index.html"
                 if [[ ! -e $INDEXFILE ]]; then
-                    sed "s:HTMLTITLE:Web Digest | ${RAWDIR^^}:" src/htmllib/dirindex.head.html \
+                    echo "[INFO] Generating 'index.html' for directory '$RAWDIR'..."
+                    sed "s:HTMLTITLE:Web Digest | ${RAWDIR}:" src/htmllib/dirindex.head.html \
                         | sed "s|RAWDIRNAME|$RAWDIR|"  > $INDEXFILE
-                    for ITEM in $(ls $DIR | grep -v 'index.html' | sort); do
+                    for ITEM in $(ls $DIR | grep -v 'index.html' | sort -r); do
                         if [[ -d $DIR/$ITEM ]]; then
                             ITEM_SUFFIX="/"
                         else

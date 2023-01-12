@@ -7,7 +7,7 @@ source .localenv
 
 mkdir -p $DATADIR/{coverpic,final}
 
-SOURCES_LIST="hackernews v2ex solidot zaobao dribbble github ap"
+SOURCES_LIST="hackernews v2ex solidot zaobao dribbble github ap phoronix"
 for i in $SOURCES_LIST; do
     mkdir -p $DATADIR/$i
 done
@@ -49,6 +49,9 @@ case $1 in
         ;;
     ap)
         curl 'https://rsshub.app/apnews/topics/ap-top-news' > $DATADIR/ap/ap.xml
+        ;;
+    phoronix)
+        curl 'https://www.phoronix.com/rss.php' > $DATADIR/phoronix/phoronix.xml
         ;;
     '')
         bash $0 coverpic

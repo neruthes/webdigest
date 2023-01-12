@@ -17,7 +17,7 @@ let parser = new Parser();
         // console.log(sanitizedContent)
         const shorturl = 'https://apnews.com/article/' + item.link.match(/\w+$/)[0];
         return sanitizeTextForLatex(`\\entryitemAp{\\hskip 0pt{}${item.title}}{${shorturl}}`) + `{${sanitizedContent}}`;
-    }).filter(utils.killbadwords).join('\n\n');
+    }).filter(utils.killbadwords).slice(0, 13).join('\n\n');
 
     // console.log(feed.items[0]);
 

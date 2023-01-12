@@ -35,6 +35,32 @@ case $1 in
         done
         cat ISSUES.md
         ;;
+    gc)
+        du -xhd1 webdb
+        max_allowed_pics=2
+        coverpic_count="$(find webdb -name 'coverpic.jpg' | sort | wc -l)"
+        echo "[INFO] Remaining cover pics: $coverpic_count"
+        if [[ $coverpic_count -gt $max_allowed_pics ]]; then
+            to_delete_quantity=$((coverpic_count-max_allowed_pics))
+            echo "[INFO] Will remove $to_delete_quantity files:"
+            rm -v $(find webdb -name 'coverpic.jpg' | sort | head -n$to_delete_quantity)
+        fi
+        rawpic_count="$(find webdb -name 'raw.jpg' | sort | wc -l)"
+        echo "[INFO] Remaining raw cover pics: $rawpic_count"
+        if [[ $rawpic_count -gt $max_allowed_pics ]]; then
+            to_delete_quantity=$((rawpic_count-max_allowed_pics))
+            echo "[INFO] Will remove $to_delete_quantity files:"
+            rm -v $(find webdb -name 'raw.jpg' | sort | head -n$to_delete_quantity)
+        fi
+        prodcoverpic_count="$(find webdb -name 'coverpic-prod.jpg' | sort | wc -l)"
+        echo "[INFO] Remaining production cover pics: $prodcoverpic_count"
+        if [[ $prodcoverpic_count -gt $max_allowed_pics ]]; then
+            to_delete_quantity=$((prodcoverpic_count-max_allowed_pics))
+            echo "[INFO] Will remove $to_delete_quantity files:"
+            rm -v $(find webdb -name 'coverpic-prod.jpg' | sort | head -n$to_delete_quantity)
+        fi
+        du -xhd1 webdb
+        ;;
     today)
         source $HOME/.bashrc
         s5pon h
@@ -43,7 +69,10 @@ case $1 in
         bash $0 "$(bash src/make.sh | tail -n1)"
         # texfn="$(find issue -name '*.tex' | sort -r | head -n1)"
         # bash $0 $texfn
-        bash $0 wwwdist pkgdist deploy pkgdist/*.*
+        bash $0 gc wwwdist deploy pkgdist pkgdist/*.*
+        git add .
+        git commit -m "Automatic commit via bash build.sh today"
+        git push
         ;;
     issue/*.tex)
         ntex $1 --2 --oss
@@ -60,17 +89,19 @@ case $1 in
         # echo "actual rangedfn=$rangedfn"
         ;;
     wwwdist*)
+        echo "[INFO] Building website..."
         grep oss-r2 .osslist | grep WebDigest | sed 's/oss-r2.neruthes.xyz/pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/g' | sort -r > wwwsrc/pdflist-oss.txt
         bash $0 ISSUES.md
         rsync -av --delete wwwsrc/ wwwdist/
         ;;
     pkgdist | pkgdist/ )
-        tar -vcf pkgdist/pdfdist.tar --exclude '_dist/issue/*/*.jpg' _dist/
-        tar -vcf pkgdist/wwwdist.tar wwwdist/
-        cd wwwdist
-        zip -9vr ../pkgdist/wwwdist .
+        echo "[INFO] Producing tarballs..."
+        tar -cf pkgdist/pdfdist.tar --exclude '_dist/issue/*/*.jpg' _dist/
+        tar -cf pkgdist/wwwdist.tar wwwdist/
+        tar -cf pkgdist/webdb.tar webdb/
         ;;
     pkgdist/*.*)
+        echo "[INFO] Uploading tarballs..."
         cfoss $1
         ;;
     deploy)

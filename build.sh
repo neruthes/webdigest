@@ -18,7 +18,7 @@ fi
 
 
 case $1 in
-    tgmsg*)
+    tgmsg)
         # dnow=$(date +%s)
         # dtomorrow=$((dnow+3600*24));
         DATEMARK="$(date +%Y%m%d)"

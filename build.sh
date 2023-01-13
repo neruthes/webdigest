@@ -25,15 +25,15 @@ case $1 in
         BETTER_DATEMARK="$(date +%F)"
         year="${DATEMARK:0:4}"
         fn=".tmp/tgmsg/$year/$DATEMARK.txt"
-        fn2=".tmp/tgmsg/tgmsg.txt"
+        fn2="_dist/tgmsg.txt"
         mkdir -p ".tmp/tgmsg/$year"
         printf "**Web Digest $BETTER_DATEMARK**\n\n" > $fn
         printf "PDF:\n$(grep "$DATEMARK.pdf https" .osslist | cut -d' ' -f2)\n\n" >> $fn
         printf "HTML:\nhttps://webdigest.pages.dev/readhtml/$year/WebDigest-$DATEMARK.html\n\n" >> $fn
         printf "Markdown:\nhttps://github.com/neruthes/webdigest/blob/master/markdown/$year/WebDigest-$DATEMARK.md" >> $fn
         cp $fn $fn2
+        cp $fn _dist/tgmsg.txt
         cat $fn
-        cfoss $fn2
         ;;
     tag)
         tag_suffix="$(git tag | grep v$(date +%Y%m) | wc -l)"

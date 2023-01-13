@@ -163,7 +163,7 @@ case $1 in
         s5pon h
         bash src/fetch.sh
         bash src/process.sh
-        DOWNLOAD=y bash src/coverpic.sh
+        DOWNLOAD=y COMPRESS=y bash src/coverpic.sh
         bash $0 "$(bash src/make.sh | tail -n1)"
         # texfn="$(find issue -name '*.tex' | sort -r | head -n1)"
         # bash $0 $texfn

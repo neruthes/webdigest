@@ -21,16 +21,17 @@ case $1 in
     tgmsg)
         # dnow=$(date +%s)
         # dtomorrow=$((dnow+3600*24));
-        DATEMARK="$(date +%Y%m%d)"
-        BETTER_DATEMARK="$(date +%F)"
-        year="${DATEMARK:0:4}"
-        fn=".tmp/tgmsg/$year/$DATEMARK.txt"
+        # [[ -z $DATEMARK ]] && DATEMARK="$(date +%Y%m%d)"
+        # [[ -z $BETTER_DATEMARK ]] && BETTER_DATEMARK="$(date +%F)"
+        source .env
+        # year="${DATEMARK:0:4}"
+        fn=".tmp/tgmsg/$THISYEAR/$DATEMARK.txt"
         fn2="_dist/tgmsg.txt"
-        mkdir -p ".tmp/tgmsg/$year"
+        mkdir -p ".tmp/tgmsg/$THISYEAR"
         printf "**Web Digest $BETTER_DATEMARK**\n\n" > $fn
         printf "PDF:\n$(grep "$DATEMARK.pdf https" .osslist | cut -d' ' -f2)\n\n" >> $fn
-        printf "HTML:\nhttps://webdigest.pages.dev/readhtml/$year/WebDigest-$DATEMARK.html\n\n" >> $fn
-        printf "Markdown:\nhttps://github.com/neruthes/webdigest/blob/master/markdown/$year/WebDigest-$DATEMARK.md" >> $fn
+        printf "HTML:\nhttps://webdigest.pages.dev/readhtml/$THISYEAR/WebDigest-$DATEMARK.html\n\n" >> $fn
+        printf "Markdown:\nhttps://github.com/neruthes/webdigest/blob/master/markdown/$THISYEAR/WebDigest-$DATEMARK.md" >> $fn
         cp $fn $fn2
         cp $fn _dist/tgmsg.txt
         cat $fn
@@ -115,29 +116,33 @@ case $1 in
             pdffn="$1"
             pdfossurl="$2"
             item_id="$(cut -d- -f2 <<< "$pdffn" | cut -d. -f1)"
-            item_datemark="$(date --date=$item_id +%F)"
+            item_datemark="$(date --date=$item_id +%Y%m%d)"
+            item_betterdatemark="$(date --date=$item_id +%F)"
             item_datetime="$(date --date="$item_id 00:01:00 UTC" -Is)"
             item_pubdate="$(date --date="$item_id 00:01:00 UTC")"
-            item_title="WebDigest $item_datemark has been released"
-            echo "debug:
-                pdffn=$pdffn
-                pdfossurl=$pdfossurl
-                item_id=$item_id
-                item_datemark=$item_datemark
-                item_datetime=$item_datetime
-                item_pubdate=$item_pubdate
-            " >&2
-            # pdfossurl="$(grep "$(basename $pdffn) " .osslist | cut -d' ' -f2)"
+            item_title="Web Digest $item_betterdatemark"
+            # echo "debug:
+            #     pdffn=$pdffn
+            #     pdfossurl=$pdfossurl
+            #     item_id=$item_id
+            #     item_betterdatemark=$item_betterdatemark
+            #     item_datetime=$item_datetime
+            #     item_pubdate=$item_pubdate
+            # " >&2
             echo "<item>"
             echo "    <title><![CDATA[$item_title]]></title>"
             echo '    <guid isPermaLink="false">'"https://webdigest.pages.dev/?issuepdf=$item_id"'</guid>'
             echo "    <link>https://webdigest.pages.dev/?issuepdf=$item_id</link>"
             echo "    <pubDate>$item_pubdate</pubDate>"
-            # <pubDate>Wed, 11 Jan 2023 15:02:28 GMT</pubDate>
             echo "    <description>"
-            echo "<p>Dear subscriber,</p>
-                <p>WebDigest $item_datemark has been released.</p>
-                <p>Link: <a href=\"$pdfossurl\">$pdfossurl</a></p>"
+            cat .tmp/tgmsg/${item_datemark:0:4}/$item_datemark.txt |
+                grep -v 'Web Digest ' |
+                sed 's|^https|<https|' |
+                sed 's|.html$|.html>|g' |
+                sed 's|.md$|.md>|g' |
+                sed 's|.pdf$|.pdf>|g' |
+                pandoc  -f markdown -t html |
+                sed 's|:$|:<br/>|g'
             echo "    </description>"
             echo "</item>"
             echo ""

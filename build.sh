@@ -130,7 +130,7 @@ case $1 in
             #     item_pubdate=$item_pubdate
             # " >&2
             echo "<item>"
-            echo "    <title><![CDATA[$item_title]]></title>"
+            echo "    <title>$item_title</title>"
             echo '    <guid isPermaLink="false">'"https://webdigest.pages.dev/?issuepdf=$item_id"'</guid>'
             echo "    <link>https://webdigest.pages.dev/?issuepdf=$item_id</link>"
             echo "    <pubDate>$item_pubdate</pubDate>"
@@ -142,7 +142,7 @@ case $1 in
                 sed 's|.md$|.md>|g' |
                 sed 's|.pdf$|.pdf>|g' |
                 pandoc  -f markdown -t html |
-                sed 's|:$|:<br/>|g'
+                sed 's|: <a|:<br/><a|g'
             echo "    </description>"
             echo "</item>"
             echo ""

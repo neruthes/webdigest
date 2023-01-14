@@ -226,7 +226,7 @@ case $1 in
                 fi
             done
         }
-        grep oss-r2 .osslist | grep WebDigest | sed 's/oss-r2.neruthes.xyz/pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/g' | sort -r > wwwsrc/pdflist-oss.txt
+        grep 'oss-r2' .osslist | grep 'WebDigest' | grep '_dist/issue' | sed 's/oss-r2.neruthes.xyz/pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/g' | sort -r > wwwsrc/pdflist-oss.txt
         bash $0 ISSUES.md
         rsync -av --delete wwwsrc/ wwwdist/
         make_indexhtml_for_dirs

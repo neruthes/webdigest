@@ -18,13 +18,11 @@ fi
 
 
 case $1 in
+    lastpdf)
+        realpath $(find _dist -name '*.pdf' | sort -r | head -n1)
+        ;;
     tgmsg)
-        # dnow=$(date +%s)
-        # dtomorrow=$((dnow+3600*24));
-        # [[ -z $DATEMARK ]] && DATEMARK="$(date +%Y%m%d)"
-        # [[ -z $BETTER_DATEMARK ]] && BETTER_DATEMARK="$(date +%F)"
         source .env
-        # year="${DATEMARK:0:4}"
         fn=".tmp/tgmsg/$THISYEAR/$DATEMARK.txt"
         fn2="_dist/tgmsg.txt"
         mkdir -p ".tmp/tgmsg/$THISYEAR"
@@ -34,6 +32,7 @@ case $1 in
         printf "Markdown:\nhttps://github.com/neruthes/webdigest/blob/master/markdown/$THISYEAR/WebDigest-$DATEMARK.md" >> $fn
         cp $fn $fn2
         cp $fn _dist/tgmsg.txt
+        pandoc -i _dist/tgmsg.txt -f markdown -t html -o _dist/tgmsg.html
         cat $fn
         ;;
     tag)

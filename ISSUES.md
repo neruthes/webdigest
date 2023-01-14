@@ -7,6 +7,7 @@
 - [WebDigest-20230109.html](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/webdigest/WebDigest-20230109.html--61fadf7497ecbfa143ace8830aa27752.html)
 - [WebDigest-20230108.html](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/webdigest/WebDigest-20230108.html--e22e3aa8a5271868d1999e6d28acea4e.html)
 - [WebDigest-20230107.html](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/webdigest/WebDigest-20230107.html--12b1bbd36fc951a5bca8335e9dd3c043.html)
+- [WebDigest-20230114.pdf](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/webdigest/WebDigest-20230114.pdf--3f045d41c945e00ca8dbb3ab34bbe9dd.pdf)
 - [WebDigest-20230113.pdf](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/webdigest/WebDigest-20230113.pdf--9afb403daaaad3bcf156a08e1f2dc24f.pdf)
 - [WebDigest-20230112.pdf](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/webdigest/WebDigest-20230112.pdf--44f4e9cf4c2b8b6fc4f4b0c4fe0c7bd9.pdf)
 - [WebDigest-20230111.pdf](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/webdigest/WebDigest-20230111.pdf--1ec76b4e2778e1fe4d8ff568f8571dbb.pdf)

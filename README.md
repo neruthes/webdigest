@@ -2,6 +2,8 @@
 
 Collection of big stories on the web.
 
+Made for lazy people, like myself, who hate browsing news websites & apps.
+
 Available formats: PDF / HTML / Markdown.
 
 ## Read Online

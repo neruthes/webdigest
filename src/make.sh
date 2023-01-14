@@ -15,7 +15,7 @@ latex_file_path="issue/$THISYEAR/WebDigest-$DATEMARK.tex"
 
 
 ### Head
-sed "s|DATESTRING|$(date '+%F')|g" .texlib/template-v1.tex |
+sed "s|DATESTRING|$(date --date=$DATEMARK '+%F')|g" .texlib/template-v1.tex |
     sed "s|DATEMARK|$DATEMARK|" |
     sed "s|COPYRIGHTYEARSRANGE|$COPYRIGHTYEARSRANGE|" |
     sed "s|DATETHISYEAR|$THISYEAR|" |

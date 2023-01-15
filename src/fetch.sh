@@ -8,9 +8,9 @@ source .localenv
 mkdir -p $DATADIR/{coverpic,final}
 
 SOURCES_LIST="hackernews v2ex solidot zaobao dribbble github ap phoronix"
-for i in $SOURCES_LIST; do
-    mkdir -p $DATADIR/$i
-done
+# for i in $SOURCES_LIST; do
+#     mkdir -p $DATADIR/$i
+# done
 
 
 if [[ ! -z $2 ]]; then
@@ -39,45 +39,47 @@ function rssxmlfetch() {
 sourcename="$1"
 
 case $1 in
+    '')
+        bash $0 coverpic
+        bash $0 $SOURCES_LIST
+        ;;
     coverpic)
         json_file=$DATADIR/coverpic/random.json
         stdfetch https://api.unsplash.com/photos/random?client_id=$UNSPLASH_API_KEY $json_file
         ;;
     hackernews)
-        stdfetch https://hnrss.org/newest.jsonfeed?points=100 $DATADIR/hackernews/newest.json
+        stdfetch https://hnrss.org/newest.jsonfeed?points=100 $DATADIR/hackernews.json
         ;;
-    v2ex)
-        rssxmlfetch 'https://www.v2ex.com/index.xml'
-        ;;
-    solidot)
-        rssxmlfetch 'https://rsshub.app/solidot/linux'
-        ;;
-    zaobao)
-        rssxmlfetch 'https://rsshub.app/zaobao/znews/china'
-        ;;
-    dribbble)
-        rssxmlfetch 'https://rsshub.app/dribbble/popular/week'
-        ;;
-    github)
-        rssxmlfetch 'https://rsshub.app/github/trending/daily/any/any'
-        ;;
-    ap)
-        rssxmlfetch 'https://rsshub.app/apnews/topics/ap-top-news'
-        ;;
-    phoronix)
-        rssxmlfetch 'https://www.phoronix.com/rss.php'
-        ;;
-    '')
-        bash $0 coverpic
-        bash $0 $SOURCES_LIST
-        ;;
+    *)
+        ### Fetch generic rss by looking up the table
+        tablefn="src/rsstab.psv"
+        rssUrl="$(grep "^$1|" $tablefn | cut -d'|' -f2-)"
+        if [[ -z "$rssUrl" ]]; then
+            echo "[ERROR] Cannot find RSS URL for criteria '$1'"
+        else
+            rssxmlfetch "$rssUrl"
+        fi
+    # v2ex)
+    #     rssxmlfetch 'https://www.v2ex.com/index.xml'
+    #     ;;
+    # solidot)
+    #     rssxmlfetch 'https://rsshub.app/solidot/linux'
+    #     ;;
+    # zaobao)
+    #     rssxmlfetch 'https://rsshub.app/zaobao/znews/china'
+    #     ;;
+    # dribbble)
+    #     rssxmlfetch 'https://rsshub.app/dribbble/popular/week'
+    #     ;;
+    # github)
+    #     rssxmlfetch 'https://rsshub.app/github/trending/daily/any/any'
+    #     ;;
+    # ap)
+    #     rssxmlfetch 'https://rsshub.app/apnews/topics/ap-top-news'
+    #     ;;
+    # phoronix)
+    #     rssxmlfetch 'https://www.phoronix.com/rss.php'
+    #     ;;
+    
 esac
 
-
-# v2ex
-# solidot
-# zaobao
-# dribbble
-# github
-# ap
-# phoronix

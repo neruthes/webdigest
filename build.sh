@@ -54,7 +54,7 @@ case $1 in
     ISSUES.md)
         echo -e "# List of Issues\n\n" > ISSUES.md
         IFS=$'\n'
-        for i in $(cat wwwsrc/pdflist-oss.txt | grep -v .jpg); do
+        for i in $(cat wwwsrc/artifacts-oss.txt | grep -v .jpg); do
             # echo "- [$(cut -d/ -f4 <<< $i)](https://webdigest.pages.dev/$i)" >> ISSUES.md
             pdfid="$(cut -d/ -f4 <<< "$i" | cut -d' ' -f1)"
             echo "- [$pdfid]($(cut -d' ' -f2 <<< "$i"))" >> ISSUES.md
@@ -226,7 +226,7 @@ case $1 in
                 fi
             done
         }
-        grep 'oss-r2' .osslist | grep 'WebDigest' | grep '_dist/issue' | sed 's/oss-r2.neruthes.xyz/pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/g' | sort -r > wwwsrc/pdflist-oss.txt
+        grep 'oss-r2' .osslist | grep 'WebDigest' | grep '_dist/issue' | sed 's/oss-r2.neruthes.xyz/pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/g' | sort -r > wwwsrc/artifacts-oss.txt
         bash $0 ISSUES.md
         rsync -av --delete wwwsrc/ wwwdist/
         make_indexhtml_for_dirs

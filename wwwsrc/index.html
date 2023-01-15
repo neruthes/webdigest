@@ -102,11 +102,11 @@
                 <p>Collection of big stories on the web</p>
                 <style>p a {display: inline-block;}</style>
                 <p>
-                    <a href="https://github.com/neruthes/webdigest">GitHub Repo</a>
-                    &nbsp;/&nbsp;
-                    <a href="./rss.xml">RSS Feed</a>
-                    &nbsp;/&nbsp;
-                    <a href="https://t.me/webdigestchannel">Telegram Channel</a>
+                    <a href="https://github.com/neruthes/webdigest">GitHub</a>
+                    &nbsp;&nbsp;
+                    <a href="./rss.xml">RSS</a>
+                    &nbsp;&nbsp;
+                    <a href="https://t.me/webdigestchannel">Telegram</a>
                 </p>
             </header>
         </div>
@@ -129,17 +129,17 @@
                 </div>
                 <script>
                     let xhr = new XMLHttpRequest();
-                    xhr.open('GET', './pdflist-oss.txt');
+                    xhr.open('GET', './artifacts-oss.txt');
                     xhr.onload = function () {
                         let txt = xhr.responseText;
-                        window.pdflist = txt.trim().split('\n');
+                        window.artifactsList = txt.trim().split('\n');
                         window.osskvmap = new Map();
-                        window.pdflist.map(function (item) {
+                        window.artifactsList.map(function (item) {
                             kv = item.split(' ');
                             console.log(kv);
                             osskvmap.set(kv[0], kv[1]);
                         });
-                        console.log(pdflist);
+                        console.log(artifactsList);
 
                         // Issue PDF redirection
                         const match_issuepdf = location.search.match(/[?&]issuepdf=\d{8}$/);
@@ -158,17 +158,17 @@
                         };
 
                         // Continue...
-                        let latestIssueId = pdflist[1].match(/\d{8}/)[0];
+                        let latestIssueId = artifactsList[1].match(/\d{8}/)[0];
                         let latestIssueYear = latestIssueId.slice(0, 4);
                         document.querySelector('.current-issue-links').innerHTML = `<div>
-                            <a href="${pdflist[1].split(' ')[1]}">[PDF]</a>
+                            <a href="${artifactsList[1].split(' ')[1]}">[PDF]</a>
                             <a href="/readhtml/${latestIssueYear}/WebDigest-${latestIssueId}.html">[HTML]</a>
                             <a href="https://github.com/neruthes/webdigest/blob/master/markdown/${latestIssueYear}/WebDigest-${latestIssueId}.md">[MD]</a>
                         </div>`;
                         document.querySelector('.current-issue').innerHTML = `<div>
                             <div>
-                                <a href="${pdflist[1].split(' ')[1]}">
-                                    <img src="${pdflist[0].split(' ')[1]}">
+                                <a href="${artifactsList[1].split(' ')[1]}">
+                                    <img src="${artifactsList[0].split(' ')[1]}">
                                 </a>
                             </div>
                         </div>`;
@@ -177,7 +177,7 @@
                                 document.querySelector('.current-issue img').style.height = Math.floor(document.querySelector('.current-issue img').offsetHeight) + 'px';
                             }, 5);
                         };
-                        document.querySelector('.issues-list').innerHTML = pdflist.map(function (item, i) {
+                        document.querySelector('.issues-list').innerHTML = artifactsList.map(function (item, i) {
                             if (item.indexOf('.jpg ') !== -1) {
                                 // Skip jpg artifacts
                                 return '';

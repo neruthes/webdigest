@@ -3,7 +3,7 @@ const sh = require('child_process').execSync;
 const sanitizeTextForLatex = require('../../.jslib/sanitizeTextForLatex.js').sanitizeTextForLatex;
 const utils = require('../../.jslib/utils.js');
 
-let fetchedData = JSON.parse(fs.readFileSync(`${process.env.DATADIR}/hackernews/newest.json`).toString());
+let fetchedData = JSON.parse(fs.readFileSync(`${process.env.DATADIR}/hackernews.json`).toString());
 
 
 const outputLatex = fetchedData.items.map(function (item) {

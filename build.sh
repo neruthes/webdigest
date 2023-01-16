@@ -31,7 +31,6 @@ case $1 in
         printf "HTML:\nhttps://webdigest.pages.dev/readhtml/$THISYEAR/WebDigest-$DATEMARK.html\n\n" >> $fn
         printf "Markdown:\nhttps://github.com/neruthes/webdigest/blob/master/markdown/$THISYEAR/WebDigest-$DATEMARK.md" >> $fn
         cp $fn $fn2
-        cp $fn _dist/tgmsg.txt
         pandoc -i _dist/tgmsg.txt -f markdown -t html -o _dist/tgmsg.html
         cat $fn
         ;;

@@ -40,9 +40,9 @@ MARKUP=HTML tgbot-msg /home/neruthes/DEV/clinotifbot-tg $(pasm p tgid) _dist/tgm
 
 
 ### And play with experimental ApubNode instance
-# cd /home/neruthes/DEV/mypubnode
-# apubnode newnote webdigest '' <<< /home/neruthes/DEV/webdigest/_dist/tgmsg.html
-# bash build.sh cf
-# git add .
-# git commit -m 'Automatic commit '"$(date '+%F %T')"
-# git push
+cd /home/neruthes/DEV/mypubnode
+apubnode newnote webdigest '' < /home/neruthes/DEV/webdigest/_dist/tgmsg.html
+bash build.sh cf
+git add .
+git commit -m 'Automatic commit '"$(date '+%F %T')"
+git push

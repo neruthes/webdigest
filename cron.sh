@@ -35,8 +35,8 @@ cp .tmp/notif.html _dist/notif.html
 
 shareDirToNasPublic
 
-MARKUP=HTML tgbot-msg /home/neruthes/DEV/clinotifbot-tg $(pasm p tgid) <(cat _dist/notif.html)
-MARKUP=HTML tgbot-msg /home/neruthes/DEV/clinotifbot-tg $(pasm p tgid) <(cat _dist/tgmsg.txt)
+MARKUP=HTML tgbot-msg /home/neruthes/DEV/clinotifbot-tg $(pasm p tgid) _dist/notif.html
+MARKUP=HTML tgbot-msg /home/neruthes/DEV/clinotifbot-tg $(pasm p tgid) _dist/tgmsg.txt
 
 
 ### And play with experimental ApubNode instance

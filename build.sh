@@ -18,6 +18,13 @@ fi
 
 
 case $1 in
+    redoall)
+        for FORCEDATE in $(ls webdb/$(date +%Y)); do
+            export FORCEDATE="$FORCEDATE"
+            source .env
+            $dothis
+        done
+        ;;
     lastpdf)
         realpath $(find _dist -name '*.pdf' | sort -r | head -n1)
         ;;

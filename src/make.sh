@@ -23,29 +23,36 @@ sed "s|DATESTRING|$(date --date=$DATEMARK '+%F')|g" .texlib/template-v1.tex |
 
 
 
-function fill_parts_tex() {
-    part_id="$1"
-    part_title="$2"
-    texpath=$DATADIR/final/$part_id.tex
+function fill_chapter_tex() {
+    chapter_id="$1"
+    chapter_title="$2"
+    texpath="$DATADIR/final/$chapter_id.tex"
     if [[ ! -e $texpath ]]; then
-        echo "[WARNING] Omitting '$part_id' due to lack of file '$texpath'"
+        echo "[WARNING] Omitting '$chapter_id' due to lack of file '$texpath'"
         return 0
     fi
-    echo "\ipart{$part_title}" >> $output_tex_path
+    echo "\ichapter{$chapter_title}" >> $output_tex_path
     cat $texpath >> $output_tex_path
+}
+function fill_part_tex() {
+    part_title="$1"
+    echo "\ipart{$part_title}" >> $output_tex_path
 }
 
 
-output_tex_path=$DATADIR/final/all.tex
+output_tex_path="$DATADIR/final/all.tex"
 printf "" > $output_tex_path
-fill_parts_tex      hackernews      "Hacker News"
-fill_parts_tex      v2ex            "V2EX"
-fill_parts_tex      solidot         "Solidot"
-fill_parts_tex      phoronix        "Phoronix"
-fill_parts_tex      zaobao          "联合早报"
-fill_parts_tex      ap              "AP News"
-fill_parts_tex      github          "GitHub"
-fill_parts_tex      dribbble        "Dribbble"
+fill_part_tex           "Developers"
+fill_chapter_tex        hackernews      "Hacker News"
+fill_chapter_tex        phoronix        "Phoronix"
+fill_chapter_tex        github          "GitHub"
+fill_chapter_tex        dribbble        "Dribbble"
+fill_part_tex           "Developers~~~~(zh-Hans)"
+fill_chapter_tex        solidot         "Solidot"
+fill_chapter_tex        v2ex            "V2EX"
+fill_part_tex           "Generic News"
+fill_chapter_tex        ap              "AP News"
+fill_chapter_tex        zaobao          "联合早报"
 
 # \ipart{Hacker News}
 # \input{FINALDIR/hackernews.tex}

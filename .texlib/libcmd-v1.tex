@@ -36,7 +36,22 @@
     \clearpage
     \stepcounter{ipartcounter}
     \phantomsection
-    \addcontentsline{toc}{section}{#1}
+    \addcontentsline{toc}{chapter}{#1}
+    % \begin{center}
+    %     \Huge
+    %     \sffamily\bfseries
+    %     #1
+    % \end{center}
+    % \vskip 20pt plus 7pt
+}
+\newcounter{ichaptercounter}
+\setcounter{ichaptercounter}{0}
+\newcommand{\ichapter}[1]{
+    % \vskip 20pt
+    \clearpage
+    \stepcounter{ichaptercounter}
+    \phantomsection
+    \addcontentsline{toc}{section}{\numberline{\arabic{ichaptercounter}}#1}
     \begin{center}
         \Huge
         \sffamily\bfseries

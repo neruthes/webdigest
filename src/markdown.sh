@@ -32,17 +32,23 @@ function convert_to_markdown() {
     echo "\section{$part_title}" >> $md_tex
     cat $texpath >> $md_tex
 }
+function set_chapter() {
+    echo "\chapter{$1}" >> $md_tex
+}
 
 
 ### Start converting
+set_chapter             "Developers"
 convert_to_markdown     hackernews      "Hacker News"
-convert_to_markdown     v2ex            "V2EX"
-convert_to_markdown     solidot         "Solidot"
 convert_to_markdown     phoronix        "Phoronix"
-convert_to_markdown     zaobao          "联合早报"
-convert_to_markdown     ap              "AP News"
 convert_to_markdown     github          "GitHub"
 convert_to_markdown     dribbble        "Dribbble"
+set_chapter             "Developers (zh-Hans)"
+convert_to_markdown     solidot         "Solidot"
+convert_to_markdown     v2ex            "V2EX"
+set_chapter             "Generic News"
+convert_to_markdown     ap              "AP News"
+convert_to_markdown     zaobao          "联合早报"
 
 
 
@@ -87,7 +93,11 @@ final_output_html_fn="$DESTHTMLDIR/WebDigest-$DATEMARK.html"
 echo "[INFO] Generating $final_output_html_fn"
 
 mkdir -p "$DESTHTMLDIR"
-cat $final_output_markdown_fn | grep -v 'Other formats' | sed 's|\[\[TOC\]\]||' | grep -v '# Web Digest' | pandoc -f markdown --toc -o $final_output_html_fn.content.html
+cat $final_output_markdown_fn |
+    grep -v 'Other formats' |
+    sed 's|\[\[TOC\]\]||' |
+    grep -v '# Web Digest' |
+    pandoc -f markdown -o $final_output_html_fn.content.html
 sed -i 's|color\: blue\!80\!green||g' $final_output_html_fn.content.html
 sed -i 's|color\: black\!50|color: #888;|g' $final_output_html_fn.content.html
 

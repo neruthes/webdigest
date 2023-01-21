@@ -11,7 +11,7 @@ cd /home/neruthes/DEV/webdigest
 
 bash build.sh today > .tmp/buildlog.txt 2>&1
 
-WRITE_OSSLIST=n minoss _dist/tgmsg.txt
+WRITE_OSSLIST=n minoss .tmp/buildlog.txt
 
 
 
@@ -22,20 +22,18 @@ if grep -qsi error .tmp/buildlog.txt; then
 else
     echo -e "Everything looks good." >> .tmp/notif.html
 fi
-echo -e "<a href='https://minio-zt.neruthes.xyz/oss/keep/webdigest/buildlog.txt--a43ccfb78e5b960ad7a2b6226572bf19.txt'>
-https://minio-zt.neruthes.xyz/oss/keep/webdigest/buildlog.txt--a43ccfb78e5b960ad7a2b6226572bf19.txt
+echo -e "<a href='https://minio.neruthes.xyz/oss/keep/webdigest/buildlog.txt--a43ccfb78e5b960ad7a2b6226572bf19.txt'>
+https://minio.neruthes.xyz/oss/keep/webdigest/buildlog.txt--a43ccfb78e5b960ad7a2b6226572bf19.txt
 </a>" >> .tmp/notif.html 2>/dev/null
 
-pdfurl="https://nas-public.neruthes.xyz:2096/webdigest-07f285cda0d2dd34bc7a4d07/$(find _dist/issue -name '*.pdf' | sort -r | head -n1)"
+pdfurl="https://nas-public.neruthes.xyz/webdigest-07f285cda0d2dd34bc7a4d07/$(find _dist/issue -name '*.pdf' | sort -r | head -n1)"
 echo -e "Artifact:
 <a href='$pdfurl'>$pdfurl</a>" >> .tmp/notif.html
 
-
-cp .tmp/notif.html _dist/notif.html
-
 shareDirToNasPublic
 
-MARKUP=HTML tgbot-msg /home/neruthes/DEV/clinotifbot-tg $(pasm p tgid) _dist/notif.html
+
+MARKUP=HTML tgbot-msg /home/neruthes/DEV/clinotifbot-tg $(pasm p tgid) .tmp/notif.html
 MARKUP=HTML tgbot-msg /home/neruthes/DEV/clinotifbot-tg $(pasm p tgid) _dist/tgmsg.txt
 
 

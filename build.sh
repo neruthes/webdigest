@@ -30,15 +30,13 @@ case $1 in
         ;;
     tgmsg)
         source .env
-        fn=".tmp/tgmsg/$THISYEAR/$DATEMARK.txt"
-        fn2="_dist/tgmsg.txt"
-        mkdir -p ".tmp/tgmsg/$THISYEAR"
+        fn="_dist/tgmsg.txt"
         printf "**Web Digest $BETTER_DATEMARK**\n\n" > $fn
         printf "PDF:\n$(grep "$DATEMARK.pdf https" .osslist | cut -d' ' -f2)\n\n" >> $fn
         printf "HTML:\nhttps://webdigest.pages.dev/readhtml/$THISYEAR/WebDigest-$DATEMARK.html\n\n" >> $fn
         printf "Markdown:\nhttps://github.com/neruthes/webdigest/blob/master/markdown/$THISYEAR/WebDigest-$DATEMARK.md" >> $fn
-        cp $fn $fn2
-        pandoc -i _dist/tgmsg.txt -f markdown -t html -o _dist/tgmsg.html
+        # cp $fn $fn2
+        pandoc -i $fn -f markdown -t html -o _dist/tgmsg.html
         cat $fn
         ;;
     tag)

@@ -186,11 +186,12 @@
                                 document.querySelector('.current-issue img').style.height = Math.floor(document.querySelector('.current-issue img').offsetHeight) + 'px';
                             }, 5);
                         };
-                        document.querySelector('.issues-list').innerHTML = artifactsList.map(function (item, i) {
-                            if (item.indexOf('.jpg ') !== -1) {
-                                // Skip jpg artifacts
-                                return '';
-                            };
+                        const pdflist = artifactsList.filter(x => x.indexOf('.jpg ') === -1);
+                        document.querySelector('.issues-list').innerHTML = pdflist.slice(0, 1000).map(function (item, i) {
+                            // if (item.indexOf('.jpg ') !== -1) {
+                            //     // Skip jpg artifacts
+                            //     return '';
+                            // };
                             const issueId = item.match(/\d{8}/)[0];
                             return `<a href="${item.split(' ')[1]}" class="issue-link">
                                 <div>${issueId.replace(/(\d{6})/, '$1-').replace(/(\d{4})/, '$1-')}</div>

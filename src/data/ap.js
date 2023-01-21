@@ -6,7 +6,6 @@ const utils = require('../../.jslib/utils.js');
 let Parser = require('rss-parser');
 let parser = new Parser();
 
-
 (async () => {
     let feed = await parser.parseString(fs.readFileSync(`${process.env.DATADIR}/ap.xml`));
     

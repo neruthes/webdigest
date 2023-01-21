@@ -36,6 +36,7 @@ function fill_chapter_tex() {
 }
 function fill_part_tex() {
     part_title="$1"
+    printf "\n\n\n" >> $output_tex_path
     echo "\ipart{$part_title}" >> $output_tex_path
 }
 

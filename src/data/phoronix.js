@@ -10,8 +10,8 @@ let parser = new Parser();
     let feed = await parser.parseString(fs.readFileSync(`${process.env.DATADIR}/phoronix.xml`));
 
     const outputLatex = feed.items.map(item => {
-        return sanitizeTextForLatex(`\\entryitemGeneric{\\hskip 0pt{}${item.title}}{${item.link.replace(/\#.+$/, '')}}`);
-    }).filter(utils.killbadwords).slice(0, 9).join('\n\n');
+        return (`\\entryitemGeneric{\\hskip 0pt{}${sanitizeTextForLatex(item.title)}}{${utils.removeUrlHash(item.link)}}`);
+    }).filter(utils.killBadWords).slice(0, 9).join('\n\n');
 
     fs.writeFileSync(`${process.env.DATADIR}/final/phoronix.tex`, outputLatex);
 })();

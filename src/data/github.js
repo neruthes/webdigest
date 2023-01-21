@@ -10,12 +10,10 @@ let parser = new Parser();
     let feed = await parser.parseString(fs.readFileSync(`${process.env.DATADIR}/github.xml`));
 
     const outputLatex = feed.items.map(item => {
-        const sanitizedContent = sh(`pandoc -f html -t latex`, { input: item.content }).toString().trim().split('\n').slice(1).join('\n');
-        // console.log(sanitizedContent)
-        return sanitizeTextForLatex(`\\entryitemGithub{\\hskip 0pt{}${item.title}}{${item.link.replace(/\#.+$/, '')}}`) + `{${sanitizedContent}}`;
-    }).filter(utils.killbadwords).join('\n\n');
-
-    // console.log(feed.items[0]);
+        const sanitizedContent = sh(`pandoc -f html -t latex`, { input: item.content.replace(/(<br>)+/g, '<br>') }).toString().trim().split('\n').slice(1).join('\n');
+        return (`\\entryitemGithub{\\hskip 0pt{}${sanitizeTextForLatex(item.title)
+            }}{${utils.removeUrlHash(item.link)}}`) + `{${sanitizedContent}}`;
+    }).filter(utils.killBadWords).join('\n\n');
 
     fs.writeFileSync(`${process.env.DATADIR}/final/github.tex`, outputLatex);
 })();

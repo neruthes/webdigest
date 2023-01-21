@@ -1,6 +1,6 @@
 const fs = require('fs');
 const sh = require('child_process').execSync;
-const sanitizeTextForLatex = require('../../.jslib/sanitizeTextForLatex.js').sanitizeTextForLatex; 
+const sanitizeTextForLatex = require('../../.jslib/sanitizeTextForLatex.js').sanitizeTextForLatex;
 const utils = require('../../.jslib/utils.js');
 
 let Parser = require('rss-parser');
@@ -10,8 +10,8 @@ let parser = new Parser();
     let feed = await parser.parseString(fs.readFileSync(`${process.env.DATADIR}/solidot.xml`));
 
     const outputLatex = feed.items.map(item => {
-        return sanitizeTextForLatex(`\\entryitemGeneric{\\hskip 0pt{}${item.title}}{${item.link.replace(/\#.+$/, '')}}`);
-    }).filter(utils.killbadwords).join('\n\n');
+        return (`\\entryitemGeneric{\\hskip 0pt{}${sanitizeTextForLatex(item.title)}}{${utils.removeUrlHash(item.link)}}`);
+    }).filter(utils.killBadWords).join('\n\n');
 
     fs.writeFileSync(`${process.env.DATADIR}/final/solidot.tex`, outputLatex);
 })();

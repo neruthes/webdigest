@@ -22,10 +22,11 @@ function stdfetch() {
     feedurl="$1"
     fspath="$2"
     if [[ ! -e "$fspath" ]] || [[ $OVERWRITE == y ]]; then
-        curl "$feedurl" > "$fspath"
+        curl "$feedurl" > "$fspath" || echo "fetch.sh:  Failed to fetch '$feedurl'" >> $BOOMALERT
     else
         echo "[ERROR] Feed file '$fspath' already exists. Delete it to fetch '$sourcename' again." >&2
     fi
+    dos2unix "$fspath"
 }
 function rssxmlfetch() {
     feedurl="$1"

@@ -59,7 +59,7 @@ convert_to_markdown     zaobao          "联合早报"
 pandoc \
     --shift-heading-level-by=1 \
     -i $md_tex \
-    -o $output_md
+    -o $output_md || echo "markdown.sh:  Failed building $output_md" >> $BOOMALERT
 
 
 ### Post-processing
@@ -97,7 +97,7 @@ cat $final_output_markdown_fn |
     grep -v 'Other formats' |
     sed 's|\[\[TOC\]\]||' |
     grep -v '# Web Digest' |
-    pandoc -f markdown -o $final_output_html_fn.content.html
+    pandoc -f markdown -o $final_output_html_fn.content.html || echo "markdown.sh:  Failed building $final_output_html_fn.content.html" >> $BOOMALERT
 sed -i 's|color\: blue\!80\!green||g' $final_output_html_fn.content.html
 sed -i 's|color\: black\!50|color: #888;|g' $final_output_html_fn.content.html
 

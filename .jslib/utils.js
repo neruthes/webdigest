@@ -1,6 +1,6 @@
 module.exports = {
-    killbadwords: function (inputText) {
-        // This function shall be used as ARRAY.filter(utils.filterbadwords).join('\n\n')
+    killBadWords: function (inputText) {
+        // This function shall be used as ARRAY.filter(utils.killBadWords).join('\n\n')
         const badwords = [
             '习近平',
             'Jinping',
@@ -16,5 +16,8 @@ module.exports = {
             };
         }
         return true;
+    },
+    removeUrlHash: function (inputUrl) {
+        return inputUrl.replace(/\#.+$/, '');
     }
 }

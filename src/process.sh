@@ -6,6 +6,7 @@ source .localenv
 echo "  **  PROCESS_CURRENT_RETRY=$PROCESS_CURRENT_RETRY"
 if [[ $PROCESS_CURRENT_RETRY == 10 ]]; then
     echo "[ERROR] Reached max process retry count. Need human intervention."
+    echo "process.sh:  Reached max  retry count" >> $BOOMALERT
 else
     PROCESS_CURRENT_RETRY=0
 fi

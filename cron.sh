@@ -4,6 +4,9 @@
 # 00 0 * * * bash /home/neruthes/DEV/webdigest/cron.sh
 # Run this job at 00:00 UTC
 
+BOOMALERT=".tmp/autobuild_disaster.txt"
+[[ -e $BOOMALERT ]] && rm $BOOMALERT
+
 source /home/neruthes/.bashrc
 s5pon h
 
@@ -35,6 +38,7 @@ shareDirToNasPublic
 
 MARKUP=HTML tgbot-msg /home/neruthes/DEV/clinotifbot-tg $(pasm p tgid) .tmp/notif.html
 MARKUP=HTML tgbot-msg /home/neruthes/DEV/clinotifbot-tg $(pasm p tgid) _dist/tgmsg.txt
+[[ -e $BOOMALERT ]] && MARKUP=HTML tgbot-msg /home/neruthes/DEV/clinotifbot-tg $(pasm p tgid) <(echo -e "<strong>----- BOOM ALERT -----</strong>\n\n"; cat $BOOMALERT)
 
 
 ### And play with experimental ApubNode instance

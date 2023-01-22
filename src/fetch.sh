@@ -22,7 +22,7 @@ function stdfetch() {
     feedurl="$1"
     fspath="$2"
     if [[ ! -e "$fspath" ]] || [[ $OVERWRITE == y ]]; then
-        curl "$feedurl" > "$fspath" || echo "fetch.sh:  Failed to fetch '$feedurl'" >> $BOOMALERT
+        curl -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/109.0' "$feedurl" > "$fspath" || echo "fetch.sh:  Failed to fetch '$feedurl'" >> $BOOMALERT
     else
         echo "[ERROR] Feed file '$fspath' already exists. Delete it to fetch '$sourcename' again." >&2
     fi

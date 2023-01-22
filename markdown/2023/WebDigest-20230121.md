@@ -491,123 +491,123 @@ https://dribbble.com/shots/20414591
 
 ### Solidot
 
-#### **Linux 准备禁用微软的 RNDIS 协议驱动** 
+#### **GitHub 将停止支持 Subversion** 
 
-https://www.solidot.org/story?sid=73897
+https://www.solidot.org/story?sid=73939
 
 
 
-#### **Debian 移除 Python 2** 
+#### **微生物群在室友家人之间的共享** 
 
-https://www.solidot.org/story?sid=73791
+https://www.solidot.org/story?sid=73938
 
 
 
-#### **DistroWatch 的二十年** 
+#### **Google 联合创始人就 ChatGPT 召开会议讨论** 
 
-https://www.solidot.org/story?sid=73790
+https://www.solidot.org/story?sid=73937
 
 
 
-#### **Linux Mint 21.1 释出** 
+#### **CNET 暂停 AI 辅助撰写文章** 
 
-https://www.solidot.org/story?sid=73717
+https://www.solidot.org/story?sid=73936
 
 
 
-#### **Linux 内核贡献成熟度模型** 
+#### **暗网市场 Solaris 被竞争对手劫持** 
 
-https://www.solidot.org/story?sid=73677
+https://www.solidot.org/story?sid=73935
 
 
 
-#### **内核补丁将 kallsyms_lookup_name()查找速度提高 715 倍** 
+#### **苹果公开 Lisa 操作系统源代码** 
 
-https://www.solidot.org/story?sid=73648
+https://www.solidot.org/story?sid=73934
 
 
 
-#### **Linux 6.1 释出** 
+#### **Google 将裁员 1.2 万人** 
 
-https://www.solidot.org/story?sid=73621
+https://www.solidot.org/story?sid=73933
 
 
 
-#### **费米实验室和 CERN 选择 AlmaLinux** 
+#### **因夜晚亮度增加肉眼能看到的星星在减少** 
 
-https://www.solidot.org/story?sid=73595
+https://www.solidot.org/story?sid=73932
 
 
 
-#### **Steam Linux 市场份额达到 1.44%** 
+#### **社交网络上虚假信息传播的关键原因是其奖励机制** 
 
-https://www.solidot.org/story?sid=73543
+https://www.solidot.org/story?sid=73931
 
 
 
-#### **微软称 WSL 达到了 GA 阶段** 
+#### **研究发现在电视上打广告的药品治疗价值低** 
 
-https://www.solidot.org/story?sid=73451
+https://www.solidot.org/story?sid=73930
 
 
 
-#### **Fedora 37 发布** 
+#### **美国国务院淘汰 Times New Roman 字体** 
 
-https://www.solidot.org/story?sid=73387
+https://www.solidot.org/story?sid=73929
 
 
 
-#### **开源 Linux 平板电脑，预装 FydeOS 出货** 
+#### **当 ChatGPT 被列为论文署名作者** 
 
-https://www.solidot.org/story?sid=73256
+https://www.solidot.org/story?sid=73928
 
 
 
-#### **钓鱼网站在 Google 上伪装成 GIMP 打广告** 
+#### **波士顿动力演示双足机器人抓抛物品的能力** 
 
-https://www.solidot.org/story?sid=73245
+https://www.solidot.org/story?sid=73927
 
 
 
-#### **Fedora Linux 37 为修复高危漏洞推迟发布** 
+#### **Twitter 拍卖总部办公用品**  
 
-https://www.solidot.org/story?sid=73198
+https://www.solidot.org/story?sid=73926
 
 
 
-#### **Rust for Linux 项目下一步发展计划** 
+#### **微软宣布裁员一万人** 
 
-https://www.solidot.org/story?sid=73165
+https://www.solidot.org/story?sid=73925
 
 
 
-#### **Linux 考虑淘汰对英特尔 i486 CPU 的支持** 
+#### **维基百科启用新界面** 
 
-https://www.solidot.org/story?sid=73155
+https://www.solidot.org/story?sid=73924
 
 
 
-#### **Ubuntu 22.10 Kinetic Kudu 发布** 
+#### **亚马逊关闭 AmazonSmile 慈善项目** 
 
-https://www.solidot.org/story?sid=73140
+https://www.solidot.org/story?sid=73923
 
 
 
-#### **Tails 5.5 发布** 
+#### **美国联邦选举委员会驳回了 Google 歧视共和党竞选广告的投诉** 
 
-https://www.solidot.org/story?sid=73107
+https://www.solidot.org/story?sid=73922
 
 
 
-#### **Ubuntu 终端广告惹恼用户** 
+#### **微星主板的 BIOS 设置被发现不安全** 
 
-https://www.solidot.org/story?sid=73098
+https://www.solidot.org/story?sid=73921
 
 
 
-#### **Linus Torvalds 呼吁内核开发者不要在截止日期前递交补丁** 
+#### **印度想要由政府判断信息真伪** 
 
-https://www.solidot.org/story?sid=73088
+https://www.solidot.org/story?sid=73920
 
 
 

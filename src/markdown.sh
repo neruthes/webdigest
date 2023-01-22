@@ -15,7 +15,7 @@ touch $md_tex
 output_md="$md_tex.md"
 
 echo "\newcommand{\envyear}[0]{$THISYEAR}
-\newcommand{\envdatestr}[0]{$(date '+%F')}
+\newcommand{\envdatestr}[0]{$BETTER_DATEMARK}
 \newcommand{\envfinaldir}[0]{$DATADIR/final}" > $md_tex
 
 cat .texlib/libcmd-v1.tex >> $md_tex
@@ -59,11 +59,11 @@ convert_to_markdown     zaobao          "联合早报"
 pandoc \
     --shift-heading-level-by=1 \
     -i $md_tex \
-    -o $output_md || echo "markdown.sh:  Failed building $output_md" >> $BOOMALERT
+    -o $output_md || echo "markdown.sh:  Failed building $output_md" | tee $BOOMALERT
 
 
 ### Post-processing
-sed -i 's|plus 11pt minus 1pt||g' $output_md
+sed -i 's| plus 11pt minus 1pt||g' $output_md
 
 
 ### Put to final destination

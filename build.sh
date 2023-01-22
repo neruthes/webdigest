@@ -26,7 +26,7 @@ case $1 in
         done
         ;;
     lastpdf)
-        realpath $(find _dist -name '*.pdf' | sort -r | head -n1)
+        realpath $(find _dist -name 'WebDigest-*.pdf' | sort -r | head -n1)
         ;;
     tgmsg)
         source .env

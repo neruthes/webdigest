@@ -65,7 +65,7 @@
     \parbox{\linewidth}{
         \entrytitlefont{#1}\par\vskip 5pt
         \footnotesize\ttfamily\mdseries
-        \simplehref{#2}\par
+        \simplehref{#2}
     }\vskip 11pt plus 11pt minus 1pt
 }
 \newcommand{\entryitemGithub}[3]{
@@ -88,10 +88,16 @@
 }
 \newcommand{\entryitemHackernews}[3]{
     % argv: title, hnurl, rawurl
-    \parbox{\linewidth}{
-        \entrytitlefont{#1}\par\vskip 5pt
-        \footnotesize\ttfamily\mdseries
-        \simplehref{#3}\par
-        \textcolor{black!50}{\href{#2}{#2}}\par
-    }\vskip 11pt plus 11pt minus 1pt
+    % \parbox{\linewidth}{
+    %     \entrytitlefont{#1}\par\vskip 5pt
+    %     \footnotesize\ttfamily\mdseries
+    %     \simplehref{#3}\par
+    %     \textcolor{black!50}{\href{#2}{#2}}
+    % }\vskip 11pt plus 11pt minus 1pt
+    \begin{minipage}{\linewidth}
+            \entrytitlefont{#1}\par\vskip 5pt
+            \footnotesize\ttfamily\mdseries
+            \simplehref{#3}\par
+            \textcolor{black!50}{\href{#2}{#2}}
+    \end{minipage}\par\vskip 11pt plus 11pt minus 1pt
 }

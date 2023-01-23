@@ -19,6 +19,10 @@ fi
 
 case $1 in
     redoall)
+        if [[ -z "$dothis" ]]; then
+            echo "[ERROR] Please set env var 'dothis'."
+            exit 1
+        fi
         for FORCEDATE in $(ls webdb/$(date +%Y)); do
             export FORCEDATE="$FORCEDATE"
             source .env
@@ -259,14 +263,12 @@ case $1 in
         cfoss $1
         ;;
     deploy)
-        shareDirToNasPublic
+        shareDirToNasPublic -a
         wrangler pages publish wwwdist --project-name=webdigest --commit-dirty=true --branch=main
-        # for i in pkgdist/*; do
-        #     cfoss $i
-        # done
         ;;
     '')
         bash $0 wwwdist pkgdist deploy
         shareDirToNasPublic
+        bash $0 pkgdist/*.* tag
         ;;
 esac

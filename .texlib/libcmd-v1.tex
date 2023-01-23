@@ -4,26 +4,19 @@
 }
 \newcommand{\makeheader}[0]{
     \begin{titlepage}
-        % \newgeometry{hmargin=15mm,tmargin=21mm,bmargin=12mm}
         \begin{center}
-            
             \rmfamily\scshape
             \fontspec{BaskervilleF}
             \fontspec{Old Standard}
             \fontsize{59pt}{70pt}\selectfont
-            WEB\hfill DIGEST
-            
+            WEB\hfill DIGEST\par
             \vfill
-            % \vskip 30pt
             \includegraphics[width=\linewidth]{\envfinaldir/coverpic-prod.jpg}\par
-            % \vskip 30pt
             \vfill
-
             \normalsize\rmfamily\scshape
             \copyright{} The Web Digest Project \hfill\large \envdatestr
         \end{center}
     \end{titlepage}
-    % \restoregeometry
 }
 \newcommand{\simplehref}[1]{%
     \textcolor{blue!80!green}{\href{#1}{#1}}%
@@ -37,12 +30,6 @@
     \stepcounter{ipartcounter}
     \phantomsection
     \addcontentsline{toc}{chapter}{#1}
-    % \begin{center}
-    %     \Huge
-    %     \sffamily\bfseries
-    %     #1
-    % \end{center}
-    % \vskip 20pt plus 7pt
 }
 \newcounter{ichaptercounter}
 \setcounter{ichaptercounter}{0}
@@ -68,7 +55,7 @@
         \simplehref{#2}
     }\vskip 11pt plus 11pt minus 1pt
 }
-\newcommand{\entryitemGithub}[3]{
+\newcommand{\entryitemWithDescription}[3]{
     % argv: title, url, desc
     \parbox{\linewidth}{
         \entrytitlefont{#1}\par\vskip 5pt
@@ -77,23 +64,8 @@
         \small\rmfamily\mdseries#3
     }\vskip 11pt plus 11pt minus 1pt
 }
-\newcommand{\entryitemAp}[3]{
-    % argv: title, url, desc
-    \parbox{\linewidth}{
-        \entrytitlefont{#1}\par\vskip 5pt
-        \footnotesize\ttfamily\mdseries
-        \simplehref{#2}\par\vskip 5pt
-        \small\rmfamily\mdseries#3
-    }\vskip 11pt plus 11pt minus 1pt
-}
-\newcommand{\entryitemHackernews}[3]{
+\newcommand{\entryitemTwoLinks}[3]{
     % argv: title, hnurl, rawurl
-    % \parbox{\linewidth}{
-    %     \entrytitlefont{#1}\par\vskip 5pt
-    %     \footnotesize\ttfamily\mdseries
-    %     \simplehref{#3}\par
-    %     \textcolor{black!50}{\href{#2}{#2}}
-    % }\vskip 11pt plus 11pt minus 1pt
     \begin{minipage}{\linewidth}
             \entrytitlefont{#1}\par\vskip 5pt
             \footnotesize\ttfamily\mdseries

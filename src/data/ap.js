@@ -15,7 +15,7 @@ let parser = new Parser();
         }).toString().replace(/\n/g, ' ').trim().slice(0, 240).replace(/[^\w]*$/, '').replace(/[\\\-\s\,\.\(\)]*?[\w\,]+?$/, '...');
         // console.log(sanitizedContent)
         const shorturl = 'https://apnews.com/article/' + item.link.match(/\w+$/)[0];
-        return sanitizeTextForLatex(`\\entryitemAp{\\hskip 0pt{}${
+        return sanitizeTextForLatex(`\\entryitemWithDescription{\\hskip 0pt{}${
             sanitizeTextForLatex(item.title)
         }}{${shorturl}}`) + `{${sanitizedContent}}`;
     }).filter(utils.killBadWords).slice(0, 13).join('\n\n');

@@ -10,15 +10,10 @@ fi
 
 
 md_tex="$DATADIR/to-markdown.tex"
-touch $md_tex
+cat src/misclib/mdhead.tex > $md_tex
 
 output_md="$md_tex.md"
 
-echo "\newcommand{\envyear}[0]{$THISYEAR}
-\newcommand{\envdatestr}[0]{$BETTER_DATEMARK}
-\newcommand{\envfinaldir}[0]{$DATADIR/final}" > $md_tex
-
-cat .texlib/libcmd-v1.tex >> $md_tex
 
 
 
@@ -73,8 +68,6 @@ final_output_markdown_fn="$DESTMDDIR/WebDigest-$DATEMARK.md"
 echo "[INFO] Generating $final_output_markdown_fn"
 
 mkdir -p "$DESTMDDIR"
-# echo "DESTMDDIR=$DESTMDDIR"
-# echo "final_output_markdown_fn=$final_output_markdown_fn"
 pdfossfn="$(grep "$DATEMARK.pdf https" .osslist | cut -d' ' -f2)"
 echo -e "Other formats: [PDF]($pdfossfn) / [HTML](https://webdigest.pages.dev/readhtml/$THISYEAR/WebDigest-$DATEMARK.html)\n\n" > $final_output_markdown_fn
 echo -e "# Web Digest $BETTER_DATEMARK\n\n" >> $final_output_markdown_fn

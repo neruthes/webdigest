@@ -1,0 +1,30 @@
+\newcommand{\simplehref}[1]{%
+    \textcolor{blue!80!green}{\href{#1}{#1}}%
+}
+\newcommand{\entrytitlefont}[1]{\subsection{#1}}
+\newcommand{\entryitemGeneric}[2]{
+    % argv: title, url
+    \parbox{\linewidth}{
+        \entrytitlefont{#1}\par
+        \footnotesize\ttfamily\mdseries
+        \simplehref{#2}
+    }
+}
+\newcommand{\entryitemWithDescription}[3]{
+    % argv: title, url, desc
+    \parbox{\linewidth}{
+        \entrytitlefont{#1}\par
+        \footnotesize\ttfamily\mdseries
+        \simplehref{#2}\par
+        \small\rmfamily\mdseries#3
+    }
+}
+\newcommand{\entryitemTwoLinks}[3]{
+    % argv: title, hnurl, rawurl
+    \begin{minipage}{\linewidth}
+            \entrytitlefont{#1}\par
+            \footnotesize\ttfamily\mdseries
+            \simplehref{#3}\par
+            \textcolor{black!50}{\href{#2}{#2}}
+    \end{minipage}\par
+}

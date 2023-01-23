@@ -11,7 +11,7 @@ let parser = new Parser();
 
     const outputLatex = feed.items.map(item => {
         const sanitizedContent = sh(`pandoc -f html -t latex`, { input: item.content.replace(/(<br>)+/g, '<br>') }).toString().trim().split('\n').slice(1).join('\n');
-        return (`\\entryitemGithub{\\hskip 0pt{}${sanitizeTextForLatex(item.title)
+        return (`\\entryitemWithDescription{\\hskip 0pt{}${sanitizeTextForLatex(item.title)
             }}{${utils.removeUrlHash(item.link)}}`) + `{${sanitizedContent}}`;
     }).filter(utils.killBadWords).join('\n\n');
 

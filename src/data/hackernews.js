@@ -7,7 +7,7 @@ let fetchedData = JSON.parse(fs.readFileSync(`${process.env.DATADIR}/hackernews.
 
 
 const outputLatex = fetchedData.items.map(function (item) {
-    return (`\\entryitemHackernews{${sanitizeTextForLatex(item.title)}}{${sanitizeTextForLatex(item.id)}}{${sanitizeTextForLatex(item.url)}}`);
+    return (`\\entryitemTwoLinks{${sanitizeTextForLatex(item.title)}}{${sanitizeTextForLatex(item.id)}}{${sanitizeTextForLatex(item.url)}}`);
 }).filter(utils.killBadWords).join('\n\n');
 
 

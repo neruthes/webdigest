@@ -1,0 +1,881 @@
+Other formats: [PDF](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/webdigest/WebDigest-20230126.pdf--ecfc6af46e97e2d56b8ff6dda50c4692.pdf) / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20230126.html)
+
+
+# Web Digest 2023-01-26
+
+
+## Developers
+
+### Hacker News
+
+#### I almost bought a scanner
+
+http://leejo.github.io/2023/01/25/scanner/
+
+https://news.ycombinator.com/item?id=34524749
+
+#### 9k-year-old Stonehenge-like structure found under Lake Michigan
+
+https://www.thearchaeologist.org/blog/9000-year-old-stonehenge-like-structure-found-under-lake-michigan
+
+https://news.ycombinator.com/item?id=34524006
+
+#### Amazon has radically transformed small businesses in both the U.S. and China
+
+https://www.semafor.com/article/01/25/2023/how-amazon-turned-small-businesses-into-day-traders
+
+https://news.ycombinator.com/item?id=34522597
+
+#### OpenJourney: Midjourney, but Open Source
+
+https://open-journey.github.io/
+
+https://news.ycombinator.com/item?id=34522311
+
+#### The audacity of Apple Podcasts
+
+https://basta.substack.com/p/the-absolute-audacity-of-apple-podcasts
+
+https://news.ycombinator.com/item?id=34521970
+
+#### Kaktovik Numerals
+
+https://en.wikipedia.org/wiki/Kaktovik_numerals
+
+https://news.ycombinator.com/item?id=34521179
+
+#### Replacing a SQL analyst with 26 recursive GPT prompts
+
+https://www.patterns.app/blog/2023/01/18/crunchbot-sql-analyst-gpt/
+
+https://news.ycombinator.com/item?id=34521149
+
+#### Tell HN: From \$200/mo to \$18k in 5 years as solo founder
+
+https://news.ycombinator.com/item?id=34520664
+
+https://news.ycombinator.com/item?id=34520664
+
+#### Do not taunt happy fun branch predictor
+
+https://www.mattkeeter.com/blog/2023-01-25-branch/
+
+https://news.ycombinator.com/item?id=34520498
+
+#### Annotated: Sam Bankman-Fried's "FTX Pre-Mortem Overview"
+
+https://www.mollywhite.net/annotations/sbf-ftx-pre-mortem-overview
+
+https://news.ycombinator.com/item?id=34520461
+
+#### Jetnet Acquires ADS-B Exchange, a community-fed ADSB aggregator
+
+https://www.jetnet.com/news/jetnet-acquires-ads-b-exchange.html
+
+https://news.ycombinator.com/item?id=34520355
+
+#### Coinbase's chief product officer will leave with a \$105M payday
+
+https://dlnews.com/articles/coinbase-chief-product-officer-surojit-chatterjee-gets-105-million-payday
+
+https://news.ycombinator.com/item?id=34520031
+
+#### HelloSystem -- OS with original Mac philosophy with a modern architecture
+
+https://github.com/helloSystem/hello
+
+https://news.ycombinator.com/item?id=34519824
+
+#### Show HN: Automatisch -- Open source workflow automation, an alternative to Zapier
+
+https://automatisch.io
+
+https://news.ycombinator.com/item?id=34519639
+
+#### What we look for in a resume
+
+https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html
+
+https://news.ycombinator.com/item?id=34519268
+
+#### Antidepressants help bacteria resist antibiotics: study
+
+https://www.nature.com/articles/d41586-023-00186-y
+
+https://news.ycombinator.com/item?id=34518720
+
+#### US Marines defeat DARPA robot by hiding under a cardboard box
+
+https://www.extremetech.com/extreme/342413-us-marines-defeat-darpa-robot-by-hiding-under-a-cardboard-box
+
+https://news.ycombinator.com/item?id=34518299
+
+#### Show HN: A simple world flags game, my first web dev project as a beginner
+
+https://billywojcicki.github.io/vexillologist/
+
+https://news.ycombinator.com/item?id=34518074
+
+#### Using blocks in Rust and Go for fun and profit
+
+https://taylor.town/code-blocks
+
+https://news.ycombinator.com/item?id=34517965
+
+#### Hilton Hotels Loyalty Program Data Breached, Info of 3.7M Users for Sale
+
+https://thecyberexpress.com/hilton-hotels-loyalty-program-data-breached/
+
+https://news.ycombinator.com/item?id=34517944
+
+### Phoronix
+
+#### AMD Working To Upstream New AMDGPU/AMDKFD Compute Debugger API
+
+https://www.phoronix.com/news/AMDGPU-Compute-ISA-Debug-Kernel
+
+#### Arm Helping With AArch64 Rust Linux Kernel Enablement
+
+https://www.phoronix.com/news/AArch64-Rust-Linux-Kernel
+
+#### The Performance Impact From Different Arch Linux Kernel Flavors
+
+https://www.phoronix.com/review/arch-linux-kernels-2023
+
+#### Google Engineer Introduces \"Light AVX\" Support Within LLVM
+
+https://www.phoronix.com/news/LLVM-Google-Light-AVX-Option
+
+#### AMD Publishes New Firmware Binaries For Upcoming Hardware
+
+https://www.phoronix.com/news/AMD-January-2023-New-Firmware
+
+#### Intel Meteor Lake VPU Accelerator Support Ready For Linux 6.3
+
+https://www.phoronix.com/news/Intel-MTL-VPU-Driver-Linux-6.3
+
+#### Microsoft's Dzn Mesa Driver Now Exposes Vulkan 1.1
+
+https://www.phoronix.com/news/Microsoft-Dzn-Vulkan-1.1-Works
+
+#### LLVM 16.0 Feature Development Ends - Aiming For Early March Compiler Release
+
+https://www.phoronix.com/news/LLVM-16-Feature-Dev-Ends
+
+#### Stratis Storage 3.5 Released With Encrypted Cache Support
+
+https://www.phoronix.com/news/Stratis-Storage-3.5
+
+### GitHub
+
+#### trekhleb/javascript-algorithms
+
+https://github.com/trekhleb/javascript-algorithms
+
+📝 Algorithms and data structures implemented in JavaScript with
+explanations and links to further readings\
+Language: JavaScript\
+Stars: 160859\
+Forks: 26617
+
+#### initialcommit-com/git-sim
+
+https://github.com/initialcommit-com/git-sim
+
+Visually simulate Git operations in your own repos with a single
+terminal command.\
+Language: Python\
+Stars: 1171\
+Forks: 35
+
+#### brycedrennan/imaginAIry
+
+https://github.com/brycedrennan/imaginAIry
+
+AI imagined images. Pythonic generation of stable diffusion images.\
+Language: Python\
+Stars: 5237\
+Forks: 226
+
+#### hyprwm/Hyprland
+
+https://github.com/hyprwm/Hyprland
+
+Hyprland is a dynamic tiling Wayland compositor that doesnt sacrifice on
+its looks.\
+Language: C++\
+Stars: 5426\
+Forks: 198
+
+#### Blackymas/NSPanel_HA_Blueprint
+
+https://github.com/Blackymas/NSPanel_HA_Blueprint
+
+This allows you to configure your complete NSPanel via Blueprint with UI
+and without changing anything in the code\
+Language: Unknown\
+Stars: 240\
+Forks: 42
+
+#### timqian/chinese-independent-blogs
+
+https://github.com/timqian/chinese-independent-blogs
+
+中文独立博客列表\
+Language: JavaScript\
+Stars: 12744\
+Forks: 1811
+
+#### ripienaar/free-for-dev
+
+https://github.com/ripienaar/free-for-dev
+
+A list of SaaS, PaaS and IaaS offerings that have free tiers of interest
+to devops and infradev\
+Language: HTML\
+Stars: 65934\
+Forks: 7171
+
+### Dribbble
+
+#### Chart Cards
+
+https://dribbble.com/shots/20454370
+
+#### Trust the Process
+
+https://dribbble.com/shots/20459868
+
+#### Midland Appliance
+
+https://dribbble.com/shots/20425768
+
+#### Custo product page
+
+https://dribbble.com/shots/20469142
+
+#### SafePal Branding
+
+https://dribbble.com/shots/20421178
+
+#### Seven Summits
+
+https://dribbble.com/shots/20439111
+
+#### Playrcart -- Notifications
+
+https://dribbble.com/shots/20453000
+
+#### Website design for Marketing Agency
+
+https://dribbble.com/shots/20428609
+
+#### Rootcube Logo Design and Branding
+
+https://dribbble.com/shots/20407630
+
+#### Radial Chart
+
+https://dribbble.com/shots/20464065
+
+#### Do Not Disturb Reminder
+
+https://dribbble.com/shots/20460477
+
+#### Keyboards
+
+https://dribbble.com/shots/20458774
+
+#### Alcohol Wine Market App
+
+https://dribbble.com/shots/20437141
+
+#### 3d city
+
+https://dribbble.com/shots/20466238
+
+#### \[P\] 1 → N
+
+https://dribbble.com/shots/20406942
+
+#### Apres --- Use Cases pages
+
+https://dribbble.com/shots/20466236
+
+#### Dave Matthews & Tim Reynolds 2023 Riviera Maya Branding
+
+https://dribbble.com/shots/20459671
+
+#### Fruit Sticker Pt. IX
+
+https://dribbble.com/shots/20462203
+
+#### Finance
+
+https://dribbble.com/shots/20452436
+
+#### Bookling Brand Guidelines
+
+https://dribbble.com/shots/20415038
+
+#### Education Website Design business landing web page site designer
+
+https://dribbble.com/shots/20247474
+
+#### Blue Mountain Bakery - Logo Design
+
+https://dribbble.com/shots/20466942
+
+#### Cute Planet #008 -- 🚓 Traveler
+
+https://dribbble.com/shots/20423679
+
+#### Blockchain Security Landing Page
+
+https://dribbble.com/shots/20476149
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### WINE 8.0 释出
+
+https://www.solidot.org/story?sid=73954
+
+#### 苹果向 iPhone 5S 释出安全更新
+
+https://www.solidot.org/story?sid=73953
+
+#### Mozilla.org 诞生 25 周年
+
+https://www.solidot.org/story?sid=73951
+
+#### 日本首相警告因生育率下降国家处于无法正常运作的边缘
+
+https://www.solidot.org/story?sid=73950
+
+#### 天文学家探测到来自最遥远星系的射电信号
+
+https://www.solidot.org/story?sid=73949
+
+#### GitHub 赞助人将不再能使用 PayPal 
+
+https://www.solidot.org/story?sid=73948
+
+#### 微软向 OpenAI 投资数十亿美元
+
+https://www.solidot.org/story?sid=73947
+
+#### Twitter 修改开发者协议明确禁止第三方客户端
+
+https://www.solidot.org/story?sid=73946
+
+#### 马斯克的 Twitter 拒绝支付迫使马斯克收购 Twitter 的咨询公司的费用
+
+https://www.solidot.org/story?sid=73945
+
+#### 因软件故障美国高中一天 24 小时开着灯
+
+https://www.solidot.org/story?sid=73944
+
+### V2EX
+
+#### \[Nuxt.js\] nuxt3 请求数据的最佳实践是什么
+
+https://www.v2ex.com/t/910662
+
+#### \[macOS\] 兄弟们， Ventura 13.2 可以冲了吗？
+
+https://www.v2ex.com/t/910661
+
+#### \[iPhone\] 关于 iPhone 换电池
+
+https://www.v2ex.com/t/910660
+
+#### \[问与答\] 兄弟们，急求一款 Mac PC 上都能用的可靠好用能给移动硬盘加密的软件
+
+https://www.v2ex.com/t/910659
+
+#### \[macOS\] M1 Pro 机器上有没有办法运行 x86_64 Linux 系统
+
+https://www.v2ex.com/t/910658
+
+#### \[微信\] 请问微信小程序的 request 怎么拦截 302 重定向啊
+
+https://www.v2ex.com/t/910657
+
+#### \[互联网\] 一声叹息，小鸡词典对 16 日下线的回应
+
+https://www.v2ex.com/t/910656
+
+#### \[Linux\] SSH 多人共用同一 root 用户的计算服务器有必要用单独的公钥吗，用和别的服务器相同的公钥有没有风险？（指的是放进 authorized_keys 里的公钥，每人放一个自己的）
+
+https://www.v2ex.com/t/910655
+
+#### \[问与答\] 一加 11 和 iPhone14，大家推荐哪部？
+
+https://www.v2ex.com/t/910654
+
+#### \[Telegram\] telegram 帐号又被封了，寻找一个平替软件
+
+https://www.v2ex.com/t/910653
+
+#### \[程序员\] 写了一个 GPT3 电报机器人，可以 docker 部署，方便随时问点小问题。
+
+https://www.v2ex.com/t/910652
+
+#### \[OpenAI\] 有没有更加稳定的使用 chatgpt 的方法？
+
+https://www.v2ex.com/t/910651
+
+#### \[问与答\] 请问 windows11 22H2 恢复 windows10 样式开始菜单的方式
+
+https://www.v2ex.com/t/910649
+
+#### \[问与答\] 有看过《流浪地球 2》的朋友吗，来探讨下音效问题？
+
+https://www.v2ex.com/t/910648
+
+#### \[问与答\] 台式机如何使用 miracast 投屏到其他显示器？
+
+https://www.v2ex.com/t/910647
+
+#### \[生活\] 单身的人一般不会帮异性朋友介绍对象吧。。
+
+https://www.v2ex.com/t/910646
+
+#### \[随想\] 全世界的服务器里大概有多少数据是有效数据呢？
+
+https://www.v2ex.com/t/910645
+
+#### \[Google\] ChromeOS 的 Linux 竟然不能离线使用
+
+https://www.v2ex.com/t/910644
+
+#### \[程序员\] 有没有能替代宝塔的开源软件？
+
+https://www.v2ex.com/t/910643
+
+#### \[分享创造\] 开源 C 语言库 Melon： I/O 线程模型
+
+https://www.v2ex.com/t/910642
+
+#### \[MacBook Pro\] 买了一台 m2 pro 16+512 8500 加一顿烧烤 划算么
+
+https://www.v2ex.com/t/910641
+
+#### \[问与答\] 关于压岁钱如何花？
+
+https://www.v2ex.com/t/910640
+
+#### \[VPS\] 在线 markdown 编辑器支持读取 VPS 或者云端 md 文件?树状展开?
+
+https://www.v2ex.com/t/910639
+
+#### \[宽带症候群\] 大佬们,碰到个问题关于 CLASH 和 UU 同时使用应该怎么操作
+
+https://www.v2ex.com/t/910638
+
+#### \[macOS\] macOS 的屏幕共享能使用证书登录吗？单纯的密码感觉不太安全
+
+https://www.v2ex.com/t/910637
+
+#### \[程序员\] Linux port for GacUI 已经基本完成，欢迎体验
+
+https://www.v2ex.com/t/910636
+
+#### \[macOS\] 升级 13.2 提示"未能个性化软件更新"，有遇到的吗？怎么处理呢？
+
+https://www.v2ex.com/t/910635
+
+#### \[分享发现\] 通过 wireguard 联机玩 psp 游戏
+
+https://www.v2ex.com/t/910634
+
+#### \[问与答\] 低配小姐鸡还能做点啥啊？🤔
+
+https://www.v2ex.com/t/910633
+
+#### \[问与答\] PT 要和 BT 需要分开两个下载器吗
+
+https://www.v2ex.com/t/910631
+
+#### \[程序员\] 招收远程高级 Java 工程师
+
+https://www.v2ex.com/t/910630
+
+#### \[问与答\] 有的女生真的很奇怪
+
+https://www.v2ex.com/t/910629
+
+#### \[问与答\] 提交代码到 github 上，怎么改为 github 账号的身份
+
+https://www.v2ex.com/t/910626
+
+#### \[问与答\] 求教一下 Typecho 在新增文章上传图片的时候,这个回显地址怎么改?
+
+https://www.v2ex.com/t/910625
+
+#### \[分享发现\] 过年回家发现现在卖课的已经把目标下放到长辈身上了,我的一些长辈都开始看剪辑课的直播了
+
+https://www.v2ex.com/t/910624
+
+#### \[问与答\] 14 号买高铁票到现在已经候补了 11 天了， 28 号就要出发了，最后 2 天这还能候补上么
+
+https://www.v2ex.com/t/910623
+
+#### \[问与答\] 你在国外的时候可以使用淘宝的电脑网页版么？
+
+https://www.v2ex.com/t/910622
+
+#### \[程序员\] 第一次人在海外，求推荐回国机场
+
+https://www.v2ex.com/t/910621
+
+#### \[问与答\] 有没有懂法律的 V 友帮我解解惑，跪谢!
+
+https://www.v2ex.com/t/910620
+
+#### \[问与答\] 有什么低价位的类原生系统手机吗
+
+https://www.v2ex.com/t/910619
+
+#### \[问与答\] Windows10 如何为特定 SSID 设置静态 IP / 网关
+
+https://www.v2ex.com/t/910617
+
+#### \[问与答\] 帮忙看看，这服务器能拿来干嘛？
+
+https://www.v2ex.com/t/910615
+
+#### \[问与答\] 有那种访问域名，但域名内容是自己自定义网址的方法吗？
+
+https://www.v2ex.com/t/910614
+
+#### \[分享创造\] 今天的热议主题全部都是编撰的？
+
+https://www.v2ex.com/t/910613
+
+#### \[问与答\] 有没有没捆绑的单纯关闭 window10 系统开机自启项的小软件？
+
+https://www.v2ex.com/t/910612
+
+#### \[Apple\] 为什么 ios wg vpn 开启关闭这么费劲呢
+
+https://www.v2ex.com/t/910611
+
+#### \[硬件\] 我想到一个关于平板电脑的问题，无聊的大佬可以探讨
+
+https://www.v2ex.com/t/910610
+
+#### \[程序员\] 提个小程序的需求，有没有人能做呀？关于挑选眼镜
+
+https://www.v2ex.com/t/910609
+
+#### \[Python\] 关于 closure 的一个疑问
+
+https://www.v2ex.com/t/910608
+
+#### \[问与答\] 有没有人和我一样觉得 Linux 下浏览器字体偏小？
+
+https://www.v2ex.com/t/910607
+
+## Generic News
+
+### AP News
+
+#### EXPLAINER: Why the US flipped on sending tanks to Ukraine
+
+https://apnews.com/article/7b8475342e6d5e0ad6e45715fe5a1fd9
+
+FILE - A Leopard 2 tank is pictured during a demonstration event held
+for the media by the German Bundeswehr in Munster near Hannover,
+Germany, Wednesday, Sept. 28, 2011. Chancellor Olaf Scholz is expected
+to announce Wednesday, Jan. 25\...
+
+#### Afghan soldier seeking US asylum freed from federal custody
+
+https://apnews.com/article/957bcc74c66f8aca60e8a5de353d8743
+
+Sami-ullah Safi holds photographs of his brother, Abdul Wasi Safi, as he
+talks about his brothers journey to the U.S. during an interview
+Wednesday, Jan. 18, 2023, in Houston. Safis brother, who\...
+
+#### Spain: 1 dead in church machete attacks, terror link probed
+
+https://apnews.com/article/9fedf5fe435c743b4ef918d01debcb64
+
+Police work next to the body of a man killed in Algeciras, southern
+Spain, Wednesday, Jan. 25, 2023. Spains interior ministry says that one
+person has been killed and another serious injured in an attack carried
+out by a\...
+
+#### Tax season already? Some tips for avoiding stress and scams
+
+https://apnews.com/article/f626db81e3941974c8fa0fffa45e7295
+
+FILE - A man waits outside a H&R Block tax preparation office on Monday,
+April 6, 2020, in the Brooklyn borough of New York. Tax season is here
+again. Whether you do your taxes by yourself, go to a tax clinic or hire
+a professional\...
+
+#### Suspect in Half Moon Bay farm killings faces 7 murder counts
+
+https://apnews.com/article/aad04bf67fb035dd36482de606611498
+
+Merced Martinez places a candle at a memorial for victims of the mass
+shooting the day before in Half Moon Bay, Calif., Tuesday, Jan. 24,
+2023. (Carlos Avila Gonzalez/San Francisco Chronicle via AP) HALF MOON
+BAY, Calif. (AP) --- A\...
+
+#### New lawsuits target state restrictions on abortion pills
+
+https://apnews.com/article/57f4d6f79996e38788e0aa2f28deadb9
+
+FILE - Boxes of the drug mifepristone sit on a shelf at the West Alabama
+Womens Center in Tuscaloosa, Ala., on March 16, 2022. Lawsuits have been
+filed in West Virginia and North Carolina challenging the states\...
+
+#### AmazonSmile's end is alarming, say nonprofits that benefited
+
+https://apnews.com/article/0c0cb5a4526adf87d7c16ce908325d46
+
+FILE - In this Feb. 14, 2019 file photo, people stand in the lobby for
+Amazon offices in New York. Amazon is ending a charity donation program
+it ran for a decade in its latest cost-cutting move. In a blog post on
+Wednesday, Jan. 18\...
+
+#### Despite concerns, US to send 31 Abrams tanks to Ukraine
+
+https://apnews.com/article/7b63726a3935da3f03424e98e52a85b2
+
+President Joe Biden speaks about Ukraine from the Roosevelt Room at the
+White House in Washington, Wednesday, Jan. 25, 2023, as Secretary of
+State Antony Blinken, left, and Defense Secretary Lloyd Austin listen.
+(AP Photo/Susan Walsh\...
+
+#### Lawyer: Admins were warned 3 times the day boy shot teacher
+
+https://apnews.com/article/a40dfad64388aadf1f90211177412522
+
+Lawyer Diane Toscano, who represents Abigail Zwerner, the Newport News
+teacher who was shot by a six-year-old student, reads a statement to
+media on Wednesday, Jan. 25, 2023, in Newport News, Va. (Mike
+Caudill/The Virginian-Pilot via AP\...
+
+#### EXPLAINER: Novak Djokovic's successful return to Australia
+
+https://apnews.com/article/3b1e5a3925f8519cfaad548fb9d3806e
+
+Novak Djokovic of Serbia signs autographs after defeating Andrey Rublev
+of Russia in their quarterfinal match at the Australian Open tennis
+championship in Melbourne, Australia, Wednesday, Jan. 25, 2023. (AP
+Photo/Dita Alangkara\...
+
+#### Hurts, Jefferson, Mahomes among AP NFL MVP finalists
+
+https://apnews.com/article/749e5bf5c9d3c7cd37872f34b49e0928
+
+Philadelphia Eagles quarterback Jalen Hurts runs for a touchdown against
+the New York Giants during the first half of an NFL divisional round
+playoff football game, Saturday, Jan. 21, 2023, in Philadelphia. (AP
+Photo/Matt Rourke) Jalen\...
+
+#### Central American gangs raising fears in southern Mexico
+
+https://apnews.com/article/bbebd03f8d7c28dc2d4e40faac5d1844
+
+Passengers sit in a passenger van with tinted windows, inside a station
+in Tapachula, Mexico, Thursday, Jan. 19, 2023. With threatening phone
+calls, burned minibuses and at least three suspected killings, street
+gangs more closely\...
+
+#### Leaders are meant to keep state secrets. Just not at home.
+
+https://apnews.com/article/8b55b7f48f6a999fd7608799655dbb93
+
+FILE - This image contained in a court filing by the Department of
+Justice on Aug. 30, 2022, and redacted by in part by the FBI, shows a
+photo of documents seized during the Aug. 8 search by the FBI of former
+President Donald Trump\...
+
+### 联合早报
+
+#### 中国首次公布全国感染情况 单日新增确诊上月22日峰值逾700万起
+
+https://www.zaobao.com/news/china/story20230126-1356535
+
+中国官方星期三首次公布全国冠病感染情况，数据显示，去年12月22日前后，感染人数达到峰值，今年1月23日则录得峰后最低值。图为1月25日春节假期期间，福州三坊七巷游人如织。（中新社）
+中国放开冠病疫情管控后，官方首次公布全国感染情况。数据显示，去年12月22日前后感染冠病人数达到峰值，每日最多新增阳性病例超过700万起，重症患者数量最高每日增量近1万起......
+
+#### 任泽平批计划经济与司马南掀骂战 吴晓波声援：要与反民营经济观点势不两立
+
+https://www.zaobao.com/news/china/story20230126-1356536
+
+中国民营经济研究会副会长任泽平（左）与网络名人司马南（右），近期因民营经济课题在微博上掀起骂战。中国知名财经作家吴晓波（中）1月25日发文声援任泽平，并指要与反对民营经济的舆论势不两立......
+
+#### 白云观"摸生肖"祈福
+
+https://www.zaobao.com/news/china/story20230126-1356538
+
+位于北京市西城区西便门外的白云观街9号，是道教全真道三大祖庭之一，也是全真道龙门派的祖庭。中国道教协会、中国道教学院、中国道教文化研究所等机构设于观内。白云观每年春节举办庙会，游人如鲫，热闹非凡。很久以前就有传说："神仙本无踪，只留石猴在观中"，过年来白云观摸石猴算是传统项目，游客以此祈求灵气和平安。元辰殿外的十二生肖浮雕壁处，排队人龙长达几十米，大多数游客都按顺序将十二生肖摸遍......
+
+#### 赵立坚调职后 首次发微博向粉丝拜年
+
+https://www.zaobao.com/news/china/story20230126-1356539
+
+中国外交部前发言人赵立坚调职后，首度在妻子的拜年微博配图中露面，他自己也首次发微博向粉丝拜年。
+赵立坚妻子汤天如微博号"大聪和臭丫头"大年三十（1月21日）晚上发出赵立坚贴春联的照片，并配文"祝愿大家兔年吉祥，安康幸福，大展宏兔（大展宏图）"。照片中的赵立坚身穿蓝色外衣，在门上张贴"迎春接福"的春联......
+
+#### 台媒：陈建仁首肯 接替苏贞昌出任行政院长
+
+https://www.zaobao.com/news/china/story20230126-1356540
+
+据台湾媒体报道，前副总统陈建仁在与总统蔡英文面谈后，首肯接替苏贞昌出任行政院院长。（陈建仁脸书）
+台湾政府内阁改组大势底定。据悉，前副总统陈建仁在与总统蔡英文面谈后，首肯接替苏贞昌出任行政院长，蔡英文将在星期四（1月26日）正式对外宣布......
+
+#### 早 说
+
+https://www.zaobao.com/news/china/story20230126-1356541
+
+液化天然气市场仍存在巨大的不确定性，我们要观察中国的经济活动等因素。
+------澳大利亚最大天然气出口商Woodside Energy
+Group首席执行官奥尼尔认为，中国撤回冠病清零政策后将导致天然气需求回升，使市场供应吃紧......
+
+#### 大陆放宽出入境限制 港澳农历新年旅游和消费强劲复苏
+
+https://www.zaobao.com/news/china/story20230126-1356543
+
+▲澳门在星期一（1月23日）创下了疫情以来接待旅客人数最多的单日记录。图为游客1月24日乘坐大巴抵达澳门新葡京酒店后准备下车。（路透社）
+大年除夕当天有1万4892名大陆游客入境，这是香港自2020年2月因疫情关闭边界以来的最高单日数字。澳门在大年初二也接待了7万1678人次入境旅客，是自疫情以来录得的最高单日入境人次......
+
+#### 世行指中国提太多不实际要求 导致赞比亚债务重组进程缓慢
+
+https://www.zaobao.com/news/china/story20230126-1356544
+
+世界银行行长马尔帕斯称，中国在赞比亚债权国谈判中的行为，导致该国债务重组进程延迟，中国政府须要放弃不切实际的要求。
+据彭博社星期三（1月25日）报道，马尔帕斯指中国在债权人委员会中提出了很多问题，导致债务重组进程延迟。
+他说，当务之急是实现实际的债务重组，减轻赞比亚的债务。他补充说，在未来几个月内可能会取得进展......
+
+#### 美对华半导体出口禁令 暂未影响荷兰ASML对中国出口
+
+https://www.zaobao.com/news/china/story20230126-1356545
+
+荷兰光刻机巨头阿斯麦公司（ASML
+Holdings）说，美国对华半导体出口禁令目前并未影响公司对中国大陆的出口，并预计随着中国经济在防疫措施放宽后复苏，2023年的客户需求将依然强劲......
+
+#### 韩国12家学术机构网站 农历新年遭中国黑客攻击
+
+https://www.zaobao.com/news/china/story20230126-1356546
+
+韩国12家学术机构网站农历新年期间遭中国黑客攻击，韩国官方称黑客攻击目的尚不得而知，但没有构成实际威胁。
+据韩联社报道，韩国互联网振兴院星期三（1月25日）说，目前已遭到中国黑客攻击的网站，包括大韩建设政策研究院、国语学会、韩国考古学会等。其中大年初一（1月22日）遭到攻击的大韩建设政策研究院官网页面，到星期三仍显示"无法访问此网站"......
+
+#### 耶伦吁北京减免赞比亚债务 中国促美停止破坏主权国解决债务问题努力
+
+https://www.zaobao.com/news/china/story20230125-1356212
+
+耶伦（中）1月23日抵达卢萨卡州议会大厦，受到赞比亚总统希奇莱马（右一）的迎接。（法新社）
+赞比亚是耶伦此次非洲三国之行的第二站，她在访问期间向媒体表示，赞比亚的债务积压拖累了整个国家的经济，而中国一直是解决赞比亚债务问题的障碍。
+中美两国就发展中国家债务问题再度隔空交锋......
+
+#### 在台陆生面对两难 留下生活难返乡也难
+
+https://www.zaobao.com/news/china/story20230125-1356213
+
+台湾正式开放陆生报考大专院校迈入第12年，陆生在台人数从最高的4万1981人，减至如今的不到4300人。这些学子无疑是见证两岸关系的晴雨表。图为台湾大学校园。
+（缪宗翰摄）
+台湾高校的寒假早在1月上半个月就已开始，春节期间留在校园中的大多是境外学生，包括大陆籍学生，他们多半已超过两年未曾回家。受到台海情势严峻与疫情等影响，不论留在台湾或回到中国大陆，对他们而言都不是容易的选择......
+
+#### 美众院议长麦卡锡春季访台 大陆学者：基本已成定局
+
+https://www.zaobao.com/news/china/story20230125-1356214
+
+对于美国众议院议长麦卡锡将在春季访问台湾的消息，分析人士认为，麦卡锡访台基本已成定局。
+据美国政治新闻网站"酒杯新闻"（Punchbowl
+News）引述消息人士报道，麦卡锡将在春季访台，美国国防部正为此做准备。
+尽管美国官方尚未证实麦卡锡是否将访台，但南京大学国际关系学院院长朱锋接受《联合早报》访问时研判，麦卡锡的台湾行"几乎已成定局"......
+
+#### 中国两科学家研究发现 地球内核或已改变旋转方向
+
+https://www.zaobao.com/news/china/story20230125-1356215
+
+根据一项最新研究报告，地球内核已经停止与地球外部圈层同方向旋转，甚至可能正在往相反方向旋转。
+北京大学地球与空间科学学院教授宋晓东和特聘副研究员杨翼，星期一（1月23日）在《自然·地球科学》（Nature
+Geoscience）上发布的最新研究结果，揭示了地球内核近70年来的差速旋转模式的变化......
+
+#### 早说
+
+https://www.zaobao.com/news/china/story20230125-1356216
+
+虽然冠病病毒仍然存在，但疫情大流行已经过去，目前基本已进入"后大流行"阶段。
+------香港大学感染及传染病中心总监何栢良，星期二（1月24日）在香港商业电台节目中这样表示。他认为"长新冠"等标签某程度上是不必要的，并形容在复常路上不应疑神疑鬼，只要完成接种冠病疫苗，就可放心复常......
+
+#### 杨丹旭：如果麦卡锡访台
+
+https://www.zaobao.com/news/china/story20230125-1356217
+
+农历新年第二天，美国媒体Punchbowl
+News曝出一个足以震撼两岸的消息：五角大楼正在为新上任的众议院议长麦卡锡访台做准备。
+虽然报道强调访台行程的规划还在初期阶段，但报道引述的知情官员，对麦卡锡访台的日期给出了一个相当具体的时间范围------今年春季。
+麦卡锡去年参选众议院议长以来，有关他计划访台的消息就甚嚣尘上......
+
+#### 传中国将解除澳洲龙虾进口禁令 分析：北京或是借机寻求支持加入CPTPP
+
+https://www.zaobao.com/news/china/story20230125-1356218
+
+澳大利亚2020年要求就冠病起源展开国际调查后，中国当年5月起开始对澳洲实施单方面贸易制裁。有关龙虾的禁令是非正式的，只是口头上传达给贸易商。据《南华早报》报道，中国正在讨论澳大利亚龙虾的清关事宜......
+
+#### 大陆春节档电影票房破30亿人民币
+
+https://www.zaobao.com/news/china/story20230125-1356219
+
+中国大陆春节档电影票房已经突破30亿元（人民币，下同，约5.8亿新元），为大陆电影市场迎来2023年开门红。有机构预测，档期总票房可能会突破90亿。
+春节档从除夕（1月21日）算起，一直到大年初六（27日）。据澎湃新闻报道，猫眼专业版平台数据显示，截至星期二（1月24日）早上8时55分，2023年春节档总票房突破30亿元......
+
+#### 大陆对发展中国家贷款 2021年降至13年来最低
+
+https://www.zaobao.com/news/china/story20230125-1356220
+
+受中国削减大型石油项目资助影响，中国两家政策性银行承诺向新兴经济体提供的贷款数额，在2021年降至13年来最低水平。
+据路透社报道，美国波士顿大学全球发展政策研究中心的调查显示，中国进出口银行和中国国家开发银行对100个发展中国家的贷款承诺，在2016年达到最高记录后逐年下滑。由于北京削减对大型石油项目的资金，这两家政策性银行承诺的贷款在2021年降至37亿美元（48.84亿新元）......
+
+#### 江西抚州东乡通告全员核检后删除
+
+https://www.zaobao.com/news/china/story20230125-1356221
+
+自中国大陆放开疫情防控以来，核酸检测已逐渐远离民众生活。但江西省抚州市东乡区官方星期二（24日）中午发布通告，将在星期三和星期四开展全员核酸检测，引发网民质疑是否违背国家政策......
+
+#### 港沙田马场初三开锣人山人海
+
+https://www.zaobao.com/news/china/story20230125-1356222
+
+星期二（1月24日）大年初三，香港一年一度的"农历新年赛马日"在沙田马场开锣。今年除了是继2020年后，首次有公众人士入场的农历新年赛马日，马迷无须使用疫苗通行证，也可在场内除口罩进食，场内人山人海。香港赛马会今年向每位入场马迷派发"招财笔"一支及抽奖卡，场内也设有大型摇钱树及桃花林让市民打卡，以及风车让市民转个好运......
+
+#### 对官方与专家失去信任 大陆民众转向网红寻求防治冠病偏方
+
+https://www.zaobao.com/news/china/story20230125-1356223
+
+中国政府防疫政策大转弯，使许多中国民众对官方与专家失去信任，转向社交媒体上的网红与明星寻求治疗或预防感染冠病的偏方。
+中国防疫措施在短短几周内松绑后，感染病例迅速激增，病毒目前仍在没有应对冠病经验的城镇传播。
+随着政策转弯，以中国工程院院士锺南山为首的卫生官员，从警示冠病的危险改口淡化其严重性，称冠病大不了就是引起"感冒"......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

@@ -10,7 +10,7 @@ let parser = new Parser();
     let feed = await parser.parseString(fs.readFileSync(`${process.env.DATADIR}/solidot.xml`));
 
     const outputLatex = feed.items.map(item => {
-        return (`\\entryitemGeneric{\\hskip 0pt{}${sanitizeTextForLatex(item.title)}}{${utils.removeUrlHash(item.link)}}`);
+        return (`\\entryitemGeneric{\\hskip 0pt{}${sanitizeTextForLatex(item.title)}}{${sanitizeTextForLatex(utils.removeUrlHash(item.link))}}`);
     }).filter(utils.killBadWords).join('\n\n');
 
     fs.writeFileSync(`${process.env.DATADIR}/final/solidot.tex`, outputLatex);

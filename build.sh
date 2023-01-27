@@ -46,17 +46,17 @@ case $1 in
     tag)
         tag_suffix="$(git tag | grep v$(date +%Y%m) | wc -l)"
         tagname="v$(date +%Y%m).$tag_suffix"
-        echo git tag $tagname
-        echo git push origin $tagname
-        echo "https://github.com/neruthes/webdigest/releases/new"
-        bash $0 count
-        du -h "$(realpath pkgdist/pdfdist.tar)"
+        echo "Command:      $ git tag $tagname && git push origin $tagname"
+        echo "URL:          https://github.com/neruthes/webdigest/releases/new"
+        echo "Message:      $(bash $0 count)"
+        echo "Artifacts:"
+        du -h $(realpath pkgdist/pdfdist.tar)
         ;;
     count)
         echo "Snapshot of PDF artifacts, total count: $(
-            find _dist -name '*.pdf' | wc -l
+            find _dist/issue -name '*.pdf' | wc -l
         ), up to $(
-            find _dist -name '*.pdf' | sort -r | head -n1 | cut -d/ -f4 | cut -d- -f2 | cut -d. -f1 | date --date=$(cat /dev/stdin) +%F
+            find _dist/issue -name '*.pdf' | sort -r | head -n1 | cut -d/ -f4 | cut -d- -f2 | cut -d. -f1 | date --date=$(cat /dev/stdin) +%F
         )"
         ;;
     ISSUES.md)

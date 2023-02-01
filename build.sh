@@ -50,7 +50,7 @@ case $1 in
         echo "URL:          https://github.com/neruthes/webdigest/releases/new"
         echo "Message:      $(bash $0 count)"
         echo "Artifacts:"
-        du -h $(realpath pkgdist/pdfdist.tar)
+        du -h $(realpath pkgdist/pdfdist-2023.tar)
         ;;
     count)
         echo "Snapshot of PDF artifacts, total count: $(
@@ -240,7 +240,7 @@ case $1 in
                         fi
                         echo "<a class='dirindexlistanchor' href='./$ITEM$ITEM_SUFFIX'>$ITEM$ITEM_SUFFIX</a>" >> $INDEXFILE
                     done
-                    cat src/htmllib/dirindex.tail.html >> $INDEXFILE
+                    cat src/htmllib/dirindex.tail.html >> "$INDEXFILE"
                 fi
             done
         }
@@ -253,10 +253,11 @@ case $1 in
         make_indexhtml_for_dirs
         ;;
     pkgdist | pkgdist/ )
+        source .env
         echo "[INFO] Producing tarballs..."
-        tar -cf pkgdist/pdfdist.tar --exclude '_dist/issue/*/*.jpg' _dist/
-        tar -cf pkgdist/wwwdist.tar wwwdist/
-        tar -cf pkgdist/webdb.tar webdb/
+        tar -cf "pkgdist/pdfdist-$THISYEAR.tar" --exclude "_dist/issue/$THISYEAR/*.jpg" "_dist/issue/$THISYEAR"
+        tar -cf "pkgdist/wwwdist.tar" wwwdist/
+        tar -cf "pkgdist/webdb.tar" webdb/
         ;;
     pkgdist/*.*)
         echo "[INFO] Uploading tarballs..."

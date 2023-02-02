@@ -1,0 +1,823 @@
+Other formats: [PDF](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/webdigest/WebDigest-20230202.pdf--3090ea28e38f669382e02cb0e7f030e5.pdf) / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20230202.html)
+
+
+# Web Digest 2023-02-02
+
+
+## Developers
+
+### Hacker News
+
+#### ChatGPT is a bullshit generator but it can still be amazingly useful
+
+https://aisnakeoil.substack.com/p/chatgpt-is-a-bullshit-generator-but
+
+https://news.ycombinator.com/item?id=34618376
+
+#### Easter egg in flight path of last 747 delivery flight
+
+https://www.flightradar24.com/GTI747/2f0b1162
+
+https://news.ycombinator.com/item?id=34616511
+
+#### Go 1.20 released
+
+https://go.dev/doc/go1.20
+
+https://news.ycombinator.com/item?id=34616352
+
+#### ChatGPT Plus
+
+https://openai.com/blog/chatgpt-plus/
+
+https://news.ycombinator.com/item?id=34614796
+
+#### Release engineering is exhausting so here's cargo-dist
+
+https://blog.axo.dev/2023/02/cargo-dist
+
+https://news.ycombinator.com/item?id=34614497
+
+#### Same.energy: Image Search by Similarity
+
+https://same.energy
+
+https://news.ycombinator.com/item?id=34614449
+
+#### Netlify acquires Gatsby
+
+https://www.netlify.com/press/netlify-acquires-gatsby-inc-to-accelerate-adoption-of-composable-web-architectures/
+
+https://news.ycombinator.com/item?id=34613039
+
+#### A Cold War mystery: Why did Jimmy Carter save the space shuttle?
+
+https://arstechnica.com/science/2016/07/a-cold-war-mystery-why-did-jimmy-carter-save-the-space-shuttle/
+
+https://news.ycombinator.com/item?id=34612771
+
+#### Data-Free Disneyland
+
+https://www.optoutproject.net/data-free-disney/
+
+https://news.ycombinator.com/item?id=34612732
+
+#### Ask HN: Who is hiring? (February 2023)
+
+https://news.ycombinator.com/item?id=34612353
+
+https://news.ycombinator.com/item?id=34612353
+
+#### Ask HN: Who wants to be hired? (February 2023)
+
+https://news.ycombinator.com/item?id=34612351
+
+https://news.ycombinator.com/item?id=34612351
+
+#### Virtual DOM is pure overhead (2018)
+
+https://svelte.dev/blog/virtual-dom-is-pure-overhead
+
+https://news.ycombinator.com/item?id=34612162
+
+#### Python's "disappointing" superpowers
+
+https://lukeplant.me.uk/blog/posts/pythons-disappointing-superpowers/
+
+https://news.ycombinator.com/item?id=34611969
+
+#### Academia's culture of overwork almost broke me, so I'm working to undo it
+
+https://www.nature.com/articles/d41586-023-00241-8
+
+https://news.ycombinator.com/item?id=34611412
+
+#### Why are online recipes so long-winded?
+
+https://jjpryor.substack.com/p/why-are-online-recipes-always-so
+
+https://news.ycombinator.com/item?id=34611222
+
+#### When Discord is open in the background, NVIDIA card will not reach full speed
+
+[[https://nvidia.custhelp.com/app/answers/detail/a_id/5443/ /when-discord-is-open-in-the-background%2C-graphics-card-memory-clocks-will-not](https://nvidia.custhelp.com/app/answers/detail/a_id/5443/~/when-discord-is-open-in-the-background%2C-graphics-card-memory-clocks-will-not)]
+
+https://news.ycombinator.com/item?id=34611136
+
+#### Show HN: We built a developer-first open-source Zapier alternative
+
+https://trigger.dev
+
+https://news.ycombinator.com/item?id=34610686
+
+#### Pakistani gov degrades Wikipedia connections due to blasphemy
+
+https://www.pta.gov.pk/en/media-center/single-media/wikipedia-services-degraded-over-unlawful-content-010223
+
+https://news.ycombinator.com/item?id=34610517
+
+#### Operation Luigi: How I hacked my friend without her noticing (2017)
+
+https://mango.pdf.zone/operation-luigi-how-i-hacked-my-friend-without-her-noticing
+
+https://news.ycombinator.com/item?id=34610376
+
+#### An astonishing regularity in student learning rate
+
+https://psyarxiv.com/pxsfh/
+
+https://news.ycombinator.com/item?id=34610253
+
+### Phoronix
+
+#### Go 1.20 Released With Preview PGO Support, CPU Architecture Feature Build Flags
+
+https://www.phoronix.com/news/Go-1.20-Released
+
+#### Intel's \"DOITM\" Security Feature Not Intended For Always-On Use, Linux Patches To Be Revised
+
+https://www.phoronix.com/news/Intel-DOITM-Not-Always-On
+
+#### AMD Announces Ryzen 7800X3D / 7900X3D / 7950X3D Pricing & Availability
+
+https://www.phoronix.com/news/Ryzen-7800X3D-7900X3D-7950X3D
+
+#### GNU C Library \"glibc\" 2.37 Released
+
+https://www.phoronix.com/news/Glibc-2.37-Released
+
+#### Intel Highlights Their Progress On Arc Graphics Drivers Since Launch
+
+https://www.phoronix.com/news/Intel-Windows-DG2-Since-Launch
+
+#### Intel Making More Preparations For Enabling Future Graphics Platforms On Linux
+
+https://www.phoronix.com/news/Intel-Prep-For-Future-Feb-2023
+
+#### Intel In-Field Scan Functionality Being Extended With Emerald Rapids
+
+https://www.phoronix.com/news/Intel-IFS-Emerald-Rapids
+
+#### Mesa 23.1 Lands Improvement For Better Handling Steam's Shader Cache
+
+https://www.phoronix.com/news/Mesa-23.1-Cache-Evict-Optimize
+
+#### Linux 6.3 Features, Intel Sapphire Rapids & More Made For An Exciting January
+
+https://www.phoronix.com/news/January-2023-Highlights
+
+### GitHub
+
+#### casey/ord
+
+https://github.com/casey/ord
+
+👁‍🗨 Rare and exotic sats\
+Language: Rust\
+Stars: 260\
+Forks: 37
+
+#### cxasm/notepad--
+
+[[https://github.com/cxasm/notepad--](https://github.com/cxasm/notepad--)]
+
+一个支持windows/linux/mac的文本编辑器，目标是要替换notepad++，来自中国。\
+Language: C++\
+Stars: 1274\
+Forks: 44
+
+#### techiescamp/kubernetes-learning-path
+
+https://github.com/techiescamp/kubernetes-learning-path
+
+A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)\
+Language: Unknown\
+Stars: 1190\
+Forks: 145
+
+#### microsoft/Data-Science-For-Beginners
+
+https://github.com/microsoft/Data-Science-For-Beginners
+
+Weeks, 20 Lessons, Data Science for All!\
+Language: Jupyter Notebook\
+Stars: 17433\
+Forks: 3313
+
+#### Anduin2017/HowToCook
+
+https://github.com/Anduin2017/HowToCook
+
+程序员在家做饭方法指南。Programmers guide about how to cook at home
+(Chinese only).\
+Language: HTML\
+Stars: 50361\
+Forks: 7449
+
+#### acheong08/ChatGPT
+
+https://github.com/acheong08/ChatGPT
+
+Real browserless ChatGPT library and command line tool. Using official
+API\
+Language: Python\
+Stars: 10742\
+Forks: 1429
+
+#### iluwatar/java-design-patterns
+
+https://github.com/iluwatar/java-design-patterns
+
+Design patterns implemented in Java\
+Language: Java\
+Stars: 79507\
+Forks: 24562
+
+#### fuergaosi233/wechat-chatgpt
+
+https://github.com/fuergaosi233/wechat-chatgpt
+
+Use ChatGPT On Wechat via wechaty\
+Language: TypeScript\
+Stars: 5683\
+Forks: 1282
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### 麦当劳威尔士播放古典音乐遏制反社会行为
+
+https://www.solidot.org/story?sid=74015
+
+#### 2023 年 PC 和手机出货量预计将连续第二年下滑
+
+https://www.solidot.org/story?sid=74014
+
+#### 美国计划在 5 月 11 日结束新冠疫情紧急状态
+
+https://www.solidot.org/story?sid=74013
+
+#### Instagram 联合创始人推出新社交应用 Artifact
+
+https://www.solidot.org/story?sid=74012
+
+#### 波音交付最后一架 747 飞机
+
+https://www.solidot.org/story?sid=74011
+
+#### 科学家演示靠风飞行由光控制的机器人
+
+https://www.solidot.org/story?sid=74010
+
+#### 特斯拉在比特币投资上亏损 1.4 亿美元
+
+https://www.solidot.org/story?sid=74009
+
+#### OpenAI 发布检测机器生成文本的工具
+
+https://www.solidot.org/story?sid=74008
+
+#### PET 胶带导致电池自放电
+
+https://www.solidot.org/story?sid=74007
+
+#### Spotify 订阅用户数突破 2 亿
+
+https://www.solidot.org/story?sid=74006
+
+#### AMD 四季度净利润大幅下降
+
+https://www.solidot.org/story?sid=74005
+
+#### 英特尔计划削减所有雇员的薪水
+
+https://www.solidot.org/story?sid=74004
+
+#### 小鹏飞行汽车获民航总局的批准
+
+https://www.solidot.org/story?sid=74003
+
+#### AI 系统设计出全新的抗菌蛋白质
+
+https://www.solidot.org/story?sid=74002
+
+#### 月球上的时间如何制定？
+
+https://www.solidot.org/story?sid=74001
+
+#### Impossible Foods 计划裁员五分之一
+
+https://www.solidot.org/story?sid=74000
+
+#### 研究发现疫情期间学生损失三分之一学年
+
+https://www.solidot.org/story?sid=73999
+
+#### TikTok CEO 周受资将出席美国国会听证会
+
+https://www.solidot.org/story?sid=73998
+
+#### 为什么肥胖对男性更危险？
+
+https://www.solidot.org/story?sid=73997
+
+#### 逾三分之一亚马逊雨林退化
+
+https://www.solidot.org/story?sid=73996
+
+### V2EX
+
+#### \[Windows\] wsa 是不是完全没法玩游戏？
+
+https://www.v2ex.com/t/912432
+
+#### \[问与答\] 不是省会土著的本省人去省会发展，跟外省外地人有区别吗？
+
+https://www.v2ex.com/t/912431
+
+#### \[Apple TV\] 新 Apple TV 的遥控器质量真的很差，建议大家买 AC+
+
+https://www.v2ex.com/t/912430
+
+#### \[问与答\] 有没有转行到教师或者公务员成功的 coder？
+
+https://www.v2ex.com/t/912429
+
+#### \[区块链\] Damus 来互 Fo \@hzlzh
+
+https://www.v2ex.com/t/912428
+
+#### \[电影\] 流浪地球-好片-极建议去影院观赏
+
+https://www.v2ex.com/t/912426
+
+#### \[macOS\] 软件全屏后排序问题
+
+https://www.v2ex.com/t/912425
+
+#### \[问与答\] 深夜咨询，工作多年，处在人生十字路口
+
+https://www.v2ex.com/t/912424
+
+#### \[NAS\] 求教，有带 M.2 接口用于提速的硬盘柜吗？
+
+https://www.v2ex.com/t/912422
+
+#### \[程序员\] 裁员了，从移动端转后端，转吗？
+
+https://www.v2ex.com/t/912420
+
+#### \[求职\] 上海三年半 Java 求个工作
+
+https://www.v2ex.com/t/912419
+
+#### \[程序员\] 我写了一个很方便的 ChatGPT 桌面应用 GPTron
+
+https://www.v2ex.com/t/912417
+
+#### \[问与答\] 出国(澳洲)留学有什么值得/需要带的东西
+
+https://www.v2ex.com/t/912416
+
+#### \[区块链\] 大家玩 Damus 了吗？
+
+https://www.v2ex.com/t/912415
+
+#### \[程序员\] 说起来可能你们不信，我每天下班后，都会把代码同步到小米手机上。
+
+https://www.v2ex.com/t/912414
+
+#### \[MacBook Pro\] 现在(2023/2)入 Dell U2723QX 还值得么?
+
+https://www.v2ex.com/t/912413
+
+#### \[分享发现\] 现在可以判断一段话是不是 ChatGPT 写的了。
+
+https://www.v2ex.com/t/912412
+
+#### \[电影\] 流浪地球-烂片-极不建议去影院观赏
+
+https://www.v2ex.com/t/912411
+
+#### \[信息安全\] KeePass Password Manager vulnerability： what you need to know - gHacks Tech News
+
+https://www.v2ex.com/t/912410
+
+#### \[分享发现\] 一次尝试，当一次"网络乞丐"
+
+https://www.v2ex.com/t/912409
+
+#### \[Apple\] 电脑坏了之后遇到的蹊跷事，求三个福尔摩斯帮断案
+
+https://www.v2ex.com/t/912408
+
+#### \[问与答\] 生产环境下由于应急运维操作导致的故障如何避免？
+
+https://www.v2ex.com/t/912407
+
+#### \[NGINX\] 求教-digitalocean nginxconfig.io 的这个配置怎么改
+
+https://www.v2ex.com/t/912406
+
+#### \[Apple\] apple one 美区 超大杯 120CNY/季度
+
+https://www.v2ex.com/t/912405
+
+#### \[宽带症候群\] 深圳电信宽带提速到期，速率降到 4Mbps
+
+https://www.v2ex.com/t/912404
+
+#### \[健康\] 颈部淋巴结和甲状腺结节是一个东西吗
+
+https://www.v2ex.com/t/912403
+
+#### \[Apple\] 关于回收/折抵的两个小问题
+
+https://www.v2ex.com/t/912401
+
+#### \[宽带症候群\] 家宽， v6 443 没封？
+
+https://www.v2ex.com/t/912400
+
+#### \[程序员\] 如何控制网盘成本？
+
+https://www.v2ex.com/t/912399
+
+#### \[iPhone\] 照片导入到电脑的数量不对
+
+https://www.v2ex.com/t/912398
+
+#### \[分享发现\] 专项扣除减税 3600 税基 连续三年成功
+
+https://www.v2ex.com/t/912397
+
+#### \[问与答\] Nostr 这个 怎么架设有了解的吗？
+
+https://www.v2ex.com/t/912396
+
+#### \[Android\] 听说国产安卓机全部统一内置了反诈？
+
+https://www.v2ex.com/t/912395
+
+#### \[Python\] 关于 Python invoke 的问题
+
+https://www.v2ex.com/t/912394
+
+#### \[分享发现\] 迟到的 2022 年度总结-阿里、时间、健身、教育、投资、记账和量化
+
+https://www.v2ex.com/t/912393
+
+#### \[音乐\] 各位都是在哪里下载无损音乐的？
+
+https://www.v2ex.com/t/912392
+
+#### \[问与答\] 荣耀笔记本屏幕两侧泛黄的问题
+
+https://www.v2ex.com/t/912391
+
+#### \[分享发现\] 华硕的奥创中心是不是 bug 特多？
+
+https://www.v2ex.com/t/912390
+
+#### \[酷工作\] \[半 remote 岗位\] 招聘应用支持工程师、项目经理。需要人在深圳或者周边 1 小时路程内，大部分时间居家办公，偶尔需要去办公地点。
+
+https://www.v2ex.com/t/912389
+
+#### \[奇思妙想\] GraphQL 和 0 代码好像非常配
+
+https://www.v2ex.com/t/912387
+
+#### \[问与答\] Linux 复制文件，新文件的文件名加上时间戳，用什么命令？
+
+https://www.v2ex.com/t/912386
+
+#### \[程序员\] 服务器跑了基于 docker 的 filerun, 客户端 nextcloud, 发现 html/htm 格式文件无法同步, 如何解决?
+
+https://www.v2ex.com/t/912385
+
+#### \[Apple\] iPhone 怎么给 NFC 燃气卡充值？
+
+https://www.v2ex.com/t/912384
+
+#### \[杭州\] 2023 年兔年大吉，杭州程序员交流，技术，求职群。禁广告
+
+https://www.v2ex.com/t/912383
+
+#### \[酷工作\] 2023 年西安前端面试太难搞了(哭了 )
+
+https://www.v2ex.com/t/912381
+
+#### \[问与答\] 公司的版本库服务器，有必要用单路或双路， ECC 内存的机器吗？
+
+https://www.v2ex.com/t/912380
+
+#### \[分享创造\] 写了一个小玩具, 爱情积分小程序
+
+https://www.v2ex.com/t/912379
+
+#### \[酷工作\] \[杭州急招\] 淘宝招聘 Java 后端， P5/6/7 均可，急招，目前有 2 个 HC
+
+https://www.v2ex.com/t/912377
+
+#### \[推广\] 阿里云老用户专享活动 续费优惠券/服务器 3.6 折起 轻量机 360 元/年
+
+https://www.v2ex.com/t/912376
+
+#### \[宽带症候群\] 碰到个路由器/有线网卡/操作系统的奇葩网络兼容性问题，大佬们帮忙看看
+
+https://www.v2ex.com/t/912375
+
+## Generic News
+
+### AP News
+
+#### Google has the next move as Microsoft embraces OpenAI buzz
+
+https://apnews.com/article/a7f6f44fdd53730e45daa611555c8c23
+
+FILE - Zoubin Ghahramani, vice president of research at Google, speaks
+at the Google AI@ event on Wednesday, Nov. 2, 2022, in New York. Google
+has been cautious about who gets to play with its AI advancements
+despite growing pressure for\...
+
+#### Brady's unprecedented career filled with highlight moments
+
+https://apnews.com/article/64c660906bfdd828c9cf69e94cfefcb7
+
+FILE - In this Sept. 30, 2001 file photo, New England Patriots
+quarterback Tom Brady (12) passes during Bradys first start of an NFL
+football game against the Indianapolis Colts in Foxborough, Mass. Brady,
+who won a\...
+
+#### How to make a mummy: Ancient Egyptian workshop has new clues
+
+https://apnews.com/article/68735c4de698a1662897910e8879e283
+
+This illustration provided by Nikola Nevenov in January 2023 depicts a
+priest during an embalming process in an underground chamber in Saqqara,
+Egypt. For thousands of years, ancient Egyptians mummified their dead to
+help them reach\...
+
+#### Beyoncé announces much anticipated 'Renaissance' world tour
+
+https://apnews.com/article/86ec8ebe4422a2ae37b2feadf4bb5c1f
+
+FILE - Beyoncé appears at the 63rd annual Grammy Awards in Los Angeles
+on March 14, 2021. (AP Photo/Chris Pizzello, File) Beyoncé is taking her
+"Renaissance" global --- the superstar will start a world tour in Sweden
+in May with stops\...
+
+#### Pat Riley: Kareem never had potential, 'only greatness'
+
+https://apnews.com/article/e89167d4354de30b91a860bebcdef7d1
+
+FILE -Kareem Abdul-Jabbar reacts during the first half of Game 4 of
+basketballs NBA Finals between the Milwaukee Bucks and the Phoenix Suns,
+Wednesday, July 14, 2021, in Milwaukee. Kareem Abdul-Jabbars\...
+
+#### Biden lawyer: FBI finds no classified docs at beach house
+
+https://apnews.com/article/383d3eababa179ad5d7b0c2805c1b192
+
+FILE - U.S. Secret Service agents are seen in front of Joe Bidens
+Rehoboth Beach, Del., home on Jan. 12, 2021. The FBI is conducting a
+planned search of President Joe Biden's Rehoboth Beach, Delaware home as
+part of its\...
+
+#### 'Dr. Phil' talk show to end daytime TV run after 21 years
+
+https://apnews.com/article/8ac4662100fafdb773cc6e7d4ade1dc4
+
+This Sept. 22, 2015 image released by CBS Media Ventures shows Oprah
+Winfrey, left, and Dr. Phil McGraw on the set of the \"Dr. Phil.\"
+McGraw says hell stop making new episodes of his daytime TV show after
+21 years this\...
+
+#### Black history class revised by College Board amid criticism
+
+https://apnews.com/article/722fb29dbaa13dd5c42d70c5129df48e
+
+Emmitt Glynn teaches AP African American studies to a group of Baton
+Rouge Magnet High School students on Monday, Jan. 30, 2023 in Baton
+Rouge, La. Baton Rouge Magnet High School in Louisiana is one of 60
+schools around the country\...
+
+#### Tom Brady retires at 45, insisting this time it's 'for good'
+
+https://apnews.com/article/3ac2e55d0880672d330e8ff3d4318367
+
+FILE - New England Patriots Tom Brady raises the Vince Lombardi Trophy
+after defeating the Atlanta Falcons in overtime at the NFL Super Bowl 51
+football game Sunday, Feb. 5, 2017, in Houston. Brady, the seven-time
+Super\...
+
+#### Missy, Willie and George Michael among Rock Hall nominees
+
+https://apnews.com/article/3597e8fec2477f87f2f9cf719fdf4d35
+
+This combination of photos shows Missy Elliott, George Michael and
+Willie Nelson, who are among this years nominees for 2023 induction into
+the Rock & Roll Hall of Fame. (AP Photo) NEW YORK (AP) --- Missy
+Elliott, Willie\...
+
+#### US winter storm causes 3rd day of dangerous, icy conditions
+
+https://apnews.com/article/9699c579e14b232af86401bf84f41192
+
+A pair of pedestrians cross a road as drivers make their way down slush
+and icy road conditions, Wednesday, Feb. 1, 2023, in Dallas. (AP
+Photo/Tony Gutierrez) OKLAHOMA CITY (AP) --- A deadly storm system
+lashed a large swath of the\...
+
+#### Russia said eyeing eastern Ukraine push; Kyiv targets graft
+
+https://apnews.com/article/4b87170d155cddb69849e3100049454e
+
+A man passes by an artwork by famous street artist TvBoy created on an
+older graffiti depicting a Ukrainian soldier firing an anti-tank
+missile. Writing on the missile reads: \"The goal is one", in Kyiv,
+Ukraine, Wednesday, Feb. 1, 2023\...
+
+#### Anti-Asian hate 'runs the gamut,' racist Yelp reviews show
+
+https://apnews.com/article/7918890755b00bd03c7996628597d764
+
+FILE- The Yelp app is seen on an iPad in Baltimore on March 19, 2018.
+Theres been a sharp increase in the number of hate-filled business
+reviews spotted by Yelps content moderators. (AP Photo/Patrick\...
+
+### 联合早报
+
+#### 港府将送出50万张机票 吸引旅客提振旅游业
+
+https://www.zaobao.com/news/china/story20230201-1358444
+
+旅游业界人士相信，香港在三年疫情后仍是亚洲区内热门旅游城市。图为1月27日游客坐在港岛山顶一家咖啡馆，眺望远近景色。（法新社）
+香港防疫措施大部分已经放宽，但入境旅客人数仍远少于冠病疫情前。据悉，特区政府最快将于周四（2月2日）公布送出50万张机票兼派发购物券的安排详情，以吸引旅客访问香港。
+有受访旅游业界人士相信，香港在三年疫情后仍然是亚洲区内热门旅游城市，有关措施可以吸引到更多外国游客访港......
+
+#### 港天星小轮起价
+
+https://www.zaobao.com/news/china/story20230201-1358448
+
+（中新社）
+香港特区行政长官会同行政会议星期二（1月31日）批准天星小轮公司提高尖沙咀至中环及湾仔两条航线的票价，即成人平日最高票价定为5.0港元（0.84新元），周末或公共假期最高票价定为6.5港元，新票价从4月3日起生效......
+
+#### 台2月7日起取消 入境陆客冠病采检措施
+
+https://www.zaobao.com/news/china/story20230201-1358452
+
+台湾将从2月7日起，取消从中国大陆入境旅客的冠病采样检测措施。
+据台湾《中国时报》报道，台湾流行疫情指挥中心指挥官王必胜星期二（1月31日）下午临时召开记者会宣布，自2月7日起取消自中国大陆入境旅客的采检措施，其中也包含金马"小三通"春节项目采检。
+台湾也将同步取消自中国大陆启程、经香港和澳门转机入境台湾的旅客，须持有启程地搭机前48小时内核酸检验报告或24小时内抗原快筛检验报告的要求......
+
+#### 日本北约要加强合作应对中俄挑战 北京吁勿渲染"中国威胁"挑动对抗
+
+https://www.zaobao.com/news/china/story20230202-1358828
+
+北约秘书长斯托尔滕贝格（左）1月31日与日本首相岸田文雄会谈，共同承诺加强合作应对中俄挑战。（法新社）
+台湾中山大学日本研究中心主任郭育仁接受《联合早报》采访时分析，岸田文雄与斯托尔滕贝格的会谈，意在向北京传达"安全上的对抗并不意味战略对抗，但试图以武力改变现状，代价绝非中国能承受"......
+
+#### 20架次大陆军机穿过台海中线
+
+https://www.zaobao.com/news/china/story20230202-1358829
+
+台湾国防部公布自星期二（1月31日）上午6时至星期三（2月1日）上午6时，侦获中国大陆军机34架次、军舰九艘次持续于台湾周边海空域活动，其中20架次越过台海中线及其延伸线进入西南空域。
+受访学者解读大陆此次的军事行动，应是不满捷克准总统帕维尔（Petr
+Pavel）星期一（1月30日）晚上与台湾总统蔡英文通电话的政治讯号，同时也为美国众议院议长麦卡锡可能于4月访台"暖身"......
+
+#### 乔林烟花火龙夜空飞舞
+
+https://www.zaobao.com/news/china/story20230202-1358830
+
+广东省揭阳市乔林烟花火龙始兴于明代，相传明代盗寇蜂起，屡犯村境，但被英勇反抗的乔林人数次击退。村民为欢庆胜利而制作龙灯，舞龙庆祝，最终衍化为今天的贺岁民俗"烟花火龙"。人们以"烟花火龙"表演来祈求平安兴旺、吉祥如意。2008年，有600多年历史的乔林烟花火龙入选中国国家级非物质文化遗产名录......
+
+#### 传意大利将放宽对中国旅客防疫限制
+
+https://www.zaobao.com/news/china/story20230202-1358831
+
+有消息指出，意大利将放宽对从中国入境旅客的防疫限制，不再要求中国旅客入境后强制进行检测。
+根据路透社星期二（1月31日）看到的一份文件，意大利卫生部长斯基拉奇签署的一项行政命令称，意大利将要求从中国起飞的乘客提交起飞前48小时内的阴性冠病检测结果，并可能在他们抵达意大利机场后"随机"进行额外的拭子检测......
+
+#### 美官员证实与日荷达协议 限制对华出口先进芯片制造设备
+
+https://www.zaobao.com/news/china/story20230202-1358833
+
+一名美国商务部官员证实，美国已与日本和荷兰达成协议，限制对中国出口先进的芯片制造设备。这是迄今为止，美国官员就美日荷协议发表的最直接评论。
+针对美国的行动，中国官媒星期三（2月1日）发表文章，呼吁美国放下围堵遏制中国的执念，避免任由意识形态偏见裹挟对华政策......
+
+#### 早 说
+
+https://www.zaobao.com/news/china/story20230202-1358834
+
+你看中国在治疗许多慢性病方面都未能满足需求，那是非常显著的......中国的人口正趋向老龄化，政府现在更愿意加快批准新药。
+------瑞士药企诺华（Novartis）首席执行官万思瀚（Vasant
+Narasimhan）星期三（2月1日）在公司发布2022年业绩后说，尽管中国人口减少，但它仍然有巨大的增长机会，因为中国政府正努力让药品供应的覆盖更广泛......
+
+#### 中美科技战进入新阶段
+
+https://www.zaobao.com/news/china/story20230202-1358835
+
+中美关系今年开年以来并未延续去年底紧张持续降温的势头。拜登政府过去一个月明显将施压中国的重点放在科技围堵，通过加大科技结盟及出口限制力度，制约中国芯片制造能力，使其被西方"掐脖子"难以突围。
+拜登政府去年10月已单方面升级对中国的科技战，宣布全面的出口管制措施，希望拖慢中国军事和人工智能发展步伐......
+
+#### 取消冠病患者隔离令 港部分方舱或改建青年宿舍满足需求
+
+https://www.zaobao.com/news/china/story20230202-1358836
+
+综合"香港01"《星岛日报》等报道，港府共建设了八处方舱，分别位于青衣、新田、港珠澳大桥香港口岸人工岛、粉岭、洪水桥，启德、元朗以及竹篙湾。目前只有竹篙湾隔离中心仍开放。
+（香港综合讯）港府近日取消向冠病确诊者发隔离令，意味着当地社区隔离设施（方舱）基本完成历史任务。但资料显示，香港大部分的隔离设施只使用过短短两个月，其中一处更从未启用......
+
+#### 成都魔方大厦
+
+https://www.zaobao.com/news/china/story20230202-1358837
+
+中国四川省会成都即将启用的天府文化共享中心大楼，位于天府数字文创城核心区，是一个集办公、文服、商业为一体的文化创作街区。大楼外墙由五种不同颜色的炫彩玻璃构造，从远处看众多色彩方块堆砌犹如"魔术方块大厦"。图为1月31日航拍到天府文化共享中心大楼一个个由钢结构组成的"像素盒子"，在阳光下熠熠生辉......
+
+#### 德使馆发文检讨纳粹统治遭中国网民嘲讽
+
+https://www.zaobao.com/news/china/story20230202-1358838
+
+德国驻华大使馆一篇检讨纳粹分子90年前在德掌权后果的微博帖子受到大量中国网民谩骂和嘲讽，大使馆次日发声明称德国信仰言论自由，但会删除仇恨以及为大屠杀辩护的言论，并反问中国网民：这些不友好评论，是否也能用来评论中国政府......
+
+#### 四川出台新"催生政策" 开放生育并取消登记须"已婚"规定
+
+https://www.zaobao.com/news/china/story20230201-1358443
+
+人口大省四川近日发布新规，不仅取消生育登记必须已婚的限制，同时也不再限制生育孩子的数量，被舆论形容为"催生政策"。图为今年春节期间，四川眉山东坡区万胜镇万新村举行新年"拜年会"，会上围成一桌的孩子。（中新社）
+在中国人口出现60年来首次负增长之际，人口大省四川近日发布新规，不仅取消生育登记必须已婚的限制，同时也不再限制生育孩子的数量，被舆论形容为"催生政策"......
+
+#### 传美国已下令停发向华为供货许可证 学者：中美有意沟通但科技战仍持续
+
+https://www.zaobao.com/news/china/story20230201-1358445
+
+美国政府据传已下令停止对美国企业核发向中国电信设备公司华为出口的供货许可证。图为北京一家华为门店。
+（彭博社）
+综合路透社、彭博社报道，美国官员正在制定不对华为供货的正式政策，其中包括5G级别以下的产品，例如4G设备、Wifi6和Wifi7、人工智慧，以及高性能运算和云端项目。
+美国政府据传已下令停止对美国企业核发向中国电信设备公司华为出口的供货许可证，意味着美国可能完全切断华为的美国供应源......
+
+#### 与荷外长通电话 秦刚：中国愿同荷维护国际产业链供应链稳定
+
+https://www.zaobao.com/news/china/story20230201-1358446
+
+传美国上周与荷兰和日本就限制对中国出口先进芯片制造机器达成协议后，中国外交部长秦刚与荷兰外长通电话，表明中国愿意同荷兰共同维护国际产业链供应链稳定。
+据中国外交部官网新闻稿，秦刚星期一（1月30日）同荷兰副首相兼外交部长胡克斯特拉通电话时强调，"开放务实"是中荷关系的最大特色。他说，中方愿同荷方加强多边领域合作，共同维护国际产业链供应链稳定，维护开放而非分裂、有序而非混乱的国际贸易环境......
+
+#### 美智库：中国海警船去年几乎每天 在南中国海具争议海域巡逻
+
+https://www.zaobao.com/news/china/story20230201-1358449
+
+一份追踪数据显示，中国海警船2022年几乎每天都在南中国海具争议的关键海域巡逻。
+华盛顿智库战略暨国际研究中心（CSIS）设立的"亚洲海事透明倡议"（The Asia
+Maritime Transparency
+Initiative）网站，星期一（1月30日）发布的最新数据显示，隶属于中国人民武装警察部队的海警总队2022年在南中国海具争议海域附近巡逻的天数，与2020年相比全面增加......
+
+#### 韩国考虑本月底前取消 对中国公民短期签证限制
+
+https://www.zaobao.com/news/china/story20230201-1358450
+
+韩国政府暂停签发中国公民赴韩短期签证的措施实施一个多月后，韩国官方考虑在2月底前取消相关限制。
+据韩联社报道，韩国总理韩德洙星期二（1月31日）在首尔说，如果中国冠病疫情可控，韩国将考虑在2月底前撤销对中国公民赴韩短期签证的限制。
+这是韩国官方在一周内第二次对中国公民赴韩限制措施表态。韩国中央灾难安全对策本部上星期五（1月27日）宣布，将中国公民赴韩短期签证暂停签发期限延长至2月28日......
+
+#### 众院议长麦卡锡拟访台 中方促美恪守一中原则
+
+https://www.zaobao.com/news/china/story20230201-1358451
+
+针对新上任的美国众议院议长麦卡锡计划访问台湾，中国外交部敦促"美国有关议员"恪守一个中国原则，停止做任何违反国际关系基本准则的事。
+根据中国外交部网站，针对美国五角大楼已为麦卡锡春季访问台湾计划做准备的提问，中国外交部发言人毛宁星期一（1月30日）在例行记者会上未正面回应，仅表示"中方一贯反对建交国同中国台湾地区开展任何形式的官方往来......
+
+#### 早说
+
+https://www.zaobao.com/news/china/story20230201-1358453
+
+我相信有一个独立调查委员会，会给出一个更客观、更针对我们医疗系统问题的报告，效果可能会更好。
+------针对香港特区政府是否应该成立委员会检讨应对冠病疫情的表现，港府专家顾问、香港大学医学院内科学系传染病科主任及临床教授孔繁毅星期二表示赞成。他重申，专家倡设独立调查委员会不针对任何一个人或机构，主要是检讨整件事......
+
+#### 杨丹旭：三里屯酒吧街的告别
+
+https://www.zaobao.com/news/china/story20230201-1358454
+
+有着近28年历史的三里屯酒吧街要关停了，在会议上汇报这则新闻，曾在北京常驻的同事很惊讶，感慨"青春的回忆又少了一个"。
+北京三里屯有很多标签，时尚、潮流、夜生活，很多人说到三里屯也会想到酒吧街。它与北京的时尚地标太古里仅一街之隔，承载很多北京人、北漂，以及在北京生活的外国人的记忆......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

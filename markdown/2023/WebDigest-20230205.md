@@ -6,6 +6,128 @@ Other formats: [PDF](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/we
 
 ## Developers
 
+### Hacker News
+
+#### Ask HN: Are you tired of reading ChatGPT headlines?
+
+https://news.ycombinator.com/item?id=34657854
+
+https://news.ycombinator.com/item?id=34657854
+
+#### U.S. military shoots down suspected Chinese surveillance balloon
+
+https://www.cnbc.com/2023/02/04/us-military-prepares-to-take-down-suspected-chinese-surveillance-balloon.html
+
+https://news.ycombinator.com/item?id=34657655
+
+#### Sussman Explains the End of SICP
+
+https://irreal.org/blog/?p=11127
+
+https://news.ycombinator.com/item?id=34657535
+
+#### I hired 5 people to sit behind me and make me productive for a month
+
+https://simonberens.co/
+
+https://news.ycombinator.com/item?id=34657478
+
+#### Scalability is overrated
+
+https://waseem.substack.com/p/scalability-is-overrated
+
+https://news.ycombinator.com/item?id=34656776
+
+#### ChatGPT passes Google coding interview for level 3 engineer
+
+https://www.pcmag.com/news/chatgpt-passes-google-coding-interview-for-level-3-engineer-with-183k-salary
+
+https://news.ycombinator.com/item?id=34656591
+
+#### Open Assistant -- project meant to give everyone access to a great chat based LLM
+
+https://github.com/LAION-AI/Open-Assistant
+
+https://news.ycombinator.com/item?id=34654937
+
+#### De-Bloated Windows 11 Build Runs on 2GB of RAM
+
+https://www.tomshardware.com/news/tiny11-lean-windows-11
+
+https://news.ycombinator.com/item?id=34654649
+
+#### Protocol Labs is laying off 21% of staff (89 people)
+
+https://protocol.ai/blog/2023-02-03-crypto-winter-update/
+
+https://news.ycombinator.com/item?id=34654580
+
+#### The plateauing of cognitive ability among top earners
+
+https://academic.oup.com/esr/advance-article/doi/10.1093/esr/jcac076/7008955
+
+https://news.ycombinator.com/item?id=34653843
+
+#### ESP32 Buyer's Guide: Different Chips, Firmware, Sensors
+
+https://eitherway.io/posts/esp32-buyers-guide/
+
+https://news.ycombinator.com/item?id=34653729
+
+#### Air-to-Air Heat Exchangers for Healthier Energy-Efficient Homes
+
+https://www.ndsu.edu/agriculture/extension/publications/air-air-heat-exchangers-healthier-energy-efficient-homes
+
+https://news.ycombinator.com/item?id=34652754
+
+#### AMD Killed the Itanium (2005)
+
+[[https://utcc.utoronto.ca/ cks/space/blog/tech/AMDandItanium](https://utcc.utoronto.ca/~cks/space/blog/tech/AMDandItanium)]
+
+https://news.ycombinator.com/item?id=34651799
+
+#### Expected changes with Dropbox for macOS
+
+https://help.dropbox.com/installs/macos-support-for-expected-changes
+
+https://news.ycombinator.com/item?id=34650987
+
+#### Why did The Beatles get so many bad reviews?
+
+https://tedgioia.substack.com/p/why-did-the-beatles-get-so-many-bad
+
+https://news.ycombinator.com/item?id=34649960
+
+#### Hustle bros are jumping on the AI bandwagon
+
+https://www.theverge.com/2023/2/2/23582772/chatgpt-ai-get-rich-quick-schemes-hustlers-web
+
+https://news.ycombinator.com/item?id=34649402
+
+#### The KLF: Chaos, magic and the band who burned £1M
+
+https://johnhiggs.com/books/the-klf/
+
+https://news.ycombinator.com/item?id=34649326
+
+#### 43 Hours on the Amtrak Southwest Chief
+
+https://www.0x58ed.com/blog/amtrak-southwest-chief
+
+https://news.ycombinator.com/item?id=34648543
+
+#### Is this poison ivy?
+
+https://www.birdandmoon.com/poisonivy/
+
+https://news.ycombinator.com/item?id=34648259
+
+#### Critique of the mind/body problem
+
+https://www.jsanilac.com/mind/
+
+https://news.ycombinator.com/item?id=34648206
+
 ### Phoronix
 
 #### A Detailed Explanation On Intel's DOIT Mode, Possible Options For Linux's Handling

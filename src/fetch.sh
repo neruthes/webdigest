@@ -7,7 +7,7 @@ source .localenv
 
 mkdir -p $DATADIR/{coverpic,final}
 
-SOURCES_LIST="hackernews v2ex solidot zaobao dribbble github ap phoronix"
+SOURCES_LIST="hackernews v2ex solidot zaobao dribbble github ap phoronix reuters"
 
 
 if [[ ! -z $2 ]]; then

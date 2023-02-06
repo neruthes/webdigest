@@ -53,31 +53,9 @@ fill_chapter_tex        solidot         "Solidot"
 fill_chapter_tex        v2ex            "V2EX"
 fill_part_tex           "Generic News"
 fill_chapter_tex        ap              "AP News"
+fill_chapter_tex        reuters         "Reuters"
 fill_chapter_tex        zaobao          "联合早报"
 
-# \ipart{Hacker News}
-# \input{FINALDIR/hackernews.tex}
-
-# \ipart{V2EX}
-# \input{FINALDIR/v2ex.tex}
-
-# \ipart{Solidot}
-# \input{FINALDIR/solidot.tex}
-
-# \ipart{Phoronix}
-# \input{FINALDIR/phoronix.tex}
-
-# \ipart{联合早报}
-# \input{FINALDIR/zaobao.tex}
-
-# \ipart{AP News}
-# \input{FINALDIR/ap.tex}
-
-# \ipart{GitHub}
-# \input{FINALDIR/github.tex}
-
-# \ipart{Dribbble}
-# \input{FINALDIR/dribbble.tex}
 
 
 echo $latex_file_path

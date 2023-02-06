@@ -43,6 +43,7 @@ convert_to_markdown     solidot         "Solidot"
 convert_to_markdown     v2ex            "V2EX"
 set_chapter             "Generic News"
 convert_to_markdown     ap              "AP News"
+convert_to_markdown     reuters         "Reuters"
 convert_to_markdown     zaobao          "联合早报"
 
 

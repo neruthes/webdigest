@@ -13,14 +13,11 @@ let parser = new Parser();
         const sanitizedContent = sh(`pandoc -f html -t latex`, {
             input: item.contentSnippet
         }).toString().replace(/\n/g, ' ').trim().slice(0, 240).replace(/[^\w]*$/, '').replace(/[\\\-\s\,\.\(\)]*?[\w\,]+?$/, '...');
-        // console.log(sanitizedContent)
         const shorturl = 'https://apnews.com/article/' + item.link.match(/\w+$/)[0];
-        return sanitizeTextForLatex(`\\entryitemWithDescription{\\hskip 0pt{}${
+        return (`\\entryitemWithDescription{\\hskip 0pt{}${
             sanitizeTextForLatex(item.title)
         }}{${shorturl}}`) + `{${sanitizedContent}}`;
     }).filter(utils.killBadWords).slice(0, 13).join('\n\n');
-
-    // console.log(feed.items[0]);
 
     fs.writeFileSync(`${process.env.DATADIR}/final/ap.tex`, outputLatex);
 })();

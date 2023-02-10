@@ -1,0 +1,1064 @@
+Other formats: [PDF](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/webdigest/WebDigest-20230210.pdf--3b6536c5870cc42ddebbbc86bc0dc800.pdf) / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20230210.html)
+
+
+# Web Digest 2023-02-10
+
+
+## Developers
+
+### Hacker News
+
+#### Show HN: boxxy -- Control where Linux programs put files, without symlinks
+
+https://github.com/queer/boxxy
+
+https://news.ycombinator.com/item?id=34730520
+
+#### Show HN: I made a tool that turns screenshots into dramatically angled photos
+
+https://www.screenstab.com/editor/
+
+https://news.ycombinator.com/item?id=34729849
+
+#### AI Joins Hunt for ET: Study Finds 8 Potential Alien Signals
+
+https://blogs.nvidia.com/blog/2023/02/06/ai-potential-alien-signals/
+
+https://news.ycombinator.com/item?id=34729360
+
+#### Credit Suisse confirms 50% bonus cut, Zero for Exec, amid terrible results
+
+https://www.efinancialcareers.com/news/2023/02/credit-suisse-bonuses
+
+https://news.ycombinator.com/item?id=34729226
+
+#### We compete with GitHub. Bing does not show our website
+
+https://www.codeium.com/blog/bing-does-not-index-codeium
+
+https://news.ycombinator.com/item?id=34729092
+
+#### Solar panels disguised as terracotta tiles in Pompeii
+
+https://www.theartnewspaper.com/2023/02/06/ancient-pompeii-site-installs-invisible-solar-panels-that-look-like-roman-terracotta-tiles
+
+https://news.ycombinator.com/item?id=34729026
+
+#### Most FOSDEM 2023 videos have been uploaded
+
+https://fosdem.org/2023/schedule/events/
+
+https://news.ycombinator.com/item?id=34728919
+
+#### The \$20 an hour Cessna 172 experiment (2020)
+
+https://airfactsjournal.com/2020/11/the-20-an-hour-cessna-172-experiment/
+
+https://news.ycombinator.com/item?id=34728405
+
+#### Apple's 2½ year old iPhone 12 is 6% faster than the new Samsung Galaxy S23 Ultra
+
+https://www.comparedial.com/news/apples-2-year-old-iphone-12-is-6-faster-than-the-latest-samsung-galaxy-s23-ultra-for-single-core-performance-395
+
+https://news.ycombinator.com/item?id=34728288
+
+#### GitHub to layoff 10% and closing all offices
+
+https://news.ycombinator.com/item?id=34727210
+
+https://news.ycombinator.com/item?id=34727210
+
+#### The Online Safety Bill: An attack on encryption
+
+https://element.io/blog/the-online-safety-bill-an-attack-on-encryption/
+
+https://news.ycombinator.com/item?id=34727082
+
+#### There Are Only Four Billion Floats--So Test Them All (2014)
+
+https://randomascii.wordpress.com/2014/01/27/theres-only-four-billion-floatsso-test-them-all/
+
+https://news.ycombinator.com/item?id=34726919
+
+#### GitHub to lay off 10% and close all offices
+
+https://twitter.com/webology/status/1623722731819659269
+
+https://news.ycombinator.com/item?id=34726735
+
+#### Insulin is way too expensive. California has a solution: Make its own
+
+https://www.vox.com/policy-and-politics/23574178/insulin-cost-california-biden-medicare-coverage
+
+https://news.ycombinator.com/item?id=34726726
+
+#### A GPT in 60 Lines of NumPy
+
+https://jaykmody.com/blog/gpt-from-scratch/
+
+https://news.ycombinator.com/item?id=34726115
+
+#### Comcast gave false map data to FCC
+
+https://arstechnica.com/tech-policy/2023/02/comcast-gave-false-map-data-to-fcc-and-didnt-admit-it-until-ars-got-involved/
+
+https://news.ycombinator.com/item?id=34725776
+
+#### Ask HN: Laid off folks, are you getting hired?
+
+https://news.ycombinator.com/item?id=34725047
+
+https://news.ycombinator.com/item?id=34725047
+
+#### The Future of Thunderbird
+
+https://blog.thunderbird.net/2023/02/the-future-of-thunderbird-why-were-rebuilding-from-the-ground-up/
+
+https://news.ycombinator.com/item?id=34724585
+
+#### ChatGPT is a blurry JPEG of the web
+
+https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web
+
+https://news.ycombinator.com/item?id=34724477
+
+#### Launch HN: Activepieces (YC S22) -- Open-Source Zapier Alternative
+
+https://news.ycombinator.com/item?id=34723989
+
+https://news.ycombinator.com/item?id=34723989
+
+### Phoronix
+
+#### Linux objtool Improvements Help Reduce RAM Usage & Build Time During Large Kernel Builds
+
+https://www.phoronix.com/news/Linux-objtool-allyesconfig-RAM
+
+#### AMD Re-Enables Scatter/Gather Support For All APUs On Linux
+
+https://www.phoronix.com/news/AMD-Scatter-Gather-Re-Enabled
+
+#### Linux Schedutil Governor's Quirky Behavior Persists In 2023
+
+https://www.phoronix.com/review/schedutil-quirky-2023
+
+#### Zink Lands A Simple Fix To Boost Doom Performance By  10x
+
+https://www.phoronix.com/news/Zink-10x-Perf-Boost-Doom
+
+#### AMD 4th Gen EPYC + Instinct MI300A Supercomputer Heading To Bavaria
+
+https://www.phoronix.com/news/AMD-Bavarian-Supercomputer
+
+#### Intel's Mesa Drivers Begin Preparing For The New Xe Kernel Driver
+
+https://www.phoronix.com/news/Intel-Mesa-ANV-Prep-For-Xe-KMD
+
+#### GTK5 Development Likely To Heat Up Following GTK 4.12
+
+https://www.phoronix.com/news/GTK5-Likely-After-GTK-4.12
+
+#### A Call For More Collaboration & Harmony Among BSD Hardware Drivers
+
+https://www.phoronix.com/news/2023-BSD-Driver-Collaboration
+
+#### FreeType 2.13 Released With New Qt-Based Font Program
+
+https://www.phoronix.com/news/FreeType-2.13-Released
+
+### GitHub
+
+#### fuergaosi233/wechat-chatgpt
+
+https://github.com/fuergaosi233/wechat-chatgpt
+
+Use ChatGPT On Wechat via wechaty\
+Language: TypeScript\
+Stars: 6958\
+Forks: 1773
+
+#### AutumnWhj/ChatGPT-wechat-bot
+
+https://github.com/AutumnWhj/ChatGPT-wechat-bot
+
+ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot\
+Language: TypeScript\
+Stars: 2265\
+Forks: 493
+
+#### f/awesome-chatgpt-prompts
+
+https://github.com/f/awesome-chatgpt-prompts
+
+This repo includes ChatGPT prompt curation to use ChatGPT better.\
+Language: HTML\
+Stars: 22993\
+Forks: 2328
+
+#### Zero6992/chatGPT-discord-bot
+
+https://github.com/Zero6992/chatGPT-discord-bot
+
+Integrate ChatGPT into your own discord bot\
+Language: Python\
+Stars: 1044\
+Forks: 202
+
+#### zhayujie/chatgpt-on-wechat
+
+https://github.com/zhayujie/chatgpt-on-wechat
+
+使用ChatGPT搭建微信聊天机器人，基于OpenAI API和itchat实现。Wechat robot
+based on ChatGPT, which using OpenAI api and itchat library.\
+Language: Python\
+Stars: 1692\
+Forks: 312
+
+#### AIGCT/EASYChatGPT
+
+https://github.com/AIGCT/EASYChatGPT
+
+This is an application project of chatgpt,only applicable to desktop
+environment.\
+Language: Python\
+Stars: 234\
+Forks: 314
+
+#### PlexPt/awesome-chatgpt-prompts-zh
+
+https://github.com/PlexPt/awesome-chatgpt-prompts-zh
+
+ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。\
+Language: Unknown\
+Stars: 4838\
+Forks: 1975
+
+#### houko/wechatgpt
+
+https://github.com/houko/wechatgpt
+
+wechatgpt golang版
+chatgpt机器人(可docker部署)，目前支持微信(wechat)，telegram（可直接加@xiaomo_chatgpt_bot体验）\
+Language: Go\
+Stars: 325\
+Forks: 91
+
+#### lencx/ChatGPT
+
+https://github.com/lencx/ChatGPT
+
+🔮 ChatGPT Desktop Application (Mac, Windows and Linux)\
+Language: Rust\
+Stars: 11989\
+Forks: 989
+
+#### acheong08/ChatGPT
+
+https://github.com/acheong08/ChatGPT
+
+Reverse engineered ChatGPT API\
+Language: Python\
+Stars: 14720\
+Forks: 2174
+
+#### openai/openai-cookbook
+
+https://github.com/openai/openai-cookbook
+
+Examples and guides for using the OpenAI API\
+Language: Jupyter Notebook\
+Stars: 11949\
+Forks: 1350
+
+### Dribbble
+
+#### Otter - Tiny Illustrations
+
+https://dribbble.com/shots/20557641
+
+#### Speak Branding, visual identity, corporate brand design
+
+https://dribbble.com/shots/20467856
+
+#### Micromobility Website Design: business landing web page site
+
+https://dribbble.com/shots/20467789
+
+#### \[P\] 1 → N
+
+https://dribbble.com/shots/20556787
+
+#### 🔍 Playrcart Search
+
+https://dribbble.com/shots/20460549
+
+#### \[B\]\[P\] 0 → 1
+
+https://dribbble.com/shots/20477110
+
+#### Cruste Brand Guidelines
+
+https://dribbble.com/shots/20416028
+
+#### Atopa Branding, visual identity, corporate brand design
+
+https://dribbble.com/shots/20467668
+
+#### Illustration
+
+https://dribbble.com/shots/20589453
+
+#### Sound Summit
+
+https://dribbble.com/shots/20549165
+
+#### Website for Educational Platform
+
+https://dribbble.com/shots/20578747
+
+#### Let's go home page
+
+https://dribbble.com/shots/20581070
+
+#### \[B\]\[P\] 0 → 1
+
+https://dribbble.com/shots/20556768
+
+#### Error 404
+
+https://dribbble.com/shots/20576280
+
+#### Boostio Website
+
+https://dribbble.com/shots/20577525
+
+#### Language Learning Application Mobile App
+
+https://dribbble.com/shots/20476613
+
+#### Synchronized x Xwing
+
+https://dribbble.com/shots/20557161
+
+#### Introducing Odi
+
+https://dribbble.com/shots/20602121
+
+#### Wave Website
+
+https://dribbble.com/shots/20598813
+
+#### Education responsive dashboard
+
+https://dribbble.com/shots/20597571
+
+#### One link payment
+
+https://dribbble.com/shots/20570091
+
+#### Atopa Website
+
+https://dribbble.com/shots/20477297
+
+#### Baby Tech Mobile App design: iOS Android ux ui designer
+
+https://dribbble.com/shots/20467397
+
+#### AesthetiX // Website
+
+https://dribbble.com/shots/20598961
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### 工信部不再审批传真机调制解调器等电信设备
+
+https://www.solidot.org/story?sid=74093
+
+#### 英国监管机构认为微软收购动视会伤害到玩家
+
+https://www.solidot.org/story?sid=74092
+
+#### 赫梯帝国可能因干旱灭亡
+
+https://www.solidot.org/story?sid=74091
+
+#### NIST 挑选 ASCON 为物联网数据保护加密算法
+
+https://www.solidot.org/story?sid=74090
+
+#### Linux 6.1 被选为 LTS 长期支持内核
+
+https://www.solidot.org/story?sid=74088
+
+#### Android 14 Preview 1 释出，禁止安装旧应用
+
+https://www.solidot.org/story?sid=74087
+
+#### 英国法庭裁决 Craig Wright 不能主张对比特币文件格式拥有版权
+
+https://www.solidot.org/story?sid=74086
+
+#### Google 演示在搜索和地图中整合 AI
+
+https://www.solidot.org/story?sid=74085
+
+#### Twitter 开始允许美国订户发长推文
+
+https://www.solidot.org/story?sid=74083
+
+#### Disney+ 订户数减少，迪士尼宣布裁员 7 千人
+
+https://www.solidot.org/story?sid=74082
+
+#### ChatGPT 可能是数据隐私的噩梦
+
+https://www.solidot.org/story?sid=74081
+
+#### 土耳其屏蔽 Twitter
+
+https://www.solidot.org/story?sid=74080
+
+#### 密码破译者破译玛丽女王的逾 50 封信
+
+https://www.solidot.org/story?sid=74079
+
+#### 三菱重工放弃支线客机开发
+
+https://www.solidot.org/story?sid=74078
+
+#### 任天堂将提高员工的基础工资
+
+https://www.solidot.org/story?sid=74077
+
+#### 科学家在小鼠腿上发现超高速肌肉
+
+https://www.solidot.org/story?sid=74076
+
+#### Steam 玩家使用 Windows 11 的比例突破三成
+
+https://www.solidot.org/story?sid=74075
+
+#### 研究发现中国 Android 手机收集了过量数据
+
+https://www.solidot.org/story?sid=74074
+
+#### Zoom 裁员 1300 人
+
+https://www.solidot.org/story?sid=74073
+
+#### Mozilla 和 Google 都在开发不使用 WebKit 引擎的 iOS 浏览器
+
+https://www.solidot.org/story?sid=74072
+
+### V2EX
+
+#### \[程序员\] github 有现成的小说 tag 分类器吗？
+
+https://www.v2ex.com/t/914757
+
+#### \[Vue.js\] 又一个 Vue 单文件组件加载器，可以甩开 node.js 和 npm 直接干
+
+https://www.v2ex.com/t/914755
+
+#### \[分享发现\] 最近 ChatGPT 火的一批，弄了一个电报机器人，欢迎各位来撩
+
+https://www.v2ex.com/t/914754
+
+#### \[分享发现\] 突然想到 Edge 集成 open-ai 之后， SEO 优化是否也会从针对 search engine 转变为针对 ai 模型
+
+https://www.v2ex.com/t/914752
+
+#### \[OpenAI\] 我问 ChatGPT 如何利用 ChatGPT 赚钱， ChatGPT 给我的答案：
+
+https://www.v2ex.com/t/914751
+
+#### \[职场话题\] 北京有靠谱且实惠的劳动纠纷律师吗？
+
+https://www.v2ex.com/t/914750
+
+#### \[iMac\] 老 iMac 维修记
+
+https://www.v2ex.com/t/914749
+
+#### \[站长\] 是否存在：有国内节点,可自定域名,无需备案的 静态托管？费用不是太离谱都能接受
+
+https://www.v2ex.com/t/914748
+
+#### \[问与答\] \"系统级的油猴脚本\": Whistle + JS
+
+https://www.v2ex.com/t/914747
+
+#### \[酷工作\] 有没有比较好的简历修改服务或者大佬愿意有偿帮我提点简历修改方面的建议。
+
+https://www.v2ex.com/t/914746
+
+#### \[问与答\] 如何合并两个 apple ID 的数据
+
+https://www.v2ex.com/t/914744
+
+#### \[程序员\] 如何在长期使用情况下保证 PC 的安全性
+
+https://www.v2ex.com/t/914743
+
+#### \[程序员\] 周报生成器
+
+https://www.v2ex.com/t/914742
+
+#### \[Apple\] 2023 年了， 12PM 还值得去官方换电池吗
+
+https://www.v2ex.com/t/914741
+
+#### \[OpenAI\] chatGPT 相关刚刚在闲鱼上被封杀了
+
+https://www.v2ex.com/t/914740
+
+#### \[程序员\] 如何训练 chatgpt3
+
+https://www.v2ex.com/t/914739
+
+#### \[Surge\] Surge for iOS 3 设备,车位缺 2。
+
+https://www.v2ex.com/t/914738
+
+#### \[问与答\] 为什么工作到很晚不会觉得疲惫，但看小说视频却感觉非常疲劳
+
+https://www.v2ex.com/t/914737
+
+#### \[程序员\] 吐槽那些 app 必须扫码验证\.....
+
+https://www.v2ex.com/t/914736
+
+#### \[问与答\] Chrome 弹出"重新加载此网站"，可不可以跳过确认
+
+https://www.v2ex.com/t/914735
+
+#### \[Linux\] 博客经常遭遇菠菜佬和 seo 佬的骚扰，请问怎样禁止
+
+https://www.v2ex.com/t/914733
+
+#### \[MacBook Pro\] 礼貌出 MacBook Pro
+
+https://www.v2ex.com/t/914732
+
+#### \[OpenAI\] 出现这种是 ip 直接被拉黑了吗？
+
+https://www.v2ex.com/t/914731
+
+#### \[分享发现\] 全球互联网 DNS 根区秘钥签名秘钥交换仪式（Root KSK Ceremony）
+
+https://www.v2ex.com/t/914730
+
+#### \[程序员\] 一分钟读论文：《基于 ChatGPT、AR 和 Voicebots 的儿童外教软件设计框架》
+
+https://www.v2ex.com/t/914729
+
+#### \[问与答\] 裁员大背景下程序员如何自救
+
+https://www.v2ex.com/t/914728
+
+#### \[问与答\] 感觉自己变得有点冷漠了
+
+https://www.v2ex.com/t/914727
+
+#### \[问与答\] 上海财经类 211 大三，把号玩废了
+
+https://www.v2ex.com/t/914724
+
+#### \[Apple\] App Store 购买验证服务器这两天宕了
+
+https://www.v2ex.com/t/914723
+
+#### \[生活\] 求助，电视屏幕物理损坏是否还有维修的必要？
+
+https://www.v2ex.com/t/914722
+
+#### \[问与答\] 大伙儿觉得用 kali Linux 系统作为主力日常使用和办公系统可行吗
+
+https://www.v2ex.com/t/914721
+
+#### \[问与答\] 京东上到底哪个是罗技官方店？
+
+https://www.v2ex.com/t/914719
+
+#### \[问与答\] 一个小小的关于面试的问题
+
+https://www.v2ex.com/t/914718
+
+#### \[问与答\] 华为手机配置不高价位还挺高
+
+https://www.v2ex.com/t/914716
+
+#### \[Surface\] win 无线投影能不能提高帧率啊
+
+https://www.v2ex.com/t/914714
+
+#### \[分享创造\] 嗨，家人们，我做了一款类 ToDo List 和任务管理 macOS 应用，来这抽送 35 个永久激活码
+
+https://www.v2ex.com/t/914713
+
+#### \[求职\] \[西安\]5 年前端求个坑
+
+https://www.v2ex.com/t/914712
+
+#### \[程序员\] 如何判断一个 4K 高清视频是不是从低分辨率视频转过来的？
+
+https://www.v2ex.com/t/914711
+
+#### \[互联网\] Google 里的信用卡信息要不要删掉？
+
+https://www.v2ex.com/t/914710
+
+#### \[Apple\] AppStore 国区搜索"vpn"有大量结果
+
+https://www.v2ex.com/t/914709
+
+#### \[微软\] 想请教下关于微软账户的问题，是 bug 吗？
+
+https://www.v2ex.com/t/914708
+
+#### \[分享发现\] 这个 AI 太强了
+
+https://www.v2ex.com/t/914707
+
+#### \[OpenAI\] 为啥 chatgpt 连这么简单会计题目都会答错？ 内详
+
+https://www.v2ex.com/t/914706
+
+#### \[互联网\] 有没有创建帖子论坛网站的 cms?
+
+https://www.v2ex.com/t/914705
+
+#### \[程序员\] \[web3\] app 内测邀请，欢迎大家试用：）
+
+https://www.v2ex.com/t/914704
+
+#### \[Apple\] Apple 官网导航栏更新了，狗皮膏药广告两个字还在。
+
+https://www.v2ex.com/t/914702
+
+#### \[微软\] 请教 OneDrive 同步到电脑上的文件不全怎么解决？
+
+https://www.v2ex.com/t/914701
+
+#### \[问与答\] chatGPT AI 为什么要删除自己的话？
+
+https://www.v2ex.com/t/914700
+
+#### \[问与答\] 有什么批量下载百度文件的方法?
+
+https://www.v2ex.com/t/914699
+
+#### \[问与答\] 当 ChatGPT 变成你的私人移民顾问
+
+https://www.v2ex.com/t/914698
+
+## Generic News
+
+### AP News
+
+#### Rioter who menaced officer with Confederate flag gets prison
+
+https://apnews.com/article/6057e74630701e1f77cf84aacbb3caaf
+
+Kevin Seefried, right, a Delaware man who stormed the Capitol with
+Confederate battle flag, departs Federal Court after sentencing,
+Thursday, Feb. 9, 2023, in Washington, with his public defender Eugene
+Ohm. Seefried, who threatened a\...
+
+#### Quebec parents recount moments after bus hit daycare center
+
+https://apnews.com/article/3173eaeef17bcc63abb88c9ba009dc63
+
+A woman stands next to a memorial at the site of a daycare centre in
+Laval, Quebec, Thursday, Feb. 9, 2023, where a bus crashed into the
+building killing two children. (Graham Hughes/The Canadian Press via AP)
+LAVAL, Quebec (AP\...
+
+#### Syria orphans from quake taken in by overwhelmed relatives
+
+https://apnews.com/article/9252308af8ceea28023782d506d73081
+
+Jana al-Abdo, 7 years-old, who was pulled from under the rubble after a
+50-hour rescue operation caused by an earthquake that hit Syria and
+Turkey, receives treatment at a hospital run by the Syrian American
+Medical Society near the Bab\...
+
+#### Rihanna promises a 'jam-packed' Super Bowl halftime show
+
+https://apnews.com/article/1dee0e373be78ffa2c9785d5b05bfad1
+
+Rihanna poses for a photo after a halftime show news conference ahead of
+the Super Bowl 57 NFL football game, Thursday, Feb. 9, 2023, in Phoenix.
+(AP Photo/Mike Stewart) Rihanna is putting in the work ahead of her
+Super Bowl halftime\...
+
+#### Liquor before beer: Spirits beat brews in new market data
+
+https://apnews.com/article/464e8a74c984d1acd65d81ac6df17c52
+
+Gregory Megner, general manager and mixologist at Baltimore Spirits
+Company, pours two mixed drinks \_ a \"Peanut Butter Jelly Thyme\" on
+the left, and a \"Best Cup of Coffee in a Manhattan\" \_ containing
+whiskey distilled on premises\...
+
+#### Burt Bacharach, legendary composer of pop songs, dies at 94
+
+https://apnews.com/article/c1526b7c1b9b4389b17a3e657676b391
+
+FILE - Composer Burt Bacharach performs in Milan, Italy on July 16,
+2011. The Grammy, Oscar and Tony-winning Bacharach died of natural
+causes Wednesday, Feb. 8, 2023, at home in Los Angeles, publicist Tina
+Brausam said Thursday. He was\...
+
+#### New \"Toy Story,\" \"Frozen\" and \"Zootopia\" movies on tap
+
+https://apnews.com/article/509cb76c42ffe36f9d1020dcfff61826
+
+FILE - In this Aug. 8, 2017, file photo, The Walt Disney Co. logo
+appears on a screen above the floor of the New York Stock Exchange.
+Disney is working on sequels for its "Toy Story," "Frozen" and
+"Zootopia" franchises as the\...
+
+#### Nicaragua frees 222 opponents of Ortega, sends them to US
+
+https://apnews.com/article/6e407b6d8c1c278a022d40328aa4a828
+
+FILE - Police stand guard at a holding center known as \"El Chipote,\"
+officially called the Judicial Assistance Directorate, as they face
+demonstrators, on the other side of the fence, protesting the arrests of
+anti-government protesters\...
+
+#### Super Bowl ads will tout Jesus 'gets us' to the masses
+
+https://apnews.com/article/424b36089913ff4a8639bbcf20c14ae3
+
+FILE - Dallas Cowboys quarterback Dak Prescott (4) points upward after
+scoring against Washington Commanders during the first half an NFL
+football game, Sunday, Jan. 8, 2023, in Landover, Md. While its Super
+Bowl commercial appearances\...
+
+#### Russian diplomat says ties with US in 'unprecedented crisis'
+
+https://apnews.com/article/cbc9e5e628564a6ac36caae94a082eb6
+
+FILE - Russian Deputy Foreign Minister Sergei Ryabkov attends a meeting
+in Moscow, Russia, Tuesday, March 15, 2022. A senior Russian diplomat
+says that Russia-U.S. relations are in a state of \"unprecedented
+crisis\" without any sign of\...
+
+#### Several universities to experiment with micro nuclear power
+
+https://apnews.com/article/86f6e0aadd29090b347ac2272c595d55
+
+Last Energy CEO Bret Kugelmass explains how power could be produced from
+a nuclear microreactor during a tour inside the companys demonstration
+unit that contains a prototype reactor, Tuesday, Jan. 17, 2023, in\...
+
+#### FTX founder keeps talking, ignoring typical legal strategy
+
+https://apnews.com/article/e9c0be8d744dbccf289be82d6c29d79b
+
+Samuel Bankman-Fried departs Manhattan federal court in New York,
+Thursday, Feb. 9, 2023, in New York. (AP Photo/John Minchillo) NEW YORK
+(AP) --- For federal prosecutors, Sam Bankman-Fried could be the gift
+that keeps on giving. After\...
+
+#### US says China balloon could collect intelligence signals
+
+https://apnews.com/article/e45c759cb00294e83989fa35970935bc
+
+In this image provided by the FBI, FBI special agents assigned to the
+evidence response team process material recovered from the high altitude
+balloon recovered off the coast of South Carolina, Thursday, Feb. 9,
+2023, at the FBI\...
+
+### Reuters
+
+#### U.S. may target Chinese entities linked to spy balloon
+
+https://www.reuters.com/world/us/us-says-may-target-chinese-entities-linked-spy-balloons-incursion-2023-02-09/
+
+Sailors assigned to Explosive Ordnance Disposal Group 2 recover a
+suspected Chinese high-altitude surveillance balloon that was downed by
+the United States over the weekend over U.S. territorial waters off the
+coast of Myrtle Beach, South\...
+
+#### Nicaragua releases over 200 political prisoners, most travel to U.S.
+
+https://www.reuters.com/world/americas/nicaragua-government-frees-more-than-200-political-prisoners-local-media-2023-02-09/
+
+A few of the more than 200 freed political prisoners from Nicaragua
+disembark from a bus after they arrived in the United States at Dulles
+International Airport in Virginia near Washington, U.S., February 9,
+2023. REUTERS/Kevin Lamarque\...
+
+#### U.S. officials prepping legislation to revamp asylum system
+
+https://www.reuters.com/world/us/us-officials-prepping-legislation-revamp-asylum-system-2023-02-09/
+
+Migrants, mostly Venezuelans, participate in a caravan, with the
+intention of turning in themselves to U.S. Border Patrol agents, on the
+banks of the Rio Bravo river in Ciudad Juarez, Mexico February 8, 2023.
+REUTERS/Jose Luis Gonzalez U\...
+
+#### PayPal forecasts strong full-year profit, says CEO to retire
+
+https://www.reuters.com/business/finance/paypal-forecasts-strong-full-year-profit-consumers-shrug-off-inflation-2023-02-09/
+
+The PayPal logo is seen on a smartphone in front of the same logo
+displayed in this illustration taken September 8, 2021. REUTERS/Dado
+Ruvic/Illustration PayPal Holdings Inc (PYPL.O) forecast full-year
+profit above Wall Street estimates\...
+
+#### Minnesota congresswoman Angie Craig assaulted in Washington, her office says
+
+https://www.reuters.com/world/us/minnesota-congresswoman-angie-craig-assaulted-washington-her-office-says-2023-02-09/
+
+Democratic U.S. Rep. Angie Craig of Minnesota, running for re-election
+to the U.S. House of Representatives in the 2022 U.S. midterm elections,
+appears in an undated handout photo obtained by REUTERS on October 11,
+2022. Angie Craig/\...
+
+#### Factbox: Prize-winning reporter Seymour Hersh no stranger to controversy
+
+https://www.reuters.com/world/us/prize-winning-reporter-seymour-hersh-no-stranger-controversy-2023-02-09/
+
+Journalist Seymour Hersh speaks at the Al Jazeera Forum \"Media and the
+Middle East - Beyond the Headlines\" in Doha April 1, 2007. REUTERS/Fadi
+Al-Assaad Journalist Seymour Hersh attends Al Jazeera Forum \"Media and
+the Middle East - Beyond\...
+
+#### IMF seeks more time to conclude Pakistan deal worth \$1.1 billion
+
+https://www.reuters.com/world/asia-pacific/pakistan-finmin-says-expect-imf-matters-be-settled-today-dawn-news-2023-02-09/
+
+Pakistans Finance Minister Ishaq Dar gestures during a news conference
+to announce the economic survey of fiscal year 2016-2017, in Islamabad,
+Pakistan, May 25, 2017. REUTERS/Faisal Mahmood Men reach out to buy
+subsidised\...
+
+#### Russia's Wagner mercenaries halt prisoner recruitment campaign - Prigozhin
+
+https://www.reuters.com/world/europe/russias-wagner-mercenaries-halt-prisoner-recruitment-campaign-founder-prigozhin-2023-02-09/
+
+Visitors gather outside PMC Wagner Centre, which is a project
+implemented by the businessman and founder of the Wagner private
+military group Yevgeny Prigozhin, during the official opening of the
+office block in Saint Petersburg, Russia\...
+
+#### South Africa invokes disaster law to tackle energy crisis
+
+https://www.reuters.com/world/africa/south-african-president-declares-state-disaster-over-power-crisis-2023-02-09/
+
+South African President Cyril Ramaphosa speaks during his 2023 state of
+the nation address in Cape Town, South Africa, February 9, 2023.
+REUTERS/Esa Alexander/Pool South African President Cyril Ramaphosa
+delivers his 2023 state of the\...
+
+#### U.S. investigating Elon Musk's Neuralink over hazardous pathogens
+
+https://www.reuters.com/technology/elon-musks-neuralink-may-have-illegally-transported-pathogens-animal-advocates-2023-02-09/
+
+Neuralink logo and Elon Musk photo are seen in this illustration taken,
+December 19, 2022. REUTERS/Dado Ruvic/Illustration/File Photo The U.S.
+Department of Transportation said on Thursday it is investigating Elon
+Musks\...
+
+#### Italy bristles over Zelenskiy dinner snub in Paris
+
+https://www.reuters.com/world/europe/italy-calls-invitation-ukraines-zelenskiy-paris-inappropriate-2023-02-09/
+
+Italys Prime Minister Giorgia Meloni speaks to the media as she attends
+the European leaders summit in Brussels, Belgium February 9, 2023.
+REUTERS/Yves Herman Frances President Emmanuel Macron and Italy\...
+
+#### A picture and its story: The man who survived the Turkey earthquake, and his family who didn't
+
+https://www.reuters.com/world/middle-east/picture-its-story-man-who-survived-turkey-earthquake-his-family-who-didnt-2023-02-08/
+
+Summary: Picture essay: Abdulalim Muaini lies under the rubble next to
+the body of his wife Esra, in the aftermath of a deadly earthquake in
+Hatay, Turkey, February 8, 2023. REUTERS/Umit Bektas Abdulalim Muaini
+looks out from under the\...
+
+#### Kremlin says those behind Nord Stream blasts must be punished
+
+https://www.reuters.com/world/europe/russia-calls-international-probe-into-nord-stream-blasts-after-blogger-report-2023-02-09/
+
+Summary: World must know the truth on Nord Stream - Kremlin Kremlin:
+There must be an international investigation Russia accuses
+investigation of cover up White House denies Hersh report Norway denies
+Hersh report Gas bubbles from the\...
+
+### 联合早报
+
+#### 报告：影响力依然最大 中美交恶打击东南亚对两国领导力信心
+
+https://www.zaobao.com/news/china/story20230210-1361541
+
+根据《东南亚态势报告：2023》，认为中国对东南亚经济影响力最大的受访者，从去年的76.7％锐减至今年的59.9％；政治和战略影响力方面则从54.4％降至41.5％。美国的影响力则小幅上升......
+
+#### 台湾本月20日起进一步放宽口罩令
+
+https://www.zaobao.com/news/china/story20230210-1361543
+
+台湾维持至今801天的室内口罩令，将于2月20日解禁，但医疗机构及公共运输等指定场所仍强制戴口罩。图为当地一家医院门口。（中通社）
+台湾将从2月20日起进一步放宽佩戴口罩措施，除了医疗、公共运输等指定场所外，其余室内空间将不强制戴口罩。
+校园室内口罩令则将在3月6日后开始松绑......
+
+#### 中国若出现新变种病毒 高福：世界应冷静看待
+
+https://www.zaobao.com/news/china/story20230210-1361544
+
+中国疾病预防控制中心前主任高福认为，世界应该冷静看待新的冠病变种病毒可能在中国传播的情况。
+据路透社、《健康时报》报道，高福领导的研究团队近日在医学期刊《柳叶刀》发布的研究报告显示，中国结束清零政策后出现新一波疫情时，最初几周没有出现新变种。
+研究人员在2022年11月14日至12月20日，北京病例数激增时期，随机对当地413名患者的样本进行测序......
+
+#### 日韩考虑放宽 中国入境旅客防疫限制
+
+https://www.zaobao.com/news/china/story20230210-1361545
+
+随着中国冠病疫情趋于稳定，韩国和日本考虑放宽对从中国入境旅客实施的防疫限制。
+据韩联社星期四（2月9日）报道，多名防疫和卫生部门人士透露，韩国政府考虑在近期重启中国公民赴韩短期签证的签发，当局最早星期五或下周召开中央灾难安全对策本部会议讨论相关事宜。不过，对中国入境人员实施的行前检测和落地检要求将保留......
+
+#### 牛羊毛编制典雅地毯
+
+https://www.zaobao.com/news/china/story20230210-1361546
+
+位于青海省西宁市的一个藏毯厂商生产车间里，一名操作工在检查毯面、拔花刺。该厂使用高原优质的牛羊毛，经过工人编结、栽绒、纺织后，制作出一张张毛质优良、技艺独特、图案典雅的地毯。此图摄于2月4日......
+
+#### 驻法大使卢沙野： 中国曾多次低调处理美气球进入中国领空事件
+
+https://www.zaobao.com/news/china/story20230210-1361547
+
+美国击落飞入其领空的中国气球引来中国的强烈抨击，中国驻法国大使卢沙野说，美国气球曾多次飞入中国领空，但中国都低调处理，并未炒作。
+根据中国驻法国大使馆官网发布的访谈实录，卢沙野星期一（2月6日）接受法国LCI电视台《观天下》栏目直播专访时，就中美气球纠纷一事，批评美国"说一套做一套"，起初表示不会击落气球，不久后却在气球即将飞离美国大陆时，将其击落......
+
+#### 早说
+
+https://www.zaobao.com/news/china/story20230210-1361548
+
+中国消费者投资储蓄的选择有限，而房地产市场如今已不是一个可行的选项......我们预计中国会出现消费热潮。如果你看飞机航班预订、旅游和酒店入住率、电影院票房等情况，中国恢复的速度相当快。
+------消费品巨头联合利华首席执行官乔安路（Alan
+Jope）星期四（2月9日）在公司发布2022年业绩时预计，中国将出现消费热潮，认为这将促进其在中国和东南亚的销售......
+
+#### 美国反华有些歇斯底里
+
+https://www.zaobao.com/news/china/story20230210-1361549
+
+"看到美国民众对气球的反应，我感到忧虑。我觉得美国对中国的反应歇斯底里（hysteria）。这让理性思考和理性的政策制定非常困难。"
+新加坡东南亚研究所一年一度的东南亚态势报告，星期四（2月9日）发布并同步举行研讨会。这份以亚细安十国的学、政、商与媒体人等为调查对象的报告，每年分析亚细安十国对本地区主要政经议题与中美博弈的观感......
+
+#### 阿里巴巴证实研发聊天机器人 阿里版ChatGPT目前已处内测阶段
+
+https://www.zaobao.com/news/china/story20230210-1361550
+
+中国官方接连对ChatGPT概念股追逐潮示警后，业内人士分析，这是监管机构对ChatGPT短期持续爆炒降温的信号。更有市场人士认为，若短期持续爆炒，从以往案例看，不排除停牌核查等更多监管措施的可能......
+
+#### 台湾北部一蛋难求
+
+https://www.zaobao.com/news/china/story20230210-1361551
+
+受到禽流感、气候变化和饲料价格上涨等多重因素影响，台湾近期面临缺鸡蛋的问题，从农历春节至今，台湾北部一蛋难求，就算民众起个大早到店家排队，还是买不到蛋，有的店家不得不推出限购规定，一个人只能购买15颗蛋。图为台北市民2月9日在杂货店抢买鸡蛋......
+
+#### 台美就提升F-16战机 签署技术支援服务合约
+
+https://www.zaobao.com/news/china/story20230210-1361552
+
+台湾已与美国签署两项战机技术支援服务合约，以维护台湾空军F-16战机升级后的战机妥善率与整体战力。
+据《自由时报》报道，台湾国防部星期三（2月8日）宣布，这两项总值25.6亿元（新台币，下同，1.13亿新元）的合约由台湾空军司令部委托台湾驻美军事代表团与美国在台协会（AIT）签署......
+
+#### 中澳关系回暖 澳煤炭船抵达中国 龙虾贸易或即将重启
+
+https://www.zaobao.com/news/china/story20230210-1361553
+
+随着中澳关系回暖，两国贸易正逐步恢复。目前有至少两艘载有澳洲煤炭的船只已抵达中国，七艘正在前往中国的途中。有迹象显示，两国的龙虾贸易也将重启。
+综合路透社、法新社报道，金融数据科技公司路孚特和数据情报公司Kpler最新船舶追踪数据显示，一艘装载约7万3300吨澳洲动力煤的干散货船Tiger
+East正在广东台山港口卸货。这些煤炭可能将被送往中国能源集团旗下的国能台山电厂......
+
+#### 李家超将率团考察大湾区城市
+
+https://www.zaobao.com/news/china/story20230210-1361554
+
+香港与中国大陆实现全面通关后，有消息称香港特首李家超最早在3月底率团到大湾区城市考察。
+星期四（9日）的《星岛日报》专栏"大棋盘"文章称，港府正积极筹备，由李家超亲自带领一批立法会议员最快3月底出发到包括广州及深圳在内的大湾区城市考察，与广东省官员会面。如果考察计划成功落实，这将是香港完善选举制度后，新议会首次出访......
+
+#### 食品解禁及建议两岸航点复航 中国大陆对台今年将更着重推动交流
+
+https://www.zaobao.com/news/china/story20230209-1361197
+
+台湾政治大学东亚研究所特聘教授王信贤对本报分析，大陆转向与病毒共存后，致力恢复经济，近期在对外政策上趋缓，对台政策也连带转变。他相信，在军事施压不放松的前提下，恢复交流会是大陆未来一年的对台重点......
+
+#### 美重量级议员麦考尔：众议院议长麦卡锡或推迟访台
+
+https://www.zaobao.com/news/china/story20230209-1361199
+
+在中美关系因气球事件而关系紧张之际，美国重量级议员再次证实会在4月访台，而盛传的众议院议长麦卡锡4月赴台行程则据说可能在今年晚些时候或明年。
+据彭博社报道，刚履新的美国众议院外交委员会主席麦考尔（Michael
+McCaul）星期二（2月7日）受访时说，计划在春天率领两党代表团访问台湾，他解释："我认为对大陆展示我们支持台湾，以发挥遏阻作用非常重要......
+
+#### 跨境学生回港上课
+
+https://www.zaobao.com/news/china/story20230209-1361201
+
+（中新社）
+香港天水围顺德联谊总会翁佑中学星期三（2月8日）上午迎来回校上课的跨境学生。香港与中国大陆在2月6日全面恢复通关，深港跨境中学生星期三开始回港上课，跨境小学生和幼儿园学童则会在2月22日开始回港上课......
+
+#### 原驻巴基斯坦大使 农融出任外交部部长助理
+
+https://www.zaobao.com/news/china/story20230209-1361202
+
+中国政府官方网站证实，中国原驻巴基斯坦大使农融已出任外交部部长助理。外界预计他将分管亚洲事务。
+据中国人社部官网2月7日消息，国务院任免农融为外交部部长助理。农融的名字也出现在中国外交部官网，在四名部长助理中排名第四，在吴江浩、徐飞洪、华春莹之后。
+预计分管亚洲地区
+外界预计农融将分管亚洲地区。据日本媒体早前报道，原本分管亚洲事务的吴江浩将出任驻日本大使，接替现任驻日大使孔铉佑......
+
+#### 早说
+
+https://www.zaobao.com/news/china/story20230209-1361203
+
+这是一个有泡沫的热点，估计再过三个月，越来越多的人对ChatGPT的新鲜感消失后，赛道就会冷静下来。
+------复旦大学管理学院信息管理与商业智能系系主任张诚受访时说，ChatGPT是对自然语言处理增强学习、深度循环神经网络及其改进版本、大模型等已有技术的组合，所有这些技术都不是新的，技术门槛都不具备垄断性。因此百度、谷歌可以迅速跟进，但再过三个月，热度可能就会褪去......
+
+#### 王纬温：李克强的最后一份政府工作报告
+
+https://www.zaobao.com/news/china/story20230209-1361204
+
+中国总理李克强将在下月初召开的全国"两会"（人大和政协年会）交棒，同时将作任内最后一份政府工作报告，为10年总理任期画上句点。
+冠病防疫政策大转弯满两个月之际，中国经济持续积聚复苏动力......
+
+#### 港高才通计划已批准5800人申请 学者：应提供便利房屋与教育支援政策
+
+https://www.zaobao.com/news/china/story20230209-1361205
+
+为了应对人才流失，香港特区政府去年推出"高端人才通行证计划"，迄今已有5799人获批在半年内赴港工作或创业。图为香港中环商区人来人往。（香港中通社）
+香港教育大学高级讲师叶德平接受《联合早报》采访时指出，申请计划的大多为有潜力发展的青年人才，这一群人来港工作，应该是看好香港前景，尤其是香港作为粤港澳大湾区的"龙头城市"，可以在区内经济发展中扮演积极角色......
+
+#### 航空公司增加往返中国航班 但数量仍远不及疫前水平
+
+https://www.zaobao.com/news/china/story20230209-1361206
+
+载有125名乘客的中国航班2月7日降落在柬埔寨首都金边国际机场，现场有柬埔寨传统舞蹈昌扬舞表演，柬埔寨旅游大臣童昆和中国驻柬埔寨大使王文天（不在图中）前往接机。（新华社）
+中国2月6日起重启出境团队旅游，航空公司近期密集新开、恢复或加密往返中国的航班，多家航空公司的复航计划都侧重于东南亚地区。但受访的业界人士称，目前航线数量仍远不及疫前水平，机票价格也仍高企，旅游业强劲复苏仍需时日......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

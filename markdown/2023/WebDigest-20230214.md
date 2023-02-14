@@ -1,0 +1,993 @@
+Other formats: [PDF](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/webdigest/WebDigest-20230214.pdf--168a12a5fc49cbf9fe48c08ff98ca2b9.pdf) / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20230214.html)
+
+
+# Web Digest 2023-02-14
+
+
+## Developers
+
+### Hacker News
+
+#### Let Teenagers Sleep
+
+https://www.scientificamerican.com/article/let-teenagers-sleep/
+
+https://news.ycombinator.com/item?id=34780343
+
+#### Modern Mono
+
+https://www.tbray.org/ongoing/When/202x/2023/02/09/Monospace
+
+https://news.ycombinator.com/item?id=34777325
+
+#### Tell HN: Salesforce is mandating RTO 3 days/wk for all employee
+
+https://news.ycombinator.com/item?id=34776243
+
+https://news.ycombinator.com/item?id=34776243
+
+#### Matrix 2.0: How we're making Matrix go voom
+
+https://fosdem.org/2023/schedule/event/matrix20/
+
+https://news.ycombinator.com/item?id=34776132
+
+#### Bing AI can't be trusted
+
+https://dkb.blog/p/bing-ai-cant-be-trusted
+
+https://news.ycombinator.com/item?id=34775853
+
+#### The bottom emoji breaks rust-analyzer
+
+https://fasterthanli.me/articles/the-bottom-emoji-breaks-rust-analyzer
+
+https://news.ycombinator.com/item?id=34775549
+
+#### The AI Bubble of 2023
+
+https://thereformedbroker.com/2023/02/07/the-ai-bubble-of-2023/
+
+https://news.ycombinator.com/item?id=34775299
+
+#### Mozilla removes Bypass Paywalls Clean extension from its add-ons repository
+
+https://www.ghacks.net/2023/02/13/mozilla-removes-bypass-paywalls-clean-extension-from-its-add-ons-repository/
+
+https://news.ycombinator.com/item?id=34774950
+
+#### Turkey's earthquakes show the deadly extent of construction scams
+
+https://www.economist.com/europe/2023/02/12/turkeys-earthquakes-show-the-deadly-extent-of-construction-scams
+
+https://news.ycombinator.com/item?id=34774827
+
+#### India's government wants total control of the internet
+
+https://www.wired.com/story/indias-government-wants-total-control-of-the-internet/
+
+https://news.ycombinator.com/item?id=34774823
+
+#### Clojure Turns 15 panel discussion video
+
+https://www.youtube.com/watch?v=exSRG-iL74Q
+
+https://news.ycombinator.com/item?id=34774498
+
+#### American Dream For Rent: Investors elbow out individual home buyers
+
+https://www.ajc.com/american-dream/investor-owned-houses-atlanta/
+
+https://news.ycombinator.com/item?id=34774114
+
+#### Twilio is laying off 17% of workforce
+
+https://www.twilio.com/blog/restructuring-twilio
+
+https://news.ycombinator.com/item?id=34773865
+
+#### GitHub staff are required to use Teams by Sep 1, 2023
+
+https://twitter.com/karrisaarinen/status/1623857893090152448
+
+https://news.ycombinator.com/item?id=34773860
+
+#### A targeted crackdown on "junk fees" makes a lot of sense
+
+https://www.slowboring.com/p/junk-fees
+
+https://news.ycombinator.com/item?id=34773841
+
+#### Ohio catastrophe is 'wake-up call' to dangers of deadly train derailments
+
+https://www.theguardian.com/us-news/2023/feb/11/ohio-train-derailment-wake-up-call
+
+https://news.ycombinator.com/item?id=34773513
+
+#### Launch HN: Lago (YC S21) -- Open-source usage-based billing
+
+https://news.ycombinator.com/item?id=34773442
+
+https://news.ycombinator.com/item?id=34773442
+
+#### Toxic gases connected to Ohio train derailment cause concern
+
+https://old.reddit.com/r/news/comments/110n59k/toxic_gases_connected_to_ohio_train_derailment/
+
+https://news.ycombinator.com/item?id=34772687
+
+#### United States tells citizens: Leave Russia immediately
+
+https://www.reuters.com/world/us/united-states-tells-citizens-depart-russia-immediately-2023-02-13/
+
+https://news.ycombinator.com/item?id=34772493
+
+#### We overestimate our short-term ability, but underestimate our long-term ability
+
+https://paavandesign.com/blog/ostaulta/
+
+https://news.ycombinator.com/item?id=34771739
+
+### Phoronix
+
+#### Sway & wl-roots Land Support For Wayland Fractional Scaling
+
+https://www.phoronix.com/news/Sway-wl-roots-Fractional-Scale
+
+#### Microsoft Officially Launches D3D12 GPU Video Acceleration For WSL Linux Use
+
+https://www.phoronix.com/news/WSL-D3D12-GPU-Video-Accel
+
+#### The Current State Of GCC 13's Rust Language Front-End
+
+https://www.phoronix.com/news/GCC-13-Rust-Front-End-State
+
+#### libdisplay-info Marks Its First Release To Reduce EDID/DisplayID Parsing Fragmentation
+
+https://www.phoronix.com/news/libdisplay-info-0.1
+
+#### Mesa's Rusticl Lands Support For SPIR-V Programs
+
+https://www.phoronix.com/news/Mesa-23.1-Adds-Rusticl-SPIR-V
+
+#### More Rust Code Readied For Linux 6.3 - Closer To Having Rust Drivers Upstreamed
+
+https://www.phoronix.com/news/Rust-Linux-6.3-Changes
+
+#### RISC-V Linux Patches Start On \"zisslpcfi\" Support For Control-Flow Integrity
+
+https://www.phoronix.com/news/RISC-V-zisslpcfi-Linux-RFC
+
+#### Blender 4.0 Hopes To At Least Have A Non-Optimized Vulkan Implementation
+
+https://www.phoronix.com/news/Blender-4.0-Eevee-VLK-Plans
+
+#### KiCad 7.0 Released For This Open-Source Electronics Design Automation Suite
+
+https://www.phoronix.com/news/KiCad-7.0-Released
+
+### GitHub
+
+#### f/awesome-chatgpt-prompts
+
+https://github.com/f/awesome-chatgpt-prompts
+
+This repo includes ChatGPT prompt curation to use ChatGPT better.\
+Language: HTML\
+Stars: 25410\
+Forks: 2621
+
+#### ventoy/Ventoy
+
+https://github.com/ventoy/Ventoy
+
+A new bootable USB solution.\
+Language: C\
+Stars: 45216\
+Forks: 3209
+
+#### williamboman/mason.nvim
+
+https://github.com/williamboman/mason.nvim
+
+Portable package manager for Neovim that runs everywhere Neovim runs.
+Easily install and manage LSP servers, DAP servers, linters, and
+formatters.\
+Language: Lua\
+Stars: 3616\
+Forks: 183
+
+#### AUTOMATIC1111/stable-diffusion-webui
+
+https://github.com/AUTOMATIC1111/stable-diffusion-webui
+
+Stable Diffusion web UI\
+Language: Python\
+Stars: 32572\
+Forks: 6244
+
+### Dribbble
+
+#### Speak Branding, visual identity, corporate brand design
+
+https://dribbble.com/shots/20467856
+
+#### Prime Video icons
+
+https://dribbble.com/shots/20621681
+
+#### Atopa Website Design: business landing web page, site designer
+
+https://dribbble.com/shots/20477297
+
+#### Micromobility Website Design: business landing web page site
+
+https://dribbble.com/shots/20467789
+
+#### \[B\] 1 → N
+
+https://dribbble.com/shots/20556949
+
+#### \[P\] 1 → N
+
+https://dribbble.com/shots/20556787
+
+#### Cruste Brand Guidelines
+
+https://dribbble.com/shots/20416028
+
+#### Ninox Branding, visual identity, corporate brand design
+
+https://dribbble.com/shots/20476729
+
+#### VISIONARY
+
+https://dribbble.com/shots/20603966
+
+#### Introducing Odi
+
+https://dribbble.com/shots/20602121
+
+#### Illustration
+
+https://dribbble.com/shots/20589453
+
+#### Let's go home page
+
+https://dribbble.com/shots/20581070
+
+#### Wave Website
+
+https://dribbble.com/shots/20598813
+
+#### Co-hiking Website
+
+https://dribbble.com/shots/20477712
+
+#### Education responsive dashboard
+
+https://dribbble.com/shots/20597571
+
+#### Wellest Branding
+
+https://dribbble.com/shots/20477490
+
+#### Language Learning Mobile App design: iOS Android ux ui designer
+
+https://dribbble.com/shots/20476613
+
+#### UI Concept design
+
+https://dribbble.com/shots/20608963
+
+#### GrizzlyThon Illustration
+
+https://dribbble.com/shots/20623053
+
+#### AesthetiX // Website
+
+https://dribbble.com/shots/20598961
+
+#### Art & Future Website
+
+https://dribbble.com/shots/20612072
+
+#### Locale
+
+https://dribbble.com/shots/20601637
+
+#### CVMaker - Guidelines
+
+https://dribbble.com/shots/20589049
+
+#### Shoplon e-Commerce UI Kit II
+
+https://dribbble.com/shots/20585121
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### 丰田因电池软件故障召回 2021 年款 RAV4 Prime
+
+https://www.solidot.org/story?sid=74122
+
+#### 生成式 AI 的能耗和碳排放
+
+https://www.solidot.org/story?sid=74121
+
+#### KiCad 7.0 释出
+
+https://www.solidot.org/story?sid=74120
+
+#### 20 亿年前仙女座合并曾导致大规模星系迁移
+
+https://www.solidot.org/story?sid=74119
+
+#### 达芬奇笔记显示他曾研究过引力和加速度关系
+
+https://www.solidot.org/story?sid=74118
+
+#### Opera 将在浏览器中整合 ChatGPT
+
+https://www.solidot.org/story?sid=74117
+
+#### 微软为 Windows 11 向第三方服务发送数据辩护
+
+https://www.solidot.org/story?sid=74116
+
+#### 卫星观测显示强地震后地壳出现了 300 公里长的裂缝
+
+https://www.solidot.org/story?sid=74115
+
+#### 祛魅 SMPC 和它的威胁模型
+
+https://www.solidot.org/story?sid=74114
+
+#### Google AI 机器人 Bard 演示广告出错，市值蒸发千亿美元
+
+https://www.solidot.org/story?sid=74113
+
+#### 数十亿国内快递信息泄露
+
+https://www.solidot.org/story?sid=74112
+
+#### 科学家称年轻血液延长了实验鼠的寿命
+
+https://www.solidot.org/story?sid=74111
+
+#### ChatGPT 等 AI 模型将冲击印度 IT 外包公司
+
+https://www.solidot.org/story?sid=74110
+
+#### 俄罗斯又一艘停靠在空间站的飞船发生冷却剂泄漏
+
+https://www.solidot.org/story?sid=74109
+
+#### PC CPU 出货量创 30 年来最大跌幅
+
+https://www.solidot.org/story?sid=74108
+
+#### 微软 Surface、HoloLens 和 Xbox 部门裁员
+
+https://www.solidot.org/story?sid=74107
+
+#### 亚马逊制作暗影蜘蛛侠真人剧集
+
+https://www.solidot.org/story?sid=74106
+
+#### 阿里巴巴腾讯网易京东都宣布了各自的 AI 计划
+
+https://www.solidot.org/story?sid=74105
+
+### V2EX
+
+#### \[Apple\] one 超大杯一发车 还有 2 位置
+
+https://www.v2ex.com/t/915874
+
+#### \[深圳\] 建了一个深圳生活交流群
+
+https://www.v2ex.com/t/915871
+
+#### \[罗技\] 罗技的 Logitech G HUB 软件，快捷键绑定 bat 文件打不开
+
+https://www.v2ex.com/t/915870
+
+#### \[macOS\] 付费版 PDF Expert 体验完胜 Adobe Acrobat
+
+https://www.v2ex.com/t/915869
+
+#### \[问与答\] 跑代码跑模型的等待时间你们都会怎么摸鱼或者利用？
+
+https://www.v2ex.com/t/915868
+
+#### \[硬件\] 两个机械硬盘似乎相冲突怎么办？
+
+https://www.v2ex.com/t/915867
+
+#### \[分享创造\] 刚写了个安卓小组件
+
+https://www.v2ex.com/t/915866
+
+#### \[问与答\] 使用 Linux (deepin)写代码
+
+https://www.v2ex.com/t/915865
+
+#### \[奇思妙想\] chatgpt 真正可以大放异彩的领域
+
+https://www.v2ex.com/t/915864
+
+#### \[Go 编程语言\] 有哪些使用 golang 实现的比较好的连接池推荐？
+
+https://www.v2ex.com/t/915863
+
+#### \[分享创造\] 动画学 leetcode 算法，全免费！做了一款 iOSApp 算法宝，欢迎大家试用！
+
+https://www.v2ex.com/t/915862
+
+#### \[问与答\] 50 收网易云音乐
+
+https://www.v2ex.com/t/915861
+
+#### \[宽带症候群\] upnp/Port-forwarding 在 ipv6 场景下对应的技术是什么？
+
+https://www.v2ex.com/t/915860
+
+#### \[求职\] 36 岁程序员 - 6 年后台经验\[Go, PHP \]
+
+https://www.v2ex.com/t/915858
+
+#### \[问与答\] 用 pass 表示 fail 是国内才有的 chinglish 用法吗？
+
+https://www.v2ex.com/t/915857
+
+#### \[分享发现\] 如何开通 ChatGPT Plus?
+
+https://www.v2ex.com/t/915856
+
+#### \[Apple\] 关于苹果设备激活锁的注意事项
+
+https://www.v2ex.com/t/915855
+
+#### \[音乐\] 第一次录英文歌，银河铁道，欢迎收听
+
+https://www.v2ex.com/t/915854
+
+#### \[随想\] 蹉跎半生， 怎么就突然快 30 岁了!
+
+https://www.v2ex.com/t/915852
+
+#### \[程序员\] 有关 nginx 泛域名反向代理的写法
+
+https://www.v2ex.com/t/915851
+
+#### \[问与答\] Chrome 搜索变成了分栏而不是新 tab 页打开？
+
+https://www.v2ex.com/t/915850
+
+#### \[NVIDIA\] NVIDIA GPU CUDA core 数对性能的影响
+
+https://www.v2ex.com/t/915849
+
+#### \[宽带症候群\] ESXI Samba 写入机械硬盘降速问题，求指导
+
+https://www.v2ex.com/t/915848
+
+#### \[分享发现\] chatgpt 多模型，内置了挺多的模型，不用自己的 api 了
+
+https://www.v2ex.com/t/915846
+
+#### \[宽带症候群\] \[疑问\] 宽带接入标准要求地址转换(NAT)必须是全锥型(NAT1/Fullcone)？
+
+https://www.v2ex.com/t/915845
+
+#### \[酷工作\] Talas Solutions -- 高级 Python 工程师
+
+https://www.v2ex.com/t/915844
+
+#### \[Apple\] Macos 上的大小写切换和中英文切换问题？
+
+https://www.v2ex.com/t/915843
+
+#### \[问与答\] 卫生间换气扇一开，我显示器就黑屏三秒，什么原理？
+
+https://www.v2ex.com/t/915842
+
+#### \[NAS\] 如何测试公网连接到群晖 Synology 查看图片或文件的网速？远程很快但是 QC 看图很慢。
+
+https://www.v2ex.com/t/915839
+
+#### \[宽带症候群\] 抖音上的宽带报装优惠靠谱么？
+
+https://www.v2ex.com/t/915838
+
+#### \[分享创造\] \[web3\] app 内测邀请，欢迎大家试用
+
+https://www.v2ex.com/t/915837
+
+#### \[分享发现\] 用 ChatGPT 来生成 abcjs 记谱代码
+
+https://www.v2ex.com/t/915835
+
+#### \[问与答\] 闲鱼验货宝有问题，改如何维护自己的权利？
+
+https://www.v2ex.com/t/915834
+
+#### \[ WATCH\] Apple Watch 每天完成三环的心得
+
+https://www.v2ex.com/t/915833
+
+#### \[硬件\] 大家对更加底层的硬件知识感兴趣吗
+
+https://www.v2ex.com/t/915831
+
+#### \[问与答\] 十亿 mysql 数据优化，主键能否用 uid+雪花算法 id
+
+https://www.v2ex.com/t/915829
+
+#### \[问与答\] 有没有 V 友用拉杆箱通勤？
+
+https://www.v2ex.com/t/915828
+
+#### \[成都\] 青羊区 出售取暖器 美的踢脚线加热器 HDX22K
+
+https://www.v2ex.com/t/915827
+
+#### \[OpenAI\] ChatGPT Plus 国内用户信用卡绑定
+
+https://www.v2ex.com/t/915826
+
+#### \[问与答\] 情人节，男生都想收到啥礼物？
+
+https://www.v2ex.com/t/915825
+
+#### \[问与答\] 好久没看见网址交流贴了，晒晒网站啊？
+
+https://www.v2ex.com/t/915824
+
+#### \[问与答\] 现在大家还有用报表工具吗？
+
+https://www.v2ex.com/t/915822
+
+#### \[C++\] 这份简历大四春招投个中/小公司没问题吧？
+
+https://www.v2ex.com/t/915821
+
+#### \[分享创造\] V 友好，分享一个我自己制作的导航网站，用于替换浏览器首页及 newtab 新标签页
+
+https://www.v2ex.com/t/915819
+
+#### \[问与答\] 微软 Bing 的 chatGPT 使用体验，感觉稍微更强一些。
+
+https://www.v2ex.com/t/915818
+
+#### \[PowerShell\] powershell 运行 ps 文件的时候，如何支持带空格的路径
+
+https://www.v2ex.com/t/915817
+
+#### \[Surge\] surge for mac 求车位
+
+https://www.v2ex.com/t/915816
+
+#### \[求职\] 干过 UI 交互、产品的前端开发想找个安稳（业务 3 年+都还可持续）的工作
+
+https://www.v2ex.com/t/915815
+
+#### \[分享创造\] 开发了一年的稍后读应用，终于上架 mac app 商店了
+
+https://www.v2ex.com/t/915814
+
+#### \[问与答\] 关于 chatGPT 对计算机科班大学生职业规划的疑问
+
+https://www.v2ex.com/t/915813
+
+## Generic News
+
+### AP News
+
+#### Pandemic youth mental health toll unprecedented, data show
+
+https://apnews.com/article/cd01cd672539d6a3dbada46bfa47203a
+
+FILE - Stanford womens soccer team players wear warmup jerseys with
+\"Mental Health Matters\" on their backs as well as a butterfly patch on
+their sleeves to remember late goalie Katie Meyer, who died by suicide
+earlier in\...
+
+#### Rihanna's pregnancy reveal raises bar in all kinds of ways
+
+https://apnews.com/article/5a789ce2153e077e4c64c8609fb9aa31
+
+Pregnant Rihanna soars in Super Bowl halftime performance; U2 returning
+to stage in Las Vegas, minus one of quartet; \"Magic Mikes Last Dance\"
+wins Super Bowl weekend box office in the U.S.. (Feb. 13) Rihanna
+performs\...
+
+#### Twitter's plan to charge for crucial tool prompts outcry
+
+https://apnews.com/article/eca5709035a08d2ebed8fac673809ea8
+
+FILE - Members of a search and rescue team work on a collapsed structure
+after the earthquake in Antakya, southeastern Turkey, Sunday, Feb. 12,
+2023. Starting Monday, a crucial Twitter tool known as Application
+Developer Interface, used\...
+
+#### Newborn saved from rubble in quake-hit Syria in good health
+
+https://apnews.com/article/995037d2b1ce6c7ddac538c9ce260eaf
+
+A baby girl who was born under the rubble caused by an earthquake that
+hit Syria and Turkey receives treatment inside an incubator at a
+childrens hospital in the town of Afrin, Aleppo province, Syria,
+Tuesday, Feb. 7\...
+
+#### Roslyn Pope, author of 'Appeal for Human Rights,' dies at 84
+
+https://apnews.com/article/2a7df9e0cd9166455619eed54079ec81
+
+FILE - In this March 4, 2020 photo, Roslyn Pope poses with a framed copy
+of \"An Appeal for Human Rights\" in her home in Atlanta. Roslyn Pope, a
+college professor and musician who wrote "An Appeal for Human Rights,"
+laying out the\...
+
+#### Alabama hoops No. 1 in AP Top 25 for first time in 20 years
+
+https://apnews.com/article/3f9a5d5309a8bc2cbbffba9a4ef3bd49
+
+Alabama forward Nick Pringle (23) reacts after they beat Auburn in an
+NCAA college basketball game, Saturday, Feb. 11, 2023, in Auburn, Ala.
+(AP Photo/Butch Dill) Alabama is the new No. 1, rising to the top spot
+in The Associated Press\...
+
+#### Super Bowl top moments happened on, off and above the field
+
+https://apnews.com/article/7be35ad8901fcd0d12923dc252032304
+
+Kansas City Chiefs defensive end Carlos Dunlap celebrates with the Vince
+Lombardi Trophy after the NFL Super Bowl 57 football game, Sunday, Feb.
+12, 2023, in Glendale, Ariz. The Kansas City Chiefs defeated the
+Philadelphia Eagles 38-35\...
+
+#### U-Haul driver's NYC 'rampage' leaves 8 hurt, police say
+
+https://apnews.com/article/c77199ad232ee8ee259ba7156ef6841e
+
+Police vehicles surround a truck that was stopped and the driver
+arrested, Monday, Feb. 13, 2023, in New York. Police stopped the U-Haul
+truck and detained the driver after reports that the vehicle struck
+multiple pedestrians in New York\...
+
+#### Judge to release parts of Georgia special grand jury report
+
+https://apnews.com/article/fb2b882c3f404c196b73bc637e7cb32d
+
+Former President Donald Trump speaks at a campaign event at the South
+Carolina Statehouse, Saturday, Jan. 28, 2023, in Columbia, S.C. (AP
+Photo/Alex Brandon) ATLANTA (AP) --- A Georgia judge on Monday ordered
+the partial release later\...
+
+#### AP Interview: Moltzan catching up to US teammate Shiffrin
+
+https://apnews.com/article/20786ffc779a375640bdbe04075cb181
+
+FILE - United States Paula Moltzan, right, smiles to winner United
+States Mikaela Shiffrin after taking second place during an alpine ski,
+World Cup womens slalom in Semmering, Austria\...
+
+#### After their genitals were cut, some women search for healing
+
+https://apnews.com/article/3557cd557f5061c0e416aa3b68d4fb44
+
+A 34-year-old Egyptian woman, who asked to be identified as N.S., visits
+a garden in Cairo, Egypt, Sept. 29, 2022. She remembers it all: How
+female relatives held her down when she was 11, legs spread and genitals
+exposed. The fear that\...
+
+#### Train derailment prompts water utility to take precautions
+
+https://apnews.com/article/b7943bd49fd11e62d45b28b77393e261
+
+FILE - A black plume rises over East Palestine, Ohio, as a result of a
+controlled detonation of a portion of the derailed Norfolk Southern
+trains, Feb. 6, 2023. West Virginias water utility says its\...
+
+#### War for control of Haiti's capital targets women's bodies
+
+https://apnews.com/article/89757f336975cb28283025e65446affb
+
+A woman who did not want to give her name for fear of retaliation poses
+for a photo during an interview at a clinic near Port-au-Prince, Haiti,
+Friday, Jan. 20, 2023. The 36-year-old sent her two children to live
+with family in another\...
+
+### Reuters
+
+#### Turkey earthquake rescuers find 'miracle' survivors but frustration grows
+
+https://www.reuters.com/world/middle-east/survivors-ever-fewer-earthquake-rubble-turkey-syria-2023-02-12/
+
+Summary: Death toll 31,643 in Turkey, more than 5,700 in Syria At least
+eight people reported rescued on Monday Rescue phase coming to a close,
+says U.N. in Syria Syrias Assad agrees to\...
+
+#### Russian forces bombard Ukraine's Bakhmut in major new offensive, NATO chief says
+
+https://www.reuters.com/world/europe/russian-forces-claim-gains-along-ukraine-frontline-2023-02-13/
+
+Summary: Russia claims incremental gains along frontlines Bakhmut
+remains focus of fighting, chaotic shelling NATO to increase targets for
+stockpiling of ammunition Ukrainian servicemen are seen on a\...
+
+#### New Zealand declares National State of Emergency as Cyclone Gabrielle causes havoc
+
+https://www.reuters.com/business/environment/cyclone-gabrielle-causes-havoc-new-zealand-firefighter-missing-2023-02-13/
+
+A view shows high tides rising due to Cyclone Gabrielle in Arkles Bay,
+Auckland, New Zealand February 13, 2023 in this screen grab obtained
+from a social media video. John Longson/Twitter \@JohnLongson/via
+REUTERS The New Zealand\...
+
+#### Equatorial Guinea confirms country's first Marburg virus disease outbreak -WHO
+
+https://www.reuters.com/world/africa/who-equatorial-guinea-confirms-first-ever-marburg-virus-disease-outbreak-2023-02-13/
+
+The World Health Organization logo is pictured at the entrance of the
+WHO building, in Geneva, Switzerland, December 20, 2021. REUTERS/Denis
+Balibouse Equatorial Guinea has confirmed its first outbreak of the
+Marburg virus, a highly\...
+
+#### White House: No indication of aliens with takedowns of unidentified objects
+
+https://www.reuters.com/world/us/white-house-no-indication-aliens-with-takedowns-unidentified-objects-2023-02-13/
+
+John Kirby, National Security Council Coordinator for Strategic
+Communications, answers questions during the daily press briefing with
+White House Press Secretary Karine Jean-Pierre, at the White House in
+Washington, U.S., February 13\...
+
+#### Explainer: What we know about the objects shot down by the U.S. military
+
+https://www.reuters.com/world/us/what-we-know-about-objects-shot-down-by-us-military-2023-02-13/
+
+The suspected Chinese spy balloon drifts to the ocean after being shot
+down off the coast in Surfside Beach, South Carolina, U.S. February 4,
+2023. REUTERS/Randall Hill/File Photo An unprecedented spate of
+mysterious flying objects over\...
+
+#### Adani hires Grant Thornton for some independent audits after Hindenburg fallout -sources
+
+https://www.reuters.com/world/india/adani-hires-grant-thornton-some-independent-audits-after-hindenburg-fallout-2023-02-13/
+
+Indian billionaire Gautam Adani speaks during an inauguration ceremony
+after the Adani Group completed the purchase of Haifa Port earlier in
+January 2023, in Haifa port, Israel January 31, 2023. REUTERS/Amir
+Cohen/File Photo The logo of\...
+
+#### Canada's Trudeau sees 'some sort of pattern' in downed aerial objects
+
+https://www.reuters.com/world/americas/trudeau-says-there-is-some-sort-pattern-aerial-objects-shot-down-recently-2023-02-13/
+
+Canadas Prime Minister Justin Trudeau, speaks in front of Yukon First
+Nation Chiefs, as he takes part in ceremonies to mark the 50th
+anniversary of the Council for Yukon First Nations (CYFN) in Whitehorse,
+Yukon, Canada\...
+
+#### U.S.-China balloon dispute widens amid mystery airspace intrusions
+
+https://www.reuters.com/world/us-china-balloon-dispute-widens-amid-mystery-airspace-intrusions-2023-02-13/
+
+An undated U.S. Federal Bureau of Investigation handout photo taken at
+an undisclosed location shows FBI Special Agents assigned to the
+bureau's Evidence Response Team processing material recovered from the
+high-altitude Chinese balloon\...
+
+#### White House rejects Beijing claims of U.S. balloons over China
+
+https://www.reuters.com/world/china/china-says-us-flew-more-than-10-high-altitude-balloons-over-chinese-airspace-2023-02-13/
+
+Chinese Foreign Ministry spokesperson Wang Wenbin speaks during a news
+conference in Beijing, China March 3, 2022. REUTERS/Carlos Garcia
+Rawlins China said on Monday that U.S. high altitude balloons had flown
+over its airspace without\...
+
+#### Analysis: Kremlin moves to rein in Russian mercenary boss Prigozhin
+
+https://www.reuters.com/world/europe/kremlin-moves-rein-russian-mercenary-boss-prigozhin-2023-02-13/
+
+Summary: Mercenary boss reins in public criticism of top brass State
+media told to stop promoting him and his group Prigozhin loses right to
+recruit convicts Ex-Kremlin adviser says politics off limits for
+Prigozhin Evgeny Prigozhin (L\...
+
+#### Russia's Wagner militia suggests deserter was - and wasn't - executed
+
+https://www.reuters.com/world/europe/sledgehammer-execution-russian-mercenary-who-fled-shown-video-2023-02-13/
+
+A truck displaying the symbols \"Z\" in support of the Russian armed
+forces involved in a military conflict in Ukraine is parked outside PMC
+Wagner Centre, which is a project implemented by the businessman and
+founder of the Wagner private\...
+
+#### Israeli parliament in uproar over Netanyahu justice plans as thousands protest
+
+https://www.reuters.com/world/middle-east/israeli-parliament-uproar-over-netanyahu-plans-judiciary-2023-02-13/
+
+Summary: Heavily contested judicial changes in parliament Many thousands
+protest against plans they say threaten democracy Netanyahu says changes
+needed to restore balance President warns of \"constitutional collapse\"
+Israelis hold flags\...
+
+### 联合早报
+
+#### 青岛海域所发现飞行物 中国隔天军演料已击落
+
+https://www.zaobao.com/news/china/story20230214-1362814
+
+中国军事评论员研判，山东省青岛市官方通报发现不明飞行物，并声称准备击落，与解放军在黄海北部海域进行实弹射击有一定关联，并相信不明飞行物大概已被击落。
+中国外交部星期一（2月13日）指责单是去年以来，美国高空气球就10余次非法飞越中国领空，白宫则否认北京的指控......
+
+#### 蔡英文总统到场颁褒扬令 5­万人含泪跪送星云法师最后一程
+
+https://www.zaobao.com/news/china/story20230214-1362815
+
+台湾佛光山开山宗长星云法师2月13日圆寂赞颂典礼后，遗体移往台南白河大仙寺火化。数万民众沿途含泪跪送，送他最后一程。（人间社提供）
+逾5­万人在昨天台湾佛光山开山宗长星云法师的圆寂赞颂典礼后，送他最后一程。遗体火化后将永久安奉在佛光山万寿园。
+台湾佛光山星期一（2月13日）上午为开山宗长星云法师举行圆寂（离世）赞颂典礼，逾5­万人送他最后一程，总统蔡英文也到场颁发褒扬令......
+
+#### 萧美琴：蔡英文出访邦交国是常态 未来会适时规划
+
+https://www.zaobao.com/news/china/story20230214-1362818
+
+台湾驻美代表萧美琴表示，台湾总统蔡英文在冠病疫情之前出访邦交国是常态，未来在适当时间点也会规划。
+萧美琴星期一与立法院外交及国防委员会立委闭门茶叙前，被媒体问到蔡英文会否在下半年出访时过境美国。她说，蔡英文出访邦交国是常态，过去都有惯例，"未来适当时间点也会规划，但目前并没有很细部、确切的方案"......
+
+#### 称在港说普通话被歧视 大陆网红被批"为流量抹黑香港"
+
+https://www.zaobao.com/news/china/story20230214-1362819
+
+中国大陆网红发视频展示在香港只说普通话受到不公正待遇后，有不少大陆旅客反驳歧视论，也有媒体人批评网红为了流量抹黑香港，并呼吁港府要对大陆民众"讲好香港故事"。
+拥有逾98万粉丝的抖音博主"沪漂女孩艺轩"，在2月7日的短视频中展示她屡次因只说普通话，在香港旺角、尖沙咀等旅游热门地受到服务人员不公正对待后，香港《星岛日报》2月10日到深圳采访市民对香港旅游的印象......
+
+#### 早 说
+
+https://www.zaobao.com/news/china/story20230214-1362820
+
+本年度不止是23条立法不列入立法议程，连相关公众咨询亦不宜展开。
+------中国全国侨联副主席卢文端星期一（2月13日）在《明报》撰文，列举四个不宜在今年推进《基本法》23条立法的原因，包括应当先拼经济、加强联通世界等。他还提醒，台湾2024总统大选临近，香港如果在此时展开23条立法引发争议，极有可能又让民进党"捡到枪"，借机抹黑"一国两制"，称这是绝不能容许出现的局面......
+
+#### 简约公屋揭示港府管治危机
+
+https://www.zaobao.com/news/china/story20230214-1362821
+
+香港新一届特区政府在中央政府的大力支持下，上任以来不断触碰社会"老大难"问题，并提出一系列针对性措施，获得了社会舆论的普遍认可。然而，近来当局未顾及细节问题就匆促推出某些政策，也暴露出本届政府在管治方面存在一些问题。
+这里说的是"简约公屋"。九七后住屋成为香港社会的头等问题......
+
+#### 调查：终身无孩率快速上升 中国育龄女性生育意愿不断降低
+
+https://www.zaobao.com/news/china/story20230214-1362823
+
+中国有相当比率的经济独立女性摒弃传统观念，认为结婚与生育并非人生必经之路，婚姻和生育是对女性的某种剥削。图为2月10日在北京王府井商业大街消费购物的女性。（彭博社）
+中国人民大学新闻学院教授周小普接受《联合早报》采访时说，中国实施计划生育政策以来，独生子女现象改变了中国的家庭结构与关系，也影响了新生代的家庭与婚恋观念，他们的自我意识强，更关注自我价值。
+中国年轻一代婚育观念正发生改变......
+
+#### 赞比亚反对中国要求让世行参与债务重组
+
+https://www.zaobao.com/news/china/story20230214-1362824
+
+中国要求让世界银行和其他多边贷款机构参与赞比亚的债务重组，遭到赞比亚的反对。赞比亚财长警告，这样的要求干扰债务减免进程，正阻碍该国的经济复苏。
+据英国《金融时报》星期一（2月13日）报道，赞比亚财长穆索科图瓦内（Situmbeko
+Musokotwane）受访时说，今年是完成赞比亚约130亿美元（约173亿新元）外债重组的关键时刻，但中国政府提出的要求已对债务重组的谈判形成了一种干扰......
+
+#### 美媒：跨国企业高管陆续重返中国寻商机
+
+https://www.zaobao.com/news/china/story20230214-1362825
+
+（北京综合讯）随着中国重新开放，跨国公司的高层管理人员正陆续重返中国，以寻找重新开放所带来的商机。
+据《华尔街日报》报道，大众汽车首席执行官奥博穆在1月底至2月初访问了中国。他也是1月初中国取消大部分防疫限制以来，首批访华的大型跨国公司高管之一。
+报道引述知情人士透露，预计苹果公司首席执行官库克和辉瑞公司首席执行官艾伯乐，将在下个月访问中国。马赛地---奔驰集团说，集团董事长康林松也计划访问中国......
+
+#### 在日诞生中国大熊猫"香香"将回国
+
+https://www.zaobao.com/news/china/story20230214-1362826
+
+在日本东京上野动物园出生的5岁雌性大熊猫"香香"，将在下星期二（2月21日）归还中国。香香是上野动物园近29年来首次诞生的熊猫宝宝。
+据日本共同社报道，上野动物园园长福田丰对香香的离开表示祝福，"虽然很不舍，但希望香香能努力尽快适应环境，找到好伴侣、留下后代"。
+香香2017年6月出生，父母是中国旅日大熊貓"力力"和"真真"。它在2017年12月首次对公众亮相便大受欢迎......
+
+#### 湖北青年自愿入伍后拒服兵役被罚
+
+https://www.zaobao.com/news/china/story20230214-1362827
+
+中国湖北沙洋县一名青年因拒服兵役，除了要缴纳3万4584元（人民币，下同，约6746新元）罚款，还被罚两年内不得经商、贷款、出国等。
+据澎湃新闻等报道，根据沙洋县政府通报，今年22岁的张佳豪在去年秋季自愿应征报名入伍，但入伍后不久，就以无法适应部队工作生活为由，多次提出终止服役申请......
+
+#### 武汉抗议医保改革人群不退 中国多地政府相继发声解释
+
+https://www.zaobao.com/news/china/story20230213-1362473
+
+湖北武汉上周接连出现退休人士聚集维权，抗议医疗保险改革导致个人账户资金减少。中国多地政府部门连日来相继发声解释医保新规，试图减少改革面对的民意阻力。
+网传视频显示，上星期三（2月8日）有大批老年人冒雨在武汉市政府门前聚集，其中不少人打伞在警车旁合唱《国际歌》，还有人高喊："还我养命钱"。此后两天仍陆续有年长者上街聚集......
+
+#### 台学者：求学时就被贴上地位标签 中国大陆精英教育固化社会阶级流动
+
+https://www.zaobao.com/news/china/story20230213-1362474
+
+长期关注中国大陆教育课题的台湾社会学者姜以琳，在北京追踪28名家庭优渥的精英学生，如何在八年内从中学生一步步出国求学，再进入全球高端市场就业，成为跨国精英阶级的历程。（缪宗翰摄）
+大陆社会精英运用金钱资源，确保下一代得到最好的教育，进而成为跨国精英。而在中国二三线城市里，出身经济条件与社会地位较低家庭的子弟，只能仰赖读书、考试，希望能挤进高校窄门，翻转自身阶级......
+
+#### 国台办发唁函悼念星云法师 大陆团赴台遇阻引两岸争议
+
+https://www.zaobao.com/news/china/story20230213-1362475
+
+以国务院台办副主任龙明彪为团长的中国大陆官方吊唁团，2月12日下午3时出席在江苏宜兴大觉寺举行的星云法师吊唁仪式。图为佛光山"祖庭"江苏宜兴大觉寺吊唁星云法师仪式现场。（新华社）
+（北京／台北综合讯）中国大陆国台办主任宋涛发唁函，深切悼念星云法师，并感怀他坚定促统，反对台独。与此同时，两岸政界也因大陆官方代表团取消赴台湾吊唁行程一事，展开舆论攻防战......
+
+#### 指到处干涉别国内政 中国官媒批美国"假民主真霸权"
+
+https://www.zaobao.com/news/china/story20230213-1362476
+
+中美关系因气球事件滑坡之际，中国官媒《人民日报》连续两天发文，强烈批评美国的民主制度是"假民主真霸权"，将民主工具化、武器化到处干涉别国内政，已尽显病态和颓势......
+
+#### 单日在院死例维持100多起 大陆冠病疫情持续趋稳
+
+https://www.zaobao.com/news/china/story20230213-1362477
+
+中国冠病疫情持续趋稳，官方公布今年2月首个星期累计在院冠病感染相关死亡病例912起。这意味着中国过去一周平均单日在院死亡病例维持在100多起，与官方上周公布的单日数字相似。
+中国疾病预防控制中心星期六（2月11日）发布2023年2月3日至9日冠病疫情数据显示，中国累计在院冠病感染相关死亡病例有912起，当中27起属冠病感染导致呼吸功能衰竭，其余885起属基础疾病感染......
+
+#### 美国得州考虑禁中国公民买房地产 引发当地民众抗议
+
+https://www.zaobao.com/news/china/story20230213-1362479
+
+中美关系日益紧张之际，美国得克萨斯州基于国家安全考量，正考虑禁止中国公民购买房地产。这一做法在当地引发了民众抗议，中国外交部也批评这是将经贸行为政治化，违背国际贸易规则。
+据法新社报道，约300名抗议者星期六（2月11日）在得州第一大城休斯顿唐人街游行，高喊"停止仇恨中国人"和"得州是我们的家"。报道称，抗议者多为美籍华裔和新移民......
+
+#### 早说
+
+https://www.zaobao.com/news/china/story20230213-1362480
+
+随着这部戏的火爆，我最担心的事还是发生了。该来的总会来的，我只能面对。
+------在中国热播反黑刑侦剧《狂飙》中饰演毒贩的演员含笑，星期天（2月12日）在微博发文承认自己曾吸毒，并向剧组、观众和缉毒警察道歉。《狂飙》剧组回应说，将对含笑的参演片段进行修改删除，并强调始终秉持对涉毒零容忍的态度......
+
+#### 于泽远：中国拼经济的外部挑战
+
+https://www.zaobao.com/news/china/story20230213-1362481
+
+今年以来，摆脱疫情影响的中国经济呈现明显复苏景象，各地方政府也纷纷发出拼经济的强音。观察人士纷纷预计中国经济今年有望一扫三年疫情的阴霾，强势反弹。
+但近期突发的"气球事件"引起的中美新一轮博弈，不仅给已经脆弱不堪的中美关系又蒙上一层阴影，也让中国外部环境进一步恶化。如处理不当，中国拼经济的努力有可能受到外部挑战的重大干扰......
+
+#### 涉隐私争议停映 港片《给十九岁的我》再掀蓝黄对骂
+
+https://www.zaobao.com/news/china/story20230213-1362482
+
+香港著名导演张婉婷历时10年拍摄的纪录片《给十九岁的我》虽然备受好评，但因涉及伦理争议在公映四天后就下架。（香港中通社）
+《给十九岁的我》以导演张婉婷的母校英华女学校为拍摄背景，追踪六位性格及家境各异的千禧世代女生，在2011年至2021年的成长故事。影片屡次入选影展还获奖，但因有多名片中女生控诉遭不公对待而停映......
+
+#### 港渣打马拉松3万余人参赛
+
+https://www.zaobao.com/news/china/story20230213-1362483
+
+第25届渣打香港马拉松2月12日早晨开跑，此次赛事参赛名额由2万5000个增至3万7000个，设有全马马拉松、半马拉松和10公里三个距离组别。图为参赛者跑过港岛铜锣湾区。（路透社）
+（香港综合讯）延迟了三个月举行的香港渣打马拉松，星期天（2月12日）吸引超过3万4000人参加，是香港复常后举行的最大型运动赛事。
+特区行政长官李家超说，香港已经全面复苏，将陆续举办多项体育和国际盛事......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

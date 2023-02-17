@@ -1,0 +1,1052 @@
+Other formats: [PDF](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/webdigest/WebDigest-20230217.pdf--ce45726a256beecb333da71460ccadb6.pdf) / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20230217.html)
+
+
+# Web Digest 2023-02-17
+
+
+## Developers
+
+### Hacker News
+
+#### Google Workspace increasing prices from April 11, 2023
+
+https://workspace.google.com/blog/product-announcements/pricing-updates-and-more-flexible-payment-options-google-workspace
+
+https://news.ycombinator.com/item?id=34826453
+
+#### Writing JavaScript without a build system
+
+https://jvns.ca/blog/2023/02/16/writing-javascript-without-a-build-system/
+
+https://news.ycombinator.com/item?id=34825676
+
+#### Microsoft to support Windows 11 on M1 and M2 Macs through Parallels partnership
+
+https://www.theverge.com/2023/2/16/23602718/microsoft-windows-11-apple-mac-m1-m2-support-parallels-virtual-machines
+
+https://news.ycombinator.com/item?id=34825296
+
+#### Zoning laws are no longer in effect in much of the Bay Area
+
+https://www.sfchronicle.com/bayarea/article/california-housing-problem-17783816.php
+
+https://news.ycombinator.com/item?id=34824807
+
+#### Hobby Club's Missing Balloon Feared Shot Down by USAF
+
+https://aviationweek.com/defense-space/aircraft-propulsion/hobby-clubs-missing-balloon-feared-shot-down-usaf
+
+https://news.ycombinator.com/item?id=34824653
+
+#### Does Your Office Have a Library?
+
+https://jonpauluritis.com/articles/does-your-office-have-a-library/
+
+https://news.ycombinator.com/item?id=34824115
+
+#### Web Push for Web Apps on iOS and iPadOS
+
+https://webkit.org/blog/13878/web-push-for-web-apps-on-ios-and-ipados/
+
+https://news.ycombinator.com/item?id=34823402
+
+#### The new Bing will happily give you citations for a pile of nonsense
+
+https://twitter.com/arbuge/status/1626283571294896128
+
+https://news.ycombinator.com/item?id=34823002
+
+#### Moving my PC into my rack in a 2U case
+
+https://www.jeffgeerling.com/blog/2023/moving-my-pc-my-rack-2u-case
+
+https://news.ycombinator.com/item?id=34822455
+
+#### Tesla recalls 360k vehicles, says full self-driving beta may cause crashes
+
+https://www.cnbc.com/2023/02/16/tesla-recalls-362758-vehicles-says-full-self-driving-beta-software-may-cause-crashes.html
+
+https://news.ycombinator.com/item?id=34822414
+
+#### Where do stolen bikes go?
+
+https://news.mit.edu/2023/where-do-stolen-bikes-go-0215
+
+https://news.ycombinator.com/item?id=34822281
+
+#### YouTube CEO Susan Wojcicki is stepping down
+
+https://www.engadget.com/youtube-ceo-susan-wojcicki-is-stepping-down-172115390.html
+
+https://news.ycombinator.com/item?id=34821873
+
+#### Forget Milk and Eggs: Supermarkets Are Having a Fire Sale on Data About You
+
+https://themarkup.org/privacy/2023/02/16/forget-milk-and-eggs-supermarkets-are-having-a-fire-sale-on-data-about-you
+
+https://news.ycombinator.com/item?id=34821689
+
+#### We Found an Neuron in GPT-2
+
+https://clementneo.com/posts/2023/02/11/we-found-an-neuron
+
+https://news.ycombinator.com/item?id=34821414
+
+#### Airbnb nightly rates shot up 36% in 3 years
+
+https://thepointsguy.com/news/airbnb-rate-surge/
+
+https://news.ycombinator.com/item?id=34820926
+
+#### I'm starting a zero waste grocery delivery service in NYC. Anybody interested?
+
+https://zerowastenyc.shop/
+
+https://news.ycombinator.com/item?id=34820768
+
+#### Study Suggests Fructose Could Drive Alzheimer's Disease
+
+https://news.cuanschutz.edu/news-stories/study-suggests-fructose-could-drive-alzheimers-disease
+
+https://news.ycombinator.com/item?id=34820603
+
+#### American drivers have a blinding headlight problem
+
+https://www.businessinsider.com/american-drivers-have-a-blinding-headlight-problem-2023-2
+
+https://news.ycombinator.com/item?id=34819680
+
+#### Launch HN: Neptyne (YC W23) -- A programmable spreadsheet that runs Python
+
+https://news.ycombinator.com/item?id=34818706
+
+https://news.ycombinator.com/item?id=34818706
+
+#### Amazon warns employees not to share confidential information with ChatGPT
+
+https://futurism.com/the-byte/amazon-begs-employees-chatgpt
+
+https://news.ycombinator.com/item?id=34818483
+
+### Phoronix
+
+#### Hangover 0.8.1 Released To Run Some x86 Windows Apps On ARM64 Linux
+
+https://www.phoronix.com/news/Hangover-0.8.1-Released
+
+#### NVIDIA GeForce RTX 4080 / RTX 4090 Linux Performance
+
+https://www.phoronix.com/review/nvidia-rtx4080-rtx4090-linux
+
+#### AMD GPUOpen FidelityFX FSR2 v2.2 Published
+
+https://www.phoronix.com/news/GPUOpen-FidelityFX-FSR-2.2
+
+#### Vulkan 1.3.241 Released With Another Extension To Help VKD3D / Direct3D 12 Emulation
+
+https://www.phoronix.com/news/Vulkan-1.3.241-Released
+
+#### AMD P-State EPP Submitted For Linux 6.3 To Improve CPU Performance/Power
+
+https://www.phoronix.com/news/Linux-6.3-Power-Management
+
+#### Linux Kernel Address Space Layout Randomization \"KASLR\" For RISC-V
+
+https://www.phoronix.com/news/Linux-RISC-V-KASLR-Patches
+
+#### Patches Posted For Enabling WiFi/Bluetooth With The Once Interesting MIPS Creator CI20
+
+https://www.phoronix.com/news/Imagination-MIPS-CI20-2023
+
+#### Fedora Planning Ahead For The Next 5 Years
+
+https://www.phoronix.com/news/Fedora-5-Year-Plan-2023
+
+#### Linux's SystemV Filesystem Support Being Orphaned
+
+https://www.phoronix.com/news/Linux-SysV-File-System-Orphan
+
+### GitHub
+
+#### zloirock/core-js
+
+https://github.com/zloirock/core-js
+
+Standard Library\
+Language: JavaScript\
+Stars: 20311\
+Forks: 1529
+
+#### liu673cn/box
+
+https://github.com/liu673cn/box
+
+TVbox开源版（空壳-自行配置）\
+Language: Unknown\
+Stars: 4295\
+Forks: 963
+
+#### navopw/whatsapp-chatgpt
+
+https://github.com/navopw/whatsapp-chatgpt
+
+ChatGPT + Whatsapp = AI Assistant :rocket:\
+Language: TypeScript\
+Stars: 264\
+Forks: 74
+
+#### YunaiV/ruoyi-vue-pro
+
+https://github.com/YunaiV/ruoyi-vue-pro
+
+🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring
+Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 +
+微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable
+工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star
+⭐️，是作者生发的动力！\
+Language: Java\
+Stars: 9052\
+Forks: 2798
+
+#### timqian/chinese-independent-blogs
+
+https://github.com/timqian/chinese-independent-blogs
+
+中文独立博客列表\
+Language: JavaScript\
+Stars: 14008\
+Forks: 1947
+
+#### AUTOMATIC1111/stable-diffusion-webui
+
+https://github.com/AUTOMATIC1111/stable-diffusion-webui
+
+Stable Diffusion web UI\
+Language: Python\
+Stars: 33634\
+Forks: 6418
+
+#### xiaolincoder/CS-Base
+
+https://github.com/xiaolincoder/CS-Base
+
+图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50
+万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀
+在线阅读：https://xiaolincoding.com\
+Language: Unknown\
+Stars: 5592\
+Forks: 784
+
+### Dribbble
+
+#### Modular Large Complication Concept 4
+
+https://dribbble.com/shots/20662999
+
+#### Prime Video icons
+
+https://dribbble.com/shots/20621681
+
+#### Co-hiking Website Design: business landing web page, site design
+
+https://dribbble.com/shots/20477712
+
+#### Clearbit Website Design business landing web page, site designer
+
+https://dribbble.com/shots/20482761
+
+#### \[B\] 1 → N
+
+https://dribbble.com/shots/20556949
+
+#### Justalk Branding Animation
+
+https://dribbble.com/shots/20478087
+
+#### Wellest Branding, visual identity, corporate brand design
+
+https://dribbble.com/shots/20477490
+
+#### Pickle --- Design Feedback Tool 🥒
+
+https://dribbble.com/shots/20611935
+
+#### Cloud Storage Mobile App
+
+https://dribbble.com/shots/20478209
+
+#### Dashboard for Logistics Document Processing
+
+https://dribbble.com/shots/20662636
+
+#### Oucher Website
+
+https://dribbble.com/shots/20662887
+
+#### Notification Modal for Ease Dashboard
+
+https://dribbble.com/shots/20638074
+
+#### CVMaker - Dashboard Home
+
+https://dribbble.com/shots/20640700
+
+#### Lake Street Lager Beer Can Label Design
+
+https://dribbble.com/shots/20654081
+
+#### GrizzlyThon Illustration
+
+https://dribbble.com/shots/20623053
+
+#### 3D logo snake
+
+https://dribbble.com/shots/20650530
+
+#### Cellebrite Branding Case Study
+
+https://dribbble.com/shots/20482720
+
+#### Metaspark Branding Case: visual identity, corporate brand design
+
+https://dribbble.com/shots/20478022
+
+#### Welcome to the Jungle
+
+https://dribbble.com/shots/20629942
+
+#### Smart Investment Website
+
+https://dribbble.com/shots/20483482
+
+#### Web 3.0 - Kiddybank Landing Page
+
+https://dribbble.com/shots/20645129
+
+#### Experts App
+
+https://dribbble.com/shots/20650553
+
+#### AI extension for podcasts: web design, app UI, illustrations
+
+https://dribbble.com/shots/20650769
+
+#### Therow Website
+
+https://dribbble.com/shots/20641888
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### 内核开发者讨论移除安腾架构
+
+https://www.solidot.org/story?sid=74156
+
+#### 赤道几内亚爆发青猴病疫情
+
+https://www.solidot.org/story?sid=74155
+
+#### Meta 开发能自我修正的 AI 语言模型
+
+https://www.solidot.org/story?sid=74154
+
+#### 科学家发现黑洞是暗能量来源的首个证据
+
+https://www.solidot.org/story?sid=74153
+
+#### 葛兰素在长达 40 年里对雷尼替丁的致癌风险保持沉默
+
+https://www.solidot.org/story?sid=74152
+
+#### 美国司法部认为 John Deere 应该允许农民维修他们的拖拉机
+
+https://www.solidot.org/story?sid=74151
+
+#### 巴菲特的公司大幅减持台积电股份
+
+https://www.solidot.org/story?sid=74150
+
+#### Google 失去了方向
+
+https://www.solidot.org/story?sid=74149
+
+#### Google CEO 要求员工投入 2-4 小时时间帮助改进 Bard
+
+https://www.solidot.org/story?sid=74148
+
+#### 新避孕药降低了雄性实验鼠精子的活力
+
+https://www.solidot.org/story?sid=74147
+
+#### 气候变化扩大蚊子活动范围
+
+https://www.solidot.org/story?sid=74146
+
+#### Rust 如何从业余项目变成世界最热门的语言之一
+
+https://www.solidot.org/story?sid=74145
+
+#### Thunderbird 预览新 UI
+
+https://www.solidot.org/story?sid=74144
+
+#### ChatGPT 能做什么，为什么它做到了
+
+https://www.solidot.org/story?sid=74143
+
+#### 微软释出更新从 Windows 10 PC 上永久移除 IE
+
+https://www.solidot.org/story?sid=74142
+
+#### 指纹是如何形成的
+
+https://www.solidot.org/story?sid=74141
+
+#### 马斯克如何大幅提高其推文的曝光度
+
+https://www.solidot.org/story?sid=74140
+
+#### 美国空军成功测试 AI 控制的战斗机
+
+https://www.solidot.org/story?sid=74139
+
+#### 现代和起亚被迫更新软件以应对 TikTok 病毒式传播的"起亚挑战"视频
+
+https://www.solidot.org/story?sid=74138
+
+#### GitHub Copilot 推出企业版
+
+https://www.solidot.org/story?sid=74137
+
+### V2EX
+
+#### \[健康\] 塑料袋装热食=慢性死亡？（食品安全）
+
+https://www.v2ex.com/t/916815
+
+#### \[问与答\] 被 HR 欺骗提交了主动离职申请，离职赔偿全无
+
+https://www.v2ex.com/t/916814
+
+#### \[OpenAI\] ChatGPT 有上付费版的必要吗
+
+https://www.v2ex.com/t/916812
+
+#### \[Apple\] iPad mini5 查找巨耗电怎么办
+
+https://www.v2ex.com/t/916811
+
+#### \[macOS\] Ventura 13.2.1 M1 Max 雷电 4hub 休眠自动重启
+
+https://www.v2ex.com/t/916810
+
+#### \[程序员\] Google 的搜索结果默认变成在新标签页打开了
+
+https://www.v2ex.com/t/916809
+
+#### \[OpenAI\] 我的 ChatGPT 登陆不上去了
+
+https://www.v2ex.com/t/916807
+
+#### \[Apple\] 发现了一个 iPadOS 的 bug
+
+https://www.v2ex.com/t/916806
+
+#### \[分享发现\] 只有我对 new bing 很失望吗
+
+https://www.v2ex.com/t/916804
+
+#### \[问与答\] 填空： Google 是\_\_\_\_\_\_\_\_，而 ChatGPT 是\_\_\_\_\_\_\_\_。
+
+https://www.v2ex.com/t/916803
+
+#### \[macOS\] \[送码\]\[macOS\] Barbee - 拯救你的菜单栏空间（刘海屏快来！
+
+https://www.v2ex.com/t/916801
+
+#### \[求职\] 杭州前端想找份工作
+
+https://www.v2ex.com/t/916800
+
+#### \[宽带症候群\] 阿里轻量电信不绕路了？今天 ping 了一下 17ms，路由跟踪是直连的。
+
+https://www.v2ex.com/t/916799
+
+#### \[求职\] 找一份南京的或者远程的前端工作+小弟两年经验
+
+https://www.v2ex.com/t/916798
+
+#### \[分享发现\] 开一个帖,汇集一下优秀的浏览器拓展
+
+https://www.v2ex.com/t/916797
+
+#### \[云计算\] 被阿里云 CDN 无故封掉了多个域名，说我涉诈！
+
+https://www.v2ex.com/t/916796
+
+#### \[问与答\] ChatGPT 模型能被人理解吗？
+
+https://www.v2ex.com/t/916793
+
+#### \[奇思妙想\] 你们说，有没有可能 微软 / OpenAI。。。。
+
+https://www.v2ex.com/t/916792
+
+#### \[酷工作\] \[杭州\] \[社招\] 闲鱼服务端开发工程师招聘
+
+https://www.v2ex.com/t/916791
+
+#### \[问与答\] 请问，有办法关闭微信的聊天功能吗
+
+https://www.v2ex.com/t/916790
+
+#### \[分享发现\] 买了红米 Buds 4 Pro 快一个月，感觉还不错
+
+https://www.v2ex.com/t/916788
+
+#### \[全球工单系统\] v2 发现一个工具 paperless 体验了下不错 就是 Office 支持目前是挂的 尝试通过换依赖版本简单修复未果 看 issues 才发现 LibreOffice 这是个何等的屎山 五十万 commits 每小时不断
+
+https://www.v2ex.com/t/916787
+
+#### \[宽带症候群\] 为什么电信光猫拨号 ping 不通外网 IP，而路由器拨号能 ping 通？
+
+https://www.v2ex.com/t/916786
+
+#### \[宽带症候群\] 不太懂 PCDN 这些，想问下 IP 乱跳的环境下能跑 PCDN 吗？学校的网络好像是多线汇聚的， IP 随时会变。
+
+https://www.v2ex.com/t/916785
+
+#### \[问与答\] AMD 5600G 播放 YouTube 8K 为什么 CPU 占用 90%+?
+
+https://www.v2ex.com/t/916784
+
+#### \[信息安全\] 302 跳转参数中的 returnUrl，检测到 returnUrl 开头不是/就强制加一个/是不是就能防止被用于跳转到违规网站了？
+
+https://www.v2ex.com/t/916783
+
+#### \[问与答\] 必应 Bing 经常会出现国内版
+
+https://www.v2ex.com/t/916782
+
+#### \[软件\] Win 10 还是 Win 11? 我到现在也没升级到 win11，大佬们推荐升级吗？
+
+https://www.v2ex.com/t/916779
+
+#### \[问与答\] wls2 跑机器学习，有一战之力了么？
+
+https://www.v2ex.com/t/916778
+
+#### \[程序员\] wireguard mac 版只能开启一个隧道 点击第二个就是切换
+
+https://www.v2ex.com/t/916776
+
+#### \[美国\] 俄亥俄火车事故新闻报道时间抽
+
+https://www.v2ex.com/t/916774
+
+#### \[问与答\] 不使用 tor 的情况下如何访问大多数暗网？
+
+https://www.v2ex.com/t/916773
+
+#### \[分享创造\] 用旧手机做一个硬件冷钱包
+
+https://www.v2ex.com/t/916772
+
+#### \[问与答\] M3U8 文件播放问题
+
+https://www.v2ex.com/t/916770
+
+#### \[Linux\] 内核模块读取 uart 数据
+
+https://www.v2ex.com/t/916769
+
+#### \[问与答\] 2023 年，有什么既要又要还要的蓝牙鼠标推荐？
+
+https://www.v2ex.com/t/916767
+
+#### \[分享发现\] \[悄摸分享\] ChatGPT 小程序体验
+
+https://www.v2ex.com/t/916765
+
+#### \[分享发现\] 关于最近的情感帖子，今天看了个视频有点感触
+
+https://www.v2ex.com/t/916763
+
+#### \[Netflix\] 注册游戏失败
+
+https://www.v2ex.com/t/916762
+
+#### \[程序员\] 转行 Java ，第一份工作进外包合适吗
+
+https://www.v2ex.com/t/916761
+
+#### \[JavaScript\] import 引入 JSON 文件的问题 - rollup && eslint
+
+https://www.v2ex.com/t/916760
+
+#### \[问与答\] 2023 年程序员如何到国外工作
+
+https://www.v2ex.com/t/916759
+
+#### \[酷工作\] \[杭州急招\] 淘宝招聘 Java 后端， P5/6/7 均可，急招，流程快，目前有 2 个 HC
+
+https://www.v2ex.com/t/916757
+
+#### \[问与答\] 现在（2023 年 2 月）还有人在经历第一次阳吗？
+
+https://www.v2ex.com/t/916756
+
+#### \[星际争霸\] 我发现星际争霸 2-自由之翼的剧情
+
+https://www.v2ex.com/t/916755
+
+#### \[ WATCH\] 请问一下 V 友,如何能够最优惠购入金色的 Watch S8
+
+https://www.v2ex.com/t/916754
+
+#### \[问与答\] 免费分享 chatgpt 的几个账号.
+
+https://www.v2ex.com/t/916753
+
+#### \[问与答\] 请教一个关于图像处理、计算机图形学的个人小想法
+
+https://www.v2ex.com/t/916752
+
+#### \[.NET\] ASP.NET Core 需要开发一个符合公司服务 UI 设计风格的 OpenID 鉴权+账号系统，推荐拿什么东西改合适？还是基于什么 NuGET 包自己写？外贸公司，还需要接入 Google 账号登录，最好有现成的。领导要求必须是开源的
+
+https://www.v2ex.com/t/916751
+
+#### \[Apple\] 时间机器"没有可用的时间机器目的位置"的解决办法
+
+https://www.v2ex.com/t/916747
+
+## Generic News
+
+### AP News
+
+#### Bruce Willis has frontotemporal dementia, condition worsens
+
+https://apnews.com/article/a61f251adf19a73ba0010f06a38d38a5
+
+FILE - Bruce Willis attends a movie premiere in New York on Friday, Oct.
+11, 2019. Nearly a year after Bruce Willis' family announced that he
+would step away from acting after being diagnosed with aphasia, his
+family says his "condition\...
+
+#### Sen. John Fetterman checks into hospital for depression
+
+https://apnews.com/article/a9051b43a6b31725a4969b9302740cac
+
+FILE - Sen. John Fetterman, D-Pa., leaves an intelligence briefing on
+the unknown aerial objects the U.S. military shot down this weekend at
+the Capitol in Washington, Feb. 14, 2023. Fetterman is in Walter Reed
+National Military Medical\...
+
+#### Tim McCarver, big league catcher and broadcaster, dies at 81
+
+https://apnews.com/article/58fed2018917409786f551df15a0102e
+
+FILE - Baseball announcer Tim McCarver poses in the press box before the
+start of Game 2 of the American League Division Series on Oct. 2, 2003
+in New York. McCarver, the All-Star catcher and Hall of Fame broadcaster
+who during 60 years\...
+
+#### Biden wants 'sharper rules' on unknown aerial objects
+
+https://apnews.com/article/6457aaf3e7322dd24e2b7274c3ba4813
+
+President Joe Biden speaks about the Chinese surveillance balloon and
+other unidentified objects shot down by the U.S. military, Thursday,
+Feb. 16, 2023, in Washington. (AP Photo/Evan Vucci) WASHINGTON (AP) ---
+President Joe Biden said\...
+
+#### Tesla recalls 'Full Self-Driving' to fix unsafe actions
+
+https://apnews.com/article/875b54d4b71e97d43a17e968d7b856ae
+
+FILE - A sign bearing the company logo outside a Tesla store in Cherry
+Creek Mall in Denver is seen here on Feb. 9, 2019. Tesla is recalling
+nearly 363,000 vehicles with its "Full Self-Driving" system to fix
+problems with the way it\...
+
+#### YouTube CEO steps down, severing longtime ties to Google
+
+https://apnews.com/article/19e18ebcd986490e0ff9e66e429d66c2
+
+FILE - YouTube CEO Susan Wojcicki speaks during the introduction of
+YouTube TV at YouTube Space LA on Feb. 28, 2017, in Los Angeles.
+Wojcicki announced Thursday, Feb. 16, 2023, that she is stepping down as
+CEO at YouTube after spending\...
+
+#### Lonely tunes: Humpback whales wail less as population grows
+
+https://apnews.com/article/065e1b7c6a45b188ea1c918f4f2a75ee
+
+CORRECTS DAY TO THURSDAY - FILE - A humpback whale breaches off the
+coast of Port Stephens, Australia, on June 14, 2021. Lonely humpback
+whales are more likely to sing -- but as populations grow, whales wail
+less, a new study released on\...
+
+#### Michigan State University gunman's note had possible motive
+
+https://apnews.com/article/58d87c54210d30f9514f6b350e4f929d
+
+Mourners attend a vigil at The Rock on the grounds of Michigan State
+University in East Lansing, Mich., Wednesday, Feb. 15, 2023. Alexandria
+Verner, Brian Fraser and Arielle Anderson were killed and several other
+students remain in\...
+
+#### Ryan Seacrest to leave 'Live with Kelly and Ryan' in spring
+
+https://apnews.com/article/fe381d4752a8ad18272a4707151deef0
+
+This image released by ABC shows co-host Kelly Ripa, left, and Ryan
+Seacrest on the set of \"Live! With Kelly and Ryan\" on Feb. 8, 2023 in
+New York. Seacrest has revealed he's leaving the show this spring.
+Seacrest ends a six-year run\...
+
+#### Sturgeon's exit leaves Scottish independence path unclear
+
+https://apnews.com/article/bce30aa06447e1638c5d165b1e9ebe31
+
+Nicola Sturgeon speaks during a press conference at Bute House in
+Edinburgh, Wednesday, Feb. 15 2023. Sturgeon has resigned as first
+minister of Scotland following months of controversy over a law that
+makes it simpler for people to\...
+
+#### Wholesale price pressures emerge despite long-term slowdown
+
+https://apnews.com/article/375c18aa8f9d14912d53c080a5ca3d41
+
+File - A consist of John Deere tractors sit in Norfolk Southerns Conway
+Yard in Conway, Pa., Monday, Dec. 5, 2022. On Thursday, the Labor
+Department releases the producer price index for January, an indicator
+of inflation\...
+
+#### Potential buyers of Manchester United crunching the numbers
+
+https://apnews.com/article/5a0cd2ca92c4568d195091c611f257af
+
+A corner flag showing the logo of Manchester United is seen ahead of the
+English FA Cup 4th round soccer match between Manchester United and
+Reading at Old Trafford in Manchester, England, Saturday, Jan. 28, 2023.
+(AP Photo/Rui Vieira\...
+
+#### Revelers celebrate street Carnival across German Rhineland
+
+https://apnews.com/article/bbda5c3c25af656989187b925af008e1
+
+Revellers celebrate at the traditional Alter Markt the start of the
+street carnival in Cologne, Germany, Thursday, Feb. 16, 2023. Hundreds
+of thousands will celebrate the carnival without any coronavirus
+restrictions in the streets of the\...
+
+### Reuters
+
+#### Father of accused July 4th gunman arraigned in Chicago suburb
+
+https://www.reuters.com/world/us/father-accused-july-4th-gunman-be-arraigned-chicago-suburb-2023-02-16/
+
+Robert E. Crimo III walks into the courtroom during a hearing on
+Highland Park shooting in Lake County court, in Waukegan, Illinois,
+U.S., August 3, 2022. Nam Y. Huh/Pool via REUTERS Robert E. Crimo III
+listens to Judge Victoria A\...
+
+#### U.S. Senator Fetterman checks into hospital for depression treatment
+
+https://www.reuters.com/world/us/us-senator-fetterman-hospital-clinical-depression-statement-2023-02-16/
+
+Pennsylvania Lieutenant Governor and U.S. Senate candidate John
+Fetterman speaks during his 2022 U.S. midterm elections night party in
+Pittsburgh, Pennsylvania, U.S., November 9, 2022. REUTERS/Quinn Glabicki
+Pennsylvania Lieutenant\...
+
+#### Witnesses in Trump election meddling probe may have lied under oath -grand jury
+
+https://www.reuters.com/world/us/parts-report-trumps-georgia-election-meddling-be-released-2023-02-16/
+
+Former U.S. President Donald Trump speaks during a rally at Florence
+Regional Airport in Florence, South Carolina, U.S., March 12, 2022.
+REUTERS/Randall Hill/File Photo The exterior of the Fulton County Lewis
+R. Slaton Courthouse, where\...
+
+#### China sanctions Lockheed Martin, Raytheon over Taiwan arms sales
+
+https://www.reuters.com/business/aerospace-defense/china-imposes-sanctions-lockheed-martin-raytheon-over-taiwan-arms-sales-2023-02-16/
+
+The logo of Lockheed Martin is seen at Euronaval, the world naval
+defence exhibition in Le Bourget near Paris, France, October 23, 2018.
+REUTERS/Benoit Tessier A Raytheon building is shown in San Diego,
+California, U.S., June 10, 2019\...
+
+#### Biden says he will speak to China's Xi about balloon incident
+
+https://www.reuters.com/world/us/biden-may-give-speech-balloon-unidentified-objects-source-2023-02-15/
+
+U.S. President Joe Biden speaks about a high-altitude Chinese balloon
+and three other objects that were recently shot down by U.S. fighter
+jets, during brief remarks in the Eisenhower Executive Office Buildings
+South\...
+
+#### Actor Bruce Willis diagnosed with dementia
+
+https://www.reuters.com/business/media-telecom/actor-bruce-willis-diagnosed-with-dementia-2023-02-16/
+
+Actor Bruce Willis attends the European premiere of \"Glass\" in London,
+Britain January 9, 2019. REUTERS/Henry Nicholls Actor Bruce Willis has
+been diagnosed with frontotemporal dementia, his family said on
+Thursday, nearly a year after\...
+
+#### U.S. curbs slowly crippling Russia's military - official
+
+https://www.reuters.com/world/europe/us-curbs-slowly-crippling-russias-military-official-2023-02-16/
+
+Russian and U.S. flags are pictured before talks between Russian Deputy
+Foreign Minister Sergei Ryabkov and U.S. Deputy Secretary of State Wendy
+Sherman at the United States Mission in Geneva, Switzerland January 10,
+2022. REUTERS/Denis\...
+
+#### Portugal ends Golden Visas, curtails Airbnb rentals to address housing crisis
+
+https://www.reuters.com/markets/europe/portugal-ends-golden-visas-curtails-airbnb-rentals-address-housing-crisis-2023-02-16/
+
+A person walks in Alfama neighbourhood in Lisbon, Portugal, February 16,
+2023. REUTERS/Pedro Nunes/File Photo People walk in Alfama neighbourhood
+in Lisbon, Portugal, February 16, 2023. REUTERS/Pedro Nunes/File Photo
+Portugal announced on\...
+
+#### Missiles pound Ukraine as Russia eyes Bakhmut's capture by April
+
+https://www.reuters.com/world/europe/ukraine-pounded-by-missiles-russia-eyes-capturing-bakhmut-by-april-2023-02-16/
+
+Summary: Ukraine says it shoots down 16 of 36 Russian missiles Wagner
+group sees flashpoint city Bakhmut falling by April Russian bodies piled
+up there, says Ukrainian defender NATO to keep ramping up\...
+
+#### Former Barclays CEO Staley discussed Disney princesses with Epstein - lawsuit
+
+https://www.reuters.com/business/former-barclays-ceo-staley-discussed-disney-princesses-with-epstein-lawsuit-2023-02-16/
+
+Barclays then CEO Jes Staley arrives at 10 Downing Street in London,
+Britain january 11, 2018. REUTERS/Peter Nicholls/File Photo Former
+Barclays (BARC.L) chief executive Jes Staley allegedly discussed Disney
+characters\...
+
+#### Biden's physical exam 'straightforward,' White House says, as re-election bid looms
+
+https://www.reuters.com/world/us/biden-80-have-closely-watched-physical-exam-2023-02-16/
+
+U.S. President Joe Biden delivers remarks on the economy at the IBEW
+Local 26 in Lanham, Maryland, U.S., February 15, 2023. REUTERS/Evelyn
+Hockstein U.S. President Joe Biden delivers remarks while launching a
+new plan for Americans to\...
+
+#### YouTube CEO Wojcicki, one of the first Google employees, steps down
+
+https://www.reuters.com/technology/youtube-ceo-wojcicki-steps-down-2023-02-16/
+
+YouTube CEO Susan Wojcicki attends a conference at the Cannes Lions
+International Festival of Creativity, in Cannes, France, June 19, 2018.
+REUTERS/Eric Gaillard YouTube Chief Executive and one of the first
+Google employees, Susan\...
+
+#### Soros says Russian defeat in Ukraine would trigger dissolution of 'Russian empire'
+
+https://www.reuters.com/world/europe/soros-says-russian-defeat-ukraine-would-trigger-dissolution-russian-empire-2023-02-16/
+
+Summary: Soros says Russian army is badly led Says Putin is betting on
+Wagner mercenary group Says former Soviet states crave Russian defeat
+Says China could face regime change or revolution Ukrainian\...
+
+### 联合早报
+
+#### 1月至2月 中国医院冠病死亡人数骤降97%遭外界质疑
+
+https://www.zaobao.com/news/china/story20230216-1363565
+
+中国医院的冠病相关死亡人数骤降，再次引发外界质疑数据真实性。
+《人民日报》健康客户端根据来自中国疾病预防控制中心公布的数据报道，在2022年12月8日至2023年2月9日，累计在医院感染冠病死亡病例8万3150例，其中基础疾病合并冠病感染导致病情加重死亡的占大部分，共有7万6519例，占比约92.02%......
+
+#### 分析：中国足协主席陈戌源等四人先后落马 表明腐败几乎渗透各部门各行业
+
+https://www.zaobao.com/news/china/story20230216-1363566
+
+陈戌源（黑衣捧杯者）曾在上海港务系统工作长达近半世纪，2019年12月成为首位非体育系统出身的中国足协主席。（互联网）
+有中国体育记者称，陈戌源因为在国家队征战期间，"让国脚陪着踢球，让保障人员陪着打麻将......每天歌舞升平，分奖金"而被调查......
+
+#### 陆委会同意以专案方式 让上海台办参加台湾灯会
+
+https://www.zaobao.com/news/china/story20230216-1363567
+
+台湾政府的大陆委员会星期三宣布，由于台北市政府表达充分配合民进党政府政策及法令规范，同意以专案方式许可上海市台湾事务办公室六名官员，赴台参加台湾灯会。
+陆委会星期三（2月15日）表示，台北市政府日前提出专案申请，邀请上海市政府人员于2月18日至20日赴台参加"2023台湾灯会在台北"相关活动及市政交流......
+
+#### 中国恢复签发韩公民赴华短期签证
+
+https://www.zaobao.com/news/china/story20230216-1363568
+
+中国自2月18日起，恢复签发韩国公民赴华访问、商务、过境，以及一般私人事务类短期签证。
+中国驻韩国大使馆微信公号在星期三（2月15日）早上9时，公布上述消息。此前，韩国宣布从上星期六（2月11日）起恢复向中国公民发放赴韩短期签证。
+中国国家移民管理局也公告，鉴于韩国已恢复审发中国公民赴韩短期签证，国家移民管理机构自2月18日起对韩国公民恢复签发口岸签证，恢复实行72、144小时过境免签政策......
+
+#### 加拿大将停止资助有国安疑虑研究项目
+
+https://www.zaobao.com/news/china/story20230216-1363569
+
+加拿大政府周二宣布，将停止资助与外国国防或安全实体有关联的研究项目。
+据法新社报道，加拿大政府周二（2月14日）宣布，如果研究专案中课题敏感，参与人员与敌对国的国防或安全实体有关连，政府将停止资助这些项目。
+加拿大科学卫生和公共安全部长在声明中写道："加拿大先进的研究生态系统处于世界前沿，但对于想对加拿大国家安全构成威胁的国家来说，它也可能是一个有吸引力的目标......
+
+#### 台海基会董事长李大维：恢复两岸直航很快有答案
+
+https://www.zaobao.com/news/china/story20230216-1363570
+
+对于中国大陆喊话恢复两岸直航航点，台湾海基会董事长李大维星期三（2月15日）受访时说，目前正在讨论，很快就会有答案。学者张五岳则分析，两岸人员交流及航点都可望逐步恢复，但双方仍难恢复官方授权对话谈判，因此唯一能做的仍是避免误判，做好危机管控。
+大陆国务院台湾事务办公室本月初向台湾喊话，呼吁率先恢复16个两岸直航航点......
+
+#### 英议员强烈反对下 新疆自治区主席取消访英
+
+https://www.zaobao.com/news/china/story20230216-1363571
+
+在英国国会议员强烈反对之下，英国外交部星期二（2月15日）说，新疆维吾尔自治区党委副书记、区政府主席艾尔肯·吐尼亚孜，已取消本周访问英国的计划。
+综合路透社、法新社报道，英国外交部发言人说："据我们了解，新疆自治区主席已取消对英国的访问"。发言人说，英国政府将继续利用所有机会，对中国政府在新疆不可接受的侵犯人权行为采取行动......
+
+#### 早说
+
+https://www.zaobao.com/news/china/story20230216-1363572
+
+深圳和香港要发展，如果不融合，谁也出不了彩；如果融合了，大家一起出彩。
+------香港中文大学（深圳）全球与当代中国高等研究院院长郑永年教授接受《深圳特区报》访问时说，推动高质量发展需要三大平台：基础科研能力、将科研成果转换为应用技术的能力，以及开放的金融平台为企业发展提供支持，深圳就需要借助香港的发达的金融基础。这就是为什么中国中央政府反复强调粤港澳大湾区融合发展，融合了才能一起出彩......
+
+#### 南岳衡山雪初霁 雾凇隐现云海中
+
+https://www.zaobao.com/news/china/story20230216-1363573
+
+湖南省衡阳市南岳衡山风景区2月15日雪后初霁，晶莹剔透的雾凇在云海里若隐若现，景色如画，登山游客忙着赏雪拍照......
+
+#### 陈婧：扫黑剧《狂飙》反派太红引争议
+
+https://www.zaobao.com/news/china/story20230216-1363574
+
+"你飚到哪了？我已经快飚完了......"
+最近和中国朋友们聊天，大家三句不离"飚"------说的是农历新年期间热播的电视剧《狂飙》。
+这部由中国央视和网络影视平台爱奇艺联合出品的扫黑题材剧集，开播以来口碑和收视率都一路"狂飙"，热度甚至盖过春节档电影。该剧在2月1日播出大结局当天，相关词条霸屏微博热搜榜；影音口碑网站豆瓣上至今共有超过53万人打分，评分仍高达8.5......
+
+#### 去年封控使商业活动停滞不前 欧盟商会吁中国恢复外企信心
+
+https://www.zaobao.com/news/china/story20230216-1363575
+
+图为2月14日情人节的上海外滩，不少民众在外滩金融中心的商场露台，在高达6米的巨型玫瑰艺术装置（右下）前拍照留念。（新华社）
+据彭博社报道，中国欧盟商会上海分会在公布的年度报告中建议，中国官方应消除外国企业面对的投资壁垒，促进人民币国际化，并加强对中小企业的金融支持。
+（上海彭博电）随着中国结束持续三年的清零政策，在上海的欧洲企业呼吁中国政府设法恢复外国企业的信心，采取措施修复与国际之间的关系......
+
+#### 巴菲特减持台积电致股价跌5％
+
+https://www.zaobao.com/news/china/story20230216-1363576
+
+巴菲特几个月内买入又卖出台积电股，牵动其股价涨了又跌。图为台积电在台南厂房上的公司标志。（路透社）
+"股神"巴菲特麾下的伯克希尔哈撒韦（Berkshire
+Hathaway），在2022年第四季度减持约5180万股台湾积体电路制造公司（台积电）的股票，占持股数量约86%，导致台湾这家芯片制造商巨头盘后股价重跌5％......
+
+#### 报告：中国去年防疫开支至少688亿元
+
+https://www.zaobao.com/news/china/story20230216-1363577
+
+中国多个省区市政府的年度预算报告显示，地方政府在2022年至少花费了3520亿元（人民币，下同，688亿新元）遏制冠病传播。在经济增长放缓的年头，这笔开支使各地财政备受压力。
+富裕省份支出较多
+据路透社报道，中国31个省区市当中，目前有至少20个已公布当地去年的抗疫支出，其中富裕省份的支出最多......
+
+#### 爱尔兰终止"黄金签证"项目
+
+https://www.zaobao.com/news/china/story20230216-1363578
+
+爱尔兰经过评估，决定关闭受中国富人阶层青睐的"黄金签证"项目。
+这项2012年推出的投资移民计划，适用于个人财富至少200万欧元（286万新元）的非欧盟公民。爱尔兰司法部星期二（2月14日）宣布，2月15日后将不再接受相关申请。
+司法部长哈里斯说："我们要审查所有签证项目，包括对更广泛公共政策的影响，例如签证项目在文化、社会和经济方面的持续适当性和适用性......
+
+#### 中国恢复采购俄罗斯打折原油
+
+https://www.zaobao.com/news/china/story20230216-1363579
+
+消息人士透露，中国石油和中国石化正在恢复采购俄罗斯的打折原油。
+据路透社报道，知情人士透露，中国国家炼油商已获得许可，可以从贸易公司处以折扣价购买俄罗斯原油，这将大幅降低中国石油进口成本，并提高炼油利润率。
+路孚特和船舶追踪网站Kpler数据显示，中石油将于本月晚些时候在广西钦州炼油厂接收约150万桶乌拉尔原油。该炼油厂去年10月和11月分别进口了73万桶乌拉尔原油......
+
+#### 台专家：气球侦察或成常态 为防擦枪走火各国须建军事互信
+
+https://www.zaobao.com/news/china/story20230215-1363232
+
+中国气球2月初被发现入侵美国领空，随后遭美军击落，气球碎片掉落在南卡罗来纳州外海。图为美国海军人员2月10日准备将捞起的气球残骸运送往弗吉尼亚州的联邦调查局实验室进行分析。
+（美国海军／路透社）
+台湾国防安全专家指出，中美气球事件反映出各国对探空气球被更广泛运用在军事探勘而感到的不安。这种军事科技的急速发展，破坏了自冷战以来的军事互信，加深地缘强权之间的猜忌......
+
+#### 台官方：台海未发现大陆侦察气球
+
+https://www.zaobao.com/news/china/story20230215-1363233
+
+台湾官方说，未在台海周边空域发现任何中国大陆的侦察气球，所出现的大多为用于气象探测的气球。
+英国《金融时报》星期一（2月13日）引述台湾高官报道，中国大陆军用气球近年数十次出现在台湾空域，平均每月一次，令人担忧北京可能在为攻台做准备......
+
+#### 李家超：港府仍希望今或明年完成第23条立法
+
+https://www.zaobao.com/news/china/story20230215-1363234
+
+香港特首李家超重申特区政府的立场没变，仍希望在今年或明年完成《基本法》第23条立法。
+根据香港政府新闻网站，李家超星期二（2月14日）在行政会议前回答媒体提问时说，为《基本法》第23条立法是港府的宪制责任。他认为，各方可能对第23条立法所针对的问题严重性未必全面掌握，并强调国家安全风险千变万化，目前国际关系复杂，国安风险仍然有潜伏在香港的可能性......
+
+#### 早说
+
+https://www.zaobao.com/news/china/story20230215-1363236
+
+面对强权争霸的地缘政治情势，中华民国和国民党都没有"选边站"的问题，只有与盟友及国际友人共同维系台海和平与稳定的强烈意愿。
+------国民党国际事务部主任兼驻美代表黄介正，据报在农历新年期间走访20几个美国国会议员办公室。他星期二（2月14日）分析说，美国根本不在意台湾的政党是不是玩表面的"亲美比赛"，坦诚分析观点角度，具体扩大共同利益，才是真正有信赖关系的盟友......
+
+#### 杨丹旭：中美气球事件能否在慕尼黑翻篇？
+
+https://www.zaobao.com/news/china/story20230215-1363237
+
+中国最高外交官员王毅星期二启程前往欧洲，此行将访问法国、意大利、匈牙利和俄罗斯，也会到德国出席慕尼黑安全会议。
+除了中欧关系和俄乌战争进入一周年之际的中俄互动，王毅欧洲行的另一看点是：在气球事件后，中美外交高层是否会在慕尼黑实现原本计划在北京进行的面对面会晤。
+一只飘移到美国上空的中国气球，2月以来成为中美交锋焦点，不仅搅黄美国国务卿布林肯访华行，还引发两国新一轮外交博弈......
+
+#### 台湾下周开放港澳居民赴台自由行 大陆有意磋商恢复台农渔产品进口
+
+https://www.zaobao.com/news/china/story20230215-1363238
+
+针对何时解禁让陆客访台，陆委会称大陆"突然完全解封"，让台方对大陆的疫情判断存在不确定，未来将按照中央流行疫情指挥中心的判断来处理。
+两岸官方都释出春暖花开的和缓信号，台湾陆委会宣布下周一（2月20日）起开放港澳居民自由行赴台观光。中国大陆国台办也表态，愿与台湾共同努力，为恢复台湾农渔产品输入大陆提供帮助......
+
+#### 盼回国民党参加党内初选 郭台铭表态有意竞选2024年总统选举
+
+https://www.zaobao.com/news/china/story20230215-1363239
+
+鸿海集团创办人郭台铭星期二（2月14日）与台湾在野国民党前立法院长王金平见面后明确表示，希望回到国民党参加党内总统初选，代表国民党参选2024年总统。
+郭台铭2019年曾以荣誉党员回归国民党，但参与党内总统初选落败，愤而宣布退选，未支持国民党提名的总统候选人韩国瑜。此次卷土重来，他不讳言称，四年前退党是年轻气盛、一时冲动，现在若能够为台湾来做事，他不拘任何形式，义不容辞......
+
+#### 甘肃山区梯田 大雪后如仙境
+
+https://www.zaobao.com/news/china/story20230215-1363240
+
+（新华社）
+甘肃省东乡族自治县山乡在2月14日一场大雪后，银装素裹，云雾缭绕，宛如仙境。图为当天拍摄的东乡族自治县山区梯田雪景......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

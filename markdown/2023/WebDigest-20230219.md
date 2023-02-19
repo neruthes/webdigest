@@ -6,6 +6,128 @@ Other formats: [PDF](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/we
 
 ## Developers
 
+### Hacker News
+
+#### Statement on President Carter's Health
+
+https://www.cartercenter.org/news/pr/2023/statement-on-president-carters-health.html
+
+https://news.ycombinator.com/item?id=34851257
+
+#### Steam now allows you to copy games over a local network to another PC
+
+https://twitter.com/OnDeck/status/1626693524489121793
+
+https://news.ycombinator.com/item?id=34849967
+
+#### Amazon Takes a 50% Cut of Seller's Revenue
+
+https://www.marketplacepulse.com/articles/amazon-takes-a-50-cut-of-sellers-revenue
+
+https://news.ycombinator.com/item?id=34849838
+
+#### Mozilla solves the Manifest V3 puzzle to save ad blockers
+
+https://blog.mozilla.org/addons/2022/11/17/manifest-v3-signing-available-november-21-on-firefox-nightly/
+
+https://news.ycombinator.com/item?id=34849739
+
+#### Sips: Scriptable Image Processing System
+
+https://til.simonwillison.net/macos/sips
+
+https://news.ycombinator.com/item?id=34849734
+
+#### Apple gets a cut of search revenue from Chrome as part of secret Google deal
+
+https://9to5mac.com/2023/02/17/google-apple-chrome-search-revenue/
+
+https://news.ycombinator.com/item?id=34849083
+
+#### Password protect a static HTML page
+
+https://github.com/robinmoisson/staticrypt
+
+https://news.ycombinator.com/item?id=34849024
+
+#### Show HN: Noya -- A new kind of design tool
+
+https://www.noya.io/home
+
+https://news.ycombinator.com/item?id=34848583
+
+#### Text Is All You Need
+
+https://studio.ribbonfarm.com/p/text-is-all-you-need
+
+https://news.ycombinator.com/item?id=34847912
+
+#### Internal review finds falsified data in Stanford President's Alzheimer research
+
+https://stanforddaily.com/2023/02/17/internal-review-found-falsified-data-in-stanford-presidents-alzheimers-research-colleagues-allege/
+
+https://news.ycombinator.com/item?id=34847734
+
+#### TabFS -- a browser extension that mounts the browser tabs as a filesystem
+
+https://omar.website/tabfs/
+
+https://news.ycombinator.com/item?id=34847611
+
+#### After Alaska Airlines planes bump runway, a scramble to 'pull the plug'
+
+https://www.seattletimes.com/business/boeing-aerospace/after-alaska-airlines-planes-bump-runway-a-scramble-to-pull-the-plug/
+
+https://news.ycombinator.com/item?id=34847550
+
+#### Cashless society in Switzerland? People to vote on keeping cash forever
+
+https://www.euronews.com/next/2023/02/06/cashless-society-not-in-switzerland-where-people-will-vote-to-keeping-banknotes-and-coins-
+
+https://news.ycombinator.com/item?id=34847415
+
+#### White Castle collecting burger slingers' fingerprints looks like a \$17B mistake
+
+https://www.theregister.com/2023/02/18/white_castle_fingerprints_fine/
+
+https://news.ycombinator.com/item?id=34846786
+
+#### Doom the Way It Was Meant to Be Played -- v1.1 Multi-Monitor
+
+https://www.youtube.com/watch?v=q3NQQ7bPf6U
+
+https://news.ycombinator.com/item?id=34846546
+
+#### OWASP Needs to Evolve
+
+https://github.com/owasp-change/owasp-change.github.io
+
+https://news.ycombinator.com/item?id=34845288
+
+#### John Carmack on Functional Programming in C++ (2018)
+
+http://www.sevangelatos.com/john-carmack-on/
+
+https://news.ycombinator.com/item?id=34844716
+
+#### Civilization 7 Is in Development
+
+https://www.polygon.com/23604146/civilization-7-release-date-firaxis-games-announcement
+
+https://news.ycombinator.com/item?id=34843841
+
+#### The Janet Language
+
+https://janet-lang.org
+
+https://news.ycombinator.com/item?id=34843306
+
+#### It's probably time to stop recommending Clean Code (2020)
+
+https://qntm.org/clean
+
+https://news.ycombinator.com/item?id=34843128
+
 ### Phoronix
 
 #### AMD Has Many New CPU/GPU Features Ready For Linux 6.3

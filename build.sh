@@ -23,25 +23,25 @@ case $1 in
             echo "[ERROR] Please set env var 'dothis'."
             exit 1
         fi
-        for FORCEDATE in $(ls webdb/$(date +%Y)); do
+        find "webdb/$(date +%Y)" -mindepth 1 -maxdepth 1 -type d | cut -d/ -f3 | sort -r | while read -r FORCEDATE; do
             export FORCEDATE="$FORCEDATE"
             source .env
             $dothis
         done
         ;;
     lastpdf)
-        realpath $(find _dist -name 'WebDigest-*.pdf' | sort -r | head -n1)
+        realpath "$(find _dist -name 'WebDigest-*.pdf' | sort -r | head -n1)"
         ;;
     tgmsg)
         source .env
         fn="_dist/tgmsg.txt"
-        printf "**Web Digest $BETTER_DATEMARK**\n\n" > $fn
-        printf "PDF:\n$(grep "$DATEMARK.pdf https" .osslist | cut -d' ' -f2)\n\n" >> $fn
-        printf "HTML:\nhttps://webdigest.pages.dev/readhtml/$THISYEAR/WebDigest-$DATEMARK.html\n\n" >> $fn
-        printf "Markdown:\nhttps://github.com/neruthes/webdigest/blob/master/markdown/$THISYEAR/WebDigest-$DATEMARK.md" >> $fn
-        # cp $fn $fn2
-        pandoc -i $fn -f markdown -t html -o _dist/tgmsg.html
-        cat $fn
+        echo -e "**Web Digest $BETTER_DATEMARK**\n\n" > $fn
+        echo -e "PDF:\n$(grep "$DATEMARK.pdf https" .osslist | cut -d' ' -f2)\n\n" >> $fn
+        echo -e "HTML:\nhttps://webdigest.pages.dev/readhtml/$THISYEAR/WebDigest-$DATEMARK.html\n\n" >> $fn
+        echo -e "Markdown:\nhttps://github.com/neruthes/webdigest/blob/master/markdown/$THISYEAR/WebDigest-$DATEMARK.md" >> $fn
+        cp "$fn" ".tmp/tgmsg/$THISYEAR/$DATEMARK.txt"
+        pandoc -i "$fn" -f markdown -t html -o _dist/tgmsg.html
+        cat "$fn"
         ;;
     tag)
         tag_suffix="$(git tag | grep v$(date +%Y%m) | wc -l)"
@@ -152,8 +152,7 @@ case $1 in
             echo "    <link>https://webdigest.pages.dev/?issuepdf=$item_id</link>"
             echo "    <pubDate>$item_pubdate</pubDate>"
             echo "    <description>"
-            cat .tmp/tgmsg/${item_datemark:0:4}/$item_datemark.txt |
-                grep -v 'Web Digest ' |
+            grep -v 'Web Digest ' ".tmp/tgmsg/${item_datemark:0:4}/$item_datemark.txt" |
                 sed 's|^https|<https|' |
                 sed 's|.html$|.html>|g' |
                 sed 's|.md$|.md>|g' |
@@ -167,13 +166,13 @@ case $1 in
         RSS_FN=wwwsrc/rss.xml
         rss_header > $RSS_FN
         IFS=$'\n'
-        for pdffn_line in $(grep '.pdf http' .osslist | sort -r); do
+        grep '.pdf http' .osslist | sort -r | head -n10 | while read -r pdffn_line; do
             pdffn="$(cut -d' ' -f1 <<< "$pdffn_line")"
             pdfossurl="$(cut -d' ' -f2 <<< "$pdffn_line")"
             rss_item "$pdffn" "$pdfossurl" >> $RSS_FN
         done
         rss_footer >> $RSS_FN
-        cat $RSS_FN
+        # cat $RSS_FN
         ;;
     today)
         if [[ -e "_dist/issue/$(date +%Y)/WebDigest-$(date +%Y%m%d).pdf" ]]; then

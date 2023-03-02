@@ -1,0 +1,920 @@
+Other formats: [PDF](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/webdigest/WebDigest-20230302.pdf--3ef5a9b3f9a193cd7fb8c11df0ea5daf.pdf) / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20230302.html)
+
+
+# Web Digest 2023-03-02
+
+
+## Developers
+
+### Hacker News
+
+#### Chicago sold rights to 36k parking meters for \$1.2B that generate \$200M per year
+
+https://chicago.suntimes.com/city-hall/2022/5/26/23143356/chicago-parking-meters-75-year-lease-daley-city-council-audit-skyway-loop-garages-krislov
+
+https://news.ycombinator.com/item?id=34988984
+
+#### Aboriginal Australian genomes reveal Indian ancestry
+
+https://www.nature.com/articles/nature.2013.12219
+
+https://news.ycombinator.com/item?id=34988790
+
+#### 90% of Kidnappings in São Paulo result from dates on Tinder and similar apps
+
+https://restofworld.org/2023/tinder-robberies-dating-apps-brazil/
+
+https://news.ycombinator.com/item?id=34987317
+
+#### Crafting Interpreters
+
+https://craftinginterpreters.com/
+
+https://news.ycombinator.com/item?id=34986902
+
+#### You cannot have exactly-once delivery (2015)
+
+https://bravenewgeek.com/you-cannot-have-exactly-once-delivery/
+
+https://news.ycombinator.com/item?id=34986691
+
+#### GNU poke: The extensible editor for structured binary data
+
+https://jemarch.net/poke
+
+https://news.ycombinator.com/item?id=34986042
+
+#### Introducing ChatGPT and Whisper APIs
+
+https://openai.com/blog/introducing-chatgpt-and-whisper-apis
+
+https://news.ycombinator.com/item?id=34985848
+
+#### First in-the-wild UEFI bootkit bypassing UEFI Secure Boot
+
+https://www.welivesecurity.com/2023/03/01/blacklotus-uefi-bootkit-myth-confirmed/
+
+https://news.ycombinator.com/item?id=34985793
+
+#### Apple rumored to subvert EU Rules by nerfing USB-C on iPhone15
+
+https://appleinsider.com/articles/23/02/28/iphone-15-to-require-certified-accessories-for-full-access-to-usb-c
+
+https://news.ycombinator.com/item?id=34985084
+
+#### Thorium -- A Starship Bridge Simulator
+
+https://thoriumsim.com/
+
+https://news.ycombinator.com/item?id=34984973
+
+#### Less than half of California students read or do math at grade level
+
+https://caaspp-elpac.ets.org/caaspp/DashViewReportSB?ps=true&lstTestYear=2022&lstTestType=B&lstGroup=1&lstSubGroup=1&lstSchoolType=A&lstGrade=13&lstCounty=00&lstDistrict=00000&lstSchool=0000000
+
+https://news.ycombinator.com/item?id=34984686
+
+#### Godot 4.0 Released
+
+https://godotengine.org/article/godot-4-0-sets-sail/
+
+https://news.ycombinator.com/item?id=34984494
+
+#### Improving Students' Learning with Effective Learning Techniques
+
+https://journals.sagepub.com/stoken/rbtfl/Z10jaVH/60XQM/full
+
+https://news.ycombinator.com/item?id=34983824
+
+#### Ask HN: Who is hiring? (March 2023)
+
+https://news.ycombinator.com/item?id=34983767
+
+https://news.ycombinator.com/item?id=34983767
+
+#### Ask HN: Who wants to be hired? (March 2023)
+
+https://news.ycombinator.com/item?id=34983765
+
+https://news.ycombinator.com/item?id=34983765
+
+#### Qualcomm CEO says he's expecting Apple to use its own modems in iPhones in 2024
+
+https://www.cnbc.com/2023/03/01/qualcomm-ceo-says-planning-for-apple-to-make-own-iphone-modems-from-2024-.html
+
+https://news.ycombinator.com/item?id=34982965
+
+#### Godot 4.0 Stable
+
+https://github.com/godotengine/godot/releases/tag/4.0-stable
+
+https://news.ycombinator.com/item?id=34982889
+
+#### Linode increases price of compute plans and more
+
+https://www.linode.com/blog/linode/akamai_cloud_computing_price_update/
+
+https://news.ycombinator.com/item?id=34982647
+
+#### I quitted infosec and I couldn't be happier
+
+http://paulsec.github.io/posts/i-quitted-infosec/
+
+https://news.ycombinator.com/item?id=34982007
+
+#### GitHub Packages Is Down
+
+https://www.githubstatus.com/incidents/bypf7bqdh4g0
+
+https://news.ycombinator.com/item?id=34981929
+
+### Phoronix
+
+#### Linux 6.3 Adds Thunderbolt/USB4 DisplayPort Bandwidth Allocation Mode
+
+https://www.phoronix.com/news/Linux-6.3-USB-Thunderbolt
+
+#### Intel Compute Runtime 22.53.25242.13 Released With OpenCL & Level Zero Enhancements
+
+https://www.phoronix.com/news/Intel-Compute-22.53.25242.13
+
+#### Godot 4.0 Stable Released As Major Step Forward For Open-Source Game Engines
+
+https://www.phoronix.com/news/Godot-4.0-Released
+
+#### Intel Updates Alder Lake P Scheduler Model For LLVM/Clang
+
+https://www.phoronix.com/news/Intel-ADL-P-LLVM-Model-Update
+
+#### Linux's VGEM Kernel Driver Being Rewritten In Rust
+
+https://www.phoronix.com/news/Linux-VGEM-Rust
+
+#### Microsoft Increasing Linux Security On Hyper-V With VTL/VSM Support
+
+https://www.phoronix.com/news/Hyper-V-Linux-VTL-VSM
+
+#### xf86-video-modesetting TearFree Gets Fixed Up For A/V De-Synchronization Issue
+
+https://www.phoronix.com/news/xf86-video-modesetting-Fix-TF
+
+#### LoongArch With Linux 6.3 Enhances Security With KASLR
+
+https://www.phoronix.com/news/LoongArch-Linux-6.3
+
+#### Linux 6.3 Now Suggests The BFQ I/O Scheduler When Building MMC/SD Support
+
+https://www.phoronix.com/news/Linux-6.3-MMC-BFQ-Suggests
+
+### GitHub
+
+#### usememos/memos
+
+https://github.com/usememos/memos
+
+An open-source, self-hosted memo hub with knowledge management and
+social networking.\
+Language: TypeScript\
+Stars: 9557\
+Forks: 567
+
+#### awesome-selfhosted/awesome-selfhosted
+
+https://github.com/awesome-selfhosted/awesome-selfhosted
+
+A list of Free Software network services and web applications which can
+be hosted on your own servers\
+Language: Makefile\
+Stars: 121650\
+Forks: 7066
+
+#### apache/doris
+
+https://github.com/apache/doris
+
+Apache Doris is an easy-to-use, high performance and unified analytics
+database.\
+Language: Java\
+Stars: 7233\
+Forks: 2111
+
+#### vlang/v
+
+https://github.com/vlang/v
+
+Simple, fast, safe, compiled language for developing maintainable
+software. Compiles itself in \<1s with zero library dependencies.
+Supports automatic C =\> V translation. https://vlang.io\
+Language: V\
+Stars: 32188\
+Forks: 1966
+
+#### honghuangdc/soybean-admin
+
+https://github.com/honghuangdc/soybean-admin
+
+A fresh and elegant admin template, based on
+Vue3,Vite3,TypeScript,NaiveUI and UnoCSS
+\[一个基于Vue3、Vite3、TypeScript、NaiveUI 和
+UnoCSS的清新优雅的中后台模版\]\
+Language: Vue\
+Stars: 2524\
+Forks: 483
+
+#### sympy/sympy
+
+https://github.com/sympy/sympy
+
+A computer algebra system written in pure Python\
+Language: Python\
+Stars: 10291\
+Forks: 3878
+
+#### bmaltais/kohya_ss
+
+https://github.com/bmaltais/kohya_ss
+
+null\
+Language: Python\
+Stars: 902\
+Forks: 97
+
+### Dribbble
+
+#### Tempo.Fit --- Iconography System
+
+https://dribbble.com/shots/20741640
+
+#### Proemion Branding, visual identity, corporate brand design
+
+https://dribbble.com/shots/20493642
+
+#### DROP --- Brand Identity & Website
+
+https://dribbble.com/shots/20773114
+
+#### Rivet branding
+
+https://dribbble.com/shots/20783819
+
+#### Lynq Logo Design
+
+https://dribbble.com/shots/20731861
+
+#### Upwork - Talent on Tap
+
+https://dribbble.com/shots/20770917
+
+#### Skincare App Design
+
+https://dribbble.com/shots/20772542
+
+#### Cypress Website
+
+https://dribbble.com/shots/20494068
+
+#### \[P\] 1 → N
+
+https://dribbble.com/shots/20749374
+
+#### Winter Clothes Website Design business landing web page designer
+
+https://dribbble.com/shots/20639099
+
+#### Chrome Extension 🪄🎩
+
+https://dribbble.com/shots/20740037
+
+#### Propology - Logo Concept 3
+
+https://dribbble.com/shots/20749077
+
+#### Portal - Website for Metaverse startup
+
+https://dribbble.com/shots/20784218
+
+#### Web Extension Prototype 🪄
+
+https://dribbble.com/shots/20748007
+
+#### UI Concept design
+
+https://dribbble.com/shots/20770607
+
+#### Uppa 2023
+
+https://dribbble.com/shots/20784676
+
+#### Podium - AR NFTs website
+
+https://dribbble.com/shots/20749724
+
+#### DROP --- Brand Identity & Website
+
+https://dribbble.com/shots/20773761
+
+#### \[P\] 1 → N
+
+https://dribbble.com/shots/20749408
+
+#### Jobzmall Logo Design Evolution
+
+https://dribbble.com/shots/20769383
+
+#### Starfino Branding
+
+https://dribbble.com/shots/20750656
+
+#### UI Concept design
+
+https://dribbble.com/shots/20736367
+
+#### Save
+
+https://dribbble.com/shots/20789771
+
+#### Finance service - Mobile app
+
+https://dribbble.com/shots/20783943
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### OpenAI 走向了它所承诺的反面
+
+https://www.solidot.org/story?sid=74270
+
+#### 新闻集团称黑客入侵其网络长达两年时间
+
+https://www.solidot.org/story?sid=74269
+
+#### Windows 11 在 2023 年的首个重大更新将包含 Bing Chat
+
+https://www.solidot.org/story?sid=74268
+
+#### 美国考虑撤销对华为的出口许可证
+
+https://www.solidot.org/story?sid=74267
+
+#### 现代鸟类的翅膀如何演化而来
+
+https://www.solidot.org/story?sid=74266
+
+#### YouTube 视频导致 Pixel 手机立即重启
+
+https://www.solidot.org/story?sid=74265
+
+#### Google 开始向部分 Gmail 和 Calendar 用户提供客户端加密
+
+https://www.solidot.org/story?sid=74264
+
+#### 2022 年政府断网次数创新记录
+
+https://www.solidot.org/story?sid=74263
+
+#### 俄罗斯以传播虚假军事信息对维基百科罚款 200 万卢布
+
+https://www.solidot.org/story?sid=74262
+
+#### 英伟达释出驱动支持视频超分辨率
+
+https://www.solidot.org/story?sid=74261
+
+#### 脸盲症可能比此前认为的更普遍
+
+https://www.solidot.org/story?sid=74260
+
+#### Twitter 裁员大约 200 人
+
+https://www.solidot.org/story?sid=74259
+
+#### 宇宙最早的星系比预期的质量更大
+
+https://www.solidot.org/story?sid=74258
+
+#### 中子星的内部仍然是一个谜团
+
+https://www.solidot.org/story?sid=74257
+
+#### 科学家发现有 2.5 亿年历史的入睡植物
+
+https://www.solidot.org/story?sid=74256
+
+#### 拼多多靠低价抢占美国市场
+
+https://www.solidot.org/story?sid=74255
+
+#### 亚马逊因电子书出现在盗版网站而将其从 Kindle Unlimited 中移除
+
+https://www.solidot.org/story?sid=74254
+
+#### FFmpeg 6.0 释出
+
+https://www.solidot.org/story?sid=74253
+
+#### 大众拒绝跟踪车内有绑架儿童的汽车
+
+https://www.solidot.org/story?sid=74252
+
+#### LastPass 称员工家用电脑被黑企业密码库令牌被盗
+
+https://www.solidot.org/story?sid=74251
+
+### V2EX
+
+#### \[分享发现\] chatgpt api 出了， 0.002 每千词（token）
+
+https://www.v2ex.com/t/920326
+
+#### \[YubiKey\] 求 Yubikey 5c NFC \*2
+
+https://www.v2ex.com/t/920325
+
+#### \[分享发现\] OpenAI 开放了 ChatGPT 的 API
+
+https://www.v2ex.com/t/920324
+
+#### \[程序员\] 小型企业用过时电脑装个 NAS, 再跑个 CRM 应用, 有什么稳定的建议吗?
+
+https://www.v2ex.com/t/920323
+
+#### \[OpenAI\] ChatGPT 官方 API 正式发布了,价格为 1K 代币 0.002 美元
+
+https://www.v2ex.com/t/920322
+
+#### \[Apple\] IPhone12Pro 撞毁了，无法修复，现在用 iPhoneX,不知道是换 14 好还是等 15 呢
+
+https://www.v2ex.com/t/920319
+
+#### \[海外留学\] 爱丁堡大学人工智能怎么样
+
+https://www.v2ex.com/t/920316
+
+#### \[程序员\] 最近在准备面试, 越发感觉 js 的心智负担好重啊
+
+https://www.v2ex.com/t/920315
+
+#### \[问与答\] 如何解决百度地图 JS API 在移动端页面下方渲染地图，会导致 click 事件获取坐标偏移？
+
+https://www.v2ex.com/t/920314
+
+#### \[程序员\] EF Core 每月第一天统计出的当日订单数都比当月订单还多，是哪里出了问题？
+
+https://www.v2ex.com/t/920313
+
+#### \[求职\] \[广州&上海\] 2 年前端开发 cs 专业-本科
+
+https://www.v2ex.com/t/920312
+
+#### \[问与答\] 1Password 长期家庭车
+
+https://www.v2ex.com/t/920311
+
+#### \[VPS\] linode 没收购几天，就要涨价。。
+
+https://www.v2ex.com/t/920310
+
+#### \[求职\] \[深圳\] 求职， 8 年 C++ 开发
+
+https://www.v2ex.com/t/920307
+
+#### \[奇思妙想\] 原创诗：《洗剪吹好黑》
+
+https://www.v2ex.com/t/920306
+
+#### \[生活\] 2023 一二月交友总结
+
+https://www.v2ex.com/t/920305
+
+#### \[问与答\] 大佬们帮忙看看我这个思路可不可行
+
+https://www.v2ex.com/t/920304
+
+#### \[Android\] 求酷我音乐的可用版本
+
+https://www.v2ex.com/t/920303
+
+#### \[问与答\] 有没有 office 2016 或以上 三件套的迅雷下载的地址，找到的都是百度云的地址
+
+https://www.v2ex.com/t/920302
+
+#### \[Android\] 三星 S23 Ultra 连接 Wi-Fi 断网的后续
+
+https://www.v2ex.com/t/920301
+
+#### \[宽带症候群\] \[求助\] 无法获取 IPv6 地址
+
+https://www.v2ex.com/t/920300
+
+#### \[程序员\] 训练一个模仿能动漫人物说话、按照动漫设定编故事的类似 ChatGPT 的纯聊天 AI，不需要能解决写代码这类现实问题，难度有多大？
+
+https://www.v2ex.com/t/920299
+
+#### \[职场话题\] 想问下大家，公司直接通知换部门，算不算调岗
+
+https://www.v2ex.com/t/920298
+
+#### \[程序员\] 为了导出千万数据量的表格，我设计了一个下载中心，邀请大家使用点评
+
+https://www.v2ex.com/t/920297
+
+#### \[问与答\] 现在还有年化利率 3.8%以上的定期存款吗
+
+https://www.v2ex.com/t/920295
+
+#### \[求职\] \[深圳\] 深圳有招红队或安全研究的吗
+
+https://www.v2ex.com/t/920294
+
+#### \[iOS\] iOS 查找怎么取消其中一个关联设备
+
+https://www.v2ex.com/t/920292
+
+#### \[分享创造\] 从机器代替人力到机器代替脑力----ChatGPT 突破后的 AI 发展
+
+https://www.v2ex.com/t/920291
+
+#### \[macOS\] m2 mini27 寸显示器分辨率都设置多少啊
+
+https://www.v2ex.com/t/920290
+
+#### \[宽带症候群\] 宽带是内网 IP 并且是路由器拨号的用户，可以尝试关闭路由器的 NAT
+
+https://www.v2ex.com/t/920289
+
+#### \[宽带症候群\] 求一个皇后的药，或其他资源比较全的音乐站
+
+https://www.v2ex.com/t/920288
+
+#### \[NAS\] 网络磁盘均无任何问题 NAS 读取只有 10MB/S
+
+https://www.v2ex.com/t/920286
+
+#### \[问与答\] 有关于挖矿问题
+
+https://www.v2ex.com/t/920285
+
+#### \[问与答\] 如何下载油管播放列表的字幕
+
+https://www.v2ex.com/t/920284
+
+#### \[宽带症候群\] 现在什么品牌网线比较好？
+
+https://www.v2ex.com/t/920281
+
+#### \[OpenWrt\] openwrt 的 luci 界面怎么做才能显示接口？
+
+https://www.v2ex.com/t/920279
+
+#### \[问与答\] wise 手续费太贪婪了
+
+https://www.v2ex.com/t/920277
+
+#### \[程序员\] 50 元红包办点小事
+
+https://www.v2ex.com/t/920276
+
+#### \[问与答\] \[网站运营\] 请问 GoogleAnalytics 能过滤脚本刷的量吗
+
+https://www.v2ex.com/t/920275
+
+#### \[软件\] 有没有什么可以不联网本地智能识别分类照片的工具
+
+https://www.v2ex.com/t/920274
+
+#### \[分享发现\] 偷窥（微小说）
+
+https://www.v2ex.com/t/920273
+
+#### \[路由器\] 不懂就问, 为什么小米的路由器本身会请求任天堂的域名??
+
+https://www.v2ex.com/t/920272
+
+#### \[宽带症候群\] 教育网有什么玩法
+
+https://www.v2ex.com/t/920269
+
+#### \[Java\] 关于 flowable 的一个问题
+
+https://www.v2ex.com/t/920268
+
+#### \[云计算\] whmcs 仿站，需要大佬
+
+https://www.v2ex.com/t/920267
+
+#### \[重庆\] 猪八戒 Java 外包怎么样
+
+https://www.v2ex.com/t/920266
+
+#### \[优惠信息\] 求个稳的 youtube premium 车子
+
+https://www.v2ex.com/t/920265
+
+#### \[Surge\] Surge mac 开车
+
+https://www.v2ex.com/t/920264
+
+#### \[问与答\] 求赐一个少儿编程的品牌名字
+
+https://www.v2ex.com/t/920263
+
+#### \[Chrome\] 现在做浏览器插件有钱景吗
+
+https://www.v2ex.com/t/920260
+
+## Generic News
+
+### Reuters
+
+#### Exclusive: US seeks allies' backing for possible China sanctions over Ukraine war -sources
+
+https://www.reuters.com/world/us-seeks-allies-backing-possible-china-sanctions-over-ukraine-war-sources-2023-03-01/
+
+U.S. and Chinese flags are seen in this illustration taken, January 30,
+2023. REUTERS/Dado Ruvic/Illustration A central processing unit (CPU)
+semiconductor chip is displayed among flags of China and U.S., in this
+illustration picture\...
+
+#### 'Havana syndrome' not caused by foreign adversary, U.S. intel finds
+
+https://www.reuters.com/world/us/havana-syndrome-not-caused-by-foreign-adversary-us-intel-finds-2023-03-01/
+
+A vintage car used for touristic city tours passes by the U.S. Embassy
+in Havana, Cuba, November 10, 2021. Photo taken on November 10, 2021.
+REUTERS/Alexandre Meneghini A globe-spanning U.S. intelligence
+investigation has concluded it is \"\...
+
+#### S&P, Nasdaq weak as manufacturing stokes Fed concerns
+
+https://www.reuters.com/markets/us/futures-rise-positive-start-march-2023-03-01/
+
+Summary: Two-year Treasury yield jumps to 2007 high Novavax slumps on
+going concern worries Tesla slips ahead of investor day Traders work on
+the floor of the New York Stock Exchange (NYSE) in New York City, U.S.,
+February 27, 2023\...
+
+#### Florida's DeSantis presses prosecutor over suspect in fatal shooting
+
+https://www.reuters.com/world/us/floridas-desantis-presses-prosecutor-over-suspect-fatal-shooting-2023-03-01/
+
+Republican Florida Governor Ron DeSantis speaks during his 2022 U.S.
+midterm elections night party in Tampa, Florida, U.S., November 8, 2022.
+REUTERS/Marco Bello Keith Melvin Moses, 19, identified by the Orange
+County Sheriff\...
+
+#### Israeli minister's call to 'erase' Palestinian village an incitement to violence, US says
+
+https://www.reuters.com/world/middle-east/israeli-ministers-call-erase-palestinian-village-an-incitement-violence-us-says-2023-03-01/
+
+Israeli Prime Minister Benjamin Netanyahu and Finance Minister Bezalel
+Smotrich arrive to attend a cabinet meeting at the Prime Ministers
+office in Jerusalem, February 23, 2023. REUTERS/Ronen Zvulun/Pool/File
+Photo\...
+
+#### Greece train crash kills at least 38 people, many of them likely students
+
+https://www.reuters.com/world/europe/two-trains-collide-greece-dozens-feared-injured-2023-03-01/
+
+Summary: Passenger, freight trains collide at high speed, at night PM
+says human error likely to blame Some 350 people on passenger train; 2
+crew on cargo train Greece declares three days of national mourning The
+site of a crash, where\...
+
+#### Prince Harry and Meghan have been asked to vacate UK home
+
+https://www.reuters.com/world/uk/prince-harry-meghan-lose-second-home-uk-tabloid-2023-03-01/
+
+Britains Prince Harry and his wife Meghan, Duchess of Sussex attend a
+celebration of Nelson Mandela International Day at the United Nations
+Headquarters in New York, U.S., July 18, 2022. REUTERS/Shannon Stapleton
+Prince\...
+
+#### Cuba blasts US govt for granting asylum to pilot of stolen plane
+
+https://www.reuters.com/world/americas/cuba-blasts-us-govt-granting-asylum-pilot-stolen-plane-2023-03-01/
+
+A guard stands in front of the new Cuban embassy in Washington after
+officials raised the national flag in a ceremony, July 20, 2015.
+REUTERS/Carlos Barria Cuban authorities have accused the U.S. government
+of being \"complicit in piracy\"\...
+
+#### Hungarian PM's party backs ratification of Finland, Sweden NATO entry
+
+https://www.reuters.com/world/europe/hungarys-president-urges-lawmakers-ratify-finland-sweden-nato-entry-2023-03-01/
+
+Summary: Parliament begins ratification process after long delay
+President, government official urge swift ratification Expansion will
+strengthen NATO, government official says Orbans party to support
+ratification\...
+
+#### Revolut auditor flags concern about \$576 mln of revenue in long-delayed 2021 accounts
+
+https://www.reuters.com/business/finance/revoluts-2022-revenues-grew-by-33-despite-crypto-winter-2023-03-01/
+
+Summary: Three-quarters of 2021 revenue under scrutiny Some information
+may be \"materially misstated\" -BDO Auditor concerns have been
+remedied, total revenue \"not in question\" -Revolut Revolut CEO,
+Nikolay Storonsky in Lisbon, Portugal\...
+
+#### Russia tries to close ring on Bakhmut as Ukrainians mount 'furious resistance'
+
+https://www.reuters.com/world/europe/russians-intensify-assault-bakhmut-ukrainian-forces-try-dig-2023-03-01/
+
+Summary: Russian forces seek to enclose city from north and south
+Ukraines Zelenskiy describes battle as most difficult West urges
+condemnation of war as G20 foreign ministers meet\...
+
+#### Hours after deadly train crash, Greece agonises over what went wrong
+
+https://www.reuters.com/world/europe/hours-after-deadly-train-crash-greece-agonises-over-what-went-wrong-2023-03-01/
+
+Rescuers operate at the site of a crash, where two trains collided, near
+the city of Larissa, Greece, March 1, 2023. REUTERS/Alexandros Avramidis
+Rescuers operate at the site of a crash, where two trains collided, near
+the city of\...
+
+#### UK PM Sunak congratulates Nigeria's Tinubu on election victory
+
+https://www.reuters.com/world/africa/uk-pm-sunak-congratulates-nigerias-tinubu-election-victory-2023-03-01/
+
+A man reads a newspaper after Bola Ahmed Tinubu was declared the winner
+and president-elect of Nigeria after elections disputed by opposition
+parties in Lagos, Nigeria, March 1, 2023. REUTERS/James Oatway British
+Prime Minister Rishi\...
+
+### 联合早报
+
+#### 港今起全面撤销口罩令 李家超：下来全速拼经济
+
+https://www.zaobao.com/news/china/story20230301-1367980
+
+香港特首李家超星期二宣布，星期三起全面撤销口罩令，结束了香港长达945天强制戴口罩的日子。图为星期二行走在港岛中环地区的人群，人人都佩戴口罩。（彭博社）
+随着社会逐步复常，香港实行两年多的"口罩令"也从星期三（3月1日）起全面撤销，市民在室内、室外及公共交通工具不再须要配戴口罩。受访医生相信，香港撤销"口罩令"后，日后除非有新的变异株，否则不会再出现大规模的疫情......
+
+#### 首次以台北市长身份参加追悼 蒋万安为"二二八"道歉誓言终身守护民主
+
+https://www.zaobao.com/news/china/story20230301-1367982
+
+台北市长蒋万安致辞一分钟后，背后冲入一群抗议者，高喊"杀人凶手、下跪道歉"，维安警力立即上前压制。蒋万安保持冷静，停顿好几分钟后继续完成演讲。（温伟中摄）
+已故台湾政治强人蒋介石的曾孙蒋万安，星期二（2月28日）首次以台北市长的身份参加"二二八"事件纪念活动，为76年前全台湾爆发官民冲突道歉，并誓言愿终身守护民主......
+
+#### 不满杀妻事件处置方式 河南滑县爆发警民冲突
+
+https://www.zaobao.com/news/china/story20230301-1367983
+
+河南滑县遇害女子家人将她的棺木抬到其夫家客厅用砖封门安葬。（互联网）
+河南省滑县发生一起男子持刀杀妻事件，事后当地民众因不满当局的处置，警民爆发冲突，县政府星期一（2月27日）吁请当地民众守法、不信谣。
+河南滑县官方星期一通过微信公号"滑县发布"通报上述案件时说，滑县桑村乡杨大召村村民张某豪与妻子杨某芳上星期一（2月20日）因家庭矛盾纠纷发生争执，张某豪持刀将杨某芳杀害......
+
+#### 港出动百名警员锁定范围 搜寻名媛蔡天凤躯干等残肢
+
+https://www.zaobao.com/news/china/story20230301-1367984
+
+（香港综合讯）香港名媛碎尸案受害者蔡天凤的头颅日前被寻回，香港警方出动约百名警员到锁定范围搜查，以寻回死者尚未找到的躯干和双手等残肢与搜索更多证物。
+综合《星岛日报》、"香港01"、香港中通社、香港东网等港媒报道，星期二（2月28日）上午约9时，受害者多名家属由执法人员陪同，抵达富山公众殓房办理相关手续，再到龙尾村案发现场拜祭。
+上午10时许，大批警员身穿白色全套保护衣到达打鼓岭堆填区搜索......
+
+#### 德国大众汽车中国业务负责人 访新疆称没见到强迫劳动迹象
+
+https://www.zaobao.com/news/china/story20230301-1367985
+
+德国大众汽车集团中国业务负责人贝瑞德（Ralf
+Brandstaetter）在2月中旬到访位于新疆的工厂，并称没有看到强迫劳动的迹象。
+据路透社报道，贝瑞德在2月16日至17日参观了大众汽车在新疆的工厂，并与汉族、维吾尔族和哈萨克族等七名员工分别进行长时间的交流，部分员工是经由通译员，或以英语与他直接交谈。贝瑞德也与其他员工短暂交谈......
+
+#### 早说
+
+https://www.zaobao.com/news/china/story20230301-1367986
+
+辜老直言反攻大陆是痴人说梦，保卫台湾应优先于反攻大陆，同时要求解除党禁，开放言论自由，言人所不敢言。
+------台湾前总统陈水扁星期一（2月27日）在脸书发文悼念总统府资政、独派大佬辜宽敏离世时，感念辜宽敏当年出钱让他出狱的恩情，也提及辜宽敏1972年与时任台湾行政院副院长的蒋经国共商国是，所展现的大无畏精神......
+
+#### 杨丹旭：年轻人的躺平和中年人的废
+
+https://www.zaobao.com/news/china/story20230301-1367987
+
+中年人有没有权做个"废物"？
+这是中国网民前阵子热议的一个话题。我留意到这些讨论，是因为最近的另一则消息：中国网红学者储殷的多个社交账号被短暂禁言。平台禁言的具体原因不明，有人猜测可能是因为储殷太敢说了。
+作为一名频繁游走各大社交媒体平台、参加过《奇葩说》等综艺节目的学者，储殷经常因为争议性言论受关注，甚至因被骂而上热搜......
+
+#### 11个省级行政区存在养老金预算赤字 中国贫困省份缺钱养老
+
+https://www.zaobao.com/news/china/story20230301-1367988
+
+五道岗村退休农民王凤勤（音译），2月9日在家中的厨房搬运木柴。70岁的王凤勤是黑龙江省五道岗村所剩无几的居民之一，每个月靠2000元人民币的养老金过活，除了吃饭，几乎买不起其他东西。（路透社）
+中国财政部数据显示，在31个省级行政区中，有11个存在养老金预算赤字。中国科学院认为，中国养老金体系将在2035年耗尽资金......
+
+#### 受冠病疫情严格封控措施影响 中国城镇去年就业人数60年来首跌
+
+https://www.zaobao.com/news/china/story20230301-1367989
+
+中国国家统计局星期二（2月28日）发布的最新数据显示，中国去年城镇就业人数为4亿5931万人。图为去年4月25日，工人在福建泉州一鞋厂流水线作业。（中新社）
+经济学家说，城镇就业人数下降显示，中国去年面对严峻的经济挑战。劳动人口缩减、工作职位因疫情流失，以及乡村工人减少迁移城镇，是城镇就业人数下跌的主要原因......
+
+#### 中国逾半省份债务率超过预警线
+
+https://www.zaobao.com/news/china/story20230301-1367990
+
+中国的地方政府债券发行过去几年大幅扩张，以支持受疫情影响的经济。在逾半数省级行政单位的债务率超过财政部设置的风险预警红线后，如何有效控制债务风险，成为今年两会（全国人大与政协年会）的投资者关注重点之一。
+据彭博社梳理的各省财政报告，截至2022年末，至少有17个省级政府的地方债务余额占其综合财力的比重超过120%；其中，天津市债务余额为其综合财力的近三倍，位居首位......
+
+#### 南京等20省市可提公积金作买房首付
+
+https://www.zaobao.com/news/china/story20230301-1367991
+
+为提振低迷的楼市，中国已有逾20个省市允许个人提取公积金支付购房的首付款。
+根据中国现行公积金提取政策，买房的首付款并不能直接从住房公积金账户提取。中国去年多个地方推出政策，允许住房公积金用作购房首付款，以缓解购房者的资金压力。
+综合第一财经和澎湃新闻报道，南京市今年2月初发布推动经济运行政策措施时，提及支持提取公积金支付购房首付款......
+
+#### 香港名媛碎尸案过堂 被告一家四口不获保释
+
+https://www.zaobao.com/news/china/story20230228-1367607
+
+位于大埔龙尾村的案发单位（一楼封锁单位），目前仍有警员驻守，禁止外人靠近。（中新社）
+（香港综合讯）香港名媛蔡天凤碎尸案首次提堂后，被告邝港智一家四口不准保释，案件押后至5月8日再审。警方仍在进一步调查取证，包括对被害人遗体进行鉴定，以及继续搜寻其余尸块......
+
+#### 开88枪警告民进党前中执委郭再钦等 台南案主嫌称不满官商勾结榨光电厚利
+
+https://www.zaobao.com/news/china/story20230228-1367608
+
+台南88枪枪击案主嫌犯"红龟"洪政军（前排中）在中国大陆落网，2­月25日从厦门押解返台，隔天供认教唆枪手孔祥志（后排中有手铐）开枪。（自由时报）
+台南88枪枪击案主嫌犯"红龟"洪政军从厦门押解回台后，向警方供称不满民进党前中执委，也是民进党台南大金主的郭再钦，在标到光电工程后承诺分一些给他，却在负责分配利益的黑道大哥陈世铭前年去世后不认账，引起他不满......
+
+#### 台总统府资政 独派大佬辜宽敏逝世
+
+https://www.zaobao.com/news/china/story20230228-1367610
+
+台湾独派大佬、总统府资政、台湾制宪基金会董事长辜宽敏逝世，享寿97岁。（互联网）
+台湾独派大佬、总统府资政、台湾制宪基金会辜宽敏，星期一（2月27日）上午在台北逝世，享寿97岁。
+台湾制宪基金会星期一（2月27日）上午在脸书公告，辜宽敏当天上午8时55分在台北荣民总医院辞世，享耆寿97岁，家属均随侍在侧。台北荣民总医院随后证实辜宽敏离世的消息......
+
+#### 传香港最快3月上旬解除口罩令
+
+https://www.zaobao.com/news/china/story20230228-1367611
+
+香港媒体报道称，香港特区政府最快将于3月上旬解除口罩令。港府上星期三（2月22日）宣布，从星期四（23日）延长口罩令14天，直至3月8日。
+香港《明报》星期一（27日）引述消息人士报道，港府最快3月上旬调整口罩令，不排除一并取消户外及室内口罩令，仅维持医院及安老院等高危场所戴口罩要求......
+
+#### 辽宁原副省长王大伟涉贿被公诉
+
+https://www.zaobao.com/news/china/story20230228-1367612
+
+中国辽宁省原副省长、省公安厅长王大伟涉嫌受贿罪被公诉。
+中国最高人民检察院官网星期天（2月26日）通报，王大伟涉嫌受贿案，由中国国家监察委员会调查终结，经最高人民检察院指定，近日已由湖北省襄阳市检察院向襄阳市中级法院提起公诉......
+
+#### 美第七舰队巡逻机飞越台湾海峡 解放军：坚决反对危害稳定行为
+
+https://www.zaobao.com/news/china/story20230228-1367613
+
+针对美国海军第七舰队星期一（2月27日）派一架P-8A海神式海上巡逻机飞越台湾海峡，中国大陆解放军东部战区回应称，坚决反对美方危害台海和平稳定的行为。
+综合路透社、中新网和《自由时报》报道，美国海军第七舰队27日发新闻稿称，一架P-8A"海神式"当天在国际空域飞越台湾海峡，展现美国对"自由开放印太地区"的承诺......
+
+#### 篮球世杯预选赛 李家超宴请中国男篮
+
+https://www.zaobao.com/news/china/story20230228-1367614
+
+图为李家超（前排中）等26日晚在礼宾府，同中国篮协主席姚明（前排右四）率领的中国男篮全体职球员合影。（香港特区政府新闻处提供）
+中国国家男子篮球队2月23日和26日在香港荃湾体育馆进行的2023年篮球世界杯亚大区预选赛最后两轮比赛中，分别战胜哈萨克斯坦队和伊朗队。香港特区行政长官李家超星期天（26日）设晚宴欢迎中国男篮时，感谢中国篮球协会指定香港作为国家队参加FIBA世界杯比赛的主场......
+
+#### 为防范未成年人沉迷 广电总局拟加强短视频管理
+
+https://www.zaobao.com/news/china/story20230228-1367615
+
+中国官方研究加强短视频管理，防范未成年人沉迷。
+中国国家广播电视总局网站星期一（2月27日）发布消息说，国家广电总局上星期三（22日）召开相关会议，广电总局党组成员、副局长杨小伟出席会议并讲话。
+会议说，当前未成年人上网看视频越来越普遍，要进一步创新管理理念思路，加强短视频建设和管理，大力激浊扬清，营造短视频清朗空间，全面抓好内容建设、许可准入、日常监管、法规制度、算法管理等各项重点任务落实......
+
+#### 早说
+
+https://www.zaobao.com/news/china/story20230228-1367616
+
+并不是只有经济在两位数增长的时候才有信心，在5%的增长时就没有信心。
+------清华大学经济管理学院院长白重恩星期天（2月26日）出席第五届全球财富管理论坛时说，必须接受中国经济增长力逐渐下降的事实，接受"5%、4%的增长也不错"。不过他也认为，中国经济仍具有非常大的增长潜力，要通过提振信心，尤其是民营经济信心来释放潜力......
+
+#### 戴庆成：香港旅游业闹笑话的背后
+
+https://www.zaobao.com/news/china/story20230228-1367617
+
+香港与中国大陆2月初恢复全面通关后，港府随即推出"你好，香港！"大型宣传活动，斥巨资向全球旅客免费派发50万张机票，希望吸引到150万名游客访港。然而，当地旅游业界承接力严重不足，也闹出不少笑话。
+最近炒作得沸沸扬扬的一起事件，是一家在港上市的大陆企业为了奖励员工及回馈投资者，早前安排3000人到香港参加分享会......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

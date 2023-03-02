@@ -9,9 +9,9 @@ function die() {
 }
 
 
-if [[ ! -z $2 ]]; then
-    for i in $*; do
-        bash $0 $i || die "[ERROR] Some problem happaned."
+if [[ -n $2 ]]; then
+    for i in "$@"; do
+        bash "$0" "$i" || die "[ERROR] Some problem happaned."
     done
     exit $?
 fi

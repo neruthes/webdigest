@@ -728,6 +728,121 @@ prison a day after he was convicted of murder in the shooting deaths of
 his wife and son. The sentence issued Friday carries no chance of parole
 or early release\...
 
+### Reuters
+
+#### Iran's Khamenei calls girls' poisoning 'unforgivable' after public anger
+
+https://www.reuters.com/world/middle-east/khamenei-says-poisoning-schoolgirls-iran-is-an-unforgivable-crime-2023-03-06/
+
+Summary: More than 1,000 schoolgirls poisoned in Iran Supreme leader
+says perpetrators deserve death penalty Poisonings inflame passions
+after months of protests Irans Supreme Leader Ayatollah Ali Khamenei
+speaks during a\...
+
+#### Exclusive: Ukraine seeks US cluster bombs to adapt for drone use, lawmakers say
+
+https://www.reuters.com/world/europe/ukraine-seeks-us-cluster-bombs-adapt-drone-use-lawmakers-2023-03-06/
+
+Bands broken, dozens of 155mm Base Burn Dual Purpose Improved
+Conventional Munitions rounds wait to be loaded into self-propelled
+howitzers and artillery support vehicles September 20, 2016 at Camp
+Hovey in South Korea. U.S. Army photo/\...
+
+#### California to not do business with Walgreens over abortion pills issue, Governor says
+
+https://www.reuters.com/world/us/california-not-do-business-with-walgreens-over-abortion-pills-issue-governor-2023-03-06/
+
+People walk by a Walgreens, owned by the Walgreens Boots Alliance, Inc.,
+in Manhattan, New York City, U.S., November 26, 2021. REUTERS/Andrew
+Kelly California would not do business with Walgreens Boots Alliance Inc
+(WBA.O), state Governor\...
+
+#### Wall St pares gains with Powell testimony, upcoming data in focus
+
+https://www.reuters.com/markets/us/futures-subdued-after-strong-week-wall-street-2023-03-06/
+
+Summary: Chinas 5% growth target drag on ADRs, commodity shares Apple
+rises as Goldman begins coverage with buy Crypto stocks fall as
+Silvergate suspends payments network Factory orders\...
+
+#### Turkey's opposition names Kilicdaroglu to take on Erdogan in election
+
+https://www.reuters.com/world/middle-east/turkeys-iyi-party-wants-ankara-istanbul-mayors-be-vice-presidents-2023-03-06/
+
+Summary: Former civil servant aims to emerge from Erdogans shadow
+Election in two months to define economic, foreign policy Turkeys main
+opposition Republican Peoples Party (CHP) leader\...
+
+#### US House Speaker McCarthy plans to meet Taiwan's president in the US
+
+https://www.reuters.com/world/us/us-house-speaker-mccarthy-plans-meet-taiwans-president-us-sources-2023-03-06/
+
+Speaker of the House Kevin McCarthy (R-CA) wields the speakers gavel as
+members of Congress gather on the House floor to attend U.S. President
+Joe Bidens State of the Union address before a joint session\...
+
+#### Police, protesters clash at site of Atlanta police center; 35 arrested
+
+https://www.reuters.com/world/us/fire-breaks-out-atlanta-police-training-center-after-protest-media-2023-03-06/
+
+A stop sign sits on the outside of the forest as construction continues
+after a SWAT escort this morning at the construction site of a public
+safety training facility that activists have derided with the nickname
+\"Cop City\", in Atlanta\...
+
+#### Factbox: Turkey's anti-Erdogan bloc vows to reverse his legacy
+
+https://www.reuters.com/world/middle-east/turkeys-anti-erdogan-bloc-vows-reverse-his-legacy-2023-03-06/
+
+Turkeys main opposition Republican Peoples Party (CHP) leader Kemal
+Kilicdaroglu greets media members as he arrives for a meeting in Ankara,
+Turkey March 6, 2023. Alp Eren Kaya/Republican People\...
+
+#### They wined, dined and fled - but law finally catches up with Spain wine thieves
+
+https://www.reuters.com/world/europe/they-wined-dined-fled-law-finally-catches-up-with-spain-wine-thieves-2023-03-06/
+
+A man and a woman walk out from Restaurante Atrio, carrying three bags
+of stolen wine bottles worth up to &1.7 million, in Caceres, Spain
+October 27, 2021 in this frame grab taken from CCTV video released on
+July 20, 2022. Spanish Police/\...
+
+#### Search underway for four Americans kidnapped in Mexico
+
+https://www.reuters.com/world/americas/four-americans-kidnapped-after-crossing-into-mexico-us-embassy-says-2023-03-06/
+
+The Mexican flag flutters during the National Flag Day event in Iguala,
+Guerrero State, Mexico February 24, 2021. REUTERS/Henry Romero Mexican
+and U.S. authorities said on Monday they were working to locate four
+Americans who were shot at\...
+
+#### Czech company sees boom in market for fake tanks, HIMARS
+
+https://www.reuters.com/world/europe/czech-company-sees-boom-market-fake-tanks-himars-2023-03-06/
+
+A worker prepares an inflatable decoy of a military vehicle, which is
+used to confuse enemy attacks, during a media presentation in Decin,
+Czech Republic, March 6, 2023. REUTERS/Eva Korinkova An inflatable decoy
+of a military vehicle is\...
+
+#### Belarus opposition leader handed 15-year jail term for 'treason'
+
+https://www.reuters.com/world/europe/belarus-court-sentences-exiled-opposition-leader-15-years-prison-2023-03-06/
+
+Summary: Court in Belarus convicts opposition leader in absentia Ruling
+is related to mass post-election protests Opposition leader says she was
+cheated of victory by fraud Court convicts her of treason, conspiracy to
+seize power\...
+
+#### Wagner representative barred from Russian army HQ in Ukraine, its boss says
+
+https://www.reuters.com/world/europe/russias-wagner-chief-warns-frontline-collapse-if-forced-retreat-bakhmut-2023-03-06/
+
+Summary: Mercenary leader says official was shut out on Monday morning
+Unusual video shows Prigozhin raising possibility of defeat Wagner chief
+has been demanding more ammunition for weeks Yevgeny Prigozhin, founder
+of Russia\...
+
 ### 联合早报
 
 #### 中国军费预算增7.2％ 分析：安排较克制料受去年经济增长影响

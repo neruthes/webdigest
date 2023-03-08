@@ -1,0 +1,1032 @@
+Other formats: [PDF](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/webdigest/WebDigest-20230308.pdf--f229037300aa9366717994faa77763ab.pdf) / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20230308.html)
+
+
+# Web Digest 2023-03-08
+
+
+## Developers
+
+### Hacker News
+
+#### Google Releases Paper on Embodied LLM (562b parameters)
+
+https://palm-e.github.io/
+
+https://news.ycombinator.com/item?id=35063964
+
+#### ChatGPT Explained: A normie's guide to how it works
+
+https://www.jonstokes.com/p/chatgpt-explained-a-guide-for-normies
+
+https://news.ycombinator.com/item?id=35062157
+
+#### Graduate students at the University of Southern California have won a union
+
+https://jacobin.com/2023/03/university-of-southern-california-grad-student-workers-union-bargaining-demands-nlrb
+
+https://news.ycombinator.com/item?id=35061864
+
+#### Malvertising on Google Ads
+
+https://www.kolide.com/blog/malvertising-on-google-ads-it-s-hiding-in-plain-site
+
+https://news.ycombinator.com/item?id=35060972
+
+#### Zero energy ready homes are coming
+
+https://www.energy.gov/eere/articles/zero-energy-ready-homes-are-coming-neighborhood-near-you
+
+https://news.ycombinator.com/item?id=35060298
+
+#### My Hardest Bug Ever (2013)
+
+https://www.gamedeveloper.com/programming/my-hardest-bug-ever
+
+https://news.ycombinator.com/item?id=35060273
+
+#### Mario Kart Tour Triggers You into Gambling Your Money
+
+https://growth.design/case-studies/mario-kart-revenue-model
+
+https://news.ycombinator.com/item?id=35058744
+
+#### Zig as an alternative to writing unsafe Rust
+
+https://zackoverflow.dev/writing/unsafe-rust-vs-zig/
+
+https://news.ycombinator.com/item?id=35058176
+
+#### Georgia nuclear plant begins splitting atoms
+
+https://apnews.com/article/georgia-power-nuclear-reactor-electricity-voglte-startup-305145dc46cc1752c2d9371fa70aea35
+
+https://news.ycombinator.com/item?id=35058046
+
+#### Fake sugars sneak into foods and disrupt metabolic health
+
+https://www.washingtonpost.com/wellness/interactive/2023/sugar-substitutes-health-effects/
+
+https://news.ycombinator.com/item?id=35057763
+
+#### Feb 27 2023 GCP Outage Incident Report
+
+https://status.cloud.google.com/incidents/LnvJwfYu3TCyUrcrP7yf
+
+https://news.ycombinator.com/item?id=35057308
+
+#### Haraldur Thorleifsson's Personal Site
+
+http://www.haraldurthorleifsson.com
+
+https://news.ycombinator.com/item?id=35057257
+
+#### Launch HN: DAGWorks -- ML platform for data science teams
+
+https://news.ycombinator.com/item?id=35056903
+
+https://news.ycombinator.com/item?id=35056903
+
+#### Young people in 13 EU countries refuse surveillance of online communication
+
+https://edri.org/our-work/press-release-poll-youth-in-13-eu-countries-refuse-surveillance-of-online-communication/
+
+https://news.ycombinator.com/item?id=35056857
+
+#### RustPython -- A Python-3 (CPython \>= 3.11.0) Interpreter written in Rust
+
+https://github.com/RustPython/RustPython
+
+https://news.ycombinator.com/item?id=35056586
+
+#### France comes to a standstill as workers protest plan to increase retirement age
+
+https://www.cbc.ca/news/world/france-nationwide-strikes-pensions-1.6770345
+
+https://news.ycombinator.com/item?id=35056548
+
+#### Hardware microphone disconnect (2021)
+
+https://support.apple.com/guide/security/hardware-microphone-disconnect-secbbd20b00b/web
+
+https://news.ycombinator.com/item?id=35056379
+
+#### No Lodash
+
+https://thescottyjam.github.io/snap.js/#!/nolodash
+
+https://news.ycombinator.com/item?id=35056136
+
+#### Haraldur Þorleifsson sweeps person of the year awards
+
+https://www.icelandreview.com/news/haraldur-thorleifsson-sweeps-person-of-the-year-awards/
+
+https://news.ycombinator.com/item?id=35056098
+
+#### A low latency guitar effects processor suitable for running on a Raspberry Pi
+
+https://github.com/Quinny/GuitarEffects
+
+https://news.ycombinator.com/item?id=35056094
+
+### Phoronix
+
+#### Intel Releases x86-simd-sort v1.0 Library For High Performance AVX-512 Sorting
+
+https://www.phoronix.com/news/x86-simd-sort-1.0
+
+#### AMD Ryzen 9 7900X3D Linux Performance
+
+https://www.phoronix.com/review/amd-ryzen9-7900x3d
+
+#### Initial Rust DRM Abstractions, AGX Apple DRM Driver Posted For Review
+
+https://www.phoronix.com/news/Rust-DRM-AGX-RFC-Preview
+
+#### Intel Preparing IAA Crypto Compression Driver - Kernel Crypto API Use For Accelerators
+
+https://www.phoronix.com/news/Intel-IAA-Crypto-Linux-Driver
+
+#### GNOME Shell & Mutter 44 Release Candidates Bring Last Minute Changes
+
+https://www.phoronix.com/news/GNOME-Shell-Mutter-44-RC
+
+#### AMD's Suballocator Helper Gets Ready To Help Intel's New Xe Linux Graphics Driver
+
+https://www.phoronix.com/news/AMD-Suballocator-To-DRM-Core
+
+#### Coreboot Adds Support For An ASRock Sandy/Ivy Bridge Era Mini ITX Board
+
+https://www.phoronix.com/news/Coreboot-ASRock-B75M-ITX
+
+#### Intel Preparing Sapphire Rapids C0.2 Idle State Support For Better Energy Efficiency
+
+https://www.phoronix.com/news/Intel-SPR-C0.2-Idle-State-Linux
+
+#### FEX 2303 Released For Improving Linux x86_64 Gaming On ARM64
+
+https://www.phoronix.com/news/FEX-Emu-2303-Released
+
+### GitHub
+
+#### poteto/hiring-without-whiteboards
+
+https://github.com/poteto/hiring-without-whiteboards
+
+⭐️ Companies that dont have a broken hiring process\
+Language: JavaScript\
+Stars: 35643\
+Forks: 3035
+
+#### zinclabs/zincsearch
+
+https://github.com/zinclabs/zincsearch
+
+ZincSearch . A lightweight alternative to elasticsearch that requires
+minimal resources, written in Go.\
+Language: Go\
+Stars: 14104\
+Forks: 615
+
+#### f/awesome-chatgpt-prompts
+
+https://github.com/f/awesome-chatgpt-prompts
+
+This repo includes ChatGPT prompt curation to use ChatGPT better.\
+Language: HTML\
+Stars: 39096\
+Forks: 4507
+
+#### zhayujie/chatgpt-on-wechat
+
+https://github.com/zhayujie/chatgpt-on-wechat
+
+使用ChatGPT搭建微信聊天机器人，基于ChatGPT3.5 API和itchat实现。Wechat
+robot based on ChatGPT, which using OpenAI api and itchat library.\
+Language: Python\
+Stars: 4800\
+Forks: 1012
+
+#### jerryjliu/gpt_index
+
+https://github.com/jerryjliu/gpt_index
+
+LlamaIndex (GPT Index) is a project that provides a central interface to
+connect your LLMs with external data.\
+Language: Python\
+Stars: 5787\
+Forks: 516
+
+#### PlexPt/awesome-chatgpt-prompts-zh
+
+https://github.com/PlexPt/awesome-chatgpt-prompts-zh
+
+ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。\
+Language: Unknown\
+Stars: 12532\
+Forks: 4406
+
+#### lss233/chatgpt-mirai-qq-bot
+
+https://github.com/lss233/chatgpt-mirai-qq-bot
+
+🚀 一键部署！真正的 ChatGPT QQ 聊天机器人！支持ChatGPT API、 ChatGPT
+Plus、新版
+Bing，多账号负载均衡，人设调教，敏感词检测，虚拟女仆、对话上下文，图片渲染，代理加速
+(内有视频教程）\
+Language: Python\
+Stars: 2096\
+Forks: 220
+
+#### Developer-Y/cs-video-courses
+
+https://github.com/Developer-Y/cs-video-courses
+
+List of Computer Science courses with video lectures.\
+Language: Unknown\
+Stars: 52737\
+Forks: 7544
+
+### Dribbble
+
+#### \[P\] 1 → N
+
+https://dribbble.com/shots/20749522
+
+#### Atopa Branding, visual identity, corporate brand design
+
+https://dribbble.com/shots/20493987
+
+#### Save
+
+https://dribbble.com/shots/20789771
+
+#### Virtuality Website
+
+https://dribbble.com/shots/20794522
+
+#### Acorn
+
+https://dribbble.com/shots/20839310
+
+#### \[P\] 0 → 1
+
+https://dribbble.com/shots/20749490
+
+#### Bookmarks
+
+https://dribbble.com/shots/20834253
+
+#### Otter - Illustrations
+
+https://dribbble.com/shots/20793738
+
+#### Whose Kingdom?
+
+https://dribbble.com/shots/20795855
+
+#### \[P\] 0 → 1
+
+https://dribbble.com/shots/20822771
+
+#### Payarc Branding
+
+https://dribbble.com/shots/20781786
+
+#### Proemion Branding
+
+https://dribbble.com/shots/20494846
+
+#### Nuntio Logo Design
+
+https://dribbble.com/shots/20834590
+
+#### Crypzone Website
+
+https://dribbble.com/shots/20814865
+
+#### Tourist app
+
+https://dribbble.com/shots/20813041
+
+#### Propology - Logo Design Project
+
+https://dribbble.com/shots/20837017
+
+#### Ninox Branding
+
+https://dribbble.com/shots/20494766
+
+#### Weera Website Development
+
+https://dribbble.com/shots/20805618
+
+#### Digital Health Applications: Illustration for UX Benchmark
+
+https://dribbble.com/shots/20839707
+
+#### Media Player Mobile App
+
+https://dribbble.com/shots/20640052
+
+#### Macy's Flower Show
+
+https://dribbble.com/shots/20849367
+
+#### Attio -- Report Type Illustrations
+
+https://dribbble.com/shots/20785501
+
+#### The Leopard in the Lala
+
+https://dribbble.com/shots/20794935
+
+#### 3D Modeling for UX/UI Design
+
+https://dribbble.com/shots/20834446
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### 《城市：天际线 II》宣布
+
+https://www.solidot.org/story?sid=74326
+
+#### 今年的 PC 销量可能更糟
+
+https://www.solidot.org/story?sid=74325
+
+#### Google 支持一千种语言的大 AI 模型取得进展
+
+https://www.solidot.org/story?sid=74324
+
+#### 企业软件创业公司拥抱生成式 AI
+
+https://www.solidot.org/story?sid=74323
+
+#### 德国政府考虑禁用华为中兴的 5G 技术
+
+https://www.solidot.org/story?sid=74322
+
+#### 软盘为何还没有彻底淘汰？
+
+https://www.solidot.org/story?sid=74321
+
+#### 中国组建国家数据局
+
+https://www.solidot.org/story?sid=74320
+
+#### 日本 H3 运载火箭的首次发射失败
+
+https://www.solidot.org/story?sid=74319
+
+#### 科学家发现柠檬汁干预结石形成的原因
+
+https://www.solidot.org/story?sid=74318
+
+#### 研究发现过去数世纪绘画中的男性生殖器在变大
+
+https://www.solidot.org/story?sid=74317
+
+#### 一位工程师改动配置导致 Twitter 周一宕机
+
+https://www.solidot.org/story?sid=74316
+
+#### ChatGPT 是如何构建的
+
+https://www.solidot.org/story?sid=74315
+
+#### 探测木星卫星是否支持生命的探测器即将发射
+
+https://www.solidot.org/story?sid=74314
+
+#### 科学家调查切尔诺贝利核辐射对流浪犬的影响
+
+https://www.solidot.org/story?sid=74313
+
+#### LastPass 工程师被利用的软件漏洞有近三年历史
+
+https://www.solidot.org/story?sid=74312
+
+#### 得州法案想要 ISP 屏蔽堕胎网站
+
+https://www.solidot.org/story?sid=74311
+
+#### 币安躲避美国监管的计划
+
+https://www.solidot.org/story?sid=74310
+
+#### Linux Kernel 6.3-rc1 释出
+
+https://www.solidot.org/story?sid=74309
+
+#### Valve 在开发《反恐精英 2》
+
+https://www.solidot.org/story?sid=74308
+
+#### SCO 诉 IBM 20 年后
+
+https://www.solidot.org/story?sid=74307
+
+### V2EX
+
+#### \[iPad\] 现在入 iPad mini 6 有没有 49 年入国军的既视感
+
+https://www.v2ex.com/t/922183
+
+#### \[OpenAI\] 好奇大家每天找 AI 聊点什么？
+
+https://www.v2ex.com/t/922182
+
+#### \[职场话题\] 有人上班听德云社的相声吗？？
+
+https://www.v2ex.com/t/922181
+
+#### \[程序员\] 一款免费的人机验证插件(顶象接口)
+
+https://www.v2ex.com/t/922180
+
+#### \[囧\] \[转\]当新冠实现人们的愿望！
+
+https://www.v2ex.com/t/922178
+
+#### \[macOS\] macmini m2 直接卡死，转菊花几分钟没响应，需要强制关机？
+
+https://www.v2ex.com/t/922177
+
+#### \[酷工作\] 快 30 了，打工这么多年，今年有特别强烈回农村务农的打算
+
+https://www.v2ex.com/t/922175
+
+#### \[奇思妙想\] 求大家帮忙参考下
+
+https://www.v2ex.com/t/922174
+
+#### \[OpenAI\] 为什么挂了梯子请求 ChatGpt 的 API 接口还是很慢
+
+https://www.v2ex.com/t/922173
+
+#### \[分享发现\] 我也接入了 ChatGPT 的 api，谈谈体验 
+
+https://www.v2ex.com/t/922171
+
+#### \[Android\] 如何开启 oxygenos 13 的通话录音功能呢
+
+https://www.v2ex.com/t/922170
+
+#### \[OpenAI\] 你们用 cloudflare warp 的方式访问 chatgpt 还能用吗,我的今天开始已经识别为不支持的国家了..
+
+https://www.v2ex.com/t/922169
+
+#### \[OpenAI\] 微信交流群，欢迎大家加入讨论
+
+https://www.v2ex.com/t/922168
+
+#### \[Android\] 请各位安卓大佬推荐一款安卓旗舰机，谢谢
+
+https://www.v2ex.com/t/922165
+
+#### \[macOS\] word 打开多了卡了咋办， M1pro Ventura 是微软的原因还是系统的原因
+
+https://www.v2ex.com/t/922163
+
+#### \[OpenAI\] 大家 chatgpt 的历史会话还在吗
+
+https://www.v2ex.com/t/922162
+
+#### \[问与答\] 帮忙取个英文品牌名，好听就行，采纳 50
+
+https://www.v2ex.com/t/922161
+
+#### \[分享创造\] 《蜗牛触角》
+
+https://www.v2ex.com/t/922160
+
+#### \[问与答\] 职业路径选择的问题，有点迷茫，请教大家
+
+https://www.v2ex.com/t/922158
+
+#### \[Notion\] Notion 模板分享
+
+https://www.v2ex.com/t/922157
+
+#### \[程序员\] TCP 代理主要用在什么地方？
+
+https://www.v2ex.com/t/922156
+
+#### \[问与答\] 北京最近抽什么疯，派出所辅警突然给打电话
+
+https://www.v2ex.com/t/922155
+
+#### \[问与答\] 有没有第三方切换卡 1 和卡 2 的快捷开关?
+
+https://www.v2ex.com/t/922153
+
+#### \[杭州\] 杭州有什么优惠的高上行的电信宽带路子么？
+
+https://www.v2ex.com/t/922152
+
+#### \[问与答\] 腾讯之类的邮箱 能不用就别用了吧
+
+https://www.v2ex.com/t/922151
+
+#### \[OpenAI\] chatgpt 侧边栏会消失，我做好的分类全部都没有了
+
+https://www.v2ex.com/t/922150
+
+#### \[Pixel\] pixel6 有快速锁屏的方法吗?
+
+https://www.v2ex.com/t/922149
+
+#### \[旅行\] 求推荐旅行行程规划的 app
+
+https://www.v2ex.com/t/922147
+
+#### \[问与答\] Linux 怎么直接下载 QQ 邮箱里的附件
+
+https://www.v2ex.com/t/922146
+
+#### \[程序员\] \[有偿\]请高手帮我解决一个微信小程序背景音乐播放报错的问题
+
+https://www.v2ex.com/t/922145
+
+#### \[YouTube\] 美区 YouTube 招两人， 58 元/年
+
+https://www.v2ex.com/t/922144
+
+#### \[职场话题\] 家里大伯关了公司
+
+https://www.v2ex.com/t/922143
+
+#### \[问与答\] 京东的百亿补贴居然买不了？
+
+https://www.v2ex.com/t/922141
+
+#### \[问与答\] 2023 年，双程序员应该移民吗
+
+https://www.v2ex.com/t/922140
+
+#### \[问与答\] 请教一个 vscode remote 开发的问题
+
+https://www.v2ex.com/t/922139
+
+#### \[问与答\] 在安卓平台使用 flutter 多引擎会面临的严重崩溃风险
+
+https://www.v2ex.com/t/922138
+
+#### \[问与答\] 淘宝 IOS 版本出 BUG 了
+
+https://www.v2ex.com/t/922137
+
+#### \[程序员\] 请教大家一个 docker ssh 的问题
+
+https://www.v2ex.com/t/922135
+
+#### \[VirtualBox\] virtualbox 桥接方式可以使 host 与 guest 不直接走内部（内核）通信吗？
+
+https://www.v2ex.com/t/922134
+
+#### \[程序员\] 是不是大部分公司的开发都没有单元测试和代码评审
+
+https://www.v2ex.com/t/922133
+
+#### \[问与答\] GV 号码能直接转到 esim 吗？
+
+https://www.v2ex.com/t/922132
+
+#### \[分享发现\] 微软的 Edge 要出 VPN 了？
+
+https://www.v2ex.com/t/922131
+
+#### \[ WATCH\] 请教各位游泳戴着 Apple Watch 吗，我是 7 代，看官网介绍说是 50m 防水，不知道一直戴着游泳会不会进水？
+
+https://www.v2ex.com/t/922129
+
+#### \[Chrome\] 请教 chrome 插件开发问题
+
+https://www.v2ex.com/t/922128
+
+#### \[问与答\] 快不行了,有没有办法限制外网(内网可以),控制 U 盘的安全方案软件?
+
+https://www.v2ex.com/t/922127
+
+#### \[程序员\] 只有一个 M.2 硬盘插槽，有办法把 512 的 SSD 扩容成 2T 吗？
+
+https://www.v2ex.com/t/922126
+
+#### \[程序员\] 实在是等不到 GitHub Copilot Cli 了, 只能自己上手写了
+
+https://www.v2ex.com/t/922125
+
+#### \[随想\] 35 岁 VUE 资深前端，失业后找了 4 个月工作， BOSS 沟通 1362 次，投递 56 份简历，都没能找到理想工作。
+
+https://www.v2ex.com/t/922124
+
+#### \[C++\] C++库编译的一个问题
+
+https://www.v2ex.com/t/922123
+
+#### \[OpenAI\] 如何实现微信小程序请求后端接口，后端接口请求 chatgpt api，微信小程序逐个显示出 chatgpt api 返回的接口
+
+https://www.v2ex.com/t/922122
+
+## Generic News
+
+### AP News
+
+#### Fox Chair Murdoch says 2020 election was fair: court filings
+
+https://apnews.com/article/91d6c6e7d39083b7732787e013bb1fc4
+
+FILE - Rupert Murdoch introduces Secretary of State Mike Pompeo during
+the Herman Kahn Award Gala, in New York, Oct. 30, 2018. A voting
+technology company suing Fox News is arguing that Fox Corp. leaders
+Rupert and Lachlan Murdoch played\...
+
+#### When Hollywood needs a movie villain, the tech bro answers
+
+https://apnews.com/article/2eae1d6c3805d53339cdd7c1507f4687
+
+This image released by Netflix shows Edward Norton in a scene from
+\"Glass Onion: A Knives Out Mystery.\" Norton portrays Miles Bron, an
+eccentric tech billionaire who brings his wealthy friends to a private
+island in Greece to take part in\...
+
+#### 'Boy Meets World' star Ben Savage enters US House race in LA
+
+https://apnews.com/article/6b08ccc4a25f39c6cba562fb0b35da13
+
+FILE - Actor Ben Savage arrives at night one of the Creative Arts Emmy
+Awards in Los Angeles on Sept. 10, 2016. Savage has joined the race for
+a U.S. House seat in Southern California. The "Boy Meets World" star
+says on Instagram that "\...
+
+#### Safety agency opens probe of Norfolk Southern rail accidents
+
+https://apnews.com/article/2c819f2c469102332d4b1abf4c6e8923
+
+A view of the scene Feb. 24, 2023, as the cleanup continues at the site
+of of a Norfolk Southern freight train derailment that happened on Feb.
+3 in East Palestine, Ohio. Pennsylvania Gov. Josh Shapiro said Monday,
+March 6, 2023 that\...
+
+#### Women sue Texas over abortion ban, say it risked their lives
+
+https://apnews.com/article/632fad72e0f5b255a3a55274cd097fa9
+
+Amanda Zurawski, one of five plaintiffs in Zurawski v. State of Texas,
+speaks in front of the Texas State Capitol in Austin, Texas, Tuesday,
+March 7, 2023, as the Center for Reproductive Rights and the plaintiffs
+announced their lawsuit\...
+
+#### Prosecutor calls XXXTentacion's alleged killers 'predators'
+
+https://apnews.com/article/b5554a58f1f87043b8088e3d9b642425
+
+During her closing arguments in the XXXTentacion murder trial, Assistant
+State Attorney Pascale Achille holds up a camouflage hat with a red brim
+that was seen worn by shooting suspect Michael Boatwright in multiple
+surveillance videos\...
+
+#### US judge strikes down Missouri gun law as unconstitutional
+
+https://apnews.com/article/7a32436411f7b32c7f7870381c089b51
+
+FILE - Police investigate the scene where an officer was shot in the leg
+in a parking lot, April 29, 2021, in St Peters, Mo. A federal judge
+ruled Tuesday, March 7, 2023, that a Missouri law banning local police
+form enforcing federal gun\...
+
+#### Tucker Carlson amplifies Jan. 6 lies with GOP-provided video
+
+https://apnews.com/article/adc245e22f50b076925eb72948062808
+
+Some Republican Senators are disagreeing with a distorted display of the
+January 6 riot through videos broadcast by Tucker Carlson on his
+primetime Fox News show. (March 7) FILE - Rioters at the U.S. Capitol on
+Jan. 6, 2021, in\...
+
+#### Russian gallery shows art by 'Merchant of Death' freed by US
+
+https://apnews.com/article/1f3cef1eac6969bf288249c3b197f952
+
+Viktor Bout, a Russian arms dealer who was sentenced to 25 years in the
+United States, speaks to the media prior to an opening ceremony of the
+exhibition of his artworks at the Mosfilm studio in Moscow, Russia,
+Tuesday, March 7, 2023\...
+
+#### Battle for Bakhmut takes center stage in war in Ukraine
+
+https://apnews.com/article/9056fed0866bfb4c651283d85c895544
+
+FILE - video footage of Bakhmut shot from the air with a drone for The
+Associated Press on Monday, Feb. 13, 2023, shows how the longest battle
+of the year-long Russian invasion has turned the city of salt and gypsum
+mines in eastern\...
+
+#### In reversal, Biden weighs detaining migrant families
+
+https://apnews.com/article/0909546c3984ae439b376d02c40ac7ff
+
+President Joe Biden delivers remarks to the 2023 International
+Association of Fire Fighters Legislative Conference, Monday, March 6,
+2023, in Washington. (AP Photo/Evan Vucci) WASHINGTON (AP) --- The Biden
+administration is considering\...
+
+#### How passengers teamed up to restrain man on chaotic flight
+
+https://apnews.com/article/537e7e75621d4a393852aac923ee694f
+
+This image provided by Simik Ghookasian shows passengers and crew
+members restraining a man who according to federal authorities tried to
+open an airliner's emergency door and tried to stab a flight attendant
+on a weekend flight from Los\...
+
+#### 'Oh my daughter': Volunteer medic, 29, buried in Ukraine
+
+https://apnews.com/article/c7a12e4e769ac945025c8842f3fabd04
+
+Relatives gather next to the body of 29 year old Yana Rikhlitska, a
+Ukrainian army medic killed in the Bakhmut area, during the funeral in
+Vinnytsia, Ukraine, Tuesday, March 7, 2023. Just over a week ago, Yana
+Rikhlitska was filmed by The\...
+
+### Reuters
+
+#### Two of four Americans kidnapped by gunmen in Mexico found dead
+
+https://www.reuters.com/world/us/two-americans-kidnapped-mexico-are-alive-two-dead-2023-03-07/
+
+Mexicos Secretary of Security and Citizen Protection Rosa Icela
+Rodriguez, Secretary of Defense Luis Cresencio Sandoval, Secretary of
+the Navy Admiral Jose Rafael Ojeda and Tamaulipas State Governor Americo
+Villarreal\...
+
+#### China warns U.S. to stop suppression or risk 'conflict'
+
+https://www.reuters.com/world/china/china-says-if-us-does-not-change-path-towards-it-there-will-surely-be-conflict-2023-03-07/
+
+Journalists attend a news conference by Chinese Foreign Minister Qin
+Gang on the sidelines of the National Peoples Congress (NPC) in Beijing,
+China March 7, 2023. REUTERS/Thomas Peter Chinese Foreign Minister Qin
+Gang\...
+
+#### US Senator Schumer condemns Speaker McCarthy for supplying Jan.6 videos to Fox
+
+https://www.reuters.com/world/us/us-senator-schumer-condemns-speaker-mccarthy-supplying-jan6-videos-fox-2023-03-07/
+
+U.S. Senate Majority Leader Chuck Schumer (D-NY) speaks to the news
+media after attending a closed Senate Democratic Caucus lunch at the
+U.S. Capitol in Washington, D.C., U.S., March 2, 2023. REUTERS/Leah
+Millis U.S. House Speaker Kevin\...
+
+#### Japan runs record current account deficit in January
+
+https://www.reuters.com/markets/asia/japan-runs-record-current-account-deficit-january-2023-03-08/
+
+Coins and banknotes of Japanese yen are seen in this illustration
+picture taken June 16, 2022. REUTERS/Florence Lo/Illustration Japan
+logged a record current account deficit in January on persistent rises
+in the cost of importing fuel\...
+
+#### Russia says it is considering a challenge to US nominee to head World Bank
+
+https://www.reuters.com/markets/russia-says-it-is-considering-challenge-us-nominee-head-world-bank-2023-03-08/
+
+A participant stands near a logo of World Bank at the International
+Monetary Fund - World Bank Annual Meeting 2018 in Nusa Dua, Bali,
+Indonesia, October 12, 2018. REUTERS/Johannes P. Christo/File Photo
+Russia is consulting with its allies\...
+
+#### Pro-Ukraine group sabotaged pipelines, intelligence suggests, NYT reports
+
+https://www.reuters.com/world/europe/pro-ukraine-group-sabotaged-pipelines-intelligence-suggests-nyt-2023-03-08/
+
+Summary: No evidence Kyiv government involved in pipeline attack -report
+Russia pushes for independent probe of Nord Stream blasts Ukraine elects
+to fight on and defend Bakhmut in east Gas bubbles from the Nord Stream
+2 leak reaching\...
+
+#### Canada repeals historic laws targeting women, LGBTQ community
+
+https://www.reuters.com/world/americas/canada-repeals-historic-laws-targeting-women-lgbtq-community-2023-03-07/
+
+Canadas Minister for Women, Gender Equality and Youth Marci Ien speaks
+during Question Period in the House of Commons on Parliament Hill in
+Ottawa, Ontario, Canada February 1, 2022. REUTERS/Blair Gable Canada has
+expunged\...
+
+#### Nvidia, AMD grapple with latest U.S. curbs on China's Inspur
+
+https://www.reuters.com/world/china/us-reviewing-chinas-inspur-group-entity-listing-2023-03-07/
+
+The seal of the Department of Commerce is pictured in Washington, D.C.,
+U.S. March 10, 2017. REUTERS/Eric Thayer Nvidia Corp (NVDA.O), Advanced
+Micro Devices Inc (AMD.O) and other tech firms are scrambling to assess
+whether they must halt\...
+
+#### Fed's Powell sets the table for higher and possibly faster rate hikes
+
+https://www.reuters.com/markets/us/feds-powell-hill-appearance-update-views-status-disinflation-2023-03-07/
+
+Federal Reserve Chair Jerome H. Powell takes his seat to testify before
+a U.S. Senate Banking, Housing, and Urban Affairs Committee hearing on
+\"The Semiannual Monetary Policy Report to the Congress\" on Capitol
+Hill in Washington, U.S\...
+
+#### Biden aims to shore up Medicare by taxing high-income Americans
+
+https://www.reuters.com/world/us/biden-tax-high-earners-save-medicare-2023-03-07/
+
+U.S. President Joe Biden delivers remarks at the DNC 2023 Winter Meeting
+in Philadelphia, Pennsylvania, U.S., February 3, 2023. REUTERS/Elizabeth
+Frantz U.S. President Joe Biden will seek to raise the Medicare tax on
+high earners and push\...
+
+#### U.S. judge rules Missouri state gun law is unconstitutional
+
+https://www.reuters.com/world/us/us-judge-rules-missouri-state-gun-law-is-unconstitutional-2023-03-07/
+
+Guns are displayed at Shore Shot Pistol Range gun shop in Lakewood
+Township, New Jersey, U.S. March 19, 2020. REUTERS/Eduardo Munoz Guns
+are displayed at Shore Shot Pistol Range gun shop in Lakewood Township,
+New Jersey, U.S. March 19\...
+
+#### Georgians throw stones, petrol bombs at police in protest over new law
+
+https://www.reuters.com/world/europe/parliament-georgia-gives-initial-approval-foreign-agents-law-2023-03-07/
+
+Police use a water cannon to disperse protesters during a rally against
+the \"foreign agents\" law in Tbilisi, Georgia, March 7, 2023.
+REUTERS/Irakli Gedenidze Protesters gather in front of police officers,
+who block the way during a rally\...
+
+#### French nationwide strike to extend as pension reform fight intensifies
+
+https://www.reuters.com/world/europe/unions-seek-bring-france-halt-block-pension-reform-2023-03-07/
+
+Summary: Protests against plans to raise pension age to 64 Majority of
+voters reject reform Government, unions determined to stand their ground
+Protesters attend a demonstration against French governments pension
+reform\...
+
+### 联合早报
+
+#### 再多护栏也挡不住脱轨翻车 秦刚：美若再打压中国双方必冲突对抗
+
+https://www.zaobao.com/news/china/story20230308-1370306
+
+秦刚昨天首次在中国"两会"外长记者会上亮相，他以两名运动员在奥运田径赛跑来比喻中美关系，指一方不是想着如何跑出自己的最好成绩，而总是要去绊倒对方，甚至想让对方参加残奥会，"这不是公平竞争，而是恶意对抗，犯规了"......
+
+#### 秦刚：台湾问题处理不好 中美关系地动山摇
+
+https://www.zaobao.com/news/china/story20230308-1370307
+
+中国外长秦刚强调，台湾问题是中美关系第一条不可跨越的红线；台湾问题处理不好，中美关系地动山摇。
+秦刚星期二（3月7日）在中国两会外长记者会上回应有关台湾的提问时，首先拿出一本《中华人民共和国宪法》，并念出序言里的涉台内容，强调"台湾是中华人民共和国的神圣领土的一部分。完成统一祖国的大业，是包括台湾同胞在内的全中国人民的神圣职责。"
+他接着表明，解决台湾问题是中国人自己的事，任何外国都无权干涉......
+
+#### 不再被称为"中国战狼" 秦刚笑言若有所失
+
+https://www.zaobao.com/news/china/story20230308-1370308
+
+中国外长秦刚在两会外长记者会上回应有关台湾的提问时，举起桌上红色的《中华人民共和国宪法》册子，念出序言中的有关台湾的内容。（彭博社）
+中国外长秦刚称，在他回国当外长后，美国媒体不再称他"中国战狼"，令他"若有所失"。
+过去以风格"刚猛"著称的秦刚星期二（3月7日）首次以外长身份亮相两会记者会......
+
+#### 应对持续升级中美对抗态势 国务院改革提高金融科技等部门职能
+
+https://www.zaobao.com/news/china/story20230308-1370309
+
+武汉光谷自贸研究院院长陈波分析，金融监管机构和其他政府机构相比，在人员待遇和行使职权方面都更具独立性，这可能间接助长腐败和风险滋生。
+中国国务院机构改革方案星期二（3月7日）出炉，通过整改金融和科技等领域，使核心关键部门的职能更专注与高效，以应对持续升级的中美对抗态势和防范系统风险。
+这项改革方案当日在全国人大第二次全体会议上由国务委员兼国务院秘书长肖捷说明......
+
+#### 栗战书总结近五年人大工作 加快涉外立法维护国家利益
+
+https://www.zaobao.com/news/china/story20230308-1370311
+
+中国全国人大常委会委员长栗战书说，全国人大过去五年加快国家安全领域立法，把维护国家安全放在立法工作的重要位置，同时还坚决维护国家主权安全利益，坚持对等原则对有关国家议员采取反制措施。
+即将卸任的栗战书，星期二（3月7日）下午在全国人大会议上，宣读任内最后一份全国人大常委会工作报告......
+
+#### 中国两高维安扫黑 过去五年共起诉827万3000人
+
+https://www.zaobao.com/news/china/story20230308-1370312
+
+中国两高（最高人民法院、最高人民检察院）近年加大力度维护国家安全和扫黑除恶，全国检察机关过去五年起诉827万3000人，比前一个五年上升12％，其中判处776万1000人。
+两高也宣示，今年将更好统筹发展和安全，严厉打击境内外敌对势力渗透、破坏、颠覆、分裂活动。
+中国最高法院长周强与最高检察院检察长张军，星期二（3月7日）先后在全国人大会议上作工作报告，强调两高过去五年坚决维护国家安全、社会安定......
+
+#### 发布重污橙色预警 北京不见"两会蓝"
+
+https://www.zaobao.com/news/china/story20230308-1370313
+
+中国全国两会上周末开幕，但北京空气有雾霾，不见"两会蓝"。所谓"两会蓝"，指的是中国两会期间良好的天气状况及空气质量，而这通常是因为地方领导在重大活动期间对空气污染活动采取了严厉的整治手段。中国国家大气污染防治攻关联合中心说，围绕北京的13座城市在星期天（3月5日）发布了重污染天气橙色预警，这是第二高的警报级别......
+
+#### 蔡天凤碎尸案再一嫌犯被捕
+
+https://www.zaobao.com/news/china/story20230308-1370314
+
+香港名媛蔡天凤碎尸案再有一名嫌犯被捕，这名29岁的嫌犯为蔡天凤前夫邝港智的女性友人，她是在中国大陆被公安抓捕后移交给香港警方。
+综合《星岛日报》《明报》、网媒"香港01"报道，女嫌犯的洋名为"Irene"，因疑似协助罪犯而被捕。此前，为免受到牵连，她逃到深圳暂避风头，但香港执法部门掌握信息后，向大陆方面要求协助拘捕。有消息说，Irene为香港的大陆新移民，在大陆有居所......
+
+#### 早 说
+
+https://www.zaobao.com/news/china/story20230308-1370315
+
+有人说我是澳门人，有人说我是香港人，我会说我是大湾区人。大湾区内，九个内地城市和两个特区，大家同饮一江水，同享千年岭南文化，都喜欢吃皮蛋瘦肉粥，也都具备吃苦耐劳的品德。
+------中国全国政协委员、信德集团董事长，也是已故澳门赌王何鸿燊女儿的何超琼星期二（3月7日）在全国政协十四届一次会议第二场"委员通道"集体采访活动中被问及粤港澳大湾区的发展时如是说......
+
+#### 中美对抗不再是两会"房间里的大象"
+
+https://www.zaobao.com/news/china/story20230308-1370316
+
+在各界瞩目中，新任中国外交部长秦刚星期二（3月7日）首次亮相两会（全国人大、政协年会）记者会。
+与他的前任王毅相比，这名"60后"外交高官在首秀中略显拘谨，表情和肢体语言不多。近两个小时的记者会上，秦刚总共回答14道中外记者提问，比去年两会上，王毅外长的记者会少了近一半。
+不过，中美关系、俄乌战争、台海问题等重大课题，秦刚都没有回避......
+
+#### 台湾为免激怒北京 传麦卡锡访台改为在加州会蔡英文
+
+https://www.zaobao.com/news/china/story20230308-1370317
+
+据外媒报，蔡英文将在4月初走访中美洲两个邦交国途中过境美国，并与众议院议长麦卡锡会面。消息说，蔡政府团队说服麦卡锡将访台计划改为在加州会见，以免激怒中国大陆。
+台湾总统蔡英文据称将在4月初过境访美，在加州会见美国众议院议长麦卡锡，并走访纽约。消息说，蔡政府团队说服麦卡锡将访台计划改为在加州会见，以免激怒中国大陆......
+
+#### 邱国正证实与美磋商 将东亚增加军备库存放到台湾
+
+https://www.zaobao.com/news/china/story20230308-1370318
+
+台湾国防部长邱国正证实，正与美国磋商将东亚增加的军备库存改放到台湾，外界担忧台海危机可能升温。
+行政院长陈建仁星期二（3月7日）在立法院会备询时表示，这件事情还在研议，没有具体的方案。他说，美台都有维持印太地区自由开放的共同理念，所以会继续合作，"要努力备战，才能避战；要能战，才能止战"。
+数位国民党立委质询，建议政府除了以备战来避战外，也应思考两岸和平之道......
+
+#### 南京牛首山 春日好风光
+
+https://www.zaobao.com/news/china/story20230308-1370319
+
+游客3月7日在江苏南京牛首山参观佛顶宫，感受神秘与静谧。牛首山位于南京市南郊，因山顶突出的双峰相对峙恰似牛头双角而得名。每年春季，慕名而来踏青的游人络绎不绝。现有佛顶寺、佛顶塔、佛顶宫、岳飞抗金故垒、摩崖石刻、弘觉寺塔等人文景观。佛顶宫属于深坑建筑，其外部空间分为大穹顶、小穹顶和佛顶摩崖三大部分，内部空间共九层，地上三层、地下六层......
+
+#### 亿万富翁墨比尔斯称 无法将资金转出中国
+
+https://www.zaobao.com/news/china/story20230308-1370320
+
+亿万富翁墨比尔斯称，中国正在限制资金流出，自己也无法将钱从上海汇丰银行的个人户头中转出境。（路透社）
+亿万富翁纽约基金经理人墨比尔斯称，无法将资金从上海汇丰银行户头转出中国。汇丰银行中国部门对此回应称，尚未收到监管机构要求限制对外汇款的通知，并且不知道最近的资本外流限制......
+
+#### 澳总理：若受邀访华他会接受
+
+https://www.zaobao.com/news/china/story20230307-1370059
+
+澳大利亚总理阿尔巴尼斯认为，中澳关系变得更稳定是好事，并说如果他受邀访问中国，他会接受这项邀请。
+据路透社报道，阿尔巴尼斯星期二（3月7日）在《澳洲金融评论》峰会上说："我认为，中澳关系变得更加稳定是一件好事。我们要一个更加稳定、安全的地区。"
+中国是澳洲最大的贸易伙伴国，但中澳关系早前曾陷入低谷，澳洲指中国对多个澳洲出口商品实施贸易封锁。
+阿尔巴尼斯去年上台后，中澳关系有回暖的迹象......
+
+#### 向市场信心喊话 发改委：消费将成今年增长主拉动力
+
+https://www.zaobao.com/news/china/story20230307-1369957
+
+中国发改委副主任赵辰昕星期一在聚焦中国高质量发展的新闻发布会上，评估5％左右的预期增长目标符合经济运行走势，以及经济发展规律。
+中国国家发展和改革委员会官员评估，近九成省市区提出的经济增长目标高于全国，为实现今年设定的5％全国经济增长目标创造条件及打下基础。他们同时还指出，消费能成为今年增长的主拉动力，明显向市场进行信心喊话......
+
+#### 英媒：北京要求港政商界人士 放弃外国护照才能当选人大代表
+
+https://www.zaobao.com/news/china/story20230307-1369960
+
+英媒报道称，北京要求香港政商界人士放弃外国护照，否则不能当选中国全国人大代表。
+英国《金融时报》引述一名全国人大新代表、一名前代表，以及一名了解遴选过程的人士做如上表述，并称至少有一名计划寻求连任的港区全国人大代表，因持有英国国民海外护照（BNO）而无法当选新一届代表。
+最新一届香港区全国人民代表大会共有36名代表......
+
+#### 早说
+
+https://www.zaobao.com/news/china/story20230307-1369961
+
+ChatGPT之所以引起关注，因为它是一个大模型、大数据，计算方法也有进步。同一种原理，但做的质量还是不一样的。就像踢足球都是盘带、射门，但要做到梅西那么好也不容易。
+------中国科技部部长王志刚星期天（3月5日）在中国全国人大"部长通道"采访活动上，回应记者有关ChatGPT的问题时，做出上述比喻......
+
+#### 戴庆成：白罗斯开设驻港领馆的意义
+
+https://www.zaobao.com/news/china/story20230307-1369962
+
+俄乌战争爆发一周年之际，中国政府上星期以国事访问的高规格形式接待莫斯科盟友------白罗斯总统卢卡申科，不禁令外界联想到中俄两国似乎要越走越近。白罗斯在香港开设领事馆，相对的没有引起太多人关注。
+大使馆是一国在邦交国首都设立的最高级外交代表机构，代表该国派驻邦交国处理两国外交事务；领事馆则通常设在首都以外的大城市，主要负责签证发放、保护和协助侨民......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

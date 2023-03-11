@@ -1,0 +1,1006 @@
+Other formats: [PDF](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/webdigest/WebDigest-20230311.pdf--7ce90db076cb29f5a5f636fedff05cf2.pdf) / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20230311.html)
+
+
+# Web Digest 2023-03-11
+
+
+## Developers
+
+### Hacker News
+
+#### \$Roku filed a Form 8-K revealing that \$487M stuck at SVB (25% of cash)
+
+https://vikashruhil.medium.com/roku-filed-an-8-k-saying-that-of-its-1-9-dc03147d4d58
+
+https://news.ycombinator.com/item?id=35102339
+
+#### The Collapse of SVB Exposes the Largest Crack in the Economy
+
+http://www.brooock.com/a/svb-collapse-exposes-cracks-in-economy
+
+https://news.ycombinator.com/item?id=35101102
+
+#### 30% of YC companies exposed through SVB can't make payroll in the next 30 days
+
+https://twitter.com/garrytan/status/1634286688922132481
+
+https://news.ycombinator.com/item?id=35100743
+
+#### Twitter's \$42k-per-month API prices out nearly everyone
+
+https://www.wired.com/story/twitter-data-api-prices-out-nearly-everyone/
+
+https://news.ycombinator.com/item?id=35100176
+
+#### LLaMA-7B in Pure C++ with full Apple Silicon support
+
+https://github.com/ggerganov/llama.cpp
+
+https://news.ycombinator.com/item?id=35100086
+
+#### Shane Pitman, leader of the warez group Razor 1911: life after prison (2005)
+
+https://defacto2.net/f/ab3914
+
+https://news.ycombinator.com/item?id=35099656
+
+#### Evidence of a predictive coding hierarchy in the human brain listening to speech
+
+https://www.nature.com/articles/s41562-022-01516-2
+
+https://news.ycombinator.com/item?id=35098830
+
+#### The Demise of Silicon Valley Bank
+
+https://www.netinterest.co/p/the-demise-of-silicon-valley-bank
+
+https://news.ycombinator.com/item?id=35098607
+
+#### FDIC Takes over Silicon Valley Bank
+
+https://www.fdic.gov/news/press-releases/2023/pr23016.html
+
+https://news.ycombinator.com/item?id=35096877
+
+#### Oxy is Cloudflare's Rust-based next generation proxy framework
+
+https://blog.cloudflare.com/introducing-oxy/
+
+https://news.ycombinator.com/item?id=35096691
+
+#### Apple and Foxconn win permission for 12-hour shifts for women in India
+
+https://gadgettendency.com/apple-and-foxconn-win-permission-for-12-hour-shifts-and-night-shifts-for-women-at-iphone-production-in-india/
+
+https://news.ycombinator.com/item?id=35096565
+
+#### Launch HN: Defer (YC W23) -- Zero-infrastructure background jobs for Node.js
+
+https://news.ycombinator.com/item?id=35096366
+
+https://news.ycombinator.com/item?id=35096366
+
+#### KGB Defector Yuri Bezmenov 1985 Interview -- Idealogical Subversion
+
+https://www.youtube.com/watch?v=pOmXiapfCs8
+
+https://news.ycombinator.com/item?id=35095958
+
+#### Giving the finger is a 'God-given right', Canadian judge rules
+
+http://citoyens.soquij.qc.ca/php/decision.php?ID=B40649560046AC98B6BC3AA9D9C409F7
+
+https://news.ycombinator.com/item?id=35095832
+
+#### A rant on web font licenses
+
+https://manuelmoreale.com/a-rant-on-web-font-licenses
+
+https://news.ycombinator.com/item?id=35095393
+
+#### Smartphones and social media are destroying children's mental health
+
+https://www.ft.com/content/0e2f6f8e-bb03-4fa7-8864-f48f576167d2
+
+https://news.ycombinator.com/item?id=35095031
+
+#### Telehealth startup Cerebral shared millions of patients' data with advertisers
+
+https://techcrunch.com/2023/03/10/cerebral-shared-millions-patient-data-advertisers/
+
+https://news.ycombinator.com/item?id=35094866
+
+#### Mullvad's campaign against EU chat control
+
+https://mullvad.net/en/chatcontrol/campaign
+
+https://news.ycombinator.com/item?id=35094627
+
+#### Dutch police collecting demonstrators' personal data on a large scale
+
+https://nltimes.nl/2023/03/10/police-collecting-demonstrators-personal-data-large-scale
+
+https://news.ycombinator.com/item?id=35094574
+
+#### SVB in talks to sell itself after attempts to raise capital fail
+
+https://www.cnbc.com/2023/03/10/silicon-valley-bank-financial-in-talks-to-sell-itself-after-attempts-to-raise-capital-have-failed-sources-say.html
+
+https://news.ycombinator.com/item?id=35094466
+
+### Phoronix
+
+#### Radeon ProRender SDK 3.1 Released - Finishes Transition From OpenCL To HIP
+
+https://www.phoronix.com/news/Radeon-ProRender-SDK-3.1
+
+#### Linux 6.4 Slated To Start Removing Old, Unused & Unmaintained PCMCIA Drivers
+
+https://www.phoronix.com/news/Linux-6.4-PCMCIA-Char-Dropping
+
+#### Box86 v0.3 & Box64 v0.2.2 Released For Running Linux x86/x86_64 Programs On Arm
+
+https://www.phoronix.com/news/Box86-0.3-Box64-0.2.2
+
+#### OpenBSD Finally Adds Guided Disk Encryption To Its Installer
+
+https://www.phoronix.com/news/OpenBSD-Guided-Disk-Encryption
+
+#### Lenovo Begins Supporting LinuxBoot Firmware With ByteDance
+
+https://www.phoronix.com/news/Lenovo-LinuxBoot-ByteDance
+
+#### Embree 4.0.1 Released With Intel Data Center GPU Flex Series Support
+
+https://www.phoronix.com/news/Intel-Embree-4.0.1
+
+#### Chrome 112 Beta Released With CSS Nesting, WebAssembly Tail Call
+
+https://www.phoronix.com/news/Chrome-112-Beta
+
+#### AMD Releases AOMP 17.0-0 For Latest Radeon OpenMP Offloading Compiler
+
+https://www.phoronix.com/news/AMD-AOMP-17.0-0
+
+#### The Technical Workloads Where AMD Ryzen 9 7900X3D/7950X3D CPUs Are Excellent
+
+https://www.phoronix.com/review/amd-7900x3d-7950x3d
+
+### GitHub
+
+#### TheLastBen/fast-stable-diffusion
+
+https://github.com/TheLastBen/fast-stable-diffusion
+
+fast-stable-diffusion + DreamBooth\
+Language: Python\
+Stars: 4436\
+Forks: 703
+
+#### sindresorhus/awesome
+
+https://github.com/sindresorhus/awesome
+
+😎 Awesome lists about all kinds of interesting topics\
+Language: Unknown\
+Stars: 242717\
+Forks: 25117
+
+#### mli/paper-reading
+
+https://github.com/mli/paper-reading
+
+深度学习经典、新论文逐段精读\
+Language: Unknown\
+Stars: 14927\
+Forks: 1462
+
+#### openxla/xla
+
+https://github.com/openxla/xla
+
+A machine learning compiler for GPUs, CPUs, and ML accelerators\
+Language: C++\
+Stars: 628\
+Forks: 42
+
+#### iptv-org/iptv
+
+https://github.com/iptv-org/iptv
+
+Collection of publicly available IPTV channels from all over the world\
+Language: JavaScript\
+Stars: 62603\
+Forks: 25
+
+#### pydantic/pydantic
+
+https://github.com/pydantic/pydantic
+
+Data validation using Python type hints\
+Language: Python\
+Stars: 12805\
+Forks: 1181
+
+#### OWASP/API-Security
+
+https://github.com/OWASP/API-Security
+
+OWASP API Security Project\
+Language: Unknown\
+Stars: 1369\
+Forks: 297
+
+### Dribbble
+
+#### Macy's Flower Show
+
+https://dribbble.com/shots/20849367
+
+#### Tokenex Website Design: business landing web page, site designer
+
+https://dribbble.com/shots/20495133
+
+#### Bookmarks
+
+https://dribbble.com/shots/20834253
+
+#### Acorn
+
+https://dribbble.com/shots/20839310
+
+#### \[B\]\[P\] 0 → 1
+
+https://dribbble.com/shots/20822784
+
+#### \[P\] 0 → 1
+
+https://dribbble.com/shots/20822771
+
+#### Custo App Page
+
+https://dribbble.com/shots/20867393
+
+#### Logo, Branding, Mark, Symbol, Modern, Floral, Logos
+
+https://dribbble.com/shots/20866058
+
+#### OpenColony Brand identity illustrations guide, illustrator
+
+https://dribbble.com/shots/20495249
+
+#### Branding: logo design, visual identity
+
+https://dribbble.com/shots/20781786
+
+#### Proemion Branding, visual identity, corporate brand design
+
+https://dribbble.com/shots/20494846
+
+#### NXNDigital Branding
+
+https://dribbble.com/shots/20782421
+
+#### Digital Health Applications: Illustration for UX Benchmark
+
+https://dribbble.com/shots/20839707
+
+#### Ninox Branding, visual identity, corporate brand design
+
+https://dribbble.com/shots/20494766
+
+#### Propology - Logo Design Project
+
+https://dribbble.com/shots/20837017
+
+#### 3D Modeling for UX/UI Design
+
+https://dribbble.com/shots/20861490
+
+#### Nuntio Logo Design
+
+https://dribbble.com/shots/20834590
+
+#### Media Player Mobile App design: iOS Android ux ui designer
+
+https://dribbble.com/shots/20640052
+
+#### Nuntio Logo Design Process
+
+https://dribbble.com/shots/20858036
+
+#### Mighty Billboard
+
+https://dribbble.com/shots/20848651
+
+#### DROP --- UI animations
+
+https://dribbble.com/shots/20845813
+
+#### 3D Modeling for UX/UI Design
+
+https://dribbble.com/shots/20834446
+
+#### Datum Branding, visual identity, corporate brand design
+
+https://dribbble.com/shots/20495182
+
+#### Widakk Design
+
+https://dribbble.com/shots/20845476
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### CRISPR 疗法准备就绪
+
+https://www.solidot.org/story?sid=74360
+
+#### 小行星在 2046 年有 1/560 几率与地球相撞
+
+https://www.solidot.org/story?sid=74359
+
+#### cURL 庆祝 25 周年
+
+https://www.solidot.org/story?sid=74358
+
+#### 多模态 GPT-4 大语言模型将在下周发布
+
+https://www.solidot.org/story?sid=74357
+
+#### 微软必应日活跃用户突破 1 亿
+
+https://www.solidot.org/story?sid=74356
+
+#### Google 掏出失败的 Google+ 剧本去对抗 ChatGPT
+
+https://www.solidot.org/story?sid=74355
+
+#### 字节跳动支持自由固件
+
+https://www.solidot.org/story?sid=74354
+
+#### 澳大利亚的丛林大火如何撕裂臭氧层
+
+https://www.solidot.org/story?sid=74353
+
+#### AI 聊天机器人带来的挑战
+
+https://www.solidot.org/story?sid=74352
+
+#### 日本科学家将雄鼠体细胞变成卵细胞并产下后代
+
+https://www.solidot.org/story?sid=74351
+
+#### Valve 称下一代 Steam Deck 要过好几年才会发布
+
+https://www.solidot.org/story?sid=74350
+
+#### 美国 FBI 承认购买过位置数据
+
+https://www.solidot.org/story?sid=74349
+
+#### Google Groups 被任其死亡
+
+https://www.solidot.org/story?sid=74348
+
+#### 百度的 "文心一言"还在加紧测试
+
+https://www.solidot.org/story?sid=74347
+
+#### Google 通知员工今年减少升职加薪
+
+https://www.solidot.org/story?sid=74346
+
+#### 荷兰限制出口先进光刻机
+
+https://www.solidot.org/story?sid=74345
+
+#### 大众宣布汽车跟踪紧急服务免费
+
+https://www.solidot.org/story?sid=74344
+
+#### 微软测试资源管理器文件推荐功能
+
+https://www.solidot.org/story?sid=74343
+
+#### 科学家被撤稿后再次宣称创造室温超导
+
+https://www.solidot.org/story?sid=74342
+
+#### 假如火星和木星之间有一颗类地行星
+
+https://www.solidot.org/story?sid=74341
+
+### V2EX
+
+#### \[OpenAI\] Visual ChatGPT 微软图文聊天库
+
+https://www.v2ex.com/t/923065
+
+#### \[分享发现\] 自建 chatgpt 聊天页面，限时分享体验
+
+https://www.v2ex.com/t/923064
+
+#### \[游戏开发\] Houdini Unity 音乐驱动场景
+
+https://www.v2ex.com/t/923063
+
+#### \[问与答\] ssd 一天就坏了?
+
+https://www.v2ex.com/t/923062
+
+#### \[北京\] 北京有靠谱的咖啡机修理师傅吗？
+
+https://www.v2ex.com/t/923060
+
+#### \[酷工作\] 招聘一名 haskell/rust 开发者（远程全职， 35k/月）
+
+https://www.v2ex.com/t/923059
+
+#### \[程序员\] 自建产品海外收费方案
+
+https://www.v2ex.com/t/923058
+
+#### \[Android\] 各位有靠谱的购买二手 Pixel 手机的渠道吗？
+
+https://www.v2ex.com/t/923057
+
+#### \[程序员\] 这 2 天美股被加密货币 SG 银行拖进去, 如果发展为经济危机, 普通人怎么才能度过? 哪个行业在危机中反而有收益
+
+https://www.v2ex.com/t/923055
+
+#### \[程序员\] 写好的 macos app 怎么测试？
+
+https://www.v2ex.com/t/923054
+
+#### \[程序员\] 我在 Windows 下不用 WSL 而使用 MinGW + scoop 的一些理由
+
+https://www.v2ex.com/t/923053
+
+#### \[酷工作\] 阿里巴巴钉钉 2024 界实习生招聘
+
+https://www.v2ex.com/t/923052
+
+#### \[Apple\] M2 Mac mini 外接硬盘推荐求
+
+https://www.v2ex.com/t/923050
+
+#### \[Telegram\] 如何售卖 telegram 用户名？
+
+https://www.v2ex.com/t/923049
+
+#### \[程序员\] macos 上怎么编译出 portable nginx? 就像 windows 上的绿色软件一样
+
+https://www.v2ex.com/t/923048
+
+#### \[宽带症候群\] TPLINK 双宽带接入后通过策略路由指定所有流量走 WAN1 口，网络会不稳定
+
+https://www.v2ex.com/t/923047
+
+#### \[Rust\] 这个 pull request 有啥问题，编译不报错，一运行就出莫名其妙得问题
+
+https://www.v2ex.com/t/923046
+
+#### \[宽带症候群\] ubuntu 的 wifi 上下行速度不一致，这正常吗
+
+https://www.v2ex.com/t/923044
+
+#### \[程序员\] 基于 Whisper 实现语音版 ChatGPT 的详细教程写好了
+
+https://www.v2ex.com/t/923043
+
+#### \[程序员\] 英特尔 13 代无缘 win10 了， 11bug 太多最终回到 debian，顺便问下 win 离电开省电有没有办法不卡
+
+https://www.v2ex.com/t/923042
+
+#### \[宽带症候群\] 为什么我的端口转发无法生效啊， socat.折腾了一晚上了还是没搞好。。求助
+
+https://www.v2ex.com/t/923041
+
+#### \[问与答\] 想问下如何改善 windows11 下新版记事本的字体渲染效果
+
+https://www.v2ex.com/t/923040
+
+#### \[Bing\] 手机 bing 老是自动切换到国区
+
+https://www.v2ex.com/t/923039
+
+#### \[OpenAI\] Chat GPT PLUS 会员
+
+https://www.v2ex.com/t/923038
+
+#### \[分享创造\] V2EX 的朋友们大家晚上好！
+
+https://www.v2ex.com/t/923036
+
+#### \[上海\] 因露宿街头 出上海居住证 2 份
+
+https://www.v2ex.com/t/923035
+
+#### \[程序员\] 有公司存款放在 sivb 的么。。。
+
+https://www.v2ex.com/t/923034
+
+#### \[酷工作\] \[赴日工作移民\] 对日外包开发招聘第 10 波！
+
+https://www.v2ex.com/t/923033
+
+#### \[程序员\] 为什么 mac 每过一段时间解锁屏幕鼠标一直加载中很卡？
+
+https://www.v2ex.com/t/923032
+
+#### \[硬件\] 三月性价比 PCIE4.0 固态硬盘决赛圈 C4000 KP260 KC3000 选哪个？
+
+https://www.v2ex.com/t/923031
+
+#### \[Linux\] 不花钱提升工作笔记本的电池续航
+
+https://www.v2ex.com/t/923028
+
+#### \[程序员\] AGPL 协议的开源软件可以同时上架 App store 卖钱吗？部分功能需要内购，代码同样开源但开源版构建脚本不会包含这些模块
+
+https://www.v2ex.com/t/923027
+
+#### \[Google\] Google Workspace 4 月 11 日将再次涨价
+
+https://www.v2ex.com/t/923026
+
+#### \[问与答\] 想持有一张国外的银行储值卡
+
+https://www.v2ex.com/t/923024
+
+#### \[问与答\] 请问找人做一个简单的 iOS 端 App 要多少钱？
+
+https://www.v2ex.com/t/923023
+
+#### \[程序员\] 一个基于微信公众号的 ChatGPT，送给有兴趣的小伙伴们！
+
+https://www.v2ex.com/t/923022
+
+#### \[程序员\] 没有社保如何开中国银行一类卡
+
+https://www.v2ex.com/t/923021
+
+#### \[分享创造\] DIY 了一个专门贴样板的贴片机，这里搞电路的人貌似挺多的
+
+https://www.v2ex.com/t/923020
+
+#### \[问与答\] 有些网站要英语地址证明，但能拿到的证明都是中文的，这时候需要的"公正翻译"是指什么？淘宝上随便找一家能盖章的就行吗，海外是有什么标准或者大的翻译平台吗
+
+https://www.v2ex.com/t/923019
+
+#### \[程序员\] MacOS 怎么隔离多个用户的数据？
+
+https://www.v2ex.com/t/923017
+
+#### \[问与答\] iOS 14.7.1，有越狱成功的 v 友吗？
+
+https://www.v2ex.com/t/923016
+
+#### \[Apple\] mas 管理 app 有什么好处呢？
+
+https://www.v2ex.com/t/923015
+
+#### \[Java\] bio, nio, aio 的区别到底是什么，能不能说一下具体的使用场景
+
+https://www.v2ex.com/t/923012
+
+#### \[酷工作\] 一些小模块或组件外包，招 PHP /JS 兼职开发人员
+
+https://www.v2ex.com/t/923010
+
+#### \[问与答\] 自行车骑行，有什么比较好的导航方案吗
+
+https://www.v2ex.com/t/923008
+
+#### \[iOS\] 求一个 Apple 开发者账号的车
+
+https://www.v2ex.com/t/923007
+
+#### \[Apple\] Apple TV 4K 兼容非 4K 电视吗？
+
+https://www.v2ex.com/t/923004
+
+#### \[职场话题\] 接了个小单不给钱
+
+https://www.v2ex.com/t/923003
+
+#### \[程序员\] 资金如何低成本转入香港账户
+
+https://www.v2ex.com/t/923001
+
+## Generic News
+
+### AP News
+
+#### Ex-Alabama player Miles indicted on capital murder charges
+
+https://apnews.com/article/887b6419c4b576da778b710a58b8acf7
+
+FILE - Alabama forward Darius Miles looks to pass in the second half an
+NCAA college basketball game against LSU in Baton Rouge, La., March 5,
+2022. Former Alabama basketball player Darius Miles has been indicted by
+a grand jury on\...
+
+#### New this week: 'Ted Lasso,' U2 and 'The Boston Strangler'
+
+https://apnews.com/article/211eb0a5b4f8606f313c523c790f49d1
+
+This combination of images shows promotional art for \"Ted Lasso,\" the
+Apple TV+ series premiering its season three on March 15, left, \"Boston
+Strangler,\" a film premiering March 17 on Hulu, center, and \"Agent
+Elvis,\" an animated series\...
+
+#### Why would Russia use hypersonic missile to strike Ukraine?
+
+https://apnews.com/article/e0dc1e20e9dd53528c5381ca5fdee66a
+
+FILE - Russian Tu-22M-3 long-range bombers fly during the Victory Day
+military parade marking 71 years after the victory in WWII in Red Square
+in Moscow, Russia, Monday, May 9, 2016. The latest Russian missile
+barrage against Ukraine's\...
+
+#### NOT REAL NEWS: A look at what didn't happen this week
+
+https://apnews.com/article/3c99392cf9be04e2338b1279d7c03f8d
+
+FILE - FILE - In this Jan. 6, 2021 file photo, supporters of President
+Donald Trump, including Jacob Chansley, right with fur hat, are
+confronted by U.S. Capitol Police officers outside the Senate Chamber
+inside the Capitol in Washington\...
+
+#### 9th grader sues over Pledge of Allegiance confrontation
+
+https://apnews.com/article/77c0adcde3759b14d9b038c4ba20041a
+
+Marissa Barnwell, a River Bluff High School student, her parents and
+their lawyer, Tyler Bailey, hold a news conference in Columbia, S.C., on
+Thursday, March 9, 2023, regarding a lawsuit filed against Lexington
+School District One\...
+
+#### Standard time giving way to daylight saving in most of US
+
+https://apnews.com/article/24cd5e37b6cf9768edeee11f64587d37
+
+FILE - Dan LaMoore adjusts the hands on a Seth Thomas Post Clock at
+Electric Time Company, Oct. 23, 2020, in Medfield, Mass. Standard time
+comes to an end in most parts of the United States this weekend. You'll
+lose an hour of sleep for\...
+
+#### Atmospheric rivers flood California with more rain, snow
+
+https://apnews.com/article/a6ee9e41a31ba31a959c5aceb4d89111
+
+Crews assess storm damage, which washed out North Main Street in Soquel,
+Calif., Friday, March 10, 2023. (AP Photo/Nic Coury) SANTA CRUZ, Calif.
+(AP) --- More than 9,000 California residents were under evacuation
+orders Friday as a new\...
+
+#### Here's how the 4 Americans abducted in Mexico were found
+
+https://apnews.com/article/a3e563073079b5634a9146ae358694e4
+
+Today would have been Shaeed Woodard's 34th birthday, according to his
+father, James Woodard. (March 9) A Mexican police investigator inspects
+the minivan where four Americans where shot and taken from the previous
+week, at the Tamaulipas\...
+
+#### Florida abortion ban could have impact beyond the state
+
+https://apnews.com/article/b5ccc8e49d00ff3b17b44a2bd533d35b
+
+FILE - Florida Gov. Ron DeSantis answers questions from the media in the
+Florida Cabinet following his State of the State address during a joint
+session of the Senate and House of Representatives Tuesday, March 7,
+2023, at the Capitol in\...
+
+#### House votes to declassify info about origins of COVID-19
+
+https://apnews.com/article/7018f8016c7346cfaa8193933ec10063
+
+FILE - This 2020 electron microscope image made available by the Centers
+for Disease Control and Prevention shows SARS-CoV-2 virus particles,
+which cause COVID-19. The House voted unanimously Friday, March 10,
+2023, to declassify U.S\...
+
+#### Pandemic 3 years later: Has the COVID-19 virus won?
+
+https://apnews.com/article/59f39df14ddf65f786d3437cc9a52e54
+
+FILE - A person is taken on a stretcher into the United Memorial Medical
+Center after going through testing for COVID-19 Thursday, March 19,
+2020, in Houston. On the third anniversary of the COVID-19 pandemic in
+2023, the virus is still\...
+
+#### The view from above the Oscars: The slap, the snafu, Spike
+
+https://apnews.com/article/b7c595f40577da28a00dc352ced7164e
+
+FILE - \"La La Land\" producer Jordan Horowitz, left, presenter Warren
+Beatty, center, and host Jimmy Kimmel right, look at an envelope
+announcing \"Moonlight\" as best picture at the Oscars on Sunday, Feb.
+26, 2017, in Los Angeles. It was\...
+
+#### In a first since 1961, the Oscars carpet will not be red
+
+https://apnews.com/article/fd4e6f4694056289aed979d1639fda78
+
+A crew member staples the white carpet to the ground in preparation for
+Sundays 95th Academy Awards, Wednesday, March 8, 2023, outside the Dolby
+Theatre in Los Angeles. (AP Photo/Chris Pizzello) Oscars host Jimmy
+Kimmel\...
+
+### Reuters
+
+#### German police storm Karlsruhe pharmacy, arrest suspected hostage-taker
+
+https://www.reuters.com/world/europe/german-police-say-multiple-hostages-held-karlsruhe-pharmacy-2023-03-10/
+
+Summary: Special unit stormed pharmacy, explosions sounded Arrest took
+place nearly 5 hours after police came to scene No injuries; male
+suspect arrested - police German police vehicles are seen at the scene
+of a hostage situation inside\...
+
+#### Five men arrested in Mexico over killings of Americans
+
+https://www.reuters.com/world/americas/five-people-mexico-held-over-killings-americans-state-prosecutor-2023-03-10/
+
+Soldiers stand guard outside the Forensic Medical Service morgue
+building ahead of the transfer of the bodies of two of four Americans
+kidnapped by gunmen to the U.S. border, in Matamoros, Mexico, March 9,
+2023. REUTERS/Daniel Becerril\...
+
+#### Ukraine orders Russian-aligned Orthodox church to leave Kyiv monastery
+
+https://www.reuters.com/world/europe/ukraine-orders-russian-aligned-orthodox-church-leave-kyiv-monastery-2023-03-10/
+
+A view shows the Great Bell Tower of the Kyiv Pechersk Lavra monastery,
+amid Russias attack on Ukraine, in Kyiv, Ukraine January 6, 2023.
+REUTERS/Valentyn Ogirenko Ukrainian officials on Friday ordered a
+historically\...
+
+#### Iran and Saudi Arabia agree to resume ties in talks brokered by China
+
+https://www.reuters.com/world/middle-east/iran-saudi-arabia-agree-resume-ties-re-open-embassies-iranian-state-media-2023-03-10/
+
+Summary: Saudi Arabia has blamed Iran for attacks, which Iran denies
+China hails deal as a victory for dialogue Agreement announced after
+four days of talks in Beijing The Iranian flag waves in front of the
+International Atomic Energy\...
+
+#### Lineker pulled from BBC presenting after migration row
+
+https://www.reuters.com/world/uk/lineker-step-back-bbc-presenting-after-migration-row-2023-03-10/
+
+Summary: Lineker presents flagship Match of the Day programme Ex-England
+captain criticised Britains migration policy BBC says Linekers recent
+tweets breached guidance BBC wants agreement with Lineker on\...
+
+#### German police at scene at hostage situation at Karlsruhe pharmacy
+
+https://www.reuters.com/world/europe/german-police-investigate-possible-hostage-situation-karlsruhe-pharmacy-2023-03-10/
+
+Summary: Police say large deployment sent to Karlsruhe hostage situation
+City centre cordoned off, police urge residents to stay away No danger
+to the broader public, police spokesperson German police sealed the area
+at the scene of a\...
+
+#### Reaction to Iran and Saudi Arabia resuming ties
+
+https://www.reuters.com/world/middle-east/reaction-iran-saudi-arabia-resuming-ties-2023-03-10/
+
+FILE PHOTO-Iranian Foreign Minister Hossein Amirabdollahian speaks
+during a joint news conference with Syrian Foreign Minister Faisal
+Mekdad in Damascus, Syria January 14, 2023. REUTERS/Firas Makdesi FILE
+PHOTO-Chinas\...
+
+#### Analysis: Californian tech bank SVB sows global fear about rising cost of money
+
+https://www.reuters.com/business/finance/global-markets-stress-analysis-pix-2023-03-10/
+
+Summary: Tech banks troubles panic markets Fears spread over fallout
+from rising interest rates Banks vulnerable as bond values drop SVB
+(Silicon Valley Bank) logo and decreasing stock graph are seen in this
+illustration\...
+
+#### Yellen warns U.S. House members of 'economic collapse' from default
+
+https://www.reuters.com/world/us/yellen-delivers-in-person-warning-us-house-members-debt-ceiling-2023-03-10/
+
+U.S. Treasury Secretary Janet Yellen testifies before a U.S. House Ways
+and Means Committee hearing on President Joe Bidens fiscal year 2024
+Budget Request on Capitol Hill in Washington, U.S., March 10, 2023.
+REUTERS/\...
+
+#### German gunman kills six, unborn child, at Jehovah's Witness hall - police
+
+https://www.reuters.com/world/europe/least-six-dead-after-shooting-hamburg-focus-online-media-2023-03-09/
+
+Summary: Police were warned about gunman but let him keep weapon Gunman
+used legally-owned weapon, had stash of ammunition Shooter was former
+Jehovahs Witness, motive unknown: officials Germany has suffered several
+mass\...
+
+#### Canada bans Russian aluminum and steel imports
+
+https://www.reuters.com/markets/commodities/canada-bans-russian-aluminum-steel-imports-2023-03-10/
+
+Boats pass container ships anchored in English Bay in Vancouver, British
+Columbia, Canada October 10, 2022. REUTERS/Chris Helgren Canada on
+Friday banned the import of all Russian aluminum and steel products in a
+move that Ottawa said was\...
+
+#### Ukraine says Bakhmut battle is grinding down Russia's best units
+
+https://www.reuters.com/world/europe/ukraine-scorns-russian-missile-strikes-civilians-defence-bakhmut-holds-2023-03-10/
+
+Summary: Ukraine says Bakhmut battle is giving it an edge Russias
+Prigozhin says he is finally getting more ammunition Power restored in
+most of Ukraine after Thursday missile strikes Russian gas tankers stuck
+behind\...
+
+#### Factbox: Jehovah's Witnesses: some facts about their history and community in Germany
+
+https://www.reuters.com/world/europe/jehovahs-witnesses-some-facts-about-their-history-community-germany-2023-03-10/
+
+Floral tributes are laid outside a building housing a Kingdom Hall of
+Jehovahs Witnesses, where a deadly shooting took place, in Hamburg,
+northern Germany, March 10, 2023. REUTERS/Fabian Bimmer Here are some
+facts about\...
+
+### 联合早报
+
+#### 马祖士兵 没肉吃
+
+https://www.zaobao.com/news/china/story20230311-1371308
+
+驻守马祖列岛的台湾军人在沙滩上划出喊饿文字，引发外界质疑台军"还没打仗，就已断粮"。
+初到马祖服役的台湾男子，在西莒岛坤坵沙滩上划下几行字："不要罐头" "马防部（马祖防卫指挥部）伙房，主菜是白饭" "马防部伙房都没肉，肚子饿都吃罐头泡面"。在当地经营旅游业的网红陈竑任将留字拍照上网，引起各界哗然......
+
+#### 台湾能否当和战与统独棋手？
+
+https://www.zaobao.com/news/china/story20230311-1371310
+
+今年台海局势的两颗潜在炸弹------美国众议院议长麦卡锡访台以及台湾总统蔡英文访美，忽然调整为蔡英文过境美国时与麦卡锡在加州会面，初步拆除了可能导致军事冲突的引信。
+有消息称麦卡锡被蔡政府说服，同意不在此时访台激怒北京，避免重演类似去年8月前议长佩洛西访台引发围台军演，甚至升级为台湾国防部长邱国正评估的严峻情况：解放军战斗机和军舰逼近12海里的台湾空域和海域，迫使台军必须采取武力反击......
+
+#### 台恢复两岸部分直航点 行政院长否认为蔡英文过境美国灭火
+
+https://www.zaobao.com/news/china/story20230311-1371311
+
+台湾自3月10日起，恢复开放深圳、广州、南京、重庆、杭州、福州、青岛、武汉、宁波、郑州10个两岸空运客运直航点，并预告将开放大陆13个包机航点，以及在清明节前恢复"小三通"客运中转。
+（香港中通社）
+台湾自星期五（3月10日）起恢复两岸部分直航航点，行政院长陈建仁否认这是为总统蔡英文4月过境美国先行灭火，强调是考量两岸疫情缓解，且清明节将届，民众有返台祭祖需求所作的安排......
+
+#### 传蔡英文月底过境美国 会见众议院议长麦卡锡
+
+https://www.zaobao.com/news/china/story20230311-1371312
+
+据报台湾总统蔡英文将在本月底过境美国期间，在纽约发表演讲，并在加利福尼亚州会见美国众议院议长麦卡锡。
+英国《金融时报》星期四（3月9日）引述知情人士报道，蔡英文3月30日将在纽约一场由美国智库哈德逊研究所（Hudson
+Institute）赞助的活动上发表演讲，并获该研究所颁发"全球领导力奖"（global
+leadership award）......
+
+#### 网红"潮汕阿秋"抵港脚踏车被偷
+
+https://www.zaobao.com/news/china/story20230311-1371313
+
+中国大陆网红阿秋骑脚踏车到过32个省份，没想到脚踏车竟在香港被盗
+。（互联网）
+中国大陆一名分享骑行中国游历的短视频博主，抵达香港后脚踏车被盗。他声称，这是自己骑行逾三年以来第一次脚踏车被偷。香港警方星期五（3月10日）回应说，正追缉一名黑衣裤涉案男子。
+据《星岛日报》报道，在抖音平台拥有超百万粉丝的骑行博主"潮汕阿秋"，以骑脚踏车游历中国、分享不同地区景色和风土人情知名......
+
+#### 台湾今起恢复10个两岸定期航班航点 清明节前开放"小三通"客运中转
+
+https://www.zaobao.com/news/china/story20230310-1371023
+
+台湾的大陆委员会发言人詹志宏星期四（3月9日）宣布，在现行五个航点外，自3月10日起恢复包括广州等10个两岸定期航班航点，另有13个航点得申请包机，清明节前会开放"小三通"客运中转......
+
+#### 提出必要时依法停工停业停市停课 西安流感应急预案引发再封控担忧
+
+https://www.zaobao.com/news/china/story20230310-1371024
+
+西安2021年12月23日封控期间的空荡荡街头。（新华社）
+西安发布的流感高发期应急预案引发国内舆论反弹，学者认为，中国不会再出现大规模封控，政府在出台类似应急政策时应更注意措辞，以免引发社会恐慌情绪。
+中国陕西省会西安在流感高发期发布流感大流行应急预案，提出要适时采取临时社会面管控措施，必要时依法采取停工、停业、停市、停课。预案随即引发国内舆论反弹，不少网民担忧疫情封控卷土重来......
+
+#### 特稿：应勇料接任最高检检察长
+
+https://www.zaobao.com/news/china/story20230310-1371025
+
+应勇预计将在星期六接替张军，出任最高检察院检察长。（互联网）
+张军3月7日在全国人大会议上作最高检察院工作报告。（新华社）
+中国两高（最高人民法院、最高人民检察院）本周末即将迎来高层人事调整。去年9月被任命为正部级的最高检副检察长、由此重返政坛一线的应勇，预计将在星期六（3月11日）举行的全国人大全体会议上，接替张军出任最高检检察长，跻身"党和国家领导人"行列......
+
+#### 本报和通商中国联办"解读两会"论坛 三专家剖析中国政经环境与走向
+
+https://www.zaobao.com/news/china/story20230310-1371026
+
+南洋理工大学经济学教授陈光炎（左起）；华侨银行大中华地区研究主管谢栋铭；吉宝企业中国首席代表兼吉宝资本总裁吴来顺，将解读中国经济趋势。（档案照片）
+走过三年多的冠病疫情，中国政府将今年的经济增长目标设在5％左右，属于市场预期的低端。保守的经济增速目标意味着什么？新一届中国政府领导班子上任后，中国的经济环境、政策会有怎样的变化......
+
+#### 蔡英文过境拟会麦卡锡 美国务院：程序符合一中政策
+
+https://www.zaobao.com/news/china/story20230310-1371027
+
+台湾总统蔡英文计划在4月初过境美国期间，与美国众议院议长麦卡锡会面。（路透社档案照）
+针对台湾总统蔡英文计划在4月初过境美国期间与美国众议院议长麦卡锡会面，美国国务院称，台湾高阶官员过境美国行之有年，所有程序都符合美国的一中政策。
+根据美国国务院官网发出的文字实录，国务院发言人普莱斯星期三（3月8日）在媒体简报会上应询时做出上述表述......
+
+#### 柯文哲访美约见市长议员等遇冷
+
+https://www.zaobao.com/news/china/story20230310-1371028
+
+已表态参选台湾总统的民众党主席柯文哲计划4月访问美国，但柯文哲的会见请求遭到多名美国地方首长和议员冷处理，让他的访美行程安排碰壁。
+据中时新闻网星期三（3月8日）报道，柯文哲计划4月8日起展开为期21天的访美之行，与多名美国地方首长和国会议员会面。但民众党消息人士透露，美国许多单位人员都不愿与柯文哲会面，包括得克萨斯州长、休斯敦市长和波士顿市长都没有回复会面请求......
+
+#### 早 说
+
+https://www.zaobao.com/news/china/story20230310-1371029
+
+我们不要太在乎诺贝尔文学奖。
+------中国作家协会副主席、中国全国人大代表麦家在全国两会期间接受中新社采访时说，中国作家很少获得诺贝尔文学奖，并不代表中国的文学作品不好。他认为，任何奖项都会带有感情甚至政治色彩，而诺贝尔文学奖是以西方的价值观为评判标准的......
+
+#### 韩咏红：中国金融监管人员大减薪
+
+https://www.zaobao.com/news/china/story20230310-1371030
+
+中国两会星期二（3月7日）公布国务院机构改革方案。图为两会举办地点北京人民大会堂。（香港中通社）
+"国企老总最大的悲剧就是当了正局级。"
+在中国两会（全国人大与政协年会）本周公布国务院机构改革方案后，一名北京友人带调侃的语气感叹，许多金融监管人员这下可要大减薪了，就像中国国企老总被任命官职后，薪资福利大减......
+
+#### 中国学生"翻墙"用ChatGPT做功课 官方担心或成为外国政治宣传工具
+
+https://www.zaobao.com/news/china/story20230310-1371031
+
+有中国业内人士认为，因为有审核制度，ChatGPT永远不可能进入中国。（路透社档案照）
+由于ChatGPT给出的答案没有经过审查，中国官方担心其可能成为外国政府的政治宣传工具。官媒《中国日报》上个月曾发文批评ChatGPT在新疆问题上与美国政府口径一致，指外国政府可以利用其传播虚假信息、操纵舆论叙事等......
+
+#### 富士康否认中国社媒传言 称深圳厂运作正常未撤离
+
+https://www.zaobao.com/news/china/story20230310-1371032
+
+苹果公司最大代工厂富士康再传将生产线撤出中国的消息，网传消息称，富士康深圳工厂已开始清退临时工并拆除生产线。不过富士康回应说，该消息不实，目前深圳园区运作正常。微博、抖音等中国社交媒体平台本周陆续出现自称深圳富士康员工的网民发文，称厂区目前已开始拆除生产线，并已收到通知让临时工在月底前走完，同时鼓励正式工请假等......
+
+#### 潮汕民居村庄 犹如大地棋盘
+
+https://www.zaobao.com/news/china/story20230310-1371033
+
+中国广东省普宁市大坝镇白坑村的传统建筑具有鲜明的潮汕民居特色。民居的结构、高度，巷道宽度均统一。从空中俯瞰，横平竖直、整齐划一，村庄布局犹如大地上的棋盘。图摄于3月8日......
+
+#### 澳洲取消中国入境旅客行前检测要求 中方期待各国携手合作为旅游提供便利
+
+https://www.zaobao.com/news/china/story20230310-1371034
+
+澳大利亚卫生部宣布，将从星期六（3月11日）起，取消对从中国入境旅客的行前冠病检测要求。中国外交部回应说，期待各国与中国一道为中外人员往来提供更多便利。
+据澳大利亚卫生部官网星期四（3月9日）发布的新闻稿，卫生部长巴特勒说，取消对来自中国大陆、香港和澳门旅客的行前检测要求是"明智、慎重的"决定......
+
+#### 发改委强调消费对复苏重要意义 提振内需是中国今年经济工作重任
+
+https://www.zaobao.com/news/china/story20230309-1370687
+
+专家认为，中国今年经济工作的核心焦点是如何有效扩大内需。图为浙江宁波的一个露天市场。（法新社）
+在部署今年经济工作时，报告首先提出要"着力扩大国内需求"，并强调"把恢复和扩大消费摆在优先位置"。为此，官方将多渠道增加城乡居民收入，稳定大宗消费，推动生活服务消费恢复。
+"展望全年，消费能够成为经济增长的主拉动力，更好发挥对经济增长的基础性作用......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

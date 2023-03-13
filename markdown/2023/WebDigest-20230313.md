@@ -128,6 +128,44 @@ https://www.nature.com/articles/s41586-023-05753-x
 
 https://news.ycombinator.com/item?id=35119914
 
+### Phoronix
+
+#### Linux 6.3-rc2 Released With Two AMD Workarounds, Drops The Useless r8188eu Driver
+
+https://www.phoronix.com/news/Linux-6.3-rc2-Released
+
+#### Linux 6.3-rc2 Introduces Stuttering Workaround For AMD Ryzen PCs Due To fTPM RNG
+
+https://www.phoronix.com/news/Linux-6.3-Fix-For-AMD-fTPM
+
+#### GNOME 44 Release Candidate Arrives With Many Last Minute Changes
+
+https://www.phoronix.com/news/GNOME-44-Release-Candidate
+
+#### Linux Landing XMM Register Rollback Workaround For AMD Zen 1 / Zen 2 CPUs
+
+https://www.phoronix.com/news/Linux-AMD-Erratum-1386
+
+#### Linux 5.15.101 LTS Released To Fix Broken Intel Graphics At Boot
+
+https://www.phoronix.com/news/Linux-5.15.101-Hot-Fix
+
+#### Linux GMUX Support For T2 Macs On The Way For Dual-GPU Graphics Switching
+
+https://www.phoronix.com/news/Linux-Apple-GMUX-T2-Macs
+
+#### Linux 6.4 To Remove Old Workaround For Running On Very Outdated Distributions
+
+https://www.phoronix.com/news/Linux-6.4-Drop-Old-Sysfs-Layout
+
+#### NVIDIA VA-API Driver 0.0.9 Released With YUV444 Support
+
+https://www.phoronix.com/news/NVIDIA-VA-API-Driver-0.0.9
+
+#### SDL3 Introduces The Concept Of Child Popup Windows
+
+https://www.phoronix.com/news/SDL3-Child-Popup-Windows
+
 ### GitHub
 
 #### ggerganov/whisper.cpp

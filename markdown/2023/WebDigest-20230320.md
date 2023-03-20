@@ -1,0 +1,1000 @@
+Other formats: [PDF](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/webdigest/WebDigest-20230320.pdf--64a7d74c5e4a2920d0b8dea812a861cd.pdf) / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20230320.html)
+
+
+# Web Digest 2023-03-20
+
+
+## Developers
+
+### Hacker News
+
+#### Mastodon Hit 10M Users
+
+https://mastodon.social/@mastodonusercount/110051957865629817
+
+https://news.ycombinator.com/item?id=35224356
+
+#### Epic Games, others accuse Sundar Pichai of violating retention obligations
+
+http://www.fosspatents.com/2023/03/us-states-epic-games-others-accuse.html
+
+https://news.ycombinator.com/item?id=35224167
+
+#### My new hobby: finding public domain images that Getty sells for \$500
+
+https://twitter.com/doctorow/status/1637443442921066497
+
+https://news.ycombinator.com/item?id=35223950
+
+#### Nations reach accord to protect marine life on high seas
+
+https://apnews.com/article/un-oceans-biodiversity-treaty-0b024fa07e8c1947236d8b8491ebf92c
+
+https://news.ycombinator.com/item?id=35222999
+
+#### Fake Samsung 980 Pro SSDs are spreading around
+
+https://www.tomshardware.com/news/fake-samsung-980-pro
+
+https://news.ycombinator.com/item?id=35222843
+
+#### Jaccard Index
+
+https://en.wikipedia.org/wiki/Jaccard_index
+
+https://news.ycombinator.com/item?id=35222649
+
+#### Mark Zuckerberg: "Please Resign" (2010)
+
+https://www.techemails.com/p/mark-zuckerberg-please-resign
+
+https://news.ycombinator.com/item?id=35222192
+
+#### The little-known story behind the 2022 Nobel Prize in physics
+
+https://www.scientificamerican.com/article/the-little-known-origin-story-behind-the-2022-nobel-prize-in-physics/
+
+https://news.ycombinator.com/item?id=35222029
+
+#### Leaving China
+
+https://www.persuasion.community/p/leaving-china
+
+https://news.ycombinator.com/item?id=35221742
+
+#### Meditations on Moloch (2014)
+
+https://slatestarcodex.com/2014/07/30/meditations-on-moloch/
+
+https://news.ycombinator.com/item?id=35221609
+
+#### 'Catch Me If You Can' conman lied about his lifetime of lies
+
+https://nypost.com/2023/03/13/catch-me-if-you-can-conman-frank-abagnale-lied-about-his-lies/
+
+https://news.ycombinator.com/item?id=35221562
+
+#### UBS agrees to buy Credit Suisse
+
+https://www.bloomberg.com/news/articles/2023-03-19/ubs-agrees-to-buy-credit-suisse-in-historic-deal-to-end-crisis
+
+https://news.ycombinator.com/item?id=35221157
+
+#### Plane Lands/Takes Off in Only 20 Feet (2013)
+
+https://kottke.org/13/11/plane-landstakes-off-in-only-20-feet
+
+https://news.ycombinator.com/item?id=35220991
+
+#### Learning the ropes: why Germany is building risk into its playgrounds (2021)
+
+https://www.theguardian.com/world/2021/oct/24/why-germany-is-building-risk-into-its-playgrounds
+
+https://news.ycombinator.com/item?id=35220345
+
+#### People had to be convinced of the usefulness of electricity
+
+https://www.smithsonianmag.com/smart-news/people-had-to-be-convinced-of-the-usefulness-of-electricity-21221094/
+
+https://news.ycombinator.com/item?id=35219812
+
+#### Switzerland Weighs Full or Partial Credit Suisse Nationalization
+
+https://www.bloomberg.com/news/articles/2023-03-19/switzerland-weighs-full-or-partial-credit-suisse-nationalization
+
+https://news.ycombinator.com/item?id=35219363
+
+#### Bitwarden PINs can be brute-forced
+
+https://ambiso.github.io/bitwarden-pin/
+
+https://news.ycombinator.com/item?id=35219281
+
+#### Libreboot 20230319 Released
+
+https://libreboot.org/news/libreboot20230319.html
+
+https://news.ycombinator.com/item?id=35218868
+
+#### Rolls-Royce gets funding to develop miniature nuclear reactor for moon base
+
+https://www.space.com/rolls-royce-funding-microreactor-moon-base
+
+https://news.ycombinator.com/item?id=35218780
+
+#### Ken Thompson's keynote talk about a jukebox he built \[video\]
+
+https://www.youtube.com/watch?v=kaandEt_pKw
+
+https://news.ycombinator.com/item?id=35218463
+
+### Phoronix
+
+#### Linux 6.3-rc3 Released: It's \"Fairly Big\"
+
+https://www.phoronix.com/news/Linux-6.3-rc3-Released
+
+#### Libreboot 20230319 Released With ThinkPad T530/W530 Support
+
+https://www.phoronix.com/news/Libreboot-20230319
+
+#### Linux 6.3-rc3 Adding Protection From Malicious Guests Hammering AMD's Secure Processor
+
+https://www.phoronix.com/news/Linux-6.3-AMD-SEV-Throttling
+
+#### Serpent OS Build Infrastructure Launched
+
+https://www.phoronix.com/news/Serpent-OS-Build-Infrastructure
+
+#### FreeBSD 13.2-RC3 Released With OpenSSH 9.3, Major Performance Fix For Makefs
+
+https://www.phoronix.com/news/FreeBSD-13.2-RC3
+
+#### AMD P-State Guided Autonomous Mode Coming For Linux 6.4
+
+https://www.phoronix.com/news/AMD-P-State-GAM-Linux-6.4
+
+#### XCP-ng Initating Effort To Rewrite Xen Components In Rust
+
+https://www.phoronix.com/news/Xen-Rust-Start
+
+#### Linux 6.4 AMD Graphics Driver Picking Up New Power Features For The Steam Deck
+
+https://www.phoronix.com/news/AMDGPU-Linux-6.4-Steam-Deck-PWR
+
+#### LLVM 16.0 Released With New Intel/AMD CPU Support, More C++20 / C2X Features
+
+https://www.phoronix.com/news/LLVM-16.0-Released
+
+### GitHub
+
+#### gencay/vscode-chatgpt
+
+https://github.com/gencay/vscode-chatgpt
+
+Your best AI pair programmer - open source only\
+Language: TypeScript\
+Stars: 1380\
+Forks: 310
+
+#### AUTOMATIC1111/stable-diffusion-webui
+
+https://github.com/AUTOMATIC1111/stable-diffusion-webui
+
+Stable Diffusion web UI\
+Language: Python\
+Stars: 49926\
+Forks: 9288
+
+#### huggingface/transformers
+
+https://github.com/huggingface/transformers
+
+🤗 Transformers: State-of-the-art Machine Learning for Pytorch,
+TensorFlow, and JAX.\
+Language: Python\
+Stars: 86078\
+Forks: 18710
+
+#### PlexPt/awesome-chatgpt-prompts-zh
+
+https://github.com/PlexPt/awesome-chatgpt-prompts-zh
+
+ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。\
+Language: Unknown\
+Stars: 16320\
+Forks: 5298
+
+#### zhayujie/chatgpt-on-wechat
+
+https://github.com/zhayujie/chatgpt-on-wechat
+
+Wechat robot based on ChatGPT, which using OpenAI api and itchat
+library. 使用ChatGPT搭建微信聊天机器人，基于GPT3.5 API和itchat实现\
+Language: Python\
+Stars: 6262\
+Forks: 1303
+
+#### hua1995116/awesome-ai-painting
+
+https://github.com/hua1995116/awesome-ai-painting
+
+AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等）
+stable diffusion tutorial、disco diffusion tutorial、 AI Platform\
+Language: Unknown\
+Stars: 4586\
+Forks: 377
+
+#### sudheerj/javascript-interview-questions
+
+https://github.com/sudheerj/javascript-interview-questions
+
+List of 1000 JavaScript Interview Questions\
+Language: JavaScript\
+Stars: 14970\
+Forks: 4401
+
+#### f/awesome-chatgpt-prompts
+
+https://github.com/f/awesome-chatgpt-prompts
+
+This repo includes ChatGPT prompt curation to use ChatGPT better.\
+Language: HTML\
+Stars: 45471\
+Forks: 5363
+
+### Dribbble
+
+#### Niagara Falls
+
+https://dribbble.com/shots/20935537
+
+#### Texas State Fair
+
+https://dribbble.com/shots/20901827
+
+#### Clearbit Website Design: business landing web page site designer
+
+https://dribbble.com/shots/20674858
+
+#### LR
+
+https://dribbble.com/shots/20930506
+
+#### Filibuster - Logo
+
+https://dribbble.com/shots/20879327
+
+#### Cape Cobra
+
+https://dribbble.com/shots/20922080
+
+#### Let's Color the World
+
+https://dribbble.com/shots/20893971
+
+#### ARI: Summer Campaign '22
+
+https://dribbble.com/shots/20902197
+
+#### Nuntio Social Media Branding
+
+https://dribbble.com/shots/20925410
+
+#### 3D Modeling for UX/UI Design
+
+https://dribbble.com/shots/20928791
+
+#### SoulSessions - Logo
+
+https://dribbble.com/shots/20707303
+
+#### Transcend Branding, visual identity, corporate brand design
+
+https://dribbble.com/shots/20675266
+
+#### FYNSEC - Website design for cybersecurity company
+
+https://dribbble.com/shots/20944059
+
+#### Brainwave - AI UI Kit
+
+https://dribbble.com/shots/20928432
+
+#### Brand Icons - Spade.com
+
+https://dribbble.com/shots/20878861
+
+#### Neighbors app
+
+https://dribbble.com/shots/20906460
+
+#### Fitness Landing Page, Website Design, business web site designer
+
+https://dribbble.com/shots/20649526
+
+#### HUSD - Website design for SaaS
+
+https://dribbble.com/shots/20910791
+
+#### Illustration & Identity for Manhattan Beach Hotel
+
+https://dribbble.com/shots/20878930
+
+#### Driving Skills Mobile App design: iOS Android ux ui designer
+
+https://dribbble.com/shots/20648897
+
+#### Coinread Branding, visual identity, corporate brand design
+
+https://dribbble.com/shots/20649259
+
+#### Oppo Icon Branding Design: iconography icons pack flat vector
+
+https://dribbble.com/shots/20648686
+
+#### Brainwave -- AI UI Kit -- Mobile version
+
+https://dribbble.com/shots/20938660
+
+#### Legacy of Resilience (2)
+
+https://dribbble.com/shots/20939897
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### 暗网数据泄密网站 BreachForums 站长被捕
+
+https://www.solidot.org/story?sid=74429
+
+#### 马斯克宣布将在 3 月 31 日公开 Twitter 推荐算法源代码 
+
+https://www.solidot.org/story?sid=74428
+
+#### 负面情绪驱动了在线新闻消费
+
+https://www.solidot.org/story?sid=74427
+
+#### 婴儿食用花生酱能大幅减少花生过敏
+
+https://www.solidot.org/story?sid=74426
+
+#### 三星 Exynos 芯片漏洞影响数十款 Android 设备
+
+https://www.solidot.org/story?sid=74425
+
+#### 大语言模型涌现无法预测的能力
+
+https://www.solidot.org/story?sid=74424
+
+#### Godot 登陆 Epic Games Store
+
+https://www.solidot.org/story?sid=74423
+
+#### FTX 称创始人拿走了 22 亿美元
+
+https://www.solidot.org/story?sid=74422
+
+#### 完全由 AI 生成的作品仍然不受版权保护
+
+https://www.solidot.org/story?sid=74421
+
+#### 咖啡因或有助于降低体脂肪和 2 型糖尿病风险
+
+https://www.solidot.org/story?sid=74420
+
+#### 全球漂浮的海洋塑料重达 230 万吨
+
+https://www.solidot.org/story?sid=74419
+
+#### 韩国政府最高 69 小时工作周遭到年轻一代的抗议 
+
+https://www.solidot.org/story?sid=74418
+
+#### 英国政府设备禁止安装 TikTok
+
+https://www.solidot.org/story?sid=74417
+
+#### 微软推出 Microsoft 365 Copilot
+
+https://www.solidot.org/story?sid=74416
+
+#### Steam Deck 首次九折销售
+
+https://www.solidot.org/story?sid=74415
+
+### V2EX
+
+#### \[推广\] T 楼 2 份 ChatGPT 账号 含 APIKEY 账号 每份 5 个号
+
+https://www.v2ex.com/t/925399
+
+#### \[程序员\] windows 电脑,多桌面关机后丢失, 你们怎么解决的?
+
+https://www.v2ex.com/t/925398
+
+#### \[问与答\] 疑似是电池驱动坏了,但是不知道如何解决.
+
+https://www.v2ex.com/t/925397
+
+#### \[程序员\] 问一个 alist 的问题
+
+https://www.v2ex.com/t/925396
+
+#### \[New York\] 最近时代广场有一块大屏幕 40 刀播放 15 秒视频
+
+https://www.v2ex.com/t/925395
+
+#### \[美国\] 最近看到好多生活群，自己来一个北美生活群
+
+https://www.v2ex.com/t/925394
+
+#### \[职场话题\] 成都/武汉有什么 wlb 的公司吗
+
+https://www.v2ex.com/t/925393
+
+#### \[程序员\] 调查问卷： ChatGPT 对程序员搜索查询行为的影响
+
+https://www.v2ex.com/t/925392
+
+#### \[Java\] 第一次做开源 Java 库，用于进制转换
+
+https://www.v2ex.com/t/925391
+
+#### \[问与答\] 找工作太难难难难难难了
+
+https://www.v2ex.com/t/925390
+
+#### \[macOS\] 公司电脑上另开个用户使用怎么样？
+
+https://www.v2ex.com/t/925389
+
+#### \[OpenAI\] gpt-4 聊天数限制越来越大
+
+https://www.v2ex.com/t/925388
+
+#### \[分享创造\] C3PO - 由 ChatGPT 驱动的 i18n 翻译工具
+
+https://www.v2ex.com/t/925387
+
+#### \[宽带症候群\] 群晖 DS220+超过 8G 内存有价值吗？
+
+https://www.v2ex.com/t/925386
+
+#### \[求职\] 测试工程师简历求大佬帮忙提优化建议
+
+https://www.v2ex.com/t/925385
+
+#### \[程序员\] 威联通无线网卡选取
+
+https://www.v2ex.com/t/925384
+
+#### \[硬件\] 新电脑配件快到了，请大家指导下
+
+https://www.v2ex.com/t/925383
+
+#### \[问与答\] 数码照片太清晰锐利如何模拟胶片的味道？
+
+https://www.v2ex.com/t/925382
+
+#### \[VPS\] 甲骨文硬盘费用问题
+
+https://www.v2ex.com/t/925381
+
+#### \[宽带症候群\] 020 电信老用户不能更改指定融合套餐 有无办法？
+
+https://www.v2ex.com/t/925380
+
+#### \[问与答\] 什么笔记或 APP 可以检索图片上的字？
+
+https://www.v2ex.com/t/925379
+
+#### \[问与答\] 来分析 mysql 死锁了
+
+https://www.v2ex.com/t/925377
+
+#### \[Node.js\] 我把 Siri 和 ChatGPT 连一起了，用 JavaScript 五分钟你也能搞定，全部源码 https://aircode.cool/828668wg5a
+
+https://www.v2ex.com/t/925376
+
+#### \[反馈\] 日本語节点的所有页面无法在夜间模式下正常浏览
+
+https://www.v2ex.com/t/925375
+
+#### \[OpenAI\] 怎么让 ChatGPT 访问国内的网站？
+
+https://www.v2ex.com/t/925374
+
+#### \[酷工作\] \[远程\] \[web3\] 前端 leader，后端 \| 薪资 100w negotiable
+
+https://www.v2ex.com/t/925373
+
+#### \[奇思妙想\] 既然手机能用半导体制冷散热，为什么服务器和 PC 机不使用呢？
+
+https://www.v2ex.com/t/925372
+
+#### \[OpenWrt\] 想买一个路由器，能刷 openwrt 的， 200 元以下，最近刚接触，问问大家，有没有什么好的教程，感谢大家！
+
+https://www.v2ex.com/t/925370
+
+#### \[问与答\] 谁还记得聊天室时代"千夫指"这个骂人软件？
+
+https://www.v2ex.com/t/925369
+
+#### \[推广\] 北京农行这个关注公众号，然后就可以去客户端领取大概 7 块钱了
+
+https://www.v2ex.com/t/925368
+
+#### \[酷工作\] 招聘：远程岗位------前端开发工程师 18k-28K/月
+
+https://www.v2ex.com/t/925367
+
+#### \[汽车\] 求推荐 15w 左右 SUV，希望符合父母辈审美
+
+https://www.v2ex.com/t/925364
+
+#### \[Apple\] 1Password 家庭车 招 3 位乘客
+
+https://www.v2ex.com/t/925363
+
+#### \[问与答\] 请问后端大佬是如何通过 token 获取用户信息的
+
+https://www.v2ex.com/t/925362
+
+#### \[酷工作\] \[广州\]\[阿里内推\]团队直推前端工程师
+
+https://www.v2ex.com/t/925361
+
+#### \[分享创造\] Aoi - ChatGPT 命令行版本，自动执行命令，自动查询数据库
+
+https://www.v2ex.com/t/925359
+
+#### \[Terminal\] 你们在 iTerm2 下能显示 吗？
+
+https://www.v2ex.com/t/925358
+
+#### \[问与答\] 我 stable diffusion 生成的图片为什么都是 noise？
+
+https://www.v2ex.com/t/925357
+
+#### \[程序员\] Chatgpt 登陆后显示"OpenAI's services are not available in your country."应该如何解决
+
+https://www.v2ex.com/t/925354
+
+#### \[职场话题\] 失业有感而发, 垮掉的一代 VS 孔乙己文学
+
+https://www.v2ex.com/t/925353
+
+#### \[分享发现\] 大家有发现前置摄像头拍出来的照片是左右镜像过的吗
+
+https://www.v2ex.com/t/925352
+
+#### \[VPS\] 就测试了一下 vmess+tcp 端口几分钟就封了
+
+https://www.v2ex.com/t/925351
+
+#### \[酷工作\] \[业余兴趣项目\] 找 Java 后端
+
+https://www.v2ex.com/t/925350
+
+#### \[问与答\] 是否应该为了学习和涨薪跳槽？
+
+https://www.v2ex.com/t/925349
+
+#### \[问与答\] 特别闲，不知道做什么怎么办？
+
+https://www.v2ex.com/t/925347
+
+#### \[宽带症候群\] 电信云宽带海外加速 反向加速 限速 10MB/S
+
+https://www.v2ex.com/t/925346
+
+#### \[VPS\] 听说 AWS 今后对虚拟卡注册的限制更严格了？
+
+https://www.v2ex.com/t/925345
+
+#### \[宽带症候群\] 旁路由设置下的 IPV6 和 Googlechrome Cast 问题
+
+https://www.v2ex.com/t/925344
+
+#### \[问与答\] ts 是否有 build 之类的 api 可以使用？
+
+https://www.v2ex.com/t/925342
+
+#### \[职场话题\] 39 岁，失业半年，感受到了生活的无力感
+
+https://www.v2ex.com/t/925338
+
+## Generic News
+
+### AP News
+
+#### Source: Lawyer invited to testify before Trump grand jury
+
+https://apnews.com/article/5eaeae46af595ba012272cc10085ee8f
+
+Former President Donald J. Trump watches the NCAA Wrestling
+Championships, Saturday, March 18, 2023, in Tulsa, Okla. (AP Photo/Sue
+Ogrocki) WASHINGTON (AP) --- A lawyer who previously advised Michael
+Cohen, the key government witness in\...
+
+#### DA leading Trump case says rhetoric won't intimidate office
+
+https://apnews.com/article/4d15a073b0500d4cd47e7371f45d27d7
+
+FILE - Manhattan District Attorney Alvin Bragg participates in a news
+conference in New York, Tuesday, Feb. 7, 2023. Bragg is standing firm
+against former President Donald Trump's increasingly hostile rhetoric,
+telling his staff that the\...
+
+#### Miami Beach sets spring break curfew after 2 fatal shootings
+
+https://apnews.com/article/67a77b4b8954ace2f29d9f19fbe1272b
+
+Crowds gather at Ocean Drive and 8th during spring break on Saturday,
+March 18, 2023, in Miami Beach, Fla. Miami Beach officials imposed a
+curfew beginning Sunday night, March 19, after two fatal shootings and
+rowdy, chaotic crowds that\...
+
+#### Xavier beats Pitt 84-73, reaches 1st Sweet 16 since 2017
+
+https://apnews.com/article/65b0f41f9dbe4543d4c2bf7859777232
+
+Xavier forward Jack Nunge scores against Pittsburgh forward Guillermo
+Diaz Graham during the second half of a second-round college basketball
+game in the NCAA Tournament on Sunday, March 19, 2023, in Greensboro,
+N.C. (AP Photo/Chris\...
+
+#### California to ask voters to approve new mental health beds
+
+https://apnews.com/article/973f909040691479c40be2a4aa14b5dd
+
+California Gov. Gavin Newsom discusses his plans to build 1,200 small
+homes across the state to reduce homelessness, during the first of a
+four-day tour of the state in Sacramento Calif., on Thursday, March 16,
+2023. (AP Photo/Rich\...
+
+#### UBS to buy Credit Suisse for nearly \$3.25B to calm turmoil
+
+https://apnews.com/article/1a06bc96cbca9be4fbfd20a8f008ab8f
+
+Axel Lehmann, Chairman Credit Suisse, speaks during a press conference
+in Bern, Switzerland, Sunday March 19, 2023. Banking giant UBS is
+acquiring its smaller rival Credit Suisse in an effort to avoid further
+market-shaking turmoil in\...
+
+#### New law allows anti-abortion monument at Arkansas Capitol
+
+https://apnews.com/article/9efa40bd10d3f3a1c6a9c70ed4986ae5
+
+FILE - Then-Arkansas Gov.-elect Sarah Huckabee Sanders answers a
+question during a Republican Governors Association conference on Nov.
+16, 2022, in Orlando, Fla. Gov. Huckabee Sanders has signed a new law
+that will allow an anti-abortion\...
+
+#### GOP donor faces trial on charges of sex trafficking minors
+
+https://apnews.com/article/db1e3ac444fe3c289adddb4b924b9092
+
+FILE - This booking photo released by Sherburne County Jail shows Anton
+Lazzaro. The formerly well-connected Republican donor goes on trial in
+Minnesota on Tuesday, March 21, 2023, on federal charges of sex
+trafficking minors. (Sherburne\...
+
+#### Pakistani police file terrorism charges against ex-PM Khan
+
+https://apnews.com/article/925f30a4b63bf828b7a5ee90ec71a8b7
+
+Supporters of former Prime Minister Imran Khan gather outside of the
+Khan house in Lahore, Pakistan, Sunday, March 19, 2023. Police in the
+Pakistani capital filed charges Sunday against former Prime Minister
+Imran Khan and 17 of his aides\...
+
+#### Republican bills push cash bail, subvert Democratic changes
+
+https://apnews.com/article/348362a8484828500e01a545ec58e28f
+
+FILE - The Palm Beach County Main Detention Center is pictured on June
+4, 2021, in West Palm Beach, Fla. Republican lawmakers in Florida and
+other states are pushing to increase the use of cash bail and pretrial
+detention. (AP Photo/\...
+
+#### How to shop for new insurance if you lose Medicaid coverage
+
+https://apnews.com/article/ff32b273b892186de86aafb3f42222de
+
+FILE - A sign points visitors toward the financial services department
+at a hospital, Friday, Jan. 24, 2014. Medicaid coverage will end for
+millions of Americans in 2023, and that pushes many into unfamiliar
+territory: the health\...
+
+#### Nations approve key UN science report on climate change
+
+https://apnews.com/article/e3469f69980fe949eb21b4bc25cb018f
+
+FILE - People walk through floodwaters after heavy rainfall in Hadeja,
+Nigeria, Sept 19, 2022. Publication of a major new United Nations report
+on climate change is being held up by a battle between rich and
+developing countries over\...
+
+#### Higher cancer rates found in military pilots, ground crews
+
+https://apnews.com/article/298f70c4f7581fe5e08637fcb61abc71
+
+This image provided by Betty Seaman shows Navy A-6 Intruder pilot Jim
+Seaman. Navy Capt. Jim Seaman died of lung cancer at the age of 61. His
+widow Betty Seaman has been part of a large group of aviators and their
+surviving spouses who\...
+
+### Reuters
+
+#### UBS seals Credit Suisse takeover in bid to calm market nerves
+
+https://www.reuters.com/business/crunch-time-credit-suisse-talks-ubs-seeks-swiss-assurances-2023-03-19/
+
+Summary: UBS to pay 3 bln Swiss francs (\$3.23 bln) for Credit Suisse
+Yellen, Powell welcome deal to support financial stability UBS to assume
+up to \$5.4 bln in losses; deal to close this year CS writes down \$17
+bln of bonds to zero\...
+
+#### Montenegro's President Milo Djukanovic headed for run-off election
+
+https://www.reuters.com/world/europe/montenegros-president-milo-djukanovic-wins-most-votes-presidential-election-2023-03-19/
+
+Milo Djukanovic, President of Montenegro and a candidate from the
+Democratic Party of Socialists, speaks to the media at a polling station
+during the presidential elections in Podgorica, Montenegro, March 19,
+2023. REUTERS/Stevo\...
+
+#### UBS to take over Credit Suisse, assume up to 5 billion Swiss francs in losses
+
+https://www.reuters.com/business/finance/ubs-take-over-credit-suisse-central-bank-2023-03-19/
+
+UBS Group and Credit Suisse logos are seen in this illustration taken
+March 18, 2023. REUTERS/Dado Ruvic/Illustration UBS (UBSG.S) agreed to
+buy rival Swiss bank Credit Suisse (CSGN.S) for 3 billion Swiss francs
+(\$3.23 billion) in stock\...
+
+#### Ecuador, Peru authorities assess damage after earthquake that killed at least 15
+
+https://www.reuters.com/business/environment/ecuador-peru-authorities-assess-damage-after-earthquake-that-killed-least-15-2023-03-19/
+
+People pass by debris following an earthquake in Guayaquil, Ecuador
+March 18, 2023. REUTERS/Vicente Gaibor Del Pino A woman sitting on a
+hammock holds her baby next to the destroyed wall of her house following
+an earthquake in Isla Puna\...
+
+#### Talk of Trump arrest builds sympathy for the former president, Sununu says
+
+https://www.reuters.com/world/us/possibility-trumps-arrest-builds-sympathy-among-his-supporters-2023-03-19/
+
+Former U.S. President Donald Trump greets supporters accompanied by Iowa
+Governor Kim Reynolds during a campaign rally, in Davenport, Iowa, U.S.
+March 13, 2023. REUTERS/Jonathan Ernst Manhattan District Attorney Alvin
+Bragg speaks to\...
+
+#### Canadian investigators seek seven missing after fire at Montreal building
+
+https://www.reuters.com/world/americas/canadian-investigators-seek-seven-missing-after-fire-montreal-building-2023-03-19/
+
+Firefighters watch as investigators inspect a three-storey heritage
+building in Old Montreal where a fire broke out last week leaving seven
+people unaccounted for, in Montreal, Quebec, Canada March 19, 2023.
+REUTERS/Christinne Muschi A\...
+
+#### Saudi leads most Gulf bourses higher; Egypt down
+
+https://www.reuters.com/world/middle-east/saudi-leads-most-gulf-bourses-higher-egypt-down-2023-03-19/
+
+An investor monitors a screen displaying stock information at the Abu
+Dhabi Securities Exchange June 25, 2014./File Photo Saudi Arabias stock
+market closed higher on Sunday to outperform the Gulf region, amid
+expectations\...
+
+#### Putin visits Russian-occupied Mariupol after ICC issues arrest warrant
+
+https://www.reuters.com/world/europe/putin-makes-surprise-trip-mariupol-first-occupied-donbas-ukraine-2023-03-19/
+
+Russian President Vladimir Putin visits Mariupol, Russian-controlled
+Ukraine, in this still image taken from handout video released on March
+19, 2023. Kremlin.ru/Handout via REUTERS Russian President Vladimir
+Putin visits Mariupol\...
+
+#### Lagos governor re-elected in victory for Nigeria ruling party
+
+https://www.reuters.com/world/africa/lagos-governor-re-elected-victory-nigeria-ruling-party-2023-03-19/
+
+Summary: INEC officials say thugs snatched some ballots Commercial hub
+Lagos is Africas biggest mega city Voting postponed to Sunday in some
+districts Lagos state gubernatorial candidate of the ruling All
+Progressives\...
+
+#### Factbox: Who are the Ukrainian children at the heart of Putin arrest warrant?
+
+https://www.reuters.com/world/europe/who-are-ukrainian-children-heart-putin-arrest-warrant-2023-03-19/
+
+Russian President Vladimir Putin listens to Deputy Prime Minister Marat
+Khusnullin, who heads construction and regional development, as he
+visits Mariupol, Russian-controlled Ukraine, in this still image taken
+from handout video released\...
+
+#### Iran proposes locations to Saudi Arabia for ministerial talks
+
+https://www.reuters.com/world/middle-east/iran-proposes-locations-saudi-arabia-fm-meeting-2023-03-19/
+
+Iranian Foreign Minister Hossein Amirabdollahian speaks during a news
+conference in Tehran, Iran March 19, 2023. Majid Asgaripour/WANA (West
+Asia News Agency) via REUTERS Iranian Foreign Minister Hossein
+Amirabdollahian attends a news\...
+
+#### China condemns British lawmakers for ignoring demand not to visit Taiwan
+
+https://www.reuters.com/world/china-condemns-british-lawmakers-ignoring-demand-not-visit-taiwan-2023-03-19/
+
+Policemen stand guard outside the Chinese Embassy in London, Britain
+October 18, 2015. REUTERS/Suzanne Plunkett Chinas embassy in Britain on
+Sunday condemned a visit this week by British lawmakers to Taiwan,
+saying they\...
+
+#### Former Taiwan president Ma to visit China in landmark trip
+
+https://www.reuters.com/world/asia-pacific/former-taiwan-president-ma-visit-china-landmark-trip-2023-03-19/
+
+Former Taiwan President Ma Ying-jeou attends an event in Taipei, Taiwan
+May 15, 2018. REUTERS/Tyrone Siu Former Taiwan President Ma Ying-jeou
+will visit China this month, his office said on Sunday, the first time a
+former or current\...
+
+### 联合早报
+
+#### 不满"存在严重审计缺陷" 中国财政部向德勤开罚逾3900万元
+
+https://www.zaobao.com/news/china/story20230319-1373960
+
+中国财政部因不满国际四大会计事务所之一的德勤（Deloitte）为中国华融资产管理公司提供的审计服务"存在严重审计缺陷"，向该所开出逾2亿元人民币（约3900万新元）重磅罚单，其北京分所也被令暂停营运三个月。
+彭博社说，该罚款金额是中国财政部去年在检查期间对所有会计事务所开出的罚单总额的25倍以上......
+
+#### 遭美国禁运 华为三年开发逾万种替代零部件
+
+https://www.zaobao.com/news/china/story20230319-1373962
+
+华为创始人任正非说，华为在过去三年内完成了逾1万3000个被美国禁运器件的替代开发，并重新设计了产品的4000块电路板，他强调自己现在仍"不反美"。
+上海交通大学星期五（3月17日）在官网上发布了任正非2月24日在该校举行的座谈会上的发言摘录文稿。这次座谈会主要是为表彰解决华为发布的产业难题的专家学者。
+任正非在会上说，中国国产零部件的供应，稳定了华为电路板的生产......
+
+#### 26年来首位德国部长访台 料激怒北京
+
+https://www.zaobao.com/news/china/story20230319-1373963
+
+德国教育及研究部长施塔克一瓦青格下周访问台湾，成为26年来首位访台的德国部长。在中欧紧张关系升温之际，此行预料将激怒北京政府。
+综合彭博社和台媒报道，德国教育及研究部发言人星期五（3月17日）在柏林举行的例行记者会上说，施塔克一瓦青格将于3月21日抵达台北，展开两天访问。
+发言人说，施塔克一瓦青格此行目的是强化与台湾的科技、研究和教育合作，尤其在半导体、绿色氢能和电池研发等领域......
+
+#### 露顶两高楼突破锁港雾
+
+https://www.zaobao.com/news/china/story20230319-1373964
+
+雾锁香港维多利亚海港，两岸的高楼星期六（3月18日）都笼罩在浓雾中，唯有香港第一高楼环球贸易广场（左）和第二高楼国际金融中心（右）露出顶部......
+
+#### 中国出现首例冠病患者 同时感染两亚型毒株
+
+https://www.zaobao.com/news/china/story20230319-1373965
+
+中国出现首起同时感染两种冠病奥密克戎亚型毒株的本土病例。
+中国疾控中心星期五（3月17日）发布的最新周报显示，2月14日，重庆医科大学附属第三医院采集并送检的样本测到，同时感染两种奥密克戎亚型毒株的本土病例。
+该样本出自重庆一名67岁女病患，在2月7日确认有恶性肿瘤史，过去半年接受化疗、放疗、靶向和其他治疗，接种过两剂冠病疫苗......
+
+#### 听信出国打工暴富谎言 安徽四学生偷渡缅甸失联
+
+https://www.zaobao.com/news/china/story20230319-1373966
+
+安徽合肥有学生听信诈骗团伙"出国务工三个月暴富"的谎言，偷越中国边境去缅甸务工，随后失去联系。
+据极目新闻报道，安徽合肥部分学校的学生星期五（3月17日）收到教师信息说，某派出所辖区内四名职业学校学生在实习期间受上述谎言诱惑，自云南西双版纳偷越中国国境。经过合肥新站区公安与云南西双版纳警方核查，确定四人已前往缅甸，目前已失联......
+
+#### 台湾特稿：等不到身份证港人"转台"退潮
+
+https://www.zaobao.com/news/china/story20230319-1373967
+
+参与反修例抗争的温汤姆赴台三年半，在西门町开了港式冰室"叁陆伍贰"。（温伟中摄）
+香港2019年6月爆发反修例社会抗争，北京隔年出台国安法，引发1997年香港回归中国后最大规模移民潮，移居台湾的"转台"港人屡创新高，但到了去年却明显退潮。《联合早报》采访个案、指标性人物，并向移民顾问、学者和陆委会了解个中原因......
+
+#### 通过自嘲反讽严峻就业环境 学者：孔乙己文学兴起 反映中国青年焦虑加剧
+
+https://www.zaobao.com/news/china/story20230318-1373659
+
+"孔乙己文学"近期在中国青年一代中兴起，他们自比著名文学家鲁迅笔下的虚构人物孔乙己，来嘲讽当下严峻的就业环境。图为鲁迅故乡绍兴咸亨酒店门外的孔乙己塑像。（互联网）
+受访学者分析，在冠病防疫措施放宽后种种经济问题浮现的背景下，中国年轻人的焦虑感和不安全感加剧，而"孔乙己文学"作为一种冷幽默，成了他们自我减压和自嘲的一种体现。
+继躺平和内卷后，"孔乙己文学"在中国青年一代中兴起......
+
+#### 冷空气来袭 河南发暴雪预警
+
+https://www.zaobao.com/news/china/story20230318-1373660
+
+中国河南省气象台星期四（3月16日）发布暴雪蓝色预警，三门峡、洛阳等地部分县市出现中雨雪，局部地区暴雪。因冷空气来袭，河南省会郑州由雨转入小雪，嵩山少林寺也飘起雪花。图为郑州市民星期四冒雪在人民公园赏花拍照......
+
+#### 美印太司令指中国 拒绝恢复两军领导通话
+
+https://www.zaobao.com/news/china/story20230318-1373661
+
+美军印太司令部司令阿奎利诺说，尽管中美两国的紧张局势加剧，中国继续无视美军发出的恢复两军战区领导通话的请求。
+阿奎利诺星期四（3月16日）在新加坡一个讲座上说，在伙伴国呼吁对话后，他一直尝试安排与中国相应官员接触。他说，美国国防部长奥斯汀去年11月与中国时任国防部长魏凤和在柬埔寨会谈时，双方也支持两军保持对话......
+
+#### 新闻人间：大学的脊梁
+
+https://www.zaobao.com/news/china/story20230318-1373663
+
+"《大学的脊梁：台大校长遴选事件与管中闵心情记事》，就是我的劫后余生录。"台湾大学前校长管中闵星期一（3月13日）举行新书发表会，向来率性潇洒，人称"管爷"的他，在五年后谈及"拔管"事件，依旧难掩内心的激动与气愤。
+"我当时充满无助的感觉"。管中闵说，对于那段时间曾经帮助他的人，他永远不会忘。"同样的，搞我的人，我也不会忘掉他"。该书一上市洛阳纸贵，很快售罄......
+
+#### 文心一言获外资券商初步肯定 百度港股反弹大涨
+
+https://www.zaobao.com/news/china/story20230318-1373664
+
+中国互联网巨头百度刚推出的大语言模型生成式人工智能"文心一言"服务，在外资券商测试并给予初步肯定后，百度在香港股市的股价星期五（3月17日）大涨，扭转了前一天的跌势。
+综合路透社和彭博社报道，百度创办人李彦宏星期四（16日）在北京的发布会上，透过预录视频演示文心一言的综合能力，没有进行实时测试，令投资者失望，造成当天港股百度的股价跳水，收盘跌幅达6.36％......
+
+#### 庄慧良：国民党的2024难题
+
+https://www.zaobao.com/news/china/story20230318-1373666
+
+民进党已重新整军经武，确定由赖清德参选总统，侯友宜等人再不表态拿出具体作为，只怕时不我予......
+
+#### 贵州长碛古寨 屹立700余年
+
+https://www.zaobao.com/news/china/story20230318-1373668
+
+长碛古寨位于中国贵州省遵义市凤冈县新建镇，三面环水，民居依山而建，面积约8平方公里，由龙塘溪、马鞍渠、庙坝、长碛、杨塘等5个自然村寨组成。古寨始建于元末明初，历经700余年风雨洗礼，因洪渡河携带大量泥沙冲积成扇坝而得名。当地村民对自然怀有崇敬之情，努力维护人与自然的和谐......
+
+#### 港府设34人特首顾问团 分三组提供策略发展意见
+
+https://www.zaobao.com/news/china/story20230318-1373669
+
+香港特区政府宣布特首顾问团名单，成员包括香港首富李嘉诚长子李泽钜、香港前政务司司长唐英年等人。
+34人组成的顾问团将分三个组别，为特首提供香港策略性发展的意见。
+据香港政府新闻网星期五（3月17日）发布，特首顾问团由特首担任主席，主要政府官员也会参与......
+
+#### 中国版ChatGPT "文心一言"展示未达预期 百度股价跌逾6％
+
+https://www.zaobao.com/news/china/story20230317-1373332
+
+百度创始人、董事长兼首席执行官李彦宏3月16日在发布会上演示"文心一言"在不同使用场景中的综合能力，包括让其提出续写中国知名科幻小说《三体》的建议角度等。（彭博社）
+中国网络巨头百度公司星期四（3月16日）推出大语言模型生成式AI（人工智能）产品"文心一言"，在不同应用场景进行创作与内容生成，被称为"中国版ChatGPT"......
+
+#### 张忠谋支持美国拖慢中国半导体发展 但供应链将分岔自由贸易也受重创
+
+https://www.zaobao.com/news/china/story20230317-1373333
+
+台积电创办人张忠谋（右）3月16日在台北与《晶片战争》作者、美国历史学者米勒（Chris
+Miller）对话。（天下杂志提供）
+台积电创办人张忠谋说，如果算入半导体设备、设计与智慧财产，美国在全球市场的占比已达39%，如今却通过晶片法案要将本土的制造比重从11％拉高到三四成，说是要满足国防晶片需求，但他认为制造比重只须多增加几个百分点已足以满足需求......
+
+#### 洪都拉斯外长：与北京建交是出于经济考量
+
+https://www.zaobao.com/news/china/story20230317-1373334
+
+洪都拉斯外长雷纳接受墨西哥电视台访问时说，洪都拉斯在能源、社会政策及债务偿还方面穷途末路，这些债务在淹没这个国家。（路透社）
+（特古西加尔巴／台北综合讯）洪都拉斯外长雷纳说，与北京建交是出于经济上的考量，而非受意识形态驱使。
+综合法新社和路透社报道，雷纳星期三（3月15日）接受墨西哥电视台Canal
+5采访时说，洪都拉斯在能源、社会政策及债务偿还方面穷途末路，这些债务在淹没这个国家......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

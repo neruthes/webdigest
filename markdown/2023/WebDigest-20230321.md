@@ -1,0 +1,990 @@
+Other formats: [PDF](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/webdigest/WebDigest-20230321.pdf--bb8fd68f2acaa39d67b686c0da79dc20.pdf) / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20230321.html)
+
+
+# Web Digest 2023-03-21
+
+
+## Developers
+
+### Hacker News
+
+#### Run 100B+ language models at home, BitTorrent‑style
+
+https://petals.ml/
+
+https://news.ycombinator.com/item?id=35239972
+
+#### The genie escapes: Stanford copies the ChatGPT AI for less than \$600
+
+https://newatlas.com/technology/stanford-alpaca-cheap-gpt/
+
+https://news.ycombinator.com/item?id=35238338
+
+#### Why use Rust on the back end?
+
+https://blog.adamchalmers.com/why-rust-on-backend/
+
+https://news.ycombinator.com/item?id=35237830
+
+#### Doors I touched today (1999)
+
+https://fluxus.org/FluxusMidwest/doorknobs/
+
+https://news.ycombinator.com/item?id=35237787
+
+#### ChatGPT is down
+
+https://status.openai.com/incidents/jq9232rcmktd
+
+https://news.ycombinator.com/item?id=35236467
+
+#### Launch HN: Bloop (YC S21) -- Code Search with GPT-4
+
+https://news.ycombinator.com/item?id=35236275
+
+https://news.ycombinator.com/item?id=35236275
+
+#### A world to win: WebAssembly for the rest of us
+
+https://www.wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us
+
+https://news.ycombinator.com/item?id=35236272
+
+#### UBS got Credit Suisse for almost nothing
+
+https://www.bloomberg.com/opinion/articles/2023-03-20/ubs-got-credit-suisse-for-almost-nothing
+
+https://news.ycombinator.com/item?id=35236043
+
+#### The cloud backlash has begun: Why big data is pulling compute back on premises
+
+https://techcrunch.com/2023/03/20/the-cloud-backlash-has-begun-why-big-data-is-pulling-compute-back-on-premises/
+
+https://news.ycombinator.com/item?id=35235775
+
+#### Tell HN: MailChimp blacklists your IP if you open the browser's dev tools
+
+https://news.ycombinator.com/item?id=35235732
+
+https://news.ycombinator.com/item?id=35235732
+
+#### The End of Front-End Development
+
+https://www.joshwcomeau.com/blog/the-end-of-frontend-development/
+
+https://news.ycombinator.com/item?id=35235141
+
+#### Lessons from a Pessimist: Make Your Pessimism Productive
+
+https://lucumr.pocoo.org/2023/3/20/lessons-from-a-pessimist/
+
+https://news.ycombinator.com/item?id=35233725
+
+#### ChatGPT is rendering other people's chat history in the sidebar
+
+https://old.reddit.com/r/ChatGPT/comments/11wkw5z/has_chatgpt_or_me_been_hacked_ive_never_had_these/
+
+https://news.ycombinator.com/item?id=35233534
+
+#### Supreme Court asked to strike down immunity for police who brutally beat student
+
+https://ij.org/press-release/supreme-court-asked-to-strike-down-immunity-for-police-task-force-officers-who-brutally-beat-innocent-college-student/
+
+https://news.ycombinator.com/item?id=35233500
+
+#### Paving the Road to Vulkan on Asahi Linux
+
+https://asahilinux.org/2023/03/road-to-vulkan/
+
+https://news.ycombinator.com/item?id=35233479
+
+#### Amazon to lay off 9,000 more workers after earlier cuts
+
+https://www.cnbc.com/2023/03/20/amazon-layoffs-company-to-cut-off-9000-more-workers.html
+
+https://news.ycombinator.com/item?id=35232150
+
+#### Gitea 1.19
+
+https://blog.gitea.io/2023/03/gitea-1.19.0-is-released/
+
+https://news.ycombinator.com/item?id=35231980
+
+#### When can two TCP sockets share a local address?
+
+https://blog.cloudflare.com/the-quantum-state-of-a-tcp-port/
+
+https://news.ycombinator.com/item?id=35231276
+
+#### Who is still inside the metaverse?
+
+https://nymag.com/intelligencer/article/mark-zuckerberg-metaverse-meta-horizon-worlds.html
+
+https://news.ycombinator.com/item?id=35231159
+
+#### Cyclists now outnumber motorists in City of London
+
+https://www.forbes.com/sites/carltonreid/2023/03/01/cyclists-now-outnumber-motorists-in-city-of-london/
+
+https://news.ycombinator.com/item?id=35231111
+
+### Phoronix
+
+#### 36+ More ASUS Motherboards Will Enjoy Sensor Monitoring Support With Linux 6.4
+
+https://www.phoronix.com/news/Linux-6.4-nct6775-More-ASUS
+
+#### GNU Coreutils 9.2 - Now Avoids cp/mv Allocating Too Much Memory
+
+https://www.phoronix.com/news/GNU-Coreutils-9.2
+
+#### The Current Intel Arc Graphics Linux Gaming Performance On Linux 6.2 + Mesa 23.1-dev
+
+https://www.phoronix.com/review/intel-arc-march23
+
+#### Ubuntu's Mir 2.13 Released With Wayland Updates, Other Enhancements
+
+https://www.phoronix.com/news/Ubuntu-Mir-2.13-Released
+
+#### Intel Xeon Sapphire Rapids Code Continues Landing For Coreboot
+
+https://www.phoronix.com/news/Intel-SPR-More-Coreboot
+
+#### Apache CloudStack 4.18 LTS Released For Launching Your Own Open-Source Cloud
+
+https://www.phoronix.com/news/Apache-CloudStack-4.18-LTS
+
+#### Intel Compute Runtime Updated With Initial Xe Kernel Driver Support
+
+https://www.phoronix.com/news/Intel-Compute-Runtime-Xe-DRM
+
+#### curl 8.0 Released To Celebrate Project's 25th Birthday
+
+https://www.phoronix.com/news/curl-8.0-Released
+
+#### Dragonfly 1.0 Released For What Claims To Be The World's Fastest In-Memory Data Store
+
+https://www.phoronix.com/news/Dragonflydb-1.0-Released
+
+### GitHub
+
+#### gencay/vscode-chatgpt
+
+https://github.com/gencay/vscode-chatgpt
+
+An unofficial Visual Studio Code - OpenAI ChatGPT integration\
+Language: TypeScript\
+Stars: 1725\
+Forks: 525
+
+#### f/awesome-chatgpt-prompts
+
+https://github.com/f/awesome-chatgpt-prompts
+
+This repo includes ChatGPT prompt curation to use ChatGPT better.\
+Language: HTML\
+Stars: 46603\
+Forks: 5490
+
+#### modelscope/modelscope
+
+https://github.com/modelscope/modelscope
+
+ModelScope: bring the notion of Model-as-a-Service to life.\
+Language: Python\
+Stars: 1093\
+Forks: 144
+
+#### PlexPt/awesome-chatgpt-prompts-zh
+
+https://github.com/PlexPt/awesome-chatgpt-prompts-zh
+
+ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。\
+Language: Unknown\
+Stars: 17065\
+Forks: 5452
+
+#### Stability-AI/stablediffusion
+
+https://github.com/Stability-AI/stablediffusion
+
+High-Resolution Image Synthesis with Latent Diffusion Models\
+Language: Python\
+Stars: 14569\
+Forks: 1668
+
+#### AUTOMATIC1111/stable-diffusion-webui
+
+https://github.com/AUTOMATIC1111/stable-diffusion-webui
+
+Stable Diffusion web UI\
+Language: Python\
+Stars: 50573\
+Forks: 9381
+
+#### lencx/ChatGPT
+
+https://github.com/lencx/ChatGPT
+
+🔮 ChatGPT Desktop Application (Mac, Windows and Linux)\
+Language: Rust\
+Stars: 23801\
+Forks: 2346
+
+### Dribbble
+
+#### Niagara Falls
+
+https://dribbble.com/shots/20935537
+
+#### LR
+
+https://dribbble.com/shots/20930506
+
+#### Clearbit Website Design: business landing web page site designer
+
+https://dribbble.com/shots/20674858
+
+#### Nuntio Social Media Branding
+
+https://dribbble.com/shots/20925410
+
+#### Cape Cobra
+
+https://dribbble.com/shots/20922080
+
+#### ARI: Summer Campaign '22
+
+https://dribbble.com/shots/20902197
+
+#### Brainwave - AI UI Kit
+
+https://dribbble.com/shots/20928432
+
+#### FYNSEC - Website design for cybersecurity company
+
+https://dribbble.com/shots/20944059
+
+#### Transcend Branding, visual identity, corporate brand design
+
+https://dribbble.com/shots/20675266
+
+#### 3D Modeling for UX/UI Design
+
+https://dribbble.com/shots/20928791
+
+#### SoulSessions - Logo
+
+https://dribbble.com/shots/20707303
+
+#### Neighbors app
+
+https://dribbble.com/shots/20906460
+
+#### Brainwave -- AI UI Kit -- Mobile version
+
+https://dribbble.com/shots/20938660
+
+#### HUSD - Website design for SaaS
+
+https://dribbble.com/shots/20910791
+
+#### Legacy of Resilience (2)
+
+https://dribbble.com/shots/20939897
+
+#### Driving Skills Mobile App design: iOS Android ux ui designer
+
+https://dribbble.com/shots/20648897
+
+#### Abstract Flower 3D
+
+https://dribbble.com/shots/20960182
+
+#### Oppo Icon Branding Design: iconography icons pack flat vector
+
+https://dribbble.com/shots/20648686
+
+#### Medizinisch - Healthcare Technology Mobile Apps
+
+https://dribbble.com/shots/20927462
+
+#### Wise Admin Dashboard: Analytics UX
+
+https://dribbble.com/shots/20920711
+
+#### Fitness Mobile App
+
+https://dribbble.com/shots/20685089
+
+#### EMI Health Branding Illustrations
+
+https://dribbble.com/shots/20684898
+
+#### Camino Brand Guidelines, style guide book, branding deck, logo
+
+https://dribbble.com/shots/20675349
+
+#### Energycomplex
+
+https://dribbble.com/shots/20920100
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### 褐寡妇打败黑寡妇
+
+https://www.solidot.org/story?sid=74444
+
+#### 新基因编辑技术成功逆转小鼠视力损失 
+
+https://www.solidot.org/story?sid=74443
+
+#### 科学家找到方法控制雄蚊的精子
+
+https://www.solidot.org/story?sid=74442
+
+#### Curl 8.0.0 释出
+
+https://www.solidot.org/story?sid=74441
+
+#### 鸟儿搭乘海上船只的便车
+
+https://www.solidot.org/story?sid=74440
+
+#### 北海鳕鱼在变小
+
+https://www.solidot.org/story?sid=74439
+
+#### 转基因水稻可能能在火星上生长
+
+https://www.solidot.org/story?sid=74438
+
+#### Ken Thompson 称他正从 Mac 切换到 Linux 
+
+https://www.solidot.org/story?sid=74437
+
+#### Web3 基础设施基金会于香港成立：欢迎来到真实的荒漠
+
+https://www.solidot.org/story?sid=74436
+
+#### 2022 年度的自由软件奖宣布
+
+https://www.solidot.org/story?sid=74435
+
+#### curl 作者回顾过去二十五年
+
+https://www.solidot.org/story?sid=74434
+
+#### LLVM 编辑器套件释出 v16.0.0 
+
+https://www.solidot.org/story?sid=74433
+
+#### 中国二手市场出现假冒的三星 980 Pro SSD
+
+https://www.solidot.org/story?sid=74432
+
+#### Mastodon 用户数突破一千万
+
+https://www.solidot.org/story?sid=74431
+
+#### 硅谷银行和 Peter Thiel
+
+https://www.solidot.org/story?sid=74430
+
+#### 暗网数据泄密网站 BreachForums 站长被捕
+
+https://www.solidot.org/story?sid=74429
+
+#### 马斯克宣布将在 3 月 31 日公开 Twitter 推荐算法源代码 
+
+https://www.solidot.org/story?sid=74428
+
+#### 负面情绪驱动了在线新闻消费
+
+https://www.solidot.org/story?sid=74427
+
+#### 婴儿食用花生酱能大幅减少花生过敏
+
+https://www.solidot.org/story?sid=74426
+
+#### 三星 Exynos 芯片漏洞影响数十款 Android 设备
+
+https://www.solidot.org/story?sid=74425
+
+### V2EX
+
+#### \[问与答\] 小米云备份都备份了些什么？
+
+https://www.v2ex.com/t/925727
+
+#### \[问与答\] 快橙的假微博是怎么做出来的？
+
+https://www.v2ex.com/t/925726
+
+#### \[Apple\] 澳洲教育优惠 x 85 折标配 Mac Studio 代购
+
+https://www.v2ex.com/t/925725
+
+#### \[买买买\] PDD 百亿补贴入手的 MacBook pro 略翻车
+
+https://www.v2ex.com/t/925724
+
+#### \[Python\] 用 ChatGPT 编写个 素数判断 的代码，怎么改不够完美？
+
+https://www.v2ex.com/t/925723
+
+#### \[VPS\] 大佬们。。你们 VMESS 或 VLESS 都是如何搭配的呀
+
+https://www.v2ex.com/t/925722
+
+#### \[问与答\] google 是根据哪些信息判断常用登录设备的？ 有没有可能模拟出谷歌能识别的常用设备？
+
+https://www.v2ex.com/t/925720
+
+#### \[Python\] Python 进阶疑惑
+
+https://www.v2ex.com/t/925719
+
+#### \[北京\] 应届前端求内推（二本）
+
+https://www.v2ex.com/t/925717
+
+#### \[问与答\] 留学生后端求职求解惑
+
+https://www.v2ex.com/t/925715
+
+#### \[SONY\] Sony 电视系统又有更新了，有勇士升级了么
+
+https://www.v2ex.com/t/925714
+
+#### \[分享创造\] 我们发布了 Logto Cloud (Preview) 以及开源第一个正式版 - 体验极佳的全能身份解决方案
+
+https://www.v2ex.com/t/925713
+
+#### \[问与答\] 你们的 chatgpt plus 开通的邮件是由 mandrillapp.com 代发的吗？
+
+https://www.v2ex.com/t/925712
+
+#### \[问与答\] \[求职相关\]心理学出身想进入人工智能相关行业有没有好建议？
+
+https://www.v2ex.com/t/925709
+
+#### \[酷工作\] 远程岗位招聘------Flutter 开发工程师 20-30K/月
+
+https://www.v2ex.com/t/925708
+
+#### \[程序员\] 把 ChatGPT 代理回国，微信搜索小程序《给我展开说说》
+
+https://www.v2ex.com/t/925703
+
+#### \[问与答\] Obsidian 有像 GitHub 那样支持 mermaid 操作（放大、缩小、平移）操作的插件吗？
+
+https://www.v2ex.com/t/925700
+
+#### \[OpenAI\] 在 ChatGPT 看到了别人的聊天记录
+
+https://www.v2ex.com/t/925699
+
+#### \[奇思妙想\] 视频标注
+
+https://www.v2ex.com/t/925696
+
+#### \[北京\] 准备去北京协和治病，有啥住宿，医院方面的建议
+
+https://www.v2ex.com/t/925694
+
+#### \[问与答\] 退休的 minipc 有什么玩法?
+
+https://www.v2ex.com/t/925693
+
+#### \[硬件\] 好多年没装机已经搞不清新硬件了，请大家给点建议 
+
+https://www.v2ex.com/t/925692
+
+#### \[问与答\] vue 支持应用嵌套么？
+
+https://www.v2ex.com/t/925691
+
+#### \[宽带症候群\] 上海 SDN 光猫奇怪的 IP 问题
+
+https://www.v2ex.com/t/925690
+
+#### \[程序员\] 基于 chatgpt，做个 VSCode 插件，模仿 copilot 的辅助编码？
+
+https://www.v2ex.com/t/925689
+
+#### \[问与答\] 请教实验室搭建存储服务器
+
+https://www.v2ex.com/t/925688
+
+#### \[职场话题\] 项目管理 VS 运维开发 两个哪个更好？更有持久力？
+
+https://www.v2ex.com/t/925687
+
+#### \[Python\] 请教各位大佬一个 Python 问题，关于局部变量。
+
+https://www.v2ex.com/t/925686
+
+#### \[问与答\] 高铁在某些途中信号很差几乎断网，是否 4G 比 5G 信号质量会更好？车上 WIFI 几乎不能用？
+
+https://www.v2ex.com/t/925685
+
+#### \[硬件\] 数据盘（机械）掉盘
+
+https://www.v2ex.com/t/925684
+
+#### \[分享创造\] 为了将 ChatGPT 的生成内容与我的 Github 知识库联动，做了一个 Chrome 插件一键同步 Github
+
+https://www.v2ex.com/t/925682
+
+#### \[Surge\] Surge iOS 3 人车
+
+https://www.v2ex.com/t/925681
+
+#### \[生活\] 为何国家不出面营救东南亚被骗人员？
+
+https://www.v2ex.com/t/925680
+
+#### \[程序员\] Synology Moments 可以转码 iPhone 拍的 raw 照片 DNG 后缀照片吗？
+
+https://www.v2ex.com/t/925679
+
+#### \[问与答\] 电视盒子请教
+
+https://www.v2ex.com/t/925677
+
+#### \[问与答\] 请教前端大佬，项目亮点以及遇到的难题该如何包装
+
+https://www.v2ex.com/t/925675
+
+#### \[OpenAI\] chatgpt 是崩了还是我的账号挂了
+
+https://www.v2ex.com/t/925674
+
+#### \[酷工作\] \[ 远程 \] GO， QT， UI， WordPress，等
+
+https://www.v2ex.com/t/925673
+
+#### \[云计算\] 土豆片_多云开源_控制面板诚邀体验优化
+
+https://www.v2ex.com/t/925672
+
+#### \[分享发现\] 阿里云盘学生免费领取 1TB 永久空间
+
+https://www.v2ex.com/t/925671
+
+#### \[MacBook Pro\] 现在还可以买 m1 pro 还是 m2 pro？
+
+https://www.v2ex.com/t/925670
+
+#### \[酷工作\] 招 Web3 产品运营、社区运营
+
+https://www.v2ex.com/t/925669
+
+#### \[ WATCH\] 给 Series 6 续了 6 个月的 Apple Care 终于熬到了免费换电池
+
+https://www.v2ex.com/t/925668
+
+#### \[硬件\] 纠结 17 年的 itx 主板 + 内存要不要换
+
+https://www.v2ex.com/t/925667
+
+#### \[职场话题\] 电报群，沟通交流 remote job，闲扯勿进
+
+https://www.v2ex.com/t/925666
+
+#### \[OpenAI\] 哪位大哥可以帮忙测试下我的 api key 是否有效。
+
+https://www.v2ex.com/t/925665
+
+#### \[酷工作\] \[内推\] 又到了金三银四的季节，『米哈游』社招内推开始啦
+
+https://www.v2ex.com/t/925664
+
+#### \[问与答\] 求一个可以本地部署的 gpt
+
+https://www.v2ex.com/t/925662
+
+#### \[macOS\] 准备升级 macos 13 了，听说预计 3 月 28 日会出 macos 13.3
+
+https://www.v2ex.com/t/925661
+
+#### \[程序员\] 开发了一个 Relingo 的桌面版，但是不了解 macos App 的分发规则，求助 
+
+https://www.v2ex.com/t/925658
+
+## Generic News
+
+### AP News
+
+#### Trump indictment would be unprecedented moment in US history
+
+https://apnews.com/article/fec69a819de645549f10c0ab61f3ea72
+
+FILE - Former President Donald J. Trump watches the NCAA Wrestling
+Championships, Saturday, March 18, 2023, in Tulsa, Okla. Trump's calls
+for protests ahead of his anticipated indictment in New York have
+generated mostly muted reactions\...
+
+#### Hall of Fame coach Rick Pitino accepts job at St. John's
+
+https://apnews.com/article/e705cbdf6f60028c392ecaf670199b5a
+
+Iona head coach Rick Pitino calls out during the second half of an NCAA
+college basketball game against the Marist in the championship of the
+Metro Atlantic Athletic Conference Tournament, Saturday, March 11, 2023,
+in Atlantic City N.J\...
+
+#### Idaho poised to allow firing-squad executions in some cases
+
+https://apnews.com/article/410bd284ffbdb50d3b4a162fe8088dad
+
+FILE - The execution chamber at the Idaho Maximum Security Institution
+is shown as Security Institution Warden Randy Blades look on in Boise,
+Idaho on Oct. 20, 2011. A bill that would allow Idaho to kill condemned
+inmates by firing squad\...
+
+#### Pay transparency is spreading. Here's what you need to know
+
+https://apnews.com/article/0e4b2754b08d4e1ab4ffd2708cd759f7
+
+FILE - Hiring signs are displayed at a grocery store in Arlington
+Heights, Ill., Jan. 13, 2023. Employers are increasingly posting salary
+ranges for job openings, even in states where its not mandated by law,
+according to\...
+
+#### Biden issues first veto, taking on new Republican House
+
+https://apnews.com/article/5971f2ee28c04b7dd8727606185cc53f
+
+President Joe Biden waves as he walks to Marine One upon departure from
+the South Lawn of the White House, Friday, March 17, 2023, in
+Washington. Biden is headed to Delaware. (AP Photo/Alex Brandon)
+WASHINGTON (AP) --- President Joe Biden\...
+
+#### Jury convicts 3 of murder in death of rapper XXXTentacion
+
+https://apnews.com/article/56ba2e060ff65d639d0a87ffb04e63fa
+
+Trayvon Newsome, left, Dedrick Williams and Michael Boatwright were
+found guilty of first-degree murder of XXXTentacion at the Broward
+County Courthouse in Fort Lauderdale on Monday, March 20, 2023. (Carline
+Jean/South Florida Sun\...
+
+#### Will the Credit Suisse bank takeover calm financial fears?
+
+https://apnews.com/article/4eb7f8e70849072b13d067382230d448
+
+The logos of the Swiss banks UBS and Credit Suisse are displayed on
+different buildings in Geneva, Switzerland, Monday, March 20, 2023.
+Shares of Credit Suisse plunged 60.5% on Monday after banking giant UBS
+said it would buy its\...
+
+#### The big problem for endangered orcas? Inbreeding
+
+https://apnews.com/article/fea3de9d4d20ff6e4ee8d37b1c5a78f2
+
+FILE - This Sept. 2015, photo provided by NOAA Fisheries shows an aerial
+view of adult female Southern Resident killer whale (J16) swimming with
+her calf (J50). New research suggests that inbreeding may be a key
+reason that the Pacific\...
+
+#### Miami Beach struggles with spring break violence, big crowds
+
+https://apnews.com/article/8b72d3ad074f087025fbcd828ce6c79c
+
+Crowds walk up and down Ocean Drive during spring break on Saturday,
+March 18, 2023, in Miami Beach, Fla. Miami Beach officials imposed a
+curfew beginning Sunday night, March 19, after two fatal shootings and
+rowdy, chaotic crowds that\...
+
+#### US: War crimes on all sides in Ethiopia's Tigray conflict
+
+https://apnews.com/article/da5d9ac7c900c58cc34b9ca5d4156667
+
+Secretary of State Antony Blinken departs a briefing on the 2022 Country
+Reports on Human Rights Practices at the State Department in Washington,
+Monday, March 20, 2023. (AP Photo/Andrew Harnik) WASHINGTON (AP) --- The
+Biden\...
+
+#### Paris aims to keep Olympians cool without air conditioners
+
+https://apnews.com/article/78b47a6f1bf0e1fcae9889cce9debcd9
+
+The Olympic athletes village construction site is pictured In Saint
+Denis, outside Paris, Saturday, March 18, 2023. Some Paris 2024 Olympic
+hopefuls have expressed concern over the lack of air conditioning units
+in the\...
+
+#### Amazon cuts 9,000 more jobs, bringing 2023 total to 27,000
+
+https://apnews.com/article/0e857f39702de134c8f677c5b5731688
+
+FILE - An Amazon logo appears on a delivery van, Oct. 1, 2020, in
+Boston. Amazon plans to eliminate 9,000 more jobs in the next few weeks,
+the companys CEO Andy Jassy said in a memo to staff on Monday, March 20,
+2023. The\...
+
+#### US aid worker and French journalist freed in West Africa
+
+https://apnews.com/article/b94936724080252ad5a1a3070b986d2a
+
+French journalist Olivier Dubois, left, and American aid worker Jeffery
+Woodke, center, arrive at the VIP lounge at the airport in Niamey,
+Niger, Monday March 20, 2023. Woodke was held by Islamic extremists in
+West Africa for more than\...
+
+### Reuters
+
+#### Biden signs bill requiring declassification of COVID origins information
+
+https://www.reuters.com/world/us/biden-signs-bill-requiring-declassification-covid-origins-information-2023-03-20/
+
+Security personnel keep watch outside the Wuhan Institute of Virology
+during the visit by the World Health Organization (WHO) team tasked with
+investigating the origins of the coronavirus disease (COVID-19),
+in Wuhan, Hubei province\...
+
+#### US report lists 'significant human rights' abuses in India
+
+https://www.reuters.com/world/india/us-report-lists-significant-human-rights-abuses-india-2023-03-20/
+
+Demonstrators attend a protest against riots following clashes between
+people demonstrating for and against a new citizenship law in New Delhi,
+India, March 3, 2020. REUTERS/Adnan Abidi The annual U.S. report on
+human rights practices\...
+
+#### Judge blocks California law requiring safety features for handguns
+
+https://www.reuters.com/world/us/judge-blocks-california-law-requiring-safety-features-handguns-2023-03-20/
+
+Customers view semi automatic guns on display at a gun shop in Los
+Angeles, California December 19, 2012. Gun shops report increase in
+sales since the Connecticut school massacre. REUTERS/Gene Blevins
+Protester holding a sign as students\...
+
+#### Far-right activists wary of 'trap' after Trump calls for protests
+
+https://www.reuters.com/world/us/far-right-activists-wary-trap-after-trump-calls-protests-2023-03-20/
+
+A protestor holds a sign outside 80 Centre Street, where Manhattan
+District Attorney Alvin Bragg continues his investigation into former
+U.S. President Donald Trump, in New York City, U.S., March 20, 2023.
+REUTERS/David Dee Delgado Police\...
+
+#### Venezuela oil minister resigns, police arrest officials in corruption sweep
+
+https://www.reuters.com/world/americas/venezuelan-police-arrest-mayor-judges-public-official-corruption-state-tv-2023-03-20/
+
+Venezuelan Oil Minister Tareck El Aissami speaks during the
+Venezuela-Turkey Binational meeting at the Miraflores Palace, in
+Caracas, Venezuela January 24, 2023. REUTERS/Leonardo Fernandez
+Viloria/File Photo Venezuelas\...
+
+#### South Africa's EFF marches to demand Ramaphosa's resignation
+
+https://www.reuters.com/world/africa/south-african-authorities-arrest-87-ahead-anti-government-protest-2023-03-20/
+
+Summary: South Africans tired of power shortages, unemployment EFF
+leader Malema calls for national shutdown Fury at Ramaphosa and ANC
+ahead of 2024 national polls Members of the political party\...
+
+#### New York City braces for Trump indictment after ex-president urges protests
+
+https://www.reuters.com/world/us/new-york-city-braces-trump-indictment-after-ex-president-urges-protests-2023-03-20/
+
+Former U.S. President Donald Trump delivers remarks on education as he
+holds a campaign rally with supporters, in Davenport, Iowa, U.S. March
+13, 2023. REUTERS/Jonathan Ernst Workers erected barricades around a
+Manhattan courthouse on\...
+
+#### US, China, Russia argue over North Korea at United Nations
+
+https://www.reuters.com/world/us-china-russia-argue-over-north-korea-united-nations-2023-03-20/
+
+People watch a TV broadcasting a news report on North Korea firing a
+ballistic missile into the sea off its east coast, at a railway station
+in Seoul, South Korea, March 16, 2023. REUTERS/Kim Hong-Ji/File Photo
+The United Nations\...
+
+#### Four Oath Keeper associates convicted of felonies for roles in US Capitol attack
+
+https://www.reuters.com/world/us/jury-convicts-four-far-right-oath-keeper-associates-over-us-capitol-attack-2023-03-20/
+
+The United States Capitol Building is reflected in the water at sunrise
+in Washington, October 31, 2008. REUTERS/Jim Young Four associates of
+the far-right Oath Keepers group were found guilty on Monday for their
+roles in the Jan. 6\...
+
+#### US House Republicans launch investigation of Manhattan DA in Trump probe
+
+https://www.reuters.com/world/us/republican-us-house-panels-seek-testimony-manhattan-da-trump-probe-2023-03-20/
+
+Signage is seen in the Manhattan District Attorney Alvin Braggs offices
+as he continues his investigation into former U.S. President Donald
+Trump, in Manhattan, New York City, U.S., March 18, 2023. REUTERS/Andrew
+Kelly U\...
+
+#### Russia's Wagner chief warns defence minister of coming Ukrainian attack
+
+https://www.reuters.com/world/europe/russias-wagner-chief-warns-defence-minister-coming-ukrainian-attack-2023-03-20/
+
+Yevgeny Prigozhin, founder of Russias Wagner mercenary force, speaks in
+Paraskoviivka, Ukraine in this still image from an undated video
+released on March 3, 2023. Concord Press Service/via REUTERS Russian
+mercenary boss\...
+
+#### French government faces big votes over unpopular pension overhaul
+
+https://www.reuters.com/world/europe/macrons-government-faces-moment-truth-over-pension-system-overhaul-2023-03-20/
+
+Summary: Government faces no confidence vote Unlikely to go through but
+numbers are tight Protesters vow to fight on even if motions fail
+Firefighters and police officers work as smoke rises from burning
+materials on a highway during a\...
+
+#### Ukraine says eastern town of Avdiivka could become 'second Bakhmut'
+
+https://www.reuters.com/world/europe/ukraine-says-eastern-town-avdiivka-could-become-second-bakhmut-2023-03-20/
+
+A general view shows a car damaged by debris, amid Russias attack on
+Ukraine, in Avdiivka, Donetsk Region, Ukraine, March 15, 2023, in this
+screen grab obtained from a video. Donetsk Region Police/Handout via
+REUTERS/File\...
+
+### 联合早报
+
+#### 卜睿哲：万一发生台海战争 美国就算要驰援也得花上数星期
+
+https://www.zaobao.com/news/china/story20230321-1374535
+
+台湾前参谋总长李喜明上将（背向镜头）向卜睿哲（右二）提问，一旦台海发生冲突，美国是否会驰援、是否已在准备方案？台上还有远见·天下文化事业群创办人高希均教授（右一）和苏起。（温伟中摄）
+美国在台协会前理事主席卜睿哲认同台湾国安会前秘书长苏起的评估，万一发生台海战争，美国就算要驰援也得花上数星期......
+
+#### 港巴冲撞分界堤 44人受伤送院
+
+https://www.zaobao.com/news/china/story20230321-1374536
+
+香港九龙巴士公司的一辆双层巴士，星期一（20日）上午9时42分从九龙半岛的将军澳前往荃湾西站，驶至呈祥道时突然失控猛撞路中分界堤，巴士左边车头被削开毁烂，挡风玻璃碎裂，左边车身搁在石堤上。该辆巴士失事时连同巴士车长，全车约有77人，当中上层55名乘客一度被困，部份人撞损受伤流血。消防人员耗时约1小时将乘客逐一救出，44人受伤送院......
+
+#### 新西兰外长今天访华
+
+https://www.zaobao.com/news/china/story20230321-1374538
+
+新西兰外交部长马胡塔将于星期二（3月21日）访华，在北京与中国外交部长秦刚会面。这将是自2019年以来，新西兰部长首次访问中国。
+中国外交部发言人汪文斌星期一（20日）宣布，应中国国务委员兼外长秦刚邀请，新西兰外长马胡塔将于3月22日至25日访问中国。
+据路透社报道，马胡塔在声明中说，她将向秦刚提出新西兰对关键安全挑战的关切，如俄罗斯非法入侵乌克兰，同时也为人权议题发声，以反映新西兰的价值观......
+
+#### 速读中华
+
+https://www.zaobao.com/news/china/story20230321-1374539
+
+美韩、美日在日本海附近展开联合军演之际，中国军方自星期一（3月20日）开始在黄海北部海域进行为期四天的实弹射击，禁止船只驶入。
+据中国海事局网站消息，大连海事局上星期四（3月16日）发布航行警告，自3月20日零时至24日24时，黄海北部部分海域进行实弹射击，禁止船只驶入。中国军方此次是在一个月内第二次在黄海海域进行实弹射击......
+
+#### 早 说
+
+https://www.zaobao.com/news/china/story20230321-1374540
+
+台海危机风险愈演愈烈，一旦国家（中国政府）因形势所逼不得不出手解决台湾问题时，美国势必对中国采取更疯狂的制裁行动。美国官方已多次在这方面放出狠话，到时香港极有可能成为美国金融制裁打击的目标。
+------中国全国侨联副主席、中国和平统一促进会香港总会理事长卢文端，在《明报》撰文谈及香港须应对美国制裁封锁......
+
+#### 港口空集装箱堆积 海关总署长称国际看好中国出口能力
+
+https://www.zaobao.com/news/china/story20230321-1374542
+
+中国港口据报出现大量集装箱空箱堆积情况，引发外界对中国外贸形势可持续能力的担忧。中国海关总署署长俞建华星期一（3月20日）回应称，大量空箱在中国港口蓄势待发，某种程度上反映了国际市场依然看好中国下一阶段的出口能力。
+据新华社报道，俞建华在发布会上说，空箱增多有前一个时期新集装箱投放量过大、国内堆存成本较低、国外疫情缓解后空箱短期大量回流的原因，也有季节性规律作用......
+
+#### 因疫情防控及中美关系降温 美赴华留学生人数跌至新低
+
+https://www.zaobao.com/news/china/story20230321-1374543
+
+受中国严格的疫情防控和日渐紧张的中美关系影响，美国赴华留学生骤降至20多年来的最低点，在2020至2021学年仅382名。
+据美国国务院下属的美国教育中心（EducationUSA）公布的数据，2020至2021学年的赴华留学生人数不及前一学年2481人的六分之一，较2018年至2019学年的1万1639人更是锐减了近97%......
+
+#### 宁波奉化举行 两岸桃花马拉松赛
+
+https://www.zaobao.com/news/china/story20230321-1374544
+
+2023年奉化海峡两岸桃花马拉松赛3月19日在浙江宁波奉化区举行，本届赛事设有全程马拉松、半程马拉松、欢乐跑三个项目。图为参赛运动员经过奉化区萧王庙街道林家村的一片桃园......
+
+#### 台出口陆港晶片连降四个月
+
+https://www.zaobao.com/news/china/story20230321-1374545
+
+由于中美紧张关系升温及电子产品的需求下降，台湾今年2月份对中国大陆和香港的集成电路晶片（IC晶片，中国大陆称IC芯片）出口连续第四个月下降。
+集成电路晶片是电子产品、电脑和智能手机的重要元件。
+据彭博社报分析，台湾是世界最大高端晶片生产地，但是全球对高端晶片的需求正快速下降，台湾身为一个地缘政治热点也促成了跌势......
+
+#### 福建冬泳 千人竞逐
+
+https://www.zaobao.com/news/china/story20230320-1374240
+
+（中新社）
+由福建福州市冬泳协会主办的千人畅游闽江活动星期天（3月19日）在闽江公园华龙园举行。福州市38支冬泳队1082名冬泳爱好者在闽江展开水上竞逐......
+
+#### 国民党终止选策会运作 "朱侯"矛盾浮现？
+
+https://www.zaobao.com/news/china/story20230320-1374241
+
+侯友宜（左）2010年曾受时任新北市长的朱立伦（右）邀请，担任副市长长达七年多。2015年朱立伦受国民党征召参加总统大选，侯友宜曾代理新北市长三个月。（互联网）
+台湾在野的国民党中央选策会名单惹议，引发党内反弹，前天宣布终止运作。有蓝营人士指出，这是国民党主席朱立伦与新北市长侯友宜之间的矛盾浮现......
+
+#### 中国流感病毒阳性率升至53.2%
+
+https://www.zaobao.com/news/china/story20230320-1374242
+
+中国官方数据显示，尽管天气回暖，哨点医院流感样病例中的流感病毒阳性率不断上升。哨点医院是指特别设立的重点监测、控制和治疗流行病的医院。
+中国疾病预防控制中心官网星期六（3月18日）发布的数据显示，截至3月12日的第10周，流感病毒阳性率已经达53.2%，远高于第五周的0.7%。
+与此同时，冠病阳性率连续两周下降，截至3月12日的第10周为2.7%......
+
+#### 提高应对中国大陆军事威胁能力 台湾加强各军联合战术专精训练
+
+https://www.zaobao.com/news/china/story20230320-1374243
+
+为提高应对中国大陆各种军事威胁的能力，台湾空军加强与各军种间的联合战术专精训练，云集包括F-16V、幻象2000及IDF"经国号"等战斗机种，赋予种子教官将各种精进战术推广至各作战队的重任。
+据《自由时报》报道，台湾空军司令部今年3月初在花莲基地，开办由副司令孙连胜中将主持的"联合战术专精班"......
+
+#### 马英九将于27日赴中国大陆祭祖
+
+https://www.zaobao.com/news/china/story20230320-1374244
+
+台湾前总统马英九将于3月27日赴中国大陆祭祖，并率台湾青年学子与大陆学生交流。（自由时报）
+（台北／香港讯）台湾前总统马英九将于3月27日赴中国大陆祭祖，并率台湾青年学子与大陆学生交流。这是自1949年两岸分治以来，74年第一位踏上大陆的台湾卸任总统......
+
+#### 早说
+
+https://www.zaobao.com/news/china/story20230320-1374245
+
+国民党不缺人才，缺的是牺牲自己成全别人。
+------台中市的国民党籍市长卢秀燕在台湾《联合报》星期天（3月19日）刊登的专访中作上述表述。她再度表态，2024年不参选总统、副总统，并认为国民党人选最迟应该在6月决定......
+
+#### 调查：美未出兵援乌是主因 对美安全承诺台民众信赖度降低
+
+https://www.zaobao.com/news/china/story20230320-1374247
+
+美国伊利诺州立大学政治学系教授王德育3月16日在台湾中研院演讲时指出，虽然美国总统拜登自2021年以来四度表态，美军会在北京犯台时协防台湾，但美国并未出兵援助乌克兰，是台湾人降低对美信心的主因。（翻摄自台湾中研院政治所视频会议画面）
+中研院政治所副研究员吴文钦说，根据中研院近年的调查，美国采取战略模糊的代价就是疑美论增加，特别是美国的行为与做出的声明有所不同，民众的信心自然会下降......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

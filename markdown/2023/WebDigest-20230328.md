@@ -1,0 +1,1023 @@
+Other formats: [PDF](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/webdigest/WebDigest-20230328.pdf--d0488a780d1a8215ac78dc08644173b9.pdf) / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20230328.html)
+
+
+# Web Digest 2023-03-28
+
+
+## Developers
+
+### Hacker News
+
+#### Kubernetes is hard
+
+https://rcwz.pl/2023-03-26-kubernetes-is-hard/
+
+https://news.ycombinator.com/item?id=35331887
+
+#### The FBI's Contract to Buy Mass Internet Data
+
+https://www.vice.com/en/article/dy3z9a/fbi-bought-netflow-data-team-cymru-contract
+
+https://news.ycombinator.com/item?id=35331237
+
+#### Disney begins laying off 7k employees
+
+https://www.cnn.com/2023/03/27/media/disney-layoffs/index.html
+
+https://news.ycombinator.com/item?id=35331154
+
+#### Greenland ice sheet is close to a melting point of no return
+
+https://news.agu.org/press-release/the-greenland-ice-sheet-is-close-to-a-melting-point-of-no-return/
+
+https://news.ycombinator.com/item?id=35330465
+
+#### Employees are feeding sensitive data to ChatGPT, raising security fears
+
+https://www.darkreading.com/risk/employees-feeding-sensitive-business-data-chatgpt-raising-security-fears
+
+https://news.ycombinator.com/item?id=35330438
+
+#### WebKit Features in Safari 16.4
+
+https://webkit.org/blog/13966/webkit-features-in-safari-16-4/
+
+https://news.ycombinator.com/item?id=35329961
+
+#### Apple passwords deserve an app
+
+https://cabel.com/2023/03/27/apple-passwords-deserve-an-app/
+
+https://news.ycombinator.com/item?id=35329950
+
+#### 5M item limit for Google Drive: File unable to generate or upload due to 403
+
+https://issuetracker.google.com/issues/268606830?pli=1
+
+https://news.ycombinator.com/item?id=35329135
+
+#### Rust's Golden Rule
+
+https://steveklabnik.com/writing/rusts-golden-rule
+
+https://news.ycombinator.com/item?id=35329038
+
+#### Xstate: State machines and statecharts for the modern web
+
+https://github.com/statelyai/xstate
+
+https://news.ycombinator.com/item?id=35328995
+
+#### Launch HN: Play.ht (YC W23) -- Generate and clone voices from 20 seconds of audio
+
+https://news.ycombinator.com/item?id=35328698
+
+https://news.ycombinator.com/item?id=35328698
+
+#### John Glenn's \$40 Camera Forced NASA to Rethink Space Missions
+
+https://petapixel.com/2023/03/23/how-john-glenns-40-camera-forced-nasa-to-rethink-space-missions/
+
+https://news.ycombinator.com/item?id=35328368
+
+#### CFTC sues Binance and CEO Changpeng Zhao \[pdf\]
+
+https://www.docdroid.net/60YAbCz/cftc-binance-pdf
+
+https://news.ycombinator.com/item?id=35327996
+
+#### Docker-compose.yml as a universal infrastructure interface
+
+https://ergomake.dev/blog/docker-compose-as-a-universal-interface/
+
+https://news.ycombinator.com/item?id=35327743
+
+#### Show HN: Open AI is not Open -- A browser extension
+
+https://github.com/zaporter/OpenAI-is-not-Open
+
+https://news.ycombinator.com/item?id=35327112
+
+#### Playing video games can help to reduce stress and anxiety, and improve mood
+
+https://cscaz.cansurround.com/articles/45
+
+https://news.ycombinator.com/item?id=35326846
+
+#### A Short 100-Question Diligence Checklist
+
+https://www.thediff.co/archive/100-due-diligence-questions-checklist/
+
+https://news.ycombinator.com/item?id=35326131
+
+#### Benchmarking Cheap SSDs for Fun, No Profit
+
+https://louwrentius.com/benchmarking-cheap-ssds-for-fun-no-profit-be-warned.html
+
+https://news.ycombinator.com/item?id=35325883
+
+#### GitHub issue - resolved
+
+https://www.githubstatus.com/incidents/52z0j6phhnjs
+
+https://news.ycombinator.com/item?id=35325709
+
+#### Zig and Rust
+
+https://matklad.github.io/2023/03/26/zig-and-rust.html
+
+https://news.ycombinator.com/item?id=35325556
+
+### Phoronix
+
+#### AMD Continues Linux Driver Enablement For Additional \"Aldebaran\" Instinct GPU
+
+https://www.phoronix.com/news/AMD-More-GFX943-Code-Patches
+
+#### Pending RADV Driver Change Leads To Much Lower System RAM Use For Some Games
+
+https://www.phoronix.com/news/RADV-sRAM-GPL-Optimization
+
+#### Ubuntu Touch OTA-1 Focal Released For Ubuntu 20.04 LTS On Smartphones
+
+https://www.phoronix.com/news/Ubuntu-Touch-OTA-1-Focal
+
+#### Intel Sapphire Rapids Performance With Google Cloud Compute Engine C3
+
+https://www.phoronix.com/review/google-cloud-c3-sapphire-rapids
+
+#### AmpereOne Sees Last Minute Compiler Tuning Ahead Of GCC 13
+
+https://www.phoronix.com/news/AmpereOne-Costs-GCC-13
+
+#### Linux 6.4 Device Mapper To See Improved Concurrent I/O Performance
+
+https://www.phoronix.com/news/Linux-6.4-DM-Concurrent-IO
+
+#### XWayland Lands Fix For At Least One Game Hanging It & Causing 100% CPU Usage
+
+https://www.phoronix.com/news/XWayland-Resident-Evil-Fix
+
+#### OBS Studio Lands AV1 & HEVC RTMP Streaming Support
+
+https://www.phoronix.com/news/OBS-Studio-AV1-HEVC-RTMP
+
+#### FreeBSD 13.2-RC5 Released With One Last Fix
+
+https://www.phoronix.com/news/FreeBSD-13.2-RC5
+
+### GitHub
+
+#### BlinkDL/RWKV-LM
+
+https://github.com/BlinkDL/RWKV-LM
+
+RWKV is an RNN with transformer-level LLM performance. It can be
+directly trained like a GPT (parallelizable). So its combining the best
+of RNN and transformer - great performance, fast inference, saves VRAM,
+fast training, \"infinite\" ctx_len, and free sentence embedding.\
+Language: Python\
+Stars: 4274\
+Forks: 288
+
+#### acantril/learn-cantrill-io-labs
+
+https://github.com/acantril/learn-cantrill-io-labs
+
+Standard and Advanced Demos for learn.cantrill.io courses\
+Language: Python\
+Stars: 3974\
+Forks: 1526
+
+#### ggerganov/whisper.cpp
+
+https://github.com/ggerganov/whisper.cpp
+
+Port of OpenAIs Whisper model in C/C++\
+Language: C\
+Stars: 13194\
+Forks: 1022
+
+#### willwulfken/MidJourney-Styles-and-Keywords-Reference
+
+https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference
+
+A reference containing Styles and Keywords that you can use with
+MidJourney AI. There are also pages showing resolution comparison, image
+weights, and much more!\
+Language: Unknown\
+Stars: 6665\
+Forks: 903
+
+#### n3d1117/chatgpt-telegram-bot
+
+https://github.com/n3d1117/chatgpt-telegram-bot
+
+🤖 A Telegram bot that integrates with OpenAIs official ChatGPT APIs to
+provide answers, written in Python\
+Language: Python\
+Stars: 608\
+Forks: 173
+
+#### f/awesome-chatgpt-prompts
+
+https://github.com/f/awesome-chatgpt-prompts
+
+This repo includes ChatGPT prompt curation to use ChatGPT better.\
+Language: HTML\
+Stars: 53448\
+Forks: 6309
+
+### Dribbble
+
+#### Wander Admin Dashboard: Analytics UX
+
+https://dribbble.com/shots/20986158
+
+#### Fleet / Fuel Card - Fintech Product
+
+https://dribbble.com/shots/20977673
+
+#### Puzzle Website Design: business landing web page, site designer
+
+https://dribbble.com/shots/20715142
+
+#### Creative South 🍑
+
+https://dribbble.com/shots/20977312
+
+#### Digest
+
+https://dribbble.com/shots/20977447
+
+#### Storage Rent Mobile App design: iOS Android ux ui designer
+
+https://dribbble.com/shots/20715967
+
+#### Oppo ColorOS Icons & Design System
+
+https://dribbble.com/shots/20715841
+
+#### Hager Witty Mobile App design: iOS Android ux ui designer
+
+https://dribbble.com/shots/20715028
+
+#### CVMaker - Job Finder
+
+https://dribbble.com/shots/20972345
+
+#### Sila Startup Brand Identity: strategy, branding, agency
+
+https://dribbble.com/shots/20685220
+
+#### Stable Logo Design, Logomark, Wordmark Designer business company
+
+https://dribbble.com/shots/20716279
+
+#### Logo, Branding, Mark, Symbol, Modern, lettermark, Logos
+
+https://dribbble.com/shots/20990551
+
+#### Intralogistics Management Map
+
+https://dribbble.com/shots/20984293
+
+#### Finance 3D Illustration Design
+
+https://dribbble.com/shots/20984258
+
+#### Brainwave - AI Art Generator
+
+https://dribbble.com/shots/20987686
+
+#### 3D Composition
+
+https://dribbble.com/shots/21026310
+
+#### Spooky Tattoo Flash
+
+https://dribbble.com/shots/20998628
+
+#### Tintech - Website Design for Blockchain Development Company
+
+https://dribbble.com/shots/20976703
+
+#### \"Ministries of Truth?\" - Editorial Collage
+
+https://dribbble.com/shots/20869476
+
+#### Export modal for Brainwave AI UI Kit
+
+https://dribbble.com/shots/20997312
+
+#### Clause Branding
+
+https://dribbble.com/shots/20865601
+
+#### Transferto. \| Cross-chain swaps
+
+https://dribbble.com/shots/20967502
+
+#### Wiza - Facelift
+
+https://dribbble.com/shots/21030610
+
+#### \[P\] 0 → 1
+
+https://dribbble.com/shots/20956070
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### 黑客组织以中国核能机构为攻击目标
+
+https://www.solidot.org/story?sid=74506
+
+#### 俄罗斯去匿名化 Telegram 用户
+
+https://www.solidot.org/story?sid=74505
+
+#### 他们在 Twitter 发色图，德国当局叫了警察
+
+https://www.solidot.org/story?sid=74504
+
+#### Lookout 确认拼多多的非 Play 版本包含恶意代码
+
+https://www.solidot.org/story?sid=74503
+
+#### ARM 想要改变芯片授权模式
+
+https://www.solidot.org/story?sid=74502
+
+#### 为什么美国儿童不再热爱阅读？
+
+https://www.solidot.org/story?sid=74501
+
+#### 电子竞技走向主流
+
+https://www.solidot.org/story?sid=74500
+
+#### 亚马逊拒绝 3 万员工反对强制性重返办公室的请愿
+
+https://www.solidot.org/story?sid=74499
+
+#### 盖茨预言 AI 新时代正在开启
+
+https://www.solidot.org/story?sid=74498
+
+#### 整个基因网络参与了植物的复活
+
+https://www.solidot.org/story?sid=74497
+
+#### 约会软件上的骗局
+
+https://www.solidot.org/story?sid=74496
+
+#### Twitter 源代码泄露
+
+https://www.solidot.org/story?sid=74495
+
+#### 微软研究员称 GPT-4 是 AGI 的雏形
+
+https://www.solidot.org/story?sid=74494
+
+#### 阿尔法狼是一种神话
+
+https://www.solidot.org/story?sid=74493
+
+#### 大众车载软件将支持 15 年左右
+
+https://www.solidot.org/story?sid=74492
+
+#### W 玻色子的最新测量再次支持标准模型
+
+https://www.solidot.org/story?sid=74491
+
+#### 法国禁止政府工作手机安装娱乐应用
+
+https://www.solidot.org/story?sid=74490
+
+#### 美国犹他州通过法律青少年使用社交媒体需要父母批准
+
+https://www.solidot.org/story?sid=74489
+
+#### 英特尔联合创始人戈登·摩尔去世
+
+https://www.solidot.org/story?sid=74488
+
+### V2EX
+
+#### \[程序员\] 谁有操作过美国短信 API 的经验,弄了好几个站一直都是审核不通过
+
+https://www.v2ex.com/t/927705
+
+#### \[Apple\] AppleCare+ 值得买吗？全球保吗？
+
+https://www.v2ex.com/t/927704
+
+#### \[程序员\] Mac 的盗版软件是怎么做的？
+
+https://www.v2ex.com/t/927703
+
+#### \[VPS\] 我注册的 vultr 突然要我提供手持,但是我用的是外国人的名字,没有手持怎么办?
+
+https://www.v2ex.com/t/927702
+
+#### \[Google\] 大家有手机端使用 google one 微屁恩的好办法吗？
+
+https://www.v2ex.com/t/927701
+
+#### \[macOS\] 这罗技的驱动简直有毒..
+
+https://www.v2ex.com/t/927699
+
+#### \[全球工单系统\] 有 Intuit 负责 QuickBooks 的 v 友吗？出了一个大 bug
+
+https://www.v2ex.com/t/927698
+
+#### \[游戏\] diablo4 简中的字体选择和搭配真的好差啊 🐶
+
+https://www.v2ex.com/t/927697
+
+#### \[Apple\] 搞不懂 Apple 这暗里不让更新的策略是什么
+
+https://www.v2ex.com/t/927696
+
+#### \[奇思妙想\] PC 客户端的程序现在还有什么需求吗？
+
+https://www.v2ex.com/t/927695
+
+#### \[分享创造\] PTPT - 带着我的新 ChatGPT 工具卷土重来啦
+
+https://www.v2ex.com/t/927694
+
+#### \[V2EX\] 免费的静态页面托管服务
+
+https://www.v2ex.com/t/927693
+
+#### \[问与答\] 有无 200 以内值得推荐的双肩包
+
+https://www.v2ex.com/t/927692
+
+#### \[程序员\] 突然发现一种很妙的动画图片制作方法
+
+https://www.v2ex.com/t/927691
+
+#### \[问与答\] 请问怎样才能使用 cf 自建图库呢
+
+https://www.v2ex.com/t/927690
+
+#### \[西安\] 有没有老哥有西安资源进来交流交流
+
+https://www.v2ex.com/t/927689
+
+#### \[程序员\] 用 Ubuntu18 与 clion 调试 FFmpeg（视频）
+
+https://www.v2ex.com/t/927688
+
+#### \[生活\] 杭州植发相关
+
+https://www.v2ex.com/t/927687
+
+#### \[程序员\] 能否分享一下你的个人导航/信息展示的纯静态网页？非 Blog
+
+https://www.v2ex.com/t/927686
+
+#### \[宽带症候群\] tailscale iOS 版支持 headscale 了
+
+https://www.v2ex.com/t/927685
+
+#### \[微信\] 微信由于未知原因部分功能被永久封禁，今天发现自己解封了？
+
+https://www.v2ex.com/t/927684
+
+#### \[NAS\] 群晖中的 docker 可以指定 ip 地址吗？
+
+https://www.v2ex.com/t/927683
+
+#### \[分享发现\] 发现访问 bard.google.com 能知道你 IP 是否纯净
+
+https://www.v2ex.com/t/927682
+
+#### \[问与答\] 用 edge 打开必应搜索微信第一个竟然是假的
+
+https://www.v2ex.com/t/927681
+
+#### \[云计算\] 阿里云国内 CDN 加速香港节点使用体验
+
+https://www.v2ex.com/t/927680
+
+#### \[问与答\] 有关 Python 的一点问题
+
+https://www.v2ex.com/t/927679
+
+#### \[职场话题\] 请教下，成都华为云下有哪些推荐的部门可以去呢？
+
+https://www.v2ex.com/t/927678
+
+#### \[随想\] 牢骚之后的牢骚
+
+https://www.v2ex.com/t/927677
+
+#### \[Bing\] 不用再开 ChatGPT Plus 了， Sydney 强大又好用
+
+https://www.v2ex.com/t/927676
+
+#### \[Docker\] 群晖中的 docker 可以备份吗？
+
+https://www.v2ex.com/t/927675
+
+#### \[问与答\] 如何方便的把接口复制到本地调试
+
+https://www.v2ex.com/t/927674
+
+#### \[问与答\] 关于闲置 iPhone 设备的用途，除了短信转发还有什么其他玩法？
+
+https://www.v2ex.com/t/927673
+
+#### \[程序员\] 请教 AWS 容器部署的最佳实践？
+
+https://www.v2ex.com/t/927672
+
+#### \[问与答\] GPT 陷入死循环，写一个 24 点的算法
+
+https://www.v2ex.com/t/927671
+
+#### \[问与答\] 现成的后端有那些好用的？
+
+https://www.v2ex.com/t/927670
+
+#### \[问与答\] 你们登录谷歌账号有遇到这么脑血栓的问题吗？
+
+https://www.v2ex.com/t/927668
+
+#### \[杭州\] 咸鱼贩子是怎么做到你一发布，马上联系你的？
+
+https://www.v2ex.com/t/927667
+
+#### \[科技\] 现在的 GPT4 逻辑推理是个猴版
+
+https://www.v2ex.com/t/927666
+
+#### \[程序员\] RustTalk 第八期 -- 与小福聊聊编译器那些事
+
+https://www.v2ex.com/t/927664
+
+#### \[VPS\] 当晚高峰电信用上了 4837 果然丝滑了许多
+
+https://www.v2ex.com/t/927662
+
+#### \[问与答\] 大一，前路迷茫\...\...希望老哥们给点光亮指引小弟🫡
+
+https://www.v2ex.com/t/927661
+
+#### \[问与答\] 高分屏 scale 200% 怎么正常显示美团饿了么 h5 版网页？
+
+https://www.v2ex.com/t/927658
+
+#### \[问与答\] 有关软考的一些疑问
+
+https://www.v2ex.com/t/927657
+
+#### \[问与答\] 想问一下这种类型的设备可以接入系统，做到自动上报数据和下发数据吗？
+
+https://www.v2ex.com/t/927656
+
+#### \[程序员\] 可观测的前端应用-架构设计
+
+https://www.v2ex.com/t/927655
+
+#### \[酷工作\] 应届生前端求收留
+
+https://www.v2ex.com/t/927654
+
+#### \[Vivaldi\] Vivaldi 让人心碎
+
+https://www.v2ex.com/t/927653
+
+#### \[macOS\] 讨厌 mac 上国产输入法的庞大和乱七八糟的功能，又贪恋它的词库，生活总是不能事事顺心啊
+
+https://www.v2ex.com/t/927652
+
+#### \[问与答\] 问一个有没有类似于机械革命 Code 01 的笔记本
+
+https://www.v2ex.com/t/927651
+
+#### \[问与答\] github 新建仓库，返回 500
+
+https://www.v2ex.com/t/927650
+
+## Generic News
+
+### AP News
+
+#### Arizona gov steps in; scheduled execution unlikely next week
+
+https://apnews.com/article/d522d5087030f73783881110d4b29056
+
+FILE - This undated file photo provided by the Arizona Department of
+Corrections, Rehabilitation and Reentry shows Aaron Brian Gunches, who
+was convicted of murder in the 2002 killing of Ted Price in Maricopa
+County, Ariz. The Arizona\...
+
+#### Why does Russia want tactical nuclear weapons in Belarus?
+
+https://apnews.com/article/583a92f8a9710c613449180abf49ab13
+
+FILE - Belarusian army Su-25 jet fighters fly during a parade marking
+Independence Day in Minsk, Belarus, Wednesday, July 3, 2019. Russian
+President Vladimir Putin has announced that he intends to deploy
+tactical nuclear weapons on the\...
+
+#### NJ takes over Paterson police after crisis worker's shooting
+
+https://apnews.com/article/331860a671700a0625f94c207837427c
+
+FILE - New Jersey Attorney General Matt Platkin speaks in Trenton, N.J.,
+Feb. 3, 2020. On Monday, March 27, 2023, Platkin says his office has
+taken control of the police department in the states third-largest
+city\...
+
+#### What can Google's AI-powered Bard do? We tested it for you
+
+https://apnews.com/article/14ee02cb71b32f0e1fc87a4173c03796
+
+A portion of Googles Bard website is shown in Glenside, Pa., Monday,
+March 27, 2023. The recently rolled-out bot dubbed Bard is the internet
+search giants answer to the ChatGPT tool that Microsoft has\...
+
+#### Chipotle agrees to pay after closing store that sought union
+
+https://apnews.com/article/af89f99249bd805fd714751bae040181
+
+FILE - The Chipotle Mexican Grill logo is seen on a storefront, Friday,
+Oct. 14, 2022, in Boston. On Monday, March 27, 2023, union officials
+said Chipotle Mexican Grill has agreed to pay \$240,000 to former
+employees as part of a\...
+
+#### Patriots owner Robert Kraft campaigns against antisemitism
+
+https://apnews.com/article/5da8844493522237f7e3426b93307d9a
+
+FILE - New England Patriots owner Robert Kraft walks the field during
+practice before an NFL football game against the Buffalo Bills, Sunday,
+Jan. 8, 2023, in Orchard Park, N.Y. On Monday, March 27, 2023, Kraft
+launched a \$25-million\...
+
+#### Twitter celebs balk at paying Elon Musk for blue check mark
+
+https://apnews.com/article/2a9fbe4ea805763f50d4de2c417ce4ff
+
+FILE - A Twitter logo hangs outside the companys offices in San
+Francisco, on Dec. 19, 2022. William Shatner, Monica Lewinsky and other
+prolific Twitter commentators --- some household names, others
+little-known\...
+
+#### Taron Egerton slots Tetris story into place in new biopic
+
+https://apnews.com/article/a0d76e813f202017efeaa024aadbce36
+
+This image released by Apple TV+ shows Nikita Efremov, left, and Taron
+Egerton in a scene from \"Tetris,\" premiering March 31, 2023. (Angus
+Pigott/Apple TV+ via AP) The origin story of the iconic computer game
+"Tetris" is more thrilling\...
+
+#### Nashville school shooter had drawn maps, done surveillance
+
+https://apnews.com/article/5da45b469ccb6c9533bbddf20c1bfe16
+
+Children and a woman depart the reunification center at the Woodmont
+Baptist church after a school shooting, Monday, March 27, 2023, in
+Nashville, Tenn. (AP Photo/John Bazemore) NASHVILLE, Tenn. (AP) --- The
+suspect in a Nashville school\...
+
+#### No atmosphere found at faraway Earth-sized world, study says
+
+https://apnews.com/article/c963f4a0647d88dea37f85fa4bdbb642
+
+This illustration provided by the European Space Agency depicts what the
+exoplanet TRAPPIST-1 b could look like. On Monday, March 27, 2023,
+scientists said the Webb Space Telescope has found no evidence of an
+atmosphere at this innermost\...
+
+#### Sabres' Russian player won't take part in Pride night warmup
+
+https://apnews.com/article/5ab30a581bfe0f372cf109bbdafa509a
+
+FILE - Buffalo Sabres Ilya Lyubushkin plays during an NHL hockey game,
+Friday, March 17, 2023, in Philadelphia. Lyubushkin is citing an
+anti-gay Kremlin law and fears of facing retribution at home in Russia
+for electing\...
+
+#### In Trump probe, key witness as grand jury is back at work
+
+https://apnews.com/article/742461a52c86bb491667b085bc1aaa0b
+
+A vehicle leaves the garage at the state office building after David
+Pecker, former CEO of National Enquirer parent company, was believed to
+have met with a grand jury convening for the investigation of former
+President Donald Trump\...
+
+#### Whitney Houston's family wants to highlight her gospel roots
+
+https://apnews.com/article/8f6b27a4c8b4749352604ca64fc76d7e
+
+FILE - Singer Whitney Houston performs at the pre-Grammy gala & salute
+to industry icons with Clive Davis honoring David Geffen in Beverly
+Hills, Calif., on Feb. 13, 2011. A new posthumous gospel album "I Go to
+the Rock: The Gospel\...
+
+### Reuters
+
+#### A Christian school that 'celebrates childhood' becomes killing scene in Nashville
+
+https://www.reuters.com/world/us/christian-school-that-celebrates-childhood-becomes-killing-scene-in-nashville-2023-03-27/
+
+A child weeps while on the bus leaving The Covenant School, following a
+mass shooting at the school in Nashville, Tennessee, U.S., March 27,
+2023. Nicole Hester/USA Today Network via REUTERS Law enforcement
+officers and members of the U\...
+
+#### Israel government to delay disputed judiciary bill amid mass protests
+
+https://www.reuters.com/world/middle-east/israeli-president-urges-halt-judicial-overhaul-after-protests-2023-03-27/
+
+Summary: Netanyahu announces postponement to next month Army chief warns
+this hour different to any before Tens of thousands protest; worst
+national crisis in years Israelis attend a demonstration in\...
+
+#### Woman shoots dead 3 children, 3 adults at Christian school in Tennessee
+
+https://www.reuters.com/world/us/multiple-victims-reported-after-school-shooting-nashville-officials-say-2023-03-27/
+
+Students from the Covenant School hold hands after getting off a bus to
+meet their parents at the reunification site following a mass shooting
+at the school in Nashville, Tennessee, U.S. March 27, 2023. Mark
+Zaleski/USA Today Network via\...
+
+#### Prince Harry, Elton John appear at UK court in privacy lawsuit
+
+https://www.reuters.com/world/uk/court-hearing-prince-harry-elton-johns-privacy-case-against-uk-publisher-2023-03-26/
+
+Summary: UK royal makes unexpected visit for court case Elton John also
+arrives at London High Court They and others suing UK newspaper group
+They allege phone-hacking, bugging and blagging Associated Newspapers
+denies any unlawful\...
+
+#### Biden calls for assault weapons ban after Nashville shooting
+
+https://www.reuters.com/world/us/biden-calls-assault-weapons-ban-after-nashville-shooting-2023-03-27/
+
+U.S. President Joe Biden speaks during a joint news conference with
+Canadian Prime Minister Justin Trudeau, in Ottawa, Ontario, Canada,
+March 24, 2023. REUTERS/Blair Gable U.S. President Joe Biden called on
+Congress to pass an assault\...
+
+#### Factbox: Major school shootings in the United States
+
+https://www.reuters.com/world/us/major-school-shootings-united-states-2023-03-27/
+
+Children run past an ambulance near The Covenant School after a shooting
+in Nashville, Tennessee, U.S., March 27, 2023 in a still image from
+video. WKRN/NewsNation via REUTERS A 28-year-old woman shot dead three
+children and three adults\...
+
+#### Ukraine shuts 'post-apocalyptic' battlefield town to civilians
+
+https://www.reuters.com/world/europe/nato-slams-putin-rhetoric-nuclear-weapons-belarus-2023-03-27/
+
+Summary: EU urges Belarus not to host Russian nuclear weapons Avdiivka
+becoming post-apocalyptic, city shuts down -official Russia downs
+Ukrainian drone south of Moscow, 3 hurt -ministry Bakhmut still\...
+
+#### Giant advert for Russia's Wagner mercenary group appears near Moscow highway
+
+https://www.reuters.com/world/europe/giant-advert-russias-wagner-mercenary-group-appears-near-moscow-highway-2023-03-27/
+
+A truck displaying the symbols \"Z\" in support of the Russian armed
+forces involved in a military conflict in Ukraine is parked outside PMC
+Wagner Centre, which is a project implemented by the businessman and
+founder of the Wagner private\...
+
+#### Exclusive: Takeover target of Nintendo family office asks for Japan government probe
+
+https://www.reuters.com/markets/deals/takeover-target-nintendo-family-office-asks-japan-government-probe-2023-03-27/
+
+A man stands in front of Nintendos logo at the presentation ceremony of
+its new game console Switch in Tokyo, Japan January 13, 2017.
+REUTERS/Kim Kyung-Hoon/File Photo The Japanese construction company
+targeted for\...
+
+#### Taiwan told to vacate embassy in Honduras after ties severed
+
+https://www.reuters.com/world/taiwan-told-vacate-embassy-honduras-after-ties-severed-2023-03-27/
+
+A vehicle leaves the Taiwan Embassy after Honduras has given Taiwan 30
+days to vacate its embassy after severing relations with Taiwan in favor
+of China, in Tegucigalpa, Honduras March 26, 2023. REUTERS/Fredy
+Rodriguez People walk past\...
+
+#### Germany at a standstill as huge strike halts planes and trains
+
+https://www.reuters.com/world/europe/largest-strike-decades-leaves-germany-standstill-2023-03-27/
+
+Summary: Unions launch 24-hour strike, biggest since 1992 Germanys
+largest airports suspend flights Workers demand better pay to withstand
+price rises Inflation at near double digits A tram driver walks at a
+tram storage\...
+
+#### Russians angry at downing of Ukrainian drone over their homes
+
+https://www.reuters.com/world/europe/russians-angry-downing-ukrainian-drone-over-their-homes-2023-03-27/
+
+A person walks near the accident scene following what Russias Defence
+Ministry said to be the explosion of a halted Ukrainian unmanned aerial
+vehicles (UAV) in the town of Kireyevsk in the Tula region, Russia,
+March 27\...
+
+#### German Leopard 2 tanks have reached Ukraine -security source
+
+https://www.reuters.com/world/europe/german-leopard-2-tanks-have-reached-ukraine-security-source-2023-03-27/
+
+A view of the Leopard 2 tanks during live fire training and exercise for
+Ukrainian soldiers by German army Bundeswehr at the northern German
+shooting and training range of Bergen, Germany, in this handout picture
+obtained by Reuters on\...
+
+### 联合早报
+
+#### 马云现身杭州推翻拒回国传言 阿里股价闻声大涨
+
+https://www.zaobao.com/news/china/story20230328-1376973
+
+马云（右二）星期一（3月27日）在他创办的杭州云谷学校，与校园长们讨论ChatGPT、人工智能对教育带来的挑战与机遇。（取自云谷教育微信）
+在海外旅行逾一年的阿里巴巴创始人马云，据报星期一（3月27日）已回到中国国内，不仅现身由他创办的杭州云谷学校，也在杭州一处隧道里被网民看到，稍早有关他拒绝中国政府游说回国的传言因而被否定。受利好消息提振，在香港挂牌的阿里股价一度大涨5.5％......
+
+#### 刚与洪都拉斯断交 被指不合时宜 马英九"登陆"引爆台湾政坛争议
+
+https://www.zaobao.com/news/china/story20230328-1376974
+
+一名独派人士用麦克风向马英九一行表达强烈抗议，被在场维持秩序的警员架走。（法新社）
+中华爱国同心会人士在桃园机场外拉着"英九祭祖春暖花开我们都是一家人"的红布条，为马英九送行。（路透社）
+中美洲国家洪都拉斯此前一天（3月26日）宣布与台湾断交，执政的民进党与独派人士指责马英九不宜在此时出访大陆......
+
+#### 台湾总统选举剩九个多月 "蓝军"料最快下月确定候选人
+
+https://www.zaobao.com/news/china/story20230328-1376975
+
+鸿海创办人郭台铭星期一（3月27日）通过办公室宣布，当晚赴美进行12天科技经济开拓之旅，展现参选台湾总统的企图心。（取自郭台铭脸书）
+台湾将在2024年1月13日举行总统与立委选举，距今只剩九个多月。蓝绿白三党竞逐总统大位，执政的"绿军"民进党、打着"白色力量"旗号的第三大党民众党都已敲定候选人，最大在野党"蓝军"国民党也终于启动征召程序，估计最快4月、最迟6月就能确定人选......
+
+#### 香港下月中举办大规模教育活动 加强港人国安意识
+
+https://www.zaobao.com/news/china/story20230328-1376976
+
+香港国安法实施逾两年后，香港特区政府计划下月中旬大规模举办国家安全教育日活动，以加强港人的国家安全意识。
+《星岛日报》引述香港律政司司长林定国报道，4月15日是一年一度的"全民国家安全教育日"，今年主题为"国家安全．稳定繁荣基石"，将举办的活动类型包罗万象，包括开幕典礼、纪律部队综合升旗礼、专题讲座、学校工作坊、社区巡回展览、全港18区活动及嘉年华等......
+
+#### 新增两副部级高官 中国公安部领导班子基本定型
+
+https://www.zaobao.com/news/china/story20230328-1376977
+
+中国公安部新增两名副部级高官。公安部官网显示，陕西省原副省长、公安厅长徐大彤已出任公安部党委委员、副部长，成为公安部首位70后（1970年代出生）的副部长；广西壮族自治区原副主席、公安厅长凌志峰出任公安部党委委员、政治部主任。
+公安部原副部长杜航伟、公安部政治部原主任冯延的简历，已从公安部官网中撤下。杜、冯两人都已超过60周岁，依照惯例，副部级高官一般在年满60周岁后退休......
+
+#### 巴西总统染冠病 推迟访华 日期将再确定
+
+https://www.zaobao.com/news/china/story20230328-1376978
+
+巴西总统卢拉因感染冠病推迟访华行程，巴西农业部长法瓦罗（Carlos
+Favaro）星期天（3月26日）说，中国政府将再确认卢拉访华的新日期，中国与巴西也将推迟签署合作协议。
+据路透社报道，法瓦罗星期天抵达中国，与中方商讨解除向中国出口牛肉的禁令。他说，巴西政府包括农业部的所有政府工作都推迟进行。当中国政府确定空档，将重新安排巴西总统访华日期，届时双方再签署所有备忘录和协议......
+
+#### 早 说
+
+https://www.zaobao.com/news/china/story20230328-1376979
+
+如果中美之间发生"第二次冷战"，将比第一次冷战更加危险。中美之间的战争即使不会摧毁文明，也会让文明倒退，美国和中国在防止灾难性的冲突方面有着最低限度的共同义务。
+------美国前国务卿基辛格日前接受西班牙《世界报》采访时谈及中美关系......
+
+#### 香港为何多老年德士司机？
+
+https://www.zaobao.com/news/china/story20230328-1376980
+
+过去三年，香港因疫情几乎和外界断了联系。随着今年初港府宣布与海外陆续通关，访港旅客人数回升，不少海外和中国大陆的朋友纷纷赴港旅游或者公干。
+在闲聊中，许多朋友都称赞香港经历前所未有的疫情肆虐后，社会活力并没有明显减弱。但一些朋友也不约而同地指出，在香港发现一个很奇怪的现象，就是德士司机多是老人家。
+朋友举例说，他从香港机场坐德士去酒店，一上车才看到司机是一位白发苍苍的长者，估计有70岁......
+
+#### 港"黄色经济圈"退潮龙头表态割席
+
+https://www.zaobao.com/news/china/story20230328-1376981
+
+香港民主派商人周小龙旗下的Chickeeduck儿童服装店（左图），一度拥有十多家分店，目前只剩下两家分店，连周小龙本人也已移居海外。阿布泰国生活百货公司创办人林景楠（右图），在他自己的脸书专页宣布与"黄色经济圈"划清界限。（互联网／林景楠脸书）
+香港2019年爆发反修例运动，期间民主派发起"黄色经济圈"，呼吁支持者光顾政见相似的商家......
+
+#### 美副助理国务卿华自强低调访中 分析：或为布林肯访华铺路
+
+https://www.zaobao.com/news/china/story20230328-1376982
+
+美国副助理国务卿华自强（Rick
+Waters）在过去一周低调访问中国，与学术界、商界人士密集会面交流。分析认为，华自强此行或为美国国务卿布林肯重新安排访华铺路。
+据澎湃新闻报道，也是美国国务院中国协调办公室主管的华自强，在此次访华期间分别到访香港、上海与北京......
+
+#### 青年宿舍让港青圆独居梦
+
+https://www.zaobao.com/news/china/story20230328-1376983
+
+3月27日，香港特区政府民政及青年事务局向香港青年联会批出首个"将酒店和旅馆转作青年宿舍用途的资助计划"项目正式开幕，该项目位于铜锣湾摩理臣山道，以BeLIVING
+Youth
+Hub的名义营运，共提供97间房，最多194个宿位，月租约3800至4800港元，协助青年储蓄及扩阔人脉，解决就业、创业及置业难题。
+上图为青年宿舍外观，下图为宿舍的房间设施及景观......
+
+#### 蔡英文上台七年第九个断交国 洪都拉斯宣布弃台湾与大陆建交
+
+https://www.zaobao.com/news/china/story20230327-1376646
+
+中国大陆外交部长秦刚（右）与洪都拉斯外长雷纳星期天在北京钓鱼台国宾馆，完成建交仪式后彼此祝贺。（路透社）
+台湾外交部长吴钊燮说，台湾秉持最大诚意提出协助洪都拉斯方案，但洪方仍"恣意作态需索"，罔顾台湾多年情谊和大陆建交，令台湾痛心与遗憾......
+
+#### 最新民调： 台支持统独民意降低 要维持现状者增加
+
+https://www.zaobao.com/news/china/story20230327-1376647
+
+台湾最新民调显示，相较去年10月，最终支持统一、独立的民意都有所降低，但以支持独立者较明显；支持永远维持现状及以后再决定的，则增加了6.1个百分点。学者解读，在两岸关系不稳定时，倾向独立的民意会转化到维持现状，这是基于安全需求的权变。
+台湾政府的大陆委员会长期委托政治大学选举研究中心，就民众当下对统独立场及两岸关系看法进行民意调查......
+
+#### 香港解封后首场获批准游行 反对将军澳填海
+
+https://www.zaobao.com/news/china/story20230327-1376648
+
+约80名示威者星期天（3月26日）参加"反对将军澳填海"和兴建垃圾处理场的游行，他们的颈部均挂上印有独立编号的卡牌，没有佩戴口罩。香港警方派出大批警员在场监视。（法新社）
+（香港综合讯）香港约有80名示威者星期天参加"反对将军澳填海"和兴建垃圾处理场游行。这是香港在2020年实行《香港国安法》以来，首个获警方批准的抗议游行......
+
+#### 日男疑涉间谍活动北京被捕
+
+https://www.zaobao.com/news/china/story20230327-1376650
+
+据日本媒体报道，一名50多岁日本男子疑似因从事间谍活动，本月在中国首都北京被拘捕。
+据日本放送协会（NHK）星期六（3月25日）报道，这名男子是一家日本公司的高级主管。日本政府消息人士称，他本月较早前因涉嫌违反中国法律，而被中国安全机关拘留。据报，该名男子可能因涉嫌从事间谍活动而被捕。
+日本驻中国大使馆已提出与男子谈话的请求，并正在收集关于男子被捕原因的信息......
+
+#### 早说
+
+https://www.zaobao.com/news/china/story20230327-1376651
+
+可以预见的是，美国一定会使用各种手段为台湾巩固"邦交"。但美国自己就与中国有外交关系，却阻挠其他国家与中国建交，令人匪夷所思。
+------上海大学特聘教授、拉美研究中心主任江时学3月26日接受香港中通社采访时表示，洪都拉斯决定和中国大陆寻求建交后，美国政府和台湾政府都对该国施加了不小压力......
+
+#### 于泽远：中国国务院工作规则变化
+
+https://www.zaobao.com/news/china/story20230327-1376652
+
+从规则变化看，李强领衔的新一届国务院在指导思想、工作原则和流程上都明显加强了国务院的政治属性......
+
+#### 中央财办副主任韩文秀： 中国须化解外压通过技术创新突破
+
+https://www.zaobao.com/news/china/story20230327-1376653
+
+韩文秀在北京举行的中国发展高层论坛上说，当前世界经济存在滞胀风险，全球产业链供应链面临重构，中国经济恢复的基础还不够稳固。他指出，中国要努力克服新的外部压力，以及人口负增长、老龄化对中国经济中长期发展的影响，其中要有效应对外部的遏制打压......
+
+#### "鼎泰丰"创办人杨秉彝逝世 享年96岁
+
+https://www.zaobao.com/news/china/story20230327-1376655
+
+"鼎泰丰"创办人杨秉彝，日前安详辞世，享年96岁。（互联网）
+台湾具代表性的连锁餐饮品牌"鼎泰丰"的创办人杨秉彝，日前安详辞世，享年96岁。
+综合中时新闻网、《联合报》报道，鼎泰丰星期六（3月25日）对外发布消息，创办人杨秉彝日前安详辞世，家属盼低调办理治丧事宜，感谢各界关心。
+根据鼎泰丰网站公布的信息，杨秉彝1927年出生于中国大陆山西省，21岁赴台湾闯荡......
+
+#### 中国国际时装秀 "妇好鸮尊"绕"战马"
+
+https://www.zaobao.com/news/china/story20230327-1376656
+
+（中新社）
+北京冬奥会服装设计师丁洁3月26日携"视界.边界"系列时装，亮相中国国际时装周（2023秋冬系列）。丁洁以"妇好鸮尊"为设计灵感，模特佩戴3D打印发饰，绕行秀场特别设置的"战马"，上演一场历史与未来的"时空对话"。"妇好鸮尊"是一件商代后期的青铜器，1976年出土于河南省安阳市殷墟妇好墓，共两件，分别藏于中国国家博物馆和河南博物院。妇好为商王武丁的配偶，曾多次出征......
+
+#### 劣质大陆旅团被指扰民 港府：解决措施研究中
+
+https://www.zaobao.com/news/china/story20230327-1376657
+
+有低素质的中国大陆旅游团被指在香港扰民，出现强迫购物等乱象。香港特区政府表示，已开始研究解决措施。
+据《星岛日报》报道，有议员反映，素质较低的大陆旅行团近日重现在香港旧区街头。香港工联会的立法会九龙东议员邓家彪说，土瓜湾等旧区道路较狭窄，随着未来旅客增多，旅游巴士路边停泊可能造成堵塞，影响居民生活。
+邓家彪说，劣质旅游团往往出现"强迫购物"的情况，损害香港旅游业的形象......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

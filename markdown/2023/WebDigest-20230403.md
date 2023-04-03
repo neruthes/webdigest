@@ -1,0 +1,979 @@
+Other formats: [PDF](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/webdigest/WebDigest-20230403.pdf--941898c25bcb7a8203864239cf2ce71f.pdf) / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20230403.html)
+
+
+# Web Digest 2023-04-03
+
+
+## Developers
+
+### Hacker News
+
+#### The Day Windows Died
+
+https://thomasbandt.com/the-day-windows-died
+
+https://news.ycombinator.com/item?id=35415758
+
+#### In 2017, developers competed for who could create worst volume control interface
+
+https://twitter.com/0xDesigner/status/1642554817590566915
+
+https://news.ycombinator.com/item?id=35415403
+
+#### Windows Sandbox
+
+https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview
+
+https://news.ycombinator.com/item?id=35413594
+
+#### A Reply to Josef PRůša
+
+https://blog.thea.codes/a-reply-to-josef-prusa/
+
+https://news.ycombinator.com/item?id=35413572
+
+#### Auto-GPT: An Autonomous GPT-4 Experiment
+
+https://github.com/Torantulino/Auto-GPT
+
+https://news.ycombinator.com/item?id=35413054
+
+#### Italian government seeks to penalize the use of English words
+
+https://www.cnn.com/2023/04/01/europe/italian-government-penalize-english-words-intl/index.html
+
+https://news.ycombinator.com/item?id=35412836
+
+#### Optimizing Open Addressing
+
+https://thenumb.at/Hashtables/
+
+https://news.ycombinator.com/item?id=35412788
+
+#### Compostable fast-food packaging can emit volatile PFAS
+
+https://cen.acs.org/environment/persistent-pollutants/Fast-food-packaging-emit-volatile/101/i11
+
+https://news.ycombinator.com/item?id=35411919
+
+#### Work-from-home is the new normal in Canada
+
+https://nationalpost.com/opinion/work-from-home-new-normal-in-canada
+
+https://news.ycombinator.com/item?id=35410886
+
+#### Analysis of Twitter algorithm reveals Twitter down-ranks tweets about Ukraine
+
+https://english.nv.ua/nation/analysis-of-code-for-twitter-algorithm-reveals-social-medium-down-ranks-tweets-about-ukraine-50314963.html
+
+https://news.ycombinator.com/item?id=35410841
+
+#### 'America does so much more to subsidise affluence than alleviate poverty'
+
+https://www.ft.com/content/6218aa73-ae25-46fc-9503-f2f45b8db47f
+
+https://news.ycombinator.com/item?id=35410778
+
+#### The Problem with Music (1993)
+
+https://thebaffler.com/salvos/the-problem-with-music
+
+https://news.ycombinator.com/item?id=35410662
+
+#### Own your work
+
+https://josem.co/own-your-work/
+
+https://news.ycombinator.com/item?id=35410576
+
+#### Ryuichi Sakamoto has died
+
+https://www.clashmusic.com/news/ryuichi-sakamoto-has-died-cause-of-death/
+
+https://news.ycombinator.com/item?id=35410182
+
+#### 'Preparing to die has a lot to do with having had a good life'
+
+https://english.elpais.com/science-tech/2023-04-01/henry-marsh-preparing-to-die-has-a-lot-to-do-with-having-had-a-good-life.html
+
+https://news.ycombinator.com/item?id=35410163
+
+#### Andreessen Horowitz is now openly courting capital from Saudi Arabia
+
+https://techcrunch.com/2023/04/01/andreessen-horowitz-is-now-openly-courting-capital-from-saudi-arabia-despite-u-s-strains/
+
+https://news.ycombinator.com/item?id=35409130
+
+#### Thinking hard makes the brain tired
+
+https://www.economist.com/science-and-technology/2022/08/11/how-thinking-hard-makes-the-brain-tired
+
+https://news.ycombinator.com/item?id=35408874
+
+#### UK Treasury trying to find a Head of Cyber Security for £55k
+
+https://infosec.exchange/@tazwake/110108960041803779
+
+https://news.ycombinator.com/item?id=35408652
+
+#### For the first time, renewable energy generation beat out coal in the US
+
+https://www.popsci.com/environment/renewable-energy-generation-coal-2022/
+
+https://news.ycombinator.com/item?id=35408249
+
+#### ISRO successfully conducts landing experiment of the Reusable Launch Vehicle
+
+https://www.thehindu.com/sci-tech/science/isro-successfully-conducts-landing-experiment-of-the-reusable-launch-vehicle/article66690655.ece
+
+https://news.ycombinator.com/item?id=35407658
+
+### Phoronix
+
+#### Linux 6.3-rc5 Released - Looking To Be In Good Shape
+
+https://www.phoronix.com/news/Linux-6.3-rc5-Released
+
+#### Intel Linux Improvements, AMD openSIL, Zen 4 3D V-Cache & Other March Highlights
+
+https://www.phoronix.com/news/March-2023-Highlights
+
+#### Intel Alder Lake Motherboard With Coreboot/Dasharo Support On Sale For \$153 USD
+
+https://www.phoronix.com/news/MSI-Z690-Coreboot-Sale
+
+#### Two More Gigabyte Motherboards See Sensor Monitoring With Linux 6.3
+
+https://www.phoronix.com/news/Gigabyte-2-More-WMI-Linux-6.3
+
+#### Linux 6.3-rc5 Bringing Fix For Touchpad/Keyboard Issues With Some Clevo/TUXEDO Laptops
+
+https://www.phoronix.com/news/Linux-6.3-rc5-Input-Quirks
+
+#### FreeBSD 13.2-RC6 Released Due To Lingering Issue
+
+https://www.phoronix.com/news/FreeBSD-13.2-RC6
+
+#### Valve Shows A Huge Drop In Linux Gamers For March, But The Numbers Are Questionable
+
+https://www.phoronix.com/news/Steam-Linux-March-2023
+
+#### Intel IAA 2.0 Accelerator Preparations Coming With Linux 6.4
+
+https://www.phoronix.com/news/Intel-IAA-2.0-Linux-6.4-Prep
+
+#### GTK & Blender Are The Latest Software Supporting Wayland Fractional Scaling
+
+https://www.phoronix.com/news/Wayland-Fractional-Blender-GTK
+
+### GitHub
+
+#### helix-editor/helix
+
+https://github.com/helix-editor/helix
+
+A post-modern modal text editor.\
+Language: Rust\
+Stars: 20530\
+Forks: 1425
+
+#### donnemartin/system-design-primer
+
+https://github.com/donnemartin/system-design-primer
+
+Learn how to design large-scale systems. Prep for the system design
+interview. Includes Anki flashcards.\
+Language: Python\
+Stars: 215890\
+Forks: 38451
+
+### Dribbble
+
+#### Magma Site Development
+
+https://dribbble.com/shots/21043115
+
+#### Oppo Icon Branding Design: iconography icons pack flat vector
+
+https://dribbble.com/shots/20866045
+
+#### Wiza - Facelift
+
+https://dribbble.com/shots/21030610
+
+#### Coral Cell Logomark
+
+https://dribbble.com/shots/21046734
+
+#### Storage Rent Mobile App design: iOS Android ux ui designer
+
+https://dribbble.com/shots/20865869
+
+#### Custo® - How it works
+
+https://dribbble.com/shots/21063935
+
+#### Owl Guard
+
+https://dribbble.com/shots/21033035
+
+#### \[P\] 1 → N
+
+https://dribbble.com/shots/21021513
+
+#### 3D Modeling for UX/UI Design
+
+https://dribbble.com/shots/21059700
+
+#### Clause Brand Guidelines, style guide book, branding deck, logo
+
+https://dribbble.com/shots/20865601
+
+#### 3D Composition
+
+https://dribbble.com/shots/21026310
+
+#### Recycle - Website for the Textile Recycling Company
+
+https://dribbble.com/shots/21042652
+
+#### Tourist Website Design: business landing web page, site designer
+
+https://dribbble.com/shots/20866191
+
+#### Greenfly Website Design: business landing web page site designer
+
+https://dribbble.com/shots/20865806
+
+#### Logo, Branding, Mark, Symbol, Modern, lettermark, Logos
+
+https://dribbble.com/shots/21063110
+
+#### Logo, Branding, Mark, Symbol, Modern, Minimal, Logos
+
+https://dribbble.com/shots/21039765
+
+#### Shapecraft Website
+
+https://dribbble.com/shots/21029606
+
+#### Justis Website
+
+https://dribbble.com/shots/21052368
+
+#### Onboarding mobile app for BOXXY
+
+https://dribbble.com/shots/21060070
+
+#### Transcend Branding, visual identity, corporate brand design
+
+https://dribbble.com/shots/20866281
+
+#### Proemion Branding, visual identity, corporate brand design
+
+https://dribbble.com/shots/20866109
+
+#### Eco food packaging website ui
+
+https://dribbble.com/shots/21064870
+
+#### Home management app UI design
+
+https://dribbble.com/shots/21031939
+
+#### EV charger website design
+
+https://dribbble.com/shots/21072112
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### 细胞衰老可能与基因表达错误率上升有关
+
+https://www.solidot.org/story?sid=74560
+
+#### 音乐家坂本龙一去世
+
+https://www.solidot.org/story?sid=74559
+
+#### 旧金山面临税收大幅减少的困境
+
+https://www.solidot.org/story?sid=74558
+
+#### Google Drive 对用户储存的文件数量设定了上限
+
+https://www.solidot.org/story?sid=74557
+
+#### Mozilla 诞生 25 周年
+
+https://www.solidot.org/story?sid=74556
+
+#### 方滨兴称 ChatGPT 可能会造成知识茧房
+
+https://www.solidot.org/story?sid=74555
+
+#### 网信办对美光启动网络安全审查
+
+https://www.solidot.org/story?sid=74554
+
+#### Twitter 公开推荐算法源代码，马斯克获特别优待
+
+https://www.solidot.org/story?sid=74553
+
+#### 意大利隐私监管机构对 ChatGPT 下达禁令
+
+https://www.solidot.org/story?sid=74552
+
+#### 朝鲜黑客通过 3CX 对用户发动供应链攻击
+
+https://www.solidot.org/story?sid=74551
+
+#### 迄今最明亮伽马射线暴令天文学家困惑
+
+https://www.solidot.org/story?sid=74550
+
+#### 植物在压力下会发出声音
+
+https://www.solidot.org/story?sid=74549
+
+#### Virgin Orbit 裁员 85%
+
+https://www.solidot.org/story?sid=74548
+
+#### AI 图像生成服务 Midjourney 以滥用为由暂停免费试用
+
+https://www.solidot.org/story?sid=74547
+
+#### 香港海关破获了近年最大金额的电子产品陆路走私案
+
+https://www.solidot.org/story?sid=74546
+
+#### Google Assistant 部门重组专注于 Bard
+
+https://www.solidot.org/story?sid=74545
+
+#### 在日本投诉之后中国关闭了一家盗版动漫网站
+
+https://www.solidot.org/story?sid=74544
+
+#### 日本研究显示每周 1～2 天走 8000 步能降低死亡风险
+
+https://www.solidot.org/story?sid=74543
+
+#### 开源聊天机器人在质量评估上能达到 ChatGPT 的九成
+
+https://www.solidot.org/story?sid=74542
+
+#### E3 2023 取消
+
+https://www.solidot.org/story?sid=74541
+
+### V2EX
+
+#### \[问与答\] 个人认为：最丑的车就是雷克萨斯吧？
+
+https://www.v2ex.com/t/929282
+
+#### \[Telegram\] HK HGC 连接 telegram 故障
+
+https://www.v2ex.com/t/929281
+
+#### \[Visual Studio Code\] Windows 和 Mac 上的 VSCode 扩展同步不一致问题
+
+https://www.v2ex.com/t/929280
+
+#### \[Python\] \[ Python \] 求一个无缝连续播放视频和音频的方案
+
+https://www.v2ex.com/t/929279
+
+#### \[OpenWrt\] OpenWRT 应该刷到哪?
+
+https://www.v2ex.com/t/929278
+
+#### \[OpenAI\] 有没有人觉得， GPT4 API 用着挺贵的？
+
+https://www.v2ex.com/t/929277
+
+#### \[分享发现\] 之前一直看到你们说某虚拟卡能不能开 gpt plus，我试了一下能开，但是 ip 要很干净
+
+https://www.v2ex.com/t/929276
+
+#### \[程序员\] AI 工具箱增加 AI 绘画了 免费最重要是免费 github 登录 也即将完成
+
+https://www.v2ex.com/t/929275
+
+#### \[Vim\] vim 快捷键映射求助
+
+https://www.v2ex.com/t/929274
+
+#### \[OpenAI\] 大家有没有觉得 chatgpt 的回复速度快了很多
+
+https://www.v2ex.com/t/929272
+
+#### \[问与答\] 自动驾驶系统工程师怎么接私活？
+
+https://www.v2ex.com/t/929271
+
+#### \[问与答\] 请教 iOS 访问本站提示 ERR_SSL_PROTOCOL_ERROR 是什么原因呢？
+
+https://www.v2ex.com/t/929269
+
+#### \[问与答\] 如何提高扶墙服务的可用性？
+
+https://www.v2ex.com/t/929268
+
+#### \[推广\] 电信联通正规卡，目前成功开卡赠送 10 元话费！
+
+https://www.v2ex.com/t/929267
+
+#### \[云计算\] 外贸网站，完全不要求国内线路（越烂越好，国内基本都是来捣乱的同行），想买个独立服务器，美国机房哪个比较靠谱，要有名一点的，最好有一点防御。现在用的 OVH 换个内存条用了一个多月换了 3 次才换清楚，第一次大小换错，第二次换完不识别。
+
+https://www.v2ex.com/t/929266
+
+#### \[Apple\] 通用控制会限制同一个版本的系统吗
+
+https://www.v2ex.com/t/929265
+
+#### \[分享创造\] \[独立游戏引擎\] 无限世界 程序化地形生成 破坏地形 独立游戏《以太效应 · Ethertia》23w13c 快照版公布。我有一些困惑，想听一些看法
+
+https://www.v2ex.com/t/929264
+
+#### \[问与答\] 求几个看新闻的 tg 频道
+
+https://www.v2ex.com/t/929262
+
+#### \[Android\] Pixel 6a 屏幕自动亮度调节偏暗
+
+https://www.v2ex.com/t/929261
+
+#### \[问与答\] 有没有办法让一个耳机同时播放电脑和手机的声音
+
+https://www.v2ex.com/t/929259
+
+#### \[程序员\] 如何使用穿透 FRP 或 NPS 去实现 socks 代理 本地 win 链接远程 WIN 拨号使用远程 IP
+
+https://www.v2ex.com/t/929257
+
+#### \[酷工作\] \[杭州\]招聘前后端伙伴
+
+https://www.v2ex.com/t/929256
+
+#### \[投资\] 去宁德时代开了个股东会，感觉还是真的非常非常牛！我对中国创业板 etf 长期依然有信心！
+
+https://www.v2ex.com/t/929255
+
+#### \[职场话题\] 两个后端游戏 offer 如何选择
+
+https://www.v2ex.com/t/929254
+
+#### \[职场话题\] Java 后端实习，还有什么互联网中小厂招人的吗？工资够房租+饭钱就行
+
+https://www.v2ex.com/t/929252
+
+#### \[程序员\] Restful API URL 设计问题
+
+https://www.v2ex.com/t/929251
+
+#### \[NGINX\] 请教大佬， nginx 反代时候是不是用 websocket 性能更好？
+
+https://www.v2ex.com/t/929249
+
+#### \[问与答\] 有什么关于预言 AI 对世界的改变的小说推荐吗
+
+https://www.v2ex.com/t/929248
+
+#### \[数学\] mathtype 的公式
+
+https://www.v2ex.com/t/929247
+
+#### \[程序员\] 我是如何用 GO 去实现一个可以在 window 和 mac 上运行的数据大屏项目
+
+https://www.v2ex.com/t/929246
+
+#### \[Alfred\] 想问下大家关于 Alfred 的使用体验
+
+https://www.v2ex.com/t/929245
+
+#### \[互联网\] 蹲个 pdd 的平替
+
+https://www.v2ex.com/t/929244
+
+#### \[随想\] AI 这半年颇有当年前端"求别更新，学不动了"的感觉
+
+https://www.v2ex.com/t/929243
+
+#### \[问与答\] 台式电脑突然自动关机，大家觉得是什么问题？
+
+https://www.v2ex.com/t/929242
+
+#### \[生活\] 还是国外的月亮圆啊
+
+https://www.v2ex.com/t/929241
+
+#### \[macOS\] 旧版 Mac QQ 最新的版本号是多少？
+
+https://www.v2ex.com/t/929239
+
+#### \[OpenAI\] 4 月 2 日晚记录 OpenAI 注册绑卡过程，无广
+
+https://www.v2ex.com/t/929237
+
+#### \[分享发现\] chatgpt 费老劲注册成功还是被封号，全网最正确姿势
+
+https://www.v2ex.com/t/929236
+
+#### \[问与答\] 工作月薪 20K，副业每月大概 50K，该不该辞职？
+
+https://www.v2ex.com/t/929234
+
+#### \[macOS\] FaceTime 打开后摄像头预览卡在第一帧
+
+https://www.v2ex.com/t/929233
+
+#### \[Surge\] Surge Mac 5.0 自用车队
+
+https://www.v2ex.com/t/929232
+
+#### \[程序员\] 请教：如何使用 wireguard 作为链式代理的出口节点
+
+https://www.v2ex.com/t/929231
+
+#### \[问与答\] 淘宝或者闲鱼上 glados 机场特别便宜的 basic 或者 pro 套餐可以放心买吗？
+
+https://www.v2ex.com/t/929230
+
+#### \[V2EX\] 有人骂我，我不知道要通过 at 管理员的方式来举报，于是选择骂回去，然后与对方一起被封了......
+
+https://www.v2ex.com/t/929228
+
+#### \[问与答\] 求助!老爹在外务工被撞了该怎么办
+
+https://www.v2ex.com/t/929227
+
+#### \[Apple\] 今天偶然发现用 infuse 对比播放 webm 格式和 mkv 格式时，只有 mkv 能有 HDR 效果
+
+https://www.v2ex.com/t/929226
+
+#### \[OpenAI\] 在接码平台充钱没用完，有需要的联系，大概 5 个
+
+https://www.v2ex.com/t/929225
+
+#### \[问与答\] 如何通过修改注册表或者其他方式将瑞昱声卡输出声道固定为立体声
+
+https://www.v2ex.com/t/929224
+
+#### \[问与答\] 头疼，有建筑装修经验的大哥来看看，蝙蝠困在家里空心墙里了怎么办？
+
+https://www.v2ex.com/t/929221
+
+#### \[宽带症候群\] ros 终于支持 ipv6 过期
+
+https://www.v2ex.com/t/929220
+
+## Generic News
+
+### AP News
+
+#### Butler's buzzer-beater sends San Diego State to title game
+
+https://apnews.com/article/a09ac609c57b6c996ddd1f2ef19a35b8
+
+San Diego State guard Lamont Butler drives up court against Florida
+Atlantic during the first half of a Final Four college basketball game
+in the NCAA Tournament on Saturday, April 1, 2023, in Houston. (AP
+Photo/Godofredo A. Vasquez\...
+
+#### Tornado survivors recount flying debris, destroyed buildings
+
+https://apnews.com/article/f12fead43d19c0095d42f8a6e61c7a4f
+
+Debris covers the ground around damaged homes in Wynne, Ark., on
+Saturday, April 1, 2023. Unrelenting tornadoes that tore through parts
+of the South and Midwest that shredded homes and shopping centers. (AP
+Photo/Adrian Sainz) WYNNE\...
+
+#### Kaley Cuoco has 1st child, a daughter, with Tom Pelphrey
+
+https://apnews.com/article/6dbf8c7791f1d18129c076a6040e5c34
+
+FILE - Kaley Cuoco arrives at the 74th Primetime Emmy Awards, Sept. 12,
+2022, at the Microsoft Theater in Los Angeles. Cuoco, star of "The
+Flight Attendant" and "The Big Bang Theory," posted to Instagram on
+Saturday, April 1, 2023\...
+
+#### Drug trafficking blamed as homicides soar in Costa Rica
+
+https://apnews.com/article/4a8f6ecfe7d23fc83708033dc20e05df
+
+FILE - The body of a man is illuminated by police flashlights as
+investigators work a crime scene where an alleged thief and a female
+passenger died in a shootout during a robbery on a bus in San Jose,
+Costa Rica, Feb. 6, 2023. According\...
+
+#### Biden and his 2024 campaign: Waiting for some big decisions
+
+https://apnews.com/article/e64cd5649d9486291715388db3e8e386
+
+FILE - President Joe Biden speaks from the Treaty Room in the White
+House on April 14, 2021, about the withdrawal of the remainder of U.S.
+troops from Afghanistan. (AP Photo/Andrew Harnik, Pool, File) WASHINGTON
+(AP) --- President Joe\...
+
+#### After Nashville, Congress confronts limits of new gun law
+
+https://apnews.com/article/9fb2b460984eb8658b806d0d5126bba8
+
+FILE - A balloon with names of the victims is seen at a memorial at the
+entrance to The Covenant School on Wednesday, March 29, 2023, in
+Nashville, Tenn. Bipartisan gun legislation signed by President Biden in
+2022 has already prevented\...
+
+#### Lanterns and crescents: more retailers court Ramadan buyers
+
+https://apnews.com/article/4be6f1b7109c8e8bf8077ce4de86a2ca
+
+Ramadan decorations are displayed at a Party City store in Dearborn,
+Mich., on Thursday, March 23, 2023. More businesses are selling Ramadan
+and Eid items, including DIY kits, lanterns and napkin holders. Its one
+of the\...
+
+#### 'War of the states': EV, chip makers lavished with subsidies
+
+https://apnews.com/article/3ac5f11cdbf020e996f6bc8f92bd2bfd
+
+Workers prepare the site of a \$4 billion Panasonic EV battery plant
+Thursday, March 30, 2023, near DeSoto, Kan. Economic incentives offered
+by Kansas state and local governments beat out those offered by
+neighboring Oklahoma to help lure\...
+
+#### At least 21 dead after tornadoes rake US Midwest, South
+
+https://apnews.com/article/79fe2da8a6b8bd92970032530b760d20
+
+Damage from a late-night tornado is seen in Sullivan, Ind., Saturday,
+April 1, 2023. Multiple deaths were reported in the area following the
+storm. (AP Photo/Doug McSchooler) WYNNE, Ark. (AP) --- Storms that
+dropped possibly dozens of\...
+
+#### Fatal fire complicates border city's tensions with migrants
+
+https://apnews.com/article/3bf3782134f6e447b979e2998d3c2cb7
+
+Irwing Lopez, a 35-year-old migrant construction worker from Venezuela,
+washes windshields for tips at a stoplight near the U.S. border wall,
+behind, in Ciudad Juarez, Mexico, Thursday, March 30, 2023. Lopezs
+friend and\...
+
+#### Doomsday plot? After 3 years, slain kids' mom to stand trial
+
+https://apnews.com/article/19cdf75463402c1838fb6e85f22e7e2c
+
+FILE - A boy looks at a memorial for Tylee Ryan and Joshua \"JJ\" Vallow
+in Rexburg, Idaho, on June 11, 2020. A mother charged with murder in the
+deaths of her two children is set to stand trial in Idaho. The
+proceedings against Lori Vallow\...
+
+#### Alaska Natives rescued Navy crew in 1955. Their medals have arrived
+
+https://apnews.com/article/495cfe305972a85ef8b0b93dafc71167
+
+This March 28, 2023, photo shows townspeople in Gambell, Alaska, waiting
+in a snowstorm on four-wheelers to transport Alaska National Guard
+personnel from the air strip to the school for a ceremony. Sixteen
+Alaska National Guard members\...
+
+#### Ukrainian court puts an Orthodox leader under house arrest
+
+https://apnews.com/article/d4723c61be8b131ad0a779dc59ae8b00
+
+Metropolitan Pavel, the abbot of the Kyiv-Pechersk Lavra monastery waits
+for the court desigion in Kyiv, Ukraine, Saturday, April 1, 2023. Court
+sentences for home arrest a Ukrainian Orthodox Church Leader
+Metropolitan Pavel for 60 days\...
+
+### Reuters
+
+#### Ukraine's Zelenskiy: situation 'especially hot' in Bakhmut
+
+https://www.reuters.com/world/europe/ukraines-zelenskiy-situation-bakhmut-especially-hot-2023-04-02/
+
+A Ukrainian tank unit crew takes cover and waits for shelling to cease
+in a bunker, amid Russias invasion of Ukraine, near the bombed-out
+eastern Ukrainian city of Bakhmut, in the eastern Donetsk region,
+Ukraine, March\...
+
+#### Factbox: Finland's outgoing Prime Minister Sanna Marin
+
+https://www.reuters.com/world/europe/finlands-outgoing-prime-minister-sanna-marin-2023-04-02/
+
+Finlands Prime Minister and Social Democrats leader Sanna Marin speaks
+at the partys parliamentary election event in Helsinki, Finland April 2,
+2023. Lehtikuva/Emmi Korhonen via REUTERS Finland\...
+
+#### Montenegro's ex-Economy Minister Jakov Milatovic declares victory in run-off presidential vote
+
+https://www.reuters.com/world/europe/montenegros-ex-economy-minister-jakov-milatovic-declares-victory-run-off-2023-04-02/
+
+Jakov Milatovic, a presidential candidate from the Europe Now Movement,
+speaks after the first results of the presidential election were
+announced, in Podgorica, Montenegro, April 2, 2023. REUTERS/Marko
+Djurica ?? Montenegro\...
+
+#### Justice Dept has more evidence of possible Trump obstruction in documents probe -WaPo
+
+https://www.reuters.com/world/us/justice-dept-has-more-evidence-possible-trump-obstruction-documents-probe-wapo-2023-04-02/
+
+U.S. President Donald Trump delivers an update on the so-called
+Operation Warp Speed program in an address from the Rose Garden at the
+White House in Washington, U.S., November 13, 2020. REUTERS/Carlos
+Barria/File Photo U.S. Justice\...
+
+#### Venezuela arrests nine CVG officials over corruption probe
+
+https://www.reuters.com/world/americas/venezuela-arrests-nine-cvg-officials-over-corruption-probe-2023-04-02/
+
+Venezuelas Attorney General Tarek Saab addresses the media on an
+expanding anti corruption probe that has left several people arrested,
+including government officials and executives from state company PDVSA,
+in Caracas\...
+
+#### Factbox: Petteri Orpo, Finland's likely next prime minister
+
+https://www.reuters.com/world/europe/petteri-orpo-finlands-likely-next-prime-minister-2023-04-02/
+
+National Coalition Party chair Petteri Orpo talks with voters as he
+campaigns, ahead of Finnish parliamentary elections on Sunday April 2,
+in Vantaa, Finland, March 31, 2023. ANTTI AIMO-KOIVISTO/Lehtikuva/via
+REUTERS Here is a profile of\...
+
+#### Bomb kills Russian war blogger in St Petersburg cafe
+
+https://www.reuters.com/world/europe/russian-military-blogger-killed-explosion-st-petersburg-agencies-2023-04-02/
+
+Summary: Leading military blogger killed in cafe explosion
+Russian-installed official blames Ukrainian terrorism Ukrainian adviser
+says domestic terrorism has hit\...
+
+#### Finland's right-wing National Coalition Party claims election victory
+
+https://www.reuters.com/world/europe/finlands-right-wing-national-coalition-party-claims-election-victory-2023-04-02/
+
+National Coalition Chairman Petteri Orpo attends the partys parliament
+election event in Helsinki, Finland, April 2, 2023. Lehtikuva/Antti
+Aimo-Koivisto via REUTERS Finlands right-wing opposition National\...
+
+#### Finland's right-wing NCP likely to win election, Marin to come in third
+
+https://www.reuters.com/world/europe/finlands-marin-faces-tough-re-election-bid-national-election-2023-04-01/
+
+Summary: PM Marin lags right-wing National Coalition, nationalist Finns
+National Coalition wants to cut state spending Anti-immigration Finns
+Party seen in second place Finlands Prime Minister and Social Democrats
+leader\...
+
+#### Montenegro's ex-economy minister Milatovic leads in presidential run-off
+
+https://www.reuters.com/world/europe/montenegro-holds-run-off-presidential-election-2023-04-02/
+
+Jakov Milatovic, a presidential candidate from the Europe Now Movement,
+speaks to the media as he votes at a polling station along with his wife
+Milena during the run-off presidential elections in Podgorica,
+Montenegro, April 2, 2023\...
+
+#### Death toll from US storms rises to 29
+
+https://www.reuters.com/world/us/death-toll-us-storms-rises-29-2023-04-02/
+
+People work to remove a tree that fell onto a home, in the aftermath of
+a tornado, after a monster storm system tore through the South and
+Midwest on Friday in Little Rock, Arkansas, U.S. April 2, 2023.
+REUTERS/Cheney Orr A general view\...
+
+#### Donald Trump set to speak from Florida after arraignment
+
+https://www.reuters.com/world/us/former-president-trump-speak-florida-tuesday-statement-2023-04-02/
+
+A supporter of former U.S. President Donald Trump sits outside his
+Mar-a-Lago resort after he was indicted by a Manhattan grand jury
+following a probe into hush money paid to porn star Stormy Daniels, in
+Palm Beach, Florida, U.S. April 2\...
+
+#### Armsmaker Rheinmetall sets up maintenance hub in Romania for Ukraine weapons
+
+https://www.reuters.com/world/europe/armsmaker-rheinmetall-sets-up-maintenance-hub-romania-ukraine-weapons-2023-04-02/
+
+Spanish Leopard 2 tank of NATO enhanced Forward Presence battle group
+attends Crystal Arrow 2023 military exercise in Adazi, Latvia March 29,
+2023. REUTERS/Ints Kalnins/File Photo German armsmaker Rheinmetall
+(RHMG.DE) is building a\...
+
+### 联合早报
+
+#### 钟南山建议中国民众 4月以后可不戴口罩
+
+https://www.zaobao.com/news/china/story20230403-1378917
+
+钟南山建议中国民众4月后在条件允许的情况下，可以不戴口罩。图为3月27日北京一处火车站等候登车的旅客，多数戴着口罩。（法新社）
+按照中国目前的冠病疫情形势，中国工程院院士钟南山认为，佩戴口罩可成为非强制性的措施，建议今年4月以后在条件允许情况下让民众不戴口罩。
+据《南方都市报》报道，钟南山星期五（3月31日）在广州一场有关冠病药物的研讨会上指出，过去三年，戴口罩是预防病毒的有效措施......
+
+#### 在湖南大学解说一中 马英九：两岸都是中华民国同属中国
+
+https://www.zaobao.com/news/china/story20230403-1378918
+
+马英九（中左）星期天带领台湾青年学生，与湖南大学校长段献忠（中右）等师生交流座谈，现场气氛友好热烈。（新华社）
+马英九重申两岸同文同种，双方都坚持一个中国的立场，尽管目前分属两边，有各自的制度和政策，但希望双方真诚交流、减少不必要隔阂，并呼吁两岸青年生力军继续交流。
+台湾前总统马英九星期天（4月2日）在与湖南大学师生座谈时说，"台湾和中国大陆都是中华民国"，但同属一个中国......
+
+#### 蔡英文访危地马拉 盼两地邦谊"3000年也不为过"
+
+https://www.zaobao.com/news/china/story20230403-1378920
+
+台湾总统蔡英文（左）与友邦危地马拉总统贾马特一同参访玛雅文明所在的蒂卡尔国家公园，承诺在中国大陆的外交攻势面前保持牢固关系。（路透社）
+台湾总统蔡英文星期天（4月2日）与中美洲邦交国危地马拉总统贾马特一同面对媒体时说，希望两地邦谊永固，"3000年也不为过"......
+
+#### 湖南一原局长受审 昔日同事现场"围观"
+
+https://www.zaobao.com/news/china/story20230403-1378921
+
+湖南省益阳市国土资源局原局长贺国伟涉嫌受贿犯罪一案开审，座无虚席的庭审现场竟有33名原单位的前同事
+"围观"。
+据"清风益阳"微信公众号消息，贺国伟受贿案近日在沅江市人民法院开审。贺国伟曾任益阳市国土资源局党组书记、局长，以及市自然资源和规划局党组书记
+出席旁听庭审的除了来自益阳市纪委监委、市委办、市委政法委等多个党政机关，共144名党员领导干部，还包括贺国伟原单位的33名前同事......
+
+#### 台媒：侯友宜若获征召参选总统将向郭台铭请益
+
+https://www.zaobao.com/news/china/story20230403-1378922
+
+台湾媒体报道，一旦国民党新北市长侯友宜确定获征召，代表国民党参加2024年总统大选，他将向鸿海创办人郭台铭在内的党内外要角请益，争取支持。
+国民党上月决定以征召方式提名总统大选人选。综合《联合报》、《中国时报》、TVBS等台媒报道，多名国民党立委连日来已向党中央喊话，应尽速征召侯友宜参选总统，立法院国民党团预估超过九成立委力挺侯友宜......
+
+#### 中国愿与亚细安加快推进 《南中国海行为准则》磋商
+
+https://www.zaobao.com/news/china/story20230403-1378923
+
+中国总理李强与马来西亚首相安华举行会谈时说，中国愿同马来西亚等亚细安国家加快推进《南中国海行为准则》磋商，共同维护南中国海和平稳定。
+据新华社报道，李强星期六（4月1日）在北京人民大会堂与访华的安华举行会谈时，发表上述谈话。李强也说，"亚洲是我们的共同家园，合作共赢是唯一正确选择"，并称中国愿同马来西亚等亚细安国家积极推进中国亚细安自贸区3.0版谈判，共同实施好《区域全面经济伙伴关系协定》......
+
+#### 美军参联会主席米利：美中并未处在战争边缘
+
+https://www.zaobao.com/news/china/story20230403-1378924
+
+美国参谋长联席会议主席米利（Mark
+Milley）说，美国与中国并未处于"战争边缘"，而且北京要攻下台湾并非易事。
+为开战言论降温据美国新闻网站"防务一号"（Defense
+One）星期五（3月31日）刊登的报道，米利在专访中指出，美国必须避免让美中开战的话题和言论变得"过热
+"。 继今年2月初的气球风波，中美关系持续紧张......
+
+#### 中国足球反腐还会牵出谁？
+
+https://www.zaobao.com/news/china/story20230403-1378925
+
+4月1日，中国体育总局副局长、足协党委书记杜兆才被官宣落马。这是120多天以来，中国足球领域落网的第九条"大鱼"。
+去年11月26日，中国男足国家队原主教练李铁被查。随后，反腐风暴蔓延至整个足球圈......
+
+#### 湖北锣圈岩天坑 动植物生命之源
+
+https://www.zaobao.com/news/china/story20230403-1378927
+
+在中国湖北省西部山区的宣恩县矅天眼景区，春季研学的师生在深达290余米的锣圈岩天坑及周边溶洞中进行科普学习。这个喀斯特天坑四周植物茂密，坑内峭壁森然。在天坑底部，阳光从坑口射入，清水从天空及绝壁而降，汇成小溪，成为天坑"动植物王国"的生命之源。图为4月1日拍摄的锣圈岩天坑景色......
+
+#### 陈茂波︰新马学生对港抢人才抢企业政策感兴趣
+
+https://www.zaobao.com/news/china/story20230403-1378929
+
+香港财政司长陈茂波说，新加坡和马来西亚学生对香港推出的"高端人才通行证计划"（简称高材通计划）很感兴趣，并称这项政策让学生"更积极考虑到香港发展"。
+陈茂波上周访问新加坡和马来西亚。他星期天（4月2日）在网络博客写道，为了与新马年轻人有更深入的互动，他分别到访新加坡国立大学和马来亚大学......
+
+#### 美媒：马云海外推动阿里巴巴分拆计划
+
+https://www.zaobao.com/news/china/story20230403-1378930
+
+美国媒体报道，阿里巴巴集团创始人马云在海外时，推动了阿里巴巴的分拆计划。
+《华尔街日报》3月31日引述知情人士称，马云最近几个月与包括现任阿里巴巴集团董事局主席兼首席执行官张勇在内的阿里高管多次通话，敦促他们分拆公司。马云称，此举将使阿里巴巴在中国市场中更加灵活、更具竞争力。
+知情人士称，尽管马云2019年就不再担任阿里巴巴董事局主席，但对公司仍有影响力，并积极参与公司战略决策......
+
+#### 中国特稿：送年幼孩子留学泰国 中国中产家庭盼什么？
+
+https://www.zaobao.com/news/china/story20230402-1377928
+
+泰国曼谷哈罗国际学校操场一角。（严宣融）
+近年越来越多中国中产级家庭将年幼孩子送到泰国的国际学校。去年冠病疫情缓和后，留泰的中国学生人数大反弹，清迈的国际学校的中国学生人数更达40%。是什么因素让中国家长选择让孩子到这个微笑之国留学？留泰之后，孩子会有怎样的未来？
+几年前辞去中国国内媒体工作的成都妈妈刘媛（化名，46岁）去年6月和先生带着11岁的儿子杰森到泰国国际学校读书......
+
+#### 签署七谅解备忘录 新中加强绿色及数码经济等创新合作
+
+https://www.zaobao.com/news/china/story20230402-1378632
+
+贸工部长颜金勇（前排左）和中国商务部长王文涛（前排右）星期六（4月1日）在李显龙总理（后排左）和中国总理李强（后排右）的见证下，签署新中自贸协定升级后续谈判实质性完成的谅解备忘录。（邝启聪摄）
+除了贸易投资，两国星期六也在进出口食品安全、国际商事争议处理、水和环境科研、文化艺术交流、湿地和红树林保护这五个领域签署谅解备忘录......
+
+#### 去年4月1日陷入史无前例停摆 封城两个月改变上海居民人生轨迹
+
+https://www.zaobao.com/news/china/story20230402-1378633
+
+上海陆家嘴金融区路上行人如织。此图摄于2023年2月28日。　　　　　　　　　　　　　　　　　　　　　　　　
+（路透社）
+新加坡漫画家刘之华去年5月10日在上海封控期间画的漫画。　　　　　　　　
+（作者提供）
+封城初期，物流受阻、物资匮乏、防疫乱象百出，引发上海民怨沸反盈天......
+
+#### 偕四姐妹湘潭祭祖 马英九哽咽落泪
+
+https://www.zaobao.com/news/china/story20230402-1378634
+
+马英九（左三）4月1日与四名姐妹马以南（左起）、马莉君、马乃西、马冰如到湖南湘潭祭祖后，在祖父马立安墓碑前合影。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+（马英九办公室）
+（台北综合讯）正在中国大陆访问的台湾前总统马英九星期六（4月1日）携同四名姐妹，回到湖南湘潭祭拜祖父马立安......
+
+#### 半导体之争辟新战线 中国对美芯片商美光科技产品启动网安审查
+
+https://www.zaobao.com/news/china/story20230402-1378635
+
+中国宣布将对美国最大存储芯片制造商美光科技在华销售产品开展网络安全审查，显示中美半导体之争开启了新战线。
+综合彭博社和路透社报道，中国网络安全审查办公室星期五（3月31日）公告，为保障关键信息基础设施供应链安全，防范产品问题隐患造成网安风险，维护国家安全，将对美光（Micron）在华销售的产品实施网安审查，但未具体说明涉及哪些产品......
+
+#### 与危地马拉总统会谈 蔡英文盼创双赢发展
+
+https://www.zaobao.com/news/china/story20230402-1378636
+
+台湾总统蔡英文与危地马拉总统贾马特会谈后说，台湾与危地马拉能在困难中互相伸出援手，是真正的朋友，期盼台、危在坚实合作基础上持续携手努力，创造双赢发展。
+综合《联合报》《自由时报》等报道，结束过境美国纽约行程的蔡英文，当地时间星期五（3月31日）下午飞抵危地马拉首都危地马拉市，开展三天两夜的访问行程......
+
+#### 【视频】中国家庭扎堆泰国国际学校
+
+https://www.zaobao.com/news/china/story20230402-1378582
+
+泰国作为旅游胜地长期以来深受中国游客青睐。作为东南亚第二大经济体，泰国留学也成为中国人的热门选择之一。
+不过，和几年前入读泰国大学的群体不同，近年越来越多的中国中产家庭将目光投向泰国的国际学校，并以幼儿园到小学的低龄儿童为主。
+这一群体在经过疫情的短暂回流后，去年开始人数出现明显反弹，清迈不少国际学校的中国学生人数比例已达40%。
+是什么原因吸引中国家长送低龄孩子去泰国留学......
+
+#### 蔡英文过境访美领奖: 台湾是两岸关系中负责任方
+
+https://www.zaobao.com/news/china/story20230401-1378341
+
+台湾总统蔡英文（中）出席华府智库哈德逊研究所晚会，在该所所长瓦特斯（左）见证下，从董事会主席史登手中接受全球领导力奖。（路透社）
+受访学者指出，美方处理蔡英文过境异常低调，包括一向友台的美国前国务卿蓬佩奥都没有如预期出席对话，显示美国内外都有迫切议题要协商，必须避免节外生枝。
+台湾总统蔡英文过境美国纽约，获华府智库哈德逊研究所颁发全球领导力奖......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

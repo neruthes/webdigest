@@ -1,0 +1,1002 @@
+Other formats: [PDF](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/webdigest/WebDigest-20230416.pdf--cc8d043b1a8e5241acbff820b21113a4.pdf) / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20230416.html)
+
+
+# Web Digest 2023-04-16
+
+
+## Developers
+
+### Hacker News
+
+#### SUVs more dangerous to cyclists than other cars, study suggests
+
+https://road.cc/content/news/suvs-more-dangerous-cyclists-than-other-cars-300605
+
+https://news.ycombinator.com/item?id=35584563
+
+#### Yeah, about that active comeback\...
+
+https://www.ft.com/content/c331b279-00e5-4e7d-954f-468f4ee44c31
+
+https://news.ycombinator.com/item?id=35584272
+
+#### Microsoft execs on Apple's music store (2003)
+
+https://twitter.com/TechEmails/status/1647317806697050112
+
+https://news.ycombinator.com/item?id=35583743
+
+#### Web LLM -- WebGPU Powered Inference of Large Language Models
+
+https://github.com/mlc-ai/web-llm
+
+https://news.ycombinator.com/item?id=35583349
+
+#### Lofi air traffic control -- LAX
+
+https://www.lofiatc.com/?icao=KLAX
+
+https://news.ycombinator.com/item?id=35583228
+
+#### OpenAssistant released the best open-source Chat AI \[video\]
+
+https://www.youtube.com/watch?v=ddG2fM9i4Kk
+
+https://news.ycombinator.com/item?id=35582444
+
+#### Artist refuses prize after his AI image wins at top photo contest
+
+https://petapixel.com/2023/04/14/artist-refuses-prize-after-his-ai-image-wins-at-top-photo-contest/
+
+https://news.ycombinator.com/item?id=35582441
+
+#### OpenAssistant Conversations -- Democratizing Large Language Model Alignment \[pdf\]
+
+https://www.ykilcher.com/OA_Paper_2023_04_15.pdf
+
+https://news.ycombinator.com/item?id=35582417
+
+#### Hexagony: A two-dimensional, hexagonal programming language
+
+https://github.com/m-ender/hexagony
+
+https://news.ycombinator.com/item?id=35581768
+
+#### KeePassXC Audit Report
+
+https://keepassxc.org/blog/2023-04-15-audit-report/
+
+https://news.ycombinator.com/item?id=35581654
+
+#### Tiny DNA circles are key drivers of cancer, study finds
+
+https://med.stanford.edu/news/all-news/2023/04/ecDNA-cancer.html?sf176823295=1
+
+https://news.ycombinator.com/item?id=35581615
+
+#### Remote code execution vulnerability in Google they are not willing to fix
+
+https://giraffesecurity.dev/posts/google-remote-code-execution/
+
+https://news.ycombinator.com/item?id=35581532
+
+#### New macOS malware steals info, including a user's entire Keychain database
+
+https://www.malwarebytes.com/blog/news/2023/04/new-macos-malware-yoinks-a-trove-of-sensitive-information-including-a-users-entire-keychain-database
+
+https://news.ycombinator.com/item?id=35581375
+
+#### Stop Building Closed Ecosystems
+
+https://buttondown.email/whatever_jamie/archive/stop-building-closed-ecosystems/
+
+https://news.ycombinator.com/item?id=35581082
+
+#### Show HN: IPython-GPT, a Jupyter/IPython Interface to Chat GPT
+
+https://github.com/santiagobasulto/ipython-gpt
+
+https://news.ycombinator.com/item?id=35580959
+
+#### Why does a plastic-wrapped turkey sandwich cost \$15 at the NYC airport?
+
+https://hellgatenyc.com/why-is-airport-turkey-sandwich-expensive
+
+https://news.ycombinator.com/item?id=35580847
+
+#### New Arkansas bill to keep minors off social media exempts most social platforms
+
+https://www.theverge.com/2023/4/13/23681770/arkansas-social-media-bill-restricts-minors-parental-consent
+
+https://news.ycombinator.com/item?id=35580845
+
+#### Systems design 2: What we hope we know
+
+https://apenwarr.ca/log/20230415
+
+https://news.ycombinator.com/item?id=35580776
+
+#### Hypervisor Development in Rust
+
+https://memn0ps.github.io/hypervisor-development-in-rust-part-1/
+
+https://news.ycombinator.com/item?id=35579876
+
+#### Ask HN: Why don't smartphones encourage programming like early 80s computers?
+
+https://news.ycombinator.com/item?id=35579425
+
+https://news.ycombinator.com/item?id=35579425
+
+### Phoronix
+
+#### LXQt 1.3 Released While Qt6 Porting Remains A Work-In-Progress
+
+https://www.phoronix.com/news/LXQt-1.3-Released
+
+#### Reworked x86_64 Parallel Boot Support Posted For The Linux Kernel
+
+https://www.phoronix.com/news/Linux-Parallel-Boot-x86-Rework
+
+#### OpenZFS 2.1.10 Released - Adds Linux 6.2 Support, Finally Drops Python 2 Compatibility
+
+https://www.phoronix.com/news/OpenZFS-2.1.10-Released
+
+#### Libreboot Adds Support For The Once Common HP Elite 8200 SFF PC
+
+https://www.phoronix.com/news/Libreboot-HP-Elite-8200
+
+#### Mesa 23.1-rc1 Published For Testing With Many Graphics Driver Updates
+
+https://www.phoronix.com/news/Mesa-23.1-rc1
+
+#### KDE Improving Its Multi-GPU Infrastructure For Intel & AMD GPUs
+
+https://www.phoronix.com/news/KDE-Improving-Multi-GPU
+
+#### Wine 8.6 Released With Bundled Musl Libc Math Library
+
+https://www.phoronix.com/news/Wine-8.6-Released
+
+#### Intel Lands Linux Audio Fix For Arc Graphics A750/A770
+
+https://www.phoronix.com/news/Intel-DG2-Audio-Fix-Linux-KAE
+
+#### AMD openSIL Detailed For Advancing Open-Source System Firmware
+
+https://www.phoronix.com/news/AMD-openSIL-Detailed
+
+### GitHub
+
+#### microsoft/DeepSpeed
+
+https://github.com/microsoft/DeepSpeed
+
+DeepSpeed is a deep learning optimization library that makes distributed
+training and inference easy, efficient, and effective.\
+Language: Python\
+Stars: 19800\
+Forks: 2308
+
+#### directus/directus
+
+https://github.com/directus/directus
+
+The Modern Data Stack 🐰 --- Directus is an instant REST+GraphQL API and
+intuitive no-code data collaboration app for any SQL database.\
+Language: TypeScript\
+Stars: 21039\
+Forks: 2604
+
+#### PowerShell/PowerShell
+
+https://github.com/PowerShell/PowerShell
+
+PowerShell for every system!\
+Language: C#\
+Stars: 37969\
+Forks: 6459
+
+#### qunash/chatgpt-advanced
+
+https://github.com/qunash/chatgpt-advanced
+
+WebChatGPT: A browser extension that augments your ChatGPT prompts with
+web results.\
+Language: TypeScript\
+Stars: 4270\
+Forks: 485
+
+### Dribbble
+
+#### Transferto \| Cross-chain swaps
+
+https://dribbble.com/shots/21165015
+
+#### SFC Farmer's Market (Austin)
+
+https://dribbble.com/shots/21185713
+
+#### AIRND / AI Crypto trading
+
+https://dribbble.com/shots/21192705
+
+#### Stable Branding, visual identity, corporate brand design
+
+https://dribbble.com/shots/21022481
+
+#### PleaseAssistMe Website Redesign
+
+https://dribbble.com/shots/21194415
+
+#### Cloud Storage Mobile App design: iOS Android ux ui designer
+
+https://dribbble.com/shots/21022667
+
+#### 10 Years of Logomarks & Monograms
+
+https://dribbble.com/shots/21164024
+
+#### Aloe 🌵
+
+https://dribbble.com/shots/21125448
+
+#### Borderless - Transfer Money Solutions
+
+https://dribbble.com/shots/21188599
+
+#### AI iOS UI Kit -- Brainwave
+
+https://dribbble.com/shots/21177920
+
+#### Kiyoto Brawl - Metaverse game project
+
+https://dribbble.com/shots/21171957
+
+#### Flight Booking App
+
+https://dribbble.com/shots/21168731
+
+#### Frozeverse - Metaverse Game Website
+
+https://dribbble.com/shots/21204601
+
+#### Camper vans, Cozy Camp fires and Coffee
+
+https://dribbble.com/shots/21182847
+
+#### Proemion Website Admin Dashboard: Analytics UX UI
+
+https://dribbble.com/shots/21022751
+
+#### Electronic Music Production Learning Platform Design
+
+https://dribbble.com/shots/21139645
+
+#### Reflection for Reflect.app 😵‍💫
+
+https://dribbble.com/shots/21169141
+
+#### Okta Brand Guidelines, style guide book, branding deck, logo
+
+https://dribbble.com/shots/21022817
+
+#### Tokenex Website Design: business landing web page, site designer
+
+https://dribbble.com/shots/21022633
+
+#### Crypto Trading App Concept
+
+https://dribbble.com/shots/21184898
+
+#### EMI Health Mobile App design: iOS Android ux ui designer
+
+https://dribbble.com/shots/21022540
+
+#### Proemion Branding, visual identity, corporate brand design
+
+https://dribbble.com/shots/21022781
+
+#### \[P\] 1 → N
+
+https://dribbble.com/shots/21137977
+
+#### Canopy Wordmark
+
+https://dribbble.com/shots/21184062
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### 美国蒙大拿州众议院投票全面禁止 TikTok
+
+https://www.solidot.org/story?sid=74677
+
+#### 盗窃丝绸之路逾 30 亿美元比特币的男子被判一年零一天
+
+https://www.solidot.org/story?sid=74676
+
+#### Bob Lee 遇刺与凶手妹妹相关
+
+https://www.solidot.org/story?sid=74675
+
+#### OpenAI CEO 确认该公司目前没有在训练 GPT-5
+
+https://www.solidot.org/story?sid=74674
+
+#### ESA 成功发射木星卫星探测器 Juice
+
+https://www.solidot.org/story?sid=74673
+
+#### 中国计划大幅削减火箭发射费用以迎接 SpaceX 的挑战 
+
+https://www.solidot.org/story?sid=74672
+
+#### 苹果早晨 7 点给员工发邮件调查混合办公
+
+https://www.solidot.org/story?sid=74671
+
+#### 研究发现高铁略微增加了幸福感
+
+https://www.solidot.org/story?sid=74670
+
+#### 天文学家发现了一个诞生于创世大爆炸后 5 亿年的小星系 
+
+https://www.solidot.org/story?sid=74669
+
+#### 中国沿海海平面上升创下记录
+
+https://www.solidot.org/story?sid=74668
+
+#### 黑客从西部数据窃取到了 10 TB 数据
+
+https://www.solidot.org/story?sid=74667
+
+#### 千禧世代花在游戏上的时间比 Z 世代和青少年更多 
+
+https://www.solidot.org/story?sid=74666
+
+#### Servo 项目计划迁移到 Layout 2020
+
+https://www.solidot.org/story?sid=74665
+
+#### EAST 实现 403 秒高约束模等离子体运行
+
+https://www.solidot.org/story?sid=74664
+
+#### 亚马逊参与生成式 AI 竞赛
+
+https://www.solidot.org/story?sid=74663
+
+#### Bob Lee 的疑凶是其熟人
+
+https://www.solidot.org/story?sid=74662
+
+#### 微软开源 DeepSpeed Chat
+
+https://www.solidot.org/story?sid=74661
+
+#### 广东报告首例 H3N8 禽流感死亡病例
+
+https://www.solidot.org/story?sid=74660
+
+#### 苹果宣布其电池将使用 100% 再生钴
+
+https://www.solidot.org/story?sid=74659
+
+#### 亚马逊编程助手 CodeWhispere 免费供个人开发者使用
+
+https://www.solidot.org/story?sid=74658
+
+### V2EX
+
+#### \[Android\] 大家在安卓上用什么 todo list 的工具？
+
+https://www.v2ex.com/t/932849
+
+#### \[优惠信息\] 广州免费送半年宽带 600M！
+
+https://www.v2ex.com/t/932848
+
+#### \[Apple\] macOS 11.2.3 安装任意 ipa 侧载呢还是升级系统？
+
+https://www.v2ex.com/t/932847
+
+#### \[Apple\] 有没有一种方式，让 iPad 连 mbp 的时候不充电。
+
+https://www.v2ex.com/t/932846
+
+#### \[DNS\] Alidns 好像对苹果域名的 ecs 解析失效了。
+
+https://www.v2ex.com/t/932845
+
+#### \[宽带症候群\] UCS 6200 和 Nexus 5000 的主要区别？
+
+https://www.v2ex.com/t/932843
+
+#### \[问与答\] 请教一个 clickhouse 和 filebeat 的问题
+
+https://www.v2ex.com/t/932842
+
+#### \[宽带症候群\] NAT6 问题。。。
+
+https://www.v2ex.com/t/932841
+
+#### \[问与答\] clash 的配置文件订阅如何防止盗链
+
+https://www.v2ex.com/t/932840
+
+#### \[Python\] 谁有 Twitter V2 API，我需要监控实时推文
+
+https://www.v2ex.com/t/932839
+
+#### \[问与答\] MacOS 有什么好用的 finder 增强工具吗？
+
+https://www.v2ex.com/t/932838
+
+#### \[问与答\] 我用 ab 进行压测，设置请求总数 1000，但压测完为啥 Complete requests+Failed requests 不等于 1000 呢?
+
+https://www.v2ex.com/t/932837
+
+#### \[NAS\] 请教一下 Hyper Backup 和 Cloud Sync 的相关问题
+
+https://www.v2ex.com/t/932833
+
+#### \[分享发现\] 2023 新神卡，支持 usdt 入金，可激活 wise
+
+https://www.v2ex.com/t/932831
+
+#### \[程序员\] 求建议，要不要去小厂实习？
+
+https://www.v2ex.com/t/932830
+
+#### \[问与答\] 你那里直连 slack 速度怎么样？
+
+https://www.v2ex.com/t/932829
+
+#### \[问与答\] 一个 http 请求建立连接，一定时间后，服务器和浏览器有没有同时断开连接的功能？
+
+https://www.v2ex.com/t/932828
+
+#### \[生活\] 请大家推荐一些适合老年人玩的电脑游戏
+
+https://www.v2ex.com/t/932826
+
+#### \[问与答\] ultra mobile paygo 被封怎么解决
+
+https://www.v2ex.com/t/932825
+
+#### \[问与答\] 请教一个关于网络的问题
+
+https://www.v2ex.com/t/932824
+
+#### \[问与答\] 家人们,硬件小白问一下这种板子的实现原理
+
+https://www.v2ex.com/t/932823
+
+#### \[程序员\] 能识别图片的 chatGPT 版本出来了
+
+https://www.v2ex.com/t/932822
+
+#### \[问与答\] 投票帖：目前大家觉得是 macos 还是 windows 的 bug 更多
+
+https://www.v2ex.com/t/932821
+
+#### \[VPS\] 求推荐适合做 ZEROTIER 自建 planet 便宜实惠的 VPS
+
+https://www.v2ex.com/t/932820
+
+#### \[程序员\] 正在群里直播 Designing Data-Intensive Application 原版阅读讨论， 有兴趣的同学也可以来参加讨论哦
+
+https://www.v2ex.com/t/932819
+
+#### \[问与答\] 大家对办公、学习环境有什么要求吗？
+
+https://www.v2ex.com/t/932818
+
+#### \[日本\] 分享一下在日本一个月水、电、燃气的账单
+
+https://www.v2ex.com/t/932816
+
+#### \[问与答\] 想要买个电动车（两轮），通勤用，周末也可以去时区逛逛。V 友们有什么推荐的电动车么？预算 3000 左右，来个具体牌子和型号。
+
+https://www.v2ex.com/t/932815
+
+#### \[macOS\] Mac 版微信不能自动登录？
+
+https://www.v2ex.com/t/932813
+
+#### \[OpenAI\] 对 chatgpt 的看法
+
+https://www.v2ex.com/t/932812
+
+#### \[问与答\] 做为 IT 技术人如何获取 chatgpt 带来的红利呢
+
+https://www.v2ex.com/t/932811
+
+#### \[Java\] 在 SpringBoot 中使用 Netty 的思路，偷梁换柱之计
+
+https://www.v2ex.com/t/932810
+
+#### \[问与答\] 巨缺乏运动，准备改骑自行车上班，请问下什么样的自行车骑起来省力舒适
+
+https://www.v2ex.com/t/932809
+
+#### \[问与答\] 关于开源输入法的「云联想」，能否只下载数据不上传数据？
+
+https://www.v2ex.com/t/932808
+
+#### \[问与答\] GPT 如何实现短视频生成呢
+
+https://www.v2ex.com/t/932807
+
+#### \[macOS\] 预览 打开 pdf，有些 pdf 无法显示里面的图片
+
+https://www.v2ex.com/t/932806
+
+#### \[程序员\] Auto-GPT 中文版，可中文对话，回复。让 GPT 自动帮你生成网站
+
+https://www.v2ex.com/t/932803
+
+#### \[问与答\] 广州免费送半年宽带 600M
+
+https://www.v2ex.com/t/932802
+
+#### \[问与答\] 哪个 AI 写 SQL 比较厉害？
+
+https://www.v2ex.com/t/932801
+
+#### \[Apple\] 夏天快到了，有什么手机壳推荐
+
+https://www.v2ex.com/t/932800
+
+#### \[分享发现\] 新 AIGC 模型 Claude 测试
+
+https://www.v2ex.com/t/932799
+
+#### \[问与答\] 朋友结婚想要一个网站，那么问题来了
+
+https://www.v2ex.com/t/932798
+
+#### \[推广\] \[depay 被 openai ban 了\] 绑卡付费 plan B: onekey card
+
+https://www.v2ex.com/t/932797
+
+#### \[生活\] APP 的消息免打扰治疗了我的精神内耗。
+
+https://www.v2ex.com/t/932796
+
+#### \[程序员\] 一个快速输入 chatGPT prompts 的油猴脚本，支持中文和英文
+
+https://www.v2ex.com/t/932794
+
+#### \[程序员\] OpenAI ChatGPT UI 增强版，已开源，免费体验
+
+https://www.v2ex.com/t/932793
+
+#### \[OpenAI\] gpt4-api 现在可以传图让 gpt 识别，学习吗？
+
+https://www.v2ex.com/t/932792
+
+#### \[VPS\] RackNerd 2023.4 最新活动，最低\$10.78，可翻倍流量
+
+https://www.v2ex.com/t/932791
+
+#### \[酷工作\] \[Remote\] 招全职 / 兼职 TypeScript 高级工程师
+
+https://www.v2ex.com/t/932790
+
+#### \[程序员\] 对于并发高的网站， HTTPS 相比 HTTP 带宽要求会提高多少？现在 1.4 万并发 HTTP 10Mbps 已经撑不住了，一堆超时的。静态资源都在 CDN。申请加到 13Mbps 了，想上 HTTPS 怕上完更卡。客户的公司，非常抠的
+
+https://www.v2ex.com/t/932789
+
+## Generic News
+
+### AP News
+
+#### California man wore armor in hostage killing, report says
+
+https://apnews.com/article/3efdcffa40c0b0028fad41002edad12c
+
+FILE - Police investigate a shooting near Mahany Park in Roseville,
+Calif., Thursday, April 6, 2023. On Friday, April 14, authorities
+released additional details about the April 6 shooting in Roseville in
+which the suspect allegedly took\...
+
+#### Archeologists in Italy unearth ancient dolphin statuette
+
+https://apnews.com/article/6df3966e0e2636528e20d9f6d10e66ae
+
+This undated photo shows a terracotta figurine of Eros riding a dolphin
+found in a newly discovered sanctuary, which dates from the 5th century
+B.C., that was first identified in 2019 along the ancient city walls of
+Paestum, Southern\...
+
+#### Resort famous for Elvis' 'Blue Hawaii' movie will be rebuilt
+
+https://apnews.com/article/11f53c5f138f24ac54fba7422f55e6af
+
+FILE - The Coco Palms Resort retail annex where one shop on the second
+floor was gutted by fire in Wailua on the island of Kauai, Hawaii, is
+pictured on Dec. 3, 2009. Demolition will soon begin on the resort once
+favored by both Hawaiian\...
+
+#### Suspect in murder of Indiana teen girls wins prison transfer
+
+https://apnews.com/article/5f30262f323208a19ca8bd00748f5d08
+
+FILE - Officers escort Richard Matthew Allen out of the Carroll County
+courthouse following a hearing, Nov. 22, 2022, in Delphi, Ind. A judge
+has ordered Allen, charged with killing two northern Indiana teenage
+girls, transferred to a\...
+
+#### Blue Jackets fire coach Brad Larsen after 2 seasons
+
+https://apnews.com/article/d36348542f6493f2f1c00e74a92c975e
+
+Columbus Blue Jackets coach Brad Larsen, center top, watches his team
+during the third period of an NHL hockey game against the Ottawa
+Senators in Columbus, Ohio, Sunday, April 2, 2023. (AP Photo/Paul
+Vernon) Brad Larsen has been fired as\...
+
+#### Rutgers, unions announce agreement, classes to resume
+
+https://apnews.com/article/be4b86d6eec75b40f24edda163f2efca
+
+Strikers march in front of Rutgers buildings in New Brunswick, N.J.,
+Monday, April 10, 2023. Thousands of professors, part-time lecturers and
+graduate student workers at New Jerseys flagship university\...
+
+#### More than 100 arrested as activists delay Grand National
+
+https://apnews.com/article/5cf0e515f80fe70e60b76d6ee84d6228
+
+Members of the police detain protesters as activists tried to block the
+start of the Grand National horse race at Aintree Racecourse Liverpool,
+England, Saturday, April 15, 2023. The iconic Grand National race which
+is run over fences is\...
+
+#### Starving followers found at Kenyan pastor's property; 4 die
+
+https://apnews.com/article/f0eeeaa9b67ddeb18f21d126d7dc8d3d
+
+NAIROBI, Kenya (AP) --- Police in coastal Kenya found 15 emaciated
+parishioners on the property of a church pastor, and four of the people
+died after the group was rescued and taken to a hospital, authorities
+said. Police officials said\...
+
+#### Guitarist Mark Sheehan of Irish band The Script dies at 46
+
+https://apnews.com/article/4184709dd05f44f738c17c507e9db756
+
+FILE - Band members from The Script, Mark Sheehan, left, Danny
+ODonoghue, center, and Glen Power pose for a portrait, Friday, May 29,
+2009 in New York. Ireland's president has led tributes to Mark Sheehan,
+guitarist with\...
+
+#### Bus with musicians crashes in western India, killing 13
+
+https://apnews.com/article/dfe8e7cd6410fdd80911a945dfb09bd9
+
+Police and rescue officials inspect the wreckage of a passenger bus near
+Khopoli, some 70 kilometres (43 miles) from Mumbai, India, Saturday,
+April 15, 2023. More than dozen passengers died and many injured after a
+bus fell into a gorge\...
+
+#### Chinese basketball investigates suspicious game result
+
+https://apnews.com/article/d95e37af2cf26c10ab042ff4c5bc0548
+
+In this photo released by Chinas Xinhua News Agency, Melo Trimble (3) of
+the Shanghai Sharks goes for a lay-up during a playoff basketball game
+between the Shanghai Sharks and the Jiangsu Dragons in Shanghai,
+Friday\...
+
+#### Boston remembers deadly marathon bombing 10 years later
+
+https://apnews.com/article/2c0640b1c7ce68f1c9c7c0f15fb56371
+
+Participants of a gathering for victims of the 2013 Boston Marathon
+bombing process between memorials on Boylston Street, Saturday April 15,
+2023, in Boston. (AP Photo/Reba Saldanha) BOSTON (AP) --- With a
+bagpiper playing "The Bells of\...
+
+#### G7 energy, environment leaders haggle over climate strategy
+
+https://apnews.com/article/b7f09410b09c1f86fe3a4527d1d3ba0d
+
+Japans Economy Minister Yasutoshi Nishimura, center left, with
+Environment Minister Akihiro Nishimura, center right, speaks at the
+beginning of a plenary session in the G-7 ministers meeting on
+climate\...
+
+### Reuters
+
+#### Train derailment and fire reported in Maine, CNN reports
+
+https://www.reuters.com/world/us/train-derailment-fire-reported-maine-cnn-2023-04-15/
+
+Timberland is seen near Jackman, Maine, May 25, 2012. REUTERS/Ernest
+Scheyder A train carrying hazardous materials derailed and caught fire
+north of Rockwood, Maine, fire officials said in a Facebook post on
+Saturday. Rockwood Fire and\...
+
+#### Russia's Putin attends midnight Orthodox Easter service in Moscow
+
+https://www.reuters.com/world/russias-putin-attends-midnight-orthodox-easter-service-moscow-2023-04-15/
+
+Russian President Vladimir Putin attends the Orthodox Easter service at
+the Cathedral of Christ the Saviour in Moscow, Russia April 16, 2023.
+Sputnik/Sergei Karpukhin/Pool via REUTERS President Vladimir Putin on
+Sunday attended an Easter\...
+
+#### Sudan clashes kill at least 25 in power struggle between army, paramilitaries
+
+https://www.reuters.com/world/africa/heavy-gunfire-heard-south-sudanese-capital-khartoum-witnesses-2023-04-15/
+
+A fighter aircraft flies over Khartoum during clashes between the
+paramilitary Rapid Support Forces and the army in Khartoum, Sudan April
+15, 2023. REUTERS/Stringer Smoke rises in Omdurman, near Halfaya Bridge,
+during clashes between the\...
+
+#### Poland, Hungary ban grain and food imports from Ukraine
+
+https://www.reuters.com/world/europe/polish-government-bans-grain-food-imports-ukraine-2023-04-15/
+
+A man speaks to a member of the Ukrainian Border Guard Service at the
+renovated Ukraine-Poland border crossing point near the village of
+Krakovets, as Russias attack on Ukraine continues, in Lviv region,
+Ukraine August\...
+
+#### Iran vows crack down on people who promote removing the veil
+
+https://www.reuters.com/world/middle-east/iran-vows-crack-down-people-who-promote-removing-veil-2023-04-15/
+
+Iranian women walk on a street amid the implementation of the new hijab
+surveillance in Tehran, Iran, April 15, 2023. Majid Asgaripour/WANA
+(West Asia News Agency) via REUTERS An Iranian woman walks on a street
+amid the implementation of\...
+
+#### Israeli leaders rebuff Moody's outlook cut, protests persist
+
+https://www.reuters.com/world/middle-east/israeli-government-says-economy-strong-after-moodys-rating-outlook-cut-2023-04-15/
+
+An aerial view shows people during a demonstration against Israeli Prime
+Minister Benjamin Netanyahu and his nationalist coalition governments
+judicial overhaul, in Tel Aviv, Israel, April 15, 2023. REUTERS/Ilan
+Rosenberg\...
+
+#### Sudanese paramilitary force says ready to cooperate over Egyptian troops
+
+https://www.reuters.com/world/africa/sudans-paramilitary-force-shares-video-they-claim-shows-surrendered-egyptian-2023-04-15/
+
+Smoke rises in Omdurman, near Halfaya Bridge, during clashes between the
+Paramilitary Rapid Support Forces and the army as seen from Khartoum
+North, Sudan April 15, 2023. REUTERS/Mohamed Nureldin Abdallah Smoke
+rises in Omdurman, near\...
+
+#### Ukraine reports unprecedentedly bloody fighting in Bakhmut
+
+https://www.reuters.com/world/europe/russia-says-wagner-fighters-seize-two-more-parts-bakhmut-2023-04-15/
+
+Smoke is seen in this drone footage of Bakhmut amid Russias attack on
+Ukraine, in this screen grab obtained from a handout video released on
+April 15, 2023. Adam Tactic Group/Handout via REUTERS A general view
+shows\...
+
+#### Saudi airline says plane came under fire at Khartoum airport
+
+https://www.reuters.com/world/saudi-national-carrier-says-aircraft-had-an-accident-khartoum-airport-2023-04-15/
+
+Saudi Arabian Airlines plane, is seen at the airport of the Red Sea
+resort of Sharm el-Sheikh, Egypt, August 9, 2021. Picture taken through
+a window. REUTERS/Mohamed Abd El Ghany A Saudi Arabian airlines plane at
+Sudans\...
+
+#### Protesters delay start of Britain's Grand National horse race
+
+https://www.reuters.com/world/uk/protests-delay-start-britains-grand-national-horse-race-2023-04-15/
+
+Horse Racing - Grand National Festival 2023 - Aintree Racecourse,
+Liverpool, Britain - April 15, 2023 An animal rights activist is
+apprehended by police officers at Aintree Racecourse as the start of the
+17:15 Randox Grand National\...
+
+#### Exclusive: Zambia sent bondholders debt restructuring proposal, finance ministry says
+
+https://www.reuters.com/world/africa/zambia-sent-bondholders-debt-restructuring-proposal-finance-ministry-2023-04-15/
+
+Zambias Finance Minister Situmbeko Musokotwane attends the Annual
+Meetings of the International Monetary Fund and World Bank in
+Washington, U.S., October 15, 2022. REUTERS/James Lawler Duggan/File
+Photo Zambia last week\...
+
+#### How Sudan's Hemedti carved his route to power
+
+https://www.reuters.com/world/africa/sudans-hemedti-carved-route-power-by-crushing-darfur-revolt-2023-04-15/
+
+Deputy of Sudans Military Leader, General Mohamed Hamdan Dagalo, speaks
+at a ceremony to sign the framework agreement between military rulers
+and civilian powers in Khartoum, Sudan December 5, 2022. REUTERS/El
+Tayeb\...
+
+#### After 18 years, Europe's largest nuclear reactor to start regular output on Sunday
+
+https://www.reuters.com/world/europe/after-18-years-europes-largest-nuclear-reactor-start-regular-output-sunday-2023-04-15/
+
+A general view of the Olkiluoto-3 nuclear reactor in Eurajoki, Finland
+August 17, 2017. REUTERS/Lefteris Karagiannopoulos Specialists work
+inside Olkiluoto-3 nuclear reactor in Eurajoki, Finland August 17, 2017.
+REUTERS/Lefteris\...
+
+### 联合早报
+
+#### 李强旧部王纲出任中宣部副部长
+
+https://www.zaobao.com/news/china/story20230416-1383491
+
+原浙江省委宣传部长王纲本月担任中宣部副部长。（互联网）
+康旭平本月出任国务院研究室副主任。 （互联网）
+51岁的王纲是浙江武义人，出身《浙江日报》并在媒体业工作多年。他在2015年李强担任浙江省长期间进入政坛，担任浙江省政府副秘书长。
+继康旭平担任中国国务院研究室副主任后，中国总理李强另一旧部原浙江省委宣传部长王纲也从地方转至中央，担任中宣部副部长......
+
+#### 夏宝龙：乱港根源未除 治理基础仍须巩固
+
+https://www.zaobao.com/news/china/story20230416-1383492
+
+星期六（4月15日）是《香港国安法》实施以来的香港第三个"全民国家安全教育日"，官方用大型游戏来宣导国安法。（法新社）
+《香港国安法》生效至今快将三年，香港社会已渐趋平静。但负责港澳事务的中国国务院港澳办主任夏宝龙认为，乱的根源没有根除，治的基础仍需要巩固。有受访学者指出，夏宝龙的讲话反映港府很快就会推行《基本法》23条立法......
+
+#### 巴西总统：美国应停止 "鼓励"乌克兰打仗
+
+https://www.zaobao.com/news/china/story20230416-1383493
+
+巴西总统卢拉说，美国应停止鼓励战争，美国和欧盟要开始谈论和平，国际社会如此才能说服俄乌领导人，和平符合全世界利益。
+法新社星期六（15日）报道，在中国访问的卢拉在离开北京之前，向媒体发表上述谈话。
+卢拉还说，与俄罗斯总统普京和乌克兰总统泽连斯基交谈需要有耐心，"但最重要的是，必须说服那些提供武器、鼓励战争的国家停下来......
+
+#### 台民调:国民党支持度 回升八个百分点
+
+https://www.zaobao.com/news/china/story20230416-1383494
+
+台湾最新民意调查显示，在台湾前总统马英九访问中国大陆等因素带动下，台湾在野国民党支持度回升八个百分点。
+台湾民意基金会星期六（4月15日）发布"台湾人的政党支持倾向"民调。
+结果显示，从2022九合一地方选举后，国民党支持度在五个月内经历"三上两下"，跌幅升幅都很大。去年12月和今年2月支持度超过执政民进党，1月和3月大幅下滑，本月又谷底反弹......
+
+#### "没报名的抓紧点击报名" 直播带岗兴起指尖下觅工作
+
+https://www.zaobao.com/news/china/story20230416-1383496
+
+直播带岗的兴起，为中国庞大蓝领群体的求职提供了便利。（互联网）
+中国企业过去长期通过线下招聘会、求职网站或委托中介公司招聘员工，但这个局面正在改变。图为4月11日在重庆举行的一场招聘会。（法新社）
+中国一些地方政府相关部门在平台上开设直播间为企业招聘，以促进稳就业保就业，图为江苏常州人社局的带岗直播。（互联网）
+中国各大短视频、招聘求职平台的不同直播间内，带岗主播们热情洋溢地吆喝着工作岗位信息......
+
+#### 一部手机找工作 中国兴起直播招聘
+
+https://www.zaobao.com/news/china/story20230416-1383561
+
+带岗主播刘超已为逾百家企业直播招聘，平均每月帮助300至500人找到工作。（互联网）
+在快手点开"找工作"模块，映入眼帘的是来自全国各地、五花八门的招工现场。（互联网）
+直播带岗的兴起，为中国庞大蓝领群体的求职提供了便利。（互联网）
+中国企业过去招聘员工长期通过线下招聘会、求职网站或委托中介公司进行，但这一局面正在改变。图为4月11日在重庆举行的一场招聘会......
+
+#### 德外长吁大陆不要对台动武
+
+https://www.zaobao.com/news/china/story20230415-1383176
+
+中国外长秦刚（右）和德国外长贝尔伯克星期五在北京钓鱼台国宾馆召开联合记者会。（法新社）
+贝尔伯克表示德国坚持"一个中国"政策，但也非常关注台海局势。她说："单方面、暴力地改变现状，对我们欧洲人来说是不可接受的。"中国外长秦刚则表示，台海紧张局势是境外势力的作用所致。
+解放军完成三天环台演习，德国外长贝尔伯克呼吁中国大陆不要对台湾动武，并指台海军事态势升级对全世界都是"可怕的场景"......
+
+#### 云南森林大火 3300消防员扑救
+
+https://www.zaobao.com/news/china/story20230415-1383178
+
+云南省玉溪市江川区4月11日疑因当地村民违规野外用火而引发森林大火。受天干物燥、风力较大、风向多变、坡陡林密、林下腐殖层较厚等因素影响，火势一度蔓延，截至4月14日中午已投入3300余名消防人员开展扑救工作。图为消防员在火场扑救山火的情景......
+
+#### 中国防长李尚福将访问俄罗斯
+
+https://www.zaobao.com/news/china/story20230415-1383179
+
+应俄罗斯国防部长绍伊古邀请，中国国务委员兼国防部长李尚福将在星期天（4月16日）对俄罗斯展开为期四天的正式访问。
+据中国国防部官网消息，中国国防部新闻发言人谭克非星期五通报了李尚福的出访消息，并指李尚福将与俄军队领导人举行会谈，参访俄军事院校......
+
+#### 乌克兰将小米列为 俄方"战争赞助商"
+
+https://www.zaobao.com/news/china/story20230415-1383180
+
+乌克兰国家预防腐败局宣布，把中国互联网巨头小米公司列入俄罗斯"战争国际赞助商"名单施加制裁。小米公司发言人回应称对此强烈反对。
+乌克兰国家预防腐败局（NACP）当地时间星期四（4月13日）发布在官网和推特上的声明称，小米"不但在俄罗斯全面入侵后继续在俄罗斯开展业务，而且已经是这一恐怖主义国家智能手机市场领导品牌"......
+
+#### 拟采用人工智能生成内容 蓝色光标全面停用文案外包
+
+https://www.zaobao.com/news/china/story20230415-1383181
+
+中国知名公关及广告服务商蓝色光标集团计划用类似ChatGPT的生成式人工智能模型，取代其外包的文案撰写、创意设计等职位，这一消息显示，人工智能取代普通人工作的速度可能比人们想象中更快......
+
+#### 庄慧良：大陆终结惠台红利？
+
+https://www.zaobao.com/news/china/story20230415-1383182
+
+如果赖清德当选2024年总统，未对两岸政策改弦更张，台湾经济堪忧，民众也要作好付出代价的准备......
+
+#### 大陆很可能发动经济封锁 专家：贸易战或冲击台湾总统选情
+
+https://www.zaobao.com/news/china/story20230415-1383183
+
+台湾通货膨胀连续20个月超过2%警戒线，民间的蛋荒也已超过一年，如今又面对中国大陆经济施压和贸易战阴影笼罩。（香港中通社）
+海基会前董事长洪奇昌指出，贸易壁垒调查宣布的时间点和冲击范围，明显针对台湾总统选举，尤其影响中小企业和中南部民进党票源区，也考验民进党政府在两岸政治现状下，如何与大陆官方进行贸易协商。
+台湾外交部次长李淳评估，中国大陆很可能考虑对台湾发动经济封锁......
+
+#### 蔡英文视察台军 强调未来继续加强战力
+
+https://www.zaobao.com/news/china/story20230415-1383184
+
+台湾总统蔡英文星期五（4月14日）在台中视察空军第三战术战斗机联队，听取飞行员介绍"经国号"IDF战斗机的性能。（台湾总统府提供）
+中国大陆结束三天环台演习后，台湾总统蔡英文星期五到台中视察和慰劳部队，感谢执行警戒任务的军人坚守岗位，并表示未来会继续加强台军战力。
+据台湾国防部军事新闻通讯社报道，蔡英文于星期五（4月14日）上午到清泉岗基地视察空军第三战术战斗机联队......
+
+#### 大陆否认在台设禁飞区 指炒作航天活动是政治手段
+
+https://www.zaobao.com/news/china/story20230415-1383185
+
+中国大陆官方否认在台湾设禁飞区的说法，并表示向台湾提供太空活动的事先通知，以确保飞行安全是负责任的做法，围绕航天活动的炒作是政治手段......
+
+#### 蜂巢能源扩大欧洲业务 计划增建五电池工厂
+
+https://www.zaobao.com/news/china/story20230415-1383186
+
+中国电池制造商蜂巢能源宣布扩大在欧洲的业务版图，计划在该地区建立多达五家工厂。此举被视为进一步助推中国企业对欧洲新能源市场的主导。
+据彭博社星期五（4月14日）报道，蜂巢能源欧洲负责人表示，该公司2030年底前在欧洲产能将达50吉瓦时，足以为多达100万辆电动汽车提供电力。
+该负责人称，目前正在与三家欧洲汽车制造商就生产交易进行谈判，协议预计将在年底完成......
+
+#### 卢拉访华强调巴西重返国际舞台 学者："客似云来"中国力图展现未受美国孤立
+
+https://www.zaobao.com/news/china/story20230414-1382779
+
+巴西总统卢拉（右二）伉俪星期三（4月12日）晚上抵达上海，中国外交部副部长谢锋（左一）到机场迎接。（路透社）
+巴西总统卢拉星期四在上海出席巴西前总统罗塞夫就任金砖国家新开发银行行长的就职典礼时强调，巴西缺席世界重大决策的时代已经过去，"我们在无故缺席后，已经重返国际舞台"。
+巴西总统卢拉星期三（4月12日）率领庞大代表团抵达上海，开启新上任后首个访华行程，并称巴西已重返国际舞台......
+
+#### 江西赣州原市长万凯被双开
+
+https://www.zaobao.com/news/china/story20230414-1382781
+
+曾长期任职江西公安政法系统的"70后"赣州原市长万凯，星期三（4月12日）被宣布"双开"，其仕途先后所经的省会南昌、抚州、赣州都是江西近年腐败重灾区。江西"挖矿老虎"肖毅与张鸿星在抚州搭班子期间，万凯曾是二人下属，并担任主管公安局的副市长近三年。
+60岁的肖毅已在2021年5月落马，成为中国首名涉虚拟货币挖矿被查的省部级高官......
+
+#### 访华德国外长强调 欧洲不能对台海局势坐视不理
+
+https://www.zaobao.com/news/china/story20230414-1382782
+
+在中国访问的德国外长贝尔伯克说，欧洲不能对台海两岸紧张局势坐视不理，因为一旦军事行动升级，那将是全球经济面对的"最坏情境"。
+路透社报道，贝尔伯克的发言和法国总统马克龙此前发表欧洲"不应卷入台海"危机的谈话基调不一样。报道说，贝尔伯克前述录音谈话由德国外交部在天津提供......
+
+#### 北京将发射气象卫星 拟在台以北空域划设禁航区
+
+https://www.zaobao.com/news/china/story20230414-1382783
+
+中国大陆拟星期天（4月16日）在台湾以北空域划设禁航区，据报事由大陆在甘肃发射"风云三号G星"气象卫星，或有火箭残骸坠落。
+早前外界猜测大陆划设禁航区与军演有关。但《自由时报》报道，台湾的国安人士周四晚上称，此举无关军演，是由于当日大陆将发射气象卫星......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

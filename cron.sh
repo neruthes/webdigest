@@ -43,7 +43,8 @@ echo -e "Artifact:
 
 
 ### Synchronize to NAS public
-shareDirToNasPublic
+# shareDirToNasPublic
+WRITE_OSSLIST=n minoss "$(./build.sh lastpdf)"
 
 
 ### Send Telegram bot message

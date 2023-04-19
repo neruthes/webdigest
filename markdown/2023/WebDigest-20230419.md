@@ -1,0 +1,1015 @@
+Other formats: [PDF](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/webdigest/WebDigest-20230419.pdf--2e088d7e5c57bd441af8f416986034c2.pdf) / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20230419.html)
+
+
+# Web Digest 2023-04-19
+
+
+## Developers
+
+### Hacker News
+
+#### Why do ships use "port" and "starboard" instead of "left" and "right?"
+
+https://oceanservice.noaa.gov/facts/port-starboard.html
+
+https://news.ycombinator.com/item?id=35620924
+
+#### Meta is about to start its next round of layoffs
+
+https://www.vox.com/technology/2023/4/18/23688627/meta-layoffs-mark-zuckerberg-facebook-instagram-whatsapp
+
+https://news.ycombinator.com/item?id=35620407
+
+#### Fox News, Dominion Voting Systems reach \$787,500,000 settlement
+
+https://www.cbsnews.com/news/fox-news-dominion-voting-systems-lawsuit-settlement/
+
+https://news.ycombinator.com/item?id=35619711
+
+#### Netflix will end its DVD service after 25 years
+
+https://www.nytimes.com/2023/04/18/business/media/netflix-dvds-earnings.html
+
+https://news.ycombinator.com/item?id=35619589
+
+#### Firefox may soon reject Cookie prompts automatically
+
+https://www.ghacks.net/2023/04/17/firefox-may-interact-with-cookie-prompts-automatically-soon/
+
+https://news.ycombinator.com/item?id=35619293
+
+#### Reddit will begin charging for access to its API
+
+https://www.nytimes.com/2023/04/18/technology/reddit-ai-openai-google.html
+
+https://news.ycombinator.com/item?id=35617763
+
+#### Astral
+
+https://astral.sh/
+
+https://news.ycombinator.com/item?id=35617198
+
+#### Microsoft is heading further down the path of advertising in Windows 11
+
+https://www.techradar.com/news/windows-11-start-menu-ads-look-set-to-get-even-worse-this-is-getting-painful-now
+
+https://news.ycombinator.com/item?id=35616704
+
+#### How can we stop the CO2 that plants store from leaking back into the air?
+
+https://nautil.us/how-can-we-stop-the-co2-that-plants-store-from-leaking-back-into-the-air-297612/
+
+https://news.ycombinator.com/item?id=35615490
+
+#### Coinbase CEO: we're preparing to go to court with the U.S. SEC
+
+https://www.cnbc.com/2023/04/18/coinbase-ceo-says-it-is-preparing-to-go-to-court-with-the-us-sec-.html
+
+https://news.ycombinator.com/item?id=35614754
+
+#### AI song featuring fake Drake and Weeknd vocals pulled from streaming services
+
+https://www.theguardian.com/music/2023/apr/18/ai-song-featuring-fake-drake-and-weeknd-vocals-pulled-from-streaming-services
+
+https://news.ycombinator.com/item?id=35614401
+
+#### Software firms across US facing tax bills that threaten survival
+
+https://www.cnbc.com/2023/04/18/software-firms-face-huge-tax-bills-that-threaten-tech-startup-survival.html
+
+https://news.ycombinator.com/item?id=35614313
+
+#### Microsoft plugging more ads into Windows 11 Start Menu
+
+https://www.theregister.com/2023/04/17/microsoft_windows_start_ads/
+
+https://news.ycombinator.com/item?id=35614190
+
+#### Giant SpaceX Spiral Appears Amid the Aurora Lights in Alaska's Night Sky
+
+https://petapixel.com/2023/04/17/giant-spiral-appears-amid-the-aurora-lights-in-alaskas-night-sky/
+
+https://news.ycombinator.com/item?id=35613594
+
+#### Apple's agreement with Cupertino
+
+https://news.bloombergtax.com/tax-insights-and-commentary/apples-agreement-with-cupertino-is-taxpayer-fleecing-collusion
+
+https://news.ycombinator.com/item?id=35612733
+
+#### An example of LLM prompting for programming
+
+https://martinfowler.com/articles/2023-chatgpt-xu-hao.html
+
+https://news.ycombinator.com/item?id=35612494
+
+#### Marginalia: DIY search engine that focuses on non-commercial content
+
+https://search.marginalia.nu/
+
+https://news.ycombinator.com/item?id=35611923
+
+#### Don't write clean code, write CRISP code
+
+https://bitfieldconsulting.com/golang/crisp-code
+
+https://news.ycombinator.com/item?id=35611710
+
+#### PSA: Upgrade your LUKS key derivation function
+
+https://mjg59.dreamwidth.org/66429.html
+
+https://news.ycombinator.com/item?id=35611425
+
+#### Heroku has been running a second copy of my scheduler instance
+
+https://openfolder.sh/heroku-anti-dx
+
+https://news.ycombinator.com/item?id=35610168
+
+### Phoronix
+
+#### Wasmer 3.2 Released With WebAssembly On RISC-V Support, New WCGI Feature
+
+https://www.phoronix.com/news/Wasmer-3.2
+
+#### OpenCL 3.0.14 Released With New Extension For Command Buffer Multi-Device
+
+https://www.phoronix.com/news/OpenCL-3.0.14
+
+#### Solus Linux Plans New Direction Built Off Serpent OS
+
+https://www.phoronix.com/news/Solus-Linux-SerpentOS-Direction
+
+#### Fedora 38 Released With GNOME 44 Desktop, GCC 13, Many New Features
+
+https://www.phoronix.com/news/Fedora-38-Released
+
+#### libuv Adds IO_uring Support For  8x Throughput Boost
+
+https://www.phoronix.com/news/libuv-io-uring
+
+#### 9elements Security Talks Up AMD openSIL Open-Source Firmware With 4th Gen EPYC
+
+https://www.phoronix.com/news/9elements-AMD-openSIL
+
+#### Intel Vulkan Linux Driver Lands Graphics Pipeline Library Support
+
+https://www.phoronix.com/news/Intel-ANV-Graphics-Pipeline-Lib
+
+#### AMD AOMP 17.0-1 Compiler Switches To Its Next-Gen Plugin For Better Performance
+
+https://www.phoronix.com/news/AMD-AOMP-17.0-1
+
+#### Eclipse OpenJ9 0.37 Released - But It Shouldn't Be Used In Production
+
+https://www.phoronix.com/news/Eclipse-OpenJ9-0.37
+
+### GitHub
+
+#### LAION-AI/Open-Assistant
+
+https://github.com/LAION-AI/Open-Assistant
+
+OpenAssistant is a chat-based assistant that understands tasks, can
+interact with third-party systems, and retrieve information dynamically
+to do so.\
+Language: Python\
+Stars: 27452\
+Forks: 2210
+
+#### FerretDB/FerretDB
+
+https://github.com/FerretDB/FerretDB
+
+A truly Open Source MongoDB alternative\
+Language: Go\
+Stars: 6406\
+Forks: 233
+
+#### SunWeb3Sec/DeFiHackLabs
+
+https://github.com/SunWeb3Sec/DeFiHackLabs
+
+Reproduce DeFi hacked incidents using Foundry.\
+Language: Solidity\
+Stars: 3099\
+Forks: 566
+
+#### usememos/memos
+
+https://github.com/usememos/memos
+
+A lightweight, self-hosted memo hub. Open Source and Free forever.\
+Language: TypeScript\
+Stars: 12766\
+Forks: 816
+
+#### OpenBB-finance/OpenBBTerminal
+
+https://github.com/OpenBB-finance/OpenBBTerminal
+
+Investment Research for Everyone, Anywhere.\
+Language: Python\
+Stars: 20822\
+Forks: 2093
+
+#### PowerShell/PowerShell
+
+https://github.com/PowerShell/PowerShell
+
+PowerShell for every system!\
+Language: C#\
+Stars: 38195\
+Forks: 6488
+
+### Dribbble
+
+#### SFC Farmer's Market (Austin)
+
+https://dribbble.com/shots/21185713
+
+#### PleaseAssistMe Website Redesign
+
+https://dribbble.com/shots/21194415
+
+#### AIRND / AI Crypto trading
+
+https://dribbble.com/shots/21192705
+
+#### Cloud Storage Mobile App design: iOS Android ux ui designer
+
+https://dribbble.com/shots/21022667
+
+#### 10 Years of Logomarks & Monograms
+
+https://dribbble.com/shots/21164024
+
+#### AI iOS UI Kit -- Brainwave
+
+https://dribbble.com/shots/21177920
+
+#### Borderless - Transfer Money Solutions
+
+https://dribbble.com/shots/21188599
+
+#### Frozeverse - Metaverse Game Website
+
+https://dribbble.com/shots/21204601
+
+#### Camper vans, Cozy Camp fires and Coffee
+
+https://dribbble.com/shots/21182847
+
+#### 3D printing: website, hero, landing page design
+
+https://dribbble.com/shots/21221092
+
+#### Dating App Design Concept
+
+https://dribbble.com/shots/21205051
+
+#### V Logo
+
+https://dribbble.com/shots/21183699
+
+#### Bowery Growth - Brand Identity
+
+https://dribbble.com/shots/21199463
+
+#### Proemion Website Admin Dashboard: Analytics UX UI
+
+https://dribbble.com/shots/21022751
+
+#### Cypress Branding
+
+https://dribbble.com/shots/21027784
+
+#### Crypto Trading App Concept
+
+https://dribbble.com/shots/21184898
+
+#### Privy Socials
+
+https://dribbble.com/shots/21194630
+
+#### Canopy Wordmark
+
+https://dribbble.com/shots/21184062
+
+#### Okta Brand Guidelines, style guide book, branding deck, logo
+
+https://dribbble.com/shots/21022817
+
+#### Project Management App
+
+https://dribbble.com/shots/21196942
+
+#### GOLD FEATHER
+
+https://dribbble.com/shots/21219964
+
+#### \[B\]\[P\] 0 → 1
+
+https://dribbble.com/shots/21138091
+
+#### Explore
+
+https://dribbble.com/shots/21204649
+
+#### Vela Website
+
+https://dribbble.com/shots/21027386
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### 摩尔线程开发者向 VA-API 和 FFmpeg 项目贡献代码
+
+https://www.solidot.org/story?sid=74704
+
+#### 苹果印度首家自营商店开业
+
+https://www.solidot.org/story?sid=74703
+
+#### 美国 GS1 将条形码升级为二维码
+
+https://www.solidot.org/story?sid=74702
+
+#### CBC 暂停在 Twitter 的活动
+
+https://www.solidot.org/story?sid=74701
+
+#### Discord 如何帮助 FBI 逮捕机密文件的泄密者
+
+https://www.solidot.org/story?sid=74700
+
+#### Google CEO 谈 AI 时代的不作恶信条
+
+https://www.solidot.org/story?sid=74699
+
+#### 2型糖尿病与三种不健康饮食相关
+
+https://www.solidot.org/story?sid=74698
+
+#### 索尼世界摄影大奖得主是 AI 图像，摄影师前往颁奖现场宣布拒绝领奖
+
+https://www.solidot.org/story?sid=74697
+
+#### iOS 17 将支持应用侧载以遵守欧盟监管规定
+
+https://www.solidot.org/story?sid=74696
+
+#### 印度人口即将超过中国
+
+https://www.solidot.org/story?sid=74695
+
+#### Adobe 透露用于视频的生成式 AI 工具
+
+https://www.solidot.org/story?sid=74694
+
+#### 招聘者尝试招刚裁员的人去同一家公司当合同工
+
+https://www.solidot.org/story?sid=74693
+
+#### Moderna 和默克的癌症疫苗帮助预防黑色素瘤患者的复发
+
+https://www.solidot.org/story?sid=74692
+
+#### 世嘉证实报价收购愤怒小鸟开发商 Rovio
+
+https://www.solidot.org/story?sid=74691
+
+#### 三星考虑 Galaxy 系列设备默认使用 Bing 搜索引擎
+
+https://www.solidot.org/story?sid=74690
+
+#### Google Chrome 释出紧急更新修复正被利用的 0day
+
+https://www.solidot.org/story?sid=74689
+
+#### 欧洲最大的核电机组投入运营
+
+https://www.solidot.org/story?sid=74688
+
+#### 旧 Twitter 已死新 Twitter 万岁
+
+https://www.solidot.org/story?sid=74687
+
+#### 德国关闭最后三座核电站
+
+https://www.solidot.org/story?sid=74686
+
+#### 小鼠研究发现超重母亲在怀孕和哺乳期间所生孩子更容易肥胖
+
+https://www.solidot.org/story?sid=74685
+
+### V2EX
+
+#### \[字体排印\] 有什么复古的编程字体
+
+https://www.v2ex.com/t/933617
+
+#### \[问与答\] 为什么设置代理后，还是无法用终端访问一些网站？
+
+https://www.v2ex.com/t/933616
+
+#### \[程序员\] 安利下 fnm(Fast Node Manager)
+
+https://www.v2ex.com/t/933615
+
+#### \[推广\] 老板给了我 600 元，程序员：没问题，这代码让 Chatgpt 来写，完事！
+
+https://www.v2ex.com/t/933612
+
+#### \[Apple\] 划词翻译快捷键冲突
+
+https://www.v2ex.com/t/933611
+
+#### \[问与答\] 打包代码如 spring boot、React 的速度受哪个硬件属性影响最大？
+
+https://www.v2ex.com/t/933609
+
+#### \[OpenWrt\] openwrt 封包修改
+
+https://www.v2ex.com/t/933608
+
+#### \[宽带症候群\] 坐标南京 升级了电信 2000M 宽带 光猫给的华为 HN8145XR 有必要换中兴 F7607P 吗？
+
+https://www.v2ex.com/t/933607
+
+#### \[宽带症候群\] 哪种链路聚合能提升单线程的下载速度？
+
+https://www.v2ex.com/t/933606
+
+#### \[支付宝\] 余额宝中有一笔钱，提到银行卡手续费还是挺可观的，有什么办法避开这笔手续费
+
+https://www.v2ex.com/t/933605
+
+#### \[OpenAI\] ChatGPT plus 账号
+
+https://www.v2ex.com/t/933604
+
+#### \[求职\] 前端开发工程师，寻找新的机会
+
+https://www.v2ex.com/t/933603
+
+#### \[分享发现\] 這個 B 站視頻 \[使用两年半，我终于明白苹果生态就是一坨狗屎！\] 太解氣了
+
+https://www.v2ex.com/t/933602
+
+#### \[OpenAI\] 使用的机场 IP 逐渐被 OpenAI 封的节点越来越多，有什么好的办法解决
+
+https://www.v2ex.com/t/933601
+
+#### \[iCloud\] iCloud+拼车 缺三
+
+https://www.v2ex.com/t/933600
+
+#### \[问与答\] 可能是我的问题，但是我确实很少能通过 pip install 一次性成功安装依赖的😑
+
+https://www.v2ex.com/t/933599
+
+#### \[编程\] Python 是万能的吗？
+
+https://www.v2ex.com/t/933598
+
+#### \[问与答\] 谁能帮我测试一下吗， Chrome 的 BUG ?
+
+https://www.v2ex.com/t/933597
+
+#### \[问与答\] Canva 用来做图还挺方便的，有优惠的渠道购买 VIP 或者其他的代替平台么？
+
+https://www.v2ex.com/t/933596
+
+#### \[程序员\] ChatGPT 套壳项目 fork 数超过 star，差距还在拉大
+
+https://www.v2ex.com/t/933595
+
+#### \[信息安全\] 使用旧版本 Chromium 有安全风险吗？研究一个月给 Chromium 加了个对我很有用的功能（扩展做不到）打算长期使用，不想研究怎么用 CI 全自动构建，每隔一段时间手动构建一次不现实，太麻烦，而且新版本代码也可能和我加的这个功能冲突
+
+https://www.v2ex.com/t/933594
+
+#### \[奇思妙想\] 音乐教育领域，寻创业伙伴
+
+https://www.v2ex.com/t/933593
+
+#### \[macOS\] mac 的 chrome 用 smartup 鼠标手势插件划选任何文本后几乎无法松开鼠标左键并重新按住拖拽以打开新页面搜索，有办法解决吗？
+
+https://www.v2ex.com/t/933590
+
+#### \[服务器\] 个人本地服务器磁盘加密方案。
+
+https://www.v2ex.com/t/933589
+
+#### \[问与答\] 求推荐显示器，显卡是 4070
+
+https://www.v2ex.com/t/933588
+
+#### \[问与答\] 三星手机惊喜发现
+
+https://www.v2ex.com/t/933587
+
+#### \[问与答\] 个人网站如何解决支付问题？
+
+https://www.v2ex.com/t/933586
+
+#### \[程序员\] pixiv 是不是挂了
+
+https://www.v2ex.com/t/933585
+
+#### \[OpenAI\] 免费 ChatGPT 小程序，欢迎大家试玩
+
+https://www.v2ex.com/t/933584
+
+#### \[杭州\] \[寻租\] 西湖文化广场附近，想整租一个单间找靠谱室友合租
+
+https://www.v2ex.com/t/933583
+
+#### \[汽车\] 落地 15w - 20w，新人第一辆车求推荐
+
+https://www.v2ex.com/t/933582
+
+#### \[分享发现\] 兄弟们，帮点拨下采购思路
+
+https://www.v2ex.com/t/933581
+
+#### \[分享创造\] 分享个人自用的分流工具，彻底无视 dns 污染
+
+https://www.v2ex.com/t/933580
+
+#### \[分享创造\] 尝试了 v 友回答的记账方式，写了一个 notion 月记账再到 beancount 的脚本。
+
+https://www.v2ex.com/t/933579
+
+#### \[分享创造\] 路书，一个分享路线的 web 应用，欢迎试用
+
+https://www.v2ex.com/t/933578
+
+#### \[酷工作\] \[上海\] Fabrie 前端远程兼职，招新啦，欢迎大家投简历👏👏👏👏👏👏
+
+https://www.v2ex.com/t/933577
+
+#### \[问与答\] 假如我想灵活就业
+
+https://www.v2ex.com/t/933576
+
+#### \[酷工作\] \[业余时间项目\] 找前端和后端 Java
+
+https://www.v2ex.com/t/933575
+
+#### \[程序员\] yubikey 5 咋设置服务器 ssh 登录使用啊 有没有懂哥
+
+https://www.v2ex.com/t/933573
+
+#### \[求职\] \[深圳\] 3 年后端开发寻找一份工作机会   也欢迎大佬点评简历
+
+https://www.v2ex.com/t/933572
+
+#### \[问与答\] 五一有什么比较小众的玩的地方吗？
+
+https://www.v2ex.com/t/933571
+
+#### \[iPhone\] 16.4 卡死
+
+https://www.v2ex.com/t/933570
+
+#### \[旅行\] 五一出游，宅家，还是回家？
+
+https://www.v2ex.com/t/933569
+
+#### \[问与答\] 今天有线上参加 KubeCon 2023 的朋友吗？
+
+https://www.v2ex.com/t/933567
+
+#### \[问与答\] 有可以导入 txt 听有声书的 app 吗
+
+https://www.v2ex.com/t/933566
+
+#### \[IPv6\] 请教下 IP 反查地址的工具或者 API 有吗?固定 IP 最好可以显示出相应的机构。
+
+https://www.v2ex.com/t/933565
+
+#### \[程序员\] 希望大家能推荐一个美国服务器
+
+https://www.v2ex.com/t/933564
+
+#### \[Bitcoin\] 门罗币 vs 比特币， 不同准备直接换法币的，准备买黄金。你会接受哪和持有哪一种呢？
+
+https://www.v2ex.com/t/933563
+
+#### \[问与答\] 贺师俊/贺老/Hax 这么牛的技术大佬也走上了劳动仲裁的道路啊\...
+
+https://www.v2ex.com/t/933562
+
+## Generic News
+
+### AP News
+
+#### Parking garage collapses in NYC, killing 1; 5 injured
+
+https://apnews.com/article/9e80d7d42657e33910685dedbaa4a71e
+
+Cars are seen piled on top of each other at the scene of a partial
+collapse of a parking garage in the Financial District of New York,
+Tuesday, April 18, 2023, in New York. (AP Photo/Mary Altaffer) NEW YORK
+(AP) --- A parking garage\...
+
+#### Former NFL defensive end Chris Smith dead at 31
+
+https://apnews.com/article/4dfd1c63909eda7df94b5d06699177e5
+
+FILE - Cleveland Browns defensive end Chris Smith sits on the sideline
+during the first half of an NFL preseason football game against the
+Washington Redskins in Cleveland, Aug. 8, 2019. Former NFL defensive end
+Chris Smith, who was\...
+
+#### 4 killed in Maine home; 3 wounded in linked highway shooting
+
+https://apnews.com/article/3b108fc70e19e325bd0dcf565ab3a4ed
+
+Investigators work at the scene of a deadly shooting, Tuesday, April 18,
+2023, in Bowdoin, Maine. State police in Maine say gunfire that erupted
+on busy highway is linked to a second crime scene where four people were
+found dead in a home\...
+
+#### 7 soldiers hurt in military vehicle pile-up in Germany
+
+https://apnews.com/article/1abc76d50fe6d76048b485d51b244cb0
+
+Damaged military vehicles are seen on the side of the A6 highway near
+Amberg, Germany following an accident on Monday, April 17, 2023. German
+police say seven soldiers were injured when several military vehicles
+crashed into each other in\...
+
+#### Late-season storm brings more snow to the Sierra Nevada
+
+https://apnews.com/article/ee6a838f0e498ece221d90b5d9bafc07
+
+FILE - Working inside a nearly 18-foot-deep snow pit at the UC Berkeley
+Central Sierra Snow Lab, from left, Shaun Joseph, Claudia Norman, Helena
+Middleton take measurements of snow temperatures ahead of a weather
+storm on March 9, 2023\...
+
+#### Patriots owner Kraft joined by Meek Mill for Holocaust march
+
+https://apnews.com/article/b6847c1d639aad8ee80e64f1139a9a20
+
+New England Patriots owner, Robert Kraft, front center, participates in
+the annual March of the Living, a trek between two former Nazi-run death
+camps, in Oswiecim, Poland, Tuesday, April 18, 2023 to mourn\...
+
+#### Littlest intruder: Toddler crawls through White House fence
+
+https://apnews.com/article/6ece5fc94204dbc3001457403269c28e
+
+U.S. Secret Service uniformed division police officers carry a young
+child who crawled through the White House fence on Pennsylvania Avenue
+in Washington, Tuesday, April 18, 2023. The toddler earned the title of
+one of the tiniest White\...
+
+#### Old NASA satellite falling to Earth, risk of danger 'low'
+
+https://apnews.com/article/d9041dfa1034c622105d6954d521a5e6
+
+This illustration provided by NASA depicts the RHESSI (Reuven Ramaty
+High Energy Solar Spectroscopic Imager) solar observation satellite. The
+defunct science satellite will plummet through the atmosphere Wednesday
+night, April 19, 2023\...
+
+#### Ari Aster doesn't want to talk about his new movie right now
+
+https://apnews.com/article/0af9d7c72a04ba828250ac40dedaaf78
+
+This image released by A24 shows Joaquin Phoenix, left, and director Ari
+Aster on the set of \"Beau is Afraid.\" (Takashi Seida/A24 via AP) LOS
+ANGELES (AP) --- Ari Aster really doesn't want to talk about "Beau Is
+Afraid." "This is so\...
+
+#### Climate activists vandalize new target: A Snooker championship
+
+https://apnews.com/article/01d3cd5a3995649610432d38813df941
+
+A Just Stop Oil protester jumps on the table and throws orange powder
+during the match between Robert Milkins against Joe Perry as part of day
+three of the World Snooker Championship at the Crucible\...
+
+#### Irish climber dies, Indian missing on Nepal's Annapurna
+
+https://apnews.com/article/58ee52b4cd0602078d48a2f7e2e3495e
+
+An ambulance carrying the dead body of Irish climber Noel Richmond, 56,
+brought from Annapurna mountain region is seen in Kathmandu, Nepal,
+Tuesday, April 18, 2023. An Irish climber died and an Indian is missing
+after falling into a\...
+
+#### T. rex skeleton sells for more than \$5M at Zurich auction
+
+https://apnews.com/article/6c91c5271e9bd89a8b61c02c8ded420c
+
+Cyril Koller, CEO of auction house Koller, stands next to the head of
+the skeleton of a Tyrannosaurus rex named Trinity, during an auction in
+Zurich, Switzerland on Tuesday, April 18, 2023. The 293 T. rex bones
+were assembled into a\...
+
+#### J-Hope becomes 2nd BTS member to join South Korean army
+
+https://apnews.com/article/4aa270f560fde61b475f87ba5d077d6c
+
+FILE - A member of South Korean K-pop band BTS J-Hope poses for
+photographers during a press conference to introduce their new album
+\"BE\" in Seoul, South Korea, Nov. 20, 2020. J-Hope entered a South
+Korean boot camp Tuesday, April 18\...
+
+### Reuters
+
+#### At least one dead, 5 injured in New York building collapse
+
+https://www.reuters.com/world/us/parking-garage-collapse-lower-manhattan-leaves-people-injured-trapped-cbs-news-2023-04-18/
+
+A general view of the site of the parking garage collapse in the
+Manhattan borough of New York City, U.S., April 18, 2023.
+REUTERS/Brendan McDermid Cars and debris are piled after a parking
+garage collapsed in the Manhattan borough of New\...
+
+#### Chris Christie joins Trump in bashing DeSantis over Disney clash
+
+https://www.reuters.com/world/us/chris-christie-joins-trump-bashing-desantis-over-disney-clash-2023-04-18/
+
+Former New Jersey Governor Chris Christie speaks at the Institute of
+Politics at St. Anselm College in Manchester, New Hampshire, U.S., March
+27, 2023. REUTERS/Brian Snyder/File Photo People gather at the Magic
+Kingdom theme park before\...
+
+#### Brazil's Lula condemns invasion of Ukraine, touts peace initiative
+
+https://www.reuters.com/world/ukraine-invites-brazils-lula-visit-criticizes-his-peace-efforts-2023-04-18/
+
+Brazils President Luiz Inacio Lula da Silva gestures, during
+a breakfast with journalists, at the Planalto Palace in Brasilia, Brazil
+April 6, 2023. REUTERS/Ueslei Marcelino/File Photo Brazilian President
+Luiz Inacio Lula\...
+
+#### Mexican president accuses Pentagon of spying; vows to restrict military information
+
+https://www.reuters.com/world/americas/mexican-president-accuses-pentagon-spying-vows-restrict-military-information-2023-04-18/
+
+Mexicos President Andres Manuel Lopez Obrador speaks during an event to
+mark the 85th anniversary of the expropriation of foreign oil firms, in
+Mexico City, Mexico March 18, 2023. REUTERS/Paola Garcia Mexican
+President\...
+
+#### US urges NATO vigilance for signs Russia could use nuclear weapon in Ukraine
+
+https://www.reuters.com/world/europe/us-urges-nato-vigilance-signs-russia-could-use-nuclear-weapon-ukraine-2023-04-18/
+
+A general view of the NATO defence ministers meeting at the Alliances
+headquarters in Brussels, Belgium, February 14, 2023. REUTERS/Johanna
+Geron U.S. Deputy Secretary of State Wendy Sherman holds a news\...
+
+#### Facing brutal climate math, US bets billions on direct air capture
+
+https://www.reuters.com/world/us/facing-brutal-climate-math-us-bets-billions-direct-air-capture-2023-04-18/
+
+Summary: Nine or more applications seen; goal in a few years is four
+hubs All bidding for slice of \$3.5 bln in govt grants Climeworks bids
+for three sites; plans 100 hires by 2025 Unproven tech, talent shortage,
+costs --- all challenges\...
+
+#### Top US Senate Republican backs U.S. Supreme Court chief amid calls for Thomas probe
+
+https://www.reuters.com/world/us/top-us-senate-republican-backs-us-supreme-court-chief-amid-calls-thomas-probe-2023-04-18/
+
+Senate Minority Leader Mitch McConnell (R-KY) walks to the weekly
+Republican press conference at the U.S. Capitol in Washington, U.S.,
+March 7, 2023. REUTERS/Evelyn Hockstein U.S. Senate Republican Leader
+Mitch McConnell on Tuesday\...
+
+#### Heavy gunfire quickly shatters Sudan truce pushed by US
+
+https://www.reuters.com/world/africa/sudans-rsf-leader-hemedti-says-discussed-pressing-issues-with-blinken-2023-04-18/
+
+Summary: Military action in air, on ground despite truce pact Truce was
+meant to enable humanitarian relief efforts Factional fighting derailed
+push for civilian rule U.S. convoy fired on in Sudanese capital
+Satellite image shows a closer\...
+
+#### Kansas City homeowner charged in shooting of Black teenager surrenders to police
+
+https://www.reuters.com/world/us/kansas-city-homeowner-charged-shooting-black-teenager-surrenders-police-sheriff-2023-04-18/
+
+Andrew Lester, 85, poses for a booking photograph in Kansas City,
+Missouri, U.S. April 13, 2023. Kansas City Police Department/Handout via
+REUTERS An 84-year-old white man charged in the shooting and wounding of
+a Black teenager who\...
+
+#### Biden, facing roadblocks in Congress, signs executive order on childcare, eldercare
+
+https://www.reuters.com/world/us/biden-facing-roadblocks-congress-issue-executive-order-childcare-eldercare-2023-04-18/
+
+U.S. President Joe Biden delivers remarks on childcare and eldercare
+costs during an event in the Rose Garden at the White House in
+Washington, U.S., April 18, 2023. REUTERS/Nathan Howard U.S. President
+Joe Biden delivers remarks on\...
+
+#### Russia increases shelling, air strikes in Bakhmut - Ukrainian general
+
+https://www.reuters.com/world/europe/russia-increases-shelling-air-strikes-bakhmut-ukrainian-general-2023-04-18/
+
+Smoke is seen in this drone footage of Bakhmut amid Russias attack on
+Ukraine, in this screen grab obtained from a handout video released on
+April 15, 2023. Adam Tactic Group/Handout via REUTERS A Ukrainian
+serviceman of\...
+
+#### China ramps up construction on new Antarctic station --report
+
+https://www.reuters.com/world/china-ramps-up-construction-new-antarctic-station-report-2023-04-18/
+
+A satellite view with overlays shows areas to be developed at the new
+Chinese station under construction, on Inexpressible Island, Antarctica,
+January 2, 2023. Center for Strategic and International Studies
+(CSIS)/Hidden Reach/Maxar\...
+
+#### Putin visits two regions in Ukraine, Russia presses assault on Bakhmut
+
+https://www.reuters.com/world/europe/putin-visits-two-regions-ukraine-g7-condemn-nuclear-plan-2023-04-18/
+
+Summary: Putin attends military command meeting in southern Ukraine
+Russian forces stepping up assault on Bakhmut - Ukraine G7 ministers say
+nuclear weapons in Belarus unacceptable Russian President\...
+
+### 联合早报
+
+#### 争取国民党总统候选人提名 郭台铭吁给他30天展现台湾新蓝图
+
+https://www.zaobao.com/news/china/story20230419-1384691
+
+郭台铭4月18日在台北寒舍艾美酒店举办日本之旅成果报告会，呼吁国民党中央再给他30天争取民众支持。（庄慧良摄）
+受访学者说，原先国民党采用征召是为避免初选内耗，但党中央征召迟疑不决，规则不明，时程拖长，若再给郭台铭一个月，投入资源越多，参与人数越多，情势就更混乱，未来更难整合。
+"给我30天，我给你台湾新蓝图"......
+
+#### 台湾将采购多达400枚陆基型鱼叉导弹
+
+https://www.zaobao.com/news/china/story20230419-1384692
+
+台湾花莲空军基地的士兵在装载美国制造的鱼叉AGM-84反舰导弹。此图摄于2022年8月
+17日。（路透社）
+贸易组织负责人和知情人士说，台湾将完成美国国会2020年批准的协议，购买多达400枚岸基版"鱼叉"导弹，以防御中国大陆可能的进攻。
+据彭博社星期二（4月18日）报道，美台商业协会主席韩儒伯（Rupert
+Hammond-Chambers）说，美国海军航空系统司令部代表台湾签下合同......
+
+#### 德学者：中欧关系未回暖而是进入战略稳定期
+
+https://www.zaobao.com/news/china/story20230419-1384693
+
+欧盟领导人本月密集访华后，欧盟内部对华立场的分歧受到高度关注，有分析认为中欧关系有望回暖，但德国墨卡托中国研究中心中欧关系分析师斯泰克指出，欧盟对华分歧被过度放大，中欧关系也并未迎来春天，而是进入战略稳定期......
+
+#### 学者：台湾"政治情绪" 将主导总统选战结果
+
+https://www.zaobao.com/news/china/story20230419-1384694
+
+学者指出，在中美对抗和台海情势紧绷的大环境下，台湾社会的"政治情绪"将左右八个多月后的总统选举结果。若忧虑战争的情绪主导，将对在野的国民党有利；若对大陆军事施压的愤怒情绪主导，就对执政的民进党有利。
+台湾政治大学国际关系研究中心星期二（4月18日）举办座谈会，邀学者分析总统蔡英文过境美国、前总统马英九出访大陆的"双英出访"中长期后续效应......
+
+#### 秦刚：中国愿为以巴和谈发挥积极作用
+
+https://www.zaobao.com/news/china/story20230419-1384695
+
+中国国务委员兼外长秦刚分别同巴勒斯坦和以色列外交部长通话时说，中国愿为以巴尽快恢复和谈发挥积极作用，并称中国在以巴问题上没有任何私利。
+中国外交部星期一（4月17日）在官网发布信息称，秦刚在两次通话中表示对当前以巴紧张局势的担忧与高度关注。他还强调，支持以"两国方案"为基础，恢复和平谈判的立场。
+两国方案是以巴冲突的政治解决方案之一......
+
+#### 喜忧参半的中国经济
+
+https://www.zaobao.com/news/china/story20230419-1384697
+
+中国星期二（4月18日）公布了步入后疫情时代首个季度的经济成绩单，这是一组叫人喜忧参半的数据。
+令人欣慰的是，中国经济已明显回暖，今年第一季同比增长4.5％，实现了疫后的"开门红"。这个增速超出不少经济分析师早前的预计，显示中国经济的复苏步入正轨。
+从去年12月放弃持续三年的"清零"政策，到今年1月全面取消边境管制，细想过去几个月中国的变化，有些恍如隔世......
+
+#### 杨莉明颜金勇线上会袁家军 新加坡与重庆将探讨 绿色经济智能领域合作
+
+https://www.zaobao.com/news/china/story20230419-1384698
+
+我国通讯及新闻部长杨莉明星期二（4月18日）说，新加坡和重庆双方同意加强现有的合作领域，还将探讨在绿色经济、智能制造和农产品产业等领域开展合作。她说，这么做正如李显龙总理本月对中国进行正式访问期间所宣布的，将使中新（重庆）战略性互联互通示范项目，继续作为新加坡和中国之间"全方位高质量的前瞻性伙伴关系"的重要亮点......
+
+#### 上海车展开幕
+
+https://www.zaobao.com/news/china/story20230419-1384699
+
+第20届上海国际汽车工业展览会4月18日在上海国家会展中心开幕，是今年全球第一场A级车展，共吸引了1000余家企业参展，展出总面积超过36万平方米。图为中国智能电动汽车商蔚来展台的人潮......
+
+#### 中国防长李尚福：中俄军事合作将提升到新水平
+
+https://www.zaobao.com/news/china/story20230419-1384700
+
+在俄罗斯访问的中国国防部长李尚福说，莫斯科之行旨在展现北京加强中俄军队战略合作的决心。
+法新社报道，俄罗斯国防部星期二（4月18日）发布李尚福与俄罗斯国防部长绍伊古见面时的讲话内容。
+李尚福说，希望通过此次访俄，展现北京对加强中俄军队战略合作的"坚定决心"，并承诺将促进中俄军事合作及军事贸易，并将双边军事合作提升至新水平......
+
+#### 广东再筹划300亿人民币 半导体集成电路投资基金
+
+https://www.zaobao.com/news/china/story20230419-1384701
+
+广东省正在筹划新一期半导体及集成电路产业投资基金的项目，规模达到300亿元（人民币，下同，约58亿新元）。
+据《证券时报》报道，粤财控股董事长金圣宏星期二（4月18日）在一项集成电路制造年会上说，广东省半导体及集成电路产业投资基金二期在筹划中，规模300亿元，基金期限17年，投资主题包括汽车芯片、半导体材料设备、化合物半导体等......
+
+#### 传将接任中国央行行长 朱鹤新辞任中信银行董事长
+
+https://www.zaobao.com/news/china/story20230419-1384702
+
+朱鹤新据传是接替易纲成为中国央行行长的热门人选。（互联网）
+媒体先前报传将接任中国央行行长的朱鹤新，已经辞去他原来在中信银行的职位。
+据中信银行公告，该行董事会星期一（4月17日）收到董事长、非执行董事朱鹤新的辞呈，朱鹤新因工作安排需要辞去上述职务，副董事长方合英升任董事长。
+美国《华尔街日报》2月引述消息人士报道说，朱鹤新是接替易纲成为中国人民银行行长的热门人选......
+
+#### 中国防长访俄会见普京 两国加强军事战略沟通
+
+https://www.zaobao.com/news/china/story20230418-1384278
+
+俄罗斯总统普京（右）和国防部长绍伊古（中）星期天（4月16日）在莫斯科会见来访的中国国防部长李尚福（左）。（法新社）
+俄罗斯总统普京星期天（4月16日）在莫斯科会见来访的中国国务委员兼国防部长李尚福时称，俄中正在积极进行军事部门之间的合作；李尚福则表明，愿进一步密切中俄两军战略沟通，加强多边协调配合，为维护世界和地区安全稳定做出新贡献......
+
+#### 中国央视受冲突波及 避难地下室屋顶被打穿 学者：枪炮无眼没有政治属性
+
+https://www.zaobao.com/news/china/story20230418-1384279
+
+非洲国家苏丹内乱愈演愈烈。中国官媒当地员工办公室所在的大楼因武装冲突受损，用于避难的地下室屋顶被打穿。
+受访学者解读，中国使用的建筑在苏丹内乱中受损，是无眼枪炮所造成的附带损害，在政治层面不具任何针对性。
+据央视新闻客户端星期天（4月16日）报道，中国中央广播电视总台驻苏丹报道员艾哈迈德说，他们办公室所在的大楼距离苏丹总统府只有几百米，大楼北侧受损严重......
+
+#### 跨境融资累计逾258亿元 中新重庆项目示范效应持续增强
+
+https://www.zaobao.com/news/china/story20230418-1384280
+
+新加坡和中国第三个政府间合作项目------中新（重庆）战略性互联互通示范项目启动超过七年，重庆官方评估，该项目的示范带动作用持续增强，中新跨境融资截至目前已累计突破194亿美元（258亿新元），较项目启动前增长10倍。
+去年11月因冠病疫情延期的第五届中新金融峰会，星期四（4月20日）将在重庆开幕。
+重庆金融监管局局长阮路星期一（4月17日）在新闻发布会上，回答《联合早报》提问时作出上述评估......
+
+#### 台民调：六成七受访者不赞同两岸同属一中
+
+https://www.zaobao.com/news/china/story20230418-1384282
+
+台湾一项最新民调显示，六成七受访者不赞同"台湾与大陆同属一个中国"，这也是"九二共识"的核心概念。
+台湾前总统马英九4月7日结束大陆祭祖行程返台后说，"九二共识又活过来了"。
+台湾民意基金会在4月9日至11日，针对台湾人对九二共识相关问题的态度做民调，并于星期一（17日）发表结果......
+
+#### 侯友宜明起访新四天
+
+https://www.zaobao.com/news/china/story20230418-1384283
+
+台湾在野国民党2024年总统热门候选人、新北市长侯友宜将于星期三（4月19日）率团访问新加坡，进行为期四天三夜的市政国际交流。
+受访学者认为，侯友宜访问新加坡既可强化其国际观，又有遵循前总统马英九和国民党两岸路线的意味，提前熟练国际互动模式，对他有加分效果......
+
+#### 美军舰驶过台海 解放军全程跟监警戒
+
+https://www.zaobao.com/news/china/story20230418-1384284
+
+据美国海军第七舰队通报，阿利伯克级导弹驱逐舰米利厄斯号星期天（4月16日）在台湾海峡过境。（路透社）
+（台北／北京综合讯）中国大陆在台湾海峡周边的军事演习结束一星期后，美国军舰米利厄斯号星期天（4月16日）驶过台湾海峡。美国海军称是"例行"过境；中国大陆军方说，军方对美舰过航行动全程跟监警戒......
+
+#### 法国民议会友台小组主席：台湾有事就是全世界有事
+
+https://www.zaobao.com/news/china/story20230418-1384285
+
+法国国民议会友台小组主席博多黑说，法国对台政策没有改变，并称"台湾有事就是全世界有事"。
+综合《自由时报》和中时新闻网报道，也是法国国会议员的博多黑（Eric
+Bothorel）星期一（4月17日）率国民议会友台小组成员一行四人抵达台湾。博多黑在桃园机场发表上述谈话。
+法国总统马克龙4月初访问中国大陆后，发表有关欧洲不应卷入台海危机的言论，在欧洲和美国招致批评......
+
+#### 香港抢人才策略能奏效吗？
+
+https://www.zaobao.com/news/china/story20230418-1384287
+
+香港政府为"抢人才"而推出的"高端人才通行证计划"，至今已经收到逾2万份申请，受欢迎程度远超当局预期。日前，负责该计划的劳工及福利局局长孙玉菡透露当局正考虑扩大合资格大学的范围，以引入更多院校毕业生来港工作。
+过去几年，香港由于大量人口移民，加上出生率低、人口老化等因素影响，人力资源严重短缺......
+
+#### 广交会开展首日逾6万外商入场 但企业仍担忧全球经济前景影响订单
+
+https://www.zaobao.com/news/china/story20230418-1384288
+
+本次广交会首设新能源及智能网联汽车展区，一名车企工作人员通过直播介绍纯电动汽车。
+（香港中通社）
+作为中国最具影响力的交易会，广交会一直是观察中国出口的风向标。官方数据显示，本届开展的前两天，进馆的客流量超66万人次，其中首日有37万人次进场，当中6万7000人是外国人士......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

@@ -263,12 +263,12 @@ case $1 in
         cfoss $1
         ;;
     deploy)
-        shareDirToNasPublic -a
+        # shareDirToNasPublic -a
         wrangler pages publish wwwdist --project-name=webdigest --commit-dirty=true --branch=main
         ;;
     '')
         bash $0 wwwdist pkgdist deploy
-        shareDirToNasPublic
+        # shareDirToNasPublic
         bash $0 pkgdist/*.* tag
         ;;
 esac

@@ -1,0 +1,1030 @@
+Other formats: [PDF](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/webdigest/WebDigest-20230422.pdf--9dcaf87422c9fceb47d4949a2f5eb344.pdf) / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20230422.html)
+
+
+# Web Digest 2023-04-22
+
+
+## Developers
+
+### Hacker News
+
+#### Faster LZ is not the answer to 150-250 GB video game downloads
+
+http://richg42.blogspot.com/2023/04/faster-lz-is-not-answer-to-150-250-gb.html
+
+https://news.ycombinator.com/item?id=35659092
+
+#### Ban on Tenure for New Faculty Hires Passes Texas Senate
+
+https://www.chronicle.com/article/ban-on-tenure-for-new-faculty-hires-passes-texas-senate
+
+https://news.ycombinator.com/item?id=35658796
+
+#### Nuclear Power Is the Answer to Global and Environmental Energy Woes
+
+https://nationalinterest.org/feature/nuclear-power-answer-global-and-environmental-energy-woes-206418
+
+https://news.ycombinator.com/item?id=35658318
+
+#### Fire Mark Zuckerberg
+
+https://ez.substack.com/p/fire-mark-zuckerberg
+
+https://news.ycombinator.com/item?id=35657984
+
+#### GitHub Copilot emits GPL code
+
+https://codeium.com/blog/copilot-trains-on-gpl-codeium-does-not
+
+https://news.ycombinator.com/item?id=35657982
+
+#### 'Devastating' melt of Greenland, Antarctic ice sheets found
+
+https://phys.org/news/2023-04-devastating-greenland-antarctic-ice-sheets.html
+
+https://news.ycombinator.com/item?id=35657570
+
+#### Lyft to Cut at Least 1,200 Jobs in New Round of Layoffs to Reduce Costs
+
+https://www.wsj.com/articles/lyft-to-cut-at-least-1-200-jobs-in-new-round-of-layoffs-to-reduce-costs-da423e53
+
+https://news.ycombinator.com/item?id=35655780
+
+#### The EARN IT bill is back, seeking to scan our messages and photos
+
+https://www.eff.org/deeplinks/2023/04/earn-it-bill-back-again-seeking-scan-our-messages-and-photos
+
+https://news.ycombinator.com/item?id=35655282
+
+#### Apple's fight against iPhone sideloading was pointless at best, harmful at worst
+
+https://9to5mac.com/2023/04/18/iphone-sideloading/
+
+https://news.ycombinator.com/item?id=35654654
+
+#### The weird world of Windows file paths
+
+https://www.fileside.app/blog/2023-03-17_windows-file-paths/
+
+https://news.ycombinator.com/item?id=35654574
+
+#### The Air Force has loosened its restrictions on body fat for new recruits
+
+https://www.airforcetimes.com/news/your-air-force/2023/04/03/fatter-recruits-now-welcome-as-air-force-revises-its-rules/
+
+https://news.ycombinator.com/item?id=35653904
+
+#### Tech bosses are letting dictators censor what Americans see
+
+https://www.thedailybeast.com/elon-musk-tech-bosses-are-letting-dictators-censor-what-americans-see
+
+https://news.ycombinator.com/item?id=35653867
+
+#### AI is taking the jobs of Kenyans who write essays for U.S. college students
+
+https://restofworld.org/2023/chatgpt-taking-kenya-ghostwriters-jobs/
+
+https://news.ycombinator.com/item?id=35653125
+
+#### US to start training Ukrainian troops on Abrams tanks within weeks
+
+https://www.airforcetimes.com/news/your-air-force/2023/04/21/us-to-start-training-ukrainian-troops-on-abrams-tanks-within-weeks/
+
+https://news.ycombinator.com/item?id=35652964
+
+#### Can Rust Beat JavaScript in 2023?
+
+https://joshuamo876.bearblog.dev/can-rust-beat-javascript-in-2023/
+
+https://news.ycombinator.com/item?id=35652655
+
+#### Atari 800XL Remake
+
+https://revive-machines.com/index-en.html
+
+https://news.ycombinator.com/item?id=35652541
+
+#### Large, creative AI models will transform lives and labour markets
+
+https://www.economist.com/interactive/science-and-technology/2023/04/22/large-creative-ai-models-will-transform-how-we-live-and-work
+
+https://news.ycombinator.com/item?id=35652444
+
+#### ChatGPT could cost over \$700k per day to operate
+
+https://www.businessinsider.com/how-much-chatgpt-costs-openai-to-run-estimate-report-2023-4
+
+https://news.ycombinator.com/item?id=35652434
+
+#### Office of the President of Mongolia: Top to bottom text on the web
+
+https://president.mn/mng/
+
+https://news.ycombinator.com/item?id=35650699
+
+#### Inkscape is hiring: Accelerating the GTK4 migration
+
+https://inkscape.org/news/2023/04/17/inkscape-hiring-accelerating-gtk4-migration/
+
+https://news.ycombinator.com/item?id=35650663
+
+### Phoronix
+
+#### Btrfs Receives A Very Important Last Minute Fix For Linux 6.3
+
+https://www.phoronix.com/news/Btrfs-Discard-Tuning-Linux-6.3
+
+#### Intel Updates Packaged Arc Graphics Driver For Ubuntu 22.04 LTS
+
+https://www.phoronix.com/news/Intel-Arc-Update-21-April
+
+#### Corsair 2 x 24GB DDR5-7000 Memory Linux Performance
+
+https://www.phoronix.com/review/corsair-48gb-ddr5-7000
+
+#### Rusticl With RadeonSI Driver Nearing OpenCL Conformance
+
+https://www.phoronix.com/news/Rusticl-RadeonSI-CTS-Near
+
+#### Intel's Game Plan For Getting The Xe Linux Kernel Graphics Driver Upstreamed
+
+https://www.phoronix.com/news/Intel-Xe-Merge-Plan-April
+
+#### Valve Lands Another Radeon Vulkan Performance Optimization For An \"Upcoming Game\"
+
+https://www.phoronix.com/news/Valve-RADV-Upcoming-Game
+
+#### SLOB Removal Submitted Ahead Of The Linux 6.4 Kernel Cycle
+
+https://www.phoronix.com/news/Linux-6.4-Dropping-SLOB
+
+#### FreeBSD Has A Great Start To 2023 With Numerous Accomplishments
+
+https://www.phoronix.com/news/FreeBSD-Q1-2023-Status
+
+#### Rust 1.69 Released - No Longer Includes Debug Info In Build Scripts By Default
+
+https://www.phoronix.com/news/Rust-1.69-Released
+
+### GitHub
+
+#### ashawkey/stable-dreamfusion
+
+https://github.com/ashawkey/stable-dreamfusion
+
+A pytorch implementation of text-to-3D dreamfusion, powered by stable
+diffusion.\
+Language: Python\
+Stars: 4909\
+Forks: 434
+
+#### mouredev/Hello-Python
+
+https://github.com/mouredev/Hello-Python
+
+Curso para aprender el lenguaje de programación Python desde cero y para
+principiantes. Más de 30 clases, 25 horas en vídeo, código y grupo de
+chat. Desde sus fundamentos hasta la creación de un API Backend con base
+de datos y más\...\
+Language: Python\
+Stars: 11791\
+Forks: 810
+
+#### cuynu/ytvanced
+
+https://github.com/cuynu/ytvanced
+
+YouTube Vanced & Vanced MicroG & YouTube Music Vanced Unofficial
+(non-profit)\
+Language: Kotlin\
+Stars: 2496\
+Forks: 184
+
+#### type-challenges/type-challenges
+
+https://github.com/type-challenges/type-challenges
+
+Collection of TypeScript type challenges with online judge\
+Language: TypeScript\
+Stars: 32741\
+Forks: 3409
+
+### Dribbble
+
+#### Nature Gives
+
+https://dribbble.com/shots/21247004
+
+#### Knight
+
+https://dribbble.com/shots/21256006
+
+#### To-Do List Mobile App Design
+
+https://dribbble.com/shots/21236436
+
+#### Foami
+
+https://dribbble.com/shots/21237955
+
+#### 3D printing: website, hero, landing page design
+
+https://dribbble.com/shots/21221092
+
+#### V Logo
+
+https://dribbble.com/shots/21183699
+
+#### Cypress Branding, visual identity, corporate brand design
+
+https://dribbble.com/shots/21027784
+
+#### MarkLogic Branding, visual identity, corporate brand design
+
+https://dribbble.com/shots/21028548
+
+#### Dating App Design Concept
+
+https://dribbble.com/shots/21205051
+
+#### Zelt Case Study
+
+https://dribbble.com/shots/21245621
+
+#### Solana Saga Branding
+
+https://dribbble.com/shots/21248507
+
+#### GOLD FEATHER
+
+https://dribbble.com/shots/21219964
+
+#### Vela Web Site Design landing page website designer
+
+https://dribbble.com/shots/21027386
+
+#### Proven Website Design
+
+https://dribbble.com/shots/21027918
+
+#### Frog, Flower & Fly
+
+https://dribbble.com/shots/21205152
+
+#### Jungle
+
+https://dribbble.com/shots/21241091
+
+#### Revolve - Logo Concept v5
+
+https://dribbble.com/shots/21232187
+
+#### Sneaker Fiend
+
+https://dribbble.com/shots/21225756
+
+#### Owl Night
+
+https://dribbble.com/shots/21225618
+
+#### Clause Brand identity illustrations guide, illustrator
+
+https://dribbble.com/shots/21027255
+
+#### Educational Platform Landing Page Design
+
+https://dribbble.com/shots/21250439
+
+#### Coinread Mobile App design: iOS Android ux ui designer
+
+https://dribbble.com/shots/21028384
+
+#### DaoWay Calendar App
+
+https://dribbble.com/shots/21256031
+
+#### Designer profile landing page
+
+https://dribbble.com/shots/21221314
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### 3CX 安全事件是双重供应链攻击
+
+https://www.solidot.org/story?sid=74743
+
+#### ChatGPT 每日运营成本超过 70 万美元
+
+https://www.solidot.org/story?sid=74742
+
+#### 盗车贼用旧诺基亚手机盗车
+
+https://www.solidot.org/story?sid=74741
+
+#### 马斯克声称他自己掏钱给几位名人订阅了 Twitter Blue
+
+https://www.solidot.org/story?sid=74740
+
+#### 美国农民进口小型日本皮卡
+
+https://www.solidot.org/story?sid=74739
+
+#### Ubuntu 23.04 (Lunar Lobster)释出
+
+https://www.solidot.org/story?sid=74738
+
+#### Proton 发布端对端加密密码管理器
+
+https://www.solidot.org/story?sid=74737
+
+#### 华为用自己开发的 ERP 系统取代了甲骨文的产品
+
+https://www.solidot.org/story?sid=74736
+
+#### 苹果被控在合作名义下剽窃对方创意
+
+https://www.solidot.org/story?sid=74735
+
+#### 宇航员的骨质流失可能与微生物群变化有关
+
+https://www.solidot.org/story?sid=74734
+
+#### 天文学家估计银河系的质量
+
+https://www.solidot.org/story?sid=74733
+
+#### Google 重组 AI 研究部门
+
+https://www.solidot.org/story?sid=74732
+
+#### 张文宏建议脆弱人群再次接种新冠疫苗
+
+https://www.solidot.org/story?sid=74731
+
+#### SpaceX Starship 完成首次轨道飞行测试
+
+https://www.solidot.org/story?sid=74730
+
+#### 《CS:GO》AK-47 超罕见皮肤卖出了逾 40 万美元
+
+https://www.solidot.org/story?sid=74729
+
+#### ICANN 和 Verisign 提议允许任何政府扣押域名
+
+https://www.solidot.org/story?sid=74728
+
+#### Imgur 将从下个月开始禁止上传色情图像
+
+https://www.solidot.org/story?sid=74727
+
+#### 在 AI 和 ChatGPT 时代大学应该恢复口试
+
+https://www.solidot.org/story?sid=74726
+
+#### Reddit 将对利用其数据训练 AI 收费
+
+https://www.solidot.org/story?sid=74725
+
+#### 高等教育中女性比例超过半数
+
+https://www.solidot.org/story?sid=74724
+
+### V2EX
+
+#### \[问与答\] 国外程序员为何没有 35 岁焦虑症
+
+https://www.v2ex.com/t/934492
+
+#### \[分享发现\] 教你轻松申请 Azure OpenAI
+
+https://www.v2ex.com/t/934490
+
+#### \[Android\] 怎样才可以 try-catch 方式捕获到 RxJava 的异常
+
+https://www.v2ex.com/t/934485
+
+#### \[宽带症候群\] 每月 500G-1T，求推荐 IPLC
+
+https://www.v2ex.com/t/934482
+
+#### \[IPv6\] 部分国内 ipv6 访问出现端口能通，但 ssl 握手不回包的奇怪问题
+
+https://www.v2ex.com/t/934481
+
+#### \[日本\] \[650+人\] 码农/留学日本生活 Telegram 交流群
+
+https://www.v2ex.com/t/934480
+
+#### \[分享发现\] 工作无非：因、备、思、悟
+
+https://www.v2ex.com/t/934479
+
+#### \[iPhone\] iOS 16.4.1 用户感觉微信老在后台被杀，有没有兄弟有同样的感觉？
+
+https://www.v2ex.com/t/934478
+
+#### \[OpenAI\] 求一个靠谱的 ChatGPT 分流规则
+
+https://www.v2ex.com/t/934477
+
+#### \[问与答\] gpt4 的账号这么贵吗？
+
+https://www.v2ex.com/t/934476
+
+#### \[Nintendo Switch\] 有 NS Online 的车么
+
+https://www.v2ex.com/t/934475
+
+#### \[MacBook Pro\] m2 pro macbookpro 14 寸连接红米 4k 无法唤醒
+
+https://www.v2ex.com/t/934474
+
+#### \[宽带症候群\] 移动广州出口还没修好吗
+
+https://www.v2ex.com/t/934473
+
+#### \[分享创造\] 用 Golang 写了一个 Bing Ai Chat Sdk，欢迎试用😊
+
+https://www.v2ex.com/t/934471
+
+#### \[问与答\] 抖音的安卓和 iOS 客户端核心功能是用 Java 和 Objective-C 还是其他技术开发的？
+
+https://www.v2ex.com/t/934470
+
+#### \[问与答\] 淄博烧烤真的很好吃吗？
+
+https://www.v2ex.com/t/934469
+
+#### \[问与答\] 求回忆一部动画的名字
+
+https://www.v2ex.com/t/934468
+
+#### \[酷工作\] semisand 有了解的吗
+
+https://www.v2ex.com/t/934467
+
+#### \[程序员\] 比较疑惑那种 30G/S 的剑皇是哪来的流量
+
+https://www.v2ex.com/t/934466
+
+#### \[程序员\] mac 无法开启 warp 功能的可以这样
+
+https://www.v2ex.com/t/934465
+
+#### \[VPS\] 月经贴： vps 求推荐
+
+https://www.v2ex.com/t/934463
+
+#### \[随想\] 拼多多是不是已经无敌于天下了？
+
+https://www.v2ex.com/t/934462
+
+#### \[酷工作\] \[2023 年 4 月\] 中东 Fintech 公司技术岗求贤若渴（非远程）
+
+https://www.v2ex.com/t/934460
+
+#### \[macOS\] Mid-journey 发车了
+
+https://www.v2ex.com/t/934459
+
+#### \[云计算\] 国内自建私有云找我，免费，多云管理找我，免费，就问你香不香吧？那天我成功了，就是你们的胜利。
+
+https://www.v2ex.com/t/934458
+
+#### \[macOS\] 写了一个定位 Macbook 键盘按键问题的软件
+
+https://www.v2ex.com/t/934457
+
+#### \[OpenAI\] 推荐一下个人认为目前最好用的 Chrome ChatGPT 插件
+
+https://www.v2ex.com/t/934456
+
+#### \[iOS\] Shu 文件下架了怎么办？
+
+https://www.v2ex.com/t/934454
+
+#### \[酷工作\] \[兼职\]寻找微信小程序以及 web 开发
+
+https://www.v2ex.com/t/934453
+
+#### \[问与答\] 公司生产环境应该如何选购服务器？
+
+https://www.v2ex.com/t/934452
+
+#### \[问与答\] 独立显卡显示网页文字会比集成显卡更清晰吗？
+
+https://www.v2ex.com/t/934450
+
+#### \[硬件\] 组装个 4090 主机，大佬们给给意见，救救孩子
+
+https://www.v2ex.com/t/934449
+
+#### \[VPS\] 运气真好，手动开出一个 oracle 的 arm 服务器，那么请问如何保号呢？
+
+https://www.v2ex.com/t/934448
+
+#### \[问与答\] 大佬们， pcdn 下架了才知道那玩意竟然能赚钱
+
+https://www.v2ex.com/t/934447
+
+#### \[问与答\] 通过 tailscale 连接微软远程桌面 3389 丢包严重
+
+https://www.v2ex.com/t/934446
+
+#### \[问与答\] 有没有支持命令行调用的在线 OCR 软件?
+
+https://www.v2ex.com/t/934445
+
+#### \[Apple\] 京东国际自营购买的 MacBook Air 踩坑记（慎买）
+
+https://www.v2ex.com/t/934444
+
+#### \[iOS\] 你们的 iPhone 会提示"无线局域网似乎未接入互联网"吗？
+
+https://www.v2ex.com/t/934443
+
+#### \[程序员\] 25k \* 14 在广州汇丰属于什么级别？
+
+https://www.v2ex.com/t/934442
+
+#### \[问与答\] 不想当团队 leader，如何拒绝？
+
+https://www.v2ex.com/t/934441
+
+#### \[路由器\] 想收个红米 ax6000
+
+https://www.v2ex.com/t/934440
+
+#### \[V2EX\] 发现很多帖子看不了评论的第 2 页
+
+https://www.v2ex.com/t/934439
+
+#### \[酷工作\] \[快手\] 电商 23 年春招或者社招 1-2 年经验 简历直推 速来～
+
+https://www.v2ex.com/t/934438
+
+#### \[宽带症候群\] 开一个小小的脑洞：土炮 IPTV，实现全楼网络电视
+
+https://www.v2ex.com/t/934437
+
+#### \[问与答\] 各位老哥，你们入职新公司的时候，会被要求做行测题目吗？
+
+https://www.v2ex.com/t/934436
+
+#### \[宽带症候群\] 移动将向全国推广 nat4 移动家宽神话将不复存在
+
+https://www.v2ex.com/t/934435
+
+#### \[Surge\] Surge5 for Mac 招一名乘客 20USD
+
+https://www.v2ex.com/t/934434
+
+#### \[VPS\] 甲骨文有安全刷 arm 服务器的脚本么？
+
+https://www.v2ex.com/t/934433
+
+#### \[Android\] MIUI14 关闭运动权限，微信、小米运动健康还是能获取到步数？
+
+https://www.v2ex.com/t/934432
+
+#### \[问与答\] 大家有没有非常好用的剃须泡沫推荐？
+
+https://www.v2ex.com/t/934431
+
+## Generic News
+
+### AP News
+
+#### Fatal crash sparks fire on major Connecticut highway bridge
+
+https://apnews.com/article/5f73b77008ae718f4919646583474e40
+
+In this photo provided by the Connecticut State Police, massive plumes
+of smoke rise from a fire resulting from crash involving a fuel truck
+and a car on the Gold Star Memorial Bridge in Groton, CT., Friday, April
+21, 2023. Flames spread\...
+
+#### Vermont governor signs bill raising marriage age to 18
+
+https://apnews.com/article/f79af8798cd4f5adfa96fdb15f297275
+
+MONTPELIER, Vt. (AP) --- A new Vermont law that raises the eligibility
+age for marriage to 18 takes effect in July. Republican Gov. Phil Scott
+signed the legislation on Thursday, making Vermont the eighth state in
+the country to end child\...
+
+#### Feds get first guilty plea in Michigan marijuana board probe
+
+https://apnews.com/article/d811aa7617dadbe1e8244afd010012db
+
+FILE - Rick Johnson chairs the committee as it meets before a capacity
+crowd in Lansing, Mich., June 26, 2017, at the first open meeting of the
+Michigan Medical Marijuana Board. Federal authorities said Thursday,
+April 6, 2023, that\...
+
+#### NFL suspends 5 players for violating gambling policy
+
+https://apnews.com/article/3dc7890fc340b58ff6fcdd88cb9c939d
+
+FILE - Detroit Lions defensive back C.J. Moore (38), on special teams,
+reacts after running out of bounds on a fake punt during the second half
+of an NFL football game against the Los Angeles Rams Sunday, Oct. 24,
+2021, in Inglewood\...
+
+#### Early morning fire destroys wing of Idaho high school
+
+https://apnews.com/article/cd0c0edfb2200358590d0b2d301fdb69
+
+In this image taken from video from KIFI Local News 8, firefighters work
+on the scene of an early morning fire at a large high school in
+Pocatello, Idaho, Friday, April 21, 2023. The Pocatello Fire Department
+said the fire at Highland\...
+
+#### Toronto fires Nick Nurse, who led Raptors to 2019 NBA title
+
+https://apnews.com/article/c2b7dc404915ee3ae12fe1a52e589830
+
+Toronto Raptors head coach Nick Nurse directs his team during the first
+half of an NBA basketball game against the Charlotte Hornets in
+Charlotte, N.C., Sunday, April 2, 2023. Toronto won 128-108. (AP
+Photo/Nell Redmond) TORONTO (AP\...
+
+#### Wrexham and Ryan Reynolds looking for Hollywood ending
+
+https://apnews.com/article/3ce5b60b2b0dbd88660d2772c8692f39
+
+FILE - Wrexham owners Ryan Reynolds, center right, and Rob McElhenney,
+center left, react during the National League match between Wrexham and
+Notts County at the Racecourse Ground, Wrexham, Wales, Monday April 10,
+2023. It\...
+
+#### Dame Edna actor Barry Humphries stable in Sydney hospital
+
+https://apnews.com/article/9211136232cdb59be4a08768de4c80a7
+
+Barry Humphries arrives for the Oldie of the Year awards, at
+Simpsons-in-the-Strand, London, on Feb. 2, 2016. Tony Award-winning
+comedian Barry Humphries, renowned for his garish stage persona Dame
+Edna Everage, a condescending and\...
+
+#### 4 million apply for tickets for Paris Olympics in lottery
+
+https://apnews.com/article/ba13450b8854210860cd463db2db36f9
+
+Tony Estanguet, president of the Paris 2024 Olympics organizing
+committee, rides a boat down the Seine River on the route that will be
+used for the opening ceremony of the Games, in Paris, Friday, April 14,
+2023. Officials say more than\...
+
+#### Belgian foundation to exhibit auctioned T. rex in Antwerp
+
+https://apnews.com/article/dcdad6d6c0c5a94bda7b4980a30c5f30
+
+Cyril Koller, CEO of auction house Koller, stands next to the head of
+the skeleton of a Tyrannosaurus rex named Trinity, during an auction in
+Zurich, Switzerland on Tuesday, April 18, 2023. The 293 T. rex bones
+were assembled into a\...
+
+#### Emily in Paris: Parisians face influx of Netflix hero's fans
+
+https://apnews.com/article/0df557a019cb245013ac399282be8adf
+
+People walk past the \"Modern bakery\", Place de dEstrapade, in Paris,
+Wednesday, April 19, 2023. The immense success of the Netflix series
+\"Emily in Paris\" has transformed a quiet, untouched square in the
+French capital\...
+
+#### Family joins rescued Indian climber being treated in Nepal
+
+https://apnews.com/article/d0dfd2935b31b83a7b82b5a1366e5002
+
+Family members react as an injured Indian climber Anurag Maloo who was
+rescued from Annapurna region is airlifted to Medicity hospital in
+Kathmandu, Nepal, Thursday, April 20, 2023. The Indian climber who fell
+into a 300-meter (980-foot\...
+
+#### Toyota's new president vows to step up electric vehicle push
+
+https://apnews.com/article/4bf350ee9df04d55815e01901e634040
+
+Koji Sato, President of Toyota Motor Co., poses for a photo at Toyota's
+office in Tokyo, Friday, April 21, 2023. Toyota's new president Sato has
+promised what he called an aggressive shift on "electrification," while
+acknowledging\...
+
+### Reuters
+
+#### Russian troops fighting in western Bakhmut, Wagner frets over Ukraine attack
+
+https://www.reuters.com/world/europe/russian-troops-fighting-western-bakhmut-wagner-frets-over-ukraine-attack-2023-04-21/
+
+A view shows residential buildings damaged by a Russian military strike,
+amid Russias attack on Ukraine, in the front line town of Bakhmut, in
+Donetsk region, Ukraine April 21, 2023. REUTERS/Anna Kudriavtseva
+Russia\...
+
+#### Factbox: World's biggest lithium producers
+
+https://www.reuters.com/markets/commodities/worlds-biggest-lithium-producers-2023-04-21/
+
+A lithium battery is seen at a store that collects electronic waste in
+Santiago, Chile, August 12, 2019. REUTERS/Rodrigo Garrido/File Photo An
+aerial view shows the brine pools and processing areas of the Soquimich
+(SQM) lithium mine on\...
+
+#### Chile plans to nationalize its vast lithium industry
+
+https://www.reuters.com/markets/commodities/chile-plans-nationalize-its-vast-lithium-industry-2023-04-21/
+
+Summary: Chile to create state-owned lithium company State firm to
+control worlds largest lithium reserves Copper giant Codelco to play key
+role A view of a brine pool of a lithium mine on the Atacama salt flat
+in the\...
+
+#### Allies move to bolster Ukrainian tank forces ahead of counteroffensive
+
+https://www.reuters.com/world/europe/ukraine-presses-weapons-us-allies-meet-germany-2023-04-21/
+
+Ukraines Defense Minister Oleksii Reznikov is flanked by his German and
+Polish counterparts Boris Pistorius and Mariusz Blaszczak, at the
+Ukraine Defense Contact group meeting at Ramstein U.S. Air Base,
+Germany, April 21\...
+
+#### Guantanamo inmates showing signs of 'accelerated ageing,' ICRC says
+
+https://www.reuters.com/world/us/guantanamo-inmates-showing-signs-accelerated-ageing-icrc-2023-04-21/
+
+People in orange jumpsuits protest against the U.S. prison at Guantanamo
+Bay, outside of the U.S. Capitol in Washington, U.S., April 5, 2023.
+REUTERS/Elizabeth Frantz/File Photo Inmates who have been held for years
+in the Guantanamo Bay U\...
+
+#### Gunmen ambush family in South African homestead, kill 10
+
+https://www.reuters.com/world/africa/safrican-police-10-killed-pietermaritzburg-mass-shooting-2023-04-21/
+
+A body is moved at the scene of a deadly mass shooting, near
+Pietermaritzburg, South Africa April 21, 2023. REUTERS/Rogan Ward
+Residents look on at the scene of a deadly mass shooting near
+Pietermaritzburg, South Africa April 21, 2023\...
+
+#### China issues report that Boeing sees as key to restart 737 MAX deliveries
+
+https://www.reuters.com/business/aerospace-defense/china-issues-report-that-boeing-sees-key-restart-737-max-deliveries-2023-04-21/
+
+The Boeing 737 MAX aircraft is displayed at the Farnborough
+International Airshow, in Farnborough, Britain, July 20, 2022.
+REUTERS/Peter Cziborra Chinas aviation regulator has published a report
+that Boeing (BA.N) views\...
+
+#### As DeSantis stumbles, anti-Trump Republicans fear a rerun in 2024 campaign
+
+https://www.reuters.com/world/us/desantis-stumbles-anti-trump-republicans-fear-rerun-2024-campaign-2023-04-21/
+
+Florida Governor Ron DeSantis speaks at the 2023 NHGOP Amos Tuck Dinner
+in Manchester, New Hampshire, U.S., April 14, 2023. REUTERS/Brian
+Snyder/File Photo Former U.S. President Donald Trump speaks at the
+National Rifle Association (NRA\...
+
+#### Explainer: Sudan's conflict and what worries neighbours, the U.S. and others
+
+https://www.reuters.com/world/africa/sudans-conflict-what-worries-neighbours-us-others-2023-04-21/
+
+Smoke rises from burning aircraft inside Khartoum Airport during clashes
+between the paramilitary Rapid Support Forces and the army in Khartoum,
+Sudan April 17, 2023. REUTERS/Stringer A conflict raging in Sudan is
+rattling neighbouring\...
+
+#### Why has Dominic Raab resigned as Britain's deputy prime minister?
+
+https://www.reuters.com/world/uk/why-has-british-deputy-prime-minister-dominic-raab-resigned-2023-04-21/
+
+Deputy Prime Minister, Lord Chancellor and Secretary of State for
+Justice Dominic Raab gets out of a car on Downing Street ahead of the
+weekly government cabinet meeting, in London, Britain January 31, 2023.
+REUTERS/Peter Nicholls British\...
+
+#### Man sets himself on fire in front of US embassy in Denmark
+
+https://www.reuters.com/world/europe/man-appears-set-himself-fire-front-us-embassy-copenhagen-danish-police-say-2023-04-21/
+
+Police officers and fire fighters help a 18-year old man who set himself
+on fire in front of the U.S. Embassy in Copenhagen, Denmark April 21.
+2023. The cause of his action is unknown. Ritzau Scanpix/Thomas Sjoerup
+via REUTERS An 18-year\...
+
+#### Smart gun operating on facial recognition goes on sale in U.S.
+
+https://www.reuters.com/technology/smart-gun-operating-facial-recognition-goes-sale-us-2023-04-21/
+
+A prototype of the Biofire Smart Gun is seen at Biofire Technologies
+headquarters in Broomfield, Colorado, U.S., April 18, 2022. REUTERS/Matt
+Mills McKnight Kai Kloepfer, CEO and Founder of Biofire Technologies,
+poses for a portrait with\...
+
+#### Russia crosses new lines in crackdown on Putin's enemies
+
+https://www.reuters.com/world/europe/russia-crosses-new-lines-crackdown-putins-enemies-2023-04-21/
+
+Summary: War crimes charges cement wedge between Putin and West
+Crackdown, years in making, intensifies to new level Highest jail term
+yet for speaking out against war Spy case against U.S. reporter is first
+for decades Former jailed\...
+
+### 联合早报
+
+#### 秦刚：中国的土地收回来就绝不会再失去
+
+https://www.zaobao.com/news/china/story20230422-1385930
+
+秦刚星期五出席在上海举行的"中国式现代化与世界"蓝厅论坛开幕式，并做主旨演讲。（彭博社）
+中国外交部长秦刚重申，"台湾回归中国"是第二次世界大战后国际秩序的组成部分，"中国的土地收回来了，就绝不会再失去"。
+秦刚星期五（4月21日）出席在上海举行的"中国式现代化与世界"蓝厅论坛开幕式，并做主旨演讲......
+
+#### 天主教港主教访北京 称信徒爱国是"应该" 港学者：显示正与内地修好关系
+
+https://www.zaobao.com/news/china/story20230422-1385931
+
+正在北京访问的天主教香港教区主教周守仁（左二），4月20日在北京教区主教座堂出席弥撒并讲道。左一为一同上北京的香港教区辅理主教夏志诚，左三为北京教区主教李山。（天主教北京教区弥撒直播截图）
+1997年香港回归中国后，天主教香港教区一直被北京批评立场偏向民主派，双方关系紧张。受访学者认为，周守仁的言论反映天主教香港教区与中国内地的关系正在修好......
+
+#### 学者：中美中产阶级一壮大一萎缩 是对立导因也可成改善关系切入点
+
+https://www.zaobao.com/news/china/story20230422-1385932
+
+美国布鲁金斯学会约翰桑顿中国研究中心主任李成认为，中国中产阶级壮大伴随美国中产阶级萎缩，是两国对立加剧的导因之一，但也可能成为改善中美关系的切入点......
+
+#### 马英九受邀出席希腊经济论坛 头衔被误植为"台北"前总统
+
+https://www.zaobao.com/news/china/story20230422-1385933
+
+台湾前总统马英九受邀出席月底于希腊举办的"德尔菲经济论坛"，头衔被误植为"台北"前总统。行政院长陈建仁星期五（4月21日）指出，参加活动应"确保台湾的主权和尊严"。马英九办公室出示邀请函证实是Republic
+of China（中华民国），"请陈院长搞清楚状况"。
+马英九办公室发现主办单位误植头衔后，已向对方反映。马办也肯定台湾外交部主动协助处理的态度，而主办单位已予更正......
+
+#### 侯友宜从地方 到中央执政？
+
+https://www.zaobao.com/news/china/story20230422-1385934
+
+国民党籍的新北市长侯友宜率团访问新加坡，被广泛解读为选总统起手式。
+媒体最关注他将在狮城会见哪一位政治高层。秘而未宣的行程终于揭晓，新加坡副总理兼财政部长黄循财星期五（4月21日）在脸书公开与侯友宜"老友会面"的照片。
+黄循财被视为总理接班人，从平民和公务员出身转政治领袖，与侯友宜的平民和公务员出身相似。侯友宜2019年首任新北市长后出访新加坡，也曾与时任国家发展部长的黄循财会面......
+
+#### 中国拟修订反间谍法 完善规定网络间谍行为
+
+https://www.zaobao.com/news/china/story20230422-1385935
+
+中国将修订反间谍法完善关于网络间谍行为的规定，包括认定间谍组织及其代理人等针对国家机关、涉密单位或者关键信息基础设施等的网络攻击、侵入、干扰、控制、破坏等活动，属于间谍行为......
+
+#### 中国国际模型博览 观众如入仿真世界
+
+https://www.zaobao.com/news/china/story20230422-1385936
+
+第21届中国国际模型博览会星期五（4月21日）在北京展览馆开幕，众多各种类型的模型展品令观众置身仿真世界。图为观众参观中国海军"山东舰"航母战斗群模型......
+
+#### 从莆田系医院到长峰系医院
+
+https://www.zaobao.com/news/china/story20230422-1385937
+
+北京长峰医院星期二（4月18日）发生大火后，我隔天上午到现场采访火灾的善后情况。"这家医院有名吗？"我询问在医院外围观的一名附近居民，他想了一会儿，意味深长地看着我说："这就是一家民营医院，赚钱的那种，你懂的。"
+我对这名居民点了点头，但当下并没有完全明白他的意思，因为在不少国家，民营医院让人联想到的是收费高，但医疗服务质量也较高、等候时间较短等，属于正面的印象......
+
+#### 发改委副主任 林念修传因"严重违纪"被降级
+
+https://www.zaobao.com/news/china/story20230422-1385938
+
+林念修将于10月满60周岁，达到副部级高官退休年龄。被降级后，林念修实际上已提早退休。（互联网）
+报道引述消息称，林念修因涉不当"男女关系"，大概在半个月前被降级处分，不过这一消息并未得到官方证实。截至星期五（4月21日），林念修在国家发改委官网上仍是排名第一的副主任。
+香港《星岛日报》星期四（4月20日）报道，中国国家发改委副主任林念修因"严重违纪"，被降级为副司级巡视员......
+
+#### 中蒙俄边境草原大火受控
+
+https://www.zaobao.com/news/china/story20230422-1385939
+
+4月21日，内蒙古自治区森林消防总队发布消息称，20日蔓延至中国内蒙古境内的蒙俄过境草原火灾已初步得到控制。两处火场主要植被以针茅草为主，现场风力6至8级。图为4月20日，内蒙古呼伦贝尔市，消防员奋力扑火。
+（中新社）
+蒙古和俄罗斯境内分别在4月20日中午12时47分和下午1时50分发生草原火灾，下午3时左右蔓延至中国内蒙古自治区呼伦贝尔市的边境地区，两处火场主要植被以为针茅草，现场风力6至8级......
+
+#### 传台湾吁美勿过度 强调依赖台晶片风险
+
+https://www.zaobao.com/news/china/story20230422-1385940
+
+由于担忧中国大陆可能入侵台湾的威胁，美国多次表示要减少对台产晶片的依赖，令台湾感到不安。据报台湾官员私下认为，拜登政府官员做得太过火了。
+彭博社星期五（4月21日）引述匿名知情人士报道，台湾官员曾在私下交流中，吁请美国官员降低有关依赖台积电制造晶片风险的论调。
+知情人士称，台湾官员尤其对美国商务部长雷蒙多形容这种依赖"站不住脚"、"不安全"感到不满......
+
+#### 中国"五一"境内游火爆 预定量超过2019年水平
+
+https://www.zaobao.com/news/china/story20230422-1385941
+
+中国"五一"假期临近，多个旅游平台数据显示，今年假期出游的中国大陆境内机票、酒店、景区门票等旅游产品预定火热，订单量更超过2019年冠病疫情前的同期水平。
+据澎湃新闻报道，携程数据显示，中国大陆境内机票搜索热度是2019年同期的110%；境内酒店市场搜索热度较2019年同期增长近两倍......
+
+#### 美国法院拒绝 郭文贵保释申请
+
+https://www.zaobao.com/news/china/story20230422-1385942
+
+美国曼哈顿联邦法院星期四（4月20日）拒绝了涉嫌诈骗的中国富商郭文贵的保释申请，原因是证据显示他的潜逃风险极大。
+据路透社报道，被中国政府通缉、外逃到美国的郭文贵因涉嫌诈骗超过10亿美元（约13.5亿新元），今年3月15日在纽约被捕。他3月底申请以2500万美元保外候审时称，自己没有逃跑的风险，"逃离美国更危险"......
+
+#### 国务院安委会督办 长峰医院火灾查处
+
+https://www.zaobao.com/news/china/story20230422-1385943
+
+北京长峰医院星期二（4月18日）发生的火灾造成29人死亡，中国国务院安全生产委员会决定挂牌督办该起重大事故的查处，并派员参与，帮助指导北京市调查组工作。
+据中国应急管理部官网发布，中国国务院安委会要求，要依照《生产安全事故报告和调查处理条例》等有关法律法规及规章规定，抓紧组织开展事故调查，迅速查明火灾事故原因，严肃追责问责。
+北京长峰医院火灾遇难者中，有26人是住院患者，其中21人为60岁以上......
+
+#### 台南市前经发局局长 陈凯凌涉受贿被起诉
+
+https://www.zaobao.com/news/china/story20230422-1385944
+
+台南市经济发展局前局长陈凯凌涉嫌收受贿赂案，星期四（4月20日）由台南地方检察署依贪污及洗钱防治条例提起诉讼。
+综合《自由时报》《联合报》等台媒报道，陈凯凌被检举在七股科技工业区开发案中，利用经发局局长职务之名，向从事营建工程的黄姓业者前后收受现金贿赂、喝花酒及性招待等不正当利益近200万元（新台币，下同，约8.7万新元）。他还被控以购屋名义，与建商合议超贷诈得296万元......
+
+#### 上海车展揭幕全球1000多企业参展 逾150款新车全球首发
+
+https://www.zaobao.com/news/china/story20230421-1385519
+
+2023年上海车展人头攒动，多家参展商趁热发布新车型。中国电动车品牌比亚迪就在车展期间推出面向高端用户的超级跑车。（陈婧）
+作为今年全球第一场A级车展，为期10天的上海车展预计接待观众超过100万人次，比2021年的上届车展多出20万人次。不少车企希望借疫后展会复苏和政府推动汽车消费等契机带动销量。
+"车多了很多，人多了更多......
+
+#### 德国车企力争中国市场 高管齐聚上海车展
+
+https://www.zaobao.com/news/china/story20230421-1385520
+
+德国头部车企高管纷纷前往上海，出席中国疫情后首个大型车展，其中大众汽车派出整个董事会和100多名员工参展。分析认为，这体现在全球乘用车市场转向电动车之际，德国车企正全力以赴争取中国市场，并应对来自中国同行的挑战......
+
+#### 杨莉明：新加坡支持重庆及中国与东南亚更广大区域互动
+
+https://www.zaobao.com/news/china/story20230421-1385521
+
+新加坡通讯及新闻部长兼内政部第二部长杨莉明星期四（4月20日）以视频方式，参加在重庆举行的中新金融峰会并致辞。（王纬温摄）
+新加坡通讯及新闻部长兼内政部第二部长杨莉明表示，在双边合作之外，新加坡也支持重庆及中国与东南亚更广大区域的互动。她指出，亚细安与中国西部同为世界上发展速度最快的地区之一，对金融服务需求巨大；加强金融合作和互联互通，也是促进中国---亚细安经济一体化的重要部分......
+
+#### 央视批西方炒作人口下降 唱衰中国发展势头
+
+https://www.zaobao.com/news/china/story20230421-1385522
+
+中国官媒央视新闻发表评论文章，批评西方媒体借中国人口下降、印度超过中国成为人口第一大国之机炒作，唱衰中国发展。
+中国央视网"国际锐评"栏目星期四（4月20日）发表题为《炒作中国人口被印度"超越"，西方又想借题发挥》的评论文章，指西方媒体的潜台词是中国"人口红利"消失后就会衰落，世界经济也会跟着遭殃......
+
+#### 越南反对中国在南中国海实施禁渔令
+
+https://www.zaobao.com/news/china/story20230421-1385523
+
+越南外交部就中国每年在南中国海实施的三个半月禁渔令提出反对，称这侵犯了越南的主权，并敦促中国政府"不要使局势复杂化"。
+据越南通讯社报道，越南外交部副发言人段刻越星期四（4月20日）在例行记者会上，回应有关中国将在5月1日起在南中国海实施"休渔期"的提问时说，越南多年来对这一问题的立场是一贯的，认为该措施侵犯了越南对长沙群岛（中国称西沙群岛）的主权......
+
+#### 辽宁三高官同日被通报处分
+
+https://www.zaobao.com/news/china/story20230421-1385524
+
+辽宁省纪委监委星期四（4月20日）连发三条通报，辽宁省公安厅原副厅长刘家铎、省机关事务管理局原局长尹国辉被双开（开除党籍和公职），省公安厅原一级巡视员张大旗被开除党籍。
+辽宁省纪委监委官网通报称，对三人的严重违纪违法问题，分别进行立案审查调查。
+现年59岁的刘家铎在辽宁公安系统任职长达37年......
+
+#### 韩咏红：北京长峰医院大火中的危机应对方式
+
+https://www.zaobao.com/news/china/story20230421-1385525
+
+为政者有维护社会稳定的需要，但是社会享有知情权也是进步的标志......
+
+#### 台积电业绩反映全球科技市场低迷 专家：无法预测下半年是否止跌回升
+
+https://www.zaobao.com/news/china/story20230421-1385526
+
+科技电子报Digitimes
+Asia总编辑乌凌翔接受《联合早报》采访时指出，台积电的业绩说明"符合悲观的预期"，没有惊喜或惊吓。他说，台积电海外与本土布局的节奏，已受到国际与两岸局势的牵动。
+台湾积体电路制造公司（台积电）调降全年营收目标，可能面对14年来首度衰退。全年资本支出则维持不变，并准备在本土招募超过6000名新员工。
+受访专家分析，台积电业绩反映全球科技市场需求低迷、前景不明朗......
+
+#### 柯文哲访美再赴AIT 与白宫国安会官员会面
+
+https://www.zaobao.com/news/china/story20230421-1385527
+
+正在访美的台湾民众党主席柯文哲于美东时间星期三（4月19日）前往美国在台协会（AIT），与美国政府部门行政官员会面，他对媒体脱口透露，会面对象有白宫国安会官员。
+综合《联合报》与《自由时报》报道，柯文哲在AIT总部所在大楼与美方官员会晤约一个小时。他在会谈后受访时被问及会面官员层级，脱口称包括"国安会"后，被一旁的幕僚提醒是"高层"，才改口说"只是跟美国高层谈一谈"......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

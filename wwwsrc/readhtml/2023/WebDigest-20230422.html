@@ -1,0 +1,1373 @@
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Web Digest - 2023-04-22</title>
+    <link rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" />
+
+    <script src="/js/readhtml.js" async data-is-loaded="false" data-runlevel="3"></script>
+
+    <script>
+        // Init for script startup
+        document.addEventListener('load', function () {
+            window.initRunlevel = 0;
+            const walkThroughRunlevels = function () {
+                // Reaching last runlevel, no more runlevels
+                if (window.initRunlevel === 4095) { return 0; };
+                if (document.querySelectorAll(`script[data-is-loaded="false"][data-runlevel="${window.initRunlevel}"]`).length > 0) {
+                    // This runlevel is not completed yet, wait 5 more milliseconds
+                    window.setTimeout(walkThroughRunlevels, 5);
+                } else {
+                    // This runlevel is complete, move to the next runlevel
+                    window.initRunlevel += 1;
+                    document.dispatchEvent(new Event(`runlevel${window.initRunlevel}`));
+                    walkThroughRunlevels();
+                };
+            };
+            walkThroughRunlevels();
+        }, { capture: true });
+    </script>
+
+    <style>
+        @import url('https://autowflibcdn.pages.dev/awfl-cdn/css/ibm-plex-sans.css');
+        * {
+            text-rendering: geometricPrecision;
+            box-sizing: border-box;
+            hyphens: none;
+            font-variant-ligatures: none;
+        }
+
+        html,
+        body {
+            font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            font-size: 15px;
+            line-height: 1.6;
+            padding: 0px;
+            margin: 0px;
+        }
+
+        a {
+            color: #03C;
+            text-decoration: none;
+        }
+
+        .global-container {}
+
+        .bigpart {
+            max-width: 700px;
+            padding: 30px;
+            margin: 0 auto;
+        }
+
+        #topnav {
+            text-align: center;
+        }
+
+
+
+        h1 {
+            font-size: 40px;
+            text-align: center;
+            margin: 20px 0 20px;
+        }
+
+        h2 {
+            font-size: 34px;
+            text-align: center;
+            border-top: 2px solid #000;
+            display: none;
+            padding: 100px 0 50px;
+            margin: 100px 0 0;
+        }
+
+        /* class="toc-entry" data-toc-entry-class */
+        #navtoc a.toc-entry {
+            display: block;
+        }
+
+        #navtoc a.toc-entry[data-toc-entry-class="h2"] {
+            font-size: 17px;
+            color: #000;
+            padding: 12px 0px 6px;
+        }
+        #navtoc a.toc-entry[data-toc-entry-class="h2"]::before {
+            content: "# ";
+        }
+
+        #navtoc a.toc-entry[data-toc-entry-class="h3"] {
+            font-size: 15px;
+            padding: 1px 0px 1px 30px;
+        }
+
+        h3 {
+            font-size: 26px;
+            text-align: center;
+            border-top: 2px solid #000;
+            padding: 100px 0 50px;
+            margin: 100px 0 0;
+        }
+
+        h4 {
+            font-size: 22px;
+            /* text-align: center; */
+            padding: 25px 0 5px;
+            margin: 0 0;
+        }
+
+        .pandoc-content p {
+            font-family: 'Brygada 1918', 'Baskervaldx', Georgia, 'Times New Roman', Times, serif;
+            font-size: 14px;
+            line-height: 1.4;
+            margin: 6px 0;
+        }
+
+        .pandoc-content p a {
+            font-family: 'JetBrains Mono NL', 'Inconsolata', 'Ubuntu Mono', monospace;
+            font-size: 13px;
+        }
+
+        .pandoc-content p+p a {
+            color: #888;
+        }
+
+        footer {
+            font-family: 'Brygada 1918', 'Baskervaldx', Georgia, 'Times New Roman', Times, serif;
+            padding: 100px 0;
+        }
+
+        footer p {
+            font-size: 13px;
+            margin: 5px 0;
+        }
+
+    </style>
+</head>
+
+<body>
+
+
+    <div class="global-container">
+        <div class="bigpart">
+            <nav id="topnav">
+                Other formats:
+                <a id="anchor-pdfurl" href="https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/webdigest/WebDigest-20230422.pdf--9dcaf87422c9fceb47d4949a2f5eb344.pdf">PDF</a> /
+                <a id="anchor-markdownurl" href="">Markdown</a>
+            </nav>
+            <script>
+                const year = '20230422'.slice(0, 4);
+                document.querySelector('#anchor-markdownurl').href = `https://github.com/neruthes/webdigest/blob/master/markdown/${year}/WebDigest-20230422.md`;
+            </script>
+        </div>
+
+
+        <!-- <div class="bigpart"></div> -->
+
+        <div class="bigpart">
+            <h1>Web Digest - 2023-04-22</h1>
+        </div>
+        <script>
+            // window.addEventListener('load', function () {
+            //     const toc = document.querySelector('#navtocul');
+            //     document.querySelectorAll('h2').forEach(function (h2) {
+            //         // console.log(h2.id)
+            //         toc.innerHTML += `<li><a href="#${h2.id}">${h2.innerText}</a></li>`;
+            //     });
+            // });
+        </script>
+
+        <div class="bigpart" id="js-preContent-container"></div>
+
+        <div class="bigpart pandoc-content">
+<h2 id="developers">Developers</h2>
+<h3 id="hacker-news">Hacker News</h3>
+<h4
+id="faster-lz-is-not-the-answer-to-150-250-gb-video-game-downloads">Faster
+LZ is not the answer to 150-250 GB video game downloads</h4>
+<p><span style=""><a
+href="http://richg42.blogspot.com/2023/04/faster-lz-is-not-answer-to-150-250-gb.html"
+class="uri">http://richg42.blogspot.com/2023/04/faster-lz-is-not-answer-to-150-250-gb.html</a></span></p>
+<p><span style="color: #888;"><a
+href="https://news.ycombinator.com/item?id=35659092"
+class="uri">https://news.ycombinator.com/item?id=35659092</a></span></p>
+<h4 id="ban-on-tenure-for-new-faculty-hires-passes-texas-senate">Ban on
+Tenure for New Faculty Hires Passes Texas Senate</h4>
+<p><span style=""><a
+href="https://www.chronicle.com/article/ban-on-tenure-for-new-faculty-hires-passes-texas-senate"
+class="uri">https://www.chronicle.com/article/ban-on-tenure-for-new-faculty-hires-passes-texas-senate</a></span></p>
+<p><span style="color: #888;"><a
+href="https://news.ycombinator.com/item?id=35658796"
+class="uri">https://news.ycombinator.com/item?id=35658796</a></span></p>
+<h4
+id="nuclear-power-is-the-answer-to-global-and-environmental-energy-woes">Nuclear
+Power Is the Answer to Global and Environmental Energy Woes</h4>
+<p><span style=""><a
+href="https://nationalinterest.org/feature/nuclear-power-answer-global-and-environmental-energy-woes-206418"
+class="uri">https://nationalinterest.org/feature/nuclear-power-answer-global-and-environmental-energy-woes-206418</a></span></p>
+<p><span style="color: #888;"><a
+href="https://news.ycombinator.com/item?id=35658318"
+class="uri">https://news.ycombinator.com/item?id=35658318</a></span></p>
+<h4 id="fire-mark-zuckerberg">Fire Mark Zuckerberg</h4>
+<p><span style=""><a
+href="https://ez.substack.com/p/fire-mark-zuckerberg"
+class="uri">https://ez.substack.com/p/fire-mark-zuckerberg</a></span></p>
+<p><span style="color: #888;"><a
+href="https://news.ycombinator.com/item?id=35657984"
+class="uri">https://news.ycombinator.com/item?id=35657984</a></span></p>
+<h4 id="github-copilot-emits-gpl-code">GitHub Copilot emits GPL
+code</h4>
+<p><span style=""><a
+href="https://codeium.com/blog/copilot-trains-on-gpl-codeium-does-not"
+class="uri">https://codeium.com/blog/copilot-trains-on-gpl-codeium-does-not</a></span></p>
+<p><span style="color: #888;"><a
+href="https://news.ycombinator.com/item?id=35657982"
+class="uri">https://news.ycombinator.com/item?id=35657982</a></span></p>
+<h4
+id="devastating-melt-of-greenland-antarctic-ice-sheets-found">‘Devastating’
+melt of Greenland, Antarctic ice sheets found</h4>
+<p><span style=""><a
+href="https://phys.org/news/2023-04-devastating-greenland-antarctic-ice-sheets.html"
+class="uri">https://phys.org/news/2023-04-devastating-greenland-antarctic-ice-sheets.html</a></span></p>
+<p><span style="color: #888;"><a
+href="https://news.ycombinator.com/item?id=35657570"
+class="uri">https://news.ycombinator.com/item?id=35657570</a></span></p>
+<h4
+id="lyft-to-cut-at-least-1200-jobs-in-new-round-of-layoffs-to-reduce-costs">Lyft
+to Cut at Least 1,200 Jobs in New Round of Layoffs to Reduce Costs</h4>
+<p><span style=""><a
+href="https://www.wsj.com/articles/lyft-to-cut-at-least-1-200-jobs-in-new-round-of-layoffs-to-reduce-costs-da423e53"
+class="uri">https://www.wsj.com/articles/lyft-to-cut-at-least-1-200-jobs-in-new-round-of-layoffs-to-reduce-costs-da423e53</a></span></p>
+<p><span style="color: #888;"><a
+href="https://news.ycombinator.com/item?id=35655780"
+class="uri">https://news.ycombinator.com/item?id=35655780</a></span></p>
+<h4
+id="the-earn-it-bill-is-back-seeking-to-scan-our-messages-and-photos">The
+EARN IT bill is back, seeking to scan our messages and photos</h4>
+<p><span style=""><a
+href="https://www.eff.org/deeplinks/2023/04/earn-it-bill-back-again-seeking-scan-our-messages-and-photos"
+class="uri">https://www.eff.org/deeplinks/2023/04/earn-it-bill-back-again-seeking-scan-our-messages-and-photos</a></span></p>
+<p><span style="color: #888;"><a
+href="https://news.ycombinator.com/item?id=35655282"
+class="uri">https://news.ycombinator.com/item?id=35655282</a></span></p>
+<h4
+id="apples-fight-against-iphone-sideloading-was-pointless-at-best-harmful-at-worst">Apple’s
+fight against iPhone sideloading was pointless at best, harmful at
+worst</h4>
+<p><span style=""><a
+href="https://9to5mac.com/2023/04/18/iphone-sideloading/"
+class="uri">https://9to5mac.com/2023/04/18/iphone-sideloading/</a></span></p>
+<p><span style="color: #888;"><a
+href="https://news.ycombinator.com/item?id=35654654"
+class="uri">https://news.ycombinator.com/item?id=35654654</a></span></p>
+<h4 id="the-weird-world-of-windows-file-paths">The weird world of
+Windows file paths</h4>
+<p><span style=""><a
+href="https://www.fileside.app/blog/2023-03-17_windows-file-paths/"
+class="uri">https://www.fileside.app/blog/2023-03-17_windows-file-paths/</a></span></p>
+<p><span style="color: #888;"><a
+href="https://news.ycombinator.com/item?id=35654574"
+class="uri">https://news.ycombinator.com/item?id=35654574</a></span></p>
+<h4
+id="the-air-force-has-loosened-its-restrictions-on-body-fat-for-new-recruits">The
+Air Force has loosened its restrictions on body fat for new
+recruits</h4>
+<p><span style=""><a
+href="https://www.airforcetimes.com/news/your-air-force/2023/04/03/fatter-recruits-now-welcome-as-air-force-revises-its-rules/"
+class="uri">https://www.airforcetimes.com/news/your-air-force/2023/04/03/fatter-recruits-now-welcome-as-air-force-revises-its-rules/</a></span></p>
+<p><span style="color: #888;"><a
+href="https://news.ycombinator.com/item?id=35653904"
+class="uri">https://news.ycombinator.com/item?id=35653904</a></span></p>
+<h4
+id="tech-bosses-are-letting-dictators-censor-what-americans-see">Tech
+bosses are letting dictators censor what Americans see</h4>
+<p><span style=""><a
+href="https://www.thedailybeast.com/elon-musk-tech-bosses-are-letting-dictators-censor-what-americans-see"
+class="uri">https://www.thedailybeast.com/elon-musk-tech-bosses-are-letting-dictators-censor-what-americans-see</a></span></p>
+<p><span style="color: #888;"><a
+href="https://news.ycombinator.com/item?id=35653867"
+class="uri">https://news.ycombinator.com/item?id=35653867</a></span></p>
+<h4
+id="ai-is-taking-the-jobs-of-kenyans-who-write-essays-for-u.s.-college-students">AI
+is taking the jobs of Kenyans who write essays for U.S. college
+students</h4>
+<p><span style=""><a
+href="https://restofworld.org/2023/chatgpt-taking-kenya-ghostwriters-jobs/"
+class="uri">https://restofworld.org/2023/chatgpt-taking-kenya-ghostwriters-jobs/</a></span></p>
+<p><span style="color: #888;"><a
+href="https://news.ycombinator.com/item?id=35653125"
+class="uri">https://news.ycombinator.com/item?id=35653125</a></span></p>
+<h4
+id="us-to-start-training-ukrainian-troops-on-abrams-tanks-within-weeks">US
+to start training Ukrainian troops on Abrams tanks within weeks</h4>
+<p><span style=""><a
+href="https://www.airforcetimes.com/news/your-air-force/2023/04/21/us-to-start-training-ukrainian-troops-on-abrams-tanks-within-weeks/"
+class="uri">https://www.airforcetimes.com/news/your-air-force/2023/04/21/us-to-start-training-ukrainian-troops-on-abrams-tanks-within-weeks/</a></span></p>
+<p><span style="color: #888;"><a
+href="https://news.ycombinator.com/item?id=35652964"
+class="uri">https://news.ycombinator.com/item?id=35652964</a></span></p>
+<h4 id="can-rust-beat-javascript-in-2023">Can Rust Beat JavaScript in
+2023?</h4>
+<p><span style=""><a
+href="https://joshuamo876.bearblog.dev/can-rust-beat-javascript-in-2023/"
+class="uri">https://joshuamo876.bearblog.dev/can-rust-beat-javascript-in-2023/</a></span></p>
+<p><span style="color: #888;"><a
+href="https://news.ycombinator.com/item?id=35652655"
+class="uri">https://news.ycombinator.com/item?id=35652655</a></span></p>
+<h4 id="atari-800xl-remake">Atari 800XL Remake</h4>
+<p><span style=""><a
+href="https://revive-machines.com/index-en.html"
+class="uri">https://revive-machines.com/index-en.html</a></span></p>
+<p><span style="color: #888;"><a
+href="https://news.ycombinator.com/item?id=35652541"
+class="uri">https://news.ycombinator.com/item?id=35652541</a></span></p>
+<h4
+id="large-creative-ai-models-will-transform-lives-and-labour-markets">Large,
+creative AI models will transform lives and labour markets</h4>
+<p><span style=""><a
+href="https://www.economist.com/interactive/science-and-technology/2023/04/22/large-creative-ai-models-will-transform-how-we-live-and-work"
+class="uri">https://www.economist.com/interactive/science-and-technology/2023/04/22/large-creative-ai-models-will-transform-how-we-live-and-work</a></span></p>
+<p><span style="color: #888;"><a
+href="https://news.ycombinator.com/item?id=35652444"
+class="uri">https://news.ycombinator.com/item?id=35652444</a></span></p>
+<h4 id="chatgpt-could-cost-over-700k-per-day-to-operate">ChatGPT could
+cost over $700k per day to operate</h4>
+<p><span style=""><a
+href="https://www.businessinsider.com/how-much-chatgpt-costs-openai-to-run-estimate-report-2023-4"
+class="uri">https://www.businessinsider.com/how-much-chatgpt-costs-openai-to-run-estimate-report-2023-4</a></span></p>
+<p><span style="color: #888;"><a
+href="https://news.ycombinator.com/item?id=35652434"
+class="uri">https://news.ycombinator.com/item?id=35652434</a></span></p>
+<h4
+id="office-of-the-president-of-mongolia-top-to-bottom-text-on-the-web">Office
+of the President of Mongolia: Top to bottom text on the web</h4>
+<p><span style=""><a
+href="https://president.mn/mng/"
+class="uri">https://president.mn/mng/</a></span></p>
+<p><span style="color: #888;"><a
+href="https://news.ycombinator.com/item?id=35650699"
+class="uri">https://news.ycombinator.com/item?id=35650699</a></span></p>
+<h4 id="inkscape-is-hiring-accelerating-the-gtk4-migration">Inkscape is
+hiring: Accelerating the GTK4 migration</h4>
+<p><span style=""><a
+href="https://inkscape.org/news/2023/04/17/inkscape-hiring-accelerating-gtk4-migration/"
+class="uri">https://inkscape.org/news/2023/04/17/inkscape-hiring-accelerating-gtk4-migration/</a></span></p>
+<p><span style="color: #888;"><a
+href="https://news.ycombinator.com/item?id=35650663"
+class="uri">https://news.ycombinator.com/item?id=35650663</a></span></p>
+<h3 id="phoronix">Phoronix</h3>
+<h4
+id="btrfs-receives-a-very-important-last-minute-fix-for-linux-6.3">Btrfs
+Receives A Very Important Last Minute Fix For Linux 6.3</h4>
+<p><span style=""><a
+href="https://www.phoronix.com/news/Btrfs-Discard-Tuning-Linux-6.3"
+class="uri">https://www.phoronix.com/news/Btrfs-Discard-Tuning-Linux-6.3</a></span></p>
+<h4
+id="intel-updates-packaged-arc-graphics-driver-for-ubuntu-22.04-lts">Intel
+Updates Packaged Arc Graphics Driver For Ubuntu 22.04 LTS</h4>
+<p><span style=""><a
+href="https://www.phoronix.com/news/Intel-Arc-Update-21-April"
+class="uri">https://www.phoronix.com/news/Intel-Arc-Update-21-April</a></span></p>
+<h4 id="corsair-2-x-24gb-ddr5-7000-memory-linux-performance">Corsair 2 x
+24GB DDR5-7000 Memory Linux Performance</h4>
+<p><span style=""><a
+href="https://www.phoronix.com/review/corsair-48gb-ddr5-7000"
+class="uri">https://www.phoronix.com/review/corsair-48gb-ddr5-7000</a></span></p>
+<h4 id="rusticl-with-radeonsi-driver-nearing-opencl-conformance">Rusticl
+With RadeonSI Driver Nearing OpenCL Conformance</h4>
+<p><span style=""><a
+href="https://www.phoronix.com/news/Rusticl-RadeonSI-CTS-Near"
+class="uri">https://www.phoronix.com/news/Rusticl-RadeonSI-CTS-Near</a></span></p>
+<h4
+id="intels-game-plan-for-getting-the-xe-linux-kernel-graphics-driver-upstreamed">Intel’s
+Game Plan For Getting The Xe Linux Kernel Graphics Driver
+Upstreamed</h4>
+<p><span style=""><a
+href="https://www.phoronix.com/news/Intel-Xe-Merge-Plan-April"
+class="uri">https://www.phoronix.com/news/Intel-Xe-Merge-Plan-April</a></span></p>
+<h4
+id="valve-lands-another-radeon-vulkan-performance-optimization-for-an-upcoming-game">Valve
+Lands Another Radeon Vulkan Performance Optimization For An "Upcoming
+Game"</h4>
+<p><span style=""><a
+href="https://www.phoronix.com/news/Valve-RADV-Upcoming-Game"
+class="uri">https://www.phoronix.com/news/Valve-RADV-Upcoming-Game</a></span></p>
+<h4 id="slob-removal-submitted-ahead-of-the-linux-6.4-kernel-cycle">SLOB
+Removal Submitted Ahead Of The Linux 6.4 Kernel Cycle</h4>
+<p><span style=""><a
+href="https://www.phoronix.com/news/Linux-6.4-Dropping-SLOB"
+class="uri">https://www.phoronix.com/news/Linux-6.4-Dropping-SLOB</a></span></p>
+<h4
+id="freebsd-has-a-great-start-to-2023-with-numerous-accomplishments">FreeBSD
+Has A Great Start To 2023 With Numerous Accomplishments</h4>
+<p><span style=""><a
+href="https://www.phoronix.com/news/FreeBSD-Q1-2023-Status"
+class="uri">https://www.phoronix.com/news/FreeBSD-Q1-2023-Status</a></span></p>
+<h4
+id="rust-1.69-released---no-longer-includes-debug-info-in-build-scripts-by-default">Rust
+1.69 Released - No Longer Includes Debug Info In Build Scripts By
+Default</h4>
+<p><span style=""><a
+href="https://www.phoronix.com/news/Rust-1.69-Released"
+class="uri">https://www.phoronix.com/news/Rust-1.69-Released</a></span></p>
+<h3 id="github">GitHub</h3>
+<h4 id="ashawkeystable-dreamfusion">ashawkey/stable-dreamfusion</h4>
+<p><span style=""><a
+href="https://github.com/ashawkey/stable-dreamfusion"
+class="uri">https://github.com/ashawkey/stable-dreamfusion</a></span></p>
+<p>A pytorch implementation of text-to-3D dreamfusion, powered by stable
+diffusion.<br />
+Language: Python<br />
+Stars: 4909<br />
+Forks: 434</p>
+<h4 id="mouredevhello-python">mouredev/Hello-Python</h4>
+<p><span style=""><a
+href="https://github.com/mouredev/Hello-Python"
+class="uri">https://github.com/mouredev/Hello-Python</a></span></p>
+<p>Curso para aprender el lenguaje de programación Python desde cero y
+para principiantes. Más de 30 clases, 25 horas en vídeo, código y grupo
+de chat. Desde sus fundamentos hasta la creación de un API Backend con
+base de datos y más...<br />
+Language: Python<br />
+Stars: 11791<br />
+Forks: 810</p>
+<h4 id="cuynuytvanced">cuynu/ytvanced</h4>
+<p><span style=""><a
+href="https://github.com/cuynu/ytvanced"
+class="uri">https://github.com/cuynu/ytvanced</a></span></p>
+<p>YouTube Vanced &amp; Vanced MicroG &amp; YouTube Music Vanced
+Unofficial (non-profit)<br />
+Language: Kotlin<br />
+Stars: 2496<br />
+Forks: 184</p>
+<h4
+id="type-challengestype-challenges">type-challenges/type-challenges</h4>
+<p><span style=""><a
+href="https://github.com/type-challenges/type-challenges"
+class="uri">https://github.com/type-challenges/type-challenges</a></span></p>
+<p>Collection of TypeScript type challenges with online judge<br />
+Language: TypeScript<br />
+Stars: 32741<br />
+Forks: 3409</p>
+<h3 id="dribbble">Dribbble</h3>
+<h4 id="nature-gives">Nature Gives</h4>
+<p><span style=""><a
+href="https://dribbble.com/shots/21247004"
+class="uri">https://dribbble.com/shots/21247004</a></span></p>
+<h4 id="knight">Knight</h4>
+<p><span style=""><a
+href="https://dribbble.com/shots/21256006"
+class="uri">https://dribbble.com/shots/21256006</a></span></p>
+<h4 id="to-do-list-mobile-app-design">To-Do List Mobile App Design</h4>
+<p><span style=""><a
+href="https://dribbble.com/shots/21236436"
+class="uri">https://dribbble.com/shots/21236436</a></span></p>
+<h4 id="foami">Foami</h4>
+<p><span style=""><a
+href="https://dribbble.com/shots/21237955"
+class="uri">https://dribbble.com/shots/21237955</a></span></p>
+<h4 id="d-printing-website-hero-landing-page-design">3D printing:
+website, hero, landing page design</h4>
+<p><span style=""><a
+href="https://dribbble.com/shots/21221092"
+class="uri">https://dribbble.com/shots/21221092</a></span></p>
+<h4 id="v-logo">V Logo</h4>
+<p><span style=""><a
+href="https://dribbble.com/shots/21183699"
+class="uri">https://dribbble.com/shots/21183699</a></span></p>
+<h4 id="cypress-branding-visual-identity-corporate-brand-design">Cypress
+Branding, visual identity, corporate brand design</h4>
+<p><span style=""><a
+href="https://dribbble.com/shots/21027784"
+class="uri">https://dribbble.com/shots/21027784</a></span></p>
+<h4
+id="marklogic-branding-visual-identity-corporate-brand-design">MarkLogic
+Branding, visual identity, corporate brand design</h4>
+<p><span style=""><a
+href="https://dribbble.com/shots/21028548"
+class="uri">https://dribbble.com/shots/21028548</a></span></p>
+<h4 id="dating-app-design-concept">Dating App Design Concept</h4>
+<p><span style=""><a
+href="https://dribbble.com/shots/21205051"
+class="uri">https://dribbble.com/shots/21205051</a></span></p>
+<h4 id="zelt-case-study">Zelt Case Study</h4>
+<p><span style=""><a
+href="https://dribbble.com/shots/21245621"
+class="uri">https://dribbble.com/shots/21245621</a></span></p>
+<h4 id="solana-saga-branding">Solana Saga Branding</h4>
+<p><span style=""><a
+href="https://dribbble.com/shots/21248507"
+class="uri">https://dribbble.com/shots/21248507</a></span></p>
+<h4 id="gold-feather">GOLD FEATHER</h4>
+<p><span style=""><a
+href="https://dribbble.com/shots/21219964"
+class="uri">https://dribbble.com/shots/21219964</a></span></p>
+<h4 id="vela-web-site-design-landing-page-website-designer">Vela Web
+Site Design landing page website designer</h4>
+<p><span style=""><a
+href="https://dribbble.com/shots/21027386"
+class="uri">https://dribbble.com/shots/21027386</a></span></p>
+<h4 id="proven-website-design">Proven Website Design</h4>
+<p><span style=""><a
+href="https://dribbble.com/shots/21027918"
+class="uri">https://dribbble.com/shots/21027918</a></span></p>
+<h4 id="frog-flower-fly">Frog, Flower &amp; Fly</h4>
+<p><span style=""><a
+href="https://dribbble.com/shots/21205152"
+class="uri">https://dribbble.com/shots/21205152</a></span></p>
+<h4 id="jungle">Jungle</h4>
+<p><span style=""><a
+href="https://dribbble.com/shots/21241091"
+class="uri">https://dribbble.com/shots/21241091</a></span></p>
+<h4 id="revolve---logo-concept-v5">Revolve - Logo Concept v5</h4>
+<p><span style=""><a
+href="https://dribbble.com/shots/21232187"
+class="uri">https://dribbble.com/shots/21232187</a></span></p>
+<h4 id="sneaker-fiend">Sneaker Fiend</h4>
+<p><span style=""><a
+href="https://dribbble.com/shots/21225756"
+class="uri">https://dribbble.com/shots/21225756</a></span></p>
+<h4 id="owl-night">Owl Night</h4>
+<p><span style=""><a
+href="https://dribbble.com/shots/21225618"
+class="uri">https://dribbble.com/shots/21225618</a></span></p>
+<h4 id="clause-brand-identity-illustrations-guide-illustrator">Clause
+Brand identity illustrations guide, illustrator</h4>
+<p><span style=""><a
+href="https://dribbble.com/shots/21027255"
+class="uri">https://dribbble.com/shots/21027255</a></span></p>
+<h4 id="educational-platform-landing-page-design">Educational Platform
+Landing Page Design</h4>
+<p><span style=""><a
+href="https://dribbble.com/shots/21250439"
+class="uri">https://dribbble.com/shots/21250439</a></span></p>
+<h4 id="coinread-mobile-app-design-ios-android-ux-ui-designer">Coinread
+Mobile App design: iOS Android ux ui designer</h4>
+<p><span style=""><a
+href="https://dribbble.com/shots/21028384"
+class="uri">https://dribbble.com/shots/21028384</a></span></p>
+<h4 id="daoway-calendar-app">DaoWay Calendar App</h4>
+<p><span style=""><a
+href="https://dribbble.com/shots/21256031"
+class="uri">https://dribbble.com/shots/21256031</a></span></p>
+<h4 id="designer-profile-landing-page">Designer profile landing
+page</h4>
+<p><span style=""><a
+href="https://dribbble.com/shots/21221314"
+class="uri">https://dribbble.com/shots/21221314</a></span></p>
+<h2 id="developers-zh-hans">Developers (zh-Hans)</h2>
+<h3 id="solidot">Solidot</h3>
+<h4 id="cx-安全事件是双重供应链攻击">3CX 安全事件是双重供应链攻击</h4>
+<p><span style=""><a
+href="https://www.solidot.org/story?sid=74743"
+class="uri">https://www.solidot.org/story?sid=74743</a></span></p>
+<h4 id="chatgpt-每日运营成本超过-70-万美元">ChatGPT 每日运营成本超过 70
+万美元</h4>
+<p><span style=""><a
+href="https://www.solidot.org/story?sid=74742"
+class="uri">https://www.solidot.org/story?sid=74742</a></span></p>
+<h4 id="盗车贼用旧诺基亚手机盗车">盗车贼用旧诺基亚手机盗车</h4>
+<p><span style=""><a
+href="https://www.solidot.org/story?sid=74741"
+class="uri">https://www.solidot.org/story?sid=74741</a></span></p>
+<h4
+id="马斯克声称他自己掏钱给几位名人订阅了-twitter-blue">马斯克声称他自己掏钱给几位名人订阅了
+Twitter Blue</h4>
+<p><span style=""><a
+href="https://www.solidot.org/story?sid=74740"
+class="uri">https://www.solidot.org/story?sid=74740</a></span></p>
+<h4 id="美国农民进口小型日本皮卡">美国农民进口小型日本皮卡</h4>
+<p><span style=""><a
+href="https://www.solidot.org/story?sid=74739"
+class="uri">https://www.solidot.org/story?sid=74739</a></span></p>
+<h4 id="ubuntu-23.04-lunar-lobster释出">Ubuntu 23.04 (Lunar
+Lobster)释出</h4>
+<p><span style=""><a
+href="https://www.solidot.org/story?sid=74738"
+class="uri">https://www.solidot.org/story?sid=74738</a></span></p>
+<h4 id="proton-发布端对端加密密码管理器">Proton
+发布端对端加密密码管理器</h4>
+<p><span style=""><a
+href="https://www.solidot.org/story?sid=74737"
+class="uri">https://www.solidot.org/story?sid=74737</a></span></p>
+<h4 id="华为用自己开发的-erp-系统取代了甲骨文的产品">华为用自己开发的
+ERP 系统取代了甲骨文的产品</h4>
+<p><span style=""><a
+href="https://www.solidot.org/story?sid=74736"
+class="uri">https://www.solidot.org/story?sid=74736</a></span></p>
+<h4
+id="苹果被控在合作名义下剽窃对方创意">苹果被控在合作名义下剽窃对方创意</h4>
+<p><span style=""><a
+href="https://www.solidot.org/story?sid=74735"
+class="uri">https://www.solidot.org/story?sid=74735</a></span></p>
+<h4
+id="宇航员的骨质流失可能与微生物群变化有关">宇航员的骨质流失可能与微生物群变化有关</h4>
+<p><span style=""><a
+href="https://www.solidot.org/story?sid=74734"
+class="uri">https://www.solidot.org/story?sid=74734</a></span></p>
+<h4 id="天文学家估计银河系的质量">天文学家估计银河系的质量</h4>
+<p><span style=""><a
+href="https://www.solidot.org/story?sid=74733"
+class="uri">https://www.solidot.org/story?sid=74733</a></span></p>
+<h4 id="google-重组-ai-研究部门">Google 重组 AI 研究部门</h4>
+<p><span style=""><a
+href="https://www.solidot.org/story?sid=74732"
+class="uri">https://www.solidot.org/story?sid=74732</a></span></p>
+<h4
+id="张文宏建议脆弱人群再次接种新冠疫苗">张文宏建议脆弱人群再次接种新冠疫苗</h4>
+<p><span style=""><a
+href="https://www.solidot.org/story?sid=74731"
+class="uri">https://www.solidot.org/story?sid=74731</a></span></p>
+<h4 id="spacex-starship-完成首次轨道飞行测试">SpaceX Starship
+完成首次轨道飞行测试</h4>
+<p><span style=""><a
+href="https://www.solidot.org/story?sid=74730"
+class="uri">https://www.solidot.org/story?sid=74730</a></span></p>
+<h4 id="csgoak-47-超罕见皮肤卖出了逾-40-万美元">《CS:GO》AK-47
+超罕见皮肤卖出了逾 40 万美元</h4>
+<p><span style=""><a
+href="https://www.solidot.org/story?sid=74729"
+class="uri">https://www.solidot.org/story?sid=74729</a></span></p>
+<h4 id="icann-和-verisign-提议允许任何政府扣押域名">ICANN 和 Verisign
+提议允许任何政府扣押域名</h4>
+<p><span style=""><a
+href="https://www.solidot.org/story?sid=74728"
+class="uri">https://www.solidot.org/story?sid=74728</a></span></p>
+<h4 id="imgur-将从下个月开始禁止上传色情图像">Imgur
+将从下个月开始禁止上传色情图像</h4>
+<p><span style=""><a
+href="https://www.solidot.org/story?sid=74727"
+class="uri">https://www.solidot.org/story?sid=74727</a></span></p>
+<h4 id="在-ai-和-chatgpt-时代大学应该恢复口试">在 AI 和 ChatGPT
+时代大学应该恢复口试</h4>
+<p><span style=""><a
+href="https://www.solidot.org/story?sid=74726"
+class="uri">https://www.solidot.org/story?sid=74726</a></span></p>
+<h4 id="reddit-将对利用其数据训练-ai-收费">Reddit 将对利用其数据训练 AI
+收费</h4>
+<p><span style=""><a
+href="https://www.solidot.org/story?sid=74725"
+class="uri">https://www.solidot.org/story?sid=74725</a></span></p>
+<h4 id="高等教育中女性比例超过半数">高等教育中女性比例超过半数</h4>
+<p><span style=""><a
+href="https://www.solidot.org/story?sid=74724"
+class="uri">https://www.solidot.org/story?sid=74724</a></span></p>
+<h3 id="v2ex">V2EX</h3>
+<h4 id="问与答-国外程序员为何没有-35-岁焦虑症">[问与答]
+国外程序员为何没有 35 岁焦虑症</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934492"
+class="uri">https://www.v2ex.com/t/934492</a></span></p>
+<h4 id="分享发现-教你轻松申请-azure-openai">[分享发现] 教你轻松申请
+Azure OpenAI</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934490"
+class="uri">https://www.v2ex.com/t/934490</a></span></p>
+<h4 id="android-怎样才可以-try-catch-方式捕获到-rxjava-的异常">[Android]
+怎样才可以 try-catch 方式捕获到 RxJava 的异常</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934485"
+class="uri">https://www.v2ex.com/t/934485</a></span></p>
+<h4 id="宽带症候群-每月-500g-1t求推荐-iplc">[宽带症候群] 每月
+500G-1T，求推荐 IPLC</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934482"
+class="uri">https://www.v2ex.com/t/934482</a></span></p>
+<h4
+id="ipv6-部分国内-ipv6-访问出现端口能通但-ssl-握手不回包的奇怪问题">[IPv6]
+部分国内 ipv6 访问出现端口能通，但 ssl 握手不回包的奇怪问题</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934481"
+class="uri">https://www.v2ex.com/t/934481</a></span></p>
+<h4 id="日本-650人-码农留学日本生活-telegram-交流群">[日本] [650+人]
+码农/留学日本生活 Telegram 交流群</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934480"
+class="uri">https://www.v2ex.com/t/934480</a></span></p>
+<h4 id="分享发现-工作无非因备思悟">[分享发现]
+工作无非：因、备、思、悟</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934479"
+class="uri">https://www.v2ex.com/t/934479</a></span></p>
+<h4
+id="iphone-ios-16.4.1-用户感觉微信老在后台被杀有没有兄弟有同样的感觉">[iPhone]
+iOS 16.4.1 用户感觉微信老在后台被杀，有没有兄弟有同样的感觉？</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934478"
+class="uri">https://www.v2ex.com/t/934478</a></span></p>
+<h4 id="openai-求一个靠谱的-chatgpt-分流规则">[OpenAI] 求一个靠谱的
+ChatGPT 分流规则</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934477"
+class="uri">https://www.v2ex.com/t/934477</a></span></p>
+<h4 id="问与答-gpt4-的账号这么贵吗">[问与答] gpt4 的账号这么贵吗？</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934476"
+class="uri">https://www.v2ex.com/t/934476</a></span></p>
+<h4 id="nintendo-switch-有-ns-online-的车么">[Nintendo Switch] 有 NS
+Online 的车么</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934475"
+class="uri">https://www.v2ex.com/t/934475</a></span></p>
+<h4
+id="macbook-pro-m2-pro-macbookpro-14-寸连接红米-4k-无法唤醒">[MacBook
+Pro] m2 pro macbookpro 14 寸连接红米 4k 无法唤醒</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934474"
+class="uri">https://www.v2ex.com/t/934474</a></span></p>
+<h4 id="宽带症候群-移动广州出口还没修好吗">[宽带症候群]
+移动广州出口还没修好吗</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934473"
+class="uri">https://www.v2ex.com/t/934473</a></span></p>
+<h4 id="分享创造-用-golang-写了一个-bing-ai-chat-sdk欢迎试用">[分享创造]
+用 Golang 写了一个 Bing Ai Chat Sdk，欢迎试用😊</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934471"
+class="uri">https://www.v2ex.com/t/934471</a></span></p>
+<h4
+id="问与答-抖音的安卓和-ios-客户端核心功能是用-java-和-objective-c-还是其他技术开发的">[问与答]
+抖音的安卓和 iOS 客户端核心功能是用 Java 和 Objective-C
+还是其他技术开发的？</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934470"
+class="uri">https://www.v2ex.com/t/934470</a></span></p>
+<h4 id="问与答-淄博烧烤真的很好吃吗">[问与答]
+淄博烧烤真的很好吃吗？</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934469"
+class="uri">https://www.v2ex.com/t/934469</a></span></p>
+<h4 id="问与答-求回忆一部动画的名字">[问与答] 求回忆一部动画的名字</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934468"
+class="uri">https://www.v2ex.com/t/934468</a></span></p>
+<h4 id="酷工作-semisand-有了解的吗">[酷工作] semisand 有了解的吗</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934467"
+class="uri">https://www.v2ex.com/t/934467</a></span></p>
+<h4 id="程序员-比较疑惑那种-30gs-的剑皇是哪来的流量">[程序员]
+比较疑惑那种 30G/S 的剑皇是哪来的流量</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934466"
+class="uri">https://www.v2ex.com/t/934466</a></span></p>
+<h4 id="程序员-mac-无法开启-warp-功能的可以这样">[程序员] mac 无法开启
+warp 功能的可以这样</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934465"
+class="uri">https://www.v2ex.com/t/934465</a></span></p>
+<h4 id="vps-月经贴-vps-求推荐">[VPS] 月经贴： vps 求推荐</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934463"
+class="uri">https://www.v2ex.com/t/934463</a></span></p>
+<h4 id="随想-拼多多是不是已经无敌于天下了">[随想]
+拼多多是不是已经无敌于天下了？</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934462"
+class="uri">https://www.v2ex.com/t/934462</a></span></p>
+<h4
+id="酷工作-2023-年-4-月-中东-fintech-公司技术岗求贤若渴非远程">[酷工作]
+[2023 年 4 月] 中东 Fintech 公司技术岗求贤若渴（非远程）</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934460"
+class="uri">https://www.v2ex.com/t/934460</a></span></p>
+<h4 id="macos-mid-journey-发车了">[macOS] Mid-journey 发车了</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934459"
+class="uri">https://www.v2ex.com/t/934459</a></span></p>
+<h4
+id="云计算-国内自建私有云找我免费多云管理找我免费就问你香不香吧那天我成功了就是你们的胜利">[云计算]
+国内自建私有云找我，免费，多云管理找我，免费，就问你香不香吧？那天我成功了，就是你们的胜利。</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934458"
+class="uri">https://www.v2ex.com/t/934458</a></span></p>
+<h4 id="macos-写了一个定位-macbook-键盘按键问题的软件">[macOS]
+写了一个定位 Macbook 键盘按键问题的软件</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934457"
+class="uri">https://www.v2ex.com/t/934457</a></span></p>
+<h4
+id="openai-推荐一下个人认为目前最好用的-chrome-chatgpt-插件">[OpenAI]
+推荐一下个人认为目前最好用的 Chrome ChatGPT 插件</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934456"
+class="uri">https://www.v2ex.com/t/934456</a></span></p>
+<h4 id="ios-shu-文件下架了怎么办">[iOS] Shu 文件下架了怎么办？</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934454"
+class="uri">https://www.v2ex.com/t/934454</a></span></p>
+<h4 id="酷工作-兼职寻找微信小程序以及-web-开发">[酷工作]
+[兼职]寻找微信小程序以及 web 开发</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934453"
+class="uri">https://www.v2ex.com/t/934453</a></span></p>
+<h4 id="问与答-公司生产环境应该如何选购服务器">[问与答]
+公司生产环境应该如何选购服务器？</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934452"
+class="uri">https://www.v2ex.com/t/934452</a></span></p>
+<h4 id="问与答-独立显卡显示网页文字会比集成显卡更清晰吗">[问与答]
+独立显卡显示网页文字会比集成显卡更清晰吗？</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934450"
+class="uri">https://www.v2ex.com/t/934450</a></span></p>
+<h4 id="硬件-组装个-4090-主机大佬们给给意见救救孩子">[硬件] 组装个 4090
+主机，大佬们给给意见，救救孩子</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934449"
+class="uri">https://www.v2ex.com/t/934449</a></span></p>
+<h4
+id="vps-运气真好手动开出一个-oracle-的-arm-服务器那么请问如何保号呢">[VPS]
+运气真好，手动开出一个 oracle 的 arm 服务器，那么请问如何保号呢？</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934448"
+class="uri">https://www.v2ex.com/t/934448</a></span></p>
+<h4 id="问与答-大佬们-pcdn-下架了才知道那玩意竟然能赚钱">[问与答]
+大佬们， pcdn 下架了才知道那玩意竟然能赚钱</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934447"
+class="uri">https://www.v2ex.com/t/934447</a></span></p>
+<h4 id="问与答-通过-tailscale-连接微软远程桌面-3389-丢包严重">[问与答]
+通过 tailscale 连接微软远程桌面 3389 丢包严重</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934446"
+class="uri">https://www.v2ex.com/t/934446</a></span></p>
+<h4 id="问与答-有没有支持命令行调用的在线-ocr-软件">[问与答]
+有没有支持命令行调用的在线 OCR 软件?</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934445"
+class="uri">https://www.v2ex.com/t/934445</a></span></p>
+<h4 id="apple-京东国际自营购买的-macbook-air-踩坑记慎买">[Apple]
+京东国际自营购买的 MacBook Air 踩坑记（慎买）</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934444"
+class="uri">https://www.v2ex.com/t/934444</a></span></p>
+<h4 id="ios-你们的-iphone-会提示无线局域网似乎未接入互联网吗">[iOS]
+你们的 iPhone 会提示”无线局域网似乎未接入互联网”吗？</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934443"
+class="uri">https://www.v2ex.com/t/934443</a></span></p>
+<h4 id="程序员-25k-14-在广州汇丰属于什么级别">[程序员] 25k * 14
+在广州汇丰属于什么级别？</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934442"
+class="uri">https://www.v2ex.com/t/934442</a></span></p>
+<h4 id="问与答-不想当团队-leader如何拒绝">[问与答] 不想当团队
+leader，如何拒绝？</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934441"
+class="uri">https://www.v2ex.com/t/934441</a></span></p>
+<h4 id="路由器-想收个红米-ax6000">[路由器] 想收个红米 ax6000</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934440"
+class="uri">https://www.v2ex.com/t/934440</a></span></p>
+<h4 id="v2ex-发现很多帖子看不了评论的第-2-页">[V2EX]
+发现很多帖子看不了评论的第 2 页</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934439"
+class="uri">https://www.v2ex.com/t/934439</a></span></p>
+<h4
+id="酷工作-快手-电商-23-年春招或者社招-1-2-年经验-简历直推-速来">[酷工作]
+[快手] 电商 23 年春招或者社招 1-2 年经验 简历直推 速来～</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934438"
+class="uri">https://www.v2ex.com/t/934438</a></span></p>
+<h4
+id="宽带症候群-开一个小小的脑洞土炮-iptv实现全楼网络电视">[宽带症候群]
+开一个小小的脑洞：土炮 IPTV，实现全楼网络电视</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934437"
+class="uri">https://www.v2ex.com/t/934437</a></span></p>
+<h4
+id="问与答-各位老哥你们入职新公司的时候会被要求做行测题目吗">[问与答]
+各位老哥，你们入职新公司的时候，会被要求做行测题目吗？</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934436"
+class="uri">https://www.v2ex.com/t/934436</a></span></p>
+<h4
+id="宽带症候群-移动将向全国推广-nat4-移动家宽神话将不复存在">[宽带症候群]
+移动将向全国推广 nat4 移动家宽神话将不复存在</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934435"
+class="uri">https://www.v2ex.com/t/934435</a></span></p>
+<h4 id="surge-surge5-for-mac-招一名乘客-20usd">[Surge] Surge5 for Mac
+招一名乘客 20USD</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934434"
+class="uri">https://www.v2ex.com/t/934434</a></span></p>
+<h4 id="vps-甲骨文有安全刷-arm-服务器的脚本么">[VPS] 甲骨文有安全刷 arm
+服务器的脚本么？</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934433"
+class="uri">https://www.v2ex.com/t/934433</a></span></p>
+<h4
+id="android-miui14-关闭运动权限微信小米运动健康还是能获取到步数">[Android]
+MIUI14 关闭运动权限，微信、小米运动健康还是能获取到步数？</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934432"
+class="uri">https://www.v2ex.com/t/934432</a></span></p>
+<h4 id="问与答-大家有没有非常好用的剃须泡沫推荐">[问与答]
+大家有没有非常好用的剃须泡沫推荐？</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/934431"
+class="uri">https://www.v2ex.com/t/934431</a></span></p>
+<h2 id="generic-news">Generic News</h2>
+<h3 id="ap-news">AP News</h3>
+<h4
+id="fatal-crash-sparks-fire-on-major-connecticut-highway-bridge">Fatal
+crash sparks fire on major Connecticut highway bridge</h4>
+<p><span style=""><a
+href="https://apnews.com/article/5f73b77008ae718f4919646583474e40"
+class="uri">https://apnews.com/article/5f73b77008ae718f4919646583474e40</a></span></p>
+<p>In this photo provided by the Connecticut State Police, massive
+plumes of smoke rise from a fire resulting from crash involving a fuel
+truck and a car on the Gold Star Memorial Bridge in Groton, CT., Friday,
+April 21, 2023. Flames spread...</p>
+<h4 id="vermont-governor-signs-bill-raising-marriage-age-to-18">Vermont
+governor signs bill raising marriage age to 18</h4>
+<p><span style=""><a
+href="https://apnews.com/article/f79af8798cd4f5adfa96fdb15f297275"
+class="uri">https://apnews.com/article/f79af8798cd4f5adfa96fdb15f297275</a></span></p>
+<p>MONTPELIER, Vt. (AP) — A new Vermont law that raises the eligibility
+age for marriage to 18 takes effect in July. Republican Gov. Phil Scott
+signed the legislation on Thursday, making Vermont the eighth state in
+the country to end child...</p>
+<h4
+id="feds-get-first-guilty-plea-in-michigan-marijuana-board-probe">Feds
+get first guilty plea in Michigan marijuana board probe</h4>
+<p><span style=""><a
+href="https://apnews.com/article/d811aa7617dadbe1e8244afd010012db"
+class="uri">https://apnews.com/article/d811aa7617dadbe1e8244afd010012db</a></span></p>
+<p>FILE - Rick Johnson chairs the committee as it meets before a
+capacity crowd in Lansing, Mich., June 26, 2017, at the first open
+meeting of the Michigan Medical Marijuana Board. Federal authorities
+said Thursday, April 6, 2023, that...</p>
+<h4 id="nfl-suspends-5-players-for-violating-gambling-policy">NFL
+suspends 5 players for violating gambling policy</h4>
+<p><span style=""><a
+href="https://apnews.com/article/3dc7890fc340b58ff6fcdd88cb9c939d"
+class="uri">https://apnews.com/article/3dc7890fc340b58ff6fcdd88cb9c939d</a></span></p>
+<p>FILE - Detroit Lions defensive back C.J. Moore (38), on special
+teams, reacts after running out of bounds on a fake punt during the
+second half of an NFL football game against the Los Angeles Rams Sunday,
+Oct. 24, 2021, in Inglewood...</p>
+<h4 id="early-morning-fire-destroys-wing-of-idaho-high-school">Early
+morning fire destroys wing of Idaho high school</h4>
+<p><span style=""><a
+href="https://apnews.com/article/cd0c0edfb2200358590d0b2d301fdb69"
+class="uri">https://apnews.com/article/cd0c0edfb2200358590d0b2d301fdb69</a></span></p>
+<p>In this image taken from video from KIFI Local News 8, firefighters
+work on the scene of an early morning fire at a large high school in
+Pocatello, Idaho, Friday, April 21, 2023. The Pocatello Fire Department
+said the fire at Highland...</p>
+<h4
+id="toronto-fires-nick-nurse-who-led-raptors-to-2019-nba-title">Toronto
+fires Nick Nurse, who led Raptors to 2019 NBA title</h4>
+<p><span style=""><a
+href="https://apnews.com/article/c2b7dc404915ee3ae12fe1a52e589830"
+class="uri">https://apnews.com/article/c2b7dc404915ee3ae12fe1a52e589830</a></span></p>
+<p>Toronto Raptors head coach Nick Nurse directs his team during the
+first half of an NBA basketball game against the Charlotte Hornets in
+Charlotte, N.C., Sunday, April 2, 2023. Toronto won 128-108. (AP
+Photo/Nell Redmond) TORONTO (AP...</p>
+<h4 id="wrexham-and-ryan-reynolds-looking-for-hollywood-ending">Wrexham
+and Ryan Reynolds looking for Hollywood ending</h4>
+<p><span style=""><a
+href="https://apnews.com/article/3ce5b60b2b0dbd88660d2772c8692f39"
+class="uri">https://apnews.com/article/3ce5b60b2b0dbd88660d2772c8692f39</a></span></p>
+<p>FILE - Wrexham owners Ryan Reynolds, center right, and Rob
+McElhenney, center left, react during the National League match between
+Wrexham and Notts County at the Racecourse Ground, Wrexham, Wales,
+Monday April 10, 2023. It...</p>
+<h4 id="dame-edna-actor-barry-humphries-stable-in-sydney-hospital">Dame
+Edna actor Barry Humphries stable in Sydney hospital</h4>
+<p><span style=""><a
+href="https://apnews.com/article/9211136232cdb59be4a08768de4c80a7"
+class="uri">https://apnews.com/article/9211136232cdb59be4a08768de4c80a7</a></span></p>
+<p>Barry Humphries arrives for the Oldie of the Year awards, at
+Simpsons-in-the-Strand, London, on Feb. 2, 2016. Tony Award-winning
+comedian Barry Humphries, renowned for his garish stage persona Dame
+Edna Everage, a condescending and...</p>
+<h4 id="million-apply-for-tickets-for-paris-olympics-in-lottery">4
+million apply for tickets for Paris Olympics in lottery</h4>
+<p><span style=""><a
+href="https://apnews.com/article/ba13450b8854210860cd463db2db36f9"
+class="uri">https://apnews.com/article/ba13450b8854210860cd463db2db36f9</a></span></p>
+<p>Tony Estanguet, president of the Paris 2024 Olympics organizing
+committee, rides a boat down the Seine River on the route that will be
+used for the opening ceremony of the Games, in Paris, Friday, April 14,
+2023. Officials say more than...</p>
+<h4
+id="belgian-foundation-to-exhibit-auctioned-t.-rex-in-antwerp">Belgian
+foundation to exhibit auctioned T. rex in Antwerp</h4>
+<p><span style=""><a
+href="https://apnews.com/article/dcdad6d6c0c5a94bda7b4980a30c5f30"
+class="uri">https://apnews.com/article/dcdad6d6c0c5a94bda7b4980a30c5f30</a></span></p>
+<p>Cyril Koller, CEO of auction house Koller, stands next to the head of
+the skeleton of a Tyrannosaurus rex named Trinity, during an auction in
+Zurich, Switzerland on Tuesday, April 18, 2023. The 293 T. rex bones
+were assembled into a...</p>
+<h4
+id="emily-in-paris-parisians-face-influx-of-netflix-heros-fans">Emily in
+Paris: Parisians face influx of Netflix hero’s fans</h4>
+<p><span style=""><a
+href="https://apnews.com/article/0df557a019cb245013ac399282be8adf"
+class="uri">https://apnews.com/article/0df557a019cb245013ac399282be8adf</a></span></p>
+<p>People walk past the "Modern bakery", Place de dEstrapade, in Paris,
+Wednesday, April 19, 2023. The immense success of the Netflix series
+"Emily in Paris" has transformed a quiet, untouched square in the French
+capital...</p>
+<h4
+id="family-joins-rescued-indian-climber-being-treated-in-nepal">Family
+joins rescued Indian climber being treated in Nepal</h4>
+<p><span style=""><a
+href="https://apnews.com/article/d0dfd2935b31b83a7b82b5a1366e5002"
+class="uri">https://apnews.com/article/d0dfd2935b31b83a7b82b5a1366e5002</a></span></p>
+<p>Family members react as an injured Indian climber Anurag Maloo who
+was rescued from Annapurna region is airlifted to Medicity hospital in
+Kathmandu, Nepal, Thursday, April 20, 2023. The Indian climber who fell
+into a 300-meter (980-foot...</p>
+<h4
+id="toyotas-new-president-vows-to-step-up-electric-vehicle-push">Toyota’s
+new president vows to step up electric vehicle push</h4>
+<p><span style=""><a
+href="https://apnews.com/article/4bf350ee9df04d55815e01901e634040"
+class="uri">https://apnews.com/article/4bf350ee9df04d55815e01901e634040</a></span></p>
+<p>Koji Sato, President of Toyota Motor Co., poses for a photo at
+Toyota’s office in Tokyo, Friday, April 21, 2023. Toyota’s new president
+Sato has promised what he called an aggressive shift on
+“electrification,” while acknowledging...</p>
+<h3 id="reuters">Reuters</h3>
+<h4
+id="russian-troops-fighting-in-western-bakhmut-wagner-frets-over-ukraine-attack">Russian
+troops fighting in western Bakhmut, Wagner frets over Ukraine
+attack</h4>
+<p><span style=""><a
+href="https://www.reuters.com/world/europe/russian-troops-fighting-western-bakhmut-wagner-frets-over-ukraine-attack-2023-04-21/"
+class="uri">https://www.reuters.com/world/europe/russian-troops-fighting-western-bakhmut-wagner-frets-over-ukraine-attack-2023-04-21/</a></span></p>
+<p>A view shows residential buildings damaged by a Russian military
+strike, amid Russias attack on Ukraine, in the front line town of
+Bakhmut, in Donetsk region, Ukraine April 21, 2023. REUTERS/Anna
+Kudriavtseva Russia...</p>
+<h4 id="factbox-worlds-biggest-lithium-producers">Factbox: World’s
+biggest lithium producers</h4>
+<p><span style=""><a
+href="https://www.reuters.com/markets/commodities/worlds-biggest-lithium-producers-2023-04-21/"
+class="uri">https://www.reuters.com/markets/commodities/worlds-biggest-lithium-producers-2023-04-21/</a></span></p>
+<p>A lithium battery is seen at a store that collects electronic waste
+in Santiago, Chile, August 12, 2019. REUTERS/Rodrigo Garrido/File Photo
+An aerial view shows the brine pools and processing areas of the
+Soquimich (SQM) lithium mine on...</p>
+<h4 id="chile-plans-to-nationalize-its-vast-lithium-industry">Chile
+plans to nationalize its vast lithium industry</h4>
+<p><span style=""><a
+href="https://www.reuters.com/markets/commodities/chile-plans-nationalize-its-vast-lithium-industry-2023-04-21/"
+class="uri">https://www.reuters.com/markets/commodities/chile-plans-nationalize-its-vast-lithium-industry-2023-04-21/</a></span></p>
+<p>Summary: Chile to create state-owned lithium company State firm to
+control worlds largest lithium reserves Copper giant Codelco to play key
+role A view of a brine pool of a lithium mine on the Atacama salt flat
+in the...</p>
+<h4
+id="allies-move-to-bolster-ukrainian-tank-forces-ahead-of-counteroffensive">Allies
+move to bolster Ukrainian tank forces ahead of counteroffensive</h4>
+<p><span style=""><a
+href="https://www.reuters.com/world/europe/ukraine-presses-weapons-us-allies-meet-germany-2023-04-21/"
+class="uri">https://www.reuters.com/world/europe/ukraine-presses-weapons-us-allies-meet-germany-2023-04-21/</a></span></p>
+<p>Ukraines Defense Minister Oleksii Reznikov is flanked by his German
+and Polish counterparts Boris Pistorius and Mariusz Blaszczak, at the
+Ukraine Defense Contact group meeting at Ramstein U.S. Air Base,
+Germany, April 21...</p>
+<h4
+id="guantanamo-inmates-showing-signs-of-accelerated-ageing-icrc-says">Guantanamo
+inmates showing signs of ‘accelerated ageing,’ ICRC says</h4>
+<p><span style=""><a
+href="https://www.reuters.com/world/us/guantanamo-inmates-showing-signs-accelerated-ageing-icrc-2023-04-21/"
+class="uri">https://www.reuters.com/world/us/guantanamo-inmates-showing-signs-accelerated-ageing-icrc-2023-04-21/</a></span></p>
+<p>People in orange jumpsuits protest against the U.S. prison at
+Guantanamo Bay, outside of the U.S. Capitol in Washington, U.S., April
+5, 2023. REUTERS/Elizabeth Frantz/File Photo Inmates who have been held
+for years in the Guantanamo Bay U...</p>
+<h4 id="gunmen-ambush-family-in-south-african-homestead-kill-10">Gunmen
+ambush family in South African homestead, kill 10</h4>
+<p><span style=""><a
+href="https://www.reuters.com/world/africa/safrican-police-10-killed-pietermaritzburg-mass-shooting-2023-04-21/"
+class="uri">https://www.reuters.com/world/africa/safrican-police-10-killed-pietermaritzburg-mass-shooting-2023-04-21/</a></span></p>
+<p>A body is moved at the scene of a deadly mass shooting, near
+Pietermaritzburg, South Africa April 21, 2023. REUTERS/Rogan Ward
+Residents look on at the scene of a deadly mass shooting near
+Pietermaritzburg, South Africa April 21, 2023...</p>
+<h4
+id="china-issues-report-that-boeing-sees-as-key-to-restart-737-max-deliveries">China
+issues report that Boeing sees as key to restart 737 MAX deliveries</h4>
+<p><span style=""><a
+href="https://www.reuters.com/business/aerospace-defense/china-issues-report-that-boeing-sees-key-restart-737-max-deliveries-2023-04-21/"
+class="uri">https://www.reuters.com/business/aerospace-defense/china-issues-report-that-boeing-sees-key-restart-737-max-deliveries-2023-04-21/</a></span></p>
+<p>The Boeing 737 MAX aircraft is displayed at the Farnborough
+International Airshow, in Farnborough, Britain, July 20, 2022.
+REUTERS/Peter Cziborra Chinas aviation regulator has published a report
+that Boeing (BA.N) views...</p>
+<h4
+id="as-desantis-stumbles-anti-trump-republicans-fear-a-rerun-in-2024-campaign">As
+DeSantis stumbles, anti-Trump Republicans fear a rerun in 2024
+campaign</h4>
+<p><span style=""><a
+href="https://www.reuters.com/world/us/desantis-stumbles-anti-trump-republicans-fear-rerun-2024-campaign-2023-04-21/"
+class="uri">https://www.reuters.com/world/us/desantis-stumbles-anti-trump-republicans-fear-rerun-2024-campaign-2023-04-21/</a></span></p>
+<p>Florida Governor Ron DeSantis speaks at the 2023 NHGOP Amos Tuck
+Dinner in Manchester, New Hampshire, U.S., April 14, 2023. REUTERS/Brian
+Snyder/File Photo Former U.S. President Donald Trump speaks at the
+National Rifle Association (NRA...</p>
+<h4
+id="explainer-sudans-conflict-and-what-worries-neighbours-the-u.s.-and-others">Explainer:
+Sudan’s conflict and what worries neighbours, the U.S. and others</h4>
+<p><span style=""><a
+href="https://www.reuters.com/world/africa/sudans-conflict-what-worries-neighbours-us-others-2023-04-21/"
+class="uri">https://www.reuters.com/world/africa/sudans-conflict-what-worries-neighbours-us-others-2023-04-21/</a></span></p>
+<p>Smoke rises from burning aircraft inside Khartoum Airport during
+clashes between the paramilitary Rapid Support Forces and the army in
+Khartoum, Sudan April 17, 2023. REUTERS/Stringer A conflict raging in
+Sudan is rattling neighbouring...</p>
+<h4
+id="why-has-dominic-raab-resigned-as-britains-deputy-prime-minister">Why
+has Dominic Raab resigned as Britain’s deputy prime minister?</h4>
+<p><span style=""><a
+href="https://www.reuters.com/world/uk/why-has-british-deputy-prime-minister-dominic-raab-resigned-2023-04-21/"
+class="uri">https://www.reuters.com/world/uk/why-has-british-deputy-prime-minister-dominic-raab-resigned-2023-04-21/</a></span></p>
+<p>Deputy Prime Minister, Lord Chancellor and Secretary of State for
+Justice Dominic Raab gets out of a car on Downing Street ahead of the
+weekly government cabinet meeting, in London, Britain January 31, 2023.
+REUTERS/Peter Nicholls British...</p>
+<h4 id="man-sets-himself-on-fire-in-front-of-us-embassy-in-denmark">Man
+sets himself on fire in front of US embassy in Denmark</h4>
+<p><span style=""><a
+href="https://www.reuters.com/world/europe/man-appears-set-himself-fire-front-us-embassy-copenhagen-danish-police-say-2023-04-21/"
+class="uri">https://www.reuters.com/world/europe/man-appears-set-himself-fire-front-us-embassy-copenhagen-danish-police-say-2023-04-21/</a></span></p>
+<p>Police officers and fire fighters help a 18-year old man who set
+himself on fire in front of the U.S. Embassy in Copenhagen, Denmark
+April 21. 2023. The cause of his action is unknown. Ritzau
+Scanpix/Thomas Sjoerup via REUTERS An 18-year...</p>
+<h4
+id="smart-gun-operating-on-facial-recognition-goes-on-sale-in-u.s.">Smart
+gun operating on facial recognition goes on sale in U.S.</h4>
+<p><span style=""><a
+href="https://www.reuters.com/technology/smart-gun-operating-facial-recognition-goes-sale-us-2023-04-21/"
+class="uri">https://www.reuters.com/technology/smart-gun-operating-facial-recognition-goes-sale-us-2023-04-21/</a></span></p>
+<p>A prototype of the Biofire Smart Gun is seen at Biofire Technologies
+headquarters in Broomfield, Colorado, U.S., April 18, 2022. REUTERS/Matt
+Mills McKnight Kai Kloepfer, CEO and Founder of Biofire Technologies,
+poses for a portrait with...</p>
+<h4 id="russia-crosses-new-lines-in-crackdown-on-putins-enemies">Russia
+crosses new lines in crackdown on Putin’s enemies</h4>
+<p><span style=""><a
+href="https://www.reuters.com/world/europe/russia-crosses-new-lines-crackdown-putins-enemies-2023-04-21/"
+class="uri">https://www.reuters.com/world/europe/russia-crosses-new-lines-crackdown-putins-enemies-2023-04-21/</a></span></p>
+<p>Summary: War crimes charges cement wedge between Putin and West
+Crackdown, years in making, intensifies to new level Highest jail term
+yet for speaking out against war Spy case against U.S. reporter is first
+for decades Former jailed...</p>
+<h3 id="联合早报">联合早报</h3>
+<h4
+id="秦刚中国的土地收回来就绝不会再失去">秦刚：中国的土地收回来就绝不会再失去</h4>
+<p><span style=""><a
+href="https://www.zaobao.com/news/china/story20230422-1385930"
+class="uri">https://www.zaobao.com/news/china/story20230422-1385930</a></span></p>
+<p>秦刚星期五出席在上海举行的”中国式现代化与世界”蓝厅论坛开幕式，并做主旨演讲。（彭博社）
+中国外交部长秦刚重申，“台湾回归中国”是第二次世界大战后国际秩序的组成部分，“中国的土地收回来了，就绝不会再失去”。
+秦刚星期五（4月21日）出席在上海举行的”中国式现代化与世界”蓝厅论坛开幕式，并做主旨演讲……</p>
+<h4
+id="天主教港主教访北京-称信徒爱国是应该-港学者显示正与内地修好关系">天主教港主教访北京
+称信徒爱国是”应该” 港学者：显示正与内地修好关系</h4>
+<p><span style=""><a
+href="https://www.zaobao.com/news/china/story20230422-1385931"
+class="uri">https://www.zaobao.com/news/china/story20230422-1385931</a></span></p>
+<p>正在北京访问的天主教香港教区主教周守仁（左二），4月20日在北京教区主教座堂出席弥撒并讲道。左一为一同上北京的香港教区辅理主教夏志诚，左三为北京教区主教李山。（天主教北京教区弥撒直播截图）
+1997年香港回归中国后，天主教香港教区一直被北京批评立场偏向民主派，双方关系紧张。受访学者认为，周守仁的言论反映天主教香港教区与中国内地的关系正在修好……</p>
+<h4
+id="学者中美中产阶级一壮大一萎缩-是对立导因也可成改善关系切入点">学者：中美中产阶级一壮大一萎缩
+是对立导因也可成改善关系切入点</h4>
+<p><span style=""><a
+href="https://www.zaobao.com/news/china/story20230422-1385932"
+class="uri">https://www.zaobao.com/news/china/story20230422-1385932</a></span></p>
+<p>美国布鲁金斯学会约翰桑顿中国研究中心主任李成认为，中国中产阶级壮大伴随美国中产阶级萎缩，是两国对立加剧的导因之一，但也可能成为改善中美关系的切入点……</p>
+<h4
+id="马英九受邀出席希腊经济论坛-头衔被误植为台北前总统">马英九受邀出席希腊经济论坛
+头衔被误植为”台北”前总统</h4>
+<p><span style=""><a
+href="https://www.zaobao.com/news/china/story20230422-1385933"
+class="uri">https://www.zaobao.com/news/china/story20230422-1385933</a></span></p>
+<p>台湾前总统马英九受邀出席月底于希腊举办的”德尔菲经济论坛”，头衔被误植为”台北”前总统。行政院长陈建仁星期五（4月21日）指出，参加活动应”确保台湾的主权和尊严”。马英九办公室出示邀请函证实是Republic
+of China（中华民国），“请陈院长搞清楚状况”。
+马英九办公室发现主办单位误植头衔后，已向对方反映。马办也肯定台湾外交部主动协助处理的态度，而主办单位已予更正……</p>
+<h4 id="侯友宜从地方-到中央执政">侯友宜从地方 到中央执政？</h4>
+<p><span style=""><a
+href="https://www.zaobao.com/news/china/story20230422-1385934"
+class="uri">https://www.zaobao.com/news/china/story20230422-1385934</a></span></p>
+<p>国民党籍的新北市长侯友宜率团访问新加坡，被广泛解读为选总统起手式。
+媒体最关注他将在狮城会见哪一位政治高层。秘而未宣的行程终于揭晓，新加坡副总理兼财政部长黄循财星期五（4月21日）在脸书公开与侯友宜”老友会面”的照片。
+黄循财被视为总理接班人，从平民和公务员出身转政治领袖，与侯友宜的平民和公务员出身相似。侯友宜2019年首任新北市长后出访新加坡，也曾与时任国家发展部长的黄循财会面……</p>
+<h4 id="中国拟修订反间谍法-完善规定网络间谍行为">中国拟修订反间谍法
+完善规定网络间谍行为</h4>
+<p><span style=""><a
+href="https://www.zaobao.com/news/china/story20230422-1385935"
+class="uri">https://www.zaobao.com/news/china/story20230422-1385935</a></span></p>
+<p>中国将修订反间谍法完善关于网络间谍行为的规定，包括认定间谍组织及其代理人等针对国家机关、涉密单位或者关键信息基础设施等的网络攻击、侵入、干扰、控制、破坏等活动，属于间谍行为……</p>
+<h4 id="中国国际模型博览-观众如入仿真世界">中国国际模型博览
+观众如入仿真世界</h4>
+<p><span style=""><a
+href="https://www.zaobao.com/news/china/story20230422-1385936"
+class="uri">https://www.zaobao.com/news/china/story20230422-1385936</a></span></p>
+<p>第21届中国国际模型博览会星期五（4月21日）在北京展览馆开幕，众多各种类型的模型展品令观众置身仿真世界。图为观众参观中国海军”山东舰”航母战斗群模型……</p>
+<h4 id="从莆田系医院到长峰系医院">从莆田系医院到长峰系医院</h4>
+<p><span style=""><a
+href="https://www.zaobao.com/news/china/story20230422-1385937"
+class="uri">https://www.zaobao.com/news/china/story20230422-1385937</a></span></p>
+<p>北京长峰医院星期二（4月18日）发生大火后，我隔天上午到现场采访火灾的善后情况。“这家医院有名吗？”我询问在医院外围观的一名附近居民，他想了一会儿，意味深长地看着我说：“这就是一家民营医院，赚钱的那种，你懂的。”
+我对这名居民点了点头，但当下并没有完全明白他的意思，因为在不少国家，民营医院让人联想到的是收费高，但医疗服务质量也较高、等候时间较短等，属于正面的印象……</p>
+<h4 id="发改委副主任-林念修传因严重违纪被降级">发改委副主任
+林念修传因”严重违纪”被降级</h4>
+<p><span style=""><a
+href="https://www.zaobao.com/news/china/story20230422-1385938"
+class="uri">https://www.zaobao.com/news/china/story20230422-1385938</a></span></p>
+<p>林念修将于10月满60周岁，达到副部级高官退休年龄。被降级后，林念修实际上已提早退休。（互联网）
+报道引述消息称，林念修因涉不当”男女关系”，大概在半个月前被降级处分，不过这一消息并未得到官方证实。截至星期五（4月21日），林念修在国家发改委官网上仍是排名第一的副主任。
+香港《星岛日报》星期四（4月20日）报道，中国国家发改委副主任林念修因”严重违纪”，被降级为副司级巡视员……</p>
+<h4 id="中蒙俄边境草原大火受控">中蒙俄边境草原大火受控</h4>
+<p><span style=""><a
+href="https://www.zaobao.com/news/china/story20230422-1385939"
+class="uri">https://www.zaobao.com/news/china/story20230422-1385939</a></span></p>
+<p>4月21日，内蒙古自治区森林消防总队发布消息称，20日蔓延至中国内蒙古境内的蒙俄过境草原火灾已初步得到控制。两处火场主要植被以针茅草为主，现场风力6至8级。图为4月20日，内蒙古呼伦贝尔市，消防员奋力扑火。
+（中新社）
+蒙古和俄罗斯境内分别在4月20日中午12时47分和下午1时50分发生草原火灾，下午3时左右蔓延至中国内蒙古自治区呼伦贝尔市的边境地区，两处火场主要植被以为针茅草，现场风力6至8级……</p>
+<h4 id="传台湾吁美勿过度-强调依赖台晶片风险">传台湾吁美勿过度
+强调依赖台晶片风险</h4>
+<p><span style=""><a
+href="https://www.zaobao.com/news/china/story20230422-1385940"
+class="uri">https://www.zaobao.com/news/china/story20230422-1385940</a></span></p>
+<p>由于担忧中国大陆可能入侵台湾的威胁，美国多次表示要减少对台产晶片的依赖，令台湾感到不安。据报台湾官员私下认为，拜登政府官员做得太过火了。
+彭博社星期五（4月21日）引述匿名知情人士报道，台湾官员曾在私下交流中，吁请美国官员降低有关依赖台积电制造晶片风险的论调。
+知情人士称，台湾官员尤其对美国商务部长雷蒙多形容这种依赖”站不住脚”、“不安全”感到不满……</p>
+<h4 id="中国五一境内游火爆-预定量超过2019年水平">中国”五一”境内游火爆
+预定量超过2019年水平</h4>
+<p><span style=""><a
+href="https://www.zaobao.com/news/china/story20230422-1385941"
+class="uri">https://www.zaobao.com/news/china/story20230422-1385941</a></span></p>
+<p>中国”五一”假期临近，多个旅游平台数据显示，今年假期出游的中国大陆境内机票、酒店、景区门票等旅游产品预定火热，订单量更超过2019年冠病疫情前的同期水平。
+据澎湃新闻报道，携程数据显示，中国大陆境内机票搜索热度是2019年同期的110%；境内酒店市场搜索热度较2019年同期增长近两倍……</p>
+<h4 id="美国法院拒绝-郭文贵保释申请">美国法院拒绝 郭文贵保释申请</h4>
+<p><span style=""><a
+href="https://www.zaobao.com/news/china/story20230422-1385942"
+class="uri">https://www.zaobao.com/news/china/story20230422-1385942</a></span></p>
+<p>美国曼哈顿联邦法院星期四（4月20日）拒绝了涉嫌诈骗的中国富商郭文贵的保释申请，原因是证据显示他的潜逃风险极大。
+据路透社报道，被中国政府通缉、外逃到美国的郭文贵因涉嫌诈骗超过10亿美元（约13.5亿新元），今年3月15日在纽约被捕。他3月底申请以2500万美元保外候审时称，自己没有逃跑的风险，“逃离美国更危险”……</p>
+<h4 id="国务院安委会督办-长峰医院火灾查处">国务院安委会督办
+长峰医院火灾查处</h4>
+<p><span style=""><a
+href="https://www.zaobao.com/news/china/story20230422-1385943"
+class="uri">https://www.zaobao.com/news/china/story20230422-1385943</a></span></p>
+<p>北京长峰医院星期二（4月18日）发生的火灾造成29人死亡，中国国务院安全生产委员会决定挂牌督办该起重大事故的查处，并派员参与，帮助指导北京市调查组工作。
+据中国应急管理部官网发布，中国国务院安委会要求，要依照《生产安全事故报告和调查处理条例》等有关法律法规及规章规定，抓紧组织开展事故调查，迅速查明火灾事故原因，严肃追责问责。
+北京长峰医院火灾遇难者中，有26人是住院患者，其中21人为60岁以上……</p>
+<h4 id="台南市前经发局局长-陈凯凌涉受贿被起诉">台南市前经发局局长
+陈凯凌涉受贿被起诉</h4>
+<p><span style=""><a
+href="https://www.zaobao.com/news/china/story20230422-1385944"
+class="uri">https://www.zaobao.com/news/china/story20230422-1385944</a></span></p>
+<p>台南市经济发展局前局长陈凯凌涉嫌收受贿赂案，星期四（4月20日）由台南地方检察署依贪污及洗钱防治条例提起诉讼。
+综合《自由时报》《联合报》等台媒报道，陈凯凌被检举在七股科技工业区开发案中，利用经发局局长职务之名，向从事营建工程的黄姓业者前后收受现金贿赂、喝花酒及性招待等不正当利益近200万元（新台币，下同，约8.7万新元）。他还被控以购屋名义，与建商合议超贷诈得296万元……</p>
+<h4
+id="上海车展揭幕全球1000多企业参展-逾150款新车全球首发">上海车展揭幕全球1000多企业参展
+逾150款新车全球首发</h4>
+<p><span style=""><a
+href="https://www.zaobao.com/news/china/story20230421-1385519"
+class="uri">https://www.zaobao.com/news/china/story20230421-1385519</a></span></p>
+<p>2023年上海车展人头攒动，多家参展商趁热发布新车型。中国电动车品牌比亚迪就在车展期间推出面向高端用户的超级跑车。（陈婧）
+作为今年全球第一场A级车展，为期10天的上海车展预计接待观众超过100万人次，比2021年的上届车展多出20万人次。不少车企希望借疫后展会复苏和政府推动汽车消费等契机带动销量。
+“车多了很多，人多了更多……</p>
+<h4 id="德国车企力争中国市场-高管齐聚上海车展">德国车企力争中国市场
+高管齐聚上海车展</h4>
+<p><span style=""><a
+href="https://www.zaobao.com/news/china/story20230421-1385520"
+class="uri">https://www.zaobao.com/news/china/story20230421-1385520</a></span></p>
+<p>德国头部车企高管纷纷前往上海，出席中国疫情后首个大型车展，其中大众汽车派出整个董事会和100多名员工参展。分析认为，这体现在全球乘用车市场转向电动车之际，德国车企正全力以赴争取中国市场，并应对来自中国同行的挑战……</p>
+<h4
+id="杨莉明新加坡支持重庆及中国与东南亚更广大区域互动">杨莉明：新加坡支持重庆及中国与东南亚更广大区域互动</h4>
+<p><span style=""><a
+href="https://www.zaobao.com/news/china/story20230421-1385521"
+class="uri">https://www.zaobao.com/news/china/story20230421-1385521</a></span></p>
+<p>新加坡通讯及新闻部长兼内政部第二部长杨莉明星期四（4月20日）以视频方式，参加在重庆举行的中新金融峰会并致辞。（王纬温摄）
+新加坡通讯及新闻部长兼内政部第二部长杨莉明表示，在双边合作之外，新加坡也支持重庆及中国与东南亚更广大区域的互动。她指出，亚细安与中国西部同为世界上发展速度最快的地区之一，对金融服务需求巨大；加强金融合作和互联互通，也是促进中国—亚细安经济一体化的重要部分……</p>
+<h4 id="央视批西方炒作人口下降-唱衰中国发展势头">央视批西方炒作人口下降
+唱衰中国发展势头</h4>
+<p><span style=""><a
+href="https://www.zaobao.com/news/china/story20230421-1385522"
+class="uri">https://www.zaobao.com/news/china/story20230421-1385522</a></span></p>
+<p>中国官媒央视新闻发表评论文章，批评西方媒体借中国人口下降、印度超过中国成为人口第一大国之机炒作，唱衰中国发展。
+中国央视网”国际锐评”栏目星期四（4月20日）发表题为《炒作中国人口被印度”超越”，西方又想借题发挥》的评论文章，指西方媒体的潜台词是中国”人口红利”消失后就会衰落，世界经济也会跟着遭殃……</p>
+<h4
+id="越南反对中国在南中国海实施禁渔令">越南反对中国在南中国海实施禁渔令</h4>
+<p><span style=""><a
+href="https://www.zaobao.com/news/china/story20230421-1385523"
+class="uri">https://www.zaobao.com/news/china/story20230421-1385523</a></span></p>
+<p>越南外交部就中国每年在南中国海实施的三个半月禁渔令提出反对，称这侵犯了越南的主权，并敦促中国政府”不要使局势复杂化”。
+据越南通讯社报道，越南外交部副发言人段刻越星期四（4月20日）在例行记者会上，回应有关中国将在5月1日起在南中国海实施”休渔期”的提问时说，越南多年来对这一问题的立场是一贯的，认为该措施侵犯了越南对长沙群岛（中国称西沙群岛）的主权……</p>
+<h4 id="辽宁三高官同日被通报处分">辽宁三高官同日被通报处分</h4>
+<p><span style=""><a
+href="https://www.zaobao.com/news/china/story20230421-1385524"
+class="uri">https://www.zaobao.com/news/china/story20230421-1385524</a></span></p>
+<p>辽宁省纪委监委星期四（4月20日）连发三条通报，辽宁省公安厅原副厅长刘家铎、省机关事务管理局原局长尹国辉被双开（开除党籍和公职），省公安厅原一级巡视员张大旗被开除党籍。
+辽宁省纪委监委官网通报称，对三人的严重违纪违法问题，分别进行立案审查调查。
+现年59岁的刘家铎在辽宁公安系统任职长达37年……</p>
+<h4
+id="韩咏红北京长峰医院大火中的危机应对方式">韩咏红：北京长峰医院大火中的危机应对方式</h4>
+<p><span style=""><a
+href="https://www.zaobao.com/news/china/story20230421-1385525"
+class="uri">https://www.zaobao.com/news/china/story20230421-1385525</a></span></p>
+<p>为政者有维护社会稳定的需要，但是社会享有知情权也是进步的标志……</p>
+<h4
+id="台积电业绩反映全球科技市场低迷-专家无法预测下半年是否止跌回升">台积电业绩反映全球科技市场低迷
+专家：无法预测下半年是否止跌回升</h4>
+<p><span style=""><a
+href="https://www.zaobao.com/news/china/story20230421-1385526"
+class="uri">https://www.zaobao.com/news/china/story20230421-1385526</a></span></p>
+<p>科技电子报Digitimes
+Asia总编辑乌凌翔接受《联合早报》采访时指出，台积电的业绩说明”符合悲观的预期”，没有惊喜或惊吓。他说，台积电海外与本土布局的节奏，已受到国际与两岸局势的牵动。
+台湾积体电路制造公司（台积电）调降全年营收目标，可能面对14年来首度衰退。全年资本支出则维持不变，并准备在本土招募超过6000名新员工。
+受访专家分析，台积电业绩反映全球科技市场需求低迷、前景不明朗……</p>
+<h4 id="柯文哲访美再赴ait-与白宫国安会官员会面">柯文哲访美再赴AIT
+与白宫国安会官员会面</h4>
+<p><span style=""><a
+href="https://www.zaobao.com/news/china/story20230421-1385527"
+class="uri">https://www.zaobao.com/news/china/story20230421-1385527</a></span></p>
+<p>正在访美的台湾民众党主席柯文哲于美东时间星期三（4月19日）前往美国在台协会（AIT），与美国政府部门行政官员会面，他对媒体脱口透露，会面对象有白宫国安会官员。
+综合《联合报》与《自由时报》报道，柯文哲在AIT总部所在大楼与美方官员会晤约一个小时。他在会谈后受访时被问及会面官员层级，脱口称包括”国安会”后，被一旁的幕僚提醒是”高层”，才改口说”只是跟美国高层谈一谈”……</p>
+</div>
+
+<div class="bigpart" id="js-preFooter-container">
+</div>
+<div class="bigpart">
+    <footer>
+        <p>Copyright &copy; 2023-04-22 Neruthes and other contributors.</p>
+        <p>This document is published with CC BY-NC-ND 4.0 license.</p>
+        <p>The entries listed in this newsletter may be copyrighted by their respective creators.</p>
+        <p>This newsletter is generated by the Web Digest project.</p>
+        <p>The newsletters are also delivered via Telegram channel <a
+                href="https://t.me/webdigestchannel">https://t.me/webdigestchannel</a>.
+        </p>
+        <p>RSS feed is available at <a
+                href="https://webdigest.pages.dev/rss.xml">https://webdigest.pages.dev/rss.xml</a>.
+        </p>
+        <p>Official website of the Web Digest project:
+            <a href="https://webdigest.pages.dev/">https://webdigest.pages.dev</a>.
+        </p>
+        <p>The source code being used to generate this newsletter is available at<br>
+            <a href="https://github.com/neruthes/webdigest">https://github.com/neruthes/webdigest</a>.
+        </p>
+        <p>
+            <script>document.write(document.querySelector('#topnav').innerHTML);</script>
+        </p>
+    </footer>
+</div>
+</div>
+
+
+
+</body>
+
+</html>

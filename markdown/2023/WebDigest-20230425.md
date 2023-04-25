@@ -1,0 +1,1037 @@
+Other formats: [PDF](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/webdigest/WebDigest-20230425.pdf--e582ad6671c25815ad0613af333fc92e.pdf) / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20230425.html)
+
+
+# Web Digest 2023-04-25
+
+
+## Developers
+
+### Hacker News
+
+#### OpenAI has applied for "GPT" trademark with USPTO
+
+https://tmsearch.uspto.gov/bin/showfield?f=doc&state=4802:jtelqq.2.16
+
+https://news.ycombinator.com/item?id=35692476
+
+#### Apple wins antitrust court battle with Epic Games, appeals court rules
+
+https://techcrunch.com/2023/04/24/apple-wins-antitrust-court-battle-with-epic-games-appeals-court-rules/
+
+https://news.ycombinator.com/item?id=35691771
+
+#### 1Password to Add Telemetry
+
+https://blog.1password.com/privacy-preserving-app-telemetry/
+
+https://news.ycombinator.com/item?id=35691383
+
+#### 'Delete Act' seeks to give Californians more power to block data tracking
+
+https://www.kqed.org/news/11947039/delete-act-seeks-to-give-californians-more-power-to-block-data-tracking
+
+https://news.ycombinator.com/item?id=35691243
+
+#### The Great Electrician Shortage
+
+https://www.newyorker.com/news/dept-of-energy/the-great-electrician-shortage
+
+https://news.ycombinator.com/item?id=35690421
+
+#### Google Authenticator now supports Google Account synchronization
+
+https://security.googleblog.com/2023/04/google-authenticator-now-supports.html
+
+https://news.ycombinator.com/item?id=35690398
+
+#### Statement on EU-US Cooperation on Turning Public Opinion Against Encryption
+
+https://www.globalencryption.org/2023/04/statement-on-eu-us-cooperation-against-encryption/
+
+https://news.ycombinator.com/item?id=35689044
+
+#### Tom Lesley has published 40 books in 2023, all with 100% positive reviews
+
+https://www.amazon.com/s?k=%22tom+lesley%22
+
+https://news.ycombinator.com/item?id=35687868
+
+#### Red Hat cutting hundreds of jobs, CEO says in letter to employees
+
+https://wraltechwire.com/2023/04/24/red-hat-cutting-hundreds-of-jobs-ceo-says-in-letter-to-employees/
+
+https://news.ycombinator.com/item?id=35687687
+
+#### Improbably Right
+
+https://mlajtos.mu/posts/improbably-right
+
+https://news.ycombinator.com/item?id=35687292
+
+#### Bullet Train -- Rails-based SaaS framework
+
+https://bullettrain.co/
+
+https://news.ycombinator.com/item?id=35687157
+
+#### UK Threatens End-to-End Encryption
+
+https://www.schneier.com/blog/archives/2023/04/uk-threatens-end-to-end-encryption.html
+
+https://news.ycombinator.com/item?id=35686450
+
+#### Remote work brings hidden penalty for young professionals, study says
+
+https://www.nytimes.com/2023/04/24/business/remote-work-feedback.html
+
+https://news.ycombinator.com/item?id=35686121
+
+#### LVMH becomes the first European company to surpass \$500B in market value
+
+https://www.cnbc.com/2023/04/24/lvmh-becomes-the-first-european-company-surpass-500-billion-in-value.html
+
+https://news.ycombinator.com/item?id=35685721
+
+#### Deleting System32.exe
+
+https://daniel.haxx.se/blog/2023/04/24/deleting-system32curl-exe/
+
+https://news.ycombinator.com/item?id=35685635
+
+#### Tesla tries to get owners to give up 'unlimited free Supercharging for life'
+
+https://electrek.co/2023/04/24/tesla-triesowners-give-up-unlimited-free-supercharging-for-life/
+
+https://news.ycombinator.com/item?id=35685560
+
+#### The Geomagnetic Storm Continues
+
+https://www.swpc.noaa.gov/news/geomagnetic-storm-continues
+
+https://news.ycombinator.com/item?id=35685518
+
+#### Keep the monolith, but split the workloads
+
+https://incident.io/blog/monolith
+
+https://news.ycombinator.com/item?id=35684874
+
+#### MouthPad -- In-Mouth Bluetooth Mouse Uses Tongue Sensitive Trackpad
+
+https://www.augmental.tech/
+
+https://news.ycombinator.com/item?id=35684828
+
+#### I don't want to sign up for your newsletter (2018)
+
+https://www.katsnyderux.com/post/no-i-don-t-want-to-sign-up-for-your-newsletter-horrible-uses-of-exit-overlays
+
+https://news.ycombinator.com/item?id=35684807
+
+### Phoronix
+
+#### Debian Fixes Secure Boot For 64-bit ARM After Being Broken For Two Years
+
+https://www.phoronix.com/news/Debian-ARM64-Secure-Boot-Fix
+
+#### AMD Guided Autonomous Mode Submitted For Linux 6.4
+
+https://www.phoronix.com/news/AMD-Guided-Auto-Mode-Linux-6.4
+
+#### Fedora 39 Looks To Boost vm.max_map_count To Help Windows Games With Steam Play
+
+https://www.phoronix.com/news/Fedora-39-VM-Max-Map-Count
+
+#### Linux 6.4 Allows For Optional CA Enforcement Of The Machine Keyring
+
+https://www.phoronix.com/news/Linux-6.4-CA-Enforce-MOK-Keys
+
+#### Red Hat Begins Cutting \"Hundreds Of Jobs\"
+
+https://www.phoronix.com/news/Red-Hat-Layoffs
+
+#### 3Dfx Voodoo 1 & 2 Glide Linux Driver Retired, Other X.Org Code Officially Retired
+
+https://www.phoronix.com/news/X.Org-Retired-Packages-2023
+
+#### SELinux In Linux 6.4 Removes Run-Time Disabling Support
+
+https://www.phoronix.com/news/SELinux-No-More-Runtime-Disable
+
+#### Improved AMD Color Management Being Worked On For The Steam Deck
+
+https://www.phoronix.com/news/AMD-Color-Steam-Deck
+
+#### Kdenlive 23.04 Open-Source Video Editor Released With Nested Timelines
+
+https://www.phoronix.com/news/Kdenlive-23.04-Released
+
+### GitHub
+
+#### sindresorhus/awesome
+
+https://github.com/sindresorhus/awesome
+
+😎 Awesome lists about all kinds of interesting topics\
+Language: Unknown\
+Stars: 250497\
+Forks: 25442
+
+#### TheRamU/Fay
+
+https://github.com/TheRamU/Fay
+
+Fay是一个完整的开源项目，包含Fay控制器及数字人模型，可灵活组合出不同的应用场景：虚拟主播、现场推销货、商品导购、语音助理、远程语音助理、数字人互动、数字人面试官及心理测评、贾维斯、Her。
+开源项目，非产品试用！！！\
+Language: JavaScript\
+Stars: 1391\
+Forks: 301
+
+#### zhayujie/chatgpt-on-wechat
+
+https://github.com/zhayujie/chatgpt-on-wechat
+
+Wechat robot based on ChatGPT, which using OpenAI api and itchat
+library. 使用ChatGPT搭建微信聊天机器人，基于GPT3.5/4.0
+API和itchat实现，能处理文本、语音和图片，访问操作系统和互联网。\
+Language: Python\
+Stars: 9825\
+Forks: 2428
+
+#### tamagui/tamagui
+
+https://github.com/tamagui/tamagui
+
+a better universal ui system\
+Language: TypeScript\
+Stars: 5533\
+Forks: 211
+
+#### BloopAI/bloop
+
+https://github.com/BloopAI/bloop
+
+bloop is a fast code search engine written in Rust.\
+Language: TypeScript\
+Stars: 4612\
+Forks: 222
+
+### Dribbble
+
+#### Nature Gives
+
+https://dribbble.com/shots/21247004
+
+#### Knight
+
+https://dribbble.com/shots/21256006
+
+#### To-Do List Mobile App Design
+
+https://dribbble.com/shots/21236436
+
+#### Foami
+
+https://dribbble.com/shots/21237955
+
+#### Cypress Branding, visual identity, corporate brand design
+
+https://dribbble.com/shots/21027784
+
+#### MarkLogic Branding, visual identity, corporate brand design
+
+https://dribbble.com/shots/21028548
+
+#### Zelt Case Study
+
+https://dribbble.com/shots/21245621
+
+#### Solana Saga Branding
+
+https://dribbble.com/shots/21248507
+
+#### DaoWay Calendar App
+
+https://dribbble.com/shots/21256031
+
+#### Damn Good Script
+
+https://dribbble.com/shots/21258552
+
+#### Jungle
+
+https://dribbble.com/shots/21241091
+
+#### Proven Website Design
+
+https://dribbble.com/shots/21027918
+
+#### Revolve - Logo Concept v5
+
+https://dribbble.com/shots/21232187
+
+#### Coinread Mobile App design: iOS Android ux ui designer
+
+https://dribbble.com/shots/21028384
+
+#### Educational Platform Landing Page Design
+
+https://dribbble.com/shots/21250439
+
+#### Iron, The Pumping Thereof
+
+https://dribbble.com/shots/21232505
+
+#### Wonder Dynamics Logo Concept
+
+https://dribbble.com/shots/21257567
+
+#### Ladders & Light
+
+https://dribbble.com/shots/21260741
+
+#### Brainwave -- AI iOS UI Kit -- Dark mode
+
+https://dribbble.com/shots/21229508
+
+#### Hypebet
+
+https://dribbble.com/shots/21260539
+
+#### Credit Carma - Financial Insights Platform
+
+https://dribbble.com/shots/21237774
+
+#### Logistics Mobile App design: iOS Android ux ui designer
+
+https://dribbble.com/shots/21027842
+
+#### Tumblr Cat Icon
+
+https://dribbble.com/shots/21255942
+
+#### Briefs Table View 🔖
+
+https://dribbble.com/shots/21273351
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### 当 Windows 用户在恐慌下删除 system32.exe
+
+https://www.solidot.org/story?sid=74771
+
+#### 高中教师和他的开源图像数据集
+
+https://www.solidot.org/story?sid=74770
+
+#### 计算机科学家认为不应神化 AI
+
+https://www.solidot.org/story?sid=74769
+
+#### 英特尔驱动程序 bug 导致 I219-LM Gigabit Ethernet 适配器在特定模式下以六成速率运行
+
+https://www.solidot.org/story?sid=74768
+
+#### 比特币不再具有匿名性
+
+https://www.solidot.org/story?sid=74767
+
+#### 微塑料能进入大脑
+
+https://www.solidot.org/story?sid=74766
+
+#### Linux 6.3 kernel 释出
+
+https://www.solidot.org/story?sid=74765
+
+#### 苏丹断网
+
+https://www.solidot.org/story?sid=74764
+
+#### 科学家创造至今最重的"薛定谔的猫"
+
+https://www.solidot.org/story?sid=74763
+
+#### 盖茨预言 AI 在 18 个月内能教儿童阅读和写作
+
+https://www.solidot.org/story?sid=74762
+
+#### ARM 将制造自己的芯片
+
+https://www.solidot.org/story?sid=74761
+
+#### MSI Afterburner 时隔一年多发布新版
+
+https://www.solidot.org/story?sid=74760
+
+#### 安眠药降低了阿尔茨海默病关键蛋白质水平
+
+https://www.solidot.org/story?sid=74759
+
+#### Stack Overflow 将对使用其数据训练 AI 收费
+
+https://www.solidot.org/story?sid=74758
+
+#### Chromebook 不耐用
+
+https://www.solidot.org/story?sid=74757
+
+#### 更温暖的星球，营养物质更少的植物，更少的昆虫
+
+https://www.solidot.org/story?sid=74756
+
+#### 2015-2022 年是有记录以来最暖的八年
+
+https://www.solidot.org/story?sid=74755
+
+#### 生物年龄在压力下增加也能通过缓解压力恢复
+
+https://www.solidot.org/story?sid=74754
+
+#### 美国国土安全部研究如何使用 AI
+
+https://www.solidot.org/story?sid=74753
+
+#### iOS 17 的应用侧载支持可能只提供给欧盟用户
+
+https://www.solidot.org/story?sid=74752
+
+### V2EX
+
+#### \[Google\] Google Bard 更新，支持代码编写了，包括 JavaScript, Python , SQL, TypeScript 等 20 多种语言
+
+https://www.v2ex.com/t/935221
+
+#### \[macOS\] vscode 有什么好用 svn 插件
+
+https://www.v2ex.com/t/935219
+
+#### \[分享创造\] \[开源自荐\] serve-then，子进程启动静态服务，然后可以对其进行测试或者其他操作
+
+https://www.v2ex.com/t/935218
+
+#### \[Android\] S22 or Pixel 5
+
+https://www.v2ex.com/t/935217
+
+#### \[程序员\] 编程遇见瓶颈，求指点迷津
+
+https://www.v2ex.com/t/935216
+
+#### \[随想\] 我们不能随便生气
+
+https://www.v2ex.com/t/935215
+
+#### \[奇思妙想\] 一种低成本对外提供服务的方案
+
+https://www.v2ex.com/t/935214
+
+#### \[程序员\] github copilot X 的免费竞品
+
+https://www.v2ex.com/t/935213
+
+#### \[程序员\] 原以为这个客户很专业，没想到他说:后端没多少工作量。
+
+https://www.v2ex.com/t/935212
+
+#### \[问与答\] 疯了！把系统完全加载入 cpu 缓存，吊打 ramos
+
+https://www.v2ex.com/t/935211
+
+#### \[Python\] Taichi 计算加速
+
+https://www.v2ex.com/t/935210
+
+#### \[NAS\] 有人给 HP MS Gen8 的 PSU 换过风扇吗？
+
+https://www.v2ex.com/t/935209
+
+#### \[上海\] 同城的滴滴
+
+https://www.v2ex.com/t/935208
+
+#### \[问与答\] 安装 Python 包的正确姿势是什么?
+
+https://www.v2ex.com/t/935207
+
+#### \[问与答\] 请教下 duckdns 的问题
+
+https://www.v2ex.com/t/935206
+
+#### \[VPS\] 新人想请问想搭个代理，同时跑一些 py 脚本最实惠的 vps 是什么呀？
+
+https://www.v2ex.com/t/935205
+
+#### \[Google\] Google Authenticator 可以备份到 Google 账号了
+
+https://www.v2ex.com/t/935204
+
+#### \[问与答\] 为啥 Windows 没有类似 Docker 的技术，大家难道都用 Hyper-V 吗？
+
+https://www.v2ex.com/t/935203
+
+#### \[ACG\] 原神为什么会这么火？十几年二次元昨天第一次玩，感觉这游戏毫无创新，玩了半小时就腻了
+
+https://www.v2ex.com/t/935202
+
+#### \[问与答\] 在一些电报群了解到的事情，惊掉下巴
+
+https://www.v2ex.com/t/935200
+
+#### \[掌机\] 不知道萬信 GAMEBOY 是不是山寨產品
+
+https://www.v2ex.com/t/935199
+
+#### \[分享创造\] 有没有产品经理小伙伴一起搞事情？
+
+https://www.v2ex.com/t/935198
+
+#### \[北京\] 北京联通工行卡 19 元访问头条系免流量，但实际免了又没完全免
+
+https://www.v2ex.com/t/935197
+
+#### \[问与答\] 关于 api 调用的问题
+
+https://www.v2ex.com/t/935196
+
+#### \[程序员\] 商标还没提交注册就在软件产品中使用有被抢注风险吗？
+
+https://www.v2ex.com/t/935195
+
+#### \[程序员\] 我用写了一个 AI 英语外教
+
+https://www.v2ex.com/t/935194
+
+#### \[OpenWrt\] 为何 WPS2 的 wifi 完全无法用 reaver 破解？
+
+https://www.v2ex.com/t/935193
+
+#### \[酷工作\] \[不加班\]-\[外企 华侨永亨银行\] 上海/深圳大量招聘 8 年以上 资深 全栈工程师!
+
+https://www.v2ex.com/t/935192
+
+#### \[职场话题\] 谈薪时 hr 没有说我要高了，反手给我 offer 取消了
+
+https://www.v2ex.com/t/935191
+
+#### \[程序员\] 有软件可以实现在 Windows 上安装软件时必须输入密码才能安装吗
+
+https://www.v2ex.com/t/935190
+
+#### \[分享发现\] VistualCall 一个生成调用图谱的 gem
+
+https://www.v2ex.com/t/935189
+
+#### \[前端开发\] 最近都有哪些公司在招聘前端开发？
+
+https://www.v2ex.com/t/935188
+
+#### \[问与答\] 帮人代持期权有什么风险吗？
+
+https://www.v2ex.com/t/935186
+
+#### \[宽带症候群\] 福建联通家用宽带可以开通 9929 吗？
+
+https://www.v2ex.com/t/935185
+
+#### \[问与答\] 请问目前过港开帐户的情况
+
+https://www.v2ex.com/t/935183
+
+#### \[JavaScript\] CSS To Tailwind - 实时将 CSS 代码转换为 Tailwindcss 语法
+
+https://www.v2ex.com/t/935182
+
+#### \[NAS\] NAS 备份恢复讨论
+
+https://www.v2ex.com/t/935181
+
+#### \[Apple\] Mac 上有什么推荐的翻墙软件？
+
+https://www.v2ex.com/t/935180
+
+#### \[macOS\] macOS 下格式化新 SSD 非常慢
+
+https://www.v2ex.com/t/935179
+
+#### \[优惠信息\] 有人想买钉钉卡吗
+
+https://www.v2ex.com/t/935178
+
+#### \[问与答\] 求推荐一款轻薄本
+
+https://www.v2ex.com/t/935177
+
+#### \[程序员\] 有大佬知道如何屏蔽飞书已读嘛？
+
+https://www.v2ex.com/t/935176
+
+#### \[问与答\] 咨询二手空调保修相关问题
+
+https://www.v2ex.com/t/935175
+
+#### \[问与答\] 淘宝订单搜索出问题了吗？
+
+https://www.v2ex.com/t/935173
+
+#### \[互联网\] 几年没去中国了，听说现在有个反诈软件，想问一些问题，多谢
+
+https://www.v2ex.com/t/935171
+
+#### \[分享发现\] 关于死亡的思考
+
+https://www.v2ex.com/t/935170
+
+#### \[酷工作\] Autodesk 欧特克上海多岗位招聘， 955 混合办公，福利待遇超高
+
+https://www.v2ex.com/t/935169
+
+#### \[程序员\] 1.1.1.1 启动不了的可以试试自选脚本
+
+https://www.v2ex.com/t/935168
+
+#### \[MacBook Pro\] 转做独立开发者了、想买 macbook pro 、m1 还是 m2 好，要 32g 内存的，哪里买最便宜
+
+https://www.v2ex.com/t/935167
+
+#### \[NAS\] 有惊无险『修』NAS，顺带一提想换新
+
+https://www.v2ex.com/t/935166
+
+## Generic News
+
+### AP News
+
+#### Severe solar storm creates dazzling auroras farther south
+
+https://apnews.com/article/9a3399d88ec0e14293f06e77d61099c4
+
+An aurora borealis, also known as the northern lights, is seen in the
+night sky in the early morning hours of Monday, April 24, 2023, near
+Washtucna, Wash. An intense solar storm has the aurora borealis gracing
+the skies farther south\...
+
+#### 'Dancing With the Stars' judge Len Goodman dies at 78
+
+https://apnews.com/article/3202b3512776199678dbd821cf48f040
+
+FILE - From left, judges Craig Revel Horwood, Len Goodman and Bruno
+Tonioli gesture, during the final dress rehearsal for the opening of the
+Strictly Come Dancing Live Tour at the NIA, Birmingham\...
+
+#### Did Ed Sheeran hit pilfer Marvin Gaye classic? Trial to tell
+
+https://apnews.com/article/3f4f9f00ffcaa8dd8d9c6f51872e7285
+
+FILE - Ed Sheeran performs at Z100s iHeartRadio Jingle Ball on Dec. 10,
+2021, in New York. Jury selection and opening statements are expected to
+begin Monday, April 24, 2023, in a trial that mashes up Ed Sheeran\...
+
+#### Morgan Wallen cancels Ole Miss show after losing his voice
+
+https://apnews.com/article/6fc8f905d06b67ebd7ad120a157d8448
+
+FILE - Morgan Wallen performs on the first night of the 2022 iHeartRadio
+Music Festival, on Sept. 23, 2022, in Las Vegas. Thousands of country
+music fans were awaiting the singer when he suddenly canceled his
+performance Sunday night\...
+
+#### SeaWorld euthanizes sick sea lion found on San Diego freeway
+
+https://apnews.com/article/5e787fdfaad0187e681f91f32608bef3
+
+SAN DIEGO (AP) --- Freeway, the sea lion rescued after wandering inland
+from his ocean home and crossing busy San Diego thoroughfares, has been
+euthanized after falling ill. The sea lion earned his name in January
+2022 after being found\...
+
+#### NBCUniversal CEO Shell departs over 'inappropriate conduct'
+
+https://apnews.com/article/07bad3ee36d0eef660de9282cb88dcba
+
+FILE - Jeff Shell poses for a picture at the 2014 LAs Promise Gala,
+Tuesday, Sept. 30, 2014, in Universal City, Calif. Shell, the chief
+executive of NBCUniversal, is departing the company after an
+investigation into\...
+
+#### Lizzo brings drag queens on stage, protesting Tennessee law
+
+https://apnews.com/article/c73bc8f777b28148dea90a3cca347701
+
+FILE - Lizzo arrives at the 65th annual Grammy Awards on Feb. 5, 2023,
+in Los Angeles. In a concert Friday, April 21, 2023 in Knoxville, Tenn.,
+Lizzo filled the stage with drag queens in a glittery protest against
+the state\...
+
+#### Bird strike sparks plane engine fire shortly after takeoff
+
+https://apnews.com/article/83ad8ab9bb47edb321be9bbf75289f0c
+
+COLUMBUS, Ohio (AP) --- A bird strike sparked an engine fire on a plane
+shortly after it took off Sunday from an Ohio airport, and the airliner
+returned safely with no injuries reported, authorities said. American
+Airlines flight 1958 had\...
+
+#### Gunfire took their son at 20. Now it takes his daughter, 12
+
+https://apnews.com/article/74173049450d4915c71a25dc1b0c9f5c
+
+This image provided by Jeremy Stein shows Hartford Mayor Luke Bronin
+addressing a crowd gathering for a vigil on Saturday, April 22, 2023, on
+the same street where SeCret Pierce, 12, was shot in the head by a stray
+bullet\...
+
+#### Wahoo! 'The Super Mario Bros. Movie' is No. 1 for third week
+
+https://apnews.com/article/5fff8c44f66627fa49fa4a630441fb26
+
+Jack Black arrives at the premiere of \"The Super Mario Bros. Movie,\"
+Saturday, April 1, 2023, at Regal LA Live in Los Angeles. (Photo by
+Allison Dinner/Invision/AP) NEW YORK (AP) --- "The Super Mario Bros.
+Movie" continued to rack up\...
+
+#### Ex-Disney employee allegedly shot videos up women's skirts
+
+https://apnews.com/article/104cd805bbec63cc94adb27a7a0c5d65
+
+Cinderella Castle stands at the Magic Kingdom, at Walt Disney World, in
+Lake Buena Vista, Fla., Monday, April 3, 2023. (Joe Burbank/Orlando
+Sentinel via AP) ORLANDO, Fla. (AP) --- A former Walt Disney World
+employee is facing a charge\...
+
+#### Dying patients protest looming telehealth crackdown
+
+https://apnews.com/article/a6d5a0d3e923760f77cd246ea1927dd1
+
+Georgene White stands for a portrait with a photo of her mother, Teri
+Sheridan, in Belvidere, N.J., Thursday, April 20, 2023. At age 93,
+struggling with the effects of a stroke, heart failure and recurrent
+cancer, Sheridan was ready to\...
+
+#### 39 bodies dug up in cult investigation of pastor in Kenya
+
+https://apnews.com/article/2a3dfeea30df8b841391bd5f1ef36783
+
+Police and local residents load the exhumed bodies of victims of a
+religious cult into the back of a truck in the village of Shakahola,
+near the coastal city of Malindi, in southeastern Kenya Sunday, April
+23, 2023. Dozens of bodies have\...
+
+### Reuters
+
+#### Exclusive: Chile to start lithium talks with SQM by mid-year to boost state control
+
+https://www.reuters.com/markets/commodities/chile-start-lithium-negotiations-with-sqm-this-semester-2023-04-24/
+
+An aerial view shows the brine pools and processing areas of the
+Soquimich (SQM) lithium mine on the Atacama salt flat in the Atacama
+desert of northern Chile, January 10, 2013.REUTERS/Ivan Alvarado Chile
+will start talks with SQM (SQMA\...
+
+#### UK warns China secrecy over military expansion risks 'tragic miscalculation'
+
+https://www.reuters.com/world/china/uk-warns-china-secrecy-over-military-expansion-risks-tragic-miscalculation-2023-04-24/
+
+A worker adjusts British and China (R) national flags on display for a
+signing ceremony at the seventh UK-China Economic and Financial Dialogue
+\"Roundtable on Public-Private Partnerships\" at Diaoyutai State
+Guesthouse in Beijing, China\...
+
+#### US says Sudan factions agree to ceasefire as foreigners evacuated
+
+https://www.reuters.com/world/africa/countries-rush-sudan-evacuations-fearful-violence-rocking-khartoum-2023-04-24/
+
+Summary: U.N.s Guterres urges Security Council to intervene Warns
+conflict could engulf whole region and beyond At least 427 people killed
+since fighting began on April 15 Foreign\...
+
+#### Michael Cohen seeks damages from Trump, U.S. over prison return
+
+https://www.reuters.com/world/us/michael-cohen-seeks-damages-trump-us-over-prison-return-2023-04-24/
+
+Michael Cohen, former attorney for former U.S. President Donald Trump,
+arrives to the New York Courthouse in New York City, U.S., March 13,
+2023. REUTERS/Eduardo Munoz Michael Cohen on Monday asked a U.S. appeals
+court to revive his\...
+
+#### Exclusive: Biden would veto legislation to block solar tariff waivers
+
+https://www.reuters.com/world/us/biden-veto-legislation-block-solar-tariff-waivers-officials-2023-04-24/
+
+Two employees of SPCG, Thailands largest solar farm producer, walk
+between panels at the farm in Korat, Nakorn Ratchasima province, October
+3, 2013. REUTERS/Athit Perawongmetha U.S. President Joe Biden will
+veto\...
+
+#### Death toll in Kenyan starvation cult rises to 73 - police
+
+https://www.reuters.com/world/africa/death-toll-kenyan-starvation-cult-rises-58-police-2023-04-24/
+
+Summary: Exhumations to resume on Tuesday President Ruto calls cult
+leader \"terrible criminal\" Body bags are seen arranged as forensic
+experts and homicide detectives exhume bodies of suspected members of a
+Christian cult named as Good\...
+
+#### CNN host Don Lemon says TV network fired him
+
+https://www.reuters.com/business/media-telecom/cnn-host-don-lemon-says-television-network-fired-him-2023-04-24/
+
+CNNs Don Lemon during a televised townhall with Democratic 2020 U.S.
+presidential candidate Senator Amy Klobuchar (D-MN) on CNN dedicated to
+LGBTQ issues in Los Angeles, California, U.S. October 10, 2019.
+REUTERS/Mike\...
+
+#### Fox News, Tucker Carlson part ways days after Dominion lawsuit settlement
+
+https://www.reuters.com/business/media-telecom/fox-news-media-tucker-carlson-part-ways-2023-04-24/
+
+Fox personality Tucker Carlson speaks at the 2017 Business Insider
+Ignition: Future of Media conference in New York, U.S., November 30,
+2017. REUTERS/Lucas Jackson Fox News Media and top-rated host Tucker
+Carlson have agreed to part ways\...
+
+#### Biden's domestic policy adviser Susan Rice departs
+
+https://www.reuters.com/world/us/bidens-domestic-policy-adviser-susan-rice-departs-2023-04-24/
+
+Domestic Policy Advisor Susan Rice talks about government student loan
+forgiveness during a press briefing at the White House in Washington,
+U.S., August 24, 2022. REUTERS/Leah Millis White House domestic policy
+adviser Susan Rice is\...
+
+#### China says it respects sovereignty of ex-Soviet states after EU uproar
+
+https://www.reuters.com/world/some-eu-ministers-say-china-envoys-remarks-ukraine-sovereignty-unacceptable-2023-04-24/
+
+Summary: Chinese ambassador to Paris caused uproar in EU Comments
+focused on Ukraine, ex-Soviet states Beijing says he was expressing
+personal views EU welcomes clarification Czech Foreign Minister Jan\...
+
+#### India to surpass China as world's most populous country in April, UN says
+
+https://www.reuters.com/world/india/india-surpass-china-worlds-most-populous-country-april-un-says-2023-04-24/
+
+People shop at a crowded market in the old quarters of Delhi, India,
+October 11, 2022. REUTERS/Anushree Fadnavis/File Photo India's
+population is expected to match China's by the end of April and then to
+surpass it as the world's most\...
+
+#### UN chief criticizes Russia at UN meeting chaired by Lavrov
+
+https://www.reuters.com/world/europe/un-chief-criticizes-russia-un-meeting-chaired-by-lavrov-2023-04-24/
+
+Russian Ambassador to the United Nations Vasily Nebenzya speaks with
+Russian Foreign Minister Sergei Lavrov during a meeting of the United
+Nations Security Council on \"Effective multilateralism through the
+defence of the principles of the\...
+
+#### Argentina's lithium pipeline promises 'white gold' boom as Chile tightens control
+
+https://www.reuters.com/markets/commodities/argentinas-lithium-pipeline-promises-white-gold-boom-chile-tightens-control-2023-04-24/
+
+A brine pool used to extract lithium is seen at a salt flat of Cauchari
+Olaroz, near Susques, Argentina, November 8, 2017. REUTERS/Juliana
+Castilla In Argentinas mountainous north, a strong pipeline of lithium
+projects\...
+
+### 联合早报
+
+#### "五一"长假中国民众担心冠病疫情再起 专家：暴发新一轮疫情概率小
+
+https://www.zaobao.com/news/china/story20230424-1386861
+
+星期一（4月24日）下午的重庆网红景点洪崖洞，游客依旧熙熙攘攘。（王纬温摄）
+中国多地民众声称感染冠病不满半年复阳，不少网民刊登他们抗原检测第二次阳性的图片，担心冠病感染潮在"五一"长假期间卷土重来。中国疾病控制预防专家评估，五一期间冠病感染人数有可能增加，但不太可能造成大规模流行，原因是民众已形成群体免疫，五一前后气温上升也并不适合病毒生存......
+
+#### 早说
+
+https://www.zaobao.com/news/china/story20230424-1386857
+
+FILE PHOTO: Terry Gou, founder of Taiwans Foxconn, speaks during a news
+conference in Taoyuan, Taiwan April 5, 2023. REUTERS/Carlos Garcia
+Rawlins/File Photo（路透社） 很明显的，中国人不了解美国人，美国人也无
+
+#### 戴庆成：港版"社区居委会"面临什么问题？
+
+https://www.zaobao.com/news/china/story20230424-1386854
+
+"关爱队"作为长期兼工作任务繁重的团队，成员义务性服务市民的热情能维持多久呢......
+
+#### 卢沙野言论引发轩然大波 中国外交部澄清非正式立场
+
+https://www.zaobao.com/news/china/story20230424-1386848
+
+中国驻法国大使卢沙野上周有关前苏联加盟共和国没有"有效地位"的言论，引发欧洲多个国家的不满。（中国驻法国大使馆）
+中国驻法大使卢沙野有关前苏联加盟共和国在国际法上没有"有效地位"的言论，近日在欧洲引发轩然大波。约80名欧洲议员在法国《世界报》发表公开信，呼吁法国外长不要对这种"无耻的攻击"不作反应，尽快宣布卢沙野为"不受欢迎人物"......
+
+#### 军事专家：中国第三艘航母福建舰最快下半年海试
+
+https://www.zaobao.com/news/china/story20230424-1386843
+
+专家分析，央视报道画面中出现的模型，显示了福建舰上未来有望搭载的舰载机趋势。（央视截屏）
+中国官媒公布第三艘航母福建舰的新动向，称福建舰的动力测试、系泊试验正顺利展开，军事专家分析，这预示福建舰最快下半年可能进行海试。
+央视新闻上星期六（4月22日）报道福建舰最新进展时称，随着福建舰进一步完成海试并最终形成战斗力，中国海军将真正迈进三航母时代......
+
+#### 三青年在四川什邡林场服毒自杀
+
+https://www.zaobao.com/news/china/story20230424-1386833
+
+继四名中国青年本月初相约在湖南省张家界服毒跳崖轻生事件之后，四川省什邡市一林场内发现三名年轻人死亡。什邡市公安局星期一（4月24日）通报，三人均来自外地，在林场深处服毒自杀。
+什邡市公安局官方微博通报，该局在上星期六（22日）下午五时许接到民众报警称，在蓥华镇某林场内发现三名死者，警方赶赴现场开展工作后查明，三人在4月20日由外地到达什邡市蓥华镇天桥村七组后，在林场深处服毒自杀身亡......
+
+#### 中国发布首次火星探测火星全球影像图
+
+https://www.zaobao.com/news/china/story20230424-1386830
+
+图为以中国历史文化地名命名的火星地理实体。  （香港中通社）
+中国国家航天局和中国科学院星期一（4月24日）在安徽合肥举行的"中国航天日"主场活动启动仪式上，联合发布了中国首次火星探测火星全球影像图。
+根据中国国家航天局官网星期一公布的新闻稿，中国于2020年7月23日成功发射"天问一号"探测器，经历202天的奔向火星飞行，成功进入环绕火星轨道......
+
+#### 中国拟2026年前后发射嫦娥七号 寻找月球存在水证据
+
+https://www.zaobao.com/news/china/story20230424-1386828
+
+中国今年将全面推进月球探测的四期工程，其中嫦娥七号计划在2026年前后发射，主要任务是去月球南极寻找月球存在水的证据，将有望成为第一个在月球南极降落的航天器。
+中国央视星期一（4月24日）引述中国探月工程总设计师吴伟仁院士报道，嫦娥七号的任务非常复杂，风险系数也非常高，不同于此前着陆月球的嫦娥三号、四号和五号，它需要特意寻找坑多的地方着陆，挑战极高......
+
+#### 中国信达组建金融团队助贵州解困
+
+https://www.zaobao.com/news/china/story20230424-1386825
+
+中国贵州省正在加大力度寻求中央政府协助分散其金融风险。
+贵州是中国债务压力极重、财政金融资源又偏弱的西南省份。
+贵阳市人民政府网微信公号上星期三（4月19日）发文称，贵州省委书记、省人大常委会主任徐麟等人上星期二（4月18日），在贵阳会见了中国信达资产管理股份有限公司党委书记、董事长张卫东一行，并共同出席《贵州省人民政府中国信达资产管理股份有限公司战略合作协议》签约仪式......
+
+#### 一季度中国城镇新增就业297万人 同比增4%
+
+https://www.zaobao.com/news/china/story20230424-1386824
+
+中国各地的线下招聘需求有所回暖，这是4月21日，求职者在"职引未来"2023全国大中城市巡回招聘（银川站）活动现场，查看岗位信息。
+（新华社）
+中国官方星期一（4月24日）发布数据显示，今年1月至3月，中国城镇新增就业297万人，同比增加4%，显示在经济活动逐渐恢复、用工需求增加的背景下，中国就业形势在逐步改善......
+
+#### 美国弗吉尼亚州在台设海外第四个商务办事处
+
+https://www.zaobao.com/news/china/story20230424-1386812
+
+美国弗吉尼亚州州长杨金（Glenn
+Youngkin）签署行政命令，同意在台湾设立商务办事处。杨金称，弗州有独特地理位置，特别能吸引半导体企业。
+综合《联合报》《自由时报》《工商时报》报道，在台湾访问的杨金星期一（4月24日）与台湾总统蔡英文会面。
+杨金说，在台商务办事处将是弗州在海外设立的第四个商务办事处，其他在德国、韩国与日本。他说，这代表弗州坚定承诺，希望促进合作，强化与台湾之间的关系......
+
+#### 中国驻欧使团团长：中欧和中俄一样合作无上限
+
+https://www.zaobao.com/news/china/story20230424-1386804
+
+中国驻欧盟使团团长傅聪强调，不应将中欧关系与乌克兰问题捆绑，并说中国和俄罗斯之间的合作是无上限的，中欧同样如此。
+傅聪在澎湃新闻网站星期一（4月24日）刊登的专访中说，中欧关系是多面向的，不是单一议题的，中欧关系不针对、不依附、也不受制于第三方，不应将中欧关系与乌克兰问题捆绑......
+
+#### 境外大学可在海南办学 须设中国国情课程
+
+https://www.zaobao.com/news/china/story20230424-1386792
+
+海南自由贸易港将允许中国大陆境外大学和职业院校在当地独资办学，但仅限理工农医类别，而且须开设包括中国宪法与国情等内容课程。
+据中国教育部官网星期天（4月23日）消息，中国教育部和海南省政府3月24日联合印发了《境外高等教育机构在海南自由贸易港办学暂行规定》（简称《规定》），自印发之日起施行。
+《规定》适用的对象，包括国外以及港澳台独立设置的高水平大学、职业院校......
+
+#### 台湾雕塑泰斗逝世享寿85岁 大巧若拙诠释太极深意 朱铭圆满雕刻人间尘世
+
+https://www.zaobao.com/news/china/story20230424-1386505
+
+台湾雕塑家朱铭在2010年底来到本地举办"朱铭作品展"，展出他的20多件石雕与不锈钢作品。（档案照片）
+（台北／新加坡综合讯）台湾知名雕塑家朱铭久病在家轻生，享寿85岁。
+综合《联合报》《自由时报》《远见》网站星期天（23日）报道，朱铭星期六晚上10时许在家中运动房内运动，过了很久都没走出房门。朱铭妻子查看后发现，他已经没有气息。
+朱铭家人打电话报警，警方现场采证无外力介入，死因排除他杀......
+
+#### 解放军海军节前发布登岛战宣传片 学者：对台军事威慑意味更强
+
+https://www.zaobao.com/news/china/story20230424-1386506
+
+中国军方星期六（4月22日）发布时长六分钟的宣传片《蛟龙行动》。（中国人民解放军新闻传播中心官方微博视频截图）
+纪念成立74周年前夕，中国海军发布宣传片展示航空母舰"山东"号、075型两栖攻击舰、055型万吨驱逐舰等大型军舰，模拟在西太平洋准备登岛作战。受访学者分析，解放军展示的武器与军舰比前两年海军节的宣传片更多，威慑台独及境外势力的意味更强烈......
+
+#### 称台湾问题是"全球性问题" 对尹锡悦涉台言论大陆提出严正交涉
+
+https://www.zaobao.com/news/china/story20230424-1386507
+
+中国外交部在官网公布，孙卫东星期四（4月20日）奉命向韩国驻华大使郑在浩提出严正交涉，强调尹锡悦的涉台言论完全不可接受，中国表示严重关切和强烈不满。
+（北京／首尔综合讯）针对韩国总统尹锡悦称台湾问题是"全球性问题"，中国外交部副部长孙卫东向韩国驻华大使郑在浩提出严正交涉......
+
+#### 被建制派批为激进学生摇篮 高等学府继续是港府整治乱源重点
+
+https://www.zaobao.com/news/china/story20230424-1386508
+
+中国国务院港澳事务办公室主任夏宝龙4月15日在香港出席"全民国家安全教育日2023"开幕典礼致辞时称，现在香港社会看似平静，实则暗流涌动，乱的根源尚未根除，治的基础尚需巩固。（中新社）
+香港社会在国安法于2020年实施后渐趋平静，但中国国务院港澳办主任夏宝龙本月中访港时警告"暗流还在涌动，乱的根源没有根除。"被建制派批评为激进学生摇篮的高等院校，则继续成为港府整治的重点之一......
+
+#### 台国防部：八天内五度侦获 解放军舰载反潜直升机东部外海出没
+
+https://www.zaobao.com/news/china/story20230424-1386509
+
+台湾国防部自4月16至23日的八天内，就有五天发现解放军"直-9"舰载直升机在台湾防空识别区内的东部外海活动。图为4月20日正值中国人民解放军海军成立74周年之际，中国海军舰载航空兵某团的"直9"直升机起飞。（中新社）
+（台北讯）中国大陆持续派军机、军舰在台湾本岛外围海、空域常态性活动，自4月16日至星期天（23）日八天内，台湾军方五度发现解放军舰载反潜直升机在台湾东部外海出没......
+
+#### "大角星"冠病病例在中国大幅增加 张文宏吁做好药物储备
+
+https://www.zaobao.com/news/china/story20230424-1386510
+
+中国疾病预防控制中心本周通报42例冠病最新变异毒株XBB.1.16，比上周大幅增加。针对冠病病毒变异造成的第二次感染情况，中国国家传染病医学中心主任张文宏呼吁要做好药物储备，并建议脆弱人群再次接种疫苗。
+中疾控官网星期六（4月22日）公布全国冠病感染的最新数据显示，首次监测到了12个新分支，并监测到42例最新变异毒株XBB.1.16，而上周（4月15日）仅监测到15例......
+
+#### 梁振英：香港区议会无选举必要
+
+https://www.zaobao.com/news/china/story20230424-1386511
+
+香港前特首梁振英说，香港区议会未必要通过选举产生。
+综合《明报》、"香港01"报道，梁振英星期六（22日）接受《有线新闻》访问时说，区议会基本上是接受咨询的组织，考虑到其职能范围，没必要由选举产生。他说，香港不少咨询组织，甚至拥有行政权力的咨询组织都不是选举产生，例如房委会、市建局。
+梁振英也是中国全国政协副主席。他还称，民选不一定代表进步，过去经由民选的立法会就是大幅倒退......
+
+#### 韩粉吁把韩国瑜纳入初选民调 朱立伦：他是最重要助选员
+
+https://www.zaobao.com/news/china/story20230424-1386512
+
+针对有上千人呼吁国民党将前高雄市长韩国瑜纳入总统初选内参民调，国民党主席朱立伦表示，韩国瑜是2024年选举最重要助选员。
+综合《联合报》《自由时报》和中时新闻网报道，曾掀起"韩流"的韩国瑜近来声势高涨，星期六（22日）有上千名韩粉在高雄冈山参加造势活动，呼吁国民党将韩国瑜纳入总统初选内参民调。
+朱立伦星期天出席活动时回应说，韩国瑜已经表明，一定全力支持党提名的候选人......
+
+#### 于泽远：美国星舰爆炸引发中国网民对骂
+
+https://www.zaobao.com/news/china/story20230424-1386513
+
+星舰爆炸在中国网民中引发争论甚至对骂，再次显示社会的分裂甚至对立......
+
+#### 外贸形势依然复杂险峻 王受文：国务院将出台新措施促进贸易
+
+https://www.zaobao.com/news/china/story20230424-1386514
+
+第133届中国进出口商品交易会（广交会）全面恢复线下展，于4月15日起分三期在广州市举办至5月5日，同时全年常态化线上运营。（中新社）
+中国商务部副部长王受文说，中国外贸企业面临的一些制约因素和困难包括出国参展不方便、贸易风险上升、经营压力增加等问题。为缓解这些困难，中国国务院将出台新一轮相关政策......
+
+#### 中国最大芯片制造商 长江存储拟用国产设备制闪存芯片
+
+https://www.zaobao.com/news/china/story20230424-1386515
+
+业内人士透露，去年被列入美国贸易黑名单的中国芯片制造商长江存储（YMTC），正计划使用在中国国内采购的设备制造先进的闪存芯片。如果成功，这将是中国实现半导体自给自足的一个突破。
+据《南华早报》报道，美国去年对中国实施出口管制，限制中国使用美制的设备生产芯片......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

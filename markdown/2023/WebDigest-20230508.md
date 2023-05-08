@@ -1,0 +1,1041 @@
+Other formats: [PDF](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/webdigest/WebDigest-20230508.pdf--fac74cad77880de141b79da70674184b.pdf) / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20230508.html)
+
+
+# Web Digest 2023-05-08
+
+
+## Developers
+
+### Hacker News
+
+#### Passkeys: A Loss of User Control?
+
+https://lapcatsoftware.com/articles/2023/5/1.html
+
+https://news.ycombinator.com/item?id=35854216
+
+#### The Prime Video microservices to monolith story
+
+https://adrianco.medium.com/so-many-bad-takes-what-is-there-to-learn-from-the-prime-video-microservices-to-monolith-story-4bd0970423d4
+
+https://news.ycombinator.com/item?id=35853148
+
+#### Five Books: The best books on everything
+
+https://fivebooks.com/
+
+https://news.ycombinator.com/item?id=35853131
+
+#### Why Lisp?
+
+https://nyxt.atlas.engineer/article/why-lisp.org
+
+https://news.ycombinator.com/item?id=35852321
+
+#### Pixel phones are sold with bootloader unlocking disabled
+
+https://www.fitzsim.org/blog/?p=545
+
+https://news.ycombinator.com/item?id=35852192
+
+#### The Rocky Horror Coffin Clock
+
+https://burialsandbeyond.com/2023/05/07/the-rocky-horror-coffin-clock/
+
+https://news.ycombinator.com/item?id=35851200
+
+#### AMD promises its new laptop chips will crush the Apple M2 and it's got receipts
+
+https://www.techradar.com/news/amd-promises-its-new-laptop-chips-will-crush-the-apple-m2-and-its-got-reciepts
+
+https://news.ycombinator.com/item?id=35851174
+
+#### Contrast Rebellion
+
+https://contrastrebellion.com/
+
+https://news.ycombinator.com/item?id=35850044
+
+#### Burnout
+
+https://drewdevault.com/2023/05/01/2023-05-01-Burnout.html
+
+https://news.ycombinator.com/item?id=35849384
+
+#### Google Analytics alternative that protects your data and your customers' privacy
+
+https://matomo.org/
+
+https://news.ycombinator.com/item?id=35849356
+
+#### Google Calendar and Assistant Reminders Will Migrate to Google Tasks Soon
+
+https://workspaceupdates.googleblog.com/2023/02/calendar-and-assistant-reminders-to-tasks-migration.html
+
+https://news.ycombinator.com/item?id=35849243
+
+#### I'm never investing in Google's smart home ecosystem again
+
+https://www.androidauthority.com/google-smart-home-3319869/
+
+https://news.ycombinator.com/item?id=35849060
+
+#### EU sends Apple stark warning over USB-C charging on new iPhones
+
+https://www.techradar.com/news/apple-may-not-restrict-usb-c-charging-on-new-iphones-after-all
+
+https://news.ycombinator.com/item?id=35849043
+
+#### Walkout at global science journal over 'unethical' fees
+
+https://www.theguardian.com/science/2023/may/07/too-greedy-mass-walkout-at-global-science-journal-over-unethical-fees
+
+https://news.ycombinator.com/item?id=35848894
+
+#### DIY-Thermocam: A low-cost thermal imager based on the FLIR Lepton sensor
+
+https://www.diy-thermocam.net/
+
+https://news.ycombinator.com/item?id=35848872
+
+#### Effect of LSD on reinforcement learning in humans (2022)
+
+https://www.cambridge.org/core/journals/psychological-medicine/article/effect-of-lysergic-acid-diethylamide-lsd-on-reinforcement-learning-in-humans/28E41FEE97D3A8614C77DC54DF501489
+
+https://news.ycombinator.com/item?id=35848764
+
+#### TV series about startup failures
+
+https://www.1984.design/c/discussions/tv-series-about-startup-failures-portraying-their-greedy-founders-and-the-damages-of-the-current-startup-ecosystem
+
+https://news.ycombinator.com/item?id=35848758
+
+#### React Aria Components
+
+https://react-spectrum.adobe.com/react-aria/react-aria-components.html
+
+https://news.ycombinator.com/item?id=35848421
+
+#### Memoirs from the old web: IE's crazy content rating system
+
+[[https://www.devever.net/ hl/pics](https://www.devever.net/~hl/pics)]
+
+https://news.ycombinator.com/item?id=35848267
+
+#### Prime Video service dumps microservices, cuts AWS bill 90%
+
+https://thestack.technology/amazon-prime-video-microservices-monolith/
+
+https://news.ycombinator.com/item?id=35847988
+
+### Phoronix
+
+#### Linux 6.4-rc1 Released With Intel LAM, Several New AMD Features, More Rust Code & Early Apple M2
+
+https://www.phoronix.com/news/Linux-6.4-rc1-Released
+
+#### memtest86+ 6.20 Released With Improved Support For Older Systems
+
+https://www.phoronix.com/news/memtest86-plus-6.20
+
+#### FEX 2305 Emulator On ARM Adds More AVX Instructions, Optimizations
+
+https://www.phoronix.com/news/FEX-Emu-2305-Released
+
+#### Intel Meteor Lake GuC Firmware Support Published
+
+https://www.phoronix.com/news/Intel-Meteor-Lake-GuC
+
+#### New Patches Aim To Tackle Linux x86_64 PIE Support
+
+https://www.phoronix.com/news/Linux-x86_64-PIE-2023
+
+#### Intel Shadow Stack For Linux Hits Last-Minute Snag With Issue Raised By Torvalds
+
+https://www.phoronix.com/news/Intel-Shadow-Stack-Issue-6.4
+
+#### Pipe FMODE_NOWAIT Support Sent In For Linux 6.4 As A 10 23x Performance Improvement
+
+https://www.phoronix.com/news/Pipe-FMODE_NOWAIT-Linux-6.4
+
+#### RISC-V With Linux 6.4 Adds Hibernation / Suspend-To-Disk Support
+
+https://www.phoronix.com/news/RISC-V-Hibernation-Support
+
+#### Intel ISPC 1.20 Released: Smaller & Faster
+
+https://www.phoronix.com/news/Intel-ISPC-1.20
+
+### GitHub
+
+#### microsoft/DeepSpeed
+
+https://github.com/microsoft/DeepSpeed
+
+DeepSpeed is a deep learning optimization library that makes distributed
+training and inference easy, efficient, and effective.\
+Language: Python\
+Stars: 24017\
+Forks: 2875
+
+#### tw93/Pake
+
+https://github.com/tw93/Pake
+
+🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 很简单的用 Rust
+打包网页生成很小的桌面 App\
+Language: Rust\
+Stars: 14558\
+Forks: 1368
+
+#### zhayujie/chatgpt-on-wechat
+
+https://github.com/zhayujie/chatgpt-on-wechat
+
+Wechat robot based on ChatGPT, which using OpenAI api and itchat
+library. 使用ChatGPT搭建微信聊天机器人，基于GPT3.5/4.0
+API实现，支持个人微信、公众号、企业微信部署，能处理文本、语音和图片，访问操作系统和互联网。\
+Language: Python\
+Stars: 10881\
+Forks: 2803
+
+#### pineappleEA/pineapple-src
+
+https://github.com/pineappleEA/pineapple-src
+
+yuzu Early Access source code\
+Language: C++\
+Stars: 1697\
+Forks: 139
+
+#### Deci-AI/super-gradients
+
+https://github.com/Deci-AI/super-gradients
+
+Easily train or fine-tune SOTA computer vision models with one open
+source training library. The home of Yolo-NAS.\
+Language: Jupyter Notebook\
+Stars: 1860\
+Forks: 144
+
+#### qdrant/qdrant
+
+https://github.com/qdrant/qdrant
+
+Qdrant - Vector Database for the next generation of AI applications.
+Also available in the cloud https://cloud.qdrant.io/\
+Language: Rust\
+Stars: 7644\
+Forks: 371
+
+#### krahets/hello-algo
+
+https://github.com/krahets/hello-algo
+
+《Hello 算法》是一本动画图解、能运行、可提问的数据结构与算法入门书，支持
+Java, C++, Python, Go, JS, TS, C#, Swift, Zig 等语言。\
+Language: Java\
+Stars: 9998\
+Forks: 1119
+
+### Dribbble
+
+#### Pixie / Design Lab
+
+https://dribbble.com/shots/21370265
+
+#### Reflect.app Re-Design ✨
+
+https://dribbble.com/shots/21339985
+
+#### CBDC - Website for Digital Currency
+
+https://dribbble.com/shots/21349315
+
+#### Core Dashboard Builder - Components
+
+https://dribbble.com/shots/21354273
+
+#### Wander Branding
+
+https://dribbble.com/shots/21288330
+
+#### ThoughtSpot - Features
+
+https://dribbble.com/shots/21337406
+
+#### Core Dashboard Builder
+
+https://dribbble.com/shots/21361934
+
+#### Bunny Icon Branding Design: iconography icons pack flat vector
+
+https://dribbble.com/shots/21204904
+
+#### Wild West
+
+https://dribbble.com/shots/21349601
+
+#### Micromobility Admin Dashboard: Analytics UX UI
+
+https://dribbble.com/shots/21205127
+
+#### Abstract Art Lotus 3D
+
+https://dribbble.com/shots/21365026
+
+#### Letter V - Voltage. 36 Days of Type. Day 22
+
+https://dribbble.com/shots/21340465
+
+#### Flexiplat
+
+https://dribbble.com/shots/21337086
+
+#### OpenColony Website Design: business landing web page, site
+
+https://dribbble.com/shots/21205619
+
+#### Moon Camp Logo Design - Mountains / Tents / Moon / Camping
+
+https://dribbble.com/shots/21336601
+
+#### Seven Summits Irish Whiskey (Logo)
+
+https://dribbble.com/shots/21349660
+
+#### Coinread Branding, visual identity, corporate brand design
+
+https://dribbble.com/shots/21204798
+
+#### Runamok Motors_Motorheads
+
+https://dribbble.com/shots/21363916
+
+#### Zircoin
+
+https://dribbble.com/shots/21377850
+
+#### V for Voltage. 36 Days of Type. Day 22
+
+https://dribbble.com/shots/21340548
+
+#### Xylograph
+
+https://dribbble.com/shots/21358273
+
+#### Task Management Product Sneak Peeks
+
+https://dribbble.com/shots/21360781
+
+#### Random Logofolio Update v4 - 2023
+
+https://dribbble.com/shots/21348481
+
+#### Valkyrie
+
+https://dribbble.com/shots/21298042
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### 科学家辞职抗议期刊出版商的"贪婪"
+
+https://www.solidot.org/story?sid=74890
+
+#### Safari 超过 Edge 成为第二流行的桌面浏览器
+
+https://www.solidot.org/story?sid=74889
+
+#### 比利时合法化道德黑客行为
+
+https://www.solidot.org/story?sid=74888
+
+#### 信息素阻止蝗虫同类相食
+
+https://www.solidot.org/story?sid=74887
+
+#### 活得更长可能意味着等死的时间更长
+
+https://www.solidot.org/story?sid=74886
+
+#### 苹果零售店工会员工想要客户付小费
+
+https://www.solidot.org/story?sid=74885
+
+#### 梅赛德斯考虑要求对电动车引擎额外动力额外付费
+
+https://www.solidot.org/story?sid=74884
+
+#### 巴西树蛙可能是已知第一种授粉两栖动物
+
+https://www.solidot.org/story?sid=74883
+
+#### Hugging Face 和 ServiceNow 发布免费代码生成模型 StarCoder
+
+https://www.solidot.org/story?sid=74882
+
+#### OpenAI 不再使用 API 客户数据训练 ChatGPT
+
+https://www.solidot.org/story?sid=74881
+
+#### Vice Media 准备申请破产以 4 亿美元出售
+
+https://www.solidot.org/story?sid=74880
+
+#### 白宫提议对加密货币挖矿使用的电力征 30% 的税
+
+https://www.solidot.org/story?sid=74879
+
+#### 微星固件签名密钥泄露
+
+https://www.solidot.org/story?sid=74878
+
+#### 美国连续五个季度生产率下降
+
+https://www.solidot.org/story?sid=74877
+
+#### TikTok 曾跟踪观看 LGBT 内容的用户
+
+https://www.solidot.org/story?sid=74876
+
+#### Gmail 开始展示更多广告
+
+https://www.solidot.org/story?sid=74875
+
+#### WHO 降低新冠疫情风险等级
+
+https://www.solidot.org/story?sid=74874
+
+#### 天王星最大的四颗卫星可能有地下海洋
+
+https://www.solidot.org/story?sid=74872
+
+#### Slack 整合生成式 AI
+
+https://www.solidot.org/story?sid=74871
+
+#### 印度封杀 Matrix 客户端 Element
+
+https://www.solidot.org/story?sid=74870
+
+### V2EX
+
+#### \[分享创造\] 酷瓜云课堂 v1.6.3 发布，快坚持不下去了
+
+https://www.v2ex.com/t/938126
+
+#### \[Go 编程语言\] 请教一个并发设计问题
+
+https://www.v2ex.com/t/938125
+
+#### \[问与答\] 求问 Google 账号手机号不能用， Google 身份验证器也丢了，怎么重置？
+
+https://www.v2ex.com/t/938124
+
+#### \[问与答\] 来寻一个 V2 帖子，我自己怎么搜都搜不到
+
+https://www.v2ex.com/t/938123
+
+#### \[问与答\] 如何看待江苏昆山五一 8 折售房 150 套遭遇住建局处罚？
+
+https://www.v2ex.com/t/938122
+
+#### \[问与答\] 小米 13 如何在不丢数据的情况下刷入 Magisk?
+
+https://www.v2ex.com/t/938121
+
+#### \[OpenAI\] 3.5 瞎编就算了，还犟，有用过 Plus 版本 4.0 的吗？会不会好点
+
+https://www.v2ex.com/t/938120
+
+#### \[问与答\] 用 react native 打包 webview 能够成功上架 app store 和 google play 吗 store 吗
+
+https://www.v2ex.com/t/938119
+
+#### \[MacBook\] MacBook Pro M1 洒了半瓶东方树叶以后。。。
+
+https://www.v2ex.com/t/938118
+
+#### \[酷工作\] 小白零基础转行，希望能听听各位大佬前辈们的意见
+
+https://www.v2ex.com/t/938117
+
+#### \[问与答\] 机场设墙是普遍情况还是个别？
+
+https://www.v2ex.com/t/938116
+
+#### \[Surge\] Surge for Mac 5 5 人车缺 4
+
+https://www.v2ex.com/t/938115
+
+#### \[Microsoft Office\] Microsoft Office 365 家庭版发车， 42/年
+
+https://www.v2ex.com/t/938114
+
+#### \[Apple\] 各位大神，求一个耐用的苹果快充线
+
+https://www.v2ex.com/t/938113
+
+#### \[OpenAI\] 如何禁止 ChatGPT3.5 生成"总结"段落？
+
+https://www.v2ex.com/t/938111
+
+#### \[求职\] 中科院 AI 博士及创业团队求捞
+
+https://www.v2ex.com/t/938110
+
+#### \[OpenAI\] chatGPT 插件（plugin）使用权限怎么申请啊？为什么申请了好多次都没过？
+
+https://www.v2ex.com/t/938109
+
+#### \[问与答\] 目前已有一台 27 寸 4k 显示器，想使用菊花链功能，再加一台 27 寸 4k 显示器。求推荐，感谢。
+
+https://www.v2ex.com/t/938106
+
+#### \[宽带症候群\] 为什么我们要拒绝 PON 方案的 FTTR
+
+https://www.v2ex.com/t/938105
+
+#### \[macOS\] 将外置硬盘挂载成为 /Users/xxxxxx/Library/Containers 有什么注意事项呢
+
+https://www.v2ex.com/t/938104
+
+#### \[程序员\] 动画图解：九大经典排序算法
+
+https://www.v2ex.com/t/938103
+
+#### \[问与答\] 晚上开车，来车和后车的车灯太亮怎么办？
+
+https://www.v2ex.com/t/938101
+
+#### \[iOS\] 无任何后端，有没有可能完成 IAP 支付并检测支付状态？
+
+https://www.v2ex.com/t/938100
+
+#### \[问与答\] 分流模式下如何访问 newbing
+
+https://www.v2ex.com/t/938099
+
+#### \[程序员\] 怎么设计一张表来保存数字区间和单选类型的配置数据？
+
+https://www.v2ex.com/t/938097
+
+#### \[宽带症候群\] 上海联通最近有个 200M 的上行提速活动
+
+https://www.v2ex.com/t/938096
+
+#### \[问与答\] 救命， E5 开发者计划今天才发现到期了，预计 5 月 24 号删除 od 数据
+
+https://www.v2ex.com/t/938095
+
+#### \[电影\] 感觉近些年上映的电影剧情太快？
+
+https://www.v2ex.com/t/938094
+
+#### \[OpenAI\] 那些卖 Key 几百美元,但是有效期限制是什么套路?
+
+https://www.v2ex.com/t/938093
+
+#### \[Linux\] 时隔多年再次体验 Linux 桌面系统
+
+https://www.v2ex.com/t/938092
+
+#### \[问与答\] 求助帐号问题
+
+https://www.v2ex.com/t/938091
+
+#### \[分享发现\] 1Password 试用期过了还能使用
+
+https://www.v2ex.com/t/938089
+
+#### \[MySQL\] 查询语句求助：表 A 的字段 x 全是数字，表 B 的字段 y 全是数字且长度大于字段 x 值，如果字段 x 值是字段 y 值的一部分或相同，则查询出结果。
+
+https://www.v2ex.com/t/938088
+
+#### \[问与答\] 男的被婉拒后怎么这副态度？
+
+https://www.v2ex.com/t/938087
+
+#### \[问与答\] 为什么我的笔记本 WiFi 连接无线路由器速率这么低？
+
+https://www.v2ex.com/t/938086
+
+#### \[Apple\] Studio Display 有必要加可调高‍度支‍架么
+
+https://www.v2ex.com/t/938085
+
+#### \[分享创造\] 我把 ChatGPT+ Midjourney 接入了钉钉群聊.
+
+https://www.v2ex.com/t/938084
+
+#### \[iPhone\] 纯好奇，站里有人能做到长期单手使用 pro max 机型吗
+
+https://www.v2ex.com/t/938083
+
+#### \[生活\] 记一次线下交友记录
+
+https://www.v2ex.com/t/938080
+
+#### \[问与答\] 这些副业还能有收入吗？
+
+https://www.v2ex.com/t/938079
+
+#### \[问与答\] 这算不算诈骗？
+
+https://www.v2ex.com/t/938078
+
+#### \[阅读\] Z-Library 又被查封了
+
+https://www.v2ex.com/t/938077
+
+#### \[OpenAI\] ChatGpt 有什么比较好用的 prompt 吗？
+
+https://www.v2ex.com/t/938076
+
+#### \[生活\] 记一次线下交友
+
+https://www.v2ex.com/t/938075
+
+#### \[深圳\] 坪山公寓如何出手止损？
+
+https://www.v2ex.com/t/938072
+
+#### \[职场话题\] 请大佬们给个职场建议
+
+https://www.v2ex.com/t/938070
+
+#### \[求职\] 广州、深圳 4 年 Python 求职
+
+https://www.v2ex.com/t/938069
+
+#### \[Apple\] 寻 美区 Apple one 车位
+
+https://www.v2ex.com/t/938068
+
+#### \[Apple\] 将 Airtag 放在托运行李谁有经验
+
+https://www.v2ex.com/t/938067
+
+#### \[分享创造\] Midjourney
+
+https://www.v2ex.com/t/938066
+
+## Generic News
+
+### AP News
+
+#### Out-of-control wildfires cause evacuations in western Canada
+
+https://apnews.com/article/de8f14beff8c90cd2d43cab032a64535
+
+In this photo provided by the Government of Alberta Fire Service, a
+wildfire burns a section of forest in the Grande Prairie district of
+Alberta, Canada, Saturday, May 6, 2023. (Government of Alberta Fire
+Service/The Canadian Press via\...
+
+#### Deaths from Congo floods approach 400 as search continues
+
+https://apnews.com/article/f13794e1f93b037f4eda1ca2d42cf3f6
+
+People walk next to a house destroyed by the floods in the village of
+Nyamukubi, South Kivu province, in Congo, Saturday, May 6, 2023. The
+death toll from flash floods and landslides in eastern Congo has risen
+according to the governor\...
+
+#### UFC's Tony Ferguson arrested following Hollywood crash
+
+https://apnews.com/article/fa002285a5a12a4eda2432ef25ab8078
+
+FILE - Tony Ferguson poses during a ceremonial weigh-in for the UFC 229
+mixed martial arts fight, Friday, Oct. 5, 2018, in Las Vegas. UFC
+fighter Ferguson was arrested on a DUI charge in Hollywood early Sunday,
+May 7, 2023, after his\...
+
+#### Engineers frustrated with rails even as others get sick time
+
+https://apnews.com/article/10c5e688b85ef9be4f231499666ab756
+
+FILE - A worker rides a rail car at a BNSF rail crossing in Saginaw,
+Texas, Wednesday, Sept. 14, 2022. Tens of thousands of engineers remain
+frustrated with the lack of paid sick time and the demands railroads
+like BNSF are making in\...
+
+#### 'Guardians of the Galaxy Vol. 3' opens to \$114 million
+
+https://apnews.com/article/91c16e18b13f808259d37437ca8ea211
+
+This image released by Marvel Studios shows, from left, Pom Klementieff
+as Mantis, Groot (voiced by Vin Diesel), Chris Pratt as Peter
+Quill/Star-Lord, Dave Bautista as Drax, Karen Gillan as Nebula in a
+scene from \"Guardians of the Galaxy\...
+
+#### Nick Gilbert, son of Cavaliers owner, dies at 26
+
+https://apnews.com/article/b7dd01d5e2d29929d793dd6e15cf874d
+
+FILE - In this May 21, 2013, file photo, Cleveland Cavaliers owner Dan
+Gilbert congratulates his son, Nick Gilbert, after the team won the NBA
+basketball draft lottery in New York. Nicolas "Nick" Gilbert, who became
+the team\...
+
+#### Lionel Richie, Katy Perry sing for royal coronation concert
+
+https://apnews.com/article/b5669453c120a0309b15a2b9aab27f64
+
+Katy Perry performs during the concert at Windsor Castle in Windsor,
+England, Sunday, May 7, 2023, celebrating the coronation of King Charles
+III. It is one of several events over a three-day weekend of
+celebrations. (Leon Neal/Pool Photo\...
+
+#### 12 killed in multi-vehicle crash in Turkey's Hatay province
+
+https://apnews.com/article/97a1acb10e50fa5b7367e283ebbe1d69
+
+Turkish police officers and emergency personnel work next to burned
+vehicles after a crash on the Iskenderun-Antakya highway, south Turkey,
+late Saturday, May 6, 2023. A multi-vehicle crash in southern Turkeys
+Hatay\...
+
+#### MTV Movie & TV Awards ditches live event due to strike
+
+https://apnews.com/article/775adca003d1f9dde703eb85ec76f01e
+
+FILE- A general view of the red carpet is pictured at the MTV Movie & TV
+Awards on June 15, 2019, at the Barker Hangar in Santa Monica, Calif.
+The first big live awards show to air during the current
+screenwriters\...
+
+#### Japan leader expresses sympathy for Korean colonial victims
+
+https://apnews.com/article/135badc84df0b545f44edcb2b86921fe
+
+South Korean President Yoon Suk Yeol, right, shakes hands with Japanese
+Prime Minister Fumio Kishida during a joint press conference after their
+meeting at the presidential office in Seoul Sunday, May 7, 2023. The
+leaders of South Korea\...
+
+#### In the shadow of 7 horse deaths, party goes on at the Derby
+
+https://apnews.com/article/131a825cc0dc7626ee1e59ca91637ab0
+
+People react as they watch a race before the 149th running of the
+Kentucky Derby horse race at Churchill Downs Saturday, May 6, 2023, in
+Louisville, Ky. (AP Photo/Brynn Anderson) LOUISVILLE, Ky. (AP) --- As
+the horses were loaded into the\...
+
+#### Police: 8 killed in Texas mall shooting, gunman also dead
+
+https://apnews.com/article/a5148bc28d78c69ba0c59967427a2f85
+
+People raise their hands as they leave a shopping center following
+reports of a shooting, Saturday, May 6, 2023, in Allen, Texas. (AP
+Photo/LM Otero) ALLEN, Texas (AP) --- A gunman stepped out of a silver
+sedan and started shooting people\...
+
+#### Eloy Jiménez of White Sox undergoes appendectomy
+
+https://apnews.com/article/6fb5e41d22b90eaf62e68d5a5663cc9c
+
+Chicago White Soxs Eloy Jimenez hits a single during the first inning of
+a baseball game against the Minnesota Twins in Chicago, Thursday, May 4,
+2023. (AP Photo/Nam Y. Huh) CINCINNATI (AP) --- White Sox designated
+hitter\...
+
+### Reuters
+
+#### Texas mall shooting prompts Biden to renew call for gun control
+
+https://www.reuters.com/world/us/texas-mall-shooting-prompts-biden-renew-call-gun-control-2023-05-07/
+
+A girl runs as other shoppers leave with their hands up after police
+responded to a gunman who shot and killed eight people and wounded at
+least seven others at Allen Premium Outlets mall north of Dallas, in
+Allen, Texas, U.S. May 6, 2023\...
+
+#### Arab League readmits Syria as relations with Assad normalise
+
+https://www.reuters.com/world/middle-east/arab-league-set-readmit-syria-relations-with-assad-normalise-2023-05-07/
+
+Summary: Syria had been suspended from League since 2011 Some states
+sought conditions for Syrias return U.S. official says Syria does not
+merit readmission Qatar says no change in position on normalising ties A
+general\...
+
+#### Chinese scour Thailand for homes, looking to offset risks after pandemic
+
+https://www.reuters.com/world/asia-pacific/chinese-scour-thailand-homes-looking-offset-risks-after-pandemic-2023-05-07/
+
+Daniel Bian, a Chinese potential property buyer from Shanghai, visits a
+luxury condominium in Bangkok, Thailand, April 20, 2023.
+REUTERS/Chalinee Thirasupa A Chinese potential property buyer from
+Shanghai visits a luxury condominium in\...
+
+#### Serbia's education minister resigns over school shooting
+
+https://www.reuters.com/world/europe/serbias-education-minister-resigns-over-school-shooting-2023-05-07/
+
+People light up candles in the temple of St. Sava following a school
+mass shooting, after a boy opened fire on others, killing fellow
+students and staff, in Belgrade, Serbia May 4, 2023. REUTERS/Zorana
+Jevtic/ Serbias\...
+
+#### Driver arrested after 7, including migrants, killed in Brownsville, Texas
+
+https://www.reuters.com/world/us/7-dead-after-car-runs-into-pedestrians-brownsville-texas-abc-news-2023-05-07/
+
+Law enforcement officers investigate the scene after a deadly incident
+where a car ran into pedestrians near Ozanam Center, a shelter for
+migrants and homeless, in Brownsville, Texas, U.S. May 7, 2023.
+REUTERS/John Faulk A police officer\...
+
+#### Russian nationalist writer describes surviving attack Moscow blamed on U.S., Ukraine
+
+https://www.reuters.com/world/europe/russian-nationalist-writer-describes-surviving-attack-moscow-blamed-us-ukraine-2023-05-07/
+
+A view shows a damaged white Audi Q7 car lying overturned on a track
+next to a wood, after Russian nationalist writer Zakhar Prilepin was
+allegedly wounded in a bomb attack in a village in the Nizhny Novgorod
+region, Russia, May 6, 2023\...
+
+#### Erdogan calls opposition 'pro-LGBT' at election rally
+
+https://www.reuters.com/world/middle-east/erdogan-calls-opposition-pro-lgbt-election-rally-2023-05-07/
+
+Turkish President Tayyip Erdogan addresses his supporters during a rally
+ahead of the May 14 presidential and parliamentary elections in
+Istanbul, Turkey, May 7, 2023. REUTERS/Umit Bektas Istanbul Mayor Ekrem
+Imamoglu of the main\...
+
+#### Turkey's Erdogan doesn't flinch in fight for political life
+
+https://www.reuters.com/world/middle-east/turkeys-erdogan-doesnt-flinch-fight-political-life-2023-05-07/
+
+Summary: Erdogan faces tight race against emboldened opposition
+Cost-of-living crisis seen as denting his chances Two-decade
+transformation of Turkey on the line Turkish President Tayyip Erdogan
+addresses his supporters during a rally\...
+
+#### Israel demolishes Palestinian West Bank school
+
+https://www.reuters.com/world/middle-east/israel-demolishes-palestinian-west-bank-school-2023-05-07/
+
+Israeli troops take position during clashes between Palestinians and
+Israeli troops after Israeli machinery demolish a school near Bethlehem
+in the Israeli-occupied West Bank May 7, 2023. REUTERS/Mussa Qawasma A
+Palestinian walks near\...
+
+#### At least 8 people killed by gunman at Texas mall, police kill shooter
+
+https://www.reuters.com/world/us/police-responding-shooting-texas-mall-texas-multiple-injured-2023-05-06/
+
+A girl runs as other shoppers leave with their hands up after police
+responded to a gunman who shot and killed eight people and wounded at
+least seven others at Allen Premium Outlets mall north of Dallas, in
+Allen, Texas, U.S. May 6, 2023\...
+
+#### Wagner group signals it will stay in Bakhmut after Prigozhin threatened to pull forces
+
+https://www.reuters.com/world/europe/russia-keeps-up-missile-attacks-ukraine-ahead-expected-kyiv-offensive-2023-05-07/
+
+A Ukrainian service member from a 28th separate mechanised brigade named
+after the Knights of the Winter Campaign of the Armed Forces of Ukraine,
+fires an anti-tank grenade launcher at a front line, amid Russias attack
+on\...
+
+#### Yellen warns of 'constitutional crisis' if Congress fails to act on debt
+
+https://www.reuters.com/world/us/yellen-warns-against-debt-ceiling-talks-with-gun-head-american-people-2023-05-07/
+
+Photo darchives de la secrétaire dÉtat au Trésor américain, Janet
+Yellen. /Photo prise le 20 avril 2023 à Washington,
+États-Unis/REUTERS/Sarah Silbiger U.S. Senator Rick Scott (R-FL) speaks
+during a press\...
+
+#### Britain celebrates with 'deeply touched' King Charles after coronation
+
+https://www.reuters.com/world/uk/street-parties-concert-held-mark-king-charles-coronation-2023-05-06/
+
+Summary: Street parties and concert celebrate king Charles and Camilla
+crowned in coronation Lionel Richie to perform in Windsor Castle concert
+People take part in a Big Lunch event to celebrate the coronation of
+Britains\...
+
+### 联合早报
+
+#### 中国早点：冠病疫情终于画上了句号
+
+https://www.zaobao.com/news/china/story20230508-1392061
+
+世界卫生组织总干事谭德塞5月5日宣布，冠病疫情全球卫生紧急状态结束，不再构成"国际关注的突发公共卫生事件（PHEIC）"。有中国媒体形象地将此称为世卫组织已对冠病疫情"取关（取消关注）"
+2020年1月30日，冠病疫情在武汉等地失控之后，世卫组织宣布冠病疫情构成"国际关注的突发公共卫生事件"。世卫组织数据显示，过去三年全球累计报告确诊病例逾7亿6000万，死亡病例超过690万......
+
+#### 中阿巴外长举行对话 同意加强反恐合作
+
+https://www.zaobao.com/news/china/story20230507-1391912
+
+中国国务委员兼外长秦刚（左一）在巴基斯坦伊斯兰堡出席第五次中阿巴三方外长对话。巴基斯坦外长比拉瓦尔（中）主持，阿富汗临时政府代理外长穆塔基（右一）出席。（新华社）
+中国、阿富汗、巴基斯坦三国外长同意加强反恐合作，重启外长对话机制。三方也同意，推进共建一带一路合作，支持中巴经济走廊向阿富汗延伸......
+
+#### 日媒：日中韩对话可能在今年重启
+
+https://www.zaobao.com/news/china/story20230507-1391901
+
+日本媒体引述多名外交消息人士透露，日本、中国、韩国计划在今年内举行三国领导人对话，意味着自冠病疫情爆发以来停摆了三年多的三方对话机制有望重启。
+据日本共同社报道，不愿具名的外交消息人士上星期五（5月5日）透露，日本首相岸田文雄星期天（7日）在首尔与韩国总统尹锡悦会谈，确认早日重启与中国的三国对话的重要性......
+
+#### 淄博烧烤带动"五一"山东旅客量 机场建设年初已纳入规划
+
+https://www.zaobao.com/news/china/story20230507-1391898
+
+今年"五一"期间，淄博各旅游景点吸引来自中国各地游客逾12万人次，创下近10年来最高客流量纪录，成为最受关注的旅游目的地之一。图为4月30日，在淄博市张店区一家烧烤店。（新华社）
+因烧烤走红的山东省淄博市，今年"五一"假期期间吸引了大批游客，铁路收发旅客数创下历史新高，当地将要新建机场的消息也随之受到关注......
+
+#### 北京长峰医院火灾29死 中国最高检挂牌督办
+
+https://www.zaobao.com/news/china/story20230507-1391897
+
+北京长峰医院4月18日发生重大火灾事故，造成29人死亡。图为火灾次日长峰医院住院部东楼烧焦的窗台和外墙。（中新社）
+北京长峰医院4月下旬发生重大火灾事故，造成29人死亡。中国最高检决定对事故挂牌督办，要求北京市检察机关充分发挥检察职能作用，查明各方责任，惩处相关犯罪。
+中国官方媒体新华社星期六（5月6日）报道上述消息......
+
+#### 中国监管体系重组 耽搁蚂蚁金融牌照审批
+
+https://www.zaobao.com/news/china/story20230507-1391887
+
+美国《华尔街日报》引述知情人士称，由于中国金融监管体系重组，中国金融科技巨头蚂蚁集团的金融控股公司牌照审批被搁置。（路透社档案图）
+美国媒体引述知情人士称，由于中国金融监管体系重组，中国金融科技巨头蚂蚁集团的金融控股公司牌照审批被搁置。
+蚂蚁集团的上市计划在2020年被中国官方喊停后，同年年底启动全面整改。
+《华尔街日报》星期五（5月5日）报道，蚂蚁集团一年多来都在等待中国政府批准整改计划......
+
+#### "股神"巴菲特：投资日本比台湾自在
+
+https://www.zaobao.com/news/china/story20230507-1391883
+
+中美关系日趋紧张下，美国"股神"巴菲特说，他对旗下公司在日本投资比在台湾感到更自在。图为巴菲特2019年参加伯克希尔哈撒韦（Berkshire
+Hathaway）年度会议。（路透社档案图）
+美国"股神"巴菲特说，他对旗下公司在日本投资比在台湾感到更自在。
+巴菲特星期六（5月6日）在他旗下公司伯克希尔哈撒韦（Berkshire
+Hathaway）的年度会议上发表上述谈话......
+
+#### "文化央企"紫荆文化换帅 湖北省委宣传部部长许正中任董事长
+
+https://www.zaobao.com/news/china/story20230507-1391876
+
+图为紫荆文化集团董事长许正中（左）5月6日晚上，与香港特区行政长官李家超（中）、香港中联办主任郑雁雄（右）等嘉宾，出席紫荆文化集团在香港大会堂呈献的"国风国韵飘香江"中央歌剧院中外经典歌剧选段音乐会首场演出......
+
+#### 中国电动车市场增长放缓 学者：面临洗牌但仍会保持领先地位
+
+https://www.zaobao.com/news/china/story20230507-1391863
+
+图为4月19日公众人士在上海国际汽车工业展览会期间，观赏比亚迪推出的海豹新款电动车。（路透社）
+随着中国去年年底国家补贴政策退场，中国电动车市场今年前三个月增速放缓。数据显示，今年1至3月电动车累计零售量为131.3万辆，同比提升22.4%，但较去年一季度146.6%的增长明显放缓......
+
+#### 走进老社区感受台湾亲老温度
+
+https://www.zaobao.com/news/china/story20230507-1391688
+
+新北市平溪老街的十分火车站旁，游客三代同堂放天灯，满满的祝福等待升空。此图摄于4月30日。（温伟中摄）
+台湾将在2025年迈入超老龄社会，到时21％的人口将超过65岁，比新加坡早一年。《联合早报》记者走进全台最老社区，探访遍布全台巷弄的关怀据点，跟照顾病弱父母多年后把小爱化为大爱的社区工作者交谈，与长期关怀老人的学者对话，感受台湾社会亲老的温度......
+
+#### 经济学者：疫后复苏"甜蜜期"难持久 中国经济整体依然偏冷
+
+https://www.zaobao.com/news/china/story20230506-1391563
+
+清华大学五道口金融学院讲席教授、国际金融与经济研究中心主任鞠建东（左），清华中国经济思想与实践研究院院长李稻葵，以及摩根史丹利前亚洲区主席、耶鲁大学法学院蔡保罗中国中心高级研究员罗奇（大屏幕）5月6日在"2023清华五道口首席经济学家论坛"上，围绕全球金融动荡与世界秩序变革发表看法......
+
+#### 中国官媒：两岸已没有ECFA合作基础
+
+https://www.zaobao.com/news/china/story20230506-1391553
+
+中国全国政协机关报发表文章说，两岸当前已毫无"海峡两岸经济合作架构协议"（ECFA）继续运作的政治共识基础与前提条件，再次引起对北京或将终止ECFA的关注。
+《人民政协报》星期六（5月6日）发表题为"ECFA从来没有'铁帽子王' "的文章指出，ECFA当年是两岸在坚持"九二共识"前提下签署的，民进党2016年上台后否认了这个前提，大陆可以随时停止这一协议......
+
+#### 美国拟参照援助乌克兰方式 向台湾提供5亿美元军援
+
+https://www.zaobao.com/news/china/story20230506-1391533
+
+美国计划通过类似援助乌克兰的方式，使用紧急授权，推进向台湾提供5亿美元（6亿6305万新元）的武器援助。
+综合彭博社和路透社星期六（5月6日）的报道，消息人士称，美国正计划通过总统提取权（Presidential
+Drawdown Authority）的机制，向台湾提供上述武器援助。
+总统提取权允许美国总统跳过国会审批，直接从美国现有库存调拨物资。这种紧急授权已经被用于向乌克兰提供35次军援......
+
+#### 疫后首届广交会出口订单减少
+
+https://www.zaobao.com/news/china/story20230506-1391528
+
+第133届广交会线下展星期五（5月5日）在广州落幕，虽然主办方声称线下参展企业数量与累计进馆人次均创历史新高，现场出口成交额仍比2019年春季交易会签署的订单下降近三分之一。
+不过，中新社引述广交会新闻发言人、中国对外贸易中心副主任徐兵坚称，本届广交会"出口成交好于预期"......
+
+#### 温伟中：街头巷尾看台湾文化
+
+https://www.zaobao.com/news/china/story20230506-1391199
+
+文化是群体展现创意的结晶，包括精致殿堂文化、充满烟火气的街头美食，也包括对人文与自然环境的保存......
+
+#### 新闻人间：昔日王子陈致中将成阶下囚
+
+https://www.zaobao.com/news/china/story20230506-1391324
+
+"人生有晴天也有暴风，打断手骨颠倒勇（台语，意指更勇敢）"。台湾前总统陈水扁的儿子、民进党籍高雄市议员陈致中4月下旬得悉南港展览馆等案的洗钱罪判刑一年定谳必须入狱，在脸书以此自勉。隔天他再引述德国知名哲学家尼采名言"受苦的人没有悲观的权利"
+，称自己从小到大面临挫折时，"重思这句话好似荒漠甘泉，可赐我勇气、给我智慧"
+......
+
+#### 香港警方扣押"国殇之柱"雕塑 列为涉嫌煽动颠覆国家政权证物
+
+https://www.zaobao.com/news/china/story20230505-1391195
+
+香港警方扣押"国殇之柱"雕塑，被丹麦创作者高志活斥责为无理。图为2021年6月4日香港大学一群学生在雕塑下默哀。（路透社档案照）
+香港警方扣押"国殇之柱"，称这座知名雕塑是一宗涉嫌"煽动颠覆国家政权"罪案的证物。
+香港警务处国家安全处星期五（5日）早上持法庭手令，到元朗区搜查一件涉及一宗"煽动他人颠覆国家政权罪"案件的相关证物......
+
+#### 侯友宜肯定马英九在中国大陆讲出"中华民国" 批民进党"非核家园"根本做不到
+
+https://www.zaobao.com/news/china/story20230505-1391190
+
+新北市长侯友宜在市议会备讯，受到民进党议员从核能、治安等课题轮番猛攻。（互联网）
+新北市长侯友宜公开肯定台湾前总统马英九在中国大陆公开讲出"中华民国"很了不起，并抨击民进党政府2025年"非核家园" "理想很丰满，现实很骨感，根本完全做不到"......
+
+#### 国防军事专家：中国航母扮演"宣传"角色 尚未构成实质威胁
+
+https://www.zaobao.com/news/china/story20230505-1391185
+
+图为2018年4月18日中国海军第一艘航空母舰"辽宁号"，与其他中国海军舰艇在西太平洋展开远航训练。（路透社）
+多名军事和国防分析人士认为，中国海军的航空母舰目前只能展示尚未完全掌握的能力，而要在远离中国海岸的地区发挥实质性威胁，可能还需要十多年的时间。
+路透社发表深度解析报道说，中美若因台湾问题发生冲突，中国航母在冲突中能发挥的作用值得怀疑，目前更像是一件宣传品......
+
+#### 联邦快递拟将亚太总部由香港迁移至新加坡
+
+https://www.zaobao.com/news/china/story20230505-1391176
+
+美国联邦快递集团计划将亚太区总部从香港迁至新加坡，让香港作为国际商业中心的形象再受打击．
+据彭博社星期四（5月4日）报道，联邦快递在一份电邮声明中表示，公司将在新加坡整合部分亚太、中东和非洲总部职能，并在香港保留"显著"存在和领导岗位。公司在上述地区有3万5000名员工，并向100多个国家提供服务......
+
+#### 两中国游客峇厘岛酒店死亡 引发东南亚旅游安全讨论
+
+https://www.zaobao.com/news/china/story20230505-1391163
+
+两名中国游客近日在印尼峇厘岛酒店死亡，死因还在调查中，但事件在中国网民中引发了新一轮对东南亚旅游安全的关注。
+综合《南方都市报》和印尼Indonesia Posts
+English的报道，五星级的峇厘岛洲际酒店是在星期一（5月1日）发现两名住客（一男一女）身亡。中国驻峇厘岛首府登巴萨总领事馆星期四（5月4日）证实，两名死者均为中国公民......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

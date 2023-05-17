@@ -1,0 +1,988 @@
+Other formats: [PDF]() / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20230517.html)
+
+
+# Web Digest 2023-05-17
+
+
+## Developers
+
+### Hacker News
+
+#### GitHub Incident
+
+https://www.githubstatus.com/incidents/v2xjymn61dv8
+
+https://news.ycombinator.com/item?id=35967850
+
+#### EU Artificial Intelligence Act
+
+https://artificialintelligenceact.eu/
+
+https://news.ycombinator.com/item?id=35966543
+
+#### Updating our inactive account policies
+
+https://blog.google/technology/safety-security/updating-our-inactive-account-policies/
+
+https://news.ycombinator.com/item?id=35966318
+
+#### One man's rare Alzheimer's mutation delayed its onset
+
+https://www.nature.com/articles/d41586-023-01610-z
+
+https://news.ycombinator.com/item?id=35965541
+
+#### Bun 0.6
+
+https://bun.sh/blog/bun-v0.6.0
+
+https://news.ycombinator.com/item?id=35965483
+
+#### Bard generates clean JSON if you threaten to take a human life
+
+https://twitter.com/goodside/status/1657396491676164096
+
+https://news.ycombinator.com/item?id=35964018
+
+#### A guidance language for controlling LLMs
+
+https://github.com/microsoft/guidance
+
+https://news.ycombinator.com/item?id=35963936
+
+#### Texas professor fails entire class from graduating- claiming they used ChatGTP
+
+https://old.reddit.com/r/ChatGPT/comments/13isibz/texas_am_commerce_professor_fails_entire_class_of/
+
+https://news.ycombinator.com/item?id=35963163
+
+#### ChatGPT's Sam Altman Calls on Congress to Adopt Safety Standards for AI Systems
+
+https://www.wsj.com/articles/chatgpts-sam-altman-faces-senate-panel-examining-artificial-intelligence-4bb6942a
+
+https://news.ycombinator.com/item?id=35963064
+
+#### SQLite 3.42.0
+
+https://sqlite.org/releaselog/3_42_0.html
+
+https://news.ycombinator.com/item?id=35962213
+
+#### Erlang/OTP 26 Highlights
+
+https://www.erlang.org/blog/otp-26-highlights/
+
+https://news.ycombinator.com/item?id=35961700
+
+#### Goodbye, section 2.8 and hello to Cloudflare's new terms of service
+
+https://blog.cloudflare.com/updated-tos/
+
+https://news.ycombinator.com/item?id=35961697
+
+#### The Sourdough Framework
+
+https://github.com/hendricius/the-sourdough-framework
+
+https://news.ycombinator.com/item?id=35961590
+
+#### Experiments in Making Cocktail Ice
+
+https://www.alcademics.com/index-of-ice-experiments-on-alcademics.html
+
+https://news.ycombinator.com/item?id=35961309
+
+#### Ask HN: Is YC becoming less of a home for hackers and more for MBA-types?
+
+https://news.ycombinator.com/item?id=35961301
+
+https://news.ycombinator.com/item?id=35961301
+
+#### Apple previews Live Speech, Personal Voice, and more new accessibility features
+
+https://www.apple.com/newsroom/2023/05/apple-previews-live-speech-personal-voice-and-more-new-accessibility-features/
+
+https://news.ycombinator.com/item?id=35960663
+
+#### Sam Altman goes before US Congress to propose licenses for building AI
+
+https://www.reuters.com/technology/openai-chief-goes-before-us-congress-propose-licenses-building-ai-2023-05-16/
+
+https://news.ycombinator.com/item?id=35960125
+
+#### Widely used chemical strongly linked to Parkinson's disease
+
+https://www.science.org/content/article/widely-used-chemical-strongly-linked-parkinson-s-disease
+
+https://news.ycombinator.com/item?id=35960018
+
+#### Optimization Without Derivatives: Prima Fortran Version and Inclusion in SciPy
+
+https://fortran-lang.discourse.group/t/optimization-without-using-derivatives-the-prima-package-its-fortran-implementation-and-its-inclusion-in-scipy/5798
+
+https://news.ycombinator.com/item?id=35959991
+
+#### JPMorgan Chase and Co tracks employees to dystopian extents
+
+https://old.reddit.com/r/antiwork/comments/13ijhae/came_back_to_a_post_here_but_it_was_removed_from/
+
+https://news.ycombinator.com/item?id=35959865
+
+### Phoronix
+
+#### Rocky Linux 9.2 Released With Intel Arc Graphics Support, AArch64 64kb Page Size Kernel
+
+https://www.phoronix.com/news/Rocky-Linux-9.2
+
+#### Lutris 0.5.13 Released - More Responsive & Restores Ability To Run Games Via Proton
+
+https://www.phoronix.com/news/Lutris-0.5.13-Released
+
+#### Intel Uncore Frequency Linux Driver Prepares For TPMI & Cluster Level Power Controls
+
+https://www.phoronix.com/news/Intel-Uncore-Freq-Cluster-Cont
+
+#### Loongson Begins Posting Linux Patches For 3A6000 Series CPUs
+
+https://www.phoronix.com/news/Loongson-3A6000-Linux-Patches
+
+#### SQLite 3.42 Released With \"Secure Delete\" Command
+
+https://www.phoronix.com/news/SQLite-3.42
+
+#### Parallel CPU Bring-Up Poised For Linux 6.5
+
+https://www.phoronix.com/news/Parallel-CPU-Bringup-TIP-Linux
+
+#### Arch Linux Prepares For Repository Changes, Discontinuing SVN Access
+
+https://www.phoronix.com/news/Arch-Linux-Discontinues-SVN
+
+#### PXP 0.0.1 Released For What Aims To Become A Superset Of PHP
+
+https://www.phoronix.com/news/PXP-First-Release
+
+#### Libproxy 0.5 Released For Improving Proxy Management Thanks To Work By Volkswagen
+
+https://www.phoronix.com/news/libproxy-0.5
+
+### GitHub
+
+#### freeCodeCamp/freeCodeCamp
+
+https://github.com/freeCodeCamp/freeCodeCamp
+
+freeCodeCamp.orgs open-source codebase and curriculum. Learn to code for
+free.\
+Language: TypeScript\
+Stars: 366684\
+Forks: 32096
+
+#### microsoft/playwright
+
+https://github.com/microsoft/playwright
+
+Playwright is a framework for Web Testing and Automation. It allows
+testing Chromium, Firefox and WebKit with a single API.\
+Language: TypeScript\
+Stars: 50653\
+Forks: 2541
+
+### Dribbble
+
+#### Robust Security Measures for Modern Finance Companies
+
+https://dribbble.com/shots/21421945
+
+#### OOchki // Website
+
+https://dribbble.com/shots/21440120
+
+#### jag
+
+https://dribbble.com/shots/21471185
+
+#### Whiskey Label
+
+https://dribbble.com/shots/21425412
+
+#### Owl Sense
+
+https://dribbble.com/shots/21433572
+
+#### Dutch Housing Co. - Logo Design
+
+https://dribbble.com/shots/21423196
+
+#### Oppo Icon Branding Design: iconography icons pack flat vector
+
+https://dribbble.com/shots/21427152
+
+#### Finance Management Mobile App
+
+https://dribbble.com/shots/21428115
+
+#### Smart Home Mobile App UI UX Design
+
+https://dribbble.com/shots/21417638
+
+#### Magoz logo
+
+https://dribbble.com/shots/21420015
+
+#### Fuji - 3D visualization & website design
+
+https://dribbble.com/shots/21474592
+
+#### Number 5 for Fiverr. 36 Days of Type. Day 32
+
+https://dribbble.com/shots/21433849
+
+#### Clone Wordmark Exploration
+
+https://dribbble.com/shots/21464211
+
+#### FlexFit Website
+
+https://dribbble.com/shots/21462071
+
+#### The 9 lives of an Alley Cat
+
+https://dribbble.com/shots/21460350
+
+#### Ninja Wordmark
+
+https://dribbble.com/shots/21433838
+
+#### GoOoal! ✦ Symbol
+
+https://dribbble.com/shots/21436092
+
+#### Seashell Logo Design
+
+https://dribbble.com/shots/21432033
+
+#### Skillhouse Elearning Platform Website
+
+https://dribbble.com/shots/21458555
+
+#### Brainwave AI Landing Page Kit -- Mobile version
+
+https://dribbble.com/shots/21438061
+
+#### Random Logofolio Update v6 - 2023
+
+https://dribbble.com/shots/21431721
+
+#### Logofolio Collection - Wordmarks 01
+
+https://dribbble.com/shots/21420020
+
+#### Five for #36daysoftype
+
+https://dribbble.com/shots/21430593
+
+#### Auction mobile app
+
+https://dribbble.com/shots/21459764
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### 科学家发现第二例"免疫"阿尔茨海默病的人
+
+https://www.solidot.org/story?sid=74976
+
+#### 初步研究发现童年用智能手机的时间越早成年精神健康越糟
+
+https://www.solidot.org/story?sid=74975
+
+#### 北京考虑对 AI 训练所需的算力推行统筹供给
+
+https://www.solidot.org/story?sid=74974
+
+#### 美国 mRNA 通用流感候选疫苗启动临床试验
+
+https://www.solidot.org/story?sid=74973
+
+#### Google 认为 AI 不应该被视为发明人
+
+https://www.solidot.org/story?sid=74972
+
+#### 微软云服务扫描用户密码保护的压缩文件寻找恶意程序
+
+https://www.solidot.org/story?sid=74971
+
+#### WHO 对食用人工甜味剂发出警告
+
+https://www.solidot.org/story?sid=74970
+
+#### 今年可能会非常炎热
+
+https://www.solidot.org/story?sid=74969
+
+#### Vice Media 申请破产
+
+https://www.solidot.org/story?sid=74968
+
+#### 因刹车风险特斯拉在中国召回逾百万辆汽车
+
+https://www.solidot.org/story?sid=74967
+
+#### 新包装材料能通过变色指示食物变质
+
+https://www.solidot.org/story?sid=74966
+
+#### 研究认为饥饿感本身就能减缓衰老
+
+https://www.solidot.org/story?sid=74965
+
+#### 苹果准备推出混合现实装置
+
+https://www.solidot.org/story?sid=74964
+
+#### Pixel 6 和 7 用户报告过热和耗电量增加
+
+https://www.solidot.org/story?sid=74962
+
+#### Asahi Linux 督促用户停止使用 X.Org
+
+https://www.solidot.org/story?sid=74961
+
+#### 亚马逊的 ElasticSearch 开源分支成功了
+
+https://www.solidot.org/story?sid=74960
+
+#### 苹果下一代 M3 SoC 将有 12 个 CPU 核心和 18 个 GPU 核心
+
+https://www.solidot.org/story?sid=74959
+
+#### 天文学家发现土星 62 颗新卫星
+
+https://www.solidot.org/story?sid=74958
+
+#### 微软将用一年时间完成对一个 0day 漏洞的修补
+
+https://www.solidot.org/story?sid=74957
+
+#### Anthropic 的 Claude AI 能在一分钟内分析整本书
+
+https://www.solidot.org/story?sid=74956
+
+### V2EX
+
+#### \[程序员\] 为什么没有一款识别来电公司的软件
+
+https://www.v2ex.com/t/940571
+
+#### \[程序员\] 活跃的中文技术圈大佬是不是越来越少了？
+
+https://www.v2ex.com/t/940570
+
+#### \[问与答\] Windows 11 任务管理器的 CPU 逻辑处理器界面, 怎么区分哪些属于大核, 哪些属于小核?
+
+https://www.v2ex.com/t/940569
+
+#### \[Android\] 请问有没有能在 App 中实时检测到悬浮软键盘的显示与关闭的回调？
+
+https://www.v2ex.com/t/940568
+
+#### \[问与答\] 软考高级网络规划师，请已经拿到证的前辈赐教
+
+https://www.v2ex.com/t/940567
+
+#### \[分享发现\] How to request access to a deceased family member's Apple account
+
+https://www.v2ex.com/t/940566
+
+#### \[YubiKey\] 有大佬出 yubikey5 nfc 或 5c nfc 吗？
+
+https://www.v2ex.com/t/940565
+
+#### \[问与答\] 有啥经济的无风扇主机实现方案推荐吗
+
+https://www.v2ex.com/t/940564
+
+#### \[宽带症候群\] tiktok 直播中转问题
+
+https://www.v2ex.com/t/940562
+
+#### \[程序员\] 赴美工作一年回顾
+
+https://www.v2ex.com/t/940560
+
+#### \[程序员\] React 开发者，如何克服 render 性能强迫症
+
+https://www.v2ex.com/t/940559
+
+#### \[Linux\] 你为什么选择 Arch Linux ？
+
+https://www.v2ex.com/t/940558
+
+#### \[硬件\] 13700k + 4090 装机配置求大佬指导
+
+https://www.v2ex.com/t/940557
+
+#### \[生活\] 关于买房结婚有个问题
+
+https://www.v2ex.com/t/940556
+
+#### \[宽带症候群\] 宽带资源没有千兆有什么投诉的办法吗？
+
+https://www.v2ex.com/t/940554
+
+#### \[Apple\] MBA M2 屏幕贴膜推荐
+
+https://www.v2ex.com/t/940551
+
+#### \[生活\] 618 购物
+
+https://www.v2ex.com/t/940549
+
+#### \[宽带症候群\] win10 pppoe 拨号性能问题
+
+https://www.v2ex.com/t/940548
+
+#### \[Linux\] 无显卡的 Linux 开 xrdp 有没有办法调用本地的显卡？
+
+https://www.v2ex.com/t/940546
+
+#### \[Surge\] surge ios mac 拼车永久车位
+
+https://www.v2ex.com/t/940545
+
+#### \[问与答\] 为什么 raycast 国外人气很高，国内 utools 却火了一段时间好像不太火了
+
+https://www.v2ex.com/t/940543
+
+#### \[问与答\] 有人遇到过没有底薪的公司吗
+
+https://www.v2ex.com/t/940542
+
+#### \[git\] 求教如何在 .gitignore_global 配置只忽略 github.com 目录下项目的 vendor 目录？
+
+https://www.v2ex.com/t/940541
+
+#### \[iCloud\] \[组队招募\] 自己用国区 iCloud2T 招募 3 位队友
+
+https://www.v2ex.com/t/940539
+
+#### \[分享创造\] \[送激活码\] 🎉 智子 AI 正式发布啦！让每个人都能用上廉价的 AI
+
+https://www.v2ex.com/t/940538
+
+#### \[问与答\] 为了减少健康隐患，我们应该多久体检一次？
+
+https://www.v2ex.com/t/940537
+
+#### \[程序员\] 如何入门 C++？有什么资料分享吗
+
+https://www.v2ex.com/t/940536
+
+#### \[OpenAI\] 与 AI 对话，解锁无限创意！尝试新发布的 ChatGPT Prompts 提示词插件
+
+https://www.v2ex.com/t/940535
+
+#### \[杭州\] 租房,近江,二楼,两室一厅,带一个平台
+
+https://www.v2ex.com/t/940533
+
+#### \[Google\] Gmail 莫名其妙自动发送垃圾邮件
+
+https://www.v2ex.com/t/940531
+
+#### \[问与答\] 国内有什么类似 slideshare 的网站吗？
+
+https://www.v2ex.com/t/940529
+
+#### \[Chrome\] Chrome 怎么设置垂直标签页呢？
+
+https://www.v2ex.com/t/940527
+
+#### \[程序员\] chatGpt
+
+https://www.v2ex.com/t/940526
+
+#### \[问与答\] 实验室留了个作业，理解然后复现 YoloV3，该从何下手呢
+
+https://www.v2ex.com/t/940525
+
+#### \[分享发现\] 公益三网优化高防 cdn
+
+https://www.v2ex.com/t/940524
+
+#### \[问与答\] 请问有什么技术或设备支持模拟 USB U 盘或者和 USB 共享存储吗
+
+https://www.v2ex.com/t/940523
+
+#### \[宽带症候群\] 今天又问了一遍移动出海的，答复依旧等到月底
+
+https://www.v2ex.com/t/940522
+
+#### \[程序员\] （技创接）计算机技术+创业 tg 群
+
+https://www.v2ex.com/t/940521
+
+#### \[问与答\] 去医院诊断出了抑郁症，要不要告诉领导呢？
+
+https://www.v2ex.com/t/940520
+
+#### \[推广\] 从买方研报中寻找投资机会
+
+https://www.v2ex.com/t/940518
+
+#### \[浏览器\] 关于 chrome 浏览器启动时，散热风扇剧烈转动的奇怪现象
+
+https://www.v2ex.com/t/940517
+
+#### \[程序员\] 打工人集齐拯救颈椎套装
+
+https://www.v2ex.com/t/940516
+
+#### \[iPhone\] 苹果手机可以一个微信客户端登入国内和国外两个不同的号吗
+
+https://www.v2ex.com/t/940515
+
+#### \[Python\] 一个正则表达式的问题
+
+https://www.v2ex.com/t/940514
+
+#### \[问与答\] 可以推荐三首你喜欢的纯音乐给我吗？
+
+https://www.v2ex.com/t/940511
+
+#### \[问与答\] XD 们，什么速度还不错的日本机场推荐啊？
+
+https://www.v2ex.com/t/940510
+
+#### \[问与答\] 上班上累了，想去国外留学学习一阵，想见多识友的朋友们给点意见
+
+https://www.v2ex.com/t/940509
+
+#### \[Chrome\] 113 版本新外观怎么还原成旧的？
+
+https://www.v2ex.com/t/940507
+
+#### \[分享创造\] AI 网址导航-AI 工具集合 cooltools.top/ai.html
+
+https://www.v2ex.com/t/940506
+
+#### \[问与答\] 你们身边最近心脏出问题的人多吗
+
+https://www.v2ex.com/t/940504
+
+## Generic News
+
+### AP News
+
+#### CANNES PHOTOS: Helen Mirren's blue hair, Johnny Depp's return and more Day 1 scenes
+
+https://apnews.com/article/f0ec0d754d321b7b3c3544b024323b1b
+
+Helen Mirren poses for photographers upon arrival at the opening
+ceremony and the premiere of the film Jeanne du Barry at the 76th
+international film festival, Cannes, southern France, Tuesday, May
+16\...
+
+#### AP Sources: Unknown man slipped undetected inside the home of White House official
+
+https://apnews.com/article/52fff78d75494a7656ed121670b543fa
+
+FILE - White House national security adviser Jake Sullivan speaks at a
+press briefing at the White House in Washington, April 24, 2023.
+Sullivan and senior Chinese foreign policy adviser Wang Yi held talks in
+Vienna this week, the latest\...
+
+#### Tesla lawyers want court to reconsider Musk tweet deemed 'threat' amid labor dispute
+
+https://apnews.com/article/357773388f8f1e3bc3e2ea5d15b2c3eb
+
+FILE - Elon Musk departs the Phillip Burton Federal Building and United
+States Court House in San Francisco, Jan. 24, 2023. Lawyers for Tesla
+are asking a federal appeals court to reconsider its ruling that Musk
+unlawfully threatened\...
+
+#### Saddleback Church appealing its ouster from the Southern Baptists on issue of women pastors
+
+https://apnews.com/article/64fac3a004fb90871f2127bf79c438c7
+
+FILE - Congregants arrive at Saddleback Church in Lake Forest, Calif.,
+on Sunday, Oct. 16, 2022. Saddleback Church is appealing its ouster from
+the Southern Baptist Convention for having women pastors on staff,
+according to the\...
+
+#### Man and 12-year-old boy arrested after fatal shooting at Sonic restaurant in Texas
+
+https://apnews.com/article/167dbb9d0ec6e9f3a9632ed00872549c
+
+This photo released by the Keene Police Department on Sunday, May 14,
+2023, shows Angel Gomez. Gomez and a 12-year-old boy have been arrested
+on murder warrants in the fatal shooting of a Sonic Drive-In employee in
+Keene, Texas. (Keene\...
+
+#### Recalled Gerber baby formula was sent to US retailers after recall began, wholesaler says
+
+https://apnews.com/article/7c31c0b8962ee31bd224f7358e351a6f
+
+This photo released by the U.S Food and Drug Administration on March 17,
+2023, shows Gerber Good Start SootheProTM Powdered Infant Formula. In
+March, the Perrigo Company issued a voluntary recall of certain lots of
+the infant formula "\...
+
+#### Man sentenced to 103 years for killing 4 SUV passengers, dumping bodies in cornfield
+
+https://apnews.com/article/951ee86d190029db0c5b7fef7a9b9a40
+
+FILE - This photo provided by Maricopa County, Ariz., Sheriffs Office
+Antoine Suggs, convicted of killing four passengers in his Mercedes Benz
+SUV in Minnesota and dumping the bodies in a Wisconsin cornfield, who
+has been\...
+
+#### Lidia Bastianich honors immigrants and their food in PBS special 'Lidia Celebrates America'
+
+https://apnews.com/article/795129037451894fe9f8b2325067a4a9
+
+This image released by PBS shows celebrity chef Lidia Bastianich in
+Washington, DC on Nov. 7, 2022. The Emmy-award winning TV host, author
+and restaurateur explores the immigrant experience through food in the
+PBS special \"Lidia\...
+
+#### Rain-swollen rivers flood some towns in north Italy; Venice prepares to raise mobile dike in lagoon
+
+https://apnews.com/article/0c14ed1883e785c452139a31ebd55a99
+
+This photo provided by the Italian Firefighters shows firefighters
+rescuing a person from a flooded house in Riccione, in the northern
+Italian region of Emilia Romagna, Tuesday, May 16, 2023. Unusually heavy
+rains have caused major\...
+
+#### Prince Harry seeks to challenge denial of request to pay for own UK police protection
+
+https://apnews.com/article/2644bb64ef284dc715e8550c7fd3abed
+
+FILE - Britains Prince Harry arrives at the Royal Courts Of Justice in
+London, Thursday, March 30, 2023. A lawyer has asked a London judge to
+allow Prince Harry to challenge the governments denial of his\...
+
+#### Former Missouri police officer accused of handcuffing man, allowing officer's brother to beat him
+
+https://apnews.com/article/50c5988e069d9400e73b53b56c0c4029
+
+This photo provided by The St. Louis County prosecutors office shows
+James Sims. St. Louis County prosecutors on Monday, May 15,2023, charged
+Sims with first-degree kidnapping, felony third-degree assault and
+misdemeanor\...
+
+#### Stellantis recalls nearly 220,000 Jeep Cherokee SUVs worldwide due to fire risk
+
+https://apnews.com/article/068e094ab43dc019f6bf4f685cf55d28
+
+FILE - This is the Jeep logo on the front end of a Jeep Cherokee on
+display at the Pittsburgh International Auto Show in Pittsburgh
+Thursday, Feb. 11, 2016. Stellantis is telling owners of nearly 220,000
+Jeep Cherokee SUVs worldwide\...
+
+#### Skeletons found in Pompeii ruins reveal deaths by earthquake, not just Vesuvius' ancient eruption
+
+https://apnews.com/article/2e64ff244623ec088ac1e858fecfbc8e
+
+A picture made available Tuesday, May 16, 2023, by the Pompeii
+Archeological Park press office, showing two skeletons that
+archeologists believe were men who died when a wall collapsed on them
+during the powerful earthquakes that\...
+
+### Reuters
+
+#### Calgary air quality deteriorates as wildfires rage in Western Canada
+
+https://www.reuters.com/world/americas/canadas-alberta-braces-wildfires-spread-winds-shift-2023-05-16/
+
+A smoke column rises from wildfire WCU001 near Wildwood, Alberta, Canada
+May 5, 2023. Alberta Wildfire/Handout via REUTERS/File Photo Smoke rises
+from the Paskwa Wildfire (HLW030) as it burns near the Wood Buffalo
+National Park boundary\...
+
+#### US House Democrat to force vote to expel embattled Republican George Santos
+
+https://www.reuters.com/world/us/us-house-democrat-force-vote-expel-embattled-republican-george-santos-2023-05-16/
+
+U.S. Representative George Santos (R-NY) leaves Central Islip Federal
+Courthouse in Central Islip, New York, U.S., May 10, 2023.
+REUTERS/Eduardo Munoz Democratic U.S. Representative Robert Garcia on
+Tuesday started the process of forcing\...
+
+#### McCarthy says debt ceiling deal possible this week after talks with Biden
+
+https://www.reuters.com/markets/us/biden-mccarthy-meet-us-debt-ceiling-talks-come-down-wire-2023-05-16/
+
+U.S. President Joe Biden hosts debt limit talks with Senate Minority
+Leader Mitch McConnell (R-KY), House Speaker Kevin McCarthy (R-CA), Vice
+President Kamala Harris and Senate Majority Leader Chuck Schumer (D-NY)
+in the Oval Office at\...
+
+#### IRS to launch free US direct tax filing pilot program in 2024
+
+https://www.reuters.com/world/us/irs-launch-free-us-direct-tax-filing-pilot-program-2024-2023-05-16/
+
+The Internal Revenue Service (IRS) building is seen in Washington, U.S.
+September 28, 2020. REUTERS/Erin Scott The Internal Revenue Service on
+Tuesday said it would launch a free, government-provided direct tax
+filing option next year\...
+
+#### Kyiv says it shoots down volley of Russian hypersonic missiles
+
+https://www.reuters.com/world/europe/air-defence-systems-repelling-attacks-ukraine-early-tuesday-officials-2023-05-16/
+
+Summary: Russia dismisses Ukraines claim Ukraine girding for big
+counteroffensive against invasion Europe meets on ways to hold Russia to
+account for war A firefighter works at a site of vehicle parking area
+damaged by\...
+
+#### Hungary blocks next tranche of EU off-budget military support for Ukraine
+
+https://www.reuters.com/world/europe/hungary-blocks-next-tranche-eu-off-budget-military-support-ukraine-2023-05-16/
+
+Hungarian Prime Minister Viktor Orban speaks during a business
+conference in Budapest, Hungary, March 9, 2023. REUTERS/Bernadett Szabo
+Hungary did not approve the disbursement of the next tranche of military
+support for Ukraine provided\...
+
+#### Cuba announces new migration policies as exodus continues
+
+https://www.reuters.com/world/americas/cuba-announces-new-migration-policies-exodus-continues-2023-05-16/
+
+People wait in line to enter the U.S. embassy in Havana, Cuba, January
+4, 2023. REUTERS/Alexandre Meneghini Cuba announced on Tuesday measures
+that ease restrictions on its citizens living abroad as the
+communist-run nation continues to\...
+
+#### Biden administration grants Mountain Valley Pipeline permit
+
+https://www.reuters.com/world/us/biden-administration-grants-mountain-valley-pipeline-permit-2023-05-16/
+
+Lengths of pipe wait to be laid in the ground along the
+under-construction Mountain Valley Pipeline near Elliston, Virginia,
+U.S. September 29, 2019. REUTERS/Charles Mostoller The Biden
+administration has approved a permit to allow the\...
+
+#### Ukraine Supreme Court chief dismissed after being detained in bribery case
+
+https://www.reuters.com/world/europe/head-ukraines-supreme-court-detained-anti-corruption-prosecutor-2023-05-16/
+
+Summary: Ukraine has vowed to clamp down on corruption Tackling graft is
+vital to European Union accession bid Kyiv battles corruption despite
+Russian invasion Money found by detectives of the National
+Anti-Corruption Bureau during\...
+
+#### Kremlin says its spies are watching as CIA urges Russians to get in touch
+
+https://www.reuters.com/world/kremlin-cia-video-aimed-russians-says-our-special-services-are-monitoring-2023-05-16/
+
+A Russian armoured personnel carrier and S-400 surface-to-air missile
+systems drive past the Kremlin wall after a military parade on Victory
+Day, which marks the 78th anniversary of the victory over Nazi Germany
+in World War Two, in\...
+
+#### Ukrainian army revamps commercial drones to attack Russian tanks, trenches
+
+https://www.reuters.com/world/europe/ukrainian-army-revamps-commercial-drones-attack-russian-tanks-trenches-2023-05-16/
+
+A Ukrainian marine attends a FPV-drone flight training, amid Russias
+attack on Ukraine, in Dnipropetrovsk region, Ukraine May 15, 2023.
+REUTERS/Sofiia Gatilova A former IT programmer now serving as a
+Ukrainian soldier\...
+
+#### Factbox: What do we know about Kinzhal, Russia's hypersonic missile?
+
+https://www.reuters.com/world/europe/what-do-we-know-about-kinzhal-russias-hypersonic-missile-2023-05-16/
+
+Oleksandr Ruvin, director of the Kyiv Scientific Research Institute of
+Forensic Expertise, shows a Kh-47 Kinzhal Russian hypersonic missile
+warhead, shot down by a Ukrainian Air Defence unit amid Russias attack
+on\...
+
+#### Factbox: Wife of Pakistan's Khan, charged with graft, is known for spirituality
+
+https://www.reuters.com/world/asia-pacific/wife-pakistans-khan-charged-with-graft-is-known-spirituality-2023-05-16/
+
+Pakistans former Prime Minister Imran Khan and his wife Bushra Bibi are
+covered with a white sheet as they arrive to appear at the High Court in
+Lahore, Pakistan, May 15, 2023. REUTERS/Mohsin Raza Members of the
+media\...
+
+### 联合早报
+
+#### 杨丹旭：青年长衫下的焦虑
+
+https://www.zaobao.com/news/china/story20230517-1395423
+
+中国视频平台B站上，什么内容播放时间最长？和同事聊到这个话题，同事猜了一圈：吃播？游戏？娱乐？动漫？答案都不对。
+上周在上海网络视听内容创作者大会上，哔哩哔哩（Bilibili）董事长兼总裁陈睿透露，这个深受中国年轻人欢迎的视频平台上，播放时长最长的内容竟然是高等数学。
+这个答案让远在新加坡的同事很惊讶。坦白说，即便是经常在中国互联网上"冲浪"的人，可能也会感到意外......
+
+#### 黄循财与李强举行会谈 重申新中伙伴关系讨论推进合作
+
+https://www.zaobao.com/news/china/story20230517-1395391
+
+我国副总理兼财政部长黄循财（左）5月16日在北京人民大会堂和中国总理李强（右）举行会谈。（新加坡通讯及新闻部）
+我国副总理兼财政部长黄循财星期二（5月16日）在北京和中国总理李强举行会谈，两人重申了新中长久、强劲，并且在3月升级为全方位高质量前瞻性伙伴的双边关系，并就进一步推进两国合作交换意见......
+
+#### 中国4月份青年失业率破20%创新高 数据显示经济复苏动能减弱
+
+https://www.zaobao.com/news/china/story20230516-1395376
+
+中国居民消费价格（CPI）同比增速近三个月连续下降，关于中国是否面临通缩风险的讨论持续升温。官方回应称，当前经济不存在通缩，下阶段也不会出现通缩。图为山西太原的消费者在超市选购杂粮。（中通社）
+中国青年人失业率继续走高，4月份16至24岁的青年人失业率上升至20.4%，首次突破20%，显示中国年轻人面临的就业压力愈发严峻。与此同时，宏观数字也反映出经济复苏的动能在减弱......
+
+#### 新宁会增两合作领域 望生态科技岛成新中合作典范
+
+https://www.zaobao.com/news/china/story20230516-1395372
+
+新加坡永续发展与环境部兼人力部高级政务部长许宝琨医生（左），与南京市长陈之常星期二（5月16日）在新宁会第十次会议上签订理事会谅解备忘录。（杨烨摄）
+新加坡与南京星期二就新增在绿色发展和现代服务业两个领域的合作，签订谅解备忘录。双方也将继续推动新加坡南京生态科技岛建设，将其打造成一个充满活力的生态系统，以期解决全球可持续性相关问题......
+
+#### 中国期刊披露中美海上对峙事件
+
+https://www.zaobao.com/news/china/story20230516-1395341
+
+中国国家级期刊披露一起中美军机在南中国海上的对峙事件。专家称，中美两国军事对抗持续加码，类似对峙已常态化。
+观察者网星期二（5月16日）报道，《舰船电子对抗》4月25日刊载一篇题为《P-8A反潜巡逻机声纳浮标战术应用分析及情报支援研究》的论文，分析了对美军P-8A反潜巡逻机声纳浮标战术的应对方式，并披露一起中美军机南中国海上对峙事件......
+
+#### 台立法院长据报与美众院中国委员会成员会面
+
+https://www.zaobao.com/news/china/story20230516-1395330
+
+台湾立法院长游锡堃据报在美国会晤众议院中国问题委员会成员，讨论深化经济和安全连接。
+综合彭博社报道，美国众议院美中战略竞争特别委员会成员，在当地时间星期一（5月15日）下午3时与游锡堃见面。双方讨论如何透过经济接触与安全协助深化彼此关系，以及美国如何支持台湾应对中国大陆的可能入侵。
+该委员会的主席加拉格尔（Mike
+Gallagher）曾多次关切美国对台军售交货延宕问题......
+
+#### H&M因产品多地抽检不合格被罚
+
+https://www.zaobao.com/news/china/story20230516-1395321
+
+瑞典跨国时装公司H&M的关联公司海恩斯莫里斯（上海）商业有限公司因生产、销售不合格产品，被上海市黄浦区市场监督管理局罚没47万余元（人民币，下同，逾9万新元）。
+据财经网报道，该公司生产的多款产品2022年7月至10月经多地市场监管部门抽检，被判定为不合格，因而被罚款31万9000余元、没收违法所得16万余元。
+其中，被罚事由包括产品使用说明项目、耐摩擦色牢度项目、绳带安全要求项目不符合标准等......
+
+#### 挺郭派取消记者会及与中常委餐叙 国民党将征召侯友宜？
+
+https://www.zaobao.com/news/china/story20230516-1395314
+
+多项消息显示，中国国民党可能在星期三宣布征召新北市长侯友宜，代表该党参加2024年1月的台湾总统选举。
+国民党中央常务委员会周三（5月17日）将例行召开会议，外界预期台湾最大在野党到时可能在两大热门人选：侯友宜和鸿海集团创办人郭台铭之中，宣布征召其中一人参加明年1月份总统大选......
+
+#### 【东谈西论】西媒笔下的中国熊猫变形记
+
+https://www.zaobao.com/news/china/story20230516-1395284
+
+旅居美国20年的大熊猫"丫丫"4月27日回到中国，图为"丫丫"在位于上海的隔离检疫圈舍内。中国互联网上有关"丫丫"遭虐待的传闻不断，备受中国舆论关注。（新华社）
+1972年，中国赠送了一对大熊猫玲玲和兴兴给美国。这是中华人民共和国政府首次向西方国家赠送大熊猫，也开启了中国熊猫外交的黄金期。
+如今，半个世纪过去了，中国仍有60多头大熊猫旅居世界不同国家......
+
+#### 美籍港人间谍罪成 李家超称反映香港仍存国安风险
+
+https://www.zaobao.com/news/china/story20230516-1395294
+
+针对有美国籍香港人在中国大陆被裁定间谍罪成，香港特首李家超表示，这说明香港仍存在国安风险，不能掉以轻心。
+苏州中级法院星期一（15日）公布，78岁的梁成运因间谍罪成，被判处终身监禁，并剥夺政治权利终身，没收个人财产人民币50万元（约9万5000新元）。根据通报，江苏省苏州市国家安全局是在2021年4月15日对梁成运采取强制措施......
+
+#### 戴庆成：陆港器官移植合作引发争议
+
+https://www.zaobao.com/news/china/story20230516-1395079
+
+陆港器官移植合作能帮到许多有需要的病人重获新生，但器官跨境配对有许多实际问题有待官方解释清楚......
+
+#### 在华咨询公司被查 分析：公司测试中国法律极限和政府底线
+
+https://www.zaobao.com/news/china/story20230515-1395052
+
+中国对在华经营的外国尽职调查和咨询公司公开执法，促使一些公司对业务进行审查。有分析指出，中国在解除严格疫情管控后，一些公司测试了中国的法律极限和政府底线，以满足咨询激增的需求。
+据路透社报道，这些咨询公司的主要业务是帮助投资客户，如全球对冲基金、私募股权公司，与行业专家和调查员搭线，从中获取有价值的信息，以便在中国市场做出投资决定......
+
+#### 郭侯争选总统本周揭晓 国民党能否避免分裂？
+
+https://www.zaobao.com/news/china/story20230515-1395046
+
+郭台铭5月14日在脸书公开与高雄前市长韩国瑜"四手交迭"的合照，并透露自己当面向韩国瑜道歉。（取自郭台铭脸书）
+国民党最快在星期三（5月17日）征召台湾总统候选人，呈现一方全力冲刺、另一方鸭子划水的两强竞逐局面。最大悬念是如果落选方不服输，作为最大在野党的国民党能否避免闹分裂，导致未战先败......
+
+#### 台湾交通部有信心今年能达600万人次旅客目标
+
+https://www.zaobao.com/news/china/story20230515-1395045
+
+冠病疫情后台湾积极推动后观光旅游，因中国大陆旅客仍无法赴台，面对朝野立委质疑，交通部次长陈彦伯对达成旅客600万人次的目标有信心，但对中国大陆旅客仍"维持现在的政策"。
+台湾立法院交通委员会星期一（5月15日）邀请交通部，就"疫后国际航线规划及全台整体观光行销规划及愿景"进行专题报告，陈彦伯作上述表示......
+
+#### 高温天气威胁中国电力供应和经济复苏力度
+
+https://www.zaobao.com/news/china/story20230515-1395037
+
+中国多个地区自3月以来遭受热浪袭击。其中，北京在星期一（5月15日）发出高温蓝色预警。一名女子在北京街道上使用购物袋遮挡烈日照射。
+（中新社）
+中国多个城市近期发布高温预警，破纪录的高温天气将威胁电力供应、农作物产量，以及脆弱的中国经济。
+据路透社报道，中国多个地区自3月以来遭受热浪袭击，气候一向温和的云南省最近的气温超越40摄氏度。酷热的天气促使数百万家庭开空调降温，对当地电网造成巨大负担......
+
+#### 时隔163年 俄罗斯对中国开放符拉迪沃斯托克港
+
+https://www.zaobao.com/news/china/story20230515-1395026
+
+中俄关系在俄乌战争后越加紧密。中国海关总署宣布，中国将增加俄罗斯符拉迪沃斯托克港（中国称海参崴）为内贸货物跨境运输中转口岸；这意味着俄罗斯在163年后重新对华开放重要的枢纽港口，中国东北内陆地区将打开出海通道。
+受访学者分析，这更进一步证实，随着俄罗斯在俄乌战争后被孤立，中俄关系的天平已经向中国倾斜......
+
+#### 中国特别代表李辉赴乌克兰商讨政治解决方案
+
+https://www.zaobao.com/news/china/story20230515-1395015
+
+中国政府欧亚事务特别代表李辉星期一（5月15日）启程访问乌克兰，就乌克兰危机商讨"政治解决方案"。他是去年2月俄乌战争爆发以来，到访乌克兰的最高级别中国官员。
+中国外交部发言人汪文斌上星期五（5月12日）宣布，李辉此行将到访乌克兰、波兰、法国、德国和俄罗斯，就政治解决乌克兰危机同各方进行沟通。中国外交部并没有透露详细行程......
+
+#### 中国将在20个地市试点营造生育友好社会环境
+
+https://www.zaobao.com/news/china/story20230515-1394992
+
+中国今年将在河北邯郸市、广东广州市等20个地市试点，开展新时代婚育文化建设，营造生育友好社会环境。
+据新华社报道，中国计划生育协会上星期四（5月11日）宣布这一消息。中国计生协常务副会长王培安当日在广州举行的新时代婚育文化建设主题宣传活动上说，人口问题是"国之大者"，在降低生育、养育、教育成本的同时，应大力推进新时代婚育文化建设......
+
+#### 香港八所公立大学的大陆学者占比首超本地学者
+
+https://www.zaobao.com/news/china/story20230515-1394991
+
+香港大学教育资助委员会数据显示，在本学年度，香港八所公立大学聘用的学者中，来自中国大陆学者的占比首次超越香港本地学者。
+据《南华早报》星期一（5月15日）报道，香港八所公立大学本学年度聘用5120名学者，出生于中国大陆的有1815人，较五年前的1224人增加，占比达35%；香港本地学者从五年前的1924人下降到1670人，比例从五分之二缩减至三分之一；海外学者比例则从34%下降到32%......
+
+#### 香港国安法生效后 图书馆逾两年涉政治资料少四成
+
+https://www.zaobao.com/news/china/story20230515-1394987
+
+香港媒体统计，当地公共图书馆涉政治题材和人物的录影资料及书籍，在过去两年多内已有四成下架。
+《明报》星期一（5月15日）报道，该报在2020年底起就香港公共图书馆馆藏资料，整合468项涉及政治题材及人物的录影资料和书籍，发现目前至少有195项资料已下架，即有四成在两年多内下架。其中，有96项是在过去一年内被移除。
+《香港国安法》在2020年6月30日生效......
+
+#### 美籍港人梁成运间谍罪成 在中国被判无期
+
+https://www.zaobao.com/news/china/story20230515-1394983
+
+中国江苏省苏州市中级人民法院星期一（5月15日）宣判，持有美国护照的78岁香港永久居民梁成运间谍罪名成立，被判终身监禁。
+据苏州市中级人民法院微信公众号发布，梁成运因涉嫌从事间谍活动，苏州市国家安全局于2021年4月15日对其采取强制措施。法院经审理后一审认定梁成运犯间谍罪，判处无期徒刑，剥夺政治权利终身，并没收个人财产人民币50万元（9.6万新元）。声明并未说明梁成运从事哪些间谍活动......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

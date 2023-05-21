@@ -1,0 +1,1019 @@
+Other formats: [PDF]() / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20230521.html)
+
+
+# Web Digest 2023-05-21
+
+
+## Developers
+
+### Hacker News
+
+#### PyPI new user and new project registrations temporarily suspended
+
+https://status.python.org
+
+https://news.ycombinator.com/item?id=36015078
+
+#### "Don Knuth Plays with ChatGPT" but with ChatGPT-4
+
+https://gist.github.com/Jessime/63f93215faed6f7109c6d62b7fef7fbc
+
+https://news.ycombinator.com/item?id=36014796
+
+#### Neeva (search engine with a privacy and AI focus) is shutting down
+
+https://neeva.com/blog/may-announcement
+
+https://news.ycombinator.com/item?id=36013783
+
+#### Using ChatGPT for Home Automation
+
+https://www.atomic14.com/2023/05/14/is-this-the-future-of-home-automation.html
+
+https://news.ycombinator.com/item?id=36013571
+
+#### Intel Explores Transition to 64-Bit-Only X86S Architecture
+
+https://www.tomshardware.com/news/intel-ponders-transition-to-64-bit-only-x86s-architecture
+
+https://news.ycombinator.com/item?id=36013257
+
+#### Living sound forever: The genius of Wendy Carlos
+
+https://xtramagazine.com/culture/wendy-carlos-trans-profile-251085
+
+https://news.ycombinator.com/item?id=36013160
+
+#### Don Knuth Plays with ChatGPT
+
+[[https://cs.stanford.edu/ knuth/chatGPT20.txt](https://cs.stanford.edu/~knuth/chatGPT20.txt)]
+
+https://news.ycombinator.com/item?id=36012360
+
+#### Using Advanced Camera Tech and AI to Target the Poor
+
+https://petapixel.com/2023/05/19/big-brother-is-using-advanced-camera-tech-and-ai-to-target-the-poor/
+
+https://news.ycombinator.com/item?id=36012028
+
+#### A digital payments revolution in India
+
+https://www.economist.com/special-report/2023/05/15/a-digital-payments-revolution-in-india
+
+https://news.ycombinator.com/item?id=36011978
+
+#### Writing summaries is more important than reading more books
+
+https://www.andreasfragner.com/writing/writing-summaries
+
+https://news.ycombinator.com/item?id=36011599
+
+#### FBI Misused Spy Database, FISA Court Says
+
+https://www.wsj.com/articles/fbi-improperly-searched-spy-database-for-information-on-americans-court-says-2f12bcd
+
+https://news.ycombinator.com/item?id=36011550
+
+#### WeWork has frittered away \$46.7B in value as the stock sinks below ¢50
+
+https://www.businessinsider.com/wework-startup-failure-benchmark-insight-partners-venture-capitalists-learned-nothing-2023-4
+
+https://news.ycombinator.com/item?id=36011072
+
+#### People who die by suicide want to stop suffering, not to stop living
+
+https://english.elpais.com/science-tech/2023-05-20/psychologist-enrique-echeburua-people-who-die-by-suicide-want-to-stop-suffering-not-to-stop-living.html
+
+https://news.ycombinator.com/item?id=36010975
+
+#### The long life of Apache httpd 2.4
+
+[[https://utcc.utoronto.ca/ cks/space/blog/web/Apache24LongLife](https://utcc.utoronto.ca/~cks/space/blog/web/Apache24LongLife)]
+
+https://news.ycombinator.com/item?id=36009892
+
+#### Show HN: YouTube Full Text Search -- Search all of a channel from the commandline
+
+https://github.com/NotJoeMartinez/yt-fts
+
+https://news.ycombinator.com/item?id=36009774
+
+#### U.S. universities are building a new semiconductor workforce
+
+https://spectrum.ieee.org/chips-act-workforce-development
+
+https://news.ycombinator.com/item?id=36009701
+
+#### Counterintuitive Properties of High Dimensional Space (2018)
+
+https://marckhoury.github.io/blog/counterintuitive-properties-of-high-dimensional-space/
+
+https://news.ycombinator.com/item?id=36009667
+
+#### A Crashed Israeli Lunar Lander Spilled Tardigrades on the Moon (2019)
+
+https://www.wired.com/story/a-crashed-israeli-lunar-lander-spilled-tardigrades-on-the-moon/
+
+https://news.ycombinator.com/item?id=36009562
+
+#### Rooms.xyz
+
+https://rooms.xyz/
+
+https://news.ycombinator.com/item?id=36009430
+
+#### Nontoxic powder uses sunlight to quickly disinfect contaminated drinking water
+
+https://news.stanford.edu/2023/05/18/new-technology-uses-ordinary-sunlight-disinfect-drinking-water/
+
+https://news.ycombinator.com/item?id=36009291
+
+### Phoronix
+
+#### KDE Begins Laying The Groundwork For HDR Support, Wayland Color Management
+
+https://www.phoronix.com/news/KDE-HDR-This-Week
+
+#### Intel Publishes \"X86-S\" Specification For 64-bit Only Architecture
+
+https://www.phoronix.com/news/Intel-X86-S-64-bit-Only
+
+#### Microsoft Preparing For Their First Vulkan Extension
+
+https://www.phoronix.com/news/Microsoft-MSFT-Vulkan-Ext
+
+#### AMD Has A One-Liner To Help Speed Up Linux System Resume Time
+
+https://www.phoronix.com/news/AMD-One-Liner-System-Resume
+
+#### Virtual ALSA Driver Posted To Help With Linux Testing/Fuzzing
+
+https://www.phoronix.com/news/Linux-Virtual-ALSA-Driver
+
+#### VKD3D-Proton 2.9 Released With Performance Improvements
+
+https://www.phoronix.com/news/VKD3D-Proton-2.9
+
+#### CodeWeavers Now Controlled By An Employee Ownership Trust
+
+https://www.phoronix.com/news/CodeWeavers-Employee-Trust
+
+#### NVIDIA R530 vs. AMD Linux 6.3 + Mesa 23.2-dev Gaming Performance
+
+https://www.phoronix.com/review/may-2023-linux-gpus
+
+#### Mesa \"Terakan\" Driver Aims To Provide Vulkan Support For Old Radeon HD 6000 Series
+
+https://www.phoronix.com/news/Mesa-Terakan-R600-Vulkan-Driver
+
+### GitHub
+
+#### yhzhang0128/egos-2000
+
+https://github.com/yhzhang0128/egos-2000
+
+A minimal operating system (2K LOC) on QEMU and a RISC-V board\
+Language: C\
+Stars: 824\
+Forks: 58
+
+#### microsoft/playwright
+
+https://github.com/microsoft/playwright
+
+Playwright is a framework for Web Testing and Automation. It allows
+testing Chromium, Firefox and WebKit with a single API.\
+Language: TypeScript\
+Stars: 51224\
+Forks: 2756
+
+#### airbnb/javascript
+
+https://github.com/airbnb/javascript
+
+JavaScript Style Guide\
+Language: JavaScript\
+Stars: 134283\
+Forks: 25592
+
+#### UFund-Me/Qbot
+
+https://github.com/UFund-Me/Qbot
+
+🔥updating \...\] 自动量化交易机器人 Qbot is an AI-oriented quantitative
+investment platform, which aims to realize the potential, empower AI
+technologies in quantitative investment. https://ufund-me.github.io/Qbot
+:news: qbot-mini: https://github.com/Charmve/iQuant\
+Language: Jupyter Notebook\
+Stars: 561\
+Forks: 98
+
+### Dribbble
+
+#### jag
+
+https://dribbble.com/shots/21471185
+
+#### Educational App for Opioid Abuse Prevention & Health Tracking
+
+https://dribbble.com/shots/21493474
+
+#### Fuji - 3D visualization & website design
+
+https://dribbble.com/shots/21474592
+
+#### FlexFit Web Site Design: Landing Page / Home Page UI
+
+https://dribbble.com/shots/21462071
+
+#### nestory
+
+https://dribbble.com/shots/21482147
+
+#### Quckee Branding
+
+https://dribbble.com/shots/21469097
+
+#### Clone Wordmark Exploration
+
+https://dribbble.com/shots/21464211
+
+#### BTR Energy Branding, visual identity, corporate brand design
+
+https://dribbble.com/shots/21319461
+
+#### DaoWay Motion Design
+
+https://dribbble.com/shots/21496365
+
+#### CleverBot -- AI Landing Page Hero Header
+
+https://dribbble.com/shots/21479843
+
+#### The 9 lives of an Alley Cat
+
+https://dribbble.com/shots/21460350
+
+#### Logistics Website Admin Dashboard: Analytics UX UI
+
+https://dribbble.com/shots/21369240
+
+#### Skillhouse Elearning Platform Website
+
+https://dribbble.com/shots/21458555
+
+#### Zelt Mobile Version
+
+https://dribbble.com/shots/21474602
+
+#### English Practice Design with Mascot
+
+https://dribbble.com/shots/21482245
+
+#### Auction mobile app
+
+https://dribbble.com/shots/21459764
+
+#### Google Bard Ai - Logo Redesign
+
+https://dribbble.com/shots/21484205
+
+#### Party 8 till Late
+
+https://dribbble.com/shots/21444079
+
+#### Acres of Merch
+
+https://dribbble.com/shots/21476408
+
+#### Online Therapy Website (design + prototype + MVP)
+
+https://dribbble.com/shots/21463896
+
+#### Wisecastle Logo Design - Chess Rook / Tower / Castle / Letter W
+
+https://dribbble.com/shots/21460340
+
+#### Random Logofolio Update v7 - 2023
+
+https://dribbble.com/shots/21462197
+
+#### OpenAI Logo Animation Concept
+
+https://dribbble.com/shots/21478632
+
+#### Noteful -- Logo Design
+
+https://dribbble.com/shots/21481917
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### NASA 选择 Blue Origin 开发登月着陆器
+
+https://www.solidot.org/story?sid=75010
+
+#### Meta 开源大模型遭对手质疑
+
+https://www.solidot.org/story?sid=75009
+
+#### 苹果公布首份 App Store 透明度报告
+
+https://www.solidot.org/story?sid=75008
+
+#### 起亚和现代同意支付 2 亿美元和解偷车案
+
+https://www.solidot.org/story?sid=75007
+
+#### 接吻的古代史
+
+https://www.solidot.org/story?sid=75006
+
+#### Twitter 指微软不当使用其 API
+
+https://www.solidot.org/story?sid=75005
+
+#### 卫星观测显示全球湖水蓄水量大规模减少
+
+https://www.solidot.org/story?sid=75004
+
+#### Google 计划从 2024 年起逐渐用隐私沙盒取代第三方 Cookie
+
+https://www.solidot.org/story?sid=75003
+
+#### 意大利拨款保护工人免遭被 AI 取代的威胁
+
+https://www.solidot.org/story?sid=75002
+
+#### 亚马逊 AWS 将向印度投资 127 亿美元
+
+https://www.solidot.org/story?sid=75001
+
+#### TikTok 用户起诉蒙大拿州
+
+https://www.solidot.org/story?sid=75000
+
+#### 苹果限制员工用 ChatGPT
+
+https://www.solidot.org/story?sid=74999
+
+#### YouTube 电视应用将加入 30 秒无法跳过的广告
+
+https://www.solidot.org/story?sid=74998
+
+#### 阿里巴巴通过 IPO 分拆
+
+https://www.solidot.org/story?sid=74997
+
+#### OpenAI 发布免费的 ChatGPT iOS 应用
+
+https://www.solidot.org/story?sid=74996
+
+#### 印度开发用于高性能计算的 Arm 芯片
+
+https://www.solidot.org/story?sid=74995
+
+#### WMO 预测未来五年全球温度将创下新纪录
+
+https://www.solidot.org/story?sid=74994
+
+#### ChatGPT 不是 AI 而是小偷
+
+https://www.solidot.org/story?sid=74993
+
+#### Google Colab 服务将免费支持 AI 辅助编程
+
+https://www.solidot.org/story?sid=74992
+
+#### 民调显示 61% 的美国人认为 AI 威胁人类的未来
+
+https://www.solidot.org/story?sid=74991
+
+### V2EX
+
+#### \[浏览器\] Xposed 模块 ChromeXt 可以让手机浏览器加载脚本以及打开开发者工具
+
+https://www.v2ex.com/t/941630
+
+#### \[问与答\] Mac 用什么鼠标好
+
+https://www.v2ex.com/t/941629
+
+#### \[git\] 最好用的 git 图形化工具是什么
+
+https://www.v2ex.com/t/941628
+
+#### \[Apple\] 关于苹果设备连接 LG C 系列电视，有些疑问想请教： Apple TV 连上是否可以输出杜比视界？ M2 Pro Mac mini 连上是否能输出杜比视界？
+
+https://www.v2ex.com/t/941627
+
+#### \[问与答\] 找一个 AI 聊天的网站，忘记地址了
+
+https://www.v2ex.com/t/941626
+
+#### \[问与答\] 有没有考过系统分析师软考的老哥？或者正在准备考试的
+
+https://www.v2ex.com/t/941624
+
+#### \[MacBook Pro\] mbp 就真的没有人想到一个完美的游戏解决方案吗？
+
+https://www.v2ex.com/t/941623
+
+#### \[微博\] ios 上还有能用的第三方微博客户端吗
+
+https://www.v2ex.com/t/941619
+
+#### \[天黑以后\] 20230521 午夜俱乐部
+
+https://www.v2ex.com/t/941618
+
+#### \[路由器\] 由旁路网关引起非对称路由问题......
+
+https://www.v2ex.com/t/941617
+
+#### \[生活\] 我想在这里写下我的故事
+
+https://www.v2ex.com/t/941616
+
+#### \[程序员\] 协程在使用中应注意什么，是否会出现对变量循环引用？
+
+https://www.v2ex.com/t/941613
+
+#### \[问与答\] \[分享贴\] 有没有特别好看的悬疑电影推荐，反转反转再反转的 
+
+https://www.v2ex.com/t/941612
+
+#### \[程序员\] 关于跳槽的问题，请各位大佬帮忙解惑
+
+https://www.v2ex.com/t/941611
+
+#### \[问与答\] Quantumult X 把我整懵了，为什么只是导入了新节点就把原有的规则删除部分了
+
+https://www.v2ex.com/t/941610
+
+#### \[问与答\] 2011 款的 mac mini 券后 700 值得买吗？
+
+https://www.v2ex.com/t/941609
+
+#### \[程序员\] 检索关于工作死亡赔偿，按照 2023 深圳人身损害赔偿标准算下来，只有 100 多万。
+
+https://www.v2ex.com/t/941608
+
+#### \[耳机\] 想趁着 618 买一个无线耳机，求大家推荐推荐
+
+https://www.v2ex.com/t/941607
+
+#### \[算法\] 为什么我们搞不出 ChatGPT？
+
+https://www.v2ex.com/t/941606
+
+#### \[问与答\] 华硕承认服务器配置文件出错导致全球路由器断网，现已恢复并致歉
+
+https://www.v2ex.com/t/941605
+
+#### \[Telegram\] This phone number is banned,怎么解决啊,急求
+
+https://www.v2ex.com/t/941604
+
+#### \[问与答\] 病情求建议
+
+https://www.v2ex.com/t/941602
+
+#### \[git\] git add 的目的我猜测的对么？
+
+https://www.v2ex.com/t/941601
+
+#### \[分享创造\] 整理一套 ChatGPT 学习指南
+
+https://www.v2ex.com/t/941600
+
+#### \[旅行\] 第一次出国旅游，去哪里合适？
+
+https://www.v2ex.com/t/941599
+
+#### \[分享创造\] golang 做了一个批量重命名桌面软件
+
+https://www.v2ex.com/t/941594
+
+#### \[NAS\] 极空间内测 apple tv 客户端了
+
+https://www.v2ex.com/t/941593
+
+#### \[Apple\] 用了几天官翻可调高度 Studio Diaplay
+
+https://www.v2ex.com/t/941592
+
+#### \[分享创造\] \[Video\] 一年来 NeuralRad Brain 平台的一些更新
+
+https://www.v2ex.com/t/941591
+
+#### \[程序员\] 我没有一点美术功底，用图片生成 ai 来制作美术素材靠谱吗？
+
+https://www.v2ex.com/t/941588
+
+#### \[浏览器\] 大家用什么内核的桌面浏览器？ Firefox？ Chromium？ WebKit/Safari？
+
+https://www.v2ex.com/t/941587
+
+#### \[问与答\] 各位大佬们，现在深圳 Java 行情咋样？好跳不？（五年经验）
+
+https://www.v2ex.com/t/941586
+
+#### \[问与答\] 请教大家，有没有模仿"小红书"的前端模板， PC/H5 都可以🙏
+
+https://www.v2ex.com/t/941585
+
+#### \[Apple\] 各位的 Apple ID 账户信息有没有多一个"Compliance Phone"字段？
+
+https://www.v2ex.com/t/941584
+
+#### \[程序员\] ChatGPT API 额度用完， Web 端有办法集成到 Linux terminal 访问吗？
+
+https://www.v2ex.com/t/941583
+
+#### \[奇思妙想\] 传统行业的人会不会有很多需求没有表达出来？
+
+https://www.v2ex.com/t/941582
+
+#### \[iCloud\] 将手机 usb 连接到同事的 macbook 上 会将照片同步到同事的 icloud 或者电脑上吗
+
+https://www.v2ex.com/t/941580
+
+#### \[问与答\] 微信怎么设置自动删除比如半年前的数据，今天发现占了 10 多 G 的空间。。
+
+https://www.v2ex.com/t/941578
+
+#### \[硬件\] 又到 618，求推荐一个 4k 或以上的显示器
+
+https://www.v2ex.com/t/941577
+
+#### \[分享发现\] 过去的一年里，为了节省房租，我住在洛杉矶，每天坐飞机去洛杉矶上课。（转帖译文）
+
+https://www.v2ex.com/t/941576
+
+#### \[Python\] Python 潮流周刊#2： Rust 让 Python 再次伟大
+
+https://www.v2ex.com/t/941575
+
+#### \[奇思妙想\] 一个新闻类产品的小想法
+
+https://www.v2ex.com/t/941573
+
+#### \[随想\] 明明是在创业，我爸却以为我不务正业
+
+https://www.v2ex.com/t/941572
+
+#### \[装修\] 小米开关似乎不能双控，那我有一个灯需要双控，怎么解决？
+
+https://www.v2ex.com/t/941571
+
+#### \[MacBook Pro\] 只有我认为 mbp 扬声器很烂吗
+
+https://www.v2ex.com/t/941570
+
+#### \[Apple\] 全网最全教程： ChatGPT Plus 注册，开通，充值，电脑端和手机端 GPT4！苹果手机端开通 ChatGPT PLUS
+
+https://www.v2ex.com/t/941569
+
+#### \[程序员\] 交个朋友，提供免费的技术咨询
+
+https://www.v2ex.com/t/941568
+
+#### \[程序员\] 实现个翻译并记录词频的工具
+
+https://www.v2ex.com/t/941567
+
+#### \[程序员\] 凹语言 2023 纪念胸章发行
+
+https://www.v2ex.com/t/941566
+
+#### \[问与答\] 小米电视没声音之奇怪问题
+
+https://www.v2ex.com/t/941565
+
+## Generic News
+
+### AP News
+
+#### Minnesota bill legalizing recreational pot passes Senate, heads to governor's desk
+
+https://apnews.com/article/31a77e46389fe3ed0472ddff672cf22f
+
+FILE - Marijuana plants grow at a Minnesota Medical Solutions greenhouse
+on May 5, 2015, in Otsego, Minn. Senators in Minnesota passed a bill
+Saturday, May 20, 2023, that would legalize recreational marijuana for
+people over the age of\...
+
+#### Supreme Court Justice Ketanji Brown Jackson tells law students 'Survivor' offers helpful lessons
+
+https://apnews.com/article/03a47095975b90ae0e50cd4af45d0e21
+
+Supreme Court Associate Justice Ketanji Brown Jackson speaks at the
+commencement ceremony for American Universitys Washington College of
+Law, Saturday, May 20, 2023, in Washington. (AP Photo/Patrick Semansky)
+WASHINGTON\...
+
+#### Victims of deadly Oregon highway crash were farmworkers, union says
+
+https://apnews.com/article/75d7ce29a08113d3030283d03f77da8b
+
+A damaged vehicle sits on the side of the road on Interstate 5,
+Northbound on Thursday, May 18, 2023, in Marion County, Ore. Two
+semi-trucks and a passenger van were involved in a deadly crash, which
+occurred near the city of Albany in an\...
+
+#### Pete Brown, co-writer of 'Sunshine of Your Love,' 'White Room' for rock group Cream, dies at 82
+
+https://apnews.com/article/d347bb5291cab5a8e2321b36d072cf74
+
+NEW YORK (AP) --- Songwriter and poet Pete Brown, who co-wrote "Sunshine
+of Your Love" and "White Room" for the short-lived rock supergroup Cream
+in the 1960s, has died. He was 82. The London-based Brown died of cancer
+late Friday\...
+
+#### Horse trained by Bob Baffert euthanized on track after racing injury on Preakness undercard
+
+https://apnews.com/article/ec9780ecd9e11e20d36deb02c26dac1c
+
+A track worker carries the saddle blanket of Havnameltdown away as the
+horse is euthanized after suffering a catastrophic leg injury during the
+sixth race prior to the 148th running of the Preakness Stakes horse race
+at Pimlico Race\...
+
+#### Shark in Florida Keys bites angler who reeled it in, sending man to hospital
+
+https://apnews.com/article/fa59e7baa83866ca9ee227e4e06db91c
+
+SUMMERLAND Key, Fla. (AP) --- A shark in the Florida Keys bit the foot
+of a fisherman who had reeled it in, sending the man to the hospital,
+the Monroe County Sheriffs Office said Saturday. The 35-year-old man was
+fishing\...
+
+#### Television's biggest mystery: how long will pipeline for new programming be closed?
+
+https://apnews.com/article/df880349ffa60b77b5bcdc94d6d5e50b
+
+FILE - Janelle James, from left, Quinta Brunson, Lisa Ann Walter and
+Sheryl Lee Ralph pose in the press room with the award for best
+television series, musical or comedy for \"Abbott Elementary\" at the
+80th annual Golden Globe Awards on\...
+
+#### Preakness favorite Mage gets stitches for cut above eye, good to run in Triple Crown race
+
+https://apnews.com/article/88787ad48b9f5bfb4f65eb2a74d23c98
+
+Staples are seen on the eyelid of Mage as he is groomed ahead of the
+Preakness Stakes horse race at Pimlico Race Course, Saturday, May 20,
+2023, in Baltimore. (AP Photo/Julia Nikhinson) BALTIMORE (AP) ---
+Preakness favorite Mage is good\...
+
+#### DeSantis asks that judge be disqualified from Disney's free speech lawsuit
+
+https://apnews.com/article/ba2580a0677cfa4a9958dc828661cb88
+
+FILE - People visit the Magic Kingdom Park at Walt Disney World Resort
+in Lake Buena Vista, Fla., April 18, 2022. Ongoing strength at its theme
+parks and an improving streaming business propelled The Walt Disney Co.
+to higher profits and\...
+
+#### Jonathan Glazer rocks Cannes with a chilling Holocaust drama from a different perspective
+
+https://apnews.com/article/0e5665079c18a37762cc4de19ddba4a1
+
+Director Jonathan Glazer poses for photographers at the photo call for
+the film The Zone of Interest at the 76th international film festival,
+Cannes, southern France, Saturday, May 20, 2023. (Photo by\...
+
+#### Trans girl misses Mississippi graduation after being told to dress like boy
+
+https://apnews.com/article/871b5f686cf38f2de4cde8c07e2fc5b2
+
+JACKSON, Miss. (AP) --- A transgender girl in Mississippi is not
+participating in her high school graduation ceremony because school
+officials told her to dress like a boy and a federal judge did not block
+the officials\...
+
+#### F-18 fighter jet accident at Zaragoza airbase as pilot ejects successfully
+
+https://apnews.com/article/da141e5bff64ce72e6a54e4bbf5cab43
+
+Emergency service members work in the area where an F-18 fighter jet
+crashed in Zaragoza, Spain, Saturday, May 20, 2023. An F-18 fighter jet
+crashed at an airbase in the Spanish city of Zaragoza but the pilot
+ejected successfully, the\...
+
+#### Bob Baffert's National Treasure wins Preakness, hours after another of his horses was euthanized
+
+https://apnews.com/article/b92b3f851977b7e55df9e3babb34e900
+
+National Treasure, right, with jockey John Velazquez, edges out Blazing
+Sevens, with jockey Irad Ortiz Jr., to win the148th running of the
+Preakness Stakes horse race at Pimlico Race Course, Saturday, May 20,
+2023, in Baltimore. (AP Photo/\...
+
+### Reuters
+
+#### Russia says its troops have taken full control of Bakhmut
+
+https://www.reuters.com/world/europe/russia-says-its-troops-have-taken-control-bakhmut-2023-05-20/
+
+A general view shows an empty street and buildings damaged by a Russian
+military strike, as Russias attack on Ukraine continues, in the front
+line city of Bakhmut, Ukraine March 3, 2023. REUTERS/Oleksandr
+Ratushniak\...
+
+#### Washington quiet as debt ceiling deadline inches closer
+
+https://www.reuters.com/world/us/washington-quiet-debt-ceiling-deadline-inches-closer-2023-05-20/
+
+Speaker of the House Kevin McCarthy (R-CA) arrives for a portrait
+unveiling ceremony for former Speaker of the House Paul Ryan on Capitol
+Hill in Washington, U.S., May 17, 2023. REUTERS/Nathan Howard/File Photo
+The dome of the U.S\...
+
+#### Martin Amis, British writer of dark comedic novels, dies at 73
+
+https://www.reuters.com/world/us/martin-amis-british-writer-dark-comedic-novels-dies-73-nyt-2023-05-20/
+
+Novelist Martin Amis (L) talks to Tina Brown at the launch of Browns
+book \"The Diana Chronicles\" at a party hosted by Reuters in the
+Serpentine Gallery in central London, June 18, 2007. REUTERS/Paul
+Hackett/File Photo\...
+
+#### Transgender Mississippi girl misses graduation after judge's ruling
+
+https://www.reuters.com/world/us/transgender-mississippi-girl-misses-graduation-after-judges-ruling-2023-05-20/
+
+Transgender rights activist waves a transgender flag at a rally in
+Washington Square Park in New York, U.S., May 24, 2019.
+REUTERS/Demetrius Freeman/File Photo A transgender Mississippi girl
+declined to participate in high school\...
+
+#### Hiroshima G7 marks costs of war and welcomes Ukraine's Zelenskiy
+
+https://www.reuters.com/world/hiroshima-g7-marks-costs-war-welcomes-ukraines-zelenskiy-2023-05-20/
+
+Ukraines President Volodymyr Zelenskiy and French President Emmanuel
+Macron shake hands during the G7 leaders summit in Hiroshima, Japan May
+20, 2023. Ukrainian Presidential Press Service/Handout via\...
+
+#### Tens of thousands protest against planned Israeli judicial overhaul
+
+https://www.reuters.com/world/middle-east/tens-thousands-protest-against-planned-israeli-judicial-overhaul-2023-05-20/
+
+People take part in a demonstration against Israeli Prime Minister
+Benjamin Netanyahu and his nationalist coalition governments judicial
+overhaul, for the 20th consecutive week in Tel Aviv, Israel May 20,
+2023. REUTERS/\...
+
+#### Sinn Fein sweep past unionist rivals again in Northern Ireland local elections
+
+https://www.reuters.com/world/uk/sinn-fein-sweep-past-unionist-rivals-again-n-ireland-local-elections-2023-05-20/
+
+Vice President of Sinn Fein Michelle ONeill arrives to vote at a polling
+station during local elections in Coalisland, Northern Ireland, May 18,
+2023. REUTERS/Clodagh Kilcoyne Irish nationalists Sinn Fein followed up
+last\...
+
+#### Mexico City airport resumes operations after volcanic ash forces shutdown
+
+https://www.reuters.com/world/americas/mexico-city-airport-shuts-down-operations-due-volcanic-ash-2023-05-20/
+
+Steam and ashes emerge from the Popocatepetl volcano, after an increase
+in volcanic activity, as seen from the town of Santiago Xalizintla,
+Mexico May 12, 2023. REUTERS/Imelda Medina Passengers gather at Terminal
+1 of Benito Juarez\...
+
+#### Russia's Prigozhin claims capture of Bakhmut, Ukraine says fighting goes on
+
+https://www.reuters.com/world/europe/russias-prigozhin-claims-full-control-bakhmut-2023-05-20/
+
+Founder of Wagner private mercenary group Yevgeny Prigozhin makes a
+statement as he stand next to Wagner fighters in the course of
+Russia-Ukraine conflict in Bakhmut, Ukraine, in this still image taken
+from video released May 20, 2023\...
+
+#### Russia's Wagner claims Bakhmut; Kyiv says situation critical
+
+https://www.reuters.com/world/europe/russias-wagner-claims-bakhmut-kyiv-says-situation-critical-2023-05-20/
+
+Summary: Russias Wagner says it will pull out of Bakhmut in five days
+Kyiv denies city has fallen, says situation critical Ukrainian forces
+pulling back inside Bakhmut, advancing nearby Kyiv calls Bakhmut a\...
+
+#### UN official criticised after meeting Russian sought by ICC
+
+https://www.reuters.com/world/un-official-criticised-after-meeting-russian-sought-by-icc-2023-05-20/
+
+Russias Commissioner for childrens rights Maria Lvova-Belova, whom the
+International Criminal Court wants to arrest on war crimes charges,
+addresses an informal meeting of U.N. Security Council members\...
+
+#### ICC members 'deeply concerned' by Russia's decision to put prosecutor on wanted list
+
+https://www.reuters.com/world/europe/icc-member-states-say-russia-putting-prosecutor-wanted-list-is-deplorable-2023-05-20/
+
+Public Prosecutor Karim Khan prepares for the trial of Mahamat Said
+Abdel Kani at the International Criminal Court in The Hague,
+Netherlands, Monday, Sept. 26, 2022. Peter Dejong/Pool via REUTERS The
+member states of the International\...
+
+#### Alberta on high alert for wildfire upsurge over scorching holiday weekend
+
+https://www.reuters.com/world/americas/alberta-high-alert-wildfire-upsurge-over-scorching-holiday-weekend-2023-05-20/
+
+A Sky crane helicopter dumps water on the Eagle Wildfire Complex near
+Fox Creek, Alberta, Canada May 19, 2023. Alberta Wildfire/Handout via
+REUTERS Smoke rises from areas on the southeast side of wildfire
+EWF-035, part of the Deep Creek\...
+
+### 联合早报
+
+#### 陆港政府大力支持 港青赴粤创业成风
+
+https://www.zaobao.com/news/china/story20230521-1396653
+
+香港青年联盟早前带领一些港青到东莞访问，
+探讨融入大湾区发展的机遇。（香港青年联盟提供）
+香港青年联盟考察团在东莞参观当地的创业基地。（香港青年联盟提供）
+中国大陆和香港特区政府过去几年极力鼓励香港年轻人到大陆创业，图为广州黄埔区正在建设的粤港澳大湾区青年创业科技园项目。（新华社）
+香港产业结构趋向单一，地产和金融贸易业就占据了近七成的经济总量，许多港青纵然怀揣梦想与才华，发展的机会究竟有限......
+
+#### 侯友宜参选总统大造势 蔡英文亮执政七年政绩
+
+https://www.zaobao.com/news/china/story20230520-1396632
+
+台湾总统蔡英文星期六（5月20日）在总统府召开记者会，强调必须维持台湾在全球供应链的关键地位，以及维持台海和平稳定现状。（法新社）
+台湾总统蔡英文星期六（5月20日）就职七周年，蓝绿各自亮剑争民心。民进党总统候选人、副总统赖清德坚称"民主自由不是国民党的DNA"，国民党总统候选人、新北市长侯友宜左呛爱台湾不是民进党专利，右批赖清德在分裂台湾......
+
+#### 中国多地脱口秀演出取消 从业者担忧行业进入寒冬
+
+https://www.zaobao.com/news/china/story20230520-1396622
+
+北京一名男子星期五（5月19日）走过脱口秀公司笑果文化大门封锁的演出场地。笑果文化已无限期被禁在北京演出。（路透社）
+随着脱口秀演员李昊石因表演涉"侮辱军队"被立案调查，签约公司笑果文化被高额罚款，各地脱口秀纷纷取消，从业人员担忧，中国脱口秀行业正在进入寒冬。
+据路透社星期六（5月20日）报道，中国官方对李昊石事件的强烈反应，引发了对脱口秀行业前景的担忧......
+
+#### 柯文哲发表竞选宣言 提"五个互相"原则务实处理两岸问题
+
+https://www.zaobao.com/news/china/story20230520-1396602
+
+台湾在野民众党主席柯文哲星期六（5月20日）发表参选2024年总统宣言指出，他会务实处理两岸问题，在确保民主、自由的政治体制与生活方式下，恢复与中国大陆的沟通管道，继续以"五个互相"原则，在对等、尊严的条件下，促进两岸和平，增加彼此善意，减少冲突危机，创造台湾和平。
+柯文哲的"五个互相"原则是互相认识、互相了解、互相尊重、互相合作和互相谅解。但他未提及"两岸一家亲"的主张......
+
+#### 中国杯葛印度下周举行的G20旅游会议
+
+https://www.zaobao.com/news/china/story20230520-1396600
+
+中国表示不会参加下周在印度查谟和克什米尔邦举行的G20（二十国集团）旅游主题会议。
+据彭博社报道，中国外交部发言人汪文斌星期五（5月19日）在北京举行的例行记者会上说："中方坚决反对在领土争议地区举办任何形式的G20会议，也不会出席这种会议。"
+作为今年的G20轮值主席国，印度在9月的领导人峰会前，在全国组织了一系列会议......
+
+#### 《明报》创刊64周年 报庆广告皆贺"迈向65周年"
+
+https://www.zaobao.com/news/china/story20230520-1396593
+
+《明报》踏入64周年，但报庆广告内的"64"全消失，以"迈向65周年"代替。图为周年庆前一日，星期五（5月19日）出街的《明报》。（赵恩来脸书）
+香港最有影响力的报纸之一《明报》星期六（5月20日）迎来创办64周年纪念日，却疑似特意避开"64"这个敏感数字，广告贺词纷纷以"迈向65周年"代替......
+
+#### 港府增拨50亿港元国安专款
+
+https://www.zaobao.com/news/china/story20230520-1396580
+
+香港特区政府星期五（5月19日）刊宪公布最新一期政府账目，财政司司长陈茂波经特首批准，增拨50亿港元（8.6亿新元）专门款项，用作维护国家安全开支。
+该款项是继2020年12月特区政府拨出80亿港元用作维护国家安全开支后，再次增拨。50亿港元从港府一般收入中拨出，属于用以增加专门款项的非经常性拨款......
+
+#### 黄小芳：脱口秀风波为何不断升级？
+
+https://www.zaobao.com/news/china/story20230520-1396404
+
+艺名为"House"的中国脱口秀演员李昊石，上周末一脚踩入了中国的言论雷区，两条野狗"作风优良，能打胜仗"的比喻引起中国舆论的讨伐，中国官方的严厉责罚也引起国内外舆论的关注。 
+这场风波最早由一则微博贴文点燃。有网民在5月13日发文称，当天在观看喜剧公司"笑果文化"的北京演出时，有个段子引起不适......
+
+#### 《李光耀看六四后的中国·香港》被港图书馆下架
+
+https://www.zaobao.com/news/china/story20230520-1396409
+
+香港公共图书馆近期下架多项政治题材书籍与资料，包括集录了新加坡建国总理李光耀观点的《李光耀看六四后的中国·香港》。
+《明报》星期一（5月15日）报道，在香港审计署4月建议图书馆加强检视馆藏，以维护国家安全后，香港公共图书馆下架多项资料，包括政治学者及具政党背景人士的作品，关于六四的书籍和电视纪录片等材料有40多项下架......
+
+#### 新闻人间：被"岳飞"掉的郭台铭？
+
+https://www.zaobao.com/news/china/story20230520-1396412
+
+guotaiming（Lianhe Zaobao）
+台湾鸿海集团创办人郭台铭2019年、2023年两度争取在野国民党总统提名，却摔了两次跟头。相对上次负气脱党，口出恶言，郭台铭这回委曲求全，到日本疗伤，反而赢得更多尊重。
+国民党将征召新北市长侯友宜参选2024年总统的消息甚嚣尘上，但郭台铭始终自以为十拿九稳，在星期二（5月16日）确认此事，瞬间从云端摔至地面......
+
+#### 台湾假信息泛滥导致社会缺互信 逾六成民众希望政府立法打假
+
+https://www.zaobao.com/news/china/story20230519-1396360
+
+台湾事实查核教育基金会星期五（5月19日）发布的假信息年度调查显示，网络假信息泛滥导致社会缺乏互信，逾六成民众希望政府立法打假、科技平台限制假信息流传。
+这是台湾连续第二年针对假信息与事实查核的调查，采取电话访问和网络问卷的混合方式进行。发布会由事实查核基金会董事、卓越新闻奖基金会董事长苏正平主持。大会也举行高峰论坛请专家解读。
+调查发现83％民众过去一年有收到假消息，高于去年的74.5％......
+
+#### 中国石化与哈萨克斯坦国家石油天然气公司签署聚乙烯项目关键条款协议
+
+https://www.zaobao.com/news/china/story20230519-1396350
+
+在中国---中亚峰会召开之际，中石化与哈萨克斯坦国家石油天然气公司在西安签署了合作开发聚乙烯项目的关键条款协议，该项目是哈萨克斯坦阿特劳地区最大的天然气化工项目
+，各方预计将在2024年做出最终的投资决策。
+综合中新网与路透社报道，该协议的签署标志着中国石化将以合作伙伴的身份，共同参与并推进项目的开发实施......
+
+#### 美媒：中国国家安全部长挂帅打击美企行动
+
+https://www.zaobao.com/news/china/story20230519-1396349
+
+中国国家安全部部长陈一新。（互联网）
+美媒报道称，中国国家安全部部长陈一新正在负责对海外公司的打击行动，这表明中国领导人对安全的重视程度已高于经济增长。
+据《华尔街日报》报道，知情人士透露了上述消息。
+北京目前已采取的行动包括对美国尽职调查公司的中国办事处进行突击检查，以及对咨询公司贝恩公司（Bain）的员工进行问话，这场行动正在给全球企业带来冲击......
+
+#### 香港高院驳回黎智英涉聘英律师的申请
+
+https://www.zaobao.com/news/china/story20230519-1396336
+
+香港高等法院星期五（5月19日）驳回壹传媒创办人黎智英两项涉及聘用英国御用大律师为其国安法案件辩护的司法覆核申请。
+黎智英今年先后两次入禀高院，要求法庭宣告中国全国人大常委会去年底的释法，不影响法庭早前批准他聘用英国御用大律师欧文（Tim
+Owen）的决定；另要求撤回香港国安委和入境处拒绝欧文的赴港工作签证申请的相关决定。
+香港高院星期五颁下裁决，驳回上述两项司法覆核申请......
+
+#### 中国商务部长王文涛下周访美 中美紧张关系出现缓和契机
+
+https://www.zaobao.com/news/china/story20230519-1396328
+
+中国商务部长王文涛（右）下周访美期间将分别与美国商务部长雷蒙多（左）、美国贸易代表戴琪会面。（法新社／路透社）
+（华盛顿/北京综合讯）中国商务部长王文涛下周访问美国，与美国商务部长雷蒙多及美国贸易代表戴琪分别会谈。这将是气球事件加剧了中美对抗以来，两国官员最高级别的接触之一，被视为缓解中美紧张关系的一个契机......
+
+#### 中国大陆宣布开放台湾旅游团赴陆 台湾：暂不解除旅游团赴陆"禁团令"
+
+https://www.zaobao.com/news/china/story20230519-1396320
+
+中国大陆国台办宣布即日起恢复旅行社经营台湾居民赴大陆团队游业务。台湾交通部回应称，两岸旅游恢复常态需要平等、双向、同步进行，目前不会解除台湾旅游组团赴大陆的"禁团令"。
+据中新网报道，大陆国台办发言人马晓光星期五（5月19日）在记者会上确认了上述消息。他说，热忱欢迎台湾同胞来大陆旅游观光，游览大好河山，看看各地发展新貌，陆方将为台湾民众来大陆旅游，创造更好的条件，提供更好的产品服务......
+
+#### 台美贸易倡议首批谈判完成 双边关系拉近一步
+
+https://www.zaobao.com/news/china/story20230519-1396308
+
+台湾与美国同步宣布完成《美台21世纪贸易倡议》首批协定谈判。台湾官方形容，这是台美1979年断交以来结构最为完整的双边贸易协定，但美国媒体评价，该协议只设定了宽泛标准，并未处理真正棘手的问题。　
+台湾行政院经贸谈判办公室官网星期五（5月19日）公告，《美台21世纪贸易倡议》12项议题中的五项已完成谈判，双方的共识是在未来几周内签署......
+
+#### 韩咏红：围绕G7广岛峰会的内外角力
+
+https://www.zaobao.com/news/china/story20230519-1396055
+
+本年度的七国集团（G7）峰会即将于本星期五（5月19日），在日本首相岸田文雄的故乡广岛拉开帷幕。
+此前担任过多年日本外长的岸田愈来愈显露他对国际外交的抱负。过去两个月来，岸田密集访问了印度、埃及、加纳、肯尼亚、莫桑比克及新加坡、韩国，他的"聆听之旅"足迹包括亚洲发达经济体和非洲，反映岸田努力了解各国想法，认真拉拢全球南方国家，并为了在G7主场外交上取得更多成果而做足功课......
+
+#### 中国渔船在印度洋中部海域倾覆 中方吁澳加大帮助搜救力度
+
+https://www.zaobao.com/news/china/story20230518-1396005
+
+中国海军舰船在搜救倾覆于印度洋的中国远洋渔船时，发现并打捞起两具遇难者遗体。
+据新华社报道，共10艘船舶在事发现场开展搜寻工作，其中包括中国海军的三艘舰船、一艘外轮和四艘渔船。中国海军舰船星期四（5月18日）打捞起这两具遗体。
+报道没有提及两名遇难者的国籍。这艘名为"鲁蓬远渔028"的中国渔船星期二（16日）凌晨在印度洋中部海域倾覆时，船上载有中国籍船员17人、印尼籍17人，菲律宾籍五人......
+
+#### 中国国台办发言人马晓光出任海协会副会长
+
+https://www.zaobao.com/news/china/story20230518-1395994
+
+马晓光从事多年对台研究、两岸对话与谈判工作。（中新社）
+中国国务院台湾事务办公室（简称国台办）发言人、新闻局局长马晓光有新职，目前已出任海峡两岸关系协会（简称海协会）副会长。
+海协会官网"组织机构"栏目的更新信息显示，马晓光已出任这一职位。此外，国台办交流局局长黄文涛也出任海协会副会长......
+
+#### 李辉访乌促各方创造止战和谈条件 分析：中国正在向欧洲立场转移
+
+https://www.zaobao.com/news/china/story20230518-1395987
+
+中国政府欧亚事务特别代表李辉（右）访问基辅期间，与乌克兰外交部长库列巴会面。（中国外交部网站）
+俄罗斯军队星期二（5月16日）对乌克兰发动异常猛烈的空袭后，中国政府欧亚事务特别代表李辉访问乌克兰时呼吁各方从自身做起，积累互信，创造止战和谈条件。
+受访学者分析，中国在俄乌问题上出现新的平衡，正在向欧洲的立场转移......
+
+#### 2月参加国际赛事播错国歌 港协向冰协作书面申斥严厉警告
+
+https://www.zaobao.com/news/china/story20230518-1395984
+
+就香港男子冰球代表队今年2月参与的一场国际赛事发生播错国歌事件，中国香港体育协会（简称港协）暨奥林匹克委员会宣布向香港冰球协会（简称冰协）发出严厉"书面申斥"......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

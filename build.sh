@@ -1,6 +1,7 @@
 #!/bin/bash
 
 export TZ=UTC
+source "$HOME/.python-venv/bin/activate"
 
 
 function die() {
@@ -189,13 +190,13 @@ case $1 in
         # texfn="$(find issue -name '*.tex' | sort -r | head -n1)"
         # bash $0 $texfn
         bash src/markdown.sh
-        bash $0 tgmsg gc rss wwwdist deploy pkgdist pkgdist/*.*
+        bash "$0" tgmsg gc rss wwwdist deploy pkgdist pkgdist/*.*
         git add .
         git commit -m "Automatic commit via 'bash build.sh today'"
         git push
         ;;
     issue/*.tex)
-        ntex $1 --2 --oss
+        ntex "$1" --2
         pdffn="_dist/${1/.tex/.pdf}"
         # echo "$pdffn"
         pdfrange $pdffn 1-1
@@ -204,7 +205,8 @@ case $1 in
         pdftoimg "$rangedfn"
         imgfn="$rangedfn.jpg"
         convert "$imgfn" -resize x1200 "$pdffn.jpg"
-        cfoss "$pdffn.jpg"
+        # cfoss "$pdffn.jpg"
+        minoss "$pdffn.jpg"
         # echo "wanted rangedfn=/tmp/http/pdfrange/issue-20230107_page1-1.pdf"
         # echo "actual rangedfn=$rangedfn"
         ;;

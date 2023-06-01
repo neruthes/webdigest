@@ -128,6 +128,44 @@ https://arstechnica.com/tech-policy/2023/05/lawyer-cited-6-fake-cases-made-up-by
 
 https://news.ycombinator.com/item?id=36130354
 
+### Phoronix
+
+#### Chrome 115 Beta Brings Borderless Mode Developer Trial For Web Apps
+
+https://www.phoronix.com/news/Chrome-115-Beta
+
+#### AMDGPU Linux Driver Enabling FreeSync Video By Default, Improved Power Savings
+
+https://www.phoronix.com/news/AMDGPU-FS-Video-Default-PS
+
+#### Ubuntu Details Initial Plans For Immutable Linux Desktop With Ubuntu Core & Snaps
+
+https://www.phoronix.com/news/Ubuntu-Desktop-Immutable-Plans
+
+#### Fedora 39 To Raise Its vm.max_map_count To Satisfy Some Steam Play Games
+
+https://www.phoronix.com/news/Fedora-39-Max-Map-Count-Approve
+
+#### openSUSE Aeon & openSUSE Kalpa Announced For MicroOS Desktop Spins
+
+https://www.phoronix.com/news/openSUSE-Aeon-Kalpa
+
+#### Linux Foundation Launches RISC-V Software Ecosystem Project
+
+https://www.phoronix.com/news/Linux-Foundation-RISC-V-RISE
+
+#### FFmpeg's Next Release Will Be Exciting With Vulkan Video Decode, More Vulkan Filters
+
+https://www.phoronix.com/news/FFmpeg-Vulkan-Video
+
+#### Raspberry Pi V3D Driver Adds Native ASTC Texture Compression Support
+
+https://www.phoronix.com/news/V3D-Native-ASTC-Compression
+
+#### NVIDIA Cleans Up GSP Firmware Binary License
+
+https://www.phoronix.com/news/NVIDIA-GSP-Firmware-License
+
 ### GitHub
 
 #### makeplane/plane

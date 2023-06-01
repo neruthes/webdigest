@@ -265,7 +265,7 @@ case $1 in
         cfoss $1
         ;;
     deploy)
-        # shareDirToNasPublic -a
+        # shareDirToNasPublic
         wrangler pages publish wwwdist --project-name=webdigest --commit-dirty=true --branch=main
         ;;
     '')

@@ -1,0 +1,997 @@
+Other formats: [PDF]() / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20230610.html)
+
+
+# Web Digest 2023-06-10
+
+
+## Developers
+
+### Hacker News
+
+#### Reddit CEO doubles down on attack on Apollo developer in drama-filled AMA
+
+https://techcrunch.com/2023/06/09/reddit-ceo-doubles-down-on-attack-on-apollo-developer-in-drama-filled-ama/
+
+https://news.ycombinator.com/item?id=36264232
+
+#### Chat Notebooks
+
+https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrating-llms-into-the-notebook-paradigm/
+
+https://news.ycombinator.com/item?id=36263349
+
+#### Ask HN: Is it time to resurrect a Usenet clone?
+
+https://news.ycombinator.com/item?id=36262821
+
+https://news.ycombinator.com/item?id=36262821
+
+#### Nix/NixOS S3 Update and Recap of Community Call
+
+https://discourse.nixos.org/t/s3-update-and-recap-of-community-call/28942
+
+https://news.ycombinator.com/item?id=36261492
+
+#### Turkish citizens' personal data offered online after government site hacked
+
+https://balkaninsight.com/2023/06/09/turkish-citizens-personal-data-offered-online-after-govt-site-hacked/
+
+https://news.ycombinator.com/item?id=36261411
+
+#### Addressing the community about changes to our API
+
+https://reddit.com/r/reddit/comments/145bram/addressing_the_community_about_changes_to_our_api/
+
+https://news.ycombinator.com/item?id=36261369
+
+#### Kera Desktop: open-source, cross-platform, web-based desktop environment
+
+https://desktop.kerahq.com/
+
+https://news.ycombinator.com/item?id=36260589
+
+#### Royal Mail issues Warhammer stamps celebrating 40 year anniversary
+
+https://shop.royalmail.com/special-stamp-issues/warhammer
+
+https://news.ycombinator.com/item?id=36260116
+
+#### Archive your Reddit data before it's too late
+
+https://xavd.id/blog/post/archive-your-reddit-data/
+
+https://news.ycombinator.com/item?id=36259930
+
+#### 3M heads to trial in 'existential' \$143B forever-chemicals litigation
+
+https://www.bloomberg.com/news/articles/2023-06-02/3m-heads-to-trial-in-existential-143-billion-pfas-litigation
+
+https://news.ycombinator.com/item?id=36259163
+
+#### How the DEA scrubbed Thomas jefferson's poppy garden from public memory
+
+https://www.alternet.org/2010/03/how_the_dea_scrubbed_thomas_jeffersons_monticello_poppy_garden_from_public_memory
+
+https://news.ycombinator.com/item?id=36258905
+
+#### More startups throw in the towel, unable to raise money for their ideas
+
+https://www.wsj.com/articles/more-startups-throw-in-the-towel-unable-to-raise-money-for-their-ideas-eff8305b
+
+https://news.ycombinator.com/item?id=36258373
+
+#### The impact of the 'long peace' on modern military capabilities
+
+https://acoup.blog/2023/06/09/fireside-friday-june-9-2023/
+
+https://news.ycombinator.com/item?id=36258234
+
+#### Shreddit is a Python program to remove all your Reddit comments
+
+https://github.com/x89/Shreddit
+
+https://news.ycombinator.com/item?id=36257981
+
+#### OpenMW: Open-source TES3: Morrowind reimplementation
+
+https://gitlab.com/OpenMW/openmw
+
+https://news.ycombinator.com/item?id=36257963
+
+#### Lawyers blame ChatGPT for tricking them into citing bogus case law
+
+https://apnews.com/article/artificial-intelligence-chatgpt-courts-e15023d7e6fdf4f099aa122437dbb59b
+
+https://news.ycombinator.com/item?id=36257545
+
+#### June 2023 Data Dump is missing
+
+https://meta.stackexchange.com/a/390023/6212
+
+https://news.ycombinator.com/item?id=36257523
+
+#### Gravitational Machines
+
+https://arxiv.org/abs/2305.10470
+
+https://news.ycombinator.com/item?id=36257255
+
+#### Do no harm petition: Don't give big tech access to our medical records
+
+https://act.wemove.eu/campaigns/medical-records
+
+https://news.ycombinator.com/item?id=36257233
+
+#### I bought the only physical encyclopedia still in print
+
+https://arstechnica.com/culture/2023/06/rejoice-its-2023-and-you-can-still-buy-a-22-volume-paper-encyclopedia/
+
+https://news.ycombinator.com/item?id=36256985
+
+### Phoronix
+
+#### Wine 8.10 Released With Mouse Cursor Clipping Improvements
+
+https://www.phoronix.com/news/Wine-8.10-Released
+
+#### Linux 6.5 To Add HuC Loading Support For Intel Meteor Lake
+
+https://www.phoronix.com/news/Linux-6.5-Brings-Intel-MTL-HuC
+
+#### Intel Updates Cluster Scheduling Linux Patches For Hybrid CPUs
+
+https://www.phoronix.com/news/Intel-Cluster-Sched-Hybrid-V2
+
+#### Google's Patches To Speed-Up Over-Committed Linux Guest VMs Are Looking Great
+
+https://www.phoronix.com/news/Google-Benchmarks-Heavy-VMs
+
+#### Radeon R600g Driver Adds Experimental Support For Rusticl
+
+https://www.phoronix.com/news/R600g-Rusticl-Experimental
+
+#### Qt Creator 11 Beta Brings Integrated Terminal, GitHub Copilot
+
+https://www.phoronix.com/news/Qt-Creator-11-Beta
+
+#### NVIDIA 545 Linux Driver To Support Vulkan Apps With PRIME On Wayland
+
+https://www.phoronix.com/news/NVIDIA-545-Wayland-VLK-PRIME
+
+#### Last Call For The Phoronix 19th Birthday Premium Sale
+
+https://www.phoronix.com/news/Phoronix-19-Premium-Last-Call
+
+#### Cisco Posts Rust-Written PuzzleFS File-System Driver For Linux
+
+https://www.phoronix.com/news/Experimental-Rust-PuzzleFS
+
+### GitHub
+
+#### Hufe921/canvas-editor
+
+https://github.com/Hufe921/canvas-editor
+
+rich text editor by canvas/svg\
+Language: TypeScript\
+Stars: 996\
+Forks: 129
+
+#### ruanyf/weekly
+
+https://github.com/ruanyf/weekly
+
+科技爱好者周刊，每周五发布\
+Language: Unknown\
+Stars: 32672\
+Forks: 2270
+
+#### pittcsc/Summer2024-Internships
+
+https://github.com/pittcsc/Summer2024-Internships
+
+Collection of Summer 2023 & Summer 2024 tech internships!\
+Language: Unknown\
+Stars: 18216\
+Forks: 1868
+
+### Dribbble
+
+#### Selected Logo Marks
+
+https://dribbble.com/shots/21693190
+
+#### imp form
+
+https://dribbble.com/shots/21660442
+
+#### Phenom Iconography
+
+https://dribbble.com/shots/21653360
+
+#### Label Design
+
+https://dribbble.com/shots/21673416
+
+#### Japanese history // Website
+
+https://dribbble.com/shots/21659793
+
+#### Coffee Label
+
+https://dribbble.com/shots/21676817
+
+#### Financial Investment Admin Dashboard: Analytics UX UI
+
+https://dribbble.com/shots/21588047
+
+#### Online Educational Website
+
+https://dribbble.com/shots/21648065
+
+#### From Figma to 3D landing page with no code - Dora Tutorial
+
+https://dribbble.com/shots/21660605
+
+#### System Icons
+
+https://dribbble.com/shots/21666670
+
+#### The Night Owls
+
+https://dribbble.com/shots/21656027
+
+#### This one is for you, Paul! 🦉 🖤
+
+https://dribbble.com/shots/21672017
+
+#### Clearmove Logo Design
+
+https://dribbble.com/shots/21687995
+
+#### ATOPA Branding, visual identity, corporate brand design
+
+https://dribbble.com/shots/21483487
+
+#### EMI Health Brand Guidelines, style guide book, branding deck
+
+https://dribbble.com/shots/21597551
+
+#### Starwise Logo Design - Owl, AI, Logo, Star , Night, Sky
+
+https://dribbble.com/shots/21672846
+
+#### Love Shoal ✦ Logo
+
+https://dribbble.com/shots/21668460
+
+#### Wizgit
+
+https://dribbble.com/shots/21686229
+
+#### FaithTrail - Logo Design 🏕️
+
+https://dribbble.com/shots/21653341
+
+#### Apple Vision Pro Spatial E-Commerce Website Design Exploration
+
+https://dribbble.com/shots/21690956
+
+#### most -- device illustrations
+
+https://dribbble.com/shots/21667068
+
+#### Relative numbers
+
+https://dribbble.com/shots/21653184
+
+#### Buy Crypto app
+
+https://dribbble.com/shots/21670662
+
+#### Tondo
+
+https://dribbble.com/shots/21671803
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### 科学家在水下生活一百天
+
+https://www.solidot.org/story?sid=75205
+
+#### 梭子鱼网络督促客户替换设备而不是打补丁
+
+https://www.solidot.org/story?sid=75204
+
+#### 特斯拉泄密文件显示 Cybertruck 受困于设计问题
+
+https://www.solidot.org/story?sid=75203
+
+#### 扎克伯格评论苹果 Vision Pro
+
+https://www.solidot.org/story?sid=75202
+
+#### 希捷将推出最高 40 TB 的硬盘
+
+https://www.solidot.org/story?sid=75201
+
+#### 跨国偷拍团伙被曝光
+
+https://www.solidot.org/story?sid=75200
+
+#### 桌面独显销量创新低
+
+https://www.solidot.org/story?sid=75199
+
+#### 流行 Reddit 客户端宣布关闭，Subreddit 宣布将永久关闭
+
+https://www.solidot.org/story?sid=75198
+
+#### 为何英国地震频率高于爱尔兰
+
+https://www.solidot.org/story?sid=75196
+
+#### 因加拿大野火纽约空气质量全球最差
+
+https://www.solidot.org/story?sid=75195
+
+#### Waymo 的自动驾驶汽车杀死了一只宠物狗
+
+https://www.solidot.org/story?sid=75194
+
+#### 逾 6 万 Android 应用被发现会悄悄安装广告程序
+
+https://www.solidot.org/story?sid=75193
+
+#### Vivaldi 将伪装成 Microsoft Edge 允许用户使用 Bing Chat 
+
+https://www.solidot.org/story?sid=75192
+
+#### 青少年志愿者身心更健康
+
+https://www.solidot.org/story?sid=75191
+
+#### 流行《我的世界》模组被发现感染恶意程序 Fracturiser
+
+https://www.solidot.org/story?sid=75190
+
+#### Google 不再想让员工远程工作
+
+https://www.solidot.org/story?sid=75189
+
+#### Reddit API 付费豁免非商业无障碍应用
+
+https://www.solidot.org/story?sid=75188
+
+#### Google AI 发现更快的排序算法
+
+https://www.solidot.org/story?sid=75187
+
+#### 法庭同意了 SEC 冻结币安美国资产的要求
+
+https://www.solidot.org/story?sid=75186
+
+#### 亚马逊 Prime Video 计划推出广告版 
+
+https://www.solidot.org/story?sid=75185
+
+### V2EX
+
+#### \[程序员\] 各位，请教一下，目标检测模型应该部署在什么地方呢？有什么方案呢？
+
+https://www.v2ex.com/t/947467
+
+#### \[Apple\] 移除了电池的 iPad 是否能插电使用？
+
+https://www.v2ex.com/t/947466
+
+#### \[分享发现\] 跑在 web 的 whisper
+
+https://www.v2ex.com/t/947465
+
+#### \[分享发现\] ToolAI.io 收集了 5000 个 AI 工具 请大家收藏平台
+
+https://www.v2ex.com/t/947464
+
+#### \[问与答\] 数据恢复疑问
+
+https://www.v2ex.com/t/947462
+
+#### \[分享创造\] 用 GPT 看视频，效果立竿见影
+
+https://www.v2ex.com/t/947461
+
+#### \[问与答\] 最近谷歌浏览器左上角的小锁已经不能查看 cookie 详细信息了
+
+https://www.v2ex.com/t/947460
+
+#### \[OpenAI\] 没有可用的苹果手机，用不想上公交车，在国内现在有什么方式可以支付 gpt plus 啊？
+
+https://www.v2ex.com/t/947459
+
+#### \[WWDC\] \[WWDC.Playground\] WWDC：回顾 WWDC 23
+
+https://www.v2ex.com/t/947458
+
+#### \[Apple\] 求推荐 Apple Silicon 使用的 USB HUB
+
+https://www.v2ex.com/t/947456
+
+#### \[云计算\] 谷歌云上，东京的服务器和台湾的延迟一样诶
+
+https://www.v2ex.com/t/947455
+
+#### \[Apple\] 求教， Studio Display 如何用第三方键盘调节亮度呢？
+
+https://www.v2ex.com/t/947452
+
+#### \[宽带症候群\] 老毛子路由器 IPv6 问题
+
+https://www.v2ex.com/t/947451
+
+#### \[上海\] 魔都 浦江线闵瑞路求租
+
+https://www.v2ex.com/t/947449
+
+#### \[宽带症候群\] 北京移动突然没法连外网了？
+
+https://www.v2ex.com/t/947448
+
+#### \[问与答\] 最具影响力的人类十大软件！
+
+https://www.v2ex.com/t/947446
+
+#### \[宽带症候群\] 请问一下带宽和信道有直接关联吗
+
+https://www.v2ex.com/t/947445
+
+#### \[问与答\] 关于平板电脑的选择与星巴克办公问题请教大家
+
+https://www.v2ex.com/t/947444
+
+#### \[问与答\] 打算 8 月之前买荣耀 magic5 手机，两个时间哪个更便宜？ 618 期间？或 8 月份？
+
+https://www.v2ex.com/t/947442
+
+#### \[问与答\] 为什么不能发帖？
+
+https://www.v2ex.com/t/947441
+
+#### \[Apple\] iMessage 的 macOS 同步问题
+
+https://www.v2ex.com/t/947440
+
+#### \[C++\] c++问题，寻大佬有偿解决。
+
+https://www.v2ex.com/t/947439
+
+#### \[成都\] 同样求购 2 手车
+
+https://www.v2ex.com/t/947438
+
+#### \[iPad\] iPad Pro M2 49 国军？
+
+https://www.v2ex.com/t/947437
+
+#### \[酷工作\] Hackathon 组队 寻找后端、合约开发
+
+https://www.v2ex.com/t/947436
+
+#### \[云计算\] 求可以存放大尺度视频的云平台
+
+https://www.v2ex.com/t/947435
+
+#### \[macOS\] macOS 接第三方键盘，怎么开启 F 区功能
+
+https://www.v2ex.com/t/947434
+
+#### \[云计算\] 谷歌云、微软云有像 AWS 的 lightsail 一样的便宜服务器吗
+
+https://www.v2ex.com/t/947433
+
+#### \[移民\] run 葡萄牙的机会，现在有带 3 个人的名额机会。
+
+https://www.v2ex.com/t/947431
+
+#### \[生活\] 《认真回答 03》
+
+https://www.v2ex.com/t/947430
+
+#### \[程序员\] 各位，请假下，目标检测模型应该部署在什么地方呢？有什么方案呢？
+
+https://www.v2ex.com/t/947429
+
+#### \[问与答\] 求阿里云盘相册批量下载方案
+
+https://www.v2ex.com/t/947428
+
+#### \[分享创造\] 开发了一个简单数字货币交易系统
+
+https://www.v2ex.com/t/947426
+
+#### \[宽带症候群\] 对于目标 IP 为国内 IP 的情况，有关于国内运营商对于 UDP 流量的态度问题请教各位
+
+https://www.v2ex.com/t/947425
+
+#### \[程序员\] 简单了解一下 V 站的各位程序员对于（写）博客有什么想法
+
+https://www.v2ex.com/t/947424
+
+#### \[Java\] Java 执行大量长耗时接口,怎么使用单机处理
+
+https://www.v2ex.com/t/947423
+
+#### \[问与答\] 刷机的小米 v 友们，大家都选了哪个 rom？（官方 eea，民改 eu， pe， lineageos， crdroid）有几个问题想请教下
+
+https://www.v2ex.com/t/947422
+
+#### \[程序员\] 出差被一拖再拖，出去就回不来。这不就是无间道里的经典场面吗\...
+
+https://www.v2ex.com/t/947421
+
+#### \[OpenAI\] 有偿求提示词
+
+https://www.v2ex.com/t/947419
+
+#### \[宽带症候群\] 中国移动畅连亲们有没有用过
+
+https://www.v2ex.com/t/947418
+
+#### \[问与答\] 物联网 saas 平台，动态数据源疑问
+
+https://www.v2ex.com/t/947417
+
+#### \[程序员\] 今天好几个通过网上的激活码激活的 windows 系统都失效了，提示要重新激活。
+
+https://www.v2ex.com/t/947416
+
+#### \[求职\] 6 月份硕士毕业了，还有工作可以找么？
+
+https://www.v2ex.com/t/947415
+
+#### \[Apple\] Apple Watch s5 更新 watchOS10 后续航尿崩
+
+https://www.v2ex.com/t/947414
+
+#### \[MacBook Pro\] 2020 款 13 寸 macbook pro 不接电源总是自动关机（macOS 13.3.1）
+
+https://www.v2ex.com/t/947413
+
+#### \[酷工作\] \[远程全职\] 寻找会 PHP / Python Laravel/Flask 开发的实习生
+
+https://www.v2ex.com/t/947412
+
+#### \[问与答\] 现在还有搞 IT 培训的吗？ PHP 培训？
+
+https://www.v2ex.com/t/947411
+
+#### \[macOS\] 原时间机器备份的硬盘因给新 Macbook 备份多出了很多备份的位置，如何在不重置的基础上删掉一些位置或者重新整理？
+
+https://www.v2ex.com/t/947410
+
+#### \[奇思妙想\] 人工智能会杀死博客吗？ Will AI kill blogging?
+
+https://www.v2ex.com/t/947409
+
+#### \[V2EX\] 给贴子的感谢能不能像回帖一样大红心显示？
+
+https://www.v2ex.com/t/947408
+
+## Generic News
+
+### AP News
+
+#### Pigs run loose on metro highway after semitruck tips over in Minnesota
+
+https://apnews.com/article/b0ee5418902e3d0df009bbb48ea34520
+
+This photo provided by the Minnesota State Patrol shows pigs running
+loose on a metro highway after a semitrailer truck that was carrying
+them overturned, causing an hours-long shutdown Friday morning, June 9,
+2023, in Little Canada\...
+
+#### Florida's 'Dr. Deep' resurfaces after a record 100 days living underwater
+
+https://apnews.com/article/1000d227a775ce522d44b231ad439532
+
+In this photo provided by the Florida Keys News Bureau, diving explorer
+and medical researcher Dr. Joseph Dituri points to his watch Friday,
+June 9, 2023, indicating that it is time to surface after spending 100
+days in the Jules\...
+
+#### Chelsea Peretti on her directorial debut 'First Time Female Director,' premiering at Tribeca
+
+https://apnews.com/article/442934f978872423ed40eaafa8f3e542
+
+Writer/director Chelsea Peretti poses for a portrait to promote the film
+\"First Time Female Director\" on Friday, June 9, 2023, in New York.
+(Photo by Matt Licari/Invision/AP) NEW YORK (AP) --- Chelsea Peretti
+plays a first-time director\...
+
+#### Rep. Santos says he's protecting family members by seeking to keep bond cosigners secret
+
+https://apnews.com/article/15feeec07af7ce58f2d0645fc89bd12d
+
+FILE - Rep. George Santos, R-N.Y., speaks to reporters outside after an
+effort to expel him from the House, at the Capitol in Washington,
+Wednesday, May 17, 2023. Santos wants to protect family members by
+asking that the courts keep his\...
+
+#### Body of Alaska fishing captain recovered 11 days after partially submerged boat found
+
+https://apnews.com/article/4aea31df85e9f106a1bd09ae384c4e12
+
+A harbor seal pokes its head up near Low Island in Sitka Sound,
+Thursday, June 1, 2023. The area was the site of a fatal charter boat
+accident, Sunday, May 28. (James Poulson/The Daily Sitka Sentinel via
+AP) JUNEAU, Alaska (AP\...
+
+#### Florida woman who fatally shot neighbor granted \$154,000 bond
+
+https://apnews.com/article/1bc7189999056813593c19457879f828
+
+Tmika Wilkerson, left, and Kimberly Wilkerson pray as mourners gather
+for a remembrance service at Immerse Church of Ocala for Ajike Owens,
+Thursday, June 8, 2023, in Ocala, Fla. Owens was fatally shot by her
+neighbor Susan Lorincz when\...
+
+#### Tom Brady still has a full plate and plenty of drive after retirement
+
+https://apnews.com/article/e333c03467eb2501f8effedeb829ed3a
+
+FILE - Then-New England Patriots quarterback Tom Brady holds a Super
+Bowl trophy, between others the team previously had won, during a rally
+in Boston to celebrate the teams 34-28 win over the Atlanta Falcons in
+the NFL\...
+
+#### Man pleads guilty to helping 2 others accused in the fatal shooting of rapper Young Dolph in Memphis
+
+https://apnews.com/article/fec02d3b8ac947d1674603a807a4fc11
+
+FILE - Young Dolph performs at The Parking Lot Concert in Atlanta on
+Aug. 23, 2020. Jermarcus Johnson pleaded guilty Friday, June 9, 2023 to
+helping two other men charged with fatally shooting rapper Young Dolph
+in a daytime ambush at a\...
+
+#### Businessman linked to Texas AG Ken Paxton's impeachment charged with lying to get \$172M in loans
+
+https://apnews.com/article/b3fabca88d1f55f231c36bca10a34226
+
+This undated photo provided by the Austin Police Department shows Nate
+Paul. Paul, the businessman at the center of the scandal that led to
+Texas Attorney General Ken Paxton's historic impeachment, is set to make
+an initial appearance in\...
+
+#### Missouri Supreme Court declines to halt August execution of man convicted of killing child
+
+https://apnews.com/article/052a2b3c6a25f14ef51ce35c59935084
+
+This undated photo provided by the Missouri Department of Corrections
+shows Johnny Johnson. The Missouri Supreme Court on Friday, June 9,
+2023, has turned aside an appeal by Johnson, who is scheduled to be
+executed in August for killing a\...
+
+#### Natalee Holloway disappearance suspect in court, charged with extorting victim's mother
+
+https://apnews.com/article/c69b0d1606980df065b954e94da9ac01
+
+Dutch citizen Joran van der Sloot is driven in a police vehicle from the
+Ancon I maximum-security prison, outskirts of Lima, Peru, Thursday, June
+8, 2023. The main suspect in the unsolved 2005 disappearance of American
+student Natalee\...
+
+#### Giant inflatable ducks make a splash in Hong Kong as pop-art project returns after 10 years
+
+https://apnews.com/article/62983d6020e4065afcb3485bd46fb060
+
+Members of the public photograph an art installation called \"Double
+Ducks\" by Dutch artist Florentijn Hofman at Victoria Harbour in Hong
+Kong, Friday, June 9, 2023. Two giant inflatable ducks made a splash in
+Hong Kongs\...
+
+#### Philippines evacuates people near Mayon Volcano, where more unrest indicates eruption may be coming
+
+https://apnews.com/article/49a2623acb28a3779607bcb77bef26ea
+
+Mayon Volcano spews white smoke as seen from Daraga, Albay province,
+central Philippines on Thursday June 8, 2023. The Philippine Institute
+of Volcanology and Seismology raised Thursday the status of Mayon
+Volcano in Albay to Alert Level\...
+
+### Reuters
+
+#### Toddlers stable after Annecy attack, Macron hails emergency responders
+
+https://www.reuters.com/world/europe/toddlers-stable-after-annecy-attack-france-lauds-backpack-hero-2023-06-09/
+
+A woman pays respect in front of messages and floral tributes at the
+childrens playground the day after several children and adults were
+injured in a knife attack at the Le Paquier park near the lake in
+Annecy, in the\...
+
+#### Russia has received hundreds of Iranian drones to attack Ukraine White House
+
+https://www.reuters.com/world/europe/russia-has-received-hundreds-iranian-drones-attack-ukraine-white-house-2023-06-09/
+
+An image shows Iranian drone transfer to Russia, as evidence of new
+Russian-Iran cooperation, in this handout acquired June 9, 2023. White
+House/Handout via REUTERS A satellite image shows possible planned
+location of UAV manufacturing\...
+
+#### Decrying 'witch hunt', Boris Johnson resigns from UK parliament
+
+https://www.reuters.com/world/uk/former-british-pm-boris-johnson-is-standing-down-parliament-2023-06-09/
+
+Summary: Johnson attacks lockdown parties committee and PM Sunak He said
+committee was determined to find him guilty Resignation throws
+Conservatives into new turmoil Labour says public are sick of Tory soap
+opera\...
+
+#### US House Republicans unveil broad package of tax cuts
+
+https://www.reuters.com/world/us/us-house-republicans-unveil-broad-package-tax-cuts-2023-06-09/
+
+A general view of the U.S. Capitol building, amid the coronavirus
+(COVID-19) outbreak on Capitol Hill in Washington, U.S. July 21, 2020.
+REUTERS/Tom Brenner U.S. House of Representatives Ways and Means
+Committee Chairman Jason Smith (R\...
+
+#### Ukraine reports 'heavy combat' after Putin says offensive has begun
+
+https://www.reuters.com/world/europe/russia-reports-heavy-fighting-southern-ukraine-kyiv-silent-counterattack-2023-06-09/
+
+Summary: Russia and Ukraine report fighting in east and south Putin says
+Ukrainian counteroffensive is failing Zelenskiy says not the time to
+discuss what is happening Firefighters work at a site of residential
+area heavily damaged during\...
+
+#### Nigeria's President Tinubu suspends central bank governor
+
+https://www.reuters.com/world/africa/nigerias-president-tinubu-suspends-central-bank-governor-2023-06-09/
+
+Central Bank Governor Godwin Emefiele speaks during the launch of the
+new Nigerian currency in Abuja, Nigeria November 23, 2022.
+REUTERS/Afolabi Sotunde Nigerias President Bola Tinubu has suspended
+central bank Governor\...
+
+#### US bans imports from China-based Ninestar over Uyghurs
+
+https://www.reuters.com/world/us/us-bans-imports-china-based-ninestar-corp-over-uyghurs-2023-06-09/
+
+U.S. and Chinese flags are seen in this illustration taken, January 30,
+2023. REUTERS/Dado Ruvic/Illustration/File Photo The U.S. on Friday
+banned imports from China-based printer maker Ninestar Corp (002180.SZ)
+and a Chinese chemical\...
+
+#### Canadian province changes LGBT policy in schools to 'recognize role of parents'
+
+https://www.reuters.com/world/americas/canadian-province-changes-lgbt-policy-schools-recognize-role-parents-2023-06-09/
+
+The transgender pride (L), pride (C) and Canada 150 pride flags fly
+following a flag raising ceremony on Parliament Hill in Ottawa, Ontario,
+Canada, June 14, 2017. REUTERS/Chris Wattie Ruling conservatives in the
+Canadian province of New\...
+
+#### Boris Johnson's honours list includes aides tied to ex-UK PM's 'Partygate' scandal
+
+https://www.reuters.com/world/uk/ex-uk-pm-boris-johnson-rewards-allies-resignation-honours-2023-06-09/
+
+Britains Prime Minister Borris Johnson speaks during his visit to the UK
+Battery Industrialisation Centre in Coventry, Britain July 15, 2021.
+David Rose/Pool via REUTERS Boris Johnson awarded his political aides
+and\...
+
+#### Wildfires spread in British Columbia, Quebec sees signs of progress
+
+https://www.reuters.com/business/environment/wildfires-spread-canadas-british-columbia-quebec-stabilizes-2023-06-09/
+
+Smoke rises from a wildfire in Tumbler Ridge, British Columbia, Canada,
+in this screen grab taken from a video, June 8, 2023. BC Wildlife
+Service/Handout via REUTERS Wildfires spread in the western Canadian
+province of British Columbia on\...
+
+#### White House says Tesla chargers available for federal dollars as long as they include CCS
+
+https://www.reuters.com/world/us/white-house-says-tesla-chargers-available-federal-dollars-long-they-include-ccs-2023-06-09/
+
+Tesla charging stations are pictured in a parking lot in Shanghai, China
+March 13, 2021. Picture taken March 13, 2021. REUTERS/Aly Song The logo
+of Tesla is pictured at a dealership in Chambourcy, near Paris, France,
+December 15, 2021\...
+
+#### Evidence grows of explosion at collapsed Ukraine dam
+
+https://www.reuters.com/world/europe/ukraine-security-service-says-it-intercepted-call-proving-russia-destroyed-2023-06-09/
+
+Summary: Ukraines SBU: Rcording shows Russian sabotage blew up dam
+Norway seismic data show signals of blast US spy satellite detects
+explosion A satellite image shows the Nova Kakhovka Dam and
+hydroelectric plant after\...
+
+#### Putin says tactical nuclear weapons to be deployed in Belarus in July
+
+https://www.reuters.com/world/europe/russia-deploy-tactical-nuclear-weapons-belarus-july-putin-says-2023-06-09/
+
+Summary: Belarus storage facility to be ready on July 7-8 Russia to
+deploy as soon as facility is ready Bombs will put much of eastern
+Europe in range Lukashenko thanks Putin Russian President Vladimir Putin
+and Belarusian President\...
+
+### 联合早报
+
+#### 新闻人间：王进洋------泛民政客沦为电骗集团骗徒
+
+https://www.zaobao.com/news/china/story20230610-1402857
+
+《香港国安法》实施三年以来，民主派遭受空前打击，一众头面人物要么身陷囹圄，要么移居海外，要么就退场转型另找工作。
+在刚刚过去的星期三（6月7日），香港警方公布拘捕一名28岁王姓男子，指他涉嫌与九起"猜猜我是谁"的电话骗案有关，骗去九名老妇近100万港元（17万新元）。令人惊讶的是，这名被捕人士竟然是前任离岛区议员王进洋......
+
+#### 温伟中：从性骚扰到喂安眠药
+
+https://www.zaobao.com/news/china/story20230610-1402894
+
+从5月31日至今的10天以来，民进党爆发掩盖性骚扰丑闻、新北市政府被指拖延处理幼儿园喂安眠药事件，被视为台湾蓝绿总统候选人后院失火的破口事件。
+绿军总统候选人、民进党主席赖清德，以及蓝军总统候选人、国民党籍新北市长侯友宜，已分别多次向社会道歉。但能否成功止血停损、清理战场，甚至化危机为转机；还是继续失血至无力回天，仍有待观察......
+
+#### 中国大使提醒首尔别在中美"下错赌注" 韩国外长谴责他干涉内政
+
+https://www.zaobao.com/news/china/story20230609-1402878
+
+中国驻韩国大使邢海明星期四（6月8日）不点名批评尹锡悦政府"赌美国赢、中国输"，提醒首尔不要在中美竞争中"下错赌注"。韩国外长官朴振星期五谴责邢海明这番言论过分。
+受访学者分析，邢海明的表态意在向韩国政商界发出警示，同时也分化韩国国内的友中反中势力，以及日益热络的日韩关系，表明中国对美日韩在东亚打造军事联盟越来越警惕......
+
+#### 美媒指中国在古巴设对美监听基地 中国白宫古巴皆驳斥报道不准确
+
+https://www.zaobao.com/news/china/story20230609-1402874
+
+《华尔街日报》报道指中国在古巴建造秘密监听美国基地，中国、古巴、美国官方都指报道不正确、毫无根据、纯属造谣。
+《华尔街日报》星期四（6月8日）引述知情的美国官员报道，中国和古巴达成秘密协议，将在古巴建立针对美国的电子窃听设施。
+中国外交部发言人汪文斌星期五（6月9日）在例行记者会上说："众所周知，造谣污蔑是美国的惯用伎俩，肆意干涉他国内政是美国的专利......
+
+#### 美参院委员会通过法案 剥夺中国"发展中国家"地位
+
+https://www.zaobao.com/news/china/story20230609-1402847
+
+美国参议院星期四（6月8日）全票通过了一项法案，要求国务院争取在美国参与的国际组织中，取消中国享有的发展中国家地位。
+受访学者表示，美国这项决定又是让其他国家在中美经贸关系中选边站。但这项国内立法到底会有多大效果，取决于美国国务院要花多大力气去执行，以及其他国家和国际组织是否要改变中国的贸易地位......
+
+#### 人人自危 中国脱口秀演员自嘲开场前互道"祝您平安"
+
+https://www.zaobao.com/news/china/story20230609-1402835
+
+中国脱口秀演员李昊石被控辱军后，脱口秀从业者更加小心谨慎。北京东城区一家脱口秀现场上，演员们极力回避社会热点话题。（孟丹丹摄）
+"演出之前，不说'祝您炸场'了，大家现在都改说'祝您平安' ''。
+5月下旬，北京东城区一家咖啡馆的脱口秀（在中国也称单口喜剧）开放麦现场，主持人在开场白中调侃李昊石事件后脱口秀从业者人人自危，以往演员们上场前，相互之间都会鼓励演出成功，现在则祈祷平安无事......
+
+#### 中国网络大V写色情小说 犯传播淫秽物品罪获刑八个月
+
+https://www.zaobao.com/news/china/story20230609-1402813
+
+中国网络大V曾鹏宇因在微博账号上发表色情小说，犯传播淫秽物品罪而获刑八个月。
+据红星新闻星期四（6月8日）报道，曾鹏宇因涉嫌犯传播淫秽物品罪于2022年8月被抓。中国裁判文书网5月26日公布的相关刑事判决书显示，曾鹏宇获刑八个月，自2022年8月28日起至2023年4月26日止。
+大V是指在新浪、腾讯、网易等微博平台上获得个人认证，拥有众多粉丝的微博用户......
+
+#### 新北幼儿园孩童被喂安眠药水 市长侯友宜两度道歉
+
+https://www.zaobao.com/news/china/story20230609-1402797
+
+台湾新北市板桥区一家幼儿园，让不听话的孩子服用含安眠药成分的药水。目前已有17名家长报案，涉事幼儿园园长和五名老师被检察署约谈后保释在外，其中园长以5万元（新台币，下同，约2185新元）交保。
+新北市长侯友宜星期四（6月8日）两度道歉，执政的民进党狠批这位国民党总统候选人毫无诚意。新北市议会民进党团星期五召开记者会，痛批侯友宜与新北市政府不积极处理这起事件，要他请辞负责......
+
+#### 中国"文管"登场了？
+
+https://www.zaobao.com/news/china/story20230609-1402562
+
+继城管和农管之后，中国"文管"大队登场的话题，本星期引起了境外社交媒体关注。
+"文管"一词横空出世，导源于今年5月30日黑龙江省文化旅游厅举行的一场"文化市场综合执法队伍统一着装仪式暨规范化建设现场观摩会"。
+根据主办方官网发布的消息与配图，黑龙江省各级文化市场执法队员代表共500余人参加了活动。代表们穿着整齐的制服，犹如纪律部队般出席了统一着装仪式......
+
+#### 侯友宜选总统民调低迷 保台论述和掌握民怨或是反弹关键
+
+https://www.zaobao.com/news/china/story20230608-1402564
+
+美国在台协会（AIT）主席罗森伯格（左一）两个月内二度访台，6月7日与侯友宜（右一）和新北市政府团队密谈一小时后，搭火车到平溪放天灯祈福，并聊到深夜。（新北市政府提供）
+台湾在野的国民党总统候选人侯友宜民调低迷，半年内从领先到两度垫底，引发弃保担忧。但受访民调专家研判，美方本周专程派高官来台面谈，说明侯友宜仍具备实现政党轮替的政治能量......
+
+#### 美媒：中国将在古巴设立针对美国的秘密监听基地
+
+https://www.zaobao.com/news/china/story20230608-1402559
+
+民众在古巴首都哈瓦那街头的摊贩排队买食物。（法新社）
+美国官员称，中国和古巴达成秘密协议，中国将在古巴建立电子窃听设施，对美国构成新的地缘政治挑战。
+《华尔街日报》引述熟悉美国高度机密情报的官员说，设在古巴的电子窃听设施，距离佛罗里达州约160公里，这让中国情报部门能够窃听美国东南部的电子通信，以及监视美国的船只。美国东南部是许多军事基地的所在地......
+
+#### 中国国企领导与女子牵手逛街后被免职
+
+https://www.zaobao.com/news/china/story20230608-1402537
+
+中国一名国企高管在四川成都出差期间，被拍到与一名年轻女子亲密牵手逛街。视频本周在网络流传后，涉事两人均被停职调查。
+一则街拍视频星期三（6月7日）短视频平台抖音上被疯转。视频显示，一名身穿玫粉色上衣的中年男子与一名衣着靓丽的年轻女子牵手说笑、漫步在成都闹市区街道......
+
+#### 谢锋：用"去风险"为"脱钩"掩护 给中美关系埋下更多钉子
+
+https://www.zaobao.com/news/china/story20230608-1402527
+
+中国驻美大使谢锋6月7日出席美中贸易全国委员会为他履新举行的欢迎活动时说，如果用"去风险"为"脱钩"打掩护，就会给中美关系埋下更多钉子。（中国驻美大使馆官网）
+中国呼吁美国在高层交往中做好全过程管理，不能言行不一致，强调如果用"去风险"为"脱钩"打掩护，就会给中美关系埋下更多钉子......
+
+#### 大陆军机37架次现台周边空域 台军启动防御系统
+
+https://www.zaobao.com/news/china/story20230608-1402516
+
+台湾国防部星期四（6月8日）侦查到37架次中国大陆的军用飞机，飞入台湾防空识别区西南空域。台军随即启动防御系统，两军并没有发生冲突。
+根据台湾国防部星期四发布的新闻稿，自当天早上五时起，侦查到中国大陆军机的军机，包括歼11、歼16、轰6、运油20及预警等各型军机，进入台湾的防空识别区。部分大陆编队随后飞入西太平洋，进行空中监视和远程航行训练......
+
+#### 美议员反对邀李家超出席APEC 港学者：特首获邀也不一定赴会
+
+https://www.zaobao.com/news/china/story20230608-1402510
+
+香港近年与美国关系紧张。美国有跨党派国会议员星期三（7日）致函国务卿布林肯，反对美国有意邀请被美方制裁的香港行政长官李家超，参加今年年底在美国举行的亚太经合组织（APEC）会议。
+有受访学者认为，美国总统拜登正寻求连任，未必愿意在该议题上惹恼参众两院议员。但纵使美国邀请李家超出席，李家超也不一定赴会......
+
+#### 英政府部门将拆除中国制造监控设备 北京指责伦敦歧视打压中企
+
+https://www.zaobao.com/news/china/story20230608-1402505
+
+英国内阁公署要求各政府部门从敏感政府机关地点拆除中国制造的监控设备。中国驻英国大使馆指这是"歧视和打压中国企业"。
+综合路透社和《金融时报》报道，英国内阁公署当地时间星期二（6月6日）在一份收紧采购条规的公告中，承诺将公布一份时间表，拆除受中国《国家情报法》约束的公司所生产的监控设备......
+
+#### 台湾性骚扰风波持续延烧 文坛与教育界两位重量级人物被点名
+
+https://www.zaobao.com/news/china/story20230608-1402464
+
+台湾"MeToo"风暴从政坛烧向文坛，著名现代诗人郑愁予、知名作家陈芳明，被曝曾经分别性骚扰女学生和女助理。
+台湾媒体《放言》星期三（7日）报道，以一首《错误》享誉诗坛，诗歌入选海峡两岸教材的老牌诗人郑愁予，近日被指在东华大学任教时，曾对女学生有类似毛手毛脚的行为。
+当事人在脸书发长文《踩在受害者的位置上，踩好踩满》，指控郑愁予在2005年担任东华大学客座教授期间性骚扰学生......
+
+#### 陈婧：落空的黄仁勋"登陆"行
+
+https://www.zaobao.com/news/china/story20230608-1402205
+
+人工智能芯片巨头英伟达（Nvidia）创办人黄仁勋已从台湾返回美国的消息在星期一（6月5日）得到证实，让坊间对他本周访问中国大陆的高涨期待落了空。
+此前一周，关于黄仁勋"登陆"的消息已传得沸沸扬扬，连具体行程都有鼻子有眼。据说，黄仁勋会到访腾讯、字节跳动等科技公司，理想和比亚迪等电动车企，以及正进军电动车领域的小米公司......
+
+#### 高尔夫球场部分用地"未决定用途" 港府新界兴建公屋计划或有变
+
+https://www.zaobao.com/news/china/story20230607-1402213
+
+香港土地长期供不应求，港府早前表示将收回有逾百年历史的粉岭高尔夫球场来兴建公营房屋。但当局近日向城市规划委员会提交的文件，却将部分用地暂时修订为"未决定用途"地带，让人察觉到建屋计划出现变数。
+受访学者认为，目前香港房屋问题严峻，当局应学习新加坡政府果断收回克兰芝赛马场兴建房屋的魄力，尽快收回粉岭高尔夫球场高场并立即建公屋......
+
+#### 中美未否认布林肯将访华 分析：若成行意味气球事件翻篇
+
+https://www.zaobao.com/news/china/story20230607-1402190
+
+美国国务卿布林肯传出将在未来几周重启访华，白宫和中国外交部之后相继表态，虽未证实也没有否认。（路透社档案照）
+美国国务卿布林肯星期二（6月6日）传出将在未来几周重启访华，白宫和中国外交部之后相继表态，虽未证实也没有否认。受访中国学者评估，布林肯今年2月因气球事件推迟访华，重启访华将意味着气球事件完全翻篇，也表明中美有意继续加强沟通对话为两国紧张降温......
+
+#### 英国指中国关闭秘密警察站 北京敦促英国停止诋毁中国
+
+https://www.zaobao.com/news/china/story20230607-1402186
+
+英国安全部部长图根哈特（Tom
+Tugendhat）称，中国已经关闭在英国各地的"警察服务站"。中国外交部加以否认，并敦促英国停止诋毁中国。
+综合法新社、路透社等报道，非政府人权组织"保护卫士"（Safeguard
+Defenders）去年9月发表报告，指中国在英国境内三个地点设有警察站，旨在提供行政服务，但也被用来"监视和骚扰侨民社区，在某些情况下，强迫人们在合法渠道之外返回中国......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

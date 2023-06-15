@@ -1,0 +1,1000 @@
+Other formats: [PDF]() / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20230615.html)
+
+
+# Web Digest 2023-06-15
+
+
+## Developers
+
+### Hacker News
+
+#### Recovering secret keys from devices using video footage of their power LED
+
+https://www.nassiben.com/video-based-crypta
+
+https://news.ycombinator.com/item?id=36331446
+
+#### AMD openSIL open source firmware proof of concept
+
+https://github.com/openSIL/openSIL
+
+https://news.ycombinator.com/item?id=36331394
+
+#### Native JSON Output from GPT-4
+
+https://yonom.substack.com/p/native-json-output-from-gpt-4
+
+https://news.ycombinator.com/item?id=36330972
+
+#### Twitter is being evicted from its Boulder office over unpaid rent
+
+https://techcrunch.com/2023/06/14/twitter-is-being-evicted-from-its-boulder-office-over-unpaid-rent/
+
+https://news.ycombinator.com/item?id=36330812
+
+#### Zap -- Fast backends in Zig
+
+https://github.com/zigzap/zap
+
+https://news.ycombinator.com/item?id=36330429
+
+#### I may be the only evil (bit) user on the internet (2015)
+
+https://blog.benjojo.co.uk/post/evil-bit-RFC3514-real-world-usage
+
+https://news.ycombinator.com/item?id=36330116
+
+#### Brain fog after Covid-19 has similarities to 'chemo brain' in humans and mice
+
+https://med.stanford.edu/news/all-news/2022/06/brain-fog-covid-chemo-brain.html
+
+https://news.ycombinator.com/item?id=36329645
+
+#### New York State Senate passes prohibitions on non-competes
+
+https://ogletree.com/insights/new-york-state-senate-passes-prohibitions-on-non-competes/
+
+https://news.ycombinator.com/item?id=36329483
+
+#### What Reddit Got Wrong
+
+https://www.eff.org/deeplinks/2023/06/what-reddit-got-wrong
+
+https://news.ycombinator.com/item?id=36328580
+
+#### Bay Area woman is on a crusade to prove Yelp reviews can't be trusted
+
+https://www.sfgate.com/tech/article/yel-review-fraud-kay-dean-18150617.php
+
+https://news.ycombinator.com/item?id=36328433
+
+#### First people sickened by Covid-19 were scientists at WIV: US government sources
+
+https://public.substack.com/p/first-people-sickened-by-covid-19
+
+https://news.ycombinator.com/item?id=36328352
+
+#### APIs for content sites must be free
+
+https://www.somebits.com/weblog/culture/apis-for-content-sites-must-be-free.html
+
+https://news.ycombinator.com/item?id=36328320
+
+#### Freaky Leaky SMS: Extracting user locations by analyzing SMS timings
+
+https://arxiv.org/abs/2306.07695
+
+https://news.ycombinator.com/item?id=36328245
+
+#### Why PostgreSQL High Availability Matters and How to Achieve It
+
+https://www.yugabyte.com/postgresql/postgresql-high-availability/
+
+https://news.ycombinator.com/item?id=36328148
+
+#### The Reddit blackout has left Google barren and full of holes
+
+https://www.techradar.com/opinion/the-reddit-blackout-has-left-google-barren-and-full-of-holes
+
+https://news.ycombinator.com/item?id=36327210
+
+#### 33-46% of workers on MTurk used LLMs in a text production task
+
+https://arxiv.org/abs/2306.07899
+
+https://news.ycombinator.com/item?id=36326956
+
+#### France's Mistral AI raises a \$113M seed round to take on OpenAI
+
+https://techcrunch.com/2023/06/13/frances-mistral-ai-blows-in-with-a-113m-seed-round-at-a-260m-valuation-to-take-on-openai/
+
+https://news.ycombinator.com/item?id=36326706
+
+#### SimulaVR's Reaction to Apple
+
+https://simulavr.com/blog/seeking-investment/
+
+https://news.ycombinator.com/item?id=36326677
+
+#### Dumb and Gets Things Done (2010)
+
+https://www.johndcook.com/blog/2010/12/27/dumb-and-gets-things-done/
+
+https://news.ycombinator.com/item?id=36326495
+
+#### I booted Linux 293k times in 21 hours
+
+https://rwmj.wordpress.com/2023/06/14/i-booted-linux-292612-times/
+
+https://news.ycombinator.com/item?id=36325986
+
+### Phoronix
+
+#### AMD Publishes Initial openSIL Open-Source CPU Silicon Initialization Code
+
+https://www.phoronix.com/news/AMD-openSIL-Published
+
+#### It's Recommended To Avoid Using The Open-Source NVIDIA Driver On Linux 6.3
+
+https://www.phoronix.com/news/Avoid-Nouveau-Linux-6.3
+
+#### LibreOffice 7.6 Beta Available For This Excellent Open-Source Office Suite
+
+https://www.phoronix.com/news/LibreOffice-7.6-Beta-1
+
+#### NVIDIA 535.54.03 Linux Driver Released With Vulkan Updates, DMA-BUF v4 Wayland Protocol
+
+https://www.phoronix.com/news/NVIDIA-535.54.03-Linux-Driver
+
+#### Linux x86 Boot Process Trying To Cleanup \"Hay-Wire Circuits, Duct Tape & Super Glue\"
+
+https://www.phoronix.com/news/Linux-x86-Boot-Process-Mess
+
+#### WSL 1.3.10 Brings Experimental Memory Reclaim, Updated DXCore & Linux Kernel
+
+https://www.phoronix.com/news/Microsoft-WSL-1.3.10
+
+#### Oracle's GraalVM Native Image Now Defaults To x86-64-v3, IGV Open-Sourced
+
+https://www.phoronix.com/news/GraalVM-JDK20-Summer-2023
+
+#### Imagination PowerVR DRM Open-Source Driver Continues To Be Improved Upon
+
+https://www.phoronix.com/news/PowerVR-DRM-Driver-v3
+
+#### PCI Express 7.0 v0.3 Specification Shared With PCI-SIG Members
+
+https://www.phoronix.com/news/PCI-Express-7.0-v0.3
+
+### GitHub
+
+#### ordinals/ord
+
+https://github.com/ordinals/ord
+
+👁‍🗨 Rare and exotic sats\
+Language: Rust\
+Stars: 1972\
+Forks: 584
+
+#### BloopAI/bloop
+
+https://github.com/BloopAI/bloop
+
+bloop is a fast code search engine written in Rust.\
+Language: Rust\
+Stars: 6726\
+Forks: 370
+
+#### jackMort/ChatGPT.nvim
+
+https://github.com/jackMort/ChatGPT.nvim
+
+ChatGPT Neovim Plugin: Effortless Natural Language Generation with
+OpenAIs ChatGPT API\
+Language: Lua\
+Stars: 2019\
+Forks: 148
+
+#### nextcloud/server
+
+https://github.com/nextcloud/server
+
+☁️ Nextcloud server, a safe home for all your data\
+Language: PHP\
+Stars: 22810\
+Forks: 3549
+
+#### hwchase17/langchain
+
+https://github.com/hwchase17/langchain
+
+⚡ Building applications with LLMs through composability ⚡\
+Language: Python\
+Stars: 47593\
+Forks: 5661
+
+### Dribbble
+
+#### Selected Logo Marks
+
+https://dribbble.com/shots/21693190
+
+#### Smart Lakes Mobile App
+
+https://dribbble.com/shots/21592494
+
+#### Designership Logo Design
+
+https://dribbble.com/shots/21708884
+
+#### Clearmove Logo Design
+
+https://dribbble.com/shots/21687995
+
+#### Apple Vision Pro Spatial E-Commerce Website Design Exploration
+
+https://dribbble.com/shots/21690956
+
+#### EMI Health Brand Guidelines, style guide book, branding deck
+
+https://dribbble.com/shots/21597551
+
+#### 35
+
+https://dribbble.com/shots/21724947
+
+#### Wizgit
+
+https://dribbble.com/shots/21686229
+
+#### Owl
+
+https://dribbble.com/shots/21691198
+
+#### \[P\] 1 → N
+
+https://dribbble.com/shots/21707964
+
+#### Milk Carton Icon
+
+https://dribbble.com/shots/21682667
+
+#### R ✦ Sketching / Concepts
+
+https://dribbble.com/shots/21722728
+
+#### Futuristic Booking // Mobile App
+
+https://dribbble.com/shots/21691645
+
+#### The Core home page interaction
+
+https://dribbble.com/shots/21712786
+
+#### Qerra - Logo Design
+
+https://dribbble.com/shots/21717102
+
+#### Wiseloop Logo Design - Owl, Infinity, Loop
+
+https://dribbble.com/shots/21728098
+
+#### Dragon
+
+https://dribbble.com/shots/21718982
+
+#### Crosswire Launch Video
+
+https://dribbble.com/shots/21677281
+
+#### Coinread Website Design: business landing web page site designer
+
+https://dribbble.com/shots/21598030
+
+#### Infamous
+
+https://dribbble.com/shots/21717222
+
+#### Ecofund - Logo Design \*️⃣
+
+https://dribbble.com/shots/21681799
+
+#### Owls for Paul Ibou
+
+https://dribbble.com/shots/21687130
+
+#### Paytient logo design (3D version)
+
+https://dribbble.com/shots/21692250
+
+#### Medizinisch - Apple Vision Pro Spatial Healthcare Dashboard UI
+
+https://dribbble.com/shots/21713868
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### AMD 公布 Instinct MI300X 加速器
+
+https://www.solidot.org/story?sid=75250
+
+#### 麦当劳发布新 GBC 游戏
+
+https://www.solidot.org/story?sid=75249
+
+#### 微软与 OpenAI 貌合神离
+
+https://www.solidot.org/story?sid=75248
+
+#### 免疫恢复力与长寿和抵抗感染相关
+
+https://www.solidot.org/story?sid=75246
+
+#### 微软向美国政府客户提供 GPT-4 模型
+
+https://www.solidot.org/story?sid=75245
+
+#### Meta 发布类人 AI 图像创造模型 I-JEPA
+
+https://www.solidot.org/story?sid=75244
+
+#### 亚马逊用生成式 AI 概述产品评论
+
+https://www.solidot.org/story?sid=75243
+
+#### 印度政府要求中国手机厂商任命印裔人士担任高管
+
+https://www.solidot.org/story?sid=75242
+
+#### 美国法官暂时阻止微软完成对动视暴雪的收购
+
+https://www.solidot.org/story?sid=75241
+
+#### Reddit CEO 告诉雇员 API 价格抗议不会影响收入
+
+https://www.solidot.org/story?sid=75240
+
+#### 研究揭示减肥反弹的大脑秘密
+
+https://www.solidot.org/story?sid=75239
+
+#### 丰田计划在 2027 年推出电动汽车用全固态电池
+
+https://www.solidot.org/story?sid=75238
+
+#### 日本向更多海外劳工开放大门
+
+https://www.solidot.org/story?sid=75237
+
+#### 西部数据对开机三年的硬盘发出更换警告引发争议
+
+https://www.solidot.org/story?sid=75236
+
+#### 太空飞行会对人脑结构产生无法恢复的影响
+
+https://www.solidot.org/story?sid=75235
+
+#### 伊朗的"量子"设备被发现是开发板
+
+https://www.solidot.org/story?sid=75234
+
+#### 欧盟监管机构考虑分拆 Google 的广告技术业务 
+
+https://www.solidot.org/story?sid=75233
+
+#### 《自然》期刊禁止 AI 生成艺术
+
+https://www.solidot.org/story?sid=75232
+
+#### 大规模抗议导致 Reddit 崩溃三小时
+
+https://www.solidot.org/story?sid=75231
+
+#### FTC 寻求阻止微软收购动视暴雪
+
+https://www.solidot.org/story?sid=75230
+
+### V2EX
+
+#### \[分享发现\] 阿里云盘好像回归 20t 了， 3 年 600 多   
+
+https://www.v2ex.com/t/948840
+
+#### \[YouTube\] Youtube Premium 土耳其付款被拒绝
+
+https://www.v2ex.com/t/948839
+
+#### \[macOS\] 能否设置 mac 让她过一段时间自动睡眠？
+
+https://www.v2ex.com/t/948838
+
+#### \[程序员\] \[记录\]-2023-06-13 英语内部面试通过却因学历被卡
+
+https://www.v2ex.com/t/948837
+
+#### \[问与答\] 准备装个机，大佬们帮我看看选的配置
+
+https://www.v2ex.com/t/948836
+
+#### \[投资\] 23 年 5 月初入美股，幸运赶上特斯拉 13 连涨
+
+https://www.v2ex.com/t/948835
+
+#### \[游戏\] 想玩植物大战僵尸但只有 m1 的 macbook 怎么办？
+
+https://www.v2ex.com/t/948834
+
+#### \[问与答\] Azure OpenAI 申请终于下来了，历时 2 个多月。现在有个问题
+
+https://www.v2ex.com/t/948833
+
+#### \[问与答\] 115 网盘 100 元/年了，该下手吗？
+
+https://www.v2ex.com/t/948832
+
+#### \[分享发现\] 傻逼 Safari 在处理 local 域的站点信任数据时有逻辑缺陷
+
+https://www.v2ex.com/t/948831
+
+#### \[问与答\] Android 10 读取剪贴板的问题
+
+https://www.v2ex.com/t/948830
+
+#### \[MacBook Pro\] 启动 22 天磁盘读写快 1T 是否正常
+
+https://www.v2ex.com/t/948829
+
+#### \[Netflix\] Netflix 如何解锁 Android TV 呢？
+
+https://www.v2ex.com/t/948828
+
+#### \[问与答\] 关于 IIS 上 URL 重写+ARR 作为反代无法修改请求头的问题
+
+https://www.v2ex.com/t/948827
+
+#### \[问与答\] 万能 V 友们，可以推荐一套洗烘套装吗？
+
+https://www.v2ex.com/t/948826
+
+#### \[iCloud\] 发一篇 iCloudpd-docker 教学
+
+https://www.v2ex.com/t/948825
+
+#### \[问与答\] 公司可以选择发美元或者发 USDC，选哪个比较靠谱呢？
+
+https://www.v2ex.com/t/948824
+
+#### \[Chrome\] 升级到 Android 13 之后，安卓手机 Chrome 长按后退键显示当前标签页历史记录的功能就不见了吗？
+
+https://www.v2ex.com/t/948823
+
+#### \[游戏\] 暗黑 4 刷到了 90 级已经玩不下去了
+
+https://www.v2ex.com/t/948822
+
+#### \[宽带症候群\] 2023 年中，请问各位 V2ER 广州现在还能搞到 CN2 宽带用么？
+
+https://www.v2ex.com/t/948821
+
+#### \[问与答\] 安卓 Chrome 又开始改界面了
+
+https://www.v2ex.com/t/948820
+
+#### \[问与答\] 应试教育把人都学傻了。
+
+https://www.v2ex.com/t/948819
+
+#### \[远程工作\] 三年经验电商前端，找远程工作
+
+https://www.v2ex.com/t/948818
+
+#### \[问与答\] 问下群晖搭建 zerotier 的问题，系统是 DSM 7.2
+
+https://www.v2ex.com/t/948817
+
+#### \[分享创造\] 基于随身 WiFi 的低成本短信转发器
+
+https://www.v2ex.com/t/948816
+
+#### \[分享发现\] 微信 With0371 这个骗子,骗我 500 不发货失联了.
+
+https://www.v2ex.com/t/948815
+
+#### \[酷工作\] \[上海\]NVIDIA 热招测试开发工程师
+
+https://www.v2ex.com/t/948814
+
+#### \[Android\] 现在有什么适合安卓手机的优化工具不，专门优化系统 app 的那种
+
+https://www.v2ex.com/t/948813
+
+#### \[VPS\] lisahost 能用 ChatGPT 吗？是不是在 V 站有推广？
+
+https://www.v2ex.com/t/948812
+
+#### \[JavaScript\] 使用 Docusaurus 建了个站记录文档和博客，写了几篇文章就没了头绪，感觉脑子里知识零散，怎么办
+
+https://www.v2ex.com/t/948811
+
+#### \[问与答\] 现在业余时间多的情况下可以学些什么技术呀 
+
+https://www.v2ex.com/t/948809
+
+#### \[分享发现\] ubuntu 23 下 intel 无线网卡创建 5G 热点的 patch
+
+https://www.v2ex.com/t/948808
+
+#### \[程序员\] 一个有意思的项目，找小程序前端开发入伙
+
+https://www.v2ex.com/t/948807
+
+#### \[问与答\] 使用 ssh 连接 windows，有没有类似 Linux 的 screen 命令
+
+https://www.v2ex.com/t/948806
+
+#### \[Surge\] 曝光一个骗子 6222990
+
+https://www.v2ex.com/t/948805
+
+#### \[问与答\] 中药和机器学习的区别是什么
+
+https://www.v2ex.com/t/948804
+
+#### \[Visual Studio Code\] Java in Visual Studio Code 的问题
+
+https://www.v2ex.com/t/948802
+
+#### \[iPhone\] 想问一下各位裸奔使用 iPhone 14 pro 深空黑色的用户
+
+https://www.v2ex.com/t/948800
+
+#### \[MacBook Pro\] 求测试 MacBook 音箱的方法和软件
+
+https://www.v2ex.com/t/948798
+
+#### \[MacBook Pro\] MagSafe 磁吸充电器弄碎了 M1 Macbook Pro 屏幕
+
+https://www.v2ex.com/t/948797
+
+#### \[问与答\] 足球运动员的穿着为啥比较有型？
+
+https://www.v2ex.com/t/948796
+
+#### \[Android\] 安卓的闪存测试软件有推荐吗？
+
+https://www.v2ex.com/t/948795
+
+#### \[问与答\] 年轻时应该多积累自己专业水平还是躺平摆烂呢
+
+https://www.v2ex.com/t/948794
+
+#### \[问与答\] Microsoft 365 无法加入别人的家庭组，怎么破
+
+https://www.v2ex.com/t/948792
+
+#### \[酷工作\] 在校大三生，求个 Java 后端实习机会
+
+https://www.v2ex.com/t/948791
+
+#### \[分享发现\] 10 年 v2 老人, 有可能被注册一个月小号骗了 500.
+
+https://www.v2ex.com/t/948790
+
+#### \[Windows\] 最近一次 Windows11 更新后任务栏时间显示秒数又没了？
+
+https://www.v2ex.com/t/948789
+
+#### \[物联网\] DeviceScript: TypeScript for Tiny IoT Devices
+
+https://www.v2ex.com/t/948787
+
+#### \[问与答\] 求助：急，机械硬盘掉盘
+
+https://www.v2ex.com/t/948786
+
+#### \[问与答\] 求 2023 年想自己跑机器学习的整机硬件配置
+
+https://www.v2ex.com/t/948785
+
+## Generic News
+
+### AP News
+
+#### Robert Gottlieb, celebrated literary editor of Toni Morrison and Robert Caro, dies at 92
+
+https://apnews.com/article/671aa1363c6144e4adc3bc79a87b0201
+
+This image released by Knopf shows Robert Gottlieb. Gottlieb, the
+inspired and eclectic literary editor whose brilliant career was
+launched with Joseph Heller's "Catch-22" and continued for decades with
+such Pulitzer Prize-winning\...
+
+#### Luka Modric penalty completes thrilling 4-2 win for Croatia over Netherlands in Nations League
+
+https://apnews.com/article/c1dc48c6347cbb98b454f55cf01fad2a
+
+Croatias Luka Modric celebrates after scoring his sides fourth goal
+against Netherlands during the Nations League semifinal soccer match
+between the Netherlands and Croatia at De Kuip stadium in\...
+
+#### Michael Harris-led Braves beat Tigers 10-7 in 1st game of doubleheader
+
+https://apnews.com/article/bc3d75d9edfaec23beae86077c214d99
+
+Atlanta Braves Michael Harris II hits a two-run double against the
+Detroit Tigers in the fourth inning during the first baseball game of a
+doubleheader, Wednesday, June 14, 2023, in Detroit. (AP Photo/Paul
+Sancya\...
+
+#### Punishing winds, possible tornadoes inflict damage as storms cross US South
+
+https://apnews.com/article/7db6ee2cb28cca3794a7f074d3129071
+
+This screenshot taken from a video shows a tornado on June 14, 2023, in
+Blakely, Ga. Officials from Texas to Georgia are reporting damaging
+winds and possible tornadoes as a powerful storm system crosses the
+South. (Rand McDonald via AP\...
+
+#### Harvard Medical School morgue manager, 4 others indicted in theft, sale of human remains
+
+https://apnews.com/article/a33afcd82908dda340f4c1df18e7b43f
+
+Denise Lodge, left, covers her face with a printout of the indictment
+against her as she walks from the federal courthouse, Wednesday, June
+14, 2023, in Concord, N.H., following her arrest on charges related to
+an alleged scheme to steal\...
+
+#### Ex-Starbucks manager awarded \$25.6 million in suit over firing after 2018 arrests of 2 Black men
+
+https://apnews.com/article/bfa9cd9a897dff402f8547f167455d10
+
+FILE - The Starbucks sign is displayed in the window of a Pittsburgh
+Starbucks, Jan. 30, 2023. On Monday, June 12, jurors in a federal court
+in New Jersey awarded \$25.6 million to a former regional Starbucks
+manager who alleged that she\...
+
+#### Theranos founder objects to \$250 monthly restitution sought by US due to limited financial resources
+
+https://apnews.com/article/2a6250c69abe925a3c5a60dfa141f650
+
+FILE - Disgraced Theranos CEO Elizabeth Holmes, center, is escorted by
+prison officials into a federal womens prison camp on May 30, 2023, in
+Bryan, Texas. Federal prosecutors are seeking for Holmes to pay a
+monthly\...
+
+#### Driver whose car vaulted over tow truck says: 'I thought I was going to die'
+
+https://apnews.com/article/a1d28243ea4b05fdc908d406fca36202
+
+In this image taken from police body camera video provided by the
+Lowndes County, Ga., Sheriffs Office, a vehicle goes airborne after
+driving up the ramp of a flatbed tow truck on a Georgia highway,
+Wednesday, May 24\...
+
+#### Fox News says it 'addressed' onscreen message that called Biden a 'wannabe dictator'
+
+https://apnews.com/article/1a9750c5dfcfb0a6482f3c51674ae08f
+
+FILE - Former President Donald Trump gestures after speaking at Trump
+National Golf Club in Bedminster, N.J., June 13, 2023, after pleading
+not guilty in a Miami courtroom earlier in the day to dozens of felony
+counts that he hoarded\...
+
+#### New airline planes will be required to have secondary barriers to the cockpit to protect pilots
+
+https://apnews.com/article/860b90b8f9ed16f79a6fb0cc03180061
+
+FILE - American Airlines pilot captain Pete Gamble, left, and first
+officer John Konstanzer conduct a pre-flight check in the cockpit of a
+Boeing 737 Max jet before taking off from Dallas Fort Worth airport on
+Dec. 2, 2020, in Grapevine\...
+
+#### MGM says it did nothing wrong as 'fraudster' gambled online
+
+https://apnews.com/article/6d5bfae16ab3056b77531d99e2bd2916
+
+FILE - The exterior of the Borgata casino is seen Oct. 1, 2020. On Sept.
+28, 2022 in Atlantic City, N.J. The casinos parent company is defending
+itself against a lawsuit brought by a self-described compulsive gambler
+who\...
+
+#### Roger Payne, who found out that whales could sing, dies at 88
+
+https://apnews.com/article/8f5e73d223619e10e564138ff0eeb09e
+
+This photo provided by Ocean Alliance shows Roger Payne on board Ocean
+Alliance's research vessel RV Odyssey during the Voyage of the Odyssey,
+a groundbreaking toxicology study circumnavigating the globe, in 2002
+off of Western Australia\...
+
+#### Wolves that nearly died out from inbreeding recovered, now helping a remote island's ecosystem
+
+https://apnews.com/article/c81f056c9300cc3e7abb13d29b5362d7
+
+This photo taken Jan. 24, 2023, shows a pack of wolves after they killed
+a moose at Michigan's Isle Royale National Park. Gray wolves are
+thriving at Isle Royale National Park five years after authorities began
+a last-ditch attempt to\...
+
+### Reuters
+
+#### 'Stop killing us': Polish women protest against strict anti-abortion law
+
+https://www.reuters.com/world/europe/stop-killing-us-polish-women-protest-against-strict-anti-abortion-law-2023-06-14/
+
+People take part in a protest, after a pregnant woman died in hospital
+in an incident campaigners say is the fault of Polands laws on abortion,
+which are some of the most restrictive in Europe, in Warsaw, Poland June
+14\...
+
+#### Canada freezes deportation of Indian students who used fraudulent university letters
+
+https://www.reuters.com/world/canada-freezes-deportation-indian-students-who-used-fraudulent-university-2023-06-14/
+
+Canada's Minister of Immigration, Refugees and Citizenship Sean Fraser
+attends a press conference with United Nations High Commissioner for
+Refugees Filippo Grandi in Ottawa, Ontario, Canada April 6, 2022.
+REUTERS/Blair Gable Canada will\...
+
+#### U.S. House votes down Republican motion to censure Democrat Adam Schiff
+
+https://www.reuters.com/world/us/us-house-votes-down-republican-motion-censure-democrat-adam-schiff-2023-06-14/
+
+U.S. Rep. Adam Schiff (D-CA) departs a House Democratic Caucus meeting
+ahead of an expected vote in the U.S. House of Representatives on a bill
+raising the federal governments \$31.4 trillion debt ceiling on Capitol
+Hill\...
+
+#### At least 79 drown, hundreds missing in migrant shipwreck off Greece
+
+https://www.reuters.com/world/europe/seventeen-drown-100-rescued-after-migrant-shipwreck-off-greece-2023-06-14/
+
+Summary: Boat believed to have left from Libya Captain reported to flee
+ship in small boat There were too many on the outer deck -coast guard
+Estimates of number aboard range from 400 to 750 Rescuers\...
+
+#### Serbian security forces detain three Kosovo police officers, Kosovo official says
+
+https://www.reuters.com/world/europe/serbias-security-forces-detain-three-kosovo-police-officers-kosovo-official-says-2023-06-14/
+
+Kosovo police officers guard near the village of Bare, Kosovo, June 14,
+2023. Three Kosovo police officers were detained by Serbian forces on
+Wednesday but officials from Kosovo and Serbia gave different locations
+for the arrest, accusing\...
+
+#### Analysis: Ukraine counteroffensive takes shape but main test still to come
+
+https://www.reuters.com/world/europe/ukraine-counteroffensive-takes-shape-main-test-still-come-2023-06-14/
+
+Summary: Ukrainian gains most rapid since last November Kyiv yet to
+reach main Russian defences Bulk of Ukrainian forces still waiting in
+wings A Ukrainian self-propelled howitzer Caesar is seen near the front
+line in the newly liberated\...
+
+#### Turkey won't back Swedish NATO bid unless it stops anti-Turkish protests, Erdogan says
+
+https://www.reuters.com/world/turkey-wont-back-swedish-nato-bid-unless-it-stops-anti-turkish-protests-erdogan-2023-06-14/
+
+Turkish President Tayyip Erdogan greets members of the parliament and
+guests as he arrives to take his oath after his election win in Ankara,
+Turkey, June 3, 2023. REUTERS/Umit Bektas/File Photo Turkish President
+Tayyip Erdogan announces\...
+
+#### U.S. House panel votes to raise commercial pilot retirement age to 67
+
+https://www.reuters.com/world/us/us-house-panel-votes-raise-commercial-pilot-retirement-age-67-2023-06-14/
+
+Pilots from United Airlines take part in an informational picket at
+Newark Liberty International Airport in Newark, New Jersey, U.S., May
+12, 2023. REUTERS/Eduardo Munoz/File Photo A U.S. House of
+Representatives committee on Wednesday\...
+
+#### U.S. senator blocks arms sales to Hungary over blocking Sweden's NATO bid
+
+https://www.reuters.com/world/us/us-senator-blocks-arms-sales-hungary-over-blocking-swedens-nato-bid-2023-06-14/
+
+Senator Jim Risch, a Republican from Idaho and ranking member of the
+Senate Foreign Relations Committee, speaks during a hearing in
+Washington, U.S., April 26, 2022. Al Drago/Pool via REUTERS/File Photo
+The top Republican on the U.S\...
+
+#### US requires new passenger planes have secondary flight deck barrier
+
+https://www.reuters.com/business/aerospace-defense/us-requires-new-passenger-planes-have-secondary-flight-deck-barrier-2023-06-14/
+
+An aircraft approaches to land at Miami International Airport in Miami,
+Florida, U.S. January 2, 2023. REUTERS/Marco Bello/File Photo The
+Federal Aviation Administration (FAA) said on Wednesday it is requiring
+that new passenger airplanes\...
+
+#### Clooney Foundation sues Venezuela over alleged human rights abuses
+
+https://www.reuters.com/world/americas/clooney-foundation-sues-venezuela-over-alleged-human-rights-abuses-2023-06-14/
+
+Kennedy Center honoree actor and filmmaker George Clooney and wife Amal
+Clooney speak to reporters on the red carpet at the Kennedy Center
+honorees gala in Washington, D.C., U.S., December 4, 2022. REUTERS/Sarah
+Silbiger/File Photo The\...
+
+#### Weather office warns of floods as India, Pakistan brace for cyclone
+
+https://www.reuters.com/world/asia-pacific/weather-office-warns-severe-damage-india-pakistan-brace-cyclone-2023-06-14/
+
+A man with a mobile phone takes a picture of rising waves before the
+arrival of the cyclonic storm Biparjoy over the Arabian Sea, in Karachi,
+Pakistan, June 14, 2023. REUTERS/Akhtar Soomro A view of rain clouds
+before the arrival of\...
+
+#### Russian soldiers' corpses line road into liberated Ukrainian village
+
+https://www.reuters.com/world/europe/russian-soldiers-corpses-line-road-into-liberated-ukrainian-village-2023-06-14/
+
+A view shows the newly liberated village Storozheve near the front line
+in Donetsk region, Ukraine, June 14, 2023. REUTERS/Oleksandr Ratushniak
+A Ukrainian self-propelled howitzer Caesar is seen near the front line
+in the newly liberated\...
+
+### 联合早报
+
+#### 布林肯确定星期日访华 各方不期待重大突破
+
+https://www.zaobao.com/news/china/story20230615-1404437
+
+美国国务卿布林肯将于6月18日至19日访问中国，寻求负责任地管理中美的紧张关系。（法新社）
+美国国务卿布林肯确定将于6月18日至19日访问中国，寻求"负责任地管理"中美的紧张关系。布林肯将是2018年以来，访华的最高级别美国外交官......
+
+#### 夏立言将出席海峡论坛 朱立伦吁民进党别制造两岸交流障碍
+
+https://www.zaobao.com/news/china/story20230614-1404430
+
+台湾在野国民党星期三（6月14日）宣布，该党副主席夏立言将率团出席星期六（6月17日）于中国大陆福建省厦门举行的第15届海峡论坛。这是冠病疫情后两岸首次大规模的交流活动，国民党主席朱立伦呼吁台湾执政的民进党政府放下意识型态，不要制造障碍......
+
+#### 广州地铁偷拍事件继续发酵 网民不满官媒仅定性为"乌龙"
+
+https://www.zaobao.com/news/china/story20230614-1404420
+
+中国官媒发表评论文章，形容广州"地铁偷拍"事件为"一场乌龙"，并针对有网民曝光涉事女子个人信息和网暴的行为作出批判，称不能"以曝制曝"和"以暴制暴"。不少网民不接受这个说法，认为文章的论调似乎是在认同她的行为。
+受访学者和律师认为，女子的行为构成诽谤，网民可对她论断是非，但过度批评会成为人身攻击，使女子反过来成为网暴对象......
+
+#### 美国改口称仍未决定邀请李家超出席APEC会议
+
+https://www.zaobao.com/news/china/story20230614-1404354
+
+美国国务院早前称有意邀请香港特首李家超出席在旧金山举行的亚太经济合作组织峰会（APEC），但最近更改说法，称还没有就邀请名单做出决定。
+综合路透社与《信报》报道，美国副国务卿谢尔曼今年2月在回复国会的信件中称，计划邀请李家超出席APEC峰会，这引发了多名美国国会议员反弹。四名议员上星期联名致信美国国务院，敦促其禁止李家超入境美国，理由是李家超在2020年被美国列入了制裁名单......
+
+#### 天津两处民宅爆炸造成三人死亡
+
+https://www.zaobao.com/news/china/story20230614-1404352
+
+天津河东区两处民宅星期二（6月13日）晚发生爆炸，图为其中一处爆炸现场一片狼藉。（法新社）
+中国天津河东区两处民宅星期二（6月13日）晚发生爆炸，造成三人死亡，多人受伤。一名46岁男子涉嫌利用烟花爆竹作案，已被拘捕，正接受警方调查。
+目前尚不清楚嫌犯作案目的，是否团伙作案，以及如何导致两处居室爆炸等......
+
+#### 韩总统室：中日韩峰会能否举行取决于中方态度
+
+https://www.zaobao.com/news/china/story20230614-1404347
+
+韩国总统办公室说，中国驻韩大使邢海明批评韩国的言论"不是一般的过分"，中日韩峰会能否举行，取决于中方是否配合。
+韩联社星期三（6月14日）报道，韩国总统办公室一名高官当天受访时表示，若中国和日本积极响应，中日韩峰会有望促成，但因近期有关中国驻韩大使发言的争议，中方若不配合，会议恐难举行。
+中日韩领导人峰会定于年内举行，韩国是轮值主席国......
+
+#### 谷歌、OpenAI与微软限制香港用户 访问旗下人工智能聊天机器人
+
+https://www.zaobao.com/news/china/story20230613-1404068
+
+据《华尔街日报》报道，美国科技巨头正一点一点地将香港用户拒之门外。
+谷歌、OpenAI及微软最近几个月限制香港用户对其人工智能聊天机器人的访问。其中OpenAI更将中国大陆和香港，与朝鲜、叙利亚和伊朗并列为限制用户访问的国家和地区。
+虽然这些公司都没有说明理由，但观察人士说，如果聊天机器人提供的内容违反中国已实施近三年的国家安全法，会让这些公司面临风险......
+
+#### 美国列43家实体入管制清单 指助中国培训军事人员 新加坡一公司也上榜
+
+https://www.zaobao.com/news/china/story20230613-1404060
+
+Camelot Trust一名职员说，International Aerospace Asia
+一直委托其公司做注册等业务，公司大概五六年前是在安祥路14号。
+International Aerospace Asia刚被美国列入出口管制清单......
+
+#### 香港中低层公务员加薪幅度为4.65%
+
+https://www.zaobao.com/news/china/story20230613-1404059
+
+香港公务员事务局公布，行政长官李家超与行政会议决定，中低层公务员的加薪幅度为4.65%，首长级及高层公务员则为2.87%，生效日期追溯至今年4月1日......
+
+#### 香港重启私人参建津贴性住房计划
+
+https://www.zaobao.com/news/china/story20230613-1404046
+
+港府将在2024年前分配三块地皮，供私人开发商建造津贴性住房，以增加这类住房在市场上的供应。
+香港房屋局局长何永贤星期二（6月13日）下午公布了私人兴建资助出售房屋先导计划"乐建居"的政策框架。
+香港早在2002年之前就有类似计划，但仅允许香港房屋局和非政府组织"香港房屋协会"建造津贴住房。香港称之为资助房屋......
+
+#### 侯友宜出席疑似喂药案专案报告 斥民进党造谣制造恐慌
+
+https://www.zaobao.com/news/china/story20230613-1404043
+
+为扭转颓势，在野国民党参选人、新北市长侯友宜星期二（6月13日）主动到新北市议会说明板桥一家幼儿园疑似喂食儿童禁药事件。他强调有一分证据说一分话，抨击执政的民进党制造谣言打击他，造成社会和家长恐慌。
+民进党新北市议员也非省油的灯，紧抓侯友宜过去发言语病，称侯友宜也曾指责幼儿园老师"居心叵测"，还废止幼儿园的设立许可，究竟是谁造成社会恐慌？侯友宜一度语塞......
+
+#### 解放军在台湾以北海域实弹演习 分析：与美日法加军演针锋相对
+
+https://www.zaobao.com/news/china/story20230613-1404039
+
+美国"尼米兹号"航母今年3月28日抵达韩国釜山的一个海军基地。（路透社）
+美国、日本、法国和加拿大四国上星期五（6月9日）开始，在台湾以东的太平洋海域展开联合军演后，中国大陆海事部门发布禁航令，通报解放军星期二（13日）在台湾以北的东海部分海域实弹演习。
+受访军事评论员认为，美国三年来首次派双航母战斗群压境并升高极限军事施压，解放军最新演习明显不甘示弱，与美日法加针锋相对......
+
+#### 李家超重申香港按APEC规则赴美参会
+
+https://www.zaobao.com/news/china/story20230613-1404030
+
+香港特首李家超重申，亚太经合组织（APEC）会议不属于任何一个国家或经济体，并强调香港作为成员之一，将按照APEC的规则和惯例出席会议。
+据香港政府官网发布的新闻公报，李家超星期二（6月13日）上午出席行政会议前受访时说，今年的APEC会议将在美国举行，会议有其规则和处事习惯，主办方有责任邀请各成员出席......
+
+#### 中国据报要求最后一名印度驻华记者离境
+
+https://www.zaobao.com/news/china/story20230613-1404024
+
+北京和新德里在常驻记者问题上针锋相对，最后一名在中国的印度记者据传已被要求离开。
+据彭博社星期二（6月13日）报道，中国当局已要求印度报业托拉斯（PCI）的记者在本月离开中国，他是最后一名在中国的印度记者。
+中国驻印记者也逼近被"清零"......
+
+#### 台新版民防应变手册 纳入解放军服饰供"敌我识别"
+
+https://www.zaobao.com/news/china/story20230613-1403996
+
+台湾国防部全动署物力动员处处长沈威志星期二（13日）在记者会上介绍最新版《全民国防应变手册》。（路透社）
+台湾国防部发布最新版《全民国防应变手册》，增加"敌我识别"章节，纳入中国大陆解放军的军服、臂章等服饰，教导民众辨别。
+俄罗斯去年2月入侵乌克兰后，台湾国防部于去年4月首次发布《全民国防手册范本》，但被舆论批评内容不符战时紧急状况需求......
+
+#### 温州一公司发红头文件禁婚外情 违者开除
+
+https://www.zaobao.com/news/china/story20230613-1403966
+
+浙江温州乐清市一公司上周发布红头文件，禁止员工婚外情和出轨，违者开除。该公司员工证实情况属实。
+据极目新闻报道，该公司6月9日印发《关于禁止婚外情和出轨通知》，称公司在职已婚员工，禁止有婚外情、出轨、包养小三等不良现象，凡被发现者均做辞退处理。
+通知还说，希望全体员工树立正确婚爱价值观，做一个无出轨、无小三、无婚外情、无离婚的"四无好员工"......
+
+#### 戴庆成：反修例运动四周年
+
+https://www.zaobao.com/news/china/story20230613-1403737
+
+周一（6月12日）是香港反修例运动四周年纪念日。香港社会经过过去几年政治生态的锐变后，今年彷彿已经遗忘了这个日子，既没有媒体发表相关报道，网络上也甚少网民讨论。反而在海外不同地方，一些港人组织在"612"当天或前夕的周末举行纪念活动。
+综合由海外港人创办的网媒报道，在最多香港人移民的英国，近日有至少12个城市举办纪念集会......
+
+#### 美前财长吁中美相互作出"战略保证" 学者：两国难以达到这种互信
+
+https://www.zaobao.com/news/china/story20230612-1403735
+
+美国前财政部长萨默斯星期一（6月12日）在新加坡举行的财新"亚洲愿景论坛"上通过视频连线方式，回应关于全球经济发展和中美关系等问题。（白艳琳摄）
+美国前财政部长萨默斯呼吁中美相互作出"战略保证"，美国得向中国保证不会在经济上压制中国，而中国则得保证其经济政策的目标是为提升人民福祉，而不是要在全球投射力量。
+不过，受访学者认为，中美欠缺互信下，"战略保证"只是一个不切实际的愿望......
+
+#### 大陆军方封控台湾南北路呈钳形攻势 学者：展现控制"一岛三峡"能力
+
+https://www.zaobao.com/news/china/story20230612-1403719
+
+台湾媒体综合分析台湾和日本防卫部门的情资后称，中国大陆解放军实兵演练时，以钳形战术封控台湾的南北空域。
+据台湾《联合报》星期一（6月12日）报道，台湾国防部本月8日侦查到37架次大陆解放军军用飞机，进入台湾的防空识别区，并编队穿出巴士海峡长航至东部海域。日本国防部统合幕僚监部则在本月7和8日，陆续公布大陆17架军机，自宫古海峡穿出抵达太平洋......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

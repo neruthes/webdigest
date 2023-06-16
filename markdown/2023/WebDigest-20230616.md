@@ -1,0 +1,993 @@
+Other formats: [PDF]() / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20230616.html)
+
+
+# Web Digest 2023-06-16
+
+
+## Developers
+
+### Hacker News
+
+#### Reddit Threatens to Remove Moderators from Subreddits Continuing Blackouts
+
+https://www.macrumors.com/2023/06/15/reddit-threatens-to-remove-subreddit-moderators/
+
+https://news.ycombinator.com/item?id=36347711
+
+#### Alphabet selling Google Domains assets to Squarespace
+
+https://www.bloomberg.com/news/articles/2023-06-15/alphabet-selling-google-domains-assets-to-squarespace
+
+https://news.ycombinator.com/item?id=36346454
+
+#### My 24 year old HP Jornada can do things an iPhone still can't do
+
+https://raymii.org/s/blog/My_24_year_old_HP_Jornada_can_do_things_your_modern_iPhone_still_cant_do.html
+
+https://news.ycombinator.com/item?id=36346254
+
+#### Tell HN: Google search sucks even more during Reddit blackout
+
+https://news.ycombinator.com/item?id=36345345
+
+https://news.ycombinator.com/item?id=36345345
+
+#### Ask HN: What are some of the best Reddit alternatives?
+
+https://news.ycombinator.com/item?id=36345288
+
+https://news.ycombinator.com/item?id=36345288
+
+#### Rock engravings made by Homo Naledi  300k years ago
+
+https://www.biorxiv.org/content/10.1101/2023.06.01.543133v1
+
+https://news.ycombinator.com/item?id=36344397
+
+#### UnsuckJS: Progressively enhance HTML with lightweight JavaScript libraries
+
+https://unsuckjs.com/
+
+https://news.ycombinator.com/item?id=36343544
+
+#### Sequence diagrams, the only good thing UML brought to software development
+
+https://www.mermaidchart.com/blog/posts/sequence-diagrams-the-good-thing-uml-brought-to-software-development
+
+https://news.ycombinator.com/item?id=36342931
+
+#### Let's Encrypt Acme API Outage
+
+https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/648b36899c7c1405303ea8c4
+
+https://news.ycombinator.com/item?id=36342808
+
+#### Reddit's blackout protest is set to continue indefinitely
+
+https://old.reddit.com/r/technology/comments/149zmar/reddits_blackout_protest_is_set_to_continue/
+
+https://news.ycombinator.com/item?id=36341941
+
+#### W3C announces new Web standard for online payments
+
+https://www.applemust.com/w3c-announces-new-web-standard-for-online-payments/
+
+https://news.ycombinator.com/item?id=36341750
+
+#### Unihiker, an \$80 single-board PC with 2.8" touchscreen, quad-core ARM Cortex-A35
+
+https://www.unihiker.com/
+
+https://news.ycombinator.com/item?id=36341287
+
+#### /r/startrek/ migrates to lemmy
+
+https://old.reddit.com/r/startrek/
+
+https://news.ycombinator.com/item?id=36341257
+
+#### Zluda: Run CUDA code on Intel GPUs, unmodified
+
+https://github.com/vosen/ZLUDA
+
+https://news.ycombinator.com/item?id=36341211
+
+#### Google warns staff about chatbots
+
+https://www.reuters.com/technology/google-one-ais-biggest-backers-warns-own-staff-about-chatbots-2023-06-15/
+
+https://news.ycombinator.com/item?id=36341188
+
+#### The Matrix Cookbook (2012) \[pdf\]
+
+[[https://www.math.uwaterloo.ca/ hwolkowi/matrixcookbook.pdf](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)]
+
+https://news.ycombinator.com/item?id=36340930
+
+#### Stack Overflow Is Down
+
+https://www.stackstatus.net/?
+
+https://news.ycombinator.com/item?id=36340755
+
+#### Archaeologists find 3000-year-old sword, exceptionally well preserved
+
+https://newsingermany.com/archaeologists-find-3000-year-old-sword/
+
+https://news.ycombinator.com/item?id=36340671
+
+#### Blocked from Amazon Alexa for a week after racism accusation by delivery driver
+
+https://www.independent.co.uk/tech/smart-home-lock-out-amazon-b2358107.html
+
+https://news.ycombinator.com/item?id=36340095
+
+#### Our Plan for Python 3.13
+
+https://github.com/faster-cpython/ideas/blob/main/3.13/README.md
+
+https://news.ycombinator.com/item?id=36339777
+
+### Phoronix
+
+#### System76's COSMIC Desktop Enhancing Its Auto-Tiling
+
+https://www.phoronix.com/news/System76-COSMIC-Better-Tiling
+
+#### Running Linux On The ASUS ROG Ally Gaming Handheld
+
+https://www.phoronix.com/review/asus-rog-ally-linux
+
+#### Intel Announces \"Biggest Brand Update\" For Core CPUs
+
+https://www.phoronix.com/news/Intel-Core-Ultra-Brand
+
+#### Qt 6.6 Beta Released With New Qt Graphs Module, Text To Speech Improvements
+
+https://www.phoronix.com/news/Qt-6.6-Beta
+
+#### LLVM 17 Lands Arm Neoverse-V2 Scheduling Model
+
+https://www.phoronix.com/news/LLVM-17-Neoverse-V2-Sched-Model
+
+#### Loongson's 3A6000 Brings Simultaneous Multi-Threading To LoongArch
+
+https://www.phoronix.com/news/Loongson-3A6000-SMT
+
+#### Eclipse OpenJ9 v0.39 Released With OpenJDK 20 Support
+
+https://www.phoronix.com/news/Eclipse-OpenJ9-v0.39
+
+#### Microsoft's Linux Distro Now Ships With NVMe Multi-Path Support, Upgrades More Tools
+
+https://www.phoronix.com/news/CBL-Mariner-2.0.20230609
+
+#### Valves Roll Out Big Steam Update With UI Refresh, Redesigned In-Game Overlay & Notes
+
+https://www.phoronix.com/news/Steam-Client-Major-Update
+
+### GitHub
+
+#### openai/openai-cookbook
+
+https://github.com/openai/openai-cookbook
+
+Examples and guides for using the OpenAI API\
+Language: Jupyter Notebook\
+Stars: 39663\
+Forks: 6019
+
+#### ordinals/ord
+
+https://github.com/ordinals/ord
+
+👁‍🗨 Rare and exotic sats\
+Language: Rust\
+Stars: 2021\
+Forks: 629
+
+#### DarkFlippers/unleashed-firmware
+
+https://github.com/DarkFlippers/unleashed-firmware
+
+Flipper Zero Unleashed Firmware\
+Language: C\
+Stars: 9140\
+Forks: 842
+
+#### immersive-translate/immersive-translate
+
+https://github.com/immersive-translate/immersive-translate
+
+Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展\
+Language: TypeScript\
+Stars: 8951\
+Forks: 484
+
+#### nextcloud/server
+
+https://github.com/nextcloud/server
+
+☁️ Nextcloud server, a safe home for all your data\
+Language: PHP\
+Stars: 22940\
+Forks: 3566
+
+#### hwchase17/langchain
+
+https://github.com/hwchase17/langchain
+
+⚡ Building applications with LLMs through composability ⚡\
+Language: Python\
+Stars: 47949\
+Forks: 5733
+
+### Dribbble
+
+#### Smart Lakes Mobile App design: iOS Android ux ui designer
+
+https://dribbble.com/shots/21592494
+
+#### Selected Logo Marks
+
+https://dribbble.com/shots/21693190
+
+#### Designership Logo Design
+
+https://dribbble.com/shots/21708884
+
+#### Clearmove Logo Design
+
+https://dribbble.com/shots/21687995
+
+#### Apple Vision Pro Spatial E-Commerce Website Design Exploration
+
+https://dribbble.com/shots/21690956
+
+#### 35
+
+https://dribbble.com/shots/21724947
+
+#### \[P\] 1 → N
+
+https://dribbble.com/shots/21707964
+
+#### Owl
+
+https://dribbble.com/shots/21691198
+
+#### Coinread Website Design: business landing web page site designer
+
+https://dribbble.com/shots/21598030
+
+#### R ✦ Sketching / Concepts
+
+https://dribbble.com/shots/21722728
+
+#### BetHype
+
+https://dribbble.com/shots/21740416
+
+#### \[P\] 1 → N
+
+https://dribbble.com/shots/21735625
+
+#### Wiseloop Logo Design - Owl, Infinity, Loop
+
+https://dribbble.com/shots/21728098
+
+#### Medizinisch - Apple Vision Pro Spatial Healthcare Dashboard UI
+
+https://dribbble.com/shots/21713868
+
+#### Infamous
+
+https://dribbble.com/shots/21717222
+
+#### Qerra - Logo Design
+
+https://dribbble.com/shots/21717102
+
+#### Futuristic Booking // Mobile App
+
+https://dribbble.com/shots/21691645
+
+#### Dragon
+
+https://dribbble.com/shots/21718982
+
+#### The Core home page interaction
+
+https://dribbble.com/shots/21712786
+
+#### Logotype Collection
+
+https://dribbble.com/shots/21713271
+
+#### Mixed Media Logos
+
+https://dribbble.com/shots/21727206
+
+#### Paytient logo design (3D version)
+
+https://dribbble.com/shots/21692250
+
+#### KingDome Logo Design (Unused for Sale)
+
+https://dribbble.com/shots/21735152
+
+#### Coding logo concept (unused)
+
+https://dribbble.com/shots/21745246
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### 俄罗斯黑客利用 U 盘在乌克兰传播恶意程序
+
+https://www.solidot.org/story?sid=75259
+
+#### 欧洲议会通过 AI Act 草案
+
+https://www.solidot.org/story?sid=75258
+
+#### 英特尔将酷睿 i3/i5/i7/i9 改名为酷睿 3/5/7/9
+
+https://www.solidot.org/story?sid=75257
+
+#### 德州禁止儿童未经父母同意使用社交网络
+
+https://www.solidot.org/story?sid=75256
+
+#### Google 将从 AOSP 项目淘汰拨号和消息应用
+
+https://www.solidot.org/story?sid=75255
+
+#### 美科学家称复现了室温超导研究
+
+https://www.solidot.org/story?sid=75254
+
+#### AMD 发布开源固件 openSIL POC
+
+https://www.solidot.org/story?sid=75253
+
+#### 天文学家在土卫二上发现磷
+
+https://www.solidot.org/story?sid=75252
+
+#### 发现 Linux 内核的随机挂起 Bug
+
+https://www.solidot.org/story?sid=75251
+
+#### AMD 公布 Instinct MI300X 加速器
+
+https://www.solidot.org/story?sid=75250
+
+#### 麦当劳发布新 GBC 游戏
+
+https://www.solidot.org/story?sid=75249
+
+#### 微软与 OpenAI 貌合神离
+
+https://www.solidot.org/story?sid=75248
+
+#### 免疫恢复力与长寿和抵抗感染相关
+
+https://www.solidot.org/story?sid=75246
+
+#### 微软向美国政府客户提供 GPT-4 模型
+
+https://www.solidot.org/story?sid=75245
+
+#### Meta 发布类人 AI 图像创造模型 I-JEPA
+
+https://www.solidot.org/story?sid=75244
+
+#### 亚马逊用生成式 AI 概述产品评论
+
+https://www.solidot.org/story?sid=75243
+
+#### 印度政府要求中国手机厂商任命印裔人士担任高管
+
+https://www.solidot.org/story?sid=75242
+
+#### 美国法官暂时阻止微软完成对动视暴雪的收购
+
+https://www.solidot.org/story?sid=75241
+
+#### Reddit CEO 告诉雇员 API 价格抗议不会影响收入
+
+https://www.solidot.org/story?sid=75240
+
+#### 研究揭示减肥反弹的大脑秘密
+
+https://www.solidot.org/story?sid=75239
+
+### V2EX
+
+#### \[数据库\] web api 访问数据库时, 参数用 guid 还是 name, 哪个更安全
+
+https://www.v2ex.com/t/949147
+
+#### \[问与答\] 有没有能刷梅林比较好的路由器推荐？
+
+https://www.v2ex.com/t/949146
+
+#### \[问与答\] 有没有静音键盘推荐，就是打字没有声音的那种
+
+https://www.v2ex.com/t/949145
+
+#### \[程序员\] 数据库索引设计时，对按位操作的字段能否起到优化作用？
+
+https://www.v2ex.com/t/949144
+
+#### \[问与答\] 如何准备面试?
+
+https://www.v2ex.com/t/949143
+
+#### \[问与答\] 寻找一款关联词图谱的技术栈
+
+https://www.v2ex.com/t/949142
+
+#### \[问与答\] 关于鼠标的选择
+
+https://www.v2ex.com/t/949141
+
+#### \[OpenAI\] 分享一个最新虚拟卡平台，可以完美支付 Chat GPT PLUS
+
+https://www.v2ex.com/t/949139
+
+#### \[酷工作\] \[上海\] \[独角兽\] 开源商业公司 Kong 在中国招聘网关软件工程师，底层性能调优和可观测性方向
+
+https://www.v2ex.com/t/949138
+
+#### \[Linux\] Linux cli 下有哪些好用的支持 socks5 代理调试 tcp/udp 的工具？
+
+https://www.v2ex.com/t/949137
+
+#### \[以太坊\] 今天发现以太坊的手续费下降了很多，发生了啥？好像没看见有升级啊？哪位大佬指点一下？谢谢
+
+https://www.v2ex.com/t/949136
+
+#### \[SSD\] 国产 2.5 SSD 有推荐的吗？想买两个放到 NAS 上
+
+https://www.v2ex.com/t/949135
+
+#### \[程序员\] 深度学习,目标检测 quick start 求助
+
+https://www.v2ex.com/t/949133
+
+#### \[宽带症候群\] 深圳换电信宽带后 vps 慢的没法看视频了，有什么解决办法吗
+
+https://www.v2ex.com/t/949132
+
+#### \[Apple\] 想从 windows 换到 mac， v 站程序员多，能说说有啥缺点吗？
+
+https://www.v2ex.com/t/949131
+
+#### \[程序员\] 用 Flutter 开发的 Windows 桌面小部件(开源)摸鱼必备
+
+https://www.v2ex.com/t/949130
+
+#### \[程序员\] 😧互联网公司里面那些人到底在忙些什么啊
+
+https://www.v2ex.com/t/949129
+
+#### \[求职\] \[Flutter 开发求职\]
+
+https://www.v2ex.com/t/949128
+
+#### \[广州\] 穗好办小程序上搞灵活就业缴费登记时，总是说存在处理失败的缴费险种数据，我都搞不懂具体是啥
+
+https://www.v2ex.com/t/949127
+
+#### \[分享发现\] 为什么我们需要一个「关于」页面？
+
+https://www.v2ex.com/t/949125
+
+#### \[分享创造\] \[分享\] 浏览器插件 - 护眼小助手
+
+https://www.v2ex.com/t/949124
+
+#### \[问与答\] 华硕 ax86u pro 只能立放不能平放吗？
+
+https://www.v2ex.com/t/949123
+
+#### \[问与答\] 想看看有多少人和我一样一直算错休假时间的
+
+https://www.v2ex.com/t/949122
+
+#### \[宽带症候群\] 华为 B610 光猫跑上海联通 EPON 能达到 900+Mbps 么？
+
+https://www.v2ex.com/t/949121
+
+#### \[宽带症候群\] 魔都电信 2.5G 光猫 有消息吗？
+
+https://www.v2ex.com/t/949120
+
+#### \[问与答\] 微信 UWP 版数据怎么导入到 Windows 标准版里？
+
+https://www.v2ex.com/t/949119
+
+#### \[Apple\] macOS 音乐.app 无故切换自动下一首歌曲
+
+https://www.v2ex.com/t/949118
+
+#### \[问与答\] 受不了 VSCode 了， Android Studio 能不能代替 VSCode 搞 Flutter 开发？
+
+https://www.v2ex.com/t/949117
+
+#### \[程序员\] m2 的 macbook air 写 rust 体验怎么样？
+
+https://www.v2ex.com/t/949116
+
+#### \[酷工作\] \[招人\] 找一年工作经验， arm 指令熟悉的来。
+
+https://www.v2ex.com/t/949115
+
+#### \[NAS\] PVE+ARPL+群晖 7.2 成功硬解
+
+https://www.v2ex.com/t/949114
+
+#### \[分享创造\] Windows 上的 IPv6
+
+https://www.v2ex.com/t/949113
+
+#### \[问与答\] 求推荐稳定好用的支持微信公众号场景渠道码的第三方平台或者源码
+
+https://www.v2ex.com/t/949112
+
+#### \[生活\] 求推荐一些夏季凉爽的男上装
+
+https://www.v2ex.com/t/949110
+
+#### \[分享发现\] 重启了一下 Chrome 差点以为开错浏览器了
+
+https://www.v2ex.com/t/949108
+
+#### \[程序员\] 机器人开发有没有推荐的可用服务？
+
+https://www.v2ex.com/t/949107
+
+#### \[NAS\] 新手入坑想自己组一台 NAS，求推荐主板
+
+https://www.v2ex.com/t/949106
+
+#### \[NAS\] OpenMediaVault(OVM)如何为存储扩容？
+
+https://www.v2ex.com/t/949105
+
+#### \[硬件\] 请问有 arm 主机推荐吗
+
+https://www.v2ex.com/t/949104
+
+#### \[iPhone\] iOS 17 显示面容 ID 已停用
+
+https://www.v2ex.com/t/949103
+
+#### \[分享发现\] Google 推出了一个监控隐私信息是否在某网泄漏的功能
+
+https://www.v2ex.com/t/949102
+
+#### \[问与答\] ddns 获取的 ip 最后几位不正确
+
+https://www.v2ex.com/t/949101
+
+#### \[问与答\] 去政府部门办事，有人遇到系统故障导致无法正常办理的问题吗？
+
+https://www.v2ex.com/t/949099
+
+#### \[分享发现\] 分享一个 利用 AI 生成可扫码图像的项目，惊为天人
+
+https://www.v2ex.com/t/949098
+
+#### \[问与答\] golang 的并发一般都用在哪些业务场景？
+
+https://www.v2ex.com/t/949096
+
+#### \[问与答\] 有知道哪里有微博会员的低价充值吗
+
+https://www.v2ex.com/t/949094
+
+#### \[问与答\] 有什么可以辅助看生肉漫画的 ai 翻译工具吗
+
+https://www.v2ex.com/t/949092
+
+#### \[程序员\] 996 没有不好,不给加班费才是原罪
+
+https://www.v2ex.com/t/949091
+
+#### \[分享发现\] ET5 Touring 价格公布，与 ET5 同价
+
+https://www.v2ex.com/t/949090
+
+#### \[问与答\] 想买这个 ChatGPT 小程序的源码，一直没找到相关信息，有知道的老哥吗
+
+https://www.v2ex.com/t/949087
+
+## Generic News
+
+### AP News
+
+#### Justice Department looking into PGA Tour deal with LIV's Saudi backers, AP source says
+
+https://apnews.com/article/95686bda6ad5e080609de16ac5b8ac6f
+
+FILE - The PGA Tour logo is shown during a press conference in Tokyo,
+Nov. 20, 2018. The most disruptive year in golf ended Tuesday, June 6,
+2023, when the PGA Tour and European tour agreed to a merger with Saudi
+Arabias\...
+
+#### Al Pacino, 83, is a father for the fourth time, welcoming son Roman with Noor Alfallah
+
+https://apnews.com/article/366d24e6d6ff18b53425ef1a05f2bacb
+
+FILE - Al Pacino, winner of the Hollywood supporting actor award for
+\"The Irishman,\" poses backstage at the 23rd annual Hollywood Film
+Awards in Beverly Hills, Calif., on Nov. 3, 2019. (Photo by Richard
+Shotwell/Invision/AP, File) Al\...
+
+#### Pool deck at collapsed Florida condo building failed to comply with codes, standards, officials say
+
+https://apnews.com/article/b976aacfb1bb90b8bb41a229f4380b76
+
+FILE - Rescue personnel work at the remains of the Champlain Towers
+South condo building, June 25, 2021, in Surfside, Fla. The swimming pool
+deck of the beachfront South Florida condominium where 98 people died
+when the building collapsed\...
+
+#### Republicans in Oregon Senate end six-week walkout that blocked bills on abortion, trans health care
+
+https://apnews.com/article/e4cf9a17ce536232d158dfe4cc4fc96c
+
+The Oregon Senate is seen during a vote at the state capitol in Salem,
+Ore., Thursday, June 15, 2023. Enough Republican members showed up in
+the Oregon Senate on Thursday to end a six-week walkout that halted the
+work of the Legislature\...
+
+#### MLB to start months-long approval process for Oakland Athletics' move to Las Vegas
+
+https://apnews.com/article/1e413d70856914f1e16550f95969aa22
+
+FILE - This rendering provided by the Oakland Athletics on May 26, 2023,
+shows a view of their proposed new ballpark at the Tropicana site in Las
+Vegas. Major League Baseball laid out a detailed process to approve the
+Oakland Athletics\...
+
+#### Florida deputy didn't follow extensive training during Parkland school massacre, supervisor says
+
+https://apnews.com/article/56ed8f6cabcadc7df36824e11a0cbaae
+
+Broward Sheriffs Office Lt. Col. Samuel Samaroo (cq) stands and
+identifies the various tools on his gun belt while testifying during the
+trial of former Marjory Stoneman Douglas High School School Resource
+Officer Scot\...
+
+#### Man indicted in chokehold death of New York subway rider Jordan Neely, prosecutor confirms
+
+https://apnews.com/article/de5275030850de9ea7b5a2b710604603
+
+FILE - Daniel Penny, center, is walked by New York Police Department
+detectives out of the 5th Precinct, May 12, 2023, in New York. Penny,
+the man charged with manslaughter for putting an agitated New York City
+subway rider in a fatal\...
+
+#### Robert Caro's last book on LBJ likely won't be delayed by editor Robert Gottlieb's death
+
+https://apnews.com/article/a8c4d210dd1582494a4146505df2d298
+
+This image released by Sony Pictures Classics shows Robert Caro, left,
+and Robert Gottlieb in a scene from the documentary \"Turn Every Page -
+The Adventures of Robert Caro and Robert Gottlieb.\" Gottlieb, the
+celebrated editor of Caro\...
+
+#### Theme parks bounced back in 2022 from pandemic lows with revenue, if not attendance
+
+https://apnews.com/article/0ddc9a18397c01026551769db62913e2
+
+FILE - In this Jan. 22, 2015 file photo, visitors walk toward the
+Sleeping Beautys Castle in the background at Disneyland Resprt in
+Anaheim, Calif. Last year, 2022, marked a return to normal for the theme
+park industry\...
+
+#### Gloria Estefan, Jeff Lynne, Teddy Riley, Glen Ballard, Liz Rose heading to Songwriters Hall of Fame
+
+https://apnews.com/article/e778fee15ef6fb196a018a092ebe33d5
+
+This combination of photos shows, from left. Glen Ballard, Gloria
+Estefan, Jeff Lynne, Teddy Riley and Liz Rose, who will be inducted into
+the Songwriters Hall of Fame on Thursday. (AP Photo) NEW YORK (AP) ---
+Gloria Estefan, Jeff Lynne\...
+
+#### Noah Kahan writes songs about New England. His vulnerability has far wider appeal
+
+https://apnews.com/article/0b3ac39ba80971599706a8e0d16f6f70
+
+Singer-songwriter Noah Kahan poses for a portrait in New York on June 7,
+2023, to promote his album \"Stick Season.\" (Photo by Christopher
+Smith/Invision/AP) NEW YORK (AP) --- Singer-songwriter Noah Kahans
+"Stick Season"\...
+
+#### A Vermont man charged with killing his mother at sea over inheritance dies awaiting trial
+
+https://apnews.com/article/f5bb21fc2815e32dbf2f32532b21e121
+
+FILE - Nathan Carman arrives in a small boat at the U.S. Coast Guard
+station, in Boston, on Sept. 27, 2016. The man charged with killing his
+mother at sea during a 2016 fishing trip off the coast of New England in
+what prosecutors say was\...
+
+#### Songwriter, music industry entrepreneur sentenced to life in prison in girlfriend's death
+
+https://apnews.com/article/5c7384c399e6f5f2f8362d68942dd21d
+
+This photo provided by Scott County (Iowa) Sheriff's Office shows Justin
+Wright. Wright, a songwriter and music industry entrepreneur from
+Atlanta, was sentenced Wednesday, June 14, 2023, to life in prison
+without parole for killing his\...
+
+### Reuters
+
+#### At least 15 die after truck hits bus carrying elderly people in Manitoba, Canada
+
+https://www.reuters.com/world/americas/least-10-dead-after-vehicle-crash-manitoba-province-cbc-news-2023-06-15/
+
+SENSITIVE MATERIAL. THIS IMAGE MAY OFFEND OR DISTURB Police secures the
+area at the crash scene near Carberry, Manitoba, Canada June 15, 2023 in
+this still image obtained from a social media video. PortageOnline/Mike
+Blume/via REUTERS\...
+
+#### US government agencies hit in global hacking spree
+
+https://www.reuters.com/world/us/us-government-agencies-hit-global-cyber-attack-cnn-2023-06-15/
+
+A man holds a laptop computer as cyber code is projected on him in this
+illustration picture taken on May 13, 2017. REUTERS/Kacper Pempel/File
+Photo Several U.S. federal government agencies have been hit in a global
+hacking campaign that\...
+
+#### Morning Bid: After the hawks, here comes the Bank of Japan dove
+
+https://www.reuters.com/markets/asia/global-markets-view-asia-graphics-pix-2023-06-15/
+
+People walk in front of the bank of Japan building in Tokyo, Japan,
+April 7, 2023. REUTERS/Androniki Christodoulou A look at the day ahead
+in Asian markets from Jamie McGeever, financial markets columnist. The
+Bank of Japan, the most\...
+
+#### Australia's visa overhaul leaves Chinese millionaires in limbo
+
+https://www.reuters.com/world/australias-visa-overhaul-leaves-chinese-millionaires-limbo-2023-06-15/
+
+Chinese and Malaysian tourists take photographs of the Sydney Opera
+House from a viewing area located on Sydney Harbour, Australia, October
+4, 2016. Picture taken October 4, 2016. REUTERS/David Gray Printed
+Chinese and Australian flags\...
+
+#### Greece scours shipwreck site; hundreds feared drowned in boat's hold
+
+https://www.reuters.com/world/europe/greece-hunts-survivors-migrant-shipwreck-least-78-dead-2023-06-15/
+
+Summary: Overloaded migrant boat sank early on Wednesday Hopes fading as
+death toll revised to 78, 104 survivors Fears that up to 750 were on
+board, many trapped in hold Boat sank in one of Mediterraneans deepest
+areas\...
+
+#### U.S. Senate confirms Nusrat Choudhury as first Muslim female federal judge
+
+https://www.reuters.com/world/us/us-senate-confirms-nusrat-choudhury-first-muslim-female-federal-judge-2023-06-15/
+
+Nusrat Choudhury, a nominee to serve as a federal judge in the Eastern
+District of New York, appears before the U.S. Senate Judiciary Committee
+in Washington, D.C. on April 27, 2022. U.S. Senate/Handout via
+REUTERS/File Photo The U.S\...
+
+#### Chechen fighters sent to Russian border with Ukraine, leader Kadyrov says
+
+https://www.reuters.com/world/europe/chechen-fighters-sent-russian-border-with-ukraine-leader-kadyrov-says-2023-06-15/
+
+Smoke rises behind tree belt area above the town of Shebekino following
+reported shelling in the course of Russia-Ukraine conflict as seen from
+Belgorod, Russia, June 7, 2023. REUTERS/Maxim Shemetov/File Photo
+Chechen fighters have been\...
+
+#### Russia tries to signal normalcy as Ukraine forces advance
+
+https://www.reuters.com/world/europe/russia-tries-signal-normalcy-ukraine-forces-advance-2023-06-15/
+
+Summary: Russia to stage elections in occupied areas Ukraine military
+says has regained 100 square km of territory African leaders to visit
+Kyiv, Moscow in mediation push U.N. atomic energy agency head visits
+Zaporizhzhia nuclear plant\...
+
+#### U.S. House Republicans target deeper spending cuts, raising shutdown threat
+
+https://www.reuters.com/world/us/us-house-republicans-target-deeper-spending-cuts-raising-shutdown-threat-2023-06-15/
+
+New U.S. Speaker of the House Kevin McCarthy (R-CA) speaks with
+reporters in Statuary Hall after being elected Speaker of the U.S. House
+of Representatives in a late night 15th round of voting in the fourth
+session of the 118th Congress\...
+
+#### Tropical Cyclone Biparjoy: Pakistan, India evacuate thousands before landfall
+
+https://www.reuters.com/world/india/fast-approaching-cylcone-forces-evacuation-75000-people-indias-west-coast-2023-06-15/
+
+Summary: Cyclone Biparjoy makes landfall in Indias Gujarat Power outage
+as strong winds, heavy rain lash coast More than 180,000 people
+evacuated in India, Pakistan No casualties reported by authorities
+Biparjoy intensity\...
+
+#### Boris Johnson deliberately misled parliament, UK report says
+
+https://www.reuters.com/world/uk/boris-johnson-wilfully-misled-parliament-says-uk-report-dubbed-rubbish-by-ex-pm-2023-06-15/
+
+Summary: \"No precedent\" for PM deliberately misleading parliament
+Committee says should not gain automatic access to parliament Johnson
+fights back over \"rubbish\" report Former British Prime Minister Boris
+Johnson walks outside his home\...
+
+#### Pope Francis orders ex-aide of Pope Benedict to leave Vatican
+
+https://www.reuters.com/world/europe/pope-francis-orders-pope-benedict-ex-aide-leave-vatican-2023-06-15/
+
+Archbishop Georg Gaenswein arrives at the Vatican, January 10, 2023.
+REUTERS/Guglielmo Mangiapane/File Photo Archbishop Georg Gaenswein
+arrives at the Vatican, January 10, 2023. REUTERS/Guglielmo Mangiapane
+Pope Francis has ordered\...
+
+#### Tourist dies after attack near Germany's Neuschwanstein Castle
+
+https://www.reuters.com/world/europe/tourist-dead-after-attack-near-germanys-neuschwanstein-castle-zdf-2023-06-15/
+
+Neuschwanstein Castle, one of the most popular destinations in Europe,
+was built by King Ludwig II of Bavaria in 1869. REUTERS/Michael Dalder
+One of two female tourists attacked by an American man near the
+world-famous Neuschwanstein\...
+
+### 联合早报
+
+#### 韩咏红：布林肯总算要访华了
+
+https://www.zaobao.com/news/china/story20230616-1404801
+
+在延后了四个月后，美国国务卿布林肯终于确定会在本星期天（6月18日）访问中国。但此一时彼一时，中美关系在四个月内已发生了一次质变，美国对中国的围堵遏制是一点都没松动，而中国对中美关系的态度已根本性改变，当前的不满甚至敌对意识，多年少见。
+在中美关系如此低迷之际，布林肯作为2018年以来访华最高级别的美国官员，此行本该意义重大......
+
+#### 性骚扰案重挫蓝绿两党 台湾民众党支持度跃居第二
+
+https://www.zaobao.com/news/china/story20230615-1404766
+
+民众党总统参选人、党主席柯文哲的民调跃居第二后，民众党在台湾的支持度也升至第二。图为柯文哲6月初访日时在日本外国记者俱乐部出席一场记者会。（法新社）
+台湾民意基金会星期四（6月15日）公布政党支持度民调显示，执政的民进党仅获24.6%民众支持，最大在野党国民党的支持度也下滑至20.4%，第二大在野党民众党则以22.2%的支持度跃居第二......
+
+#### 印度正式冻结小米48亿人民币资金 分析：与中印关系进一步恶化有关
+
+https://www.zaobao.com/news/china/story20230615-1404757
+
+中印关系近期持续紧张，印度政府据传要求数家中国手机制造商，重用印籍人士担任总裁、营运总监等公司要职，被中国舆论视为是变相收购在印中企。中国互联网巨头小米公司近期也被指违法转移资金，被印度官方正式冻结48亿元（人民币，下同，9亿新元）资金。
+受访学者分析，印度长期以来有打压外国企业的传统，但近期对中企采取的措施，明显与中印关系进一步恶化有关......
+
+#### 中国总理李强将出访德法两国
+
+https://www.zaobao.com/news/china/story20230615-1404738
+
+中国总理李强将于6月18日至23日访问德国和法国，这是他今年3月上任后首次出访。（路透社档案照）
+中国外交部星期四（6月15日）宣布，国务院总理李强将于6月18日至23日访问德国和法国。这是李强今年3月上任后首次出访......
+
+#### 北京16项辅助生殖项目纳入基本医保
+
+https://www.zaobao.com/news/china/story20230615-1404730
+
+北京市医保局发布通知，自7月1日起，16项治疗性辅助生殖技术项目，包括精子优选处理和体外受精胚胎培养，将纳入该市基本医疗保险报销范围。这是北京市为提高低迷的生育率而采取的最新措施之一。
+《北京日报》报道，这16项治疗性辅助生殖技术项目具体包括促排卵检查、精子优选处理、宫腔内人工授精术、囊胚培养、体外受精胚胎培养、胚胎移植术、卵母细胞胞浆内单精子注射、精液冷冻复苏、经阴道穿刺采卵术和冷冻胚胎复苏等......
+
+#### 中国劳资冲突据报激增至七年新高
+
+https://www.zaobao.com/news/china/story20230615-1404691
+
+设在香港的劳工权益组织称，中国各地工厂今年发生的罢工次数激增至七年新高。全球需求疲弱，迫使出口商削减员工薪资和关闭厂房，预计罢工活动将更加频密。
+路透社星期四（6月15日）报道，在经济渐入低迷促使欧美减少进口中国制造商品的背景下，中国5月出口和工厂产出大幅下滑......
+
+#### 抗争歌曲《愿荣光归香港》在iTunes下架 多平台无法播放
+
+https://www.zaobao.com/news/china/story20230615-1404677
+
+香港反修例风波期间广为传唱的歌曲《愿荣光归香港》，已在苹果旗下的音乐平台Apple
+Music和iTunes商店下架，在其他多个音乐平台也显示无法播放。
+据《星岛日报》星期四（6月15日）报道，香港律政司6月5日入禀高等法院申请禁令，禁止公众在网上或任何平台传播《愿荣光归香港》。这是香港回归后，特区政府首次要求法庭禁播一首歌曲。
+香港高等法院将在7月21日处理有关申请......
+
+#### 布林肯确定星期日访华 各方不期待重大突破
+
+https://www.zaobao.com/news/china/story20230615-1404437
+
+美国国务卿布林肯将于6月18日至19日访问中国，寻求负责任地管理中美的紧张关系。（法新社）
+美国国务卿布林肯确定将于6月18日至19日访问中国，寻求"负责任地管理"中美的紧张关系。布林肯将是2018年以来，访华的最高级别美国外交官......
+
+#### 夏立言将出席海峡论坛 朱立伦吁民进党别制造两岸交流障碍
+
+https://www.zaobao.com/news/china/story20230614-1404430
+
+台湾在野国民党星期三（6月14日）宣布，该党副主席夏立言将率团出席星期六（6月17日）于中国大陆福建省厦门举行的第15届海峡论坛。这是冠病疫情后两岸首次大规模的交流活动，国民党主席朱立伦呼吁台湾执政的民进党政府放下意识型态，不要制造障碍......
+
+#### 广州地铁偷拍事件继续发酵 网民不满官媒仅定性为"乌龙"
+
+https://www.zaobao.com/news/china/story20230614-1404420
+
+中国官媒发表评论文章，形容广州"地铁偷拍"事件为"一场乌龙"，并针对有网民曝光涉事女子个人信息和网暴的行为作出批判，称不能"以曝制曝"和"以暴制暴"。不少网民不接受这个说法，认为文章的论调似乎是在认同她的行为。
+受访学者和律师认为，女子的行为构成诽谤，网民可对她论断是非，但过度批评会成为人身攻击，使女子反过来成为网暴对象......
+
+#### 美国改口称仍未决定邀请李家超出席APEC会议
+
+https://www.zaobao.com/news/china/story20230614-1404354
+
+美国国务院早前称有意邀请香港特首李家超出席在旧金山举行的亚太经济合作组织峰会（APEC），但最近更改说法，称还没有就邀请名单做出决定。
+综合路透社与《信报》报道，美国副国务卿谢尔曼今年2月在回复国会的信件中称，计划邀请李家超出席APEC峰会，这引发了多名美国国会议员反弹。四名议员上星期联名致信美国国务院，敦促其禁止李家超入境美国，理由是李家超在2020年被美国列入了制裁名单......
+
+#### 天津两处民宅爆炸造成三人死亡
+
+https://www.zaobao.com/news/china/story20230614-1404352
+
+天津河东区两处民宅星期二（6月13日）晚发生爆炸，图为其中一处爆炸现场一片狼藉。（法新社）
+（北京综合讯）中国天津河东区两处民宅星期二（6月13日）晚发生爆炸，造成三人死亡，多人受伤。一名46岁男子涉嫌利用烟花爆竹作案，已被拘捕，正接受警方调查。
+目前尚不清楚嫌犯作案目的，是否团伙作案，以及如何导致两处居室爆炸等......
+
+#### 韩总统室：中日韩峰会能否举行取决于中方态度
+
+https://www.zaobao.com/news/china/story20230614-1404347
+
+韩国总统办公室说，中国驻韩大使邢海明批评韩国的言论"不是一般的过分"，中日韩峰会能否举行，取决于中方是否配合。
+韩联社星期三（6月14日）报道，韩国总统办公室一名高官当天受访时表示，若中国和日本积极响应，中日韩峰会有望促成，但因近期有关中国驻韩大使发言的争议，中方若不配合，会议恐难举行。
+中日韩领导人峰会定于年内举行，韩国是轮值主席国......
+
+#### 谷歌、OpenAI与微软限制香港用户 访问旗下人工智能聊天机器人
+
+https://www.zaobao.com/news/china/story20230613-1404068
+
+据《华尔街日报》报道，美国科技巨头正一点一点地将香港用户拒之门外。
+谷歌、OpenAI及微软最近几个月限制香港用户对其人工智能聊天机器人的访问。其中OpenAI更将中国大陆和香港，与朝鲜、叙利亚和伊朗并列为限制用户访问的国家和地区。
+虽然这些公司都没有说明理由，但观察人士说，如果聊天机器人提供的内容违反中国已实施近三年的国家安全法，会让这些公司面临风险......
+
+#### 美国列43家实体入管制清单 指助中国培训军事人员 新加坡一公司也上榜
+
+https://www.zaobao.com/news/china/story20230613-1404060
+
+Camelot Trust一名职员说，International Aerospace Asia
+一直委托其公司做注册等业务，公司大概五六年前是在安祥路14号。
+International Aerospace Asia刚被美国列入出口管制清单......
+
+#### 香港中低层公务员加薪幅度为4.65%
+
+https://www.zaobao.com/news/china/story20230613-1404059
+
+香港公务员事务局公布，行政长官李家超与行政会议决定，中低层公务员的加薪幅度为4.65%，首长级及高层公务员则为2.87%，生效日期追溯至今年4月1日......
+
+#### 香港重启私人参建津贴性住房计划
+
+https://www.zaobao.com/news/china/story20230613-1404046
+
+港府将在2024年前分配三块地皮，供私人开发商建造津贴性住房，以增加这类住房在市场上的供应。
+香港房屋局局长何永贤星期二（6月13日）下午公布了私人兴建资助出售房屋先导计划"乐建居"的政策框架。
+香港早在2002年之前就有类似计划，但仅允许香港房屋局和非政府组织"香港房屋协会"建造津贴住房。香港称之为资助房屋......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

@@ -1,0 +1,982 @@
+Other formats: [PDF]() / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20230622.html)
+
+
+# Web Digest 2023-06-22
+
+
+## Developers
+
+### Hacker News
+
+#### Developer tools to create spatial experiences for Apple Vision Pro
+
+https://www.apple.com/newsroom/2023/06/developer-tools-to-create-spatial-experiences-for-apple-vision-pro-now-available/
+
+https://news.ycombinator.com/item?id=36423648
+
+#### Go 1.21
+
+https://go.dev/blog/go1.21rc
+
+https://news.ycombinator.com/item?id=36423622
+
+#### Google IS selling all my personal information in Google Domains to Squarespace?
+
+https://twitter.com/GergelyOrosz/status/1671603045640151041
+
+https://news.ycombinator.com/item?id=36423465
+
+#### Scores decline again for 13-year-old students in reading and mathematics
+
+https://www.nationsreportcard.gov/highlights/ltt/2023/
+
+https://news.ycombinator.com/item?id=36421495
+
+#### Ask HN: What is the morale like inside Reddit, as an employee?
+
+https://news.ycombinator.com/item?id=36421483
+
+https://news.ycombinator.com/item?id=36421483
+
+#### Maps distort how we see the world
+
+https://unchartedterritories.tomaspueyo.com/p/maps-distort-how-we-see-the-world
+
+https://news.ycombinator.com/item?id=36421315
+
+#### Making Figma better for developers with Dev Mode
+
+https://www.figma.com/blog/introducing-dev-mode/
+
+https://news.ycombinator.com/item?id=36420712
+
+#### Show HN: I created Units Converter that contains 5000 units across 78 categories
+
+https://www.kodytools.com/units
+
+https://news.ycombinator.com/item?id=36420295
+
+#### Red Hat cutting back RHEL source availability
+
+https://lwn.net/Articles/935592/
+
+https://news.ycombinator.com/item?id=36420259
+
+#### Africa's Richest City Is Crumbling Under Chaos and Corruption
+
+https://www.bloomberg.com/news/features/2023-06-16/south-africa-s-crime-chaos-and-corruption-make-it-look-like-a-failed-state
+
+https://news.ycombinator.com/item?id=36419571
+
+#### Email proves Microsoft's Activision bid is designed to eliminate Playstation
+
+https://www.axios.com/2023/06/20/exhibit-k-microsoft-activision
+
+https://news.ycombinator.com/item?id=36419461
+
+#### How my children (n=2) acquired absolute pitch
+
+https://furiouslyrotatingshapes.substack.com/p/how-my-children-n2-acquired-absolute
+
+https://news.ycombinator.com/item?id=36419389
+
+#### FTC sues Amazon over 'deceptive' Prime sign-up and cancellation process
+
+https://www.cnbc.com/2023/06/21/ftc-sues-amazon-over-deceptive-prime-sign-up-and-cancellation-process.html
+
+https://news.ycombinator.com/item?id=36418713
+
+#### NASA secures contract with Rocky Enterprise Linux
+
+https://sam.gov/opp/2e0365ce1e3c4c179b50fb15573d68e4/view
+
+https://news.ycombinator.com/item?id=36417968
+
+#### Apple's union-busting practices violated employee rights at NYC store
+
+https://www.engadget.com/apples-union-busting-practices-violated-employee-rights-at-nyc-store-judge-rules-115036323.html
+
+https://news.ycombinator.com/item?id=36417747
+
+#### Facebook almost acquired Waze, but we ended up with Google
+
+https://post.news/@/noam/2RTRvTNNxSCQb3yNjqa0DPfr1Yk
+
+https://news.ycombinator.com/item?id=36417738
+
+#### Ask HN: Refusing all cookies, still targeted by ads. How?
+
+https://news.ycombinator.com/item?id=36417699
+
+https://news.ycombinator.com/item?id=36417699
+
+#### Humans aren't mentally ready for an AI-saturated 'post-truth world'
+
+https://www.wired.com/story/generative-ai-deepfakes-disinformation-psychology/
+
+https://news.ycombinator.com/item?id=36417252
+
+#### A case for toe socks
+
+https://herman.bearblog.dev/a-case-for-toe-socks/
+
+https://news.ycombinator.com/item?id=36416938
+
+#### Apple could force a 111-year-old fruit company to change its Apple logo
+
+https://www.androidauthority.com/apple-swiss-fruit-company-change-logo-3336622/
+
+https://news.ycombinator.com/item?id=36416131
+
+### Phoronix
+
+#### Go 1.21 Enabling PGO For Faster Performance, Tuned Garbage Collector
+
+https://www.phoronix.com/news/Go-1.21-RC
+
+#### Linux 6.3.9 Released With Fix For Nasty Nouveau Issue
+
+https://www.phoronix.com/news/Linux-6.3.9-Released
+
+#### Linux Mint 21.2 Promoted To Beta With Desktop Improvements, HEIF & AVIF Support
+
+https://www.phoronix.com/news/Linux-Mint-21.2-Beta
+
+#### Red Hat Now Limiting RHEL Sources To CentOS Stream
+
+https://www.phoronix.com/news/Red-Hat-CentOS-Stream-Sources
+
+#### Intel Continues Working On IAA Crypto Compression Driver For Linux
+
+https://www.phoronix.com/news/IAA-Crypto-Kernel-Driver-v6
+
+#### GCC Adopts A Code of Conduct
+
+https://www.phoronix.com/news/GCC-Code-of-Conduct
+
+#### Valve Still Making RADV Driver Improvements To AMD GCN 1.0 Era Hardware
+
+https://www.phoronix.com/news/AMD-GFX6-RADV-DGC
+
+#### LLVM Clang 17 Now Defaulting To OpenMP 5.1
+
+https://www.phoronix.com/news/LLVM-Clang-17-OpenMP-5.1
+
+#### SDL2 Now Transitioning To Maintenance Mode
+
+https://www.phoronix.com/news/SDL2-To-Maintenance-Mode
+
+### GitHub
+
+#### codecrafters-io/build-your-own-x
+
+https://github.com/codecrafters-io/build-your-own-x
+
+Master programming by recreating your favorite technologies from
+scratch.\
+Language: Unknown\
+Stars: 205236\
+Forks: 20004
+
+#### Deci-AI/super-gradients
+
+https://github.com/Deci-AI/super-gradients
+
+Easily train or fine-tune SOTA computer vision models with one open
+source training library. The home of Yolo-NAS.\
+Language: Python\
+Stars: 2950\
+Forks: 272
+
+#### awesome-selfhosted/awesome-selfhosted
+
+https://github.com/awesome-selfhosted/awesome-selfhosted
+
+A list of Free Software network services and web applications which can
+be hosted on your own servers\
+Language: Makefile\
+Stars: 136952\
+Forks: 7815
+
+### Dribbble
+
+#### \[P\] 1 → N
+
+https://dribbble.com/shots/21776152
+
+#### Dianero Logo Concept
+
+https://dribbble.com/shots/21771629
+
+#### Autentica - Logo Design 🎉
+
+https://dribbble.com/shots/21748390
+
+#### Matly: Education Branding
+
+https://dribbble.com/shots/21789922
+
+#### American Robin Logo
+
+https://dribbble.com/shots/21747472
+
+#### Njord
+
+https://dribbble.com/shots/21775299
+
+#### zawee
+
+https://dribbble.com/shots/21756128
+
+#### Cypress Branding, visual identity, corporate brand design
+
+https://dribbble.com/shots/21598156
+
+#### Wells Coffee
+
+https://dribbble.com/shots/21783972
+
+#### Renewable Energy Company Logo Design 4 (Unused)
+
+https://dribbble.com/shots/21787327
+
+#### Interior Magic // Website
+
+https://dribbble.com/shots/21756107
+
+#### Crypto Invest
+
+https://dribbble.com/shots/21772300
+
+#### Coding logo concept (unused)
+
+https://dribbble.com/shots/21745246
+
+#### Cherry - Logo Design
+
+https://dribbble.com/shots/21792863
+
+#### Chef Cris ✦ Logotype
+
+https://dribbble.com/shots/21742915
+
+#### zawee
+
+https://dribbble.com/shots/21790572
+
+#### DKNG Rainbow Wheels
+
+https://dribbble.com/shots/21751355
+
+#### QT
+
+https://dribbble.com/shots/21748066
+
+#### Abstract Portfolio
+
+https://dribbble.com/shots/21761807
+
+#### \[B\] 1 → N
+
+https://dribbble.com/shots/21788390
+
+#### Spacehub Logo Design - Space, Rocket, Rocketship, Stars, Hexagon
+
+https://dribbble.com/shots/21758287
+
+#### Philosopher Portraits (Engraving)
+
+https://dribbble.com/shots/21781000
+
+#### most -- website details
+
+https://dribbble.com/shots/21773103
+
+#### \[P\] 1 → N
+
+https://dribbble.com/shots/21776191
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### 新 DDoS 僵尸网络基于普联 AX21 路由器
+
+https://www.solidot.org/story?sid=75311
+
+#### 尼日利亚工科学生最受欢迎的老师是 YouTube 上的印度主播
+
+https://www.solidot.org/story?sid=75310
+
+#### 广告业眼中的 AI
+
+https://www.solidot.org/story?sid=75309
+
+#### GCC 公布行为准则草案
+
+https://www.solidot.org/story?sid=75308
+
+#### 《楚门的世界》的真正教训
+
+https://www.solidot.org/story?sid=75307
+
+#### 当 Reddit 用户涌入 Lemmy
+
+https://www.solidot.org/story?sid=75306
+
+#### 运动如何影响体内的细胞
+
+https://www.solidot.org/story?sid=75305
+
+#### DeepMind 联合创始人提出新图灵测试
+
+https://www.solidot.org/story?sid=75304
+
+#### 格莱美奖禁止完全由 AI 创作的作品
+
+https://www.solidot.org/story?sid=75303
+
+#### 泰坦尼克号观光潜艇使用了罗技手柄
+
+https://www.solidot.org/story?sid=75302
+
+#### 蔡崇信担任阿里巴巴董事会主席
+
+https://www.solidot.org/story?sid=75301
+
+#### 当可供 AI 训练的人造数据愈来愈少
+
+https://www.solidot.org/story?sid=75299
+
+#### 苹果联合创始人出售大农场它将变成自然保护区
+
+https://www.solidot.org/story?sid=75298
+
+#### Mullvad 浏览器使用的搜索引擎 Mullvad Leta
+
+https://www.solidot.org/story?sid=75297
+
+#### 本世纪末喜马拉雅冰川可能会消融八成
+
+https://www.solidot.org/story?sid=75296
+
+#### 微软证实本月初其服务遭网络攻击
+
+https://www.solidot.org/story?sid=75295
+
+#### Meta 称其新语音生成模型公开太危险
+
+https://www.solidot.org/story?sid=75294
+
+#### 一艘泰坦尼克号观光潜艇失踪
+
+https://www.solidot.org/story?sid=75293
+
+#### 一位罹患 12 种癌症的幸存者
+
+https://www.solidot.org/story?sid=75292
+
+#### 韩政府要求高考不要出太难的考题
+
+https://www.solidot.org/story?sid=75291
+
+### V2EX
+
+#### \[问与答\] 哪里有靠谱的社工库查询？
+
+https://www.v2ex.com/t/950791
+
+#### \[Apple\] Apple Watch SE 2 是不支持快充的吧？怎么我感觉充满挺快的
+
+https://www.v2ex.com/t/950790
+
+#### \[问与答\] 网站访问不了
+
+https://www.v2ex.com/t/950789
+
+#### \[问与答\] 有趣可以提高自我的事物
+
+https://www.v2ex.com/t/950788
+
+#### \[问与答\] 朋友们， IT 行业现在南方最推荐去哪个城市？（先不考虑结婚买房）
+
+https://www.v2ex.com/t/950787
+
+#### \[macOS\] macOS Sonoma Safari 卡顿问题
+
+https://www.v2ex.com/t/950786
+
+#### \[问与答\] 请问如何申请注销账号和删除个人数据？
+
+https://www.v2ex.com/t/950785
+
+#### \[MacBook Pro\] Intel MBP 何去何从
+
+https://www.v2ex.com/t/950784
+
+#### \[问与答\] ios 手机接受推送并发送邮件？？
+
+https://www.v2ex.com/t/950783
+
+#### \[问与答\] 你活着的意义是什么？（你为了什么而活着？）
+
+https://www.v2ex.com/t/950782
+
+#### \[推广\] 我在做一套 TS 全栈(Nextjs+Nestjs)开发课，同时经营一个作品服务推广/招聘求职/外包需求接单的 Discord 社区
+
+https://www.v2ex.com/t/950781
+
+#### \[VPS\] \[出\] 绿云 SG 新加坡 AMD 三年 70 刀翻倍
+
+https://www.v2ex.com/t/950780
+
+#### \[SONY\] 说是 4K，结果本身的 UI 和所有 APP 都限制在 1080P？
+
+https://www.v2ex.com/t/950779
+
+#### \[宽带症候群\] 发现今天 cf 好抖，坐标广东，运营商移动 ptn
+
+https://www.v2ex.com/t/950777
+
+#### \[Android\] 我想给旧安卓手机移植最新 Android 的 AOPS 版本
+
+https://www.v2ex.com/t/950776
+
+#### \[问与答\] 怎么有效投诉抖音？
+
+https://www.v2ex.com/t/950775
+
+#### \[创业组队\] 创业投资/私募融资领域资深律师在线答疑
+
+https://www.v2ex.com/t/950774
+
+#### \[职场话题\] 30 多岁的我失业了
+
+https://www.v2ex.com/t/950773
+
+#### \[问与答\] 有没有这样的小型远程日志系统？
+
+https://www.v2ex.com/t/950772
+
+#### \[Netflix\] Netflix 能看但是不能注册或者付款
+
+https://www.v2ex.com/t/950771
+
+#### \[分享创造\] 写了一个批量下载小米云相册 Python 脚本，这里省略一万字故事\.....
+
+https://www.v2ex.com/t/950770
+
+#### \[NAS\] 关于黑群晖改内置 SATA 为 eSATA 的问题
+
+https://www.v2ex.com/t/950769
+
+#### \[生活\] 我不想参加你 11 点 49 分邀请的午餐
+
+https://www.v2ex.com/t/950768
+
+#### \[酷工作\] \[远程/深圳\] 多个技术/非技术坑位 - 靠谱 Web3 公司 + 开源 + 软硬件钱包 + Global Pay + 工程师文化 + 不发币 + 安全
+
+https://www.v2ex.com/t/950767
+
+#### \[职场话题\] 今年春招真是出奇的安静
+
+https://www.v2ex.com/t/950766
+
+#### \[问与答\] 调查下美国信用卡需求 ChatGPT 绑卡这些
+
+https://www.v2ex.com/t/950765
+
+#### \[问与答\] 互联网的东西越来越"短命"的今天，如何保存浏览记录？
+
+https://www.v2ex.com/t/950764
+
+#### \[Mac mini\] pdd 百买的 macmini 今天到货，发现保修到期时间提前了一星期，而且 ssd smart 很多信息不是 0，是不是翻车了
+
+https://www.v2ex.com/t/950763
+
+#### \[NAS\] 群晖 DS923+4 盘 SATA SSD RAID 5 SMB 10GbE 有性能瓶颈吗？
+
+https://www.v2ex.com/t/950760
+
+#### \[宽带症候群\] 移动 IPV6 被关
+
+https://www.v2ex.com/t/950759
+
+#### \[问与答\] M1 MBA 的声音播放设备出现三个我不认识的设备
+
+https://www.v2ex.com/t/950758
+
+#### \[程序员\] 什么样的业务才算好业务？
+
+https://www.v2ex.com/t/950756
+
+#### \[MacBook\] mbp 能用第三方氮化镓充电头吗
+
+https://www.v2ex.com/t/950755
+
+#### \[问与答\] 如何在小米电视投放自己的商品价格宣传画面
+
+https://www.v2ex.com/t/950754
+
+#### \[OpenAI\] chatgpt3.5 完全不会算 24 点？
+
+https://www.v2ex.com/t/950753
+
+#### \[随想\] 碰到一个链接就新开一个 tab 的网站真的让人抓狂
+
+https://www.v2ex.com/t/950751
+
+#### \[iPad\] 铁子们，这 iPad 是不是弯了
+
+https://www.v2ex.com/t/950750
+
+#### \[美酒与美食\] 兄弟们，探索下各种好吃的泡面
+
+https://www.v2ex.com/t/950749
+
+#### \[优惠信息\] 民生京东 PLUS 联名卡，最高可得 5 年 PLUS 会员。
+
+https://www.v2ex.com/t/950746
+
+#### \[前端开发\] 在没有权限的情况下，腾讯文档中的内容可以复制出来，或者下载到本地吗？
+
+https://www.v2ex.com/t/950745
+
+#### \[Apple\] 请问能用 Mac 笔记本上的 USB C 端口给 iPad Pro 安全充电吗
+
+https://www.v2ex.com/t/950744
+
+#### \[职场话题\] 感觉这一波 AI 的热潮，很快会退却了
+
+https://www.v2ex.com/t/950741
+
+#### \[Android\] 求问 Android 端有好用的搜索 app 吗？
+
+https://www.v2ex.com/t/950739
+
+#### \[分享发现\] Sandboxie 中可以运行腾讯的四大聊天工具了
+
+https://www.v2ex.com/t/950738
+
+#### \[PHP\] 想问一个关于在 laravel 里异步执行代码的简单方法
+
+https://www.v2ex.com/t/950737
+
+#### \[推广\] 移动新丽卡 29 元 100G 流量+100 分钟通话+2 年宽带 \[限江苏\]
+
+https://www.v2ex.com/t/950736
+
+#### \[问与答\] 安卓平板上面观看阿里云盘的电影有最佳方案么？
+
+https://www.v2ex.com/t/950733
+
+#### \[问与答\] 工资发了 1400，心心念念的想买一个手机，大佬们求推荐一下呗
+
+https://www.v2ex.com/t/950732
+
+#### \[问与答\] \[求教\] 改造 Windows 为媒体播放器的思路
+
+https://www.v2ex.com/t/950731
+
+#### \[酷工作\] Base 广州 \| 联想 电讯盈科企业解决方案 招聘后端 Java 和前端啦 
+
+https://www.v2ex.com/t/950730
+
+## Generic News
+
+### AP News
+
+#### 'Tiger King' star 'Doc' Antle convicted of wildlife trafficking in Virginia
+
+https://apnews.com/article/689456335b6be5cc51f87f48f7463539
+
+FILE - This image provided by the Horry County Sheriffs Office in
+Conway, S.C., shows Bhagavan \"Doc\" Antle, wild animal trainer featured
+in the popular Netflix series "Tiger King", who has been convicted of
+wildlife\...
+
+#### Colombian military searches for heroic dog who helped find children in the Amazon jungle
+
+https://apnews.com/article/0c33da91820ad221d4dafd6b86c64844
+
+A dog walks through an opening at a Colombian Army training facility for
+military working dogs to serve alongside troops in various capacities,
+in Bogota, Colombia, Wednesday, June 21, 2023. (AP Photo/Ivan Valencia)
+BOGOTA, Colombia\...
+
+#### Drugmaker lobbying group sues over plan to negotiate Medicare drug prices
+
+https://apnews.com/article/712b8c06c3ca24313263ba3213b1f997
+
+FILE - Pharmaceuticals are seen in North Andover, Mass., on June 15,
+2018. The Pharmaceutical Research and Manufacturers of America, or
+PhRMA, is suing over plans laid out in the Inflation Reduction Act to
+give the federal coverage\...
+
+#### IOC warns Afghanistan about Paris Olympics status over denying sports to women and girls
+
+https://apnews.com/article/5be25373ad420151da6258cfb19cf35a
+
+FILE - An Afghan womens soccer team poses for a photo in Kabul,
+Afghanistan, Thursday, Sept. 22, 2022. Afghanistans status for the 2024
+Paris Olympics was put in question Wednesday, June 21, 2023, by the\...
+
+#### Who will have the 2023 song of the summer? We offer some predictions
+
+https://apnews.com/article/411d7738986212bb7ffb06e8f3893408
+
+FILE - People cool off on Puerto de Sagunto beach in Spain, Tuesday,
+Aug. 16, 2022. (AP Photo/Alberto Saiz, File) LOS ANGELES (AP) --- The
+sun is shining, the beach is calling, and school is out: It's time to
+prepare the song of the\...
+
+#### Paris police look at gas leak as possible cause of explosion and fire that injured 24
+
+https://apnews.com/article/e46a56221f571532564ba80d3aec3c3f
+
+Firemen use a water canon as they fight a blaze Wednesday, June 21, 2023
+in Paris. Firefighters fought a blaze on Paris Left Bank that is sent
+smoke soaring over the domed Pantheon monument and prompted evacuation
+of\...
+
+#### Morgan and Rapinoe selected for the US Women's World Cup roster
+
+https://apnews.com/article/fca671883fae17401f20ce81a4ed2a12
+
+FILE - In this July 7, 2019 file photo, United States Megan Rapinoe
+celebrates after scoring the opening goal from the penalty spot during
+the Womens World Cup final soccer match against The Netherlands\...
+
+#### Pharrell fuses entertainment and fashion for confident Louis Vuitton menswear debut
+
+https://apnews.com/article/9adfe293e9c841a3d7448a7fb3962c94
+
+Designer Pharrell Williams accepts applause at the conclusion of the
+Louis Vuitton Menswear Spring/Summer 2024 fashion collection presented
+in Paris, Tuesday, June 20, 2023. (AP Photo/Christophe Ena) PARIS (AP)
+--- Unveiling a new chapter\...
+
+#### Andrew Tate appears in Romanian court to face rape and human trafficking charges
+
+https://apnews.com/article/bf98ebb2a03e158843622e8a753c588a
+
+Andrew Tate walks between bodyguards as he arrives at the Bucharest
+Tribunal, in Bucharest, Romania, Wednesday, June 21, 2023. Romanian
+prosecutors charged on Tuesday, June 20, 2023, the Tate brothers and two
+other suspects with human\...
+
+#### Aaron Rodgers is set to speak at a psychedelics conference
+
+https://apnews.com/article/bae8c5ae3f221770fb84b123a92cf2d2
+
+FILE - New York Jets quarterback Aaron Rodgers smiles during an NFL
+football news conference at the Jets training facility in Florham Park,
+N.J., Wednesday, April 26, 2023. Months after Colorado's\...
+
+#### Trump-Russia special counsel Durham at center of political clash as he appears before Congress
+
+https://apnews.com/article/b24ef8c4b781083227009d09d55bc5e7
+
+Special Counsel John Durham testifies before the House Judiciary
+Committee, Wednesday, June 21, 2023, on Capitol Hill in Washington.
+Durham recently completed his report on the FBI's investigation of
+Trump's 2016 campaign. (AP Photo/Jose\...
+
+#### Modi flexes India's cultural reach on Yoga Day with backbends and corpse poses on the UN lawn
+
+https://apnews.com/article/cbf22dc2e75e71b575a25f7806faa496
+
+India Prime Minister Narendra Modi, center, practices yoga during the
+International Yoga day event at United Nations headquarters in New York
+on Wednesday, June 21, 2023. Modi has joined diplomats and dignitaries
+at the United Nations for\...
+
+#### Once starved by war, millions of Ethiopians go hungry again as US, UN pause aid after massive theft
+
+https://apnews.com/article/c129b6942663cbfc44c6605fed97928b
+
+FILE - An Ethiopian woman argues with others over the allocation of
+yellow split peas after it was distributed by the Relief Society of
+Tigray in the town of Agula, in the Tigray region of northern Ethiopia,
+on May 8, 2021. In 2023\...
+
+### Reuters
+
+#### Titanic sub: Rescuers race against time after hearing undersea sounds
+
+https://www.reuters.com/world/searchers-detect-undersea-sounds-hunt-missing-titanic-sub-2023-06-21/
+
+Summary: Clock ticks down on submersibles presumed air supply Titanic
+wreck lies in icy depths on Atlantic seabed Rescue teams from U.S.,
+Canada, France join search Miracle if passengers\...
+
+#### Russia-aligned hackers pose threat to Canada energy sector - spy agency
+
+https://www.reuters.com/world/russia-aligned-hackers-pose-threat-canada-energy-sector-spy-agency-2023-06-21/
+
+A ship passes the Imperal Oil refinery, one of many facilities in
+Canadas \"Chemical Valley\", along the St. Clair River in an aerial
+photograph in Sarnia, Ontario, Canada November 3, 2021. Picture taken
+November 3, 2021\...
+
+#### U.S. Republican hardliners try to force Biden impeachment vote
+
+https://www.reuters.com/world/us/us-republican-hardliners-try-force-biden-impeachment-vote-2023-06-21/
+
+US President Joe Biden addresses the nation on averting default and the
+Bipartisan Budget Agreement, in the Oval Office of the White House in
+Washington, DC, June 2, 2023. JIM WATSON/Pool via REUTERS/ File Photo
+U.S. House Oversight and\...
+
+#### Ukraine offensive 'slower than desired', Zelenskiy says; Putin sees 'lull'
+
+https://www.reuters.com/world/europe/ukraine-offensive-slower-than-desired-zelenskiy-says-2023-06-21/
+
+Summary: Dont expect a Hollywood movie, Zelenskiy says Kyiv says troops
+consolidating earlier gains Putin says Kyiv realises it has no chance
+Ukraine\...
+
+#### Paris blast in Latin Quarter injures about 30 people, cause uncertain
+
+https://www.reuters.com/world/europe/gas-explosion-causes-fire-central-paris-local-official-2023-06-21/
+
+Summary: Blast rips through Latin Quarter, popular central area Gas
+explosion suspected but not confirmed Hundreds of firefighters bring
+blaze under control Blast shakes buildings French police secure the area
+as firefighters work after\...
+
+#### Donor bought pricey golf simulator for Ron DeSantis, raising ethics questions
+
+https://www.reuters.com/world/us/donor-bought-pricey-golf-simulator-desantis-documents-show-raising-ethics-2023-06-21/
+
+Florida Governor and Republican presidential candidate Ron DeSantis
+speaks at the North Carolina Republican Party convention in Greensboro,
+North Carolina, U.S. June 9, 2023. REUTERS/Jonathan Drake/File Photo
+After Ron DeSantis, an avid\...
+
+#### Stonehenge-like 4,000-year-old sanctuary discovered in Netherlands
+
+https://www.reuters.com/lifestyle/stonehenge-like-4000-year-old-sanctuary-discovered-netherlands-2023-06-21/
+
+An illustration shows what the researchers believe is the 4,000-year-old
+Stonehenge-like sanctuary that archaeologists have discovered in Tiel, a
+town in the centre of the Netherlands, in this handout picture obtained
+on June 21, 2023\...
+
+#### EU approves 11th sanctions package against Russia over Ukraine
+
+https://www.reuters.com/world/europe/eu-approves-11th-sanctions-package-against-russia-over-ukraine-2023-06-21/
+
+European Union flags flutter outside the European Commission
+headquarters in Brussels, Belgium, June 5, 2020. REUTERS/Yves
+Herman/File Photo European Union governments agreed on Wednesday to an
+11th package of sanctions against Russia\...
+
+#### Who's on board the missing Titanic sub?
+
+https://www.reuters.com/world/whos-board-missing-titanic-sub-2023-06-20/
+
+British billionaire Hamish Harding, who is said to be among the
+passengers onboard the submarine that went missing on trip to the
+Titanic wreckage is seen in this handout picture taken in flight, July
+2019. Courtesy of Jannicke Mikkelsen/\...
+
+#### French send deep diving robot to help Titanic sub search
+
+https://www.reuters.com/world/europe/french-send-deep-diving-robot-help-titanic-sub-search-2023-06-21/
+
+A view shows the ROV (Remotely Operated underwater Vehicle) Victor 6000
+in this undated photograph released by Ifremer. Olivier Dugornay -
+Ifremer - CCBY/Handout via REUTERS A view shows the control room for the
+ROV (Remotely Operated\...
+
+#### German far-right to nominate chancellor candidate as support soars
+
+https://www.reuters.com/world/europe/german-far-right-nominate-chancellor-candidate-support-soars-2023-06-21/
+
+Summary: Far-right AfD has surged to second place in polls To name
+candidate for head of government for first time Success worries
+authorities given radical signs in AfD German parliamentary group leader
+of Alternative for Germany (AfD\...
+
+#### Putin says Russia's new Sarmat nuclear missiles soon ready for deployment
+
+https://www.reuters.com/business/aerospace-defense/putin-says-russias-new-sarmat-nuclear-missiles-soon-ready-deployment-2023-06-21/
+
+Russian President Vladimir Putin, Defence Minister Sergei Shoigu and
+Chief of the General Staff of Russian Armed Forces Valery Gerasimov
+attend an exhibition of military equipment after a meeting of the
+Defence Ministry Board in Moscow\...
+
+#### Texas grid operator again forecasts record power use amid heat wave
+
+https://www.reuters.com/world/us/texas-grid-operator-again-forecasts-record-power-use-amid-heat-wave-ercot-2023-06-21/
+
+The sun sets behind power lines above the plains north of Amarillo,
+Texas, U.S., March 14, 2017. REUTERS/Lucas Jackson The Texas power grid
+operator again projected electric use would break a record - this time
+on Wednesday - after\...
+
+### 联合早报
+
+#### 陈婧：上海的房子也愁卖
+
+https://www.zaobao.com/news/china/story20230622-1406632
+
+两年前报道上海学区房新闻时，被房产中介带着看过几套面积不足50平方米，要价却直逼700万元（人民币，131万新元）的"老破小"单位。我难以置信地问中介：这样的房子还能升值吗？
+年轻的中介小哥听到这个问题，也是一脸难以置信："就算其他地方房价跌了，上海也会涨的。"
+没想到两年过后，上海房价真的跌了；跌得最厉害的，还是过去不愁卖的二手房......
+
+#### 台湾MeToo烧至司法界 惩戒法院前院长被指涉性骚
+
+https://www.zaobao.com/news/china/story20230621-1406639
+
+台湾性骚扰案的Me
+Too烈火延烧至司法界。惩戒法院前院长李伯道涉嫌性骚扰女部属而提前退休，法界人士对司法院"私了"作法不表苟同，司法院改口并展开调查，李伯道则发声明否认控诉。
+今年70岁的李伯道原本6月28日退休，突然于5月8日被核准退职。媒体报道，惩戒法院今年3月17日到云林办活动时，李伯道于下榻饭店强行抱住落单的女部属。返回台北后，女部属两度向李伯道报告工作时又遭熊抱......
+
+#### 深圳即将出台土地新政 尝试降低企业用地成本
+
+https://www.zaobao.com/news/china/story20230621-1406621
+
+深圳即将出台土地新政，优化用地审批程序，规定企业在重点产业项目的用地可以分期缴纳地价，不计利息。受访学者认为，新政策将使到用地价格符合市场规律，有助于解决企业在深圳所面临的用地高成本问题。
+为进一步规范土地供应，深圳市规划和自然资源局自今年初启动了《深圳经济特区国有土地供应管理条例》（以下简称《条例》）的起草工作。条例草案经市司法局修改后，在6月中旬向社会各界开展第二轮公开征求意见......
+
+#### 上海星巴克等三家餐饮店被令整改过度收集个人信息行为
+
+https://www.zaobao.com/news/china/story20230621-1406597
+
+上海官方约谈了星巴克、汉堡店Shake Shack以及simply
+thai天泰餐厅相关负责人，要求其对过度收集个人信息行为进行全面整改。
+据澎湃新闻记者暗访发现，包括上述商家在内的多家餐饮门店，普遍存在频繁诱导索取用户手机号、诱导消费者提供精准位置信息、频繁弹窗诱导注册会员、诱导消费者关注公众号等问题......
+
+#### 中国原国家粮食局副局长、薄熙来原"大秘"徐鸣一审获刑15年
+
+https://www.zaobao.com/news/china/story20230621-1406583
+
+原中国国家粮食局党组成员、副局长，也曾是薄熙来"大秘"的徐鸣受贿罪成，一审被判有期徒刑15年。
+据央视新闻报道，厦门市中级人民法院星期二（6月20日）公开宣判徐鸣受贿、利用影响力受贿一案，徐鸣被判有期徒刑15年，并处罚金410万元（人民币，下同，约76万新元）。
+法院审理查明，徐鸣受贿时长延续27年之久......
+
+#### 中国与卡塔尔签署第二份27年的天然气供应协议
+
+https://www.zaobao.com/news/china/story20230621-1406547
+
+中国与卡塔尔星期二（6月20日）在多哈签署了第二份为期27年的天然气供应协议，以确保长期能源安全。
+中国石油天然气集团公司（中石油）每年将获卡塔尔能源公司供应400万吨天然气。据法新社报道，该协议和卡塔尔去年11月与中国石油化工集团（中石化）达成的协议条款相符，均为该行业历史上期限最长的协议......
+
+#### 民调：侯友宜仍垫底 惟"侯柯配"胜"赖萧配"
+
+https://www.zaobao.com/news/china/story20230621-1406545
+
+最新民调显示，国民党籍2024台湾总统参选人侯友宜继续垫底，但侯友宜如果搭配民众党籍参选人柯文哲，支持度胜过民进党籍总统参选人赖清德搭配驻美代表萧美琴。
+中广新闻报道，中广-盖洛普星期三（21日）公布最新总统大选民调，赖清德以31.89%支持度排第一，柯文哲以24.62%居第二，侯友宜排第三，支持率仅为17.93%。有近两成选民尚未决定支持谁......
+
+#### 调查：中国经济放缓是在华欧企最大挑战
+
+https://www.zaobao.com/news/china/story20230621-1406528
+
+中国欧盟商会调查显示，中国和全球经济放缓是在华欧洲企业面对的最大挑战，其次才是中美政治紧张关系和脱钩问题。
+路透社报道，根据中国欧盟商会星期三（6月21日）发布的年度调查报告，将中国视为未来投资目的地前三的欧洲企业数量，降至2010年有记录以来的最低水平。
+利率上升和通货膨胀正在压缩欧洲和美国的需求。中国企业则面对价格急剧下跌的困境，通货紧缩的风险正加剧中国经济面对的压力......
+
+#### 杨丹旭：超预期的布林肯中国行
+
+https://www.zaobao.com/news/china/story20230621-1406305
+
+美国国务卿布林肯星期一（6月19日）结束两天一夜的中国行。
+或许是因为中美关系实在太差了，观察人士此前都很不看好这趟一波三折的访问，中美双方也都让外界不要抱太大期望，但两天行程、三场会议下来，反而让人觉得布林肯的中国行低开高走，超过预期了。
+中美元首看起来也都挺满意这趟访问。在布林肯访华结束后，远在加利福尼亚的美国总统拜登给下属点赞，称赞布林肯"做得非常好"，"我们走向了正确的轨道"......
+
+#### 学者：中美关系预计短暂步入止跌企稳阶段 长期前景仍不乐观
+
+https://www.zaobao.com/news/china/story20230620-1406298
+
+美国国务卿布林肯（中）星期一（6月19日）登机离开北京，为两天访华行程画上句点。（法新社）
+美国国务卿布林肯星期一（6月19日）结束两天访华行程后，总统拜登当地时间同日在加州表示，美中关系取得进展并"走在正确的道路上"，肯定布林肯做了"一件了不起的工作"。布林肯星期二（6月20日）在美国媒体采访中则表示，今年2月的气球事件"应已了结"......
+
+#### 侯友宜谈民调敬陪末座：比赛刚开始，打死不退
+
+https://www.zaobao.com/news/china/story20230620-1406290
+
+侯友宜对自己民调频频落后说，现在比赛才刚开始，还在热身阶段，世事如棋、乾坤莫测，要到最后方知胜负。图为侯友宜5月20日在国民党总部与支持者握手致意。（路透社）
+台湾民意基金会星期二（6月20日）公布2024总统大选投票民调，执政的民进党总统参选人赖清德以36.5%居冠，在野民众党参选人柯文哲以29.1%紧追在后，最大在野党国民党参选人侯友宜再以20.4%落居第三......
+
+#### 中国下调贷款市场报价利率刺激经济
+
+https://www.zaobao.com/news/china/story20230620-1406287
+
+中国4月与5月的关键经济数据指标走弱，经济增长动能明显不足。图为上海一个人流稀少的商场。照片摄于6月14日。（彭博社）
+中国央行星期二（6月20日）如期下调贷款市场报价利率（LPR），这是中国LPR时隔10个月再调降，稳经济促增长信号明显，但五年期LPR报价下调幅度不及外界预期。分析认为，预计后期或有更多稳增长措施出台，促进中国经济重回正轨......
+
+#### 中国据报拟在古巴建立新军事训练设施
+
+https://www.zaobao.com/news/china/story20230620-1406274
+
+美国现任和前官员透露，中国和古巴正在磋商在古巴建立一个新的联合军事训练设施。
+《华尔街日报》星期二（6月20日）引述消息作出上述报道，并指中古两国此举将引起华盛顿的担忧，因为中国或将得以在距离美国佛罗里达州海岸仅100英里（约161公里）处驻军及开展其他安全和情报行动。
+美国情报报告显示，上述设施预计位于古巴北部海岸，有关讨论已进入后期阶段，但尚未得出结论......
+
+#### 特稿：中国大批房主降价脱售二手房
+
+https://www.zaobao.com/news/china/story20230620-1406270
+
+近期一线城市二手房售价下跌、房源增多。（早报图表）
+家住上海浦东的李先生今年4月刚签订一套二手房的购房协议，现在却决定毁约放弃20万元（人民币，下同，约3万7000新元）订金；因为短短两个月内，同小区的其他房源已降价至少六七十万元。
+李先生告诉《联合早报》，他属于卖旧换新的改善型买家。今年3月时脱售旧房后，为避免房价上涨，立即预订了新房。"没想到房价不仅没涨，还一直在跌......
+
+#### 李家超警告：不会容许有人在七一进行破坏活动
+
+https://www.zaobao.com/news/china/story20230620-1406263
+
+香港特首李家超6月20日出席行政会议前会见媒体时说，香港回归中国26周年纪念日当天将会推出多项活动与市民共庆回归。（中新社）
+下星期六（7月1日）是香港回归中国26周年纪念日，港府将与社会各界推出一系列庆祝活动，让市民感受节日气氛。特首李家超星期二（6月20日）警告说，不会容许有人在当天进行破坏活动，会追究相关人士法律责任......
+
+#### 港反修例歌曲《愿荣光归香港》以新专辑形式重新上架
+
+https://www.zaobao.com/news/china/story20230620-1406253
+
+香港2019年反修例歌曲《愿荣光归香港》在多个音乐平台下架不到一个星期后，以新专辑形式重新上架。
+综合《明报》《星岛日报》和网媒"香港01"报道，香港律政司6月5日入禀高等法院申请禁止传播《愿荣光归香港》，多个音乐平台随后在上星期三（14日）下架该歌曲。歌曲原创团队当时在脸书发文称，下架事件属技术问题，与串流平台无关......
+
+#### 阔别两年 中国大陆恢复输入台湾番荔枝
+
+https://www.zaobao.com/news/china/story20230620-1406200
+
+中国大陆宣布，恢复输入台湾番荔枝（台湾称释迦）。
+新华社报道，中国大陆国台办发言人朱凤莲星期二（6月20日）表示，海关总署决定自6月20日起，恢复台湾番荔枝输入，输大陆番荔枝须来自获得注册登记的包装厂和果园。
+朱凤莲说，大陆秉持"两岸一家亲"理念，愿继续为恢复台湾农渔产品输入大陆提供帮助......
+
+#### 戴庆成：香港国安法域外管辖争议
+
+https://www.zaobao.com/news/china/story20230620-1405983
+
+香港反修例运动发生至今已经四年，被拘捕的逾万名抗争人士正陆陆续续被港府起诉，有些人甚至已判了刑。若不是有头有脸的人物，传媒一般也不会大事报道。不过，一名涉嫌在社交媒体发布煽动言论的香港女生上星期被起诉并上庭的案件，却引起了港媒以至国际媒体高度关注......
+
+#### 浙江省公布首批60个共同富裕实践观察点
+
+https://www.zaobao.com/news/china/story20230619-1405981
+
+中国首个共同富裕示范区，浙江省公布首批60个共同富裕实践观察点，包括村（社区）、乡镇、街道（平台）、企业、社会组织、公共服务机构五大类。
+据《浙江日报》报道，浙江首批观察点中，村（社区）占比最大，共24个；社会组织中包括共富工坊、养老服务中心、公益基金会、演员公会等；公共服务机构中有学校、市场、图书馆、医院、慈善综合体等。
+报道称，首批观察点的主要特点是颗粒度小，能从条线上实时了解动态变化......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

@@ -1,0 +1,1039 @@
+Other formats: [PDF]() / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20230623.html)
+
+
+# Web Digest 2023-06-23
+
+
+## Developers
+
+### Hacker News
+
+#### Oceangate Statement, "We now believe that \[all crew\] have sadly been lost."
+
+https://twitter.com/GioBenitez/status/1671954007261151237
+
+https://news.ycombinator.com/item?id=36437271
+
+#### Titan Submersible Suffered Catastrophic Failure: Debris Field Confirmed as Titan
+
+https://www.independent.co.uk/news/world/americas/submarine-titantic-missing-submersible-tourists-latest-b2360568.html
+
+https://news.ycombinator.com/item?id=36437120
+
+#### Framework Laptop 16 Deep Dive -- Enclosure
+
+[[https://frame.work/ca/en/blog/framework-laptop-16-deep-dive---enclosure](https://frame.work/ca/en/blog/framework-laptop-16-deep-dive---enclosure)]
+
+https://news.ycombinator.com/item?id=36436931
+
+#### Dear Red Hat: Are you dumb?
+
+https://www.jeffgeerling.com/blog/2023/dear-red-hat-are-you-dumb
+
+https://news.ycombinator.com/item?id=36436786
+
+#### Now Reddit are coming for the individual personal subreddits
+
+https://toot.cat/@dredmorbius/110588848407336816
+
+https://news.ycombinator.com/item?id=36434885
+
+#### "WebAssembly runtimes will replace container-based runtimes by 2030"
+
+https://changelog.com/posts/webassembly-runtimes-will-replace-container-runtimes-by-2030
+
+https://news.ycombinator.com/item?id=36434852
+
+#### Intelligent people take longer to solve hard problems: study
+
+https://bigthink.com/neuropsych/intelligent-people-slower-solve-hard-problems/
+
+https://news.ycombinator.com/item?id=36434578
+
+#### Debris found came from missing Titan sub, says friend of passengers
+
+https://www.bbc.com/news/live/world-us-canada-65967464
+
+https://news.ycombinator.com/item?id=36434173
+
+#### 'Incredibly noticeable': alcohol ban cut family violence, crime in Alice Springs
+
+https://www.theguardian.com/australia-news/2023/jun/23/incredibly-noticeable-alcohol-bans-have-cut-family-violence-and-in-alice-springs-advocates-say
+
+https://news.ycombinator.com/item?id=36434011
+
+#### How VSCode made bracket pair colorization faster (2021)
+
+https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization
+
+https://news.ycombinator.com/item?id=36433262
+
+#### San Francisco fire chief fed up with robotaxis that mess with her firetrucks
+
+https://www.latimes.com/business/story/2023-06-22/san-francisco-robotaxis-interfere-with-firetrucks-los-angeles-is-next
+
+https://news.ycombinator.com/item?id=36433246
+
+#### Svelte 4
+
+https://svelte.dev/blog/svelte-4
+
+https://news.ycombinator.com/item?id=36432447
+
+#### People paid to train AI are outsourcing their work to AI
+
+https://www.technologyreview.com/2023/06/22/1075405/the-people-paid-to-train-ai-are-outsourcing-their-work-to-ai/
+
+https://news.ycombinator.com/item?id=36432279
+
+#### The hustle never ends and I'm so over it
+
+https://pratik.is/writing/essays/neverending-hustle
+
+https://news.ycombinator.com/item?id=36432225
+
+#### VisionOS developer docs and Vision Pro SDK
+
+https://developer.apple.com/documentation/visionOS
+
+https://news.ycombinator.com/item?id=36431826
+
+#### The hottest new perk in tech is freedom
+
+https://www.vox.com/technology/2023/6/20/23762655/tech-perk-remote-work-freedom-airbnb-yelp
+
+https://news.ycombinator.com/item?id=36431302
+
+#### Mistakes to avoid to build a better 1-person business
+
+https://tinyempires.substack.com/p/4-mistakes-to-avoid-to-build-a-better
+
+https://news.ycombinator.com/item?id=36431268
+
+#### Googling 'abortion clinic near me'? The top result often an anti-abortion clinic
+
+https://www.npr.org/2023/06/22/1182865322/google-abortion-clinic-search-results-anti-abortion
+
+https://news.ycombinator.com/item?id=36430767
+
+#### Is Google reCAPTCHA GDPR Compliant?
+
+https://wideangle.co/blog/is-recaptcha-illegal-under-gdpr
+
+https://news.ycombinator.com/item?id=36430280
+
+#### Apple Vision Pro -- Why It May Be Lousy for Watching Movies on a Plane
+
+https://kguttag.com/2023/06/21/apple-vision-pro-part-3-why-it-may-be-lousy-for-watching-movies-on-a-plane/
+
+https://news.ycombinator.com/item?id=36430172
+
+### Phoronix
+
+#### Fedora May Make It Easier To Switch To systemd-boot, Making A GRUB-Free System
+
+https://www.phoronix.com/news/Fedora-GRUB-Free-Proposal
+
+#### Windows 11 vs. Linux Gaming Performance On The ASUS ROG Ally
+
+https://www.phoronix.com/review/rog-ally-windows-linux
+
+#### Wasmer 4.0 WebAssembly Implementation Brings WASIX Support
+
+https://www.phoronix.com/news/Wasmer-4.0
+
+#### AlmaLinux Figuring Out Path Forward Following RHEL Source Code Policy Change
+
+https://www.phoronix.com/news/AlmaLinux-With-RHEL-Source-Path
+
+#### KDE's KWin Begins Plotting Path To Vulkan Support
+
+https://www.phoronix.com/news/KDE-KWin-Vulkan-Roadmap
+
+#### Linux 6.4 Squeezes In Crash Fix For New AMD Ryzen 7040 Series Laptops
+
+https://www.phoronix.com/news/AMD-PMF-7040-Ryzen-Laptop-Crash
+
+#### Xonotic 0.8.6 Released With Various In-Game Improvements
+
+https://www.phoronix.com/news/Xonotic-0.8.6-Released
+
+#### Sound Quirks For The ASUS ROG Ally Queued For Linux 6.5
+
+https://www.phoronix.com/news/ASUS-ROG-Ally-Linux-Sound-Fox
+
+#### AMD Hardware-Accelerated Virtualized IOMMU Patches Posted For Linux
+
+https://www.phoronix.com/news/AMD-HW-vIOMMU-Linux-Patches
+
+### GitHub
+
+#### Linen-dev/linen.dev
+
+https://github.com/Linen-dev/linen.dev
+
+Lightweight Google-searchable Slack alternative for Communities\
+Language: TypeScript\
+Stars: 2302\
+Forks: 77
+
+#### paradigmxyz/reth
+
+https://github.com/paradigmxyz/reth
+
+Modular, contributor-friendly and blazing-fast implementation of the
+Ethereum protocol, in Rust\
+Language: Rust\
+Stars: 1709\
+Forks: 286
+
+#### immich-app/immich
+
+https://github.com/immich-app/immich
+
+Self-hosted photo and video backup solution directly from your mobile
+phone.\
+Language: Dart\
+Stars: 12294\
+Forks: 457
+
+#### CodeEditApp/CodeEdit
+
+https://github.com/CodeEditApp/CodeEdit
+
+CodeEdit App for macOS -- Elevate your code editing experience. Open
+source, free forever.\
+Language: Swift\
+Stars: 18274\
+Forks: 986
+
+#### fanmingming/live
+
+https://github.com/fanmingming/live
+
+✯ 一个国内可直连的直播源分享项目 ✯ 🔕 永久免费 直连访问 完整开源
+不含广告 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕\
+Language: HTML\
+Stars: 3448\
+Forks: 586
+
+### Dribbble
+
+#### \[P\] 1 → N
+
+https://dribbble.com/shots/21776152
+
+#### Alpine Star Logo Design
+
+https://dribbble.com/shots/21810354
+
+#### Dianero Logo Concept
+
+https://dribbble.com/shots/21771629
+
+#### Matly: Education Branding
+
+https://dribbble.com/shots/21789922
+
+#### Njord
+
+https://dribbble.com/shots/21775299
+
+#### zawee
+
+https://dribbble.com/shots/21756128
+
+#### Wells Coffee
+
+https://dribbble.com/shots/21783972
+
+#### Qerra - Logo Design v4
+
+https://dribbble.com/shots/21811474
+
+#### Renewable Energy Company Logo Design 4 (Unused)
+
+https://dribbble.com/shots/21787327
+
+#### Orbit
+
+https://dribbble.com/shots/21803758
+
+#### Interior Magic // Website
+
+https://dribbble.com/shots/21756107
+
+#### Cherry - Logo Design
+
+https://dribbble.com/shots/21792863
+
+#### Crypto Invest
+
+https://dribbble.com/shots/21772300
+
+#### \[B\] 1 → N
+
+https://dribbble.com/shots/21788390
+
+#### zawee
+
+https://dribbble.com/shots/21790572
+
+#### Apple Watch App Concept 2
+
+https://dribbble.com/shots/21800896
+
+#### Abstract Portfolio
+
+https://dribbble.com/shots/21761807
+
+#### Transcend Mobile App
+
+https://dribbble.com/shots/21598503
+
+#### QT
+
+https://dribbble.com/shots/21748066
+
+#### Spacehub Logo Design - Space, Rocket, Rocketship, Stars, Hexagon
+
+https://dribbble.com/shots/21758287
+
+#### most -- website details
+
+https://dribbble.com/shots/21773103
+
+#### Philosopher Portraits (Engraving)
+
+https://dribbble.com/shots/21781000
+
+#### Proemion Branding, visual identity, corporate brand design
+
+https://dribbble.com/shots/21598703
+
+#### Wegrow logo design
+
+https://dribbble.com/shots/21788087
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### DuckDuckGo 发布 Beta 版 Windows 浏览器
+
+https://www.solidot.org/story?sid=75318
+
+#### 人类尚未在精神上做好准备迎接 AI 渗透的后真相世界
+
+https://www.solidot.org/story?sid=75317
+
+#### FAST 发现轨道周期最短的脉冲星双星
+
+https://www.solidot.org/story?sid=75316
+
+#### Google 就云计算领域的反竞争行为向 FTC 投诉微软
+
+https://www.solidot.org/story?sid=75315
+
+#### FTC 指控亚马逊诱骗用户注册 Prime 会员增加取消会员的难度
+
+https://www.solidot.org/story?sid=75314
+
+#### Red Hat 限制 RHEL 源码可得性
+
+https://www.solidot.org/story?sid=75313
+
+#### 逾 10 万 ChatGPT 账号凭证在暗网出售
+
+https://www.solidot.org/story?sid=75312
+
+#### 新 DDoS 僵尸网络基于普联 AX21 路由器
+
+https://www.solidot.org/story?sid=75311
+
+#### 尼日利亚工科学生最受欢迎的老师是 YouTube 上的印度主播
+
+https://www.solidot.org/story?sid=75310
+
+#### 广告业眼中的 AI
+
+https://www.solidot.org/story?sid=75309
+
+#### GCC 公布行为准则草案
+
+https://www.solidot.org/story?sid=75308
+
+#### 《楚门的世界》的真正教训
+
+https://www.solidot.org/story?sid=75307
+
+#### 当 Reddit 用户涌入 Lemmy
+
+https://www.solidot.org/story?sid=75306
+
+#### 运动如何影响体内的细胞
+
+https://www.solidot.org/story?sid=75305
+
+#### DeepMind 联合创始人提出新图灵测试
+
+https://www.solidot.org/story?sid=75304
+
+#### 格莱美奖禁止完全由 AI 创作的作品
+
+https://www.solidot.org/story?sid=75303
+
+#### 泰坦尼克号观光潜艇使用了罗技手柄
+
+https://www.solidot.org/story?sid=75302
+
+#### 蔡崇信担任阿里巴巴董事会主席
+
+https://www.solidot.org/story?sid=75301
+
+#### 当可供 AI 训练的人造数据愈来愈少
+
+https://www.solidot.org/story?sid=75299
+
+#### 苹果联合创始人出售大农场它将变成自然保护区
+
+https://www.solidot.org/story?sid=75298
+
+### V2EX
+
+#### \[问与答\] 被 block 的人能不能看到你发的帖子？
+
+https://www.v2ex.com/t/950970
+
+#### \[互联网\] WordPress 有没有办法和 hexo 一样，文件和配置保存在本地，
+
+https://www.v2ex.com/t/950969
+
+#### \[程序员\] 28 岁回到老家， 2 年多没上班，我自由了
+
+https://www.v2ex.com/t/950966
+
+#### \[问与答\] 星链的那个互联网有望明年在中国使用吗？
+
+https://www.v2ex.com/t/950965
+
+#### \[程序员\] 基于 zerotier 打洞成功, 但是无法访问到另外一端内网资源
+
+https://www.v2ex.com/t/950964
+
+#### \[问与答\] 怎样才能不显示 Oneplus n30 右滑出现的 google discover 页面
+
+https://www.v2ex.com/t/950963
+
+#### \[宽带症候群\] 神奇的现象，软路由单线程测速无法跑满带宽
+
+https://www.v2ex.com/t/950962
+
+#### \[问与答\] 这段时间遇到的 2 个问题！剧本杀，数据泄露相关
+
+https://www.v2ex.com/t/950961
+
+#### \[硬件\] 最近硬盘打折 想买个 12T 的移动硬盘 如果只存这个硬盘要怎么做好它会坏的准备
+
+https://www.v2ex.com/t/950960
+
+#### \[程序员\] 我把 oneapi 接入了支付
+
+https://www.v2ex.com/t/950959
+
+#### \[以太坊\] 你们运行的以太坊全节点完全同步用了多久？
+
+https://www.v2ex.com/t/950958
+
+#### \[VPS\] 埃及 VPS 或者独服有稳定可靠的吗
+
+https://www.v2ex.com/t/950957
+
+#### \[奇思妙想\] 怎么在 esxi 虚拟机的体系下玩 WS2812 型号的 LED 灯珠？
+
+https://www.v2ex.com/t/950956
+
+#### \[Apple\] 7999 元起 国人买 iPhone 14 Pro 需 9.5%年收入引热议
+
+https://www.v2ex.com/t/950955
+
+#### \[VPS\] vps 通过 curl 可以访问 chatgpt,但通过浏览器又不能访问
+
+https://www.v2ex.com/t/950954
+
+#### \[问与答\] 关于 docker 容器内服务访问外部 mysql 的疑问
+
+https://www.v2ex.com/t/950952
+
+#### \[Apple\] 漫步者 MR4 搭配 AirPort Express，我的完美听音桌搭
+
+https://www.v2ex.com/t/950951
+
+#### \[NAS\] 群晖两个网口进水坏了，有什么救援方案吗？
+
+https://www.v2ex.com/t/950950
+
+#### \[分享创造\] 开源一个 uniapp、hyperf-MineAdmin 实现的 chatgpt 应用，支持打包为小程序、H5、App！
+
+https://www.v2ex.com/t/950949
+
+#### \[C\] 分享一个小而美的 json-parser
+
+https://www.v2ex.com/t/950948
+
+#### \[问与答\] 需要一套贷款放款系统，集成微信公众号/小程序的，哪找？
+
+https://www.v2ex.com/t/950947
+
+#### \[Apple\] visonOS 学习资料大合集： Way to Explore visionOS
+
+https://www.v2ex.com/t/950946
+
+#### \[问与答\] 大家现在都在哪些社区，什么方式获取信息，能分享下吗不限主题
+
+https://www.v2ex.com/t/950945
+
+#### \[问与答\] 你们去演唱会 会觉得完了之后有点空虚吗？
+
+https://www.v2ex.com/t/950944
+
+#### \[Python\] Shenzhen -- Quality Assurance Engineer ( Python )
+
+https://www.v2ex.com/t/950943
+
+#### \[Apple\] mac pro m2 的应用商店下不到 chatgpt
+
+https://www.v2ex.com/t/950942
+
+#### \[问与答\] 如何教父母做人
+
+https://www.v2ex.com/t/950940
+
+#### \[Apple\] 怎样才能让妙控键盘上的这个 home 键按下后：编辑模式下是跳在一行的开头呢
+
+https://www.v2ex.com/t/950939
+
+#### \[macOS\] 求解 Mac 上的 Apple Music 音乐经常性卡顿
+
+https://www.v2ex.com/t/950938
+
+#### \[问与答\] 手机如何访问电脑虚拟机中的本地云?
+
+https://www.v2ex.com/t/950937
+
+#### \[问与答\] 兄弟们，能不能去海外建立一个国家？
+
+https://www.v2ex.com/t/950936
+
+#### \[程序员\] 一个 VSCode 的 Feature 请求，开发组要 20 个赞就安排，帮忙顶一下？
+
+https://www.v2ex.com/t/950935
+
+#### \[Linux\] Red Hat 限制 RHEL 源码可得性，源码仅通过 CentOS Stream 公开
+
+https://www.v2ex.com/t/950933
+
+#### \[宽带症候群\] 3322 的动态域名 Linux 下无法更新？
+
+https://www.v2ex.com/t/950932
+
+#### \[问与答\] 请问目前哪些本地 AI 模型的代码能力比较强? 8G 显存的情况下.
+
+https://www.v2ex.com/t/950930
+
+#### \[问与答\] 入学率降低后，是不是会带来兼职潮，推荐几款兼职软件？
+
+https://www.v2ex.com/t/950929
+
+#### \[宽带症候群\] 怎么使用（浪费）闲置下行带宽？
+
+https://www.v2ex.com/t/950928
+
+#### \[问与答\] Python 写力扣每日一题时遇到的困惑
+
+https://www.v2ex.com/t/950927
+
+#### \[问与答\] 银行是怎么拿到个人升学信息的呢？
+
+https://www.v2ex.com/t/950926
+
+#### \[分享发现\] 光威天策 ddr4 内存条有没坑?
+
+https://www.v2ex.com/t/950925
+
+#### \[PHP\] 2302 年了， 现在才开始学 PHP ， 是否太晚了？
+
+https://www.v2ex.com/t/950924
+
+#### \[生活\] 不管是 b 站还是油管，哪个视频是你认为看过的最好看的视频
+
+https://www.v2ex.com/t/950921
+
+#### \[问与答\] 可以登录 nf 的土区 IP 推荐
+
+https://www.v2ex.com/t/950920
+
+#### \[问与答\] 信息爆炸时代怎么提取微信聊天关键字词云？
+
+https://www.v2ex.com/t/950919
+
+#### \[程序员\] 合作开发软件的疑问，望大佬解答。
+
+https://www.v2ex.com/t/950917
+
+#### \[分享发现\] 分享目前为止对电车的调研结论，要不要买
+
+https://www.v2ex.com/t/950916
+
+#### \[问与答\] windows 系统, 内存充足, 但是 edge 浏览器标签开太多的话就会崩溃
+
+https://www.v2ex.com/t/950915
+
+#### \[分享发现\] 慕课 C/C++气象数据中心实战课程（手把手教你做工业级项目）
+
+https://www.v2ex.com/t/950914
+
+#### \[程序员\] 自适应窗口网页的的谷歌浏览器插件有哪些
+
+https://www.v2ex.com/t/950912
+
+#### \[iPhone\] 迫穷，请问有卖 iPhone14pro 官方正品手机壳的店铺推荐吗？
+
+https://www.v2ex.com/t/950911
+
+## Generic News
+
+### AP News
+
+#### 8 Mexican army soldiers arrested in 2014 disappearances of 43 students
+
+https://apnews.com/article/e9a52df3ab24719c0e9170de766fb672
+
+FILE - Relatives and classmates of the missing 43 Ayotzinapa college
+students march in Mexico City, Sept. 26, 2022, on the anniversary of
+their disappearance in Iguala, Guerrero state. Eight soldiers linked to
+the disappearance of the\...
+
+#### Families detail stress, terror and sadness after Nashville school shooting in court documents
+
+https://apnews.com/article/948f138daa6dd47759ebd6cfd83d3add
+
+FILE - A child weeps while on the bus leaving The Covenant School
+following a mass shooting at the school in Nashville, Tenn., March 27,
+2023. So far this year, the nation has witnessed the highest number on
+record of mass killings and\...
+
+#### Moms for Liberty chapter apologizes for quoting Hitler in its newsletter
+
+https://apnews.com/article/bcce698e901b9e782970030ccd710512
+
+An Indiana chapter of Moms for Liberty, a nonprofit that advocates for "
+parental rights " in education and was recently labeled as "extremist"
+by an anti-hate watchdog, is apologizing and condemning Adolf Hitler
+after using a quote\...
+
+#### Republicans vote to cut University of Wisconsin System's budget by \$32M in diversity programs spat
+
+https://apnews.com/article/c654d9cb21317c7d0a868602019c2dcf
+
+FILE - David Muir of ABC News gives the commencement address during
+graduation, May 12, 2018, at the University of Wisconsin in Madison,
+Wis. Republican lawmakers will cut the University of Wisconsin Systems
+budget by \$\...
+
+#### FDA warns stores to stop selling Elf Bar, the top disposable e-cigarette in the US
+
+https://apnews.com/article/4353becf747846b528ec2aea609ed2f9
+
+FILE - The U.S. Food and Drug Administration campus in Silver Spring,
+Md., is photographed on Oct. 14, 2015. The FDA on Thursday, June 22,
+2023, said it has sent warning letters to dozens of retailers selling
+fruit- and candy-flavored\...
+
+#### Rep. George Santos' aunt and dad signed his bail bond to keep him out of jail while awaiting trial
+
+https://apnews.com/article/f1c7f2c18493400ba746a709cb02b846
+
+FILE - Rep. George Santos, R-N.Y., speaks to reporters outside the
+Capitol, in Washington, May 17, 2023. Santos, 34, has spent weeks
+fighting efforts by news outlets to unseal the names of the two people
+who co-signed the \$500,000 bond\...
+
+#### Tech billionaires' cage match? Musk throws down the gauntlet and Zuckerberg accepts challenge
+
+https://apnews.com/article/a4d6a698e233f5d0e848885e4f823e8d
+
+This combo of file images shows Facebook CEO Mark Zuckerberg, left, and
+Tesla and SpaceX CEO Elon Musk. Elon Musk and Mark Zuckerberg are ready
+to fight, offline. In a now-viral back-and-forth seen on Twitter and
+Instagram this week, the\...
+
+#### Ex-Texas congressman Will Hurd calls Trump a 'failed politician' as he launches GOP presidential run
+
+https://apnews.com/article/710f6f0d4bb6cc1f5046e20ed17ef602
+
+FILE - Former Texas Rep. Will Hurd speaks during the Iowa Faith and
+Freedom Coalition Spring Kick-Off Saturday, April 22, 2023, in Clive,
+Iowa. Hurd, a onetime CIA officer and fierce critic of Donald Trump,
+announced on Thursday that he\...
+
+#### Response to fiery Ohio derailment frustrated by poor communication and incomplete information
+
+https://apnews.com/article/bc2531012afcac4ee54e6b3999e31ed9
+
+FILE - In this photo taken with a drone, portions of a Norfolk Southern
+freight train that derailed the previous night in East Palestine, Ohio,
+remain on fire at mid-day, Feb. 4, 2023. The Pipelines and Hazardous
+Materials Safety\...
+
+#### Iconic Hong Kong dragon boat races are back in full force as thousands of spectators gather
+
+https://apnews.com/article/e34bf9443f2ee59f865ddc7fdcf15d4a
+
+Competitors take part in the annual dragon boat race to celebrate the
+Tuen Ng festival in Hong Kong, Thursday, June 22, 2023. (AP Photo/Louise
+Delmotte) HONG KONG (AP) --- Thousands gathered Thursday in southern
+Hong Kong to watch the\...
+
+#### Bridge sitting on key Russian supply route near Crimea struck by missiles
+
+https://apnews.com/article/8a011394589f6fe8fa62b23bd797448b
+
+A Ukrainian MSLR BM-21 \"Grad\" fires towards Russian positions, near
+Bakhmut at the frontline in Donetsk region, Ukraine, Wednesday, June 21,
+2023. (Iryna Rybakova via AP) KYIV, Ukraine (AP) --- Russia-appointed
+officials in Crimea said\...
+
+#### Biden and Modi cheer booming economic ties in visit that also reckoned with India's record on rights
+
+https://apnews.com/article/5e4bc32e679ad6bae7225a28f7f6334d
+
+President Joe Biden speaks with Indias Prime Minister Narendra Modi
+during a State Arrival Ceremony on the South Lawn of the White House in
+Washington, Thursday, June 22, 2023. The Washington Monument is seen in
+the\...
+
+#### Moscow court rules US journalist Evan Gershkovich must stay in jail until late August
+
+https://apnews.com/article/0a859e4fd61b3265e7b35814dfb3f079
+
+Wall Street Journal reporter Evan Gershkovich stands in a glass cage in
+a courtroom at the Moscow City Court in Moscow, Russia, Thursday, June
+22, 2023. Gershkovich, a Wall Street Journal reporter detained on
+espionage charges in Russia\...
+
+### Reuters
+
+#### Biden, Modi hail new era for India, US relations amid flurry of deals
+
+https://www.reuters.com/world/biden-modi-strengthen-ties-with-defense-trade-agreements-2023-06-22/
+
+Summary: Deals come on chips, minerals, tech, space and defense Human
+rights, democracy in focus Modi addresses press, Congress Thousands
+gather at White House ceremony marking ties First lady Jill Biden and
+President Joe Biden greet\...
+
+#### Titanic sub timeline: when did it go missing and key events in search
+
+https://www.reuters.com/world/missing-titanic-sub-when-it-vanished-race-find-it-2023-06-21/
+
+The Titan submersible, operated by OceanGate Expeditions to explore the
+wreckage of the sunken Titanic off the coast of Newfoundland, dives in
+an undated photograph. OceanGate Expeditions/Handout via REUTERS The
+five people aboard a\...
+
+#### What is the OceanGate Titan submersible and how does it work?
+
+https://www.reuters.com/world/what-is-oceangate-submersible-how-does-it-work-2023-06-21/
+
+The Titan submersible, operated by OceanGate Expeditions to explore the
+wreckage of the sunken SS Titanic off the coast of Newfoundland, dives
+in an undated photograph. OceanGate Expeditions/Handout via REUTERS The
+owner of the\...
+
+#### Daughter of missing Titanic explorer hopeful, says he was doing what he loved
+
+https://www.reuters.com/world/daughter-explorer-missing-sub-hopeful-says-father-doing-what-he-loved-2023-06-22/
+
+Sidonie Nargeolet, daughter of submersible passenger Paul-Henri
+Nargeolet, speaks during an interview in Ordino, Andorra, June 22, 2023.
+REUTERS/Horaci Garcia Sidonie Nargeolet, daughter of submersible
+passenger Paul-Henri Nargeolet\...
+
+#### Ukraine hits bridge linking Crimea to mainland in blow to Russian supply route
+
+https://www.reuters.com/world/europe/ukraine-hits-bridge-linking-crimea-mainland-blow-russian-supply-route-2023-06-22/
+
+Summary: Bridge is one of just a few access routes to Crimea
+Russian-installed officials vow to restore traffic Bridge is beyond
+range of Kyivs main battlefield rockets Deputy Defence minister-Ukraine
+containing Russian\...
+
+#### Owner of missing Titanic sub says crew has died -CNN
+
+https://www.reuters.com/world/debris-found-near-titanic-wreckage-assessed-be-missing-sub-cnn-2023-06-22/
+
+The Titan submersible, operated by OceanGate Expeditions to explore the
+wreckage of the sunken SS Titanic off the coast of Newfoundland, dives
+in an undated photograph. OceanGate Expeditions/Handout via REUTERS The
+owner of the\...
+
+#### Why GE plan to make fighter jet engines in India is a big deal
+
+https://www.reuters.com/business/aerospace-defense/why-ge-plan-make-fighter-jet-engines-india-is-big-deal-2023-06-22/
+
+The logo of U.S. conglomerate General Electric is pictured at the site
+of the companys energy branch in Belfort, France, February 5, 2019.
+REUTERS/Vincent Kessler/File Photo The aerospace unit of General
+Electric (GE.N\...
+
+#### Greta Thunberg says France targeting climate activists
+
+https://www.reuters.com/world/europe/greta-thunberg-says-france-targeting-climate-activists-2023-06-22/
+
+Climate activist Greta Thunberg speaks during the debate \"Activism
+moves the lines. Conversations on the power of activism\", on the
+sidelines of the New Global Financial Pact Summit, in Paris, France,
+June 22, 2023. REUTERS/Guillaume\...
+
+#### U.S. House sidelines far-right Republican impeachment vote on Biden
+
+https://www.reuters.com/world/us/us-house-sidelines-far-right-republican-impeachment-vote-biden-2023-06-22/
+
+U.S. House Oversight and Accountability Committee member Representative
+Lauren Boebert (R-CO) attends the committees hearing about Twitters
+handling of a 2020 New York Post story about Hunter Biden and\...
+
+#### Warren Buffett's charitable giving tops \$51 billion
+
+https://www.reuters.com/markets/us/warren-buffetts-charitable-giving-tops-51-billion-2023-06-22/
+
+Warren Buffett, CEO of Berkshire Hathaway Inc, pauses while playing
+bridge as part of the company annual meeting weekend in Omaha, Nebraska,
+May 6, 2018. REUTERS/Rick Wilking/File Photo Warren Buffett has donated
+another \$4.64 billion of\...
+
+#### US Coast Guard says debris field discovered near Titanic; experts evaluating
+
+https://www.reuters.com/world/us-coast-guard-says-debris-field-discovered-near-titanic-experts-evaluating-2023-06-22/
+
+The Titan submersible, operated by OceanGate Expeditions to explore the
+wreckage of the sunken SS Titanic off the coast of Newfoundland, dives
+in an undated photograph. OceanGate Expeditions/Handout via REUTERS The
+U.S. Coast Guard on\...
+
+#### UN adds Russia to list of shame for killing children in Ukraine
+
+https://www.reuters.com/world/un-adds-russia-list-shame-killing-children-ukraine-2023-06-22/
+
+The United Nations headquarters building is pictured with a UN logo in
+the Manhattan borough of New York City, New York, U.S., March 1, 2022.
+REUTERS/Carlo Allegri/File Photo United Nations Secretary-General
+Antonio Guterres called out\...
+
+#### Titanic sub search reaches sea floor, oxygen feared to have run out
+
+https://www.reuters.com/world/search-intensifies-titanic-sub-with-only-hours-oxygen-left-2023-06-22/
+
+Summary: Detection of sounds yet to help locate Titan Co-owner of parent
+ship voices hope until the very end Remote search vehicles reach ocean
+floor How long Titans air lasts depends on\...
+
+### 联合早报
+
+#### 韩咏红：中国重振经济进入关键半年期
+
+https://www.zaobao.com/news/china/story20230623-1406967
+
+中国经济欲振乏力，最近成了备受关注的问题。友人不久前到欧洲旅游，与被派驻当地工作的中国老乡聚会，对方也忍不住询问："国内经济怎样了？"
+近期陆续有同事到北京出差或探亲，回来后都说在市区里感觉还正常，但抵离境时看到机场商店都不开张，到这个星期还有商铺大门贴着封条，"挺吓人的"。
+持续三年的冠病疫情已过去，但痕迹今犹在......
+
+#### 李强强调与中国合作不等于风险 分析：北京慎防"去风险化"变成"去中国化"
+
+https://www.zaobao.com/news/china/story20230622-1406961
+
+正在欧洲访问的中国总理李强（左）星期四（6月22日）与法国总理博尔内在工作午餐上碰杯。
+（法新社）
+正在欧洲访问的中国总理李强在多个场合向德法政商界领袖喊话，强调与中国合作并不等于风险，竭力扭转欧洲对中国"去风险化"的趋势。
+分析认为，在"去风险化"成为欧美对华政策主流之际，北京试图说服欧洲，经济全球化和相互依存是必然趋势，防止"去风险化"演变为"去中国化"......
+
+#### 端午假期前宁夏银川一烧烤店发生爆炸致31人亡
+
+https://www.zaobao.com/news/china/story20230622-1406943
+
+视频截图显示，宁夏银川一家烧烤店6月21日晚发生燃气爆炸事故后，店内不断冒出滚滚黑烟。（路透社）
+中国宁夏自治区银川市一家烧烤店星期三（6月21日）晚上发生燃气爆炸事故，造成31人死亡。这是中国近年来最严重的致命事故之一。
+综合央视、新华社等报道，这起事故是由烧烤店操作间的燃气泄漏造成。除了遇难者，还有七人受伤，其中一人伤势严重......
+
+#### 布林肯访华结束后 美海警船舰驶过台湾海峡 中国海警批"公开炒作"
+
+https://www.zaobao.com/news/china/story20230622-1406941
+
+美国海岸警卫队传奇级国土安全舰"斯特拉顿"号6月初曾在菲律宾海域参与美国、日本和菲律宾的海警队演习。（路透社）
+在美国国务卿布林肯结束访华行程的第二天，一艘美国海岸警卫队舰艇驶过台湾海峡。中国海警局批评美国此举是"公开炒作"，并称中国海警舰艇全程跟监警戒......
+
+#### 内蒙古煤矿坍塌事故搜救结束 47名失联者全部遇难
+
+https://www.zaobao.com/news/china/story20230622-1406933
+
+内蒙古新井煤矿坍塌事故搜救工作结束，47名失联者全部遇难。图为四个月前的事故搜救现场。（新华社）
+内蒙古新井煤矿坍塌事故搜救工作历经约四个月后结束，此前通报的47名失联者全部遇难，罹难者总计53人。
+新华社星期三（6月21日）引述内蒙古自治区应急管理厅、阿拉善盟委宣传部消息报道，内蒙古新井煤矿坍塌事故搜救工作已经结束，今年2月24日通报的47名失联人员已确认无生命体征，死亡人数增至53人......
+
+#### 驻斐济机构复名失败 台外交部指北京打压
+
+https://www.zaobao.com/news/china/story20230622-1406910
+
+驻斐济机构复名失败，台湾外交部指责北京在国际场域打压台湾，并予以最严厉谴责。
+《自由时报》报道，太平洋岛国斐济2022年底大选政党轮替后，新政府在3月中旬通知台湾，自"台北"恢复成"中华民国（台湾）驻斐济商务代表团"名称，并享有外交特权。台湾与斐济没有正式建交......
+
+#### 李家超：国安风险存在 基本法23条最迟明年立法
+
+https://www.zaobao.com/news/china/story20230622-1406896
+
+香港特首李家超说，23条立法已定下时间表，一定要在他任期内立法。（香港中通社）
+香港特首李家超说，基本法23条要尽快立法，今年或最迟明年一定要立法。
+上任快一年的李家超星期三（6月21日）接受中通社专访时说，23条立法已定下时间表，一定要在他任期内立法，最迟明年一定要立法。他表示，希望23条的立法是真正长治久安地管用，不只是回应责任的问题......
+
+#### 美媒：参与美资助项目的中国研究员胡犇 曾在疫情初期患病
+
+https://www.zaobao.com/news/china/story20230622-1406895
+
+美国媒体报道，三名中国研究人员曾在冠病疫情暴发初期罹患不明疾病，这让疫情可能是由实验室泄漏所致的说法再次浮上台面。
+《华尔街日报》星期三（6月21日）引用美国情报报告报道，武汉病毒研究所的科学家胡犇是2019年11月生病的研究人员之一。据前任和现任美国官员称，另外两名研究人员分别是中国科学家于平（音译）和燕朱（音译）。
+报道称，他们所患疾病的性质尚未得到最终确认......
+
+#### 北京高温41.8摄氏度 创历史新高
+
+https://www.zaobao.com/news/china/story20230622-1406890
+
+北京一名男子星期四（6月22日）泡在水中降温。（法新社）
+中国首都6月持续出现高温天气，北京一气象站星期四（6月22日）下午录得41.8摄氏度高温，打破当地有现代气象记录以来的最高纪录。
+据《北京日报》报道，截至星期四下午2时，北京怀柔区汤河口气温达到41.8摄氏度，位居全国第一。代表"北京温度"的北京南郊观象台，同日也录得了40.3摄氏度高温......
+
+#### 美国据报曾追踪进出古巴疑似中国间谍设施的华为和中兴员工
+
+https://www.zaobao.com/news/china/story20230622-1406889
+
+知情人士称，美国曾追踪进出古巴疑似中国间谍设施的华为和中兴通讯员工。（法新社/互联网）
+知情人士透露，美国官员曾追踪进出古巴疑似中国间谍设施的华为和中兴通讯员工。
+《华尔街日报》星期四（6月22日）引述知情人士报道，特朗普政府时期看到的情报促使美国在当时怀疑，这两家中国电信设备制造商可能在扩大中国从古巴监视美国的能力方面发挥了作用。拜登政府是否推进了这方面的调查不得而知......
+
+#### 陈婧：上海的房子也愁卖
+
+https://www.zaobao.com/news/china/story20230622-1406632
+
+两年前报道上海学区房新闻时，被房产中介带着看过几套面积不足50平方米，要价却直逼700万元（人民币，131万新元）的"老破小"单位。我难以置信地问中介：这样的房子还能升值吗？
+年轻的中介小哥听到这个问题，也是一脸难以置信："就算其他地方房价跌了，上海也会涨的。"
+没想到两年过后，上海房价真的跌了；跌得最厉害的，还是过去不愁卖的二手房......
+
+#### 台湾MeToo烧至司法界 惩戒法院前院长被指涉性骚
+
+https://www.zaobao.com/news/china/story20230621-1406639
+
+台湾性骚扰案的Me
+Too烈火延烧至司法界。惩戒法院前院长李伯道涉嫌性骚扰女部属而提前退休，法界人士对司法院"私了"做法不表苟同，司法院改口并展开调查，李伯道则发声明否认控诉。
+今年70岁的李伯道原本6月28日退休，突然于5月8日被核准退职。媒体报道，惩戒法院今年3月17日到云林办活动时，李伯道于下榻饭店强行抱住落单的女部属。返回台北后，女部属两度向李伯道报告工作时又遭熊抱......
+
+#### 深圳即将出台土地新政 尝试降低企业用地成本
+
+https://www.zaobao.com/news/china/story20230621-1406621
+
+深圳即将出台土地新政，优化用地审批程序，规定企业在重点产业项目的用地可以分期缴纳地价，不计利息。图为建筑工人6月2日经过深圳施工地点。（路透社）
+深圳即将出台土地新政，优化用地审批程序，规定企业在重点产业项目的用地可以分期缴纳地价，不计利息。受访学者认为，新政策将使到用地价格符合市场规律，有助于解决企业在深圳所面临的用地高成本问题......
+
+#### 上海星巴克等三家餐饮店被令整改过度收集个人信息行为
+
+https://www.zaobao.com/news/china/story20230621-1406597
+
+上海官方约谈了星巴克、汉堡店Shake Shack以及simply
+thai天泰餐厅相关负责人，要求其对过度收集个人信息行为进行全面整改。
+据澎湃新闻记者暗访发现，包括上述商家在内的多家餐饮门店，普遍存在频繁诱导索取用户手机号、诱导消费者提供精准位置信息、频繁弹窗诱导注册会员、诱导消费者关注公众号等问题......
+
+#### 中国原国家粮食局副局长、薄熙来原"大秘"徐鸣一审获刑15年
+
+https://www.zaobao.com/news/china/story20230621-1406583
+
+原中国国家粮食局党组成员、副局长，也曾是薄熙来"大秘"的徐鸣受贿罪成，一审被判有期徒刑15年。
+据央视新闻报道，厦门市中级人民法院星期二（6月20日）公开宣判徐鸣受贿、利用影响力受贿一案，徐鸣被判有期徒刑15年，并处罚金410万元（人民币，下同，约76万新元）。
+法院审理查明，徐鸣受贿时长延续27年之久......
+
+#### 中国与卡塔尔签署第二份27年的天然气供应协议
+
+https://www.zaobao.com/news/china/story20230621-1406547
+
+中国与卡塔尔星期二（6月20日）在多哈签署了第二份为期27年的天然气供应协议，以确保长期能源安全。
+中国石油天然气集团公司（中石油）每年将获卡塔尔能源公司供应400万吨天然气。据法新社报道，该协议和卡塔尔去年11月与中国石油化工集团（中石化）达成的协议条款相符，均为该行业历史上期限最长的协议......
+
+#### 民调：侯友宜仍垫底 惟"侯柯配"胜"赖萧配"
+
+https://www.zaobao.com/news/china/story20230621-1406545
+
+最新民调显示，国民党籍2024台湾总统参选人侯友宜继续垫底。（自由时报）
+（台北综合讯）最新民调显示，国民党籍2024台湾总统参选人侯友宜继续垫底，但侯友宜如果搭配民众党籍参选人柯文哲，支持度胜过民进党籍总统参选人赖清德搭配驻美代表萧美琴......
+
+#### 调查：中国经济放缓是在华欧企最大挑战
+
+https://www.zaobao.com/news/china/story20230621-1406528
+
+中国欧盟商会调查显示，中国和全球经济放缓是在华欧洲企业面对的最大挑战，其次才是中美政治紧张关系和脱钩问题。
+路透社报道，根据中国欧盟商会星期三（6月21日）发布的年度调查报告，将中国视为未来投资目的地前三的欧洲企业数量，降至2010年有记录以来的最低水平。
+利率上升和通货膨胀正在压缩欧洲和美国的需求。中国企业则面对价格急剧下跌的困境，通货紧缩的风险正加剧中国经济面对的压力......
+
+#### 杨丹旭：超预期的布林肯中国行
+
+https://www.zaobao.com/news/china/story20230621-1406305
+
+美国国务卿布林肯星期一（6月19日）结束两天一夜的中国行。
+或许是因为中美关系实在太差了，观察人士此前都很不看好这趟一波三折的访问，中美双方也都让外界不要抱太大期望，但两天行程、三场会议下来，反而让人觉得布林肯的中国行低开高走，超过预期了。
+中美元首看起来也都挺满意这趟访问。在布林肯访华结束后，远在加利福尼亚的美国总统拜登给下属点赞，称赞布林肯"做得非常好"，"我们走向了正确的轨道"......
+
+#### 学者：中美关系预计短暂步入止跌企稳阶段 长期前景仍不乐观
+
+https://www.zaobao.com/news/china/story20230620-1406298
+
+美国国务卿布林肯（中）星期一（6月19日）登机离开北京，为两天访华行程画上句点。（法新社）
+美国国务卿布林肯星期一（6月19日）结束两天访华行程后，总统拜登当地时间同日在加州表示，美中关系取得进展并"走在正确的道路上"，肯定布林肯做了"一件了不起的工作"。布林肯星期二（6月20日）在美国媒体采访中则表示，今年2月的气球事件"应已了结"......
+
+#### 侯友宜谈民调敬陪末座：比赛刚开始，打死不退
+
+https://www.zaobao.com/news/china/story20230620-1406290
+
+侯友宜对自己民调频频落后说，现在比赛才刚开始，还在热身阶段，世事如棋、乾坤莫测，要到最后方知胜负。图为侯友宜5月20日在国民党总部与支持者握手致意。（路透社）
+台湾民意基金会星期二（6月20日）公布2024总统大选投票民调，执政的民进党总统参选人赖清德以36.5%居冠，在野民众党参选人柯文哲以29.1%紧追在后，最大在野党国民党参选人侯友宜再以20.4%落居第三......
+
+#### 中国下调贷款市场报价利率刺激经济
+
+https://www.zaobao.com/news/china/story20230620-1406287
+
+中国4月与5月的关键经济数据指标走弱，经济增长动能明显不足。图为上海一个人流稀少的商场。照片摄于6月14日。（彭博社）
+中国央行星期二（6月20日）如期下调贷款市场报价利率（LPR），这是中国LPR时隔10个月再调降，稳经济促增长信号明显，但五年期LPR报价下调幅度不及外界预期。分析认为，预计后期或有更多稳增长措施出台，促进中国经济重回正轨......
+
+#### 中国据报拟在古巴建立新军事训练设施
+
+https://www.zaobao.com/news/china/story20230620-1406274
+
+美国现任和前官员透露，中国和古巴正在磋商在古巴建立一个新的联合军事训练设施。
+《华尔街日报》星期二（6月20日）引述消息作出上述报道，并指中古两国此举将引起华盛顿的担忧，因为中国或将得以在距离美国佛罗里达州海岸仅100英里（约161公里）处驻军及开展其他安全和情报行动。
+美国情报报告显示，上述设施预计位于古巴北部海岸，有关讨论已进入后期阶段，但尚未得出结论......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

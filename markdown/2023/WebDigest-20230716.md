@@ -1,0 +1,862 @@
+Other formats: [PDF]() / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20230716.html)
+
+
+# Web Digest 2023-07-16
+
+
+## Developers
+
+### Hacker News
+
+#### PostgreSQL: No More Vacuum, No More Bloat
+
+https://www.orioledata.com/blog/no-more-vacuum-in-postgresql/
+
+https://news.ycombinator.com/item?id=36740921
+
+#### Every time you click this link, it will send you to a random Web 1.0 website
+
+https://wiby.me/surprise/
+
+https://news.ycombinator.com/item?id=36739920
+
+#### Chuck E. Cheese's 1982 Annual Report For Kids \[pdf\]
+
+https://www.showbizpizza.com/info/documents/ptt/ptt_annualreport1982kids.pdf
+
+https://news.ycombinator.com/item?id=36739906
+
+#### Receiving unintentional voice transmissions from GPS satellites
+
+https://www.rtl-sdr.com/receiving-unintentional-voice-transmissions-from-gps-satellites/
+
+https://news.ycombinator.com/item?id=36739320
+
+#### "The Famous F40" Vector Illustration
+
+https://blog.gingerbeardman.com/2023/07/15/the-famous-f40-vector-illustration/
+
+https://news.ycombinator.com/item?id=36739283
+
+#### Another World ported to FPGA
+
+https://github.com/sylefeb/a5k
+
+https://news.ycombinator.com/item?id=36738347
+
+#### Signal president says company will not comply with U.K. 'mass surveillance' law
+
+https://fortune.com/2023/07/13/signal-president-mass-surveillance-uk-law/
+
+https://news.ycombinator.com/item?id=36737733
+
+#### Threads, a Slack alternative unrelated to Instagram, has seen downloads surge
+
+https://techcrunch.com/2023/07/15/threads-a-slack-alternative-completely-unrelated-to-instagram-has-seen-downloads-surge/
+
+https://news.ycombinator.com/item?id=36737721
+
+#### "Our paying customers need X, when will you fix it?"
+
+https://twitter.com/maximilianhils/status/1680193548212228097
+
+https://news.ycombinator.com/item?id=36737567
+
+#### Why do cloud providers keep building datacenters in Phoenix?
+
+https://www.theregister.com/2023/07/15/cloud_datacenters_desert/
+
+https://news.ycombinator.com/item?id=36736940
+
+#### Ask HN: How to price your first enterprise customer?
+
+https://news.ycombinator.com/item?id=36736795
+
+https://news.ycombinator.com/item?id=36736795
+
+#### A bell that rings two notes at once (2017) \[video\]
+
+https://www.youtube.com/watch?v=eMgmJEaYs70
+
+https://news.ycombinator.com/item?id=36735881
+
+#### The shady world of Brave selling copyrighted data for AI training
+
+https://stackdiary.com/brave-selling-copyrighted-data-for-ai-training/
+
+https://news.ycombinator.com/item?id=36735777
+
+#### The pull request hack is fucking magic
+
+https://shkspr.mobi/blog/2023/07/the-pull-request-hack-is-fucking-magic/
+
+https://news.ycombinator.com/item?id=36735633
+
+#### Snakemake -- A framework for reproducible data analysis
+
+https://snakemake.github.io/
+
+https://news.ycombinator.com/item?id=36735616
+
+#### Matrices and Graph
+
+https://thepalindrome.org/p/matrices-and-graphs
+
+https://news.ycombinator.com/item?id=36734771
+
+#### The Uxn Ecosystem
+
+https://100r.co/site/uxn.html
+
+https://news.ycombinator.com/item?id=36734445
+
+#### The theory versus the practice of "static websites"
+
+[[https://utcc.utoronto.ca/ cks/space/blog/web/StaticWebsiteTheoryPractice](https://utcc.utoronto.ca/~cks/space/blog/web/StaticWebsiteTheoryPractice)]
+
+https://news.ycombinator.com/item?id=36734423
+
+#### Evidence for a gravitational wave background from a galaxy-sized detector
+
+https://astrobites.org/2023/06/28/drop-the-bass-evidence-for-a-gravitational-wave-background-from-a-galaxy-sized-detector/
+
+https://news.ycombinator.com/item?id=36734333
+
+#### The day I locked everyone out of the company intranet
+
+https://www.dancowell.com/balls-the-day-i-locked-ev/
+
+https://news.ycombinator.com/item?id=36734266
+
+### Phoronix
+
+#### Cluster Scheduling For Intel Hybrid CPUs Looks Like It Will Be Ready For Linux 6.6
+
+https://www.phoronix.com/news/Cluster-Scheduling-Hybrid-6.6
+
+#### Btrfs Deprecating Its Integrity Checker Tool
+
+https://www.phoronix.com/news/Btrfs-Deprecate-Integrity-Check
+
+#### Linux kCFI/FineIBT Weaknesses Addressed By Rewriting Some Assembly In C
+
+https://www.phoronix.com/news/Linux-kCFI-FineIBT-Weaknesses
+
+#### CentOS Project Promotes They Are \"Open To All\"
+
+https://www.phoronix.com/news/CentOS-Open-To-All
+
+#### systemd 254-rc2 Brings A Few More Changes
+
+https://www.phoronix.com/news/systemd-254-rc2
+
+#### uutils 0.0.20 Improves GNU Coreutils Compatibility For This Rust-Written Replacement
+
+https://www.phoronix.com/news/uutils-0.0.20-Rust-Coreutils
+
+#### Imagination Tech Rolls Out Latest PowerVR Rogue DRM Kernel Driver Patches
+
+https://www.phoronix.com/news/Imagination-PowerVR-DRM-v4
+
+#### Linux 6.6 Will Make It Easy To Disable IO_uring System-Wide
+
+https://www.phoronix.com/news/Linux-6.6-sysctl-IO_uring
+
+#### AMD Working To Allow Linux To Handle Up To 128 DRM Devices Per System
+
+https://www.phoronix.com/news/Linux-128-DRM-Devices
+
+### GitHub
+
+#### gorilla/mux
+
+https://github.com/gorilla/mux
+
+Package gorilla/mux is a powerful HTTP router and URL matcher for
+building Go web servers with 🦍\
+Language: Go\
+Stars: 18369\
+Forks: 1774
+
+#### Visualize-ML/Book4_Power-of-Matrix
+
+https://github.com/Visualize-ML/Book4_Power-of-Matrix
+
+Book_4\_《矩阵力量》 鸢尾花书：从加减乘除到机器学习；上架！\
+Language: Python\
+Stars: 4577\
+Forks: 634
+
+#### usememos/memos
+
+https://github.com/usememos/memos
+
+A privacy-first, lightweight note-taking service. Easily capture and
+share your great thoughts.\
+Language: TypeScript\
+Stars: 16304\
+Forks: 1138
+
+#### apache/seatunnel
+
+https://github.com/apache/seatunnel
+
+SeaTunnel is a distributed, high-performance data integration platform
+for the synchronization and transformation of massive data (offline &
+real-time).\
+Language: Java\
+Stars: 6064\
+Forks: 1193
+
+### Dribbble
+
+#### AI Sales Bot: Visual Identity
+
+https://dribbble.com/shots/21988407
+
+#### Business Landing page design
+
+https://dribbble.com/shots/22004279
+
+#### Canvas - AI Engineering Agency
+
+https://dribbble.com/shots/22007866
+
+#### Travel Platform UI
+
+https://dribbble.com/shots/22007877
+
+#### Investment Concept
+
+https://dribbble.com/shots/21995478
+
+#### Cryptoinvestments
+
+https://dribbble.com/shots/22004658
+
+#### Investment Mobile iOS App
+
+https://dribbble.com/shots/22003775
+
+#### Lambo PLS - Random UI Elements
+
+https://dribbble.com/shots/21928124
+
+#### iPhone 14 Pro Max Duo Mockup
+
+https://dribbble.com/shots/22004810
+
+#### WAYBETTER - Fashion Website
+
+https://dribbble.com/shots/22003382
+
+#### Big Pharma
+
+https://dribbble.com/shots/21929449
+
+#### Hotel Booking App
+
+https://dribbble.com/shots/22005789
+
+#### Oxnos - Saas Landing Page Design
+
+https://dribbble.com/shots/22002619
+
+#### Fitness App
+
+https://dribbble.com/shots/22006782
+
+#### Ecofly Logo
+
+https://dribbble.com/shots/22004482
+
+#### RePlast - Recycling Platform
+
+https://dribbble.com/shots/22007985
+
+#### Retro Give - Groovy Display Font
+
+https://dribbble.com/shots/21979322
+
+#### Creative Solution Landing Page
+
+https://dribbble.com/shots/22007067
+
+#### AI Automation Agency Website
+
+https://dribbble.com/shots/22007740
+
+#### Crypto Landing Page.
+
+https://dribbble.com/shots/22003754
+
+#### solar brand identity
+
+https://dribbble.com/shots/22003568
+
+#### Coffee Shop Website
+
+https://dribbble.com/shots/22000433
+
+#### \*+:｡.｡
+
+https://dribbble.com/shots/22007364
+
+#### NFTify - Dashboard NFT
+
+https://dribbble.com/shots/22003750
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### 互联网档案馆改进 Flash 模拟支持
+
+https://www.solidot.org/story?sid=75523
+
+#### AlmaLinux 不再致力于实现与 RHEL 的 1:1 兼容性
+
+https://www.solidot.org/story?sid=75522
+
+#### Meta 将发布商业版开源大模型 LLaMA
+
+https://www.solidot.org/story?sid=75521
+
+#### 币安裁员逾千人
+
+https://www.solidot.org/story?sid=75520
+
+#### 印度发射登陆器和漫游车探索月球南极
+
+https://www.solidot.org/story?sid=75519
+
+#### 中国公布载人登月初步方案
+
+https://www.solidot.org/story?sid=75518
+
+#### 光基无线通信标准 Li-Fi 发布
+
+https://www.solidot.org/story?sid=75517
+
+#### 恶意应用利用开源工具伪造签名时间戳
+
+https://www.solidot.org/story?sid=75516
+
+#### 云原生部署工具 Alexon 发布
+
+https://www.solidot.org/story?sid=75515
+
+#### 农药如何渗入环境
+
+https://www.solidot.org/story?sid=75514
+
+#### Bard 支持中文在内的四十多种语言
+
+https://www.solidot.org/story?sid=75513
+
+#### 微软用 Aptos 替代 Calibri 作为办公软件默认字体
+
+https://www.solidot.org/story?sid=75512
+
+#### WHO 称阿斯巴甜与人类癌症相关
+
+https://www.solidot.org/story?sid=75511
+
+#### FTC 就虚假信息问题调查 ChatGPT 
+
+https://www.solidot.org/story?sid=75510
+
+#### 上周是有记录以来最热的一周
+
+https://www.solidot.org/story?sid=75509
+
+#### 华为准备推出 5G 手机
+
+https://www.solidot.org/story?sid=75508
+
+#### 保护核心资产: LINUX内核防护
+
+https://www.solidot.org/story?sid=75507
+
+#### 网信办等发布《生成式人工智能服务管理暂行办法》
+
+https://www.solidot.org/story?sid=75506
+
+#### 毅力号漫游车在火星上发现多种有机物
+
+https://www.solidot.org/story?sid=75505
+
+#### 迪士尼和 Netflix 等反对 FTC 简化取消订阅流程的提议
+
+https://www.solidot.org/story?sid=75504
+
+### V2EX
+
+#### \[问与答\] 我写了一个软件，有人想以出售月卡的形式帮我卖
+
+https://www.v2ex.com/t/957082
+
+#### \[软件\] 有大佬懂软件破解吗？有偿。
+
+https://www.v2ex.com/t/957081
+
+#### \[问与答\] m 系列的 macbook,3 屏显示,发热大吗
+
+https://www.v2ex.com/t/957080
+
+#### \[Homebrew\] 没有设置 Homebrew 清华源， brew 却从清华源下载？
+
+https://www.v2ex.com/t/957079
+
+#### \[程序员\] Mac 软件开发报错 NSTaggedPointerString count \[求助\]
+
+https://www.v2ex.com/t/957078
+
+#### \[MacBook Pro\] 这 magsafe3 转换头靠谱吗
+
+https://www.v2ex.com/t/957076
+
+#### \[宽带症候群\] 江苏联通开始查大流量上传
+
+https://www.v2ex.com/t/957075
+
+#### \[Surge\] surge for ios 车位两个
+
+https://www.v2ex.com/t/957070
+
+#### \[Python\] \[项目分享\] imarkdown 一个轻量级 markdown 图片链接转换器
+
+https://www.v2ex.com/t/957069
+
+#### \[宽带症候群\] cogentco 欧美方向好像炸了
+
+https://www.v2ex.com/t/957068
+
+#### \[分享创造\] 有人在听《灵异事件簿》吗？
+
+https://www.v2ex.com/t/957067
+
+#### \[问与答\] zerotier 可以暴露内网的所有设备吗
+
+https://www.v2ex.com/t/957066
+
+#### \[问与答\] 10 代 U 核显黑果会卡吗？
+
+https://www.v2ex.com/t/957065
+
+#### \[分享创造\] 做了一个插件给 Claude.ai 增加分享按钮，可以分享 Claude 会话
+
+https://www.v2ex.com/t/957064
+
+#### \[程序员\] 我是 Python 后端程序员，到今天就北漂五年了，看了眼月收入，到手不足一狗。今天喝了点酒，脑子有点乱，请各位帮忙指指路吧
+
+https://www.v2ex.com/t/957063
+
+#### \[微信\] 谷歌商店是把微信下线了吗，搜不到了呢
+
+https://www.v2ex.com/t/957062
+
+#### \[问与答\] 滴滴，请问有没有专业的团队，提供海外市场推广服务，以支持我们的 App 在海外市场的出海计划。求合作。
+
+https://www.v2ex.com/t/957061
+
+#### \[奇思妙想\] 把二进制数据嵌入到普通媒体文件里，避开网盘审查
+
+https://www.v2ex.com/t/957060
+
+#### \[问与答\] 之前一直不知道为什么明明有了阿里云盘，一些人还是喜欢用百度网盘来分享资源
+
+https://www.v2ex.com/t/957059
+
+#### \[分享创造\] 关于显示器悬臂的一点想法
+
+https://www.v2ex.com/t/957058
+
+#### \[问与答\] serverless 应用用什么数据库好呢
+
+https://www.v2ex.com/t/957057
+
+#### \[问与答\] IPD 流程和 scrum 敏捷的区别
+
+https://www.v2ex.com/t/957056
+
+#### \[程序员\] 有 5g 网卡推荐吗？
+
+https://www.v2ex.com/t/957055
+
+#### \[问与答\] 搞摄影后期要买一万块的笔记本吗？
+
+https://www.v2ex.com/t/957054
+
+#### \[分享发现\] 《中国智慧中国行》这个节目有点牛
+
+https://www.v2ex.com/t/957053
+
+#### \[问与答\] 请问市面上的路由器除了小米之外哪家的原生 ROM 支持自定义 HOSTS 的？
+
+https://www.v2ex.com/t/957052
+
+#### \[奇思妙想\] 有没有一款类似幕布的可以私有化部署的，开源的大纲笔记软件
+
+https://www.v2ex.com/t/957050
+
+#### \[问与答\] 求推荐一个"电脑"
+
+https://www.v2ex.com/t/957049
+
+#### \[问与答\] Linux 中安装的 RustDesk 如何实现开机自启？
+
+https://www.v2ex.com/t/957048
+
+#### \[问与答\] 装 16 寸 mbp 的背包求推荐
+
+https://www.v2ex.com/t/957047
+
+#### \[问与答\] 为什么一些网站（e.g., 谷歌, 微软）不把用户名和密码放在一个页面输入？
+
+https://www.v2ex.com/t/957046
+
+#### \[分享创造\] 做了一个关于 Threads 的中文分享站点，欢迎大家投稿
+
+https://www.v2ex.com/t/957045
+
+#### \[iPhone\] iPhone 摄像头进灰不拆机有办法清理吗...
+
+https://www.v2ex.com/t/957043
+
+#### \[北京\] 工作原因移居上海，北京车牌一枚出租
+
+https://www.v2ex.com/t/957042
+
+#### \[汽车\] 请教下，这个在 4s 店的保养费用是不是有点偏高了（坐标北京，雅阁混动）
+
+https://www.v2ex.com/t/957041
+
+#### \[问与答\] 非本人实名的联通卡
+
+https://www.v2ex.com/t/957040
+
+#### \[问与答\] 电脑麦克风怎么限制阈值
+
+https://www.v2ex.com/t/957039
+
+#### \[macOS\] 升级 Sonoma 之后自动关机/重启
+
+https://www.v2ex.com/t/957038
+
+#### \[程序员\] 对了解各种最佳实践，业务层面工具库很厌恶，只对自己觉得有用的知识感兴趣怎么办
+
+https://www.v2ex.com/t/957037
+
+#### \[iPad\] 给侄女侄子买个 iPad ，有什么要注意的？
+
+https://www.v2ex.com/t/957036
+
+#### \[分享发现\] 盗版小说站的内容被替换成了反义词，这是什么技术
+
+https://www.v2ex.com/t/957035
+
+#### \[前端开发\] 求助 V 友，这样的效果如何实现。
+
+https://www.v2ex.com/t/957033
+
+#### \[程序员\] 63 年来首次全面停摆！好莱坞大罢公抵制"AI 入侵"
+
+https://www.v2ex.com/t/957032
+
+#### \[问与答\] mo.fish 凉了吗
+
+https://www.v2ex.com/t/957031
+
+#### \[问与答\] 这个网站用啥数据库？
+
+https://www.v2ex.com/t/957030
+
+#### \[硬件\] 从纯玩游戏到有 AI 需求，从 6750xt 换到 4070 值不值?
+
+https://www.v2ex.com/t/957029
+
+#### \[程序员\] 求一些极客时间的资源，会员要过期了，续不起了
+
+https://www.v2ex.com/t/957027
+
+#### \[Python\] Python 潮流周刊第 11 期（2023-07-15）
+
+https://www.v2ex.com/t/957024
+
+#### \[宽带症候群\] 三百块三年的广电宽带有必要多开几年么
+
+https://www.v2ex.com/t/957023
+
+#### \[随想\] 二战学不下去，浑浑噩噩，想找工作，又不想突破舒适区
+
+https://www.v2ex.com/t/957021
+
+## Generic News
+
+### Reuters
+
+#### UK defence minister Wallace to step down as lawmaker at next election
+
+https://www.reuters.com/world/uk/uk-defence-minister-wallace-step-down-lawmaker-next-election-2023-07-15/
+
+Summary: Wallace has been defence minister for four years Helped lead UK
+response to Russias invasion of Ukraine Wallace warns Britain faces more
+conflict this decade Britains Secretary of State for\...
+
+#### Israel's Netanyahu suffers dehydration after holiday in heatwave
+
+https://www.reuters.com/world/middle-east/netanyahu-taken-hospital-after-feeling-unwell-israeli-media-say-2023-07-15/
+
+Summary: 73-year-old PM felt dizziness after holiday at sea Benjamin
+Netanyahu is Israels longest-serving leader Sundays cabinet meeting
+postponed I feel really well, he\...
+
+#### Thousands join Budapest Pride in protest at state's anti-LGBT moves
+
+https://www.reuters.com/world/europe/thousands-join-budapest-pride-protest-states-anti-lgbt-moves-2023-07-15/
+
+People attend the annual Pride march in Budapest, Hungary, July 15,
+2023. REUTERS/Bernadett Szabo People attend the annual Pride march in
+Budapest, Hungary, July 15, 2023. REUTERS/Bernadett Szabo People attend
+the annual Pride march in\...
+
+#### Wildfires in Spain's La Palma island forces evacuations as heatwave grips Europe
+
+https://www.reuters.com/world/europe/forest-fire-spains-la-palma-island-forces-evacuations-2023-07-15/
+
+A view of a wildfire in La Palma, Spain, July 15, 2023 in this
+screengrab obtained from a social media video. 1-1-2 Canarias Via
+Twitter/Handout via REUTERS A view of a wildfire on the Canary Island
+of?La?Palma, Spain, July 15, 2023, in\...
+
+#### Phoenix braves relentless wave of extreme heat in US Southwest
+
+https://www.reuters.com/world/us/summer-tested-phoenix-braves-relentless-wave-extreme-heat-2023-07-15/
+
+General view of a homeless encampment in downtown Phoenix as unhoused
+people receive medical care from Circle The Citys mobile medical unit on
+the 14th day of temperatures rising to 110 degrees Fahrenheit, in
+Phoenix\...
+
+#### Putin discusses grain deal, awkward BRICs summit with Ramaphosa
+
+https://www.reuters.com/world/putin-discussed-grain-deal-african-peace-plan-with-safricas-ramaphosa-kremlin-2023-07-15/
+
+Summary: Russia again sounds negative note on grain deal Ramaphosa
+briefs Putin on summit preparations - Kremlin ICC warrant would oblige
+S.Africa to arrest him if he goes Russian President Vladimir Putin
+chairs a meeting with members of\...
+
+#### Canada's 'Hollywood North' hurt by twin strikes in US
+
+https://www.reuters.com/world/americas/canadas-hollywood-north-hurt-by-twin-strikes-us-2023-07-15/
+
+SAG-AFTRA actors strike against the Hollywood studios as they join the
+Writers Guild of America (WGA) on the picket like outside of Netflix
+offices in Angeles, California, U.S., July 14, 2023. REUTERS/Mike
+Blake/File Photo Rare twin\...
+
+#### Insight: She's 47, anorexic and wants help dying. Canada will soon allow it.
+
+https://www.reuters.com/world/americas/shes-47-anorexic-wants-help-dying-canada-will-soon-allow-it-2023-07-15/
+
+REUTERS/Carlos Osorio REUTERS/Carlos Osorio REUTERS/Carlos Osorio
+REUTERS/Carlos Osorio REUTERS/Carlos Osorio Lisa Pauli wants to die. The
+47-year-old has wrestled with the eating disorder anorexia for decades;
+she says she has had a\...
+
+#### Russia investigating if this week's North Korean test missile crashed in its waters
+
+https://www.reuters.com/world/russia-investigating-if-this-weeks-nkorean-test-missile-crashed-its-waters-state-2023-07-15/
+
+Hwasong-18 intercontinental ballistic missile is launched from an
+undisclosed location in North Korea in this image released by North
+Koreas Korean Central News Agency on July 13, 2023. KCNA via REUTERS
+Hwasong-18\...
+
+#### South Korea landslides, floods kill more than 20
+
+https://www.reuters.com/world/asia-pacific/south-korea-hit-with-landslides-flooding-hundreds-evacuated-2023-07-15/
+
+A general view shows landslide caused by torrential rain in Yecheon,
+South Korea, July 15, 2023. Yonhap via REUTERS A view of a road
+submerged by a flooded river caused by heavy rain in Cheongju, South
+Korea, July 15, 2023. Yonhap/via\...
+
+#### Russia demands release of Orthodox cleric detained in Ukraine
+
+https://www.reuters.com/world/europe/russia-demands-immediate-release-orthodox-cleric-detained-ukraine-2023-07-15/
+
+Abbot of the Kyiv Pechers Lavra Metropolitan, Pavlo of the Ukrainian
+Orthodox Church, accused of being linked to Moscow, attends a court
+hearing, amid Russias attack on Ukraine, in Kyiv, Ukraine April 1, 2023.
+REUTERS/\...
+
+#### Pope approves Shanghai bishop as Vatican chides China for lack of consultation
+
+https://www.reuters.com/world/asia-pacific/pope-approves-shanghai-bishop-vatican-chides-china-not-consulting-2023-07-15/
+
+Pope Francis leads the Angelus prayer from his window, at the Vatican,
+July 9, 2023. Vatican Media/­Handout via REUTERS Pope Francis has
+approved a new bishop of Shanghai as the Vatican chided China for
+transferring him there without\...
+
+#### Zelenskiy warns of Russian efforts to halt Kyiv's troops
+
+https://www.reuters.com/world/europe/zelenskiy-warns-russian-efforts-halt-kyivs-troops-general-notes-advances-south-2023-07-15/
+
+Ukrainian servicemen fire a Partyzan small multiple rocket launch system
+toward Russian troops near a front line, amid Russias attack on Ukraine,
+in Zaporizhzhia region, Ukraine July 13, 2023. REUTERS/Stringer
+President\...
+
+### 联合早报
+
+#### 大陆学生抵台交流 舒缓两岸紧张形势
+
+https://www.zaobao.com/news/china/story20230715-1414260
+
+北京大学党委书记郝平（前排右）星期六（7月15日）率领北大等五所中国大陆高校36名师生抵台参访。奥运金牌得主、刚从北大毕业的退役乒乓球员丁宁（左）也随团访台。（中通社）
+应马英九文教基金会的邀请，一个中国大陆学生交流团星期六（7月15日）中午抵台，开始交流参访行程。马英九基金会执行长萧旭岑接机时表示，此次交流对舒缓两岸紧张形势意义重大......
+
+#### 中国国务院常务会议强调加强电力保供
+
+https://www.zaobao.com/news/china/story20230715-1414254
+
+上海星期二（7月11日）发布高温橙色预警，街上行人纷纷用手或穿上长袖衣遮挡酷日。（路透社）
+中国严阵以待准备应对夏天旱季缺电问题，中国国务院总理李强星期五（7月14日）主持召开国务院常务会议，强调要加强高峰时段重点地区电力保供，坚决防范遏制重特大事故发生。
+受访学者分析，
+夏季能源供应短缺问题不只关乎中国国内的经济发展，也可能影响中国对外经贸合作......
+
+#### 郭台铭连续两晚造势 参选总统箭在弦上
+
+https://www.zaobao.com/news/china/story20230715-1414253
+
+郭台铭（中）星期五（7月14日）参加"董事长开讲"高雄站粉丝见面会，与主持人、国民党台北市议员徐巧芯（左）和美丽岛电子报董事长吴子嘉（右）同台。现场"选总统"呼声不绝于耳。（取自郭台铭脸书）
+鸿海集团创办人郭台铭连续两晚造势，参选台湾总统箭在弦上。他强调台湾应该避战，但如果两岸开战，他准备把私人专机当军用运输机，送物资到前线......
+
+#### 香港谴责美通过或关闭港经贸办的法案
+
+https://www.zaobao.com/news/china/story20230715-1414251
+
+香港特区政府强烈谴责美国参议院外交委员会通过一项鼓吹取消香港驻美经贸办特权豁免待遇甚至关闭办事处的法案。
+综合彭博社、《星岛日报》报道，港府是在星期五（7月14日）发布声明作出上述谴责。
+涉事的《香港经济贸易办事处认证法案》可能关闭香港三个在美经贸办，它们被美国共和党议员指控为中国共产党的喉舌......
+
+#### 黄小芳：急速升温的气候变化挑战
+
+https://www.zaobao.com/news/china/story20230715-1413981
+
+2021年刚到北京的第一个夏天，36、37摄氏度的高温令我感到惊讶。和朋友聊起北京夏天的天气时，他笑称"不用担心，北京的最高温度不会超过39摄氏度"------当时没有明白他的笑点，后来才发现根据官方规定，若气温达到40摄氏度以上，当地就必须停止室外露天作业。
+不过，朋友的说法并不可靠......
+
+#### 重庆万州新一轮强降雨 致1.6万余人受灾
+
+https://www.zaobao.com/news/china/story20230714-1414005
+
+重庆市万州区星期五（7月14日）再度遭遇新一轮暴雨袭击，停靠在江南新区路边的部分车辆陷在洪水淤泥里。（新华社）
+10天前因暴雨发生洪涝导致重大伤亡事故的重庆市万州区，再度遭遇新一轮暴雨袭击。当地官方星期五（7月14日）清晨紧急升级防汛应急响应，要求做好断道、停工、停学、停业、停运、停游、停航等措施......
+
+#### 学者：中美交流恐成"相互指责"互动
+
+https://www.zaobao.com/news/china/story20230714-1413997
+
+美国丹佛大学国际关系教授赵穗生星期五（7月14日）在新加坡国立大学东亚研究所举办的线上研讨会上，分享对中美关系前景的看法。（线上研讨会截屏）
+中美高层近期频密互动释放两国关系回暖信号，但长期研究中国外交政策的学者认为，这些互动不足以稳定两国关系；在双方不做出重大妥协的情况下，这些访问与沟通已变成了一种相互指责的互动......
+
+#### 华春莹图文并茂质问：是谁颠覆了国际秩序？
+
+https://www.zaobao.com/news/china/story20230714-1413952
+
+中国外交部部长助理华春莹星期四（7月13日）深夜在推特发图文质问："是谁颠覆了国际秩序？"（取自华春莹推特账号）
+（北京综合讯）针对北大西洋公约组织维尔纽斯峰会公报对中国提出的指控，中国外交部部长助理华春莹在个人推特账号上图文并茂回怼："是谁颠覆了国际秩序......
+
+#### 陆委会民调显示逾八成台湾民众不接受"一国两制"
+
+https://www.zaobao.com/news/china/story20230714-1413949
+
+据台湾政府的大陆委员会星期四（7月13日）公布今年度第二次民意调查结果，台湾八成以上的民众不赞成中国大陆提出的"一国两制"，近九成不认同解放军的军机军舰持续在台湾周边活动。
+陆委会星期四在官网公布的新闻稿中指出，针对大陆持续对台综合施压，台湾人民坚决反对......
+
+#### 于泽远：福建舰终于要出海了？
+
+https://www.zaobao.com/news/china/story20230714-1413630
+
+网络近日流传的图片显示，仍在码头舾装的中国第三艘航母福建舰已拆除了位于斜甲板的三号电磁弹射器的安装工棚。军事学者分析，由于福建舰三条弹射器工棚的安装时间接近，三号弹射器安装工棚被拆除后，一号、二号弹射器安装工棚也将在近期被拆除，这意味着已下水一年多的福建舰距离出海海试的日子不远了......
+
+#### 上海报业集团副总程峰被查
+
+https://www.zaobao.com/news/china/story20230713-1413665
+
+上海报业集团副总经理程峰涉嫌严重违纪违法，正接受上海市纪委监委审查调查。（互联网）
+上海市人大常委会主任董云虎落马次日，上海报业集团副总经理程峰也被调查。加上去年底被查的上海东方网原总裁徐世平，上海市宣传系统八个月来已有三名大员卷入反腐风暴。
+上海市政府新闻办微信号"上海发布"星期四（7月13日）通报，程峰涉嫌严重违纪违法，目前正接受上海市纪委监委纪律审查和监察调查......
+
+#### 马英九基金会拟再增加申请三大陆人士来台被拒
+
+https://www.zaobao.com/news/china/story20230713-1413644
+
+台湾前总统马英九成立的基金会邀请北京大学等五所大陆高校37名师生7月15日来台交流，原拟再增加申请三人来台协助行政庶务，大陆委员会星期四（7月13日）以联合审查会已做决定，若有任何更动须依照程序提出申请间接拒绝。
+这是三年多来，大陆高校首次组团赴台交流，备受两岸关注。
+7月13日是马英九73岁生日，他在脸书发文说，促成大陆师生顺利来访，就是给他最好的生日礼物，也是两岸人民最想要的礼物......
+
+#### 美反潜巡逻机穿航台海 解放军东部战区：全程跟监警戒
+
+https://www.zaobao.com/news/china/story20230713-1413634
+
+美国一架P-8A巡逻侦察机星期四飞过台湾海峡的国际上空，引来战机全程跟监警戒。图为P-8A军机2016年在南中国海海域航行的莫姆森号驱逐舰上空飞过。（路透社）
+中国大陆军机连日在台海周边展开大规模活动之际，美国海军一架巡逻侦察机星期四（7月13日）飞越了敏感的台湾海峡，并引来中国战机全程跟监警戒。
+综合路透社与联合新闻网报道，涉事的是也可用于反潜任务的P-8A海神海上巡逻和侦察机......
+
+#### 台湾通过性平三法修法 权势性骚扰最重判三年
+
+https://www.zaobao.com/news/china/story20230713-1413622
+
+台湾政坛和娱乐圈等相继爆出多起性骚扰事件后，行政院星期四（7月13日）通过性平三法修正草案，权势性骚扰面临最重三年监禁，及最高100万元（新台币，下同，约4万2000新元）罚款。
+综合联合新闻网和自由时报报道，台湾行政院会星期四通过"性别平等工作法"、"性别平等教育法"、"性骚扰防治法"修正草案。
+本次修正主要是防堵权势性骚，台湾立法院临时会预计7月底完成性平三法修法......
+
+#### 业者：香港进口禁令或将致两三成日料店倒闭
+
+https://www.zaobao.com/news/china/story20230713-1413620
+
+香港餐饮业者预计，日本10个都县的水产品若被禁进口，当地两至三成的日式餐厅将倒闭。
+据香港01报道，香港餐饮联业协会会董、日式餐厅负责人陈强星期四（7月13日）在电台节目上推测，禁令如果实行，当地日式餐厅生意估计将下跌五成，若情况持续两至三个月，相信将有两至三成餐厅倒闭。
+陈强透露，日式餐厅现在生意已下跌两至三成，而且有食客反映，若日本排放核处理水，将考虑改吃其他食物......
+
+#### 中国将对生成式人工智能服务分类分级监管
+
+https://www.zaobao.com/news/china/story20230713-1413615
+
+中国将从8月15日起，对生成式人工智能服务实行包容审慎和分类分级监管。（路透社档案图）
+中国将从8月15日起，对生成式人工智能服务实行包容审慎和分类分级监管。
+据"网信中国"微信公众号星期四（7月13日）消息，中国国家网信办联合国家发展改革委、教育部、科技部、工业和信息化部、公安部、广电总局公布《生成式人工智能服务管理暂行办法》......
+
+#### 中国商务部：正与美方沟通雷蒙多访华事宜
+
+https://www.zaobao.com/news/china/story20230713-1413608
+
+中国商务部称，中国正就美国商务部长雷蒙多访华与美国沟通。（法新社）
+中美高层近期互动频繁，中国商务部星期四（7月13日）称，正就美国商务部长访华与美国沟通，同时呼吁美国取消对中国企业的单边制裁。
+根据中国商务部官网发布的信息，商务部新闻发言人束珏婷在例行记者会上回应媒体提问时说，中国对美国商务部长雷蒙多访华持开放和欢迎态度，正就此与美国沟通......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

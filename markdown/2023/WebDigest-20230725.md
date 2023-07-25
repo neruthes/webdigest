@@ -1,0 +1,1020 @@
+Other formats: [PDF]() / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20230725.html)
+
+
+# Web Digest 2023-07-25
+
+
+## Developers
+
+### Hacker News
+
+#### Microsoft Owns the Trademark for "X"
+
+https://tsdr.uspto.gov/#caseNumber=2693757&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch
+
+https://news.ycombinator.com/item?id=36855342
+
+#### Google's nightmare "Web Integrity API" wants a DRM gatekeeper for the web
+
+https://arstechnica.com/gadgets/2023/07/googles-web-integrity-api-sounds-like-drm-for-the-web/
+
+https://news.ycombinator.com/item?id=36854114
+
+#### Wind and Solar Will Be 25% of Total U.S. Generating Capacity Within Three Years
+
+https://electricenergyonline.com/article/energy/category/climate-change/82/1033617/wind-solar-will-be-25-of-total-u-s-generating-capacity-within-three-years-as-they-grow-by-over-100-gw-.html
+
+https://news.ycombinator.com/item?id=36853565
+
+#### A simple guide to fine-tuning Llama 2
+
+https://brev.dev/blog/fine-tuning-llama-2
+
+https://news.ycombinator.com/item?id=36852971
+
+#### Elixir is still safe
+
+https://paraxial.io/blog/still-safe
+
+https://news.ycombinator.com/item?id=36852231
+
+#### Have attention spans been declining?
+
+https://slimemoldtimemold.com/2023/07/24/your-mystery-have-attention-spans-been-declining/
+
+https://news.ycombinator.com/item?id=36851644
+
+#### Apple Vision Pro developer kit
+
+https://developer.apple.com/visionos/developer-kit/
+
+https://news.ycombinator.com/item?id=36851535
+
+#### Attention Is Off By One
+
+https://www.evanmiller.org/attention-is-off-by-one.html
+
+https://news.ycombinator.com/item?id=36851494
+
+#### 40 years ago yesterday Air Canada Flight 143 ran out of fuel mid-flight
+
+https://www.damninteresting.com/the-gimli-glider/
+
+https://news.ycombinator.com/item?id=36850111
+
+#### X, the moonshot factory
+
+https://x.company/
+
+https://news.ycombinator.com/item?id=36849988
+
+#### How capacity planners credibly estimate application performance
+
+https://queue.acm.org/detail.cfm?id=3595862
+
+https://news.ycombinator.com/item?id=36849784
+
+#### Show HN: I spent 2 years building a personal finance simulator
+
+https://projectionlab.com/
+
+https://news.ycombinator.com/item?id=36849502
+
+#### Wasm_of_OCaml
+
+https://github.com/ocaml-wasm/wasm_of_ocaml
+
+https://news.ycombinator.com/item?id=36849478
+
+#### Zenbleed
+
+https://lock.cmpxchg8b.com/zenbleed.html
+
+https://news.ycombinator.com/item?id=36848680
+
+#### Atari has launched collectible arcade circuit boards of retro classics
+
+https://retrododo.com/atari-collectible-arcade-circuit-boards/
+
+https://news.ycombinator.com/item?id=36848037
+
+#### Show HN: I built a transit travel time map
+
+https://map.henryn.xyz
+
+https://news.ycombinator.com/item?id=36847960
+
+#### Pikchr: A PIC-like markup language for diagrams in technical documentation
+
+https://pikchr.org/home/doc/trunk/doc/userman.md
+
+https://news.ycombinator.com/item?id=36847133
+
+#### Ask HN: Which recent research paper blew your mind?
+
+https://news.ycombinator.com/item?id=36846965
+
+https://news.ycombinator.com/item?id=36846965
+
+#### Driver.js: Product tours, highlights, contextual help and more
+
+https://driverjs.com/
+
+https://news.ycombinator.com/item?id=36846520
+
+#### Researchers Find 'Backdoor' in Encrypted Police and Military Radios
+
+https://www.vice.com/en/article/4a3n3j/backdoor-in-police-radios-tetra-burst
+
+https://news.ycombinator.com/item?id=36846242
+
+### Phoronix
+
+#### Intel AVX10: Taking AVX-512 With More Features & Supporting It Across P/E Cores
+
+https://www.phoronix.com/news/Intel-AVX10
+
+#### Intel Details APX - Advanced Performance Extensions
+
+https://www.phoronix.com/news/Intel-APX
+
+#### The Performance Impact Of Genoa-X's 3D V-Cache With The AMD EPYC 9684X
+
+https://www.phoronix.com/review/epyc-9684x-3d-vcache
+
+#### Linux Kernel Mitigated For \"Zenbleed\" Vulnerability Affecting AMD Zen 2 CPUs
+
+https://www.phoronix.com/news/Linux-Mitigate-Zenbleed
+
+#### New AMD Zen CPU & Radeon GPU Microcode Land In Linux-Firmware.Git
+
+https://www.phoronix.com/news/AMD-Zen-Radeon-Linux-FW
+
+#### RadeonSI + ACO Now Supports Monolithic Merged Shaders
+
+https://www.phoronix.com/news/RadeonSI-ACO-Mono-Merged
+
+#### More FUTEX2 Additions Being Worked On For The Linux Kernel
+
+https://www.phoronix.com/news/More-FUTEX2-Linux
+
+#### Twitter's New \"X\" Logo Is Reminding Plenty Of People Around X.Org
+
+https://www.phoronix.com/news/Twitter-X-X.Org-Logos
+
+#### Inkscape 1.3 Released As Latest Open-Source Software To Compete With Adobe Illustrator
+
+https://www.phoronix.com/news/Inkscape-1.3-Released
+
+### GitHub
+
+#### makeplane/plane
+
+https://github.com/makeplane/plane
+
+🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps
+you track your issues, epics, and product roadmaps in the simplest way
+possible.\
+Language: TypeScript\
+Stars: 12380\
+Forks: 455
+
+#### FuelLabs/fuels-ts
+
+https://github.com/FuelLabs/fuels-ts
+
+Fuel Network Typescript SDK\
+Language: TypeScript\
+Stars: 7259\
+Forks: 215
+
+#### invoke-ai/InvokeAI
+
+https://github.com/invoke-ai/InvokeAI
+
+InvokeAI is a leading creative engine for Stable Diffusion models,
+empowering professionals, artists, and enthusiasts to generate and
+create visual media using the latest AI-driven technologies. The
+solution offers an industry leading WebUI, supports terminal use through
+a CLI, and serves as the foundation for multiple commercial products.\
+Language: Jupyter Notebook\
+Stars: 16327\
+Forks: 1771
+
+#### Uahh/ToastFish
+
+https://github.com/Uahh/ToastFish
+
+一个利用摸鱼时间背单词的软件。\
+Language: C#\
+Stars: 3475\
+Forks: 318
+
+#### NationalSecurityAgency/ghidra
+
+https://github.com/NationalSecurityAgency/ghidra
+
+Ghidra is a software reverse engineering (SRE) framework\
+Language: Java\
+Stars: 41271\
+Forks: 5014
+
+### Dribbble
+
+#### Greetings!
+
+https://dribbble.com/shots/22084710
+
+#### RUBO Logotype Featured in the Ultimate Logofolio Collection
+
+https://dribbble.com/shots/22085486
+
+#### Homeleon - Ultimate Logofolio Entry
+
+https://dribbble.com/shots/22086289
+
+#### Finance Mobile App design
+
+https://dribbble.com/shots/22084481
+
+#### Word on Fire Bookmark
+
+https://dribbble.com/shots/22085252
+
+#### Revolve - Ultimate Logofolio Entry
+
+https://dribbble.com/shots/22082692
+
+#### Timify UI-UX
+
+https://dribbble.com/shots/22084651
+
+#### Coffee.pt: An all-in-one platform
+
+https://dribbble.com/shots/22083823
+
+#### Netrunner featured in Ultimate Logofolio on Behance
+
+https://dribbble.com/shots/22081077
+
+#### TravelHub home page interaction
+
+https://dribbble.com/shots/22076636
+
+#### Charmed Fish
+
+https://dribbble.com/shots/21946853
+
+#### Ultimate Logofolio Featured Design
+
+https://dribbble.com/shots/22086372
+
+#### Grades&Grain
+
+https://dribbble.com/shots/22066400
+
+#### Balkan&More #2
+
+https://dribbble.com/shots/22031854
+
+#### LinkMatch - Website Design
+
+https://dribbble.com/shots/22080656
+
+#### X-Rays logo in Ultimate Logofolio Collection
+
+https://dribbble.com/shots/22077104
+
+#### Tapcart: visual identity, logo, branding
+
+https://dribbble.com/shots/22080409
+
+#### 3D Animated Icons
+
+https://dribbble.com/shots/22082493
+
+#### 🍊
+
+https://dribbble.com/shots/22085237
+
+#### Survey Building Tool -- Template Editor
+
+https://dribbble.com/shots/22082795
+
+#### VK
+
+https://dribbble.com/shots/22079459
+
+#### Picovibe Logo Design
+
+https://dribbble.com/shots/22078564
+
+#### Canyon
+
+https://dribbble.com/shots/22021112
+
+#### Blink
+
+https://dribbble.com/shots/22086234
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### AI 增加了员工的工作强度
+
+https://www.solidot.org/story?sid=75603
+
+#### 第六次 Hutter 奖公布
+
+https://www.solidot.org/story?sid=75602
+
+#### 天井建筑给中国民居降温
+
+https://www.solidot.org/story?sid=75601
+
+#### AI 无法扭转芯片行业的颓势 
+
+https://www.solidot.org/story?sid=75600
+
+#### 固件漏洞给予黑客超级用户身份
+
+https://www.solidot.org/story?sid=75599
+
+#### 微波量子雷达性能比传统雷达强 20%
+
+https://www.solidot.org/story?sid=75598
+
+#### 辽宁化石显示哺乳动物攻击恐龙
+
+https://www.solidot.org/story?sid=75597
+
+#### DART 任务制造出 1 万公斤的碎石场
+
+https://www.solidot.org/story?sid=75596
+
+#### 俄罗斯禁止政府官员使用 iPhone 手机
+
+https://www.solidot.org/story?sid=75595
+
+#### 长期不活跃的育碧游戏账号将面临删除
+
+https://www.solidot.org/story?sid=75594
+
+#### RISC-V 成为 Debian 官方支持架构
+
+https://www.solidot.org/story?sid=75593
+
+#### Twitter 的标志将改为 X
+
+https://www.solidot.org/story?sid=75592
+
+#### 英国研究发现少吃肉能大幅减少温室气体排放
+
+https://www.solidot.org/story?sid=75591
+
+#### 诺奖得主庆祝百岁诞辰之后继续工作
+
+https://www.solidot.org/story?sid=75590
+
+#### 天文学家发现两颗系外行星可能共享轨道
+
+https://www.solidot.org/story?sid=75589
+
+#### 多地发现猴痘病例
+
+https://www.solidot.org/story?sid=75588
+
+#### 德州在禁止堕胎之后婴儿死亡率上升
+
+https://www.solidot.org/story?sid=75587
+
+#### NOAA 确认上个月是有记录以来最热的六月
+
+https://www.solidot.org/story?sid=75586
+
+#### Slackware Linux 诞生三十周年
+
+https://www.solidot.org/story?sid=75585
+
+#### Stability AI 发布 CC-BY-NC 4.0 授权的大模型 Free Willy 1 和 2
+
+https://www.solidot.org/story?sid=75584
+
+### V2EX
+
+#### \[路由器\] 想买红米 ax 6000 用过的请告知下这玩意跟苹果设备兼容不
+
+https://www.v2ex.com/t/959405
+
+#### \[问与答\] 实习没意义，要提前跑路准备秋招提前批吗？
+
+https://www.v2ex.com/t/959404
+
+#### \[JetBrains\] jetbrains 全家续费桶改日元付款含税比 9 月的国区续费再叠 85 折还便宜
+
+https://www.v2ex.com/t/959403
+
+#### \[OpenAI\] 收 4.0api 账单号 收 Claude 收 azure
+
+https://www.v2ex.com/t/959401
+
+#### \[分享发现\] 关于 Twitter 新 Logo
+
+https://www.v2ex.com/t/959400
+
+#### \[Node.js\] 我想用 NodeJs 一个 做一个企业级应用请问各位大佬有什么推荐的框架？
+
+https://www.v2ex.com/t/959399
+
+#### \[VPS\] 代认证 ucloud 高校号 可开 GlobalSSH
+
+https://www.v2ex.com/t/959398
+
+#### \[程序员\] 推特新图标很像 X.org 的 Logo
+
+https://www.v2ex.com/t/959397
+
+#### \[分享发现\] 四边窄框显示器，底边斜看边角漏光
+
+https://www.v2ex.com/t/959396
+
+#### \[OpenAI\] 纯礼品卡订阅 chatgpt 要行不通了吗
+
+https://www.v2ex.com/t/959395
+
+#### \[问与答\] 有在使用 tiktok 的吗？为什么这么容易封禁账号
+
+https://www.v2ex.com/t/959394
+
+#### \[Google App Engine\] 要上车的可以看看
+
+https://www.v2ex.com/t/959393
+
+#### \[Telegram\] mac 上有什么好用的第三方 Telegram 客户端
+
+https://www.v2ex.com/t/959392
+
+#### \[Android\] Android 10 系统设置项添加定时重启功能
+
+https://www.v2ex.com/t/959390
+
+#### \[酷工作\] \[佛山美的\] Java 架构师
+
+https://www.v2ex.com/t/959389
+
+#### \[OpenAI\] gpt4 的 api 有没有跟 gpt4 plus 一样变成弱智
+
+https://www.v2ex.com/t/959387
+
+#### \[问与答\] 求推荐不穿袜子也不磨脚的凉鞋
+
+https://www.v2ex.com/t/959386
+
+#### \[酷工作\] 技术支持工程师转行的困境
+
+https://www.v2ex.com/t/959385
+
+#### \[酷工作\] Google 系创始团队，全球化开源项目 Bytebase 寻找一名全栈实习生，坐标上海， 500 / 天 + 2000 / 月房补
+
+https://www.v2ex.com/t/959384
+
+#### \[装修\] 求推荐个电脑桌，最好是升降的
+
+https://www.v2ex.com/t/959383
+
+#### \[DNS\] 哪位大神来拯救一下我？感觉被羞辱了
+
+https://www.v2ex.com/t/959382
+
+#### \[程序员\] 求助，关于 ChatGPT 的使用问题
+
+https://www.v2ex.com/t/959380
+
+#### \[Apple\] mac 上有什么接收通知消息的软件？类似 bark 的那种
+
+https://www.v2ex.com/t/959379
+
+#### \[酷工作\] 上海： Java 架构师， 35-45k
+
+https://www.v2ex.com/t/959378
+
+#### \[全球工单系统\] 十年米粉，今天对小米售后真是太失望了。
+
+https://www.v2ex.com/t/959377
+
+#### \[iPad\] 目前 iPad 9，想换 iPad Air5，在想教育优惠还是收二手的。
+
+https://www.v2ex.com/t/959376
+
+#### \[程序员\] 《北京浮生记》有没有服务端代码可以直接调用的？
+
+https://www.v2ex.com/t/959375
+
+#### \[路由器\] 做 ap 的 TP， wan 口接入主路由的 lan，从该 ap 连上的设备还能和主路由的设备在同一个网段吗
+
+https://www.v2ex.com/t/959374
+
+#### \[问与答\] V2EX 的 once 是什么参数
+
+https://www.v2ex.com/t/959373
+
+#### \[职场话题\] 之前 kuaishou 被离职，签了解除协议，没给年终，能申请仲裁吗？
+
+https://www.v2ex.com/t/959372
+
+#### \[前端开发\] 前端如何深入学习 webGL 和 canvas
+
+https://www.v2ex.com/t/959370
+
+#### \[分享发现\] 33 岁从外包主动辞职独自移居东京---伟大与失败
+
+https://www.v2ex.com/t/959369
+
+#### \[全球工单系统\] 网易邮箱 imap 服务器 ssl 证书异常
+
+https://www.v2ex.com/t/959368
+
+#### \[程序员\] Twitter 的小蓝鸟更换成 X 了
+
+https://www.v2ex.com/t/959367
+
+#### \[OpenAI\] AI 真是解放生产力的工具
+
+https://www.v2ex.com/t/959366
+
+#### \[问与答\] 大家都是怎么保留自己在公司的笔记或记录的
+
+https://www.v2ex.com/t/959365
+
+#### \[分享创造\] 把 Code Diff 渲染成可视化效果的视频
+
+https://www.v2ex.com/t/959364
+
+#### \[问与答\] 有没有 2017 款 12 寸 macbook 出？
+
+https://www.v2ex.com/t/959363
+
+#### \[问与答\] 如何完全禁止快递被放到菜鸟驿站
+
+https://www.v2ex.com/t/959361
+
+#### \[Telegram\] 黑苹果 MacTelegram 界面字体有点发虚怎么调？
+
+https://www.v2ex.com/t/959360
+
+#### \[Apple\] Mac 平台上的最好的防火墙 软件 LITTLE SNITCH 5 史低价仅要 \$20.7
+
+https://www.v2ex.com/t/959359
+
+#### \[酷工作\] \[远程全职-行业黑马 WOO Network\] Backend Java Engineer/React Frontend Engineer
+
+https://www.v2ex.com/t/959357
+
+#### \[硬件\] 打算攒个 PC, V 友们帮忙看看配置哈
+
+https://www.v2ex.com/t/959356
+
+#### \[问与答\] XDM 求助如何维权
+
+https://www.v2ex.com/t/959355
+
+#### \[问与答\] 公司规定 9.30 上班 9 点下班，下班了领导还不走，你会怎么选择？
+
+https://www.v2ex.com/t/959354
+
+#### \[程序员\] 有什么专门学习软件开发思想方法的教程
+
+https://www.v2ex.com/t/959353
+
+#### \[机械键盘\] 独立开发周记 #23: 那些年我用过的人体工学键盘
+
+https://www.v2ex.com/t/959352
+
+#### \[酷工作\] \[北京\]\[20K-40K\]滴滴招聘资深前端开发工程师
+
+https://www.v2ex.com/t/959351
+
+#### \[程序员\] 有用 Notion 做笔记的吗？想看看你们首页都是咋规划的
+
+https://www.v2ex.com/t/959350
+
+#### \[推广\] 香港丰泽 hahasim，全新未开封现货 108 元包邮
+
+https://www.v2ex.com/t/959349
+
+## Generic News
+
+### AP News
+
+#### Watch the trailer for "20 days in Mariupol," AP's powerful documentary about the brutal Russian siege
+
+https://apnews.com/article/049664029268
+
+NEW YORK - The trailer for the documentary "20 Days in Mariupol" has
+been released ahead of the film's first theatrical showing in New York
+next month. The feature-length documentary is a co-production between
+The Associated Press and\...
+
+#### Supreme Court won't review North Carolina's decision to nix license plates with Confederate flag
+
+https://apnews.com/article/6042b7db4218798b93dbaa8924272cec
+
+WASHINGTON (AP) --- The Supreme Court said Monday it won't review North
+Carolina's decision to stop issuing specialty license plates with the
+Confederate flag. As is typical, the court did not comment in declining
+to hear the case, which\...
+
+#### British man detained after climbing 72nd floor of Seoul skyscraper
+
+https://apnews.com/article/27e5e133633521218539efbf8a71e861
+
+SEOUL, South Korea (AP) --- A British man was detained after climbing
+more than half way up the world's fifth-tallest skyscraper in Seoul with
+only his bare hands on Monday, authorities said. More than 90 emergency,
+police and other\...
+
+#### Driver charged after bus carrying wedding guests in Australia rolls over, killing 10 and injuring 25
+
+https://apnews.com/article/7f9aecb895a24b301c29f54ca5ea6783
+
+CANBERRA, Australia (AP) --- The driver of a bus was charged Monday
+after the vehicle carrying wedding guests rolled over on a foggy night
+in Australia's wine country, killing 10 people and injuring 25 in the
+nation's most deadly road\...
+
+#### German shepherd wounded in Ukraine gets new start as Hungarian police dog
+
+https://apnews.com/article/db54dcf17eafcb66e6380718ef49aa83
+
+BUDAPEST, Hungary (AP) --- After a rocket attack in eastern Ukraine,
+half of Rambo's face was mangled and bloody. Shrapnel had ravaged the
+right side of his head, and it was uncertain if he would survive. The
+3-year-old German shepherd\...
+
+#### Phoenix Mercury make travel 'adjustments' following airport incident with Brittney Griner
+
+https://apnews.com/article/70b4daf5e5369b14f8e8c3abc7388a68
+
+INDIANAPOLIS (AP) --- Phoenix Mercury coach Vanessa Nygaard had one goal
+before taking the court Sunday. She wants the WNBA to take additional
+steps to keep her team's traveling parties safe and secure. One day
+after Mercury center\...
+
+#### Report: Billionaire investor, philanthropist George Soros cedes control of empire to a younger son
+
+https://apnews.com/article/95e7a9858981b8a0b303402176025cb5
+
+NEW YORK (AP) --- Billionaire investor turned philanthropist George
+Soros is ceding control of his \$25 billion empire to a younger son,
+Alexander Soros, according to an exclusive interview with The Wall
+Street Journal published online\...
+
+#### 'Transformers' edge out 'Spider-Verse' to claim first place at box office
+
+https://apnews.com/article/015242d0f97388fff2db98403ae11d7f
+
+It was Miles Morales and the Spider-Verse versus the "Transformers" at
+the box office this weekend and the bots came out on top. "
+Transformers: Rise of the Beasts," the seventh entry in the series, took
+the No. 1 spot in its first\...
+
+#### Novak Djokovic wins his 23rd Grand Slam title by beating Casper Ruud in the French Open final
+
+https://apnews.com/article/d7bda9f570b010ea48cf8a05b397291e
+
+PARIS (AP) --- Novak Djokovic made clear for years this was his goal.
+What drove him. What inspired him. The biggest titles from his sport's
+biggest stages were Djokovic's main aim and now he finally stands alone
+--- ahead of Rafael\...
+
+#### Hospitalized Pope Francis walks a bit, follows Mass on TV, lunches with medical personnel and aides
+
+https://apnews.com/article/e13e8c7da509be29a695f4496a71d13b
+
+ROME (AP) --- Sticking to doctors' advice, Pope Francis on Sunday
+skipped his customary weekly public blessing as he convalesces from
+abdominal surgery in a Rome hospital, but walked a few steps, followed
+Mass on TV and did some work, the\...
+
+#### England's health service says it won't give puberty blockers to children at gender clinics
+
+https://apnews.com/article/abd9145484006fea23de6b4656c937da
+
+LONDON (AP) --- The publicly funded health service in England has
+decided it will not routinely offer puberty-blocking drugs to children
+at gender identity clinics, saying more evidence is needed about the
+potential benefits and harms\...
+
+#### Conor McGregor knocks out Heat mascot in bizarre promotion at NBA Finals
+
+https://apnews.com/article/097557b5dd00685bb5cdc6d418f9bbe9
+
+MIAMI (AP) --- Former UFC champion Conor McGregor knocked out the Miami
+Heat mascot in a midgame bit that went wrong. Burnie --- more
+specifically, the man who occupies Burnie's costume --- briefly sought
+medical attention Friday night\...
+
+#### Six people shot in parking lot outside Houston club, police say
+
+https://apnews.com/article/7e00d802be71c9e9385b6cb79079f90e
+
+HOUSTON (AP) --- Police in Houston say six people were shot and injured
+after someone opened fire in a crowded parking lot outside of a club in
+Houston early Sunday. Police Chief Troy Finner said officers found six
+people shot following a\...
+
+### Reuters
+
+#### As wildfires rage in Greece, tourists flee and locals shelter
+
+https://www.reuters.com/world/europe/repatriation-flights-head-greece-wildfires-force-tourists-flee-2023-07-24/
+
+Summary: Wildfires burn for 7th day on Rhodes Over 2,000 flown home,
+mainly to UK, Germany, Italy Tourists walked for miles, spent night on
+airport floor Local residents fear for homes Charred trees are seen next
+to the beach of Glystra\...
+
+#### US DOJ sues Texas over floating border barriers
+
+https://www.reuters.com/world/us/us-doj-sues-texas-over-floating-border-barriers-2023-07-24/
+
+An unfinished strand of orange buoys sits in the Rio Grande River in
+response to migrants crossing the river, near Eagle Pass, Texas, U.S.,
+July 11, 2023. REUTERS/Kaylee Greenlee Beal/File Photo The U.S. Justice
+Department on Monday sued\...
+
+#### Protests rage as Israel passes contested curbs on some Supreme Court powers
+
+https://www.reuters.com/world/middle-east/israels-netanyahu-discharged-hospital-reuters-witness-says-2023-07-24/
+
+Summary: Bill limits Supreme Court power to quash govt decisions
+Political groups, labour federation plan challenge to changes Popular
+protests have spread to military Israeli Prime Minister Benjamin
+Netanyahu shows\...
+
+#### North Korea fires two missiles after US submarine arrives in South
+
+https://www.reuters.com/world/asia-pacific/north-korea-fires-ballistic-missile-yonhap-2023-07-24/
+
+A North Korean flag flutters at the propaganda village of Gijungdong in
+North Korea, in this picture taken near the truce village of Panmunjom
+inside the demilitarized zone (DMZ) separating the two Koreas, South
+Korea, July 19, 2022\...
+
+#### Greta Thunberg forcibly removed from protest hours after conviction for similar action in June
+
+https://www.reuters.com/world/europe/greta-thunberg-fined-disobeying-police-order-tt-2023-07-24/
+
+Swedish climate activist Greta Thunberg is lifted away by police when
+she takes part in a new climate action in Oljehamnen in Malmo, Sweden
+July 24, 2023. TT News Agency/Andreas Hillergren/via REUTERS Climate
+activist Greta Thunberg\...
+
+#### 'Oppenheimer' sparks online outrage in India due to Hindu scripture scene
+
+https://www.reuters.com/world/india/oppenheimer-sparks-online-outrage-india-due-hindu-scripture-scene-2023-07-24/
+
+Cast members Trond Fausa Aurvag, Matt Damon, Robert Downey Jr., Cillian
+Murphy, Emily Blunt, Jason Clarke, Director Christopher Nolan and his
+wife Emma Thomas, and Producer Charles Roven pose during a photocall
+before the premiere of the\...
+
+#### US IRS ends policy of unannounced revenue officer visits to taxpayers
+
+https://www.reuters.com/world/us/us-irs-ends-policy-unannounced-revenue-officer-visits-taxpayers-2023-07-24/
+
+IRS Commissioner Danny Werfel testifies before House Committee on Ways
+and Means on \"Accountability and Transparency at the Internal Revenue
+Service\" on Capitol Hill in Washington, U.S., April 27, 2023.
+REUTERS/Elizabeth Frantz/File Photo\...
+
+#### Russia talks of retaliation after 'Ukrainian drone strike' near Moscow army HQ
+
+https://www.reuters.com/world/europe/drone-fragments-found-near-russias-defence-ministry-building-central-moscow-2023-07-24/
+
+Summary: Russia says 2 Ukrainian drones strike Moscow Nobody reported
+hurt; damage not serious One strikes close to Defence Ministry HQ
+Ukraine says there will be more such attacks A member of the security
+services investigates the\...
+
+#### Some strikes at UK airport Gatwick cancelled, suspended - union
+
+https://www.reuters.com/world/uk/uks-unite-union-says-more-dhl-workers-suspend-strikes-gatwick-2023-07-24/
+
+Passengers wait in the queue for check-in in the South Terminal building
+at Gatwick Airport, in Gatwick, Britain, December 21, 2018. REUTERS/Toby
+Melville/File Photo People queue to enter the terminal at Gatwick
+Airport in southern\...
+
+#### Russia offers BRICS partners a module on its planned space station
+
+https://www.reuters.com/world/europe/russia-offers-brics-partners-module-its-planned-space-station-2023-07-24/
+
+A view shows a model of a new Russian orbital space station at the
+international military-technical forum Army-2022 at Patriot Congress and
+Exhibition Centre in the Moscow region, Russia August 15, 2022.
+REUTERS/Maxim Shemetov/File Photo\...
+
+#### Strike at trucking firm Yellow averted after deal
+
+https://www.reuters.com/business/autos-transportation/strike-trucking-firm-yellow-averted-after-deal-2023-07-23/
+
+REUTERS/Bobby Yip (CHINA) U.S. trucking firm Yellow (YELL.O) averted a
+threatened strike by 22,000 Teamsters-represented workers on Sunday,
+saying the company will pay the more than \$50 million it owed in worker
+benefits and pension\...
+
+#### Adidas swamped with \$565 mln in orders for unsold Yeezy shoes- FT
+
+https://www.reuters.com/business/retail-consumer/adidas-gets-565-mln-orders-first-batch-unsold-yeezy-shoes-ft-2023-07-24/
+
+Adidas Yeezy shoes are seen in a store on the day Adidas terminated its
+partnership with the American rapper and designer Kanye West, now known
+as Ye, in Garden City, New York, U.S., October 25, 2022. REUTERS/Shannon
+Stapleton/File Photo\...
+
+#### UN Command talking to North Korea about US soldier Travis King
+
+https://www.reuters.com/world/asia-pacific/conversations-with-north-korea-have-started-us-soldier-travis-king-un-command-2023-07-24/
+
+U.S. Army soldier Travis King appears in this unknown location, undated
+photo obtained by REUTERS The United Nations Command and North Korea
+have begun discussing the case of Travis King, the U.S. soldier who
+crossed into the North last\...
+
+### 联合早报
+
+#### 戴庆成：香港书展的变与不变
+
+https://www.zaobao.com/news/china/story20230725-1417092
+
+一年一度的香港书展上周三（7月19日）在湾仔会展中心开幕后，每天都吸引了大批书迷入场买书。但对我这种文字工作者来说，为期七天的香港书展更像是密集的见面会，在场内总会不期然遇上一些许久未见的同行和朋友，大家趁机相聚一番。
+记得2019年下半年反修例运动爆发的时候，示威者在7月份天天上街闹事，香港书展的气氛也紧张起来......
+
+#### 防御中国大陆袭击 台湾启动五天汉光演习
+
+https://www.zaobao.com/news/china/story20230724-1417122
+
+全台湾22县市分阶段在星期一下午实施半小时的"万安演习防空警报"，车辆必须减速靠停、民众须疏散到附近的避难所。图为星期一下午的台北某处街道，在防空警报下车辆停止运行，街上空无一人......
+
+#### 李显龙总理会见李家超 讨论深化新港合作
+
+https://www.zaobao.com/news/china/story20230724-1417119
+
+李显龙总理（右）星期一（7月24日）在总统府会见到访的香港特首李家超。（海峡时报）
+我国总理李显龙与香港行政长官李家超讨论，进一步深化新港在贸易与投资、创新与研究等领域的双边合作。李总理也表示，有信心香港会在"一国两制"下持续发展与繁荣。
+李总理星期一（24日）与到访我国的李家超会面，并设午宴款待李家超。
+根据外交部文告，李总理和李家超重申新港密切和长久的关系......
+
+#### 齐齐哈尔一中学体育馆坍塌致11死4伤 初步调查：施工商违规置放建筑材料
+
+https://www.zaobao.com/news/china/story20230724-1417086
+
+7月24日无人机拍摄的齐齐哈尔市第34中学体育馆楼顶坍塌事故搜救现场。事故共造成11人死亡，相关调查工作正在全面推进中。（新华社）
+中国黑龙江省齐齐哈尔市一所中学的体育馆，星期天（7月23日）发生屋顶坍塌事故，导致11人死亡四人受伤。现场搜救工作在星期一上午结束，相关责任人已被警方拘留。
+坍塌的体育馆位于齐齐哈尔市第三十四中学内。现场画面显示，体育馆整个屋顶倒塌，仅剩墙体，馆内一片废墟......
+
+#### 中国大陆海警台海执法常态化 近两月二度跨越海峡中线
+
+https://www.zaobao.com/news/china/story20230724-1417084
+
+台湾海军前舰长吕礼诗指出，中国大陆海警船近两个月来二度跨越海峡中线，显示大陆海警正将台湾海峡逐渐纳为"管辖海域"，将海峡执法权"常态化"。
+据台湾《自由时报》报道，吕礼诗星期一（7月24日）发文指出，大陆海警舷号"2501"、排水量5000吨的大型海警船，近两个月来二度跨越海峡中线，在澎湖群岛西南海域活动......
+
+#### 中俄结束日本海联合军演
+
+https://www.zaobao.com/news/china/story20230724-1417068
+
+中国和俄罗斯结束在日本海举行的"维护海上战略通道安全"的联合军演。在四天的演习中，中俄双方派出10多艘舰艇和30多架飞机。
+根据中国国防部官网，在名为"北部·联合-2023"演习中，中俄双方海空兵力联合筹划、指挥、行动，先后进行了海空护航、威慑驱离、锚地防御等多个课目的实兵演练，检验了远海远域实战能力......
+
+#### 打造摇滚之城 石家庄能否脱颖而出？
+
+https://www.zaobao.com/news/china/story20230724-1417066
+
+石家庄世纪公园7月22日举行摇滚之城户外免费演唱会，至少上千人聚集在公园草坪，台上的儿童摇滚乐队点燃现场气氛。（黄小芳摄）
+"你该不会是专程来找摇滚演唱会的吧？"
+听闻记者从北京到石家庄找免费摇滚演出，出租车司机闫大哥（化名，47岁）显得惊讶；当记者询问石家庄的摇滚氛围是否浓厚，他笑着说，"不搞点噱头怎么吸引你来，但有活动的时候确实挺嗨"......
+
+#### 日本欢迎中国军事院校学生赴日交流
+
+https://www.zaobao.com/news/china/story20230724-1417029
+
+美国已将来自中国军事相关院校的学生拒之门外，但其盟友日本却非常欢迎这些中国留学生。
+据《华尔街日报》星期一（7月24日）报道，日本一些政府官员和学术界管理人士表示，很高兴有学生在美国收紧限制之后，把目光投向美国之外的选项，并指出知识交流和科学交流自由的重要性......
+
+#### 于泽远："31条"能否提振民企信心？
+
+https://www.zaobao.com/news/china/story20230724-1416752
+
+中国高层7月19日发布《关于促进民营经济发展壮大的意见（以下简称"民营经济31条"）》后，网络名人司马南的压力陡增，因为他前段时间大力指控著名企业联想集团涉嫌造成巨额国有资产流失，被不少人视为打压民企的"黑手"。
+司马南7月22日发文辩解说："除了对联想09年改制涉嫌巨额国有资产流失问题的揭露，我打压过哪一家子民企呢......
+
+#### 国民党正式提名侯友宜参选 蓝军选情与在野整合仍充满挑战
+
+https://www.zaobao.com/news/china/story20230723-1416818
+
+国民党7月23日全代会再现最强三战将"秃子、汉子、燕子"（即前排左起的韩国瑜、侯友宜和台中市长卢秀燕）同台互挺画面，相信有助凝聚蓝营军心。（国民党提供照片）
+国民党全台党代表大会（全代会）星期天正式提名新北市长侯友宜参选台湾总统，高人气的前高雄市长韩国瑜热情相挺。但未获征召的鸿海集团创办人郭台铭，会前在脸书贴文称"民意永远大于党意"，蓝军选情与在野整合依然充满挑战......
+
+#### 李家超展开三天访新之行 时隔六年再迎来港特首
+
+https://www.zaobao.com/news/china/story20230723-1416796
+
+我国国家发展部兼外交部高级政务部长沈颖（左）星期天（7月23日）在机场迎接到访的香港特首李家超。（外交部提供）
+香港特首李家超星期天（7月23日）抵达新加坡展开三天访问。这是李家超出任香港特首后，首次访问新加坡，期间将与李显龙总理会面。
+据新加坡外交部文告，李家超是应李总理的邀请，在7月23日至25日访问我国。
+李家超将出席李总理所设的午宴，副总理兼财政部长黄循财也将与李家超共进早餐......
+
+#### 中国驻日使馆批北约介入亚太贩卖安全焦虑
+
+https://www.zaobao.com/news/china/story20230723-1416790
+
+针对北大西洋公约组织指中国挑战北约的安全与价值观，中国驻日本大使馆回应批评北约贩卖安全焦虑，唯恐天下不乱。
+据中新社报道，中国驻日本大使馆发言人星期六（7月22日）就北约东进亚太发表谈话，指近期以来北约持续介入亚太事务，挑动阵营对抗，引起地区国家高度警惕......
+
+#### 浙江杭州富阳暴雨引发山洪 已致五死三失联
+
+https://www.zaobao.com/news/china/story20230723-1416782
+
+浙江省杭州市富阳区7月22日傍晚至23日凌晨，短时强降雨引发山洪致局部山体塌方和泥石流，已致五人死亡，三人失联。（中新社）
+中国浙江省杭州市富阳区部分区域突降暴雨引发山洪，截至星期天（7月23日）下午2时，已致五人死亡、三人失联。
+据"富阳发布"公众号公告，富阳区22日傍晚至23日凌晨短时强降雨引发山洪，致局部山体塌方和出现泥石流......
+
+#### 法国外交顾问称中国正向俄罗斯输送军事装备
+
+https://www.zaobao.com/news/china/story20230723-1416780
+
+法国外交顾问称，中国正在向俄罗斯提供可以用作军事装备的物品，这些物品也可用在俄乌战争。
+综合路透社和法新社报道，法国总统马克龙首席外交政策顾问博纳（Emmanuel
+Bonne）星期四（7月20日）在巴黎举行的阿斯彭安全论坛上被问及西方是否看到任何证据，显示中国以任何形式为俄罗斯提供武装时，作出上述回应。
+他说："有迹象表明，他们正在做一些我们不希望他们做的事......
+
+#### 西安回流生事件警方再抓六人
+
+https://www.zaobao.com/news/china/story20230723-1416778
+
+中国西安回流生事件热度持续。继上周控制涉案20余人后，西安警方上星期六（7月22日）再抓获犯罪嫌疑人六名，刑事拘留五人。
+陕西省西安市公安局官方微博星期天（23日）通报，西安市一所补习学校通过伪造印章，为外省回流生在西安参加中考提供虚假资格审查材料，涉嫌犯罪。
+该事件引发社会关注，是因为网络传言称西安2023年10万中考生中，有多达4万名回流生......
+
+#### 排解焦虑 中国年轻人刮起算命风潮
+
+https://www.zaobao.com/news/china/story20230723-1416746
+
+中国刮起算命风潮，年轻人聚集的市集里，时常出现塔罗牌占卜摊位。图为摄于北京三里屯的一个临时市集。（黄小芳摄）
+25岁的郭欣（化名）向来坚决不信命理，但她在报考研究生和求职受挫后，首次主动花钱算了八字------对她而言，算命不是迷信，而是排解内心焦虑的一种心理咨询。
+在过去三年的疫情中，中国的命理产业经历一波爆炸式发展和重塑，算命不再是年长者的迷信活动，也成为备受年轻人追捧的潮流文化......
+
+#### 香港特稿：港人大湾区养老须跨越重重难关
+
+https://www.zaobao.com/news/china/story20230723-1416003
+
+在东莞黄江康湖护老院，医护人员陪同年长者进行护理。（林煇智摄）
+粤港两地融合发展不断深化，香港政府这几年加大政策力度推进跨境养老，以破解香港人口老龄化问题；但粤港两地在医疗、福利保障制度上的差异，长期是香港年长者北上养老最大的顾虑。这样的情况是否已经改善？跨境养老还面临哪些挑战？
+95岁的陈素贞五年前在步入鲐背之年时做了一个决定，从香港到广东东莞养老......
+
+#### 反间谍法引发外企忐忑 中国商务部出面安抚
+
+https://www.zaobao.com/news/china/story20230723-1416549
+
+本月生效的新版《反间谍法》一度引发在华外企不安。（路透社）
+北京的反间谍行动数月来在驻华外企中引发寒蝉效应，中国商务部罕见地召集在华外国商会和企业代表，解释本月生效的新版《反间谍法》，以稳定在华外资信心。
+受访学者指出，中国与美国等西方国家博弈加剧下，外企担心执法的模糊性，会让他们在华的经营活动成为地缘政治斗争的牺牲品，而单靠经济部门安抚，难以完全打消疑虑......
+
+#### 足坛反腐：中国足协又两位高层被查
+
+https://www.zaobao.com/news/china/story20230722-1416547
+
+中国足协技术部部长谭海（左）和战略规划部部长戚军涉嫌严重违纪违法被查。（互联网）
+继11名中国足坛重磅人物相继落马后，中国足球协会两位部长谭海和戚军涉嫌严重违纪违法被调查。
+据湖北省纪委监委网站星期六（7月22日）通报，中国足球协会技术部部长谭海和战略规划部部长戚军涉嫌严重违纪违法，目前正接受中央纪委国家监委驻国家体育总局纪检监察组和湖北省监委审查调查......
+
+#### 借鉴俄乌战况 台湾研发无人机备战
+
+https://www.zaobao.com/news/china/story20230722-1416545
+
+台湾雷虎科技公司的一名员工3月30日在嘉义的亚洲无人机人工智能创新应用研发中心搬运一台无人机进行演示。（路透社）
+（台北综合电）台湾借鉴俄乌战争中乌克兰用无人机获得空中优势的经验，正加快组建一支无人机国家队，缩小与中国大陆的无人机差距。
+据路透社星期五（7月21日）报道，去年夏天在俄乌战争爆发数月后，台湾总统蔡英文曾召集民进党高官，探讨乌克兰是如何成功应对像俄罗斯这样的一个强敌......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

@@ -1,0 +1,999 @@
+Other formats: [PDF]() / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20230808.html)
+
+
+# Web Digest 2023-08-08
+
+
+## Developers
+
+### Hacker News
+
+#### The combined power of F# and C#
+
+https://steven-giesel.com/blogPost/2f70d926-ec92-4dfe-b278-18f78078253d
+
+https://news.ycombinator.com/item?id=37038425
+
+#### Aeroflot deactivates brakes on nine aircraft, relies solely on reverse thrust
+
+https://aeroxplorer.com/articles/aeroflot-deactivates-brakes-on-nine-aircraft-relies-solely-on-reverse-thrust.php
+
+https://news.ycombinator.com/item?id=37038278
+
+#### Car Bloat: "Huge Cars Are Terrible for Society"
+
+https://kottke.org/23/08/car-bloat-huge-cars-are-terrible-for-society
+
+https://news.ycombinator.com/item?id=37038007
+
+#### Apple Vision Pro: Why Monitor Replacement Is Ridiculous
+
+https://kguttag.com/2023/08/05/apple-vision-pro-part-5a-why-monitor-replacement-is-ridiculous/
+
+https://news.ycombinator.com/item?id=37037563
+
+#### Gnu/Hurd strikes back: How to use the legendary OS in a (somewhat) practical way
+
+https://mhatta.medium.com/gnu-hurd-strikes-back-4021433d506d
+
+https://news.ycombinator.com/item?id=37036851
+
+#### Kafka is dead, long live Kafka
+
+https://www.warpstream.com/blog/kafka-is-dead-long-live-kafka
+
+https://news.ycombinator.com/item?id=37036291
+
+#### Police raid Worldcoin warehouse in Nairobi
+
+https://www.capitalfm.co.ke/news/2023/08/police-raid-worldcoin-cryptocurrency-warehouse-in-nairobi/
+
+https://news.ycombinator.com/item?id=37036277
+
+#### Why San Francisco Is a Homeless Mecca
+
+https://www.wsj.com/articles/why-san-francisco-is-a-homeless-mecca-drug-prosecutions-treatment-344aac97
+
+https://news.ycombinator.com/item?id=37036120
+
+#### Show HN: Phind V2 -- A GPT-4 agent that's connected to the internet and your code
+
+https://www.phind.com/hn
+
+https://news.ycombinator.com/item?id=37034951
+
+#### Request: Re-open JPEG XL issue
+
+https://bugs.chromium.org/p/chromium/issues/detail?id=1451807
+
+https://news.ycombinator.com/item?id=37034912
+
+#### Sandy Bridge: Setting Intel's modern foundation
+
+https://chipsandcheese.com/2023/08/04/sandy-bridge-setting-intels-modern-foundation/
+
+https://news.ycombinator.com/item?id=37034906
+
+#### Not Using Zoom
+
+https://the.webm.ink/not-using-zoom
+
+https://news.ycombinator.com/item?id=37034145
+
+#### In California, Car Buyers Are Choosing Electric over Gasoline in Record Numbers
+
+https://blog.ucsusa.org/dave-reichmuth/in-california-car-buyers-are-choosing-electricity-over-gasoline-in-record-numbers/
+
+https://news.ycombinator.com/item?id=37034084
+
+#### The \$1M shot that changed sports contests
+
+https://www.espn.com/nba/story/_/id/36146138/million-dollar-shot-michael-jordan-chicago-bulls-1993
+
+https://news.ycombinator.com/item?id=37033899
+
+#### Write your passwords down (2010)
+
+https://blog.jgc.org/2010/12/write-your-passwords-down.html
+
+https://news.ycombinator.com/item?id=37033814
+
+#### Launch HN: GitStart (YC S19) -- Remote junior devs working on production PRs
+
+https://news.ycombinator.com/item?id=37033753
+
+https://news.ycombinator.com/item?id=37033753
+
+#### Ask HN: What's the coolest physical thing you've made?
+
+https://news.ycombinator.com/item?id=37033652
+
+https://news.ycombinator.com/item?id=37033652
+
+#### PSA: Intel Graphics Drivers Now Collect Telemetry by Default
+
+https://www.techpowerup.com/312122/psa-intel-graphics-drivers-now-collect-telemetry-by-default
+
+https://news.ycombinator.com/item?id=37033475
+
+#### Some tactics for writing in public
+
+https://jvns.ca/blog/2023/08/07/tactics-for-writing-in-public/
+
+https://news.ycombinator.com/item?id=37033403
+
+#### Perhaps it's time to sideline the internet when evaluating collective reality
+
+https://www.fastcompany.com/90933474/taylor-swifts-eras-tour-is-a-reminder-that-social-media-is-not-real-life
+
+https://news.ycombinator.com/item?id=37033398
+
+### Phoronix
+
+#### Linux Decides To Disable RNG On All AMD fTPMs
+
+https://www.phoronix.com/news/Linux-Disables-RNG-AMD-fTPMs
+
+#### How The Radeon Professional Graphics Performance Changed Over 13 Years
+
+https://www.phoronix.com/review/radeon-pro-13
+
+#### Linux Containers Forks LXD Project As \"Incus\"
+
+https://www.phoronix.com/news/Linux-Containers-LXD-Incus
+
+#### Google May Reconsider JPEG-XL Image Support Within Chrome
+
+https://www.phoronix.com/news/Chrome-JPEG-XL-Seconds
+
+#### Window Maker 0.96 Released For Window Manager Inspired By NeXTSTEP UI
+
+https://www.phoronix.com/news/WindowMaker-0.96
+
+#### Sourceware Looking To Expand Services, Diversify Partners
+
+https://www.phoronix.com/news/Sourceware-25
+
+#### AMDVLK 2023.Q3.1 Released With Phoenix APU Support, Performance Tuning
+
+https://www.phoronix.com/news/AMDVLK-2023.Q3.1
+
+#### Linux 6.6 Will Be Able To Handle Temperature Reporting When Having More Than 32 DIMMs
+
+https://www.phoronix.com/news/Linux-6.6-32-DIMMs-Temperature
+
+#### GNOME 45's Mutter Implements A Dedicated KMS Thread
+
+https://www.phoronix.com/news/GNOME-Mutter-KMS-Thread
+
+### GitHub
+
+#### invoke-ai/InvokeAI
+
+https://github.com/invoke-ai/InvokeAI
+
+InvokeAI is a leading creative engine for Stable Diffusion models,
+empowering professionals, artists, and enthusiasts to generate and
+create visual media using the latest AI-driven technologies. The
+solution offers an industry leading WebUI, supports terminal use through
+a CLI, and serves as the foundation for multiple commercial products.\
+Language: Jupyter Notebook\
+Stars: 17736\
+Forks: 1848
+
+#### neovim/neovim
+
+https://github.com/neovim/neovim
+
+Vim-fork focused on extensibility and usability\
+Language: Vim Script\
+Stars: 68176\
+Forks: 4803
+
+#### microsoft/Web-Dev-For-Beginners
+
+https://github.com/microsoft/Web-Dev-For-Beginners
+
+Lessons, 12 Weeks, Get Started as a Web Developer\
+Language: JavaScript\
+Stars: 73358\
+Forks: 11523
+
+#### vlang/v
+
+https://github.com/vlang/v
+
+Simple, fast, safe, compiled language for developing maintainable
+software. Compiles itself in \<1s with zero library dependencies.
+Supports automatic C =\> V translation. https://vlang.io\
+Language: V\
+Stars: 34078\
+Forks: 2081
+
+#### gothinkster/realworld
+
+https://github.com/gothinkster/realworld
+
+\"The mother of all demo apps\" --- Exemplary fullstack Medium.com clone
+powered by React, Angular, Node, Django, and many more\
+Language: TypeScript\
+Stars: 75770\
+Forks: 7014
+
+#### burn-rs/burn
+
+https://github.com/burn-rs/burn
+
+Burn - A Flexible and Comprehensive Deep Learning Framework in Rust\
+Language: Rust\
+Stars: 2819\
+Forks: 96
+
+#### DioxusLabs/dioxus
+
+https://github.com/DioxusLabs/dioxus
+
+Fullstack GUI library for desktop, web, mobile, and more.\
+Language: Rust\
+Stars: 12427\
+Forks: 394
+
+### Dribbble
+
+#### Wells Coffee
+
+https://dribbble.com/shots/22179865
+
+#### Fun Camp
+
+https://dribbble.com/shots/22148674
+
+#### DWS Logo Design Process
+
+https://dribbble.com/shots/22169937
+
+#### Minimalist Marks & Lettermarks Collection
+
+https://dribbble.com/shots/22165955
+
+#### Student app interaction
+
+https://dribbble.com/shots/22162953
+
+#### R Logo Mark Design - Reliance
+
+https://dribbble.com/shots/22149696
+
+#### Skilljet UI-UX
+
+https://dribbble.com/shots/22167644
+
+#### Letter Brand Collateral, branding assets, marketing, application
+
+https://dribbble.com/shots/22059133
+
+#### Albert Mohler 30th Anniversary
+
+https://dribbble.com/shots/22158850
+
+#### Descript Website Design: business landing web page site designer
+
+https://dribbble.com/shots/21938588
+
+#### Coinread Admin Dashboard: Analytics UX UI
+
+https://dribbble.com/shots/21748525
+
+#### Slippy's Fruit CO.
+
+https://dribbble.com/shots/22149077
+
+#### New Jersey
+
+https://dribbble.com/shots/22158967
+
+#### Syncs AI Branding
+
+https://dribbble.com/shots/22146238
+
+#### KUSHCLOUD // Website
+
+https://dribbble.com/shots/22152011
+
+#### The Voynich manuscript
+
+https://dribbble.com/shots/22167024
+
+#### Tweeq Mobile App Onboarding
+
+https://dribbble.com/shots/22161251
+
+#### Nightweaver - Book Cover
+
+https://dribbble.com/shots/22185922
+
+#### Letter Q -- Logo Concept // For SALE
+
+https://dribbble.com/shots/22163394
+
+#### Actual toys
+
+https://dribbble.com/shots/22177362
+
+#### Stable Website
+
+https://dribbble.com/shots/21870162
+
+#### akepa
+
+https://dribbble.com/shots/22204576
+
+#### S + Yin-Yang
+
+https://dribbble.com/shots/22151672
+
+#### Caleican - Modern Calendar Web App Saas Dashboard
+
+https://dribbble.com/shots/22184482
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### 青铜时代的陨铁箭头
+
+https://www.solidot.org/story?sid=75729
+
+#### T 细胞遭遇癌细胞数小时后就筋疲力尽
+
+https://www.solidot.org/story?sid=75728
+
+#### Reddit 抗议基本结束
+
+https://www.solidot.org/story?sid=75727
+
+#### 研究发现在同伴身后游泳可减少 40% 阻力
+
+https://www.solidot.org/story?sid=75726
+
+#### 富国银行客户年内第二次遭遇存款消失
+
+https://www.solidot.org/story?sid=75725
+
+#### 中国汽车出口量上半年跃居世界第一
+
+https://www.solidot.org/story?sid=75724
+
+#### 《芭比》成为第一部票房突破 10 亿美元的女性导演作品
+
+https://www.solidot.org/story?sid=75723
+
+#### 《博德之门III》同时在线玩家数超过 81 万
+
+https://www.solidot.org/story?sid=75722
+
+#### 澳大利亚现金流通量下降
+
+https://www.solidot.org/story?sid=75721
+
+#### 高通投资 RISC-V 芯片 
+
+https://www.solidot.org/story?sid=75720
+
+#### 美国科学家在激光核聚变实验中第二次实现输出能量超过输入能量 
+
+https://www.solidot.org/story?sid=75719
+
+#### 为吸引员工重返办公室 Google 提供特价园区酒店
+
+https://www.solidot.org/story?sid=75718
+
+#### Twitch 网红因在纽约引发骚乱被拘留
+
+https://www.solidot.org/story?sid=75717
+
+#### Vim 作者 Bram Moolenaar 去世
+
+https://www.solidot.org/story?sid=75716
+
+#### NASA 恢复与航海家二号的通信
+
+https://www.solidot.org/story?sid=75715
+
+#### Kagi 搜索用户将 CSDN 加入屏蔽域名名单
+
+https://www.solidot.org/story?sid=75714
+
+#### TikTok 欧洲用户将可选择关闭个性化推荐算法
+
+https://www.solidot.org/story?sid=75713
+
+### V2EX
+
+#### \[问与答\] 请教关于 wireguard 连回家的问题
+
+https://www.v2ex.com/t/963230
+
+#### \[问与答\] 事接上回，父母矛盾激化，我很想逃避
+
+https://www.v2ex.com/t/963229
+
+#### \[问与答\] 请问大家推测自己家用的宽带是否会没有 IPV4 地址，大约什么时候会发生？
+
+https://www.v2ex.com/t/963227
+
+#### \[日本\] 日本的显卡价格会贵很多吗？
+
+https://www.v2ex.com/t/963226
+
+#### \[问与答\] 请教一个关于网页自动提前加载靠底部图片内容的问题
+
+https://www.v2ex.com/t/963225
+
+#### \[职场话题\] 我给公司部署了一套 ChatGPT, 老板说没有目的性, 给我这件事的绩效打了个 C, 如何评价这一现象?
+
+https://www.v2ex.com/t/963224
+
+#### \[生活\] 在美国经历假房东骗局
+
+https://www.v2ex.com/t/963223
+
+#### \[问与答\] \[求助\] 我更新 win11 后，使用 wsl 时关闭微软的终端（terminal）会导致 SSH 关闭， xshell 断开
+
+https://www.v2ex.com/t/963222
+
+#### \[程序员\] IM 私聊应该都是点对点发送消息吧？
+
+https://www.v2ex.com/t/963221
+
+#### \[加密货币\] PayPal 刚刚宣布 自行发行稳定币 PYUSD
+
+https://www.v2ex.com/t/963219
+
+#### \[程序员\] 云服务器-chrome 浏览器运行 webGL 游戏怎么优化？
+
+https://www.v2ex.com/t/963218
+
+#### \[问与答\] 请推荐一款 Android 上的 SSH 客户端,挺为难
+
+https://www.v2ex.com/t/963217
+
+#### \[问与答\] 请教一下，有没有什么 bot 可以监控 GitHub releases 和 hub.docker.com 中某个资源有新的版本时就发送通知的吗？
+
+https://www.v2ex.com/t/963216
+
+#### \[NAS\] 关于 unraid+虚拟黑裙备份照片的一些问题
+
+https://www.v2ex.com/t/963215
+
+#### \[区块链\] 想知道 v2 上有多少人每天都会看币圈
+
+https://www.v2ex.com/t/963214
+
+#### \[奇思妙想\] 产品共建，收益共享，欢迎加入我的飞书组织 \[明志科技\]
+
+https://www.v2ex.com/t/963213
+
+#### \[宽带症候群\] 关于光猫桥接影响网速的问题，如何通过 tr069 获取 NTP?
+
+https://www.v2ex.com/t/963211
+
+#### \[宽带症候群\] openwrt 如何更好的控制 IPv6 解析
+
+https://www.v2ex.com/t/963209
+
+#### \[Surge\] Surge for Mac 车位
+
+https://www.v2ex.com/t/963207
+
+#### \[酷工作\] 如果今年真是未来十年最好一年
+
+https://www.v2ex.com/t/963206
+
+#### \[程序员\] 设备已经 root，如何安装谷歌套件？
+
+https://www.v2ex.com/t/963205
+
+#### \[问与答\] 求批量的 win 端图片文档自动矫正工具
+
+https://www.v2ex.com/t/963204
+
+#### \[问与答\] 你现在几岁？现在的存款有多少？买过最贵的东西是什么呢？你有什么话想跟刚进社会的年轻人说呢？
+
+https://www.v2ex.com/t/963203
+
+#### \[Spotify\] Spotify 美区拼车
+
+https://www.v2ex.com/t/963202
+
+#### \[NAS\] PVE 黑群晖 7.0.1 引导，手动升级 7.1.1 系统至 7.2 导致无法正常引导开机的问题解决
+
+https://www.v2ex.com/t/963201
+
+#### \[酷工作\] 滴滴出行招聘前端开发月薪 2 万 4 万不等
+
+https://www.v2ex.com/t/963200
+
+#### \[Apple\] Apple 应该禁用 标记为遗失的 AirPods
+
+https://www.v2ex.com/t/963199
+
+#### \[问与答\] 很好奇如何定制一个自己的安卓系统，就像 coloros 一样。
+
+https://www.v2ex.com/t/963197
+
+#### \[macOS\] mac 更新 14.0 Beta 版(23A5301h) 后， zoom 拒绝连接
+
+https://www.v2ex.com/t/963194
+
+#### \[职场话题\] 经济进入全面通缩对生活会有什么影响？
+
+https://www.v2ex.com/t/963193
+
+#### \[生活\] 来点好玩有趣的 APP 推荐吧？
+
+https://www.v2ex.com/t/963192
+
+#### \[问与答\] 请问一下无主机玩家，值得为 PC 玩 3A 游戏买手柄吗？
+
+https://www.v2ex.com/t/963191
+
+#### \[问与答\] 请问 PDD 购买的大疆 Action3 买到了官方翻新机，已经激活且过了无理由退换期如何能退货？
+
+https://www.v2ex.com/t/963190
+
+#### \[分享创造\] 上线了一个免费网址缩短 Chrome 插件，欢迎试用反馈，超多短域名可供使用
+
+https://www.v2ex.com/t/963189
+
+#### \[路由器\] 帮忙参考一下，一个网络端口如何通过有线连接多台网络设备
+
+https://www.v2ex.com/t/963188
+
+#### \[程序员\] 以前那种传奇之类的游戏辅助工具都是用的什么技术？
+
+https://www.v2ex.com/t/963186
+
+#### \[Apple\] M 系列 CPU -- Mac 电脑上虚拟 iPad OS 用什么方法比较好？ \[操作使用移动 App\]
+
+https://www.v2ex.com/t/963185
+
+#### \[问与答\] 现在入手哪一款 iPad 性价比较高，用途国产游戏（吃鸡 lol）+看电影。
+
+https://www.v2ex.com/t/963184
+
+#### \[Apple\] mac 用什么 ssh 还要带文件管理的,类似 finalshell
+
+https://www.v2ex.com/t/963183
+
+#### \[问与答\] futter 有类似 koodo-reader 功能的阅读器吗？
+
+https://www.v2ex.com/t/963182
+
+#### \[问与答\] 看到这个是真的难崩
+
+https://www.v2ex.com/t/963180
+
+#### \[OpenWrt\] mybooklive 刷 OpenWrt 后写入速度非常慢
+
+https://www.v2ex.com/t/963179
+
+#### \[酷工作\] 招聘贴-字节跳动-抖音支付团队
+
+https://www.v2ex.com/t/963178
+
+#### \[问与答\] 求推荐网络安全学习路线
+
+https://www.v2ex.com/t/963177
+
+#### \[Apple\] 发车： Surge 5 mac 版发车 5 人版
+
+https://www.v2ex.com/t/963176
+
+#### \[程序员\] Boss 直聘 APP 端为什么通过 Charles 之类的软件完全抓不到页面请求的接口（其他的 APP 有的是可以抓取到 https 接口的）？这种连接口都抓不到的都是采用服务端端渲染的方式吗？还是有别的什么处理？
+
+https://www.v2ex.com/t/963175
+
+#### \[问与答\] 2023 年目前还有哪些国家和地区是可以合法购买虚拟币的？
+
+https://www.v2ex.com/t/963174
+
+#### \[杭州\] 请问哪里能找到下半年杭州即将开业的商业中心都在哪？
+
+https://www.v2ex.com/t/963173
+
+#### \[macOS\] 求推荐 Mac 的付费软件，不要超过 20 刀
+
+https://www.v2ex.com/t/963172
+
+#### \[酷工作\] \[上海\] 米哈游 miHoYo 2023.8.7 最新招聘信息（可内推哦）
+
+https://www.v2ex.com/t/963169
+
+## Generic News
+
+### AP News
+
+#### Watch the trailer for "20 days in Mariupol," AP's powerful documentary about the brutal Russian siege
+
+https://apnews.com/article/049664029268
+
+NEW YORK - The trailer for the documentary "20 Days in Mariupol" has
+been released ahead of the film's first theatrical showing in New York
+next month. The feature-length documentary is a co-production between
+The Associated Press and\...
+
+#### Supreme Court won't review North Carolina's decision to nix license plates with Confederate flag
+
+https://apnews.com/article/6042b7db4218798b93dbaa8924272cec
+
+WASHINGTON (AP) --- The Supreme Court said Monday it won't review North
+Carolina's decision to stop issuing specialty license plates with the
+Confederate flag. As is typical, the court did not comment in declining
+to hear the case, which\...
+
+#### British man detained after climbing 72nd floor of Seoul skyscraper
+
+https://apnews.com/article/27e5e133633521218539efbf8a71e861
+
+SEOUL, South Korea (AP) --- A British man was detained after climbing
+more than half way up the world's fifth-tallest skyscraper in Seoul with
+only his bare hands on Monday, authorities said. More than 90 emergency,
+police and other\...
+
+#### Driver charged after bus carrying wedding guests in Australia rolls over, killing 10 and injuring 25
+
+https://apnews.com/article/7f9aecb895a24b301c29f54ca5ea6783
+
+CANBERRA, Australia (AP) --- The driver of a bus was charged Monday
+after the vehicle carrying wedding guests rolled over on a foggy night
+in Australia's wine country, killing 10 people and injuring 25 in the
+nation's most deadly road\...
+
+#### German shepherd wounded in Ukraine gets new start as Hungarian police dog
+
+https://apnews.com/article/db54dcf17eafcb66e6380718ef49aa83
+
+BUDAPEST, Hungary (AP) --- After a rocket attack in eastern Ukraine,
+half of Rambo's face was mangled and bloody. Shrapnel had ravaged the
+right side of his head, and it was uncertain if he would survive. The
+3-year-old German shepherd\...
+
+#### Phoenix Mercury make travel 'adjustments' following airport incident with Brittney Griner
+
+https://apnews.com/article/70b4daf5e5369b14f8e8c3abc7388a68
+
+INDIANAPOLIS (AP) --- Phoenix Mercury coach Vanessa Nygaard had one goal
+before taking the court Sunday. She wants the WNBA to take additional
+steps to keep her team's traveling parties safe and secure. One day
+after Mercury center\...
+
+#### Report: Billionaire investor, philanthropist George Soros cedes control of empire to a younger son
+
+https://apnews.com/article/95e7a9858981b8a0b303402176025cb5
+
+NEW YORK (AP) --- Billionaire investor turned philanthropist George
+Soros is ceding control of his \$25 billion empire to a younger son,
+Alexander Soros, according to an exclusive interview with The Wall
+Street Journal published online\...
+
+#### 'Transformers' edge out 'Spider-Verse' to claim first place at box office
+
+https://apnews.com/article/015242d0f97388fff2db98403ae11d7f
+
+It was Miles Morales and the Spider-Verse versus the "Transformers" at
+the box office this weekend and the bots came out on top. "
+Transformers: Rise of the Beasts," the seventh entry in the series, took
+the No. 1 spot in its first\...
+
+#### Novak Djokovic wins his 23rd Grand Slam title by beating Casper Ruud in the French Open final
+
+https://apnews.com/article/d7bda9f570b010ea48cf8a05b397291e
+
+PARIS (AP) --- Novak Djokovic made clear for years this was his goal.
+What drove him. What inspired him. The biggest titles from his sport's
+biggest stages were Djokovic's main aim and now he finally stands alone
+--- ahead of Rafael\...
+
+#### Hospitalized Pope Francis walks a bit, follows Mass on TV, lunches with medical personnel and aides
+
+https://apnews.com/article/e13e8c7da509be29a695f4496a71d13b
+
+ROME (AP) --- Sticking to doctors' advice, Pope Francis on Sunday
+skipped his customary weekly public blessing as he convalesces from
+abdominal surgery in a Rome hospital, but walked a few steps, followed
+Mass on TV and did some work, the\...
+
+#### England's health service says it won't give puberty blockers to children at gender clinics
+
+https://apnews.com/article/abd9145484006fea23de6b4656c937da
+
+LONDON (AP) --- The publicly funded health service in England has
+decided it will not routinely offer puberty-blocking drugs to children
+at gender identity clinics, saying more evidence is needed about the
+potential benefits and harms\...
+
+#### Conor McGregor knocks out Heat mascot in bizarre promotion at NBA Finals
+
+https://apnews.com/article/097557b5dd00685bb5cdc6d418f9bbe9
+
+MIAMI (AP) --- Former UFC champion Conor McGregor knocked out the Miami
+Heat mascot in a midgame bit that went wrong. Burnie --- more
+specifically, the man who occupies Burnie's costume --- briefly sought
+medical attention Friday night\...
+
+#### Six people shot in parking lot outside Houston club, police say
+
+https://apnews.com/article/7e00d802be71c9e9385b6cb79079f90e
+
+HOUSTON (AP) --- Police in Houston say six people were shot and injured
+after someone opened fire in a crowded parking lot outside of a club in
+Houston early Sunday. Police Chief Troy Finner said officers found six
+people shot following a\...
+
+### Reuters
+
+#### West African leaders to meet on Niger after junta defies deadline
+
+https://www.reuters.com/world/africa/niger-waits-west-african-blocs-response-after-junta-rejects-ultimatum-2023-08-07/
+
+Summary: Bloc has warned of possible military action US, EU say there is
+still time for mediation Niger airspace closure causes disruption to
+flights US diplomat says talks with junta were difficult\...
+
+#### Top US official traveled to Niger and held 'difficult' talks with junta officials
+
+https://www.reuters.com/world/africa/top-us-official-traveled-niger-held-difficult-talks-with-junta-officials-2023-08-07/
+
+U.S. State Department Under Secretary for Public Affairs Victoria Nuland
+attends a news conference at the Presidential Palace in Nicosia, Cyprus,
+April 7, 2022. REUTERS/Yiannis Kourtoglou/File Photo U.S. State
+Departments\...
+
+#### Chief of Texas' largest county takes medical leave for depression
+
+https://www.reuters.com/world/us/chief-texas-largest-county-takes-medical-leave-depression-2023-08-07/
+
+Harris County Judge Lina Hidalgo addresses the news media, the day after
+a deadly crush of fans during a performance by rapper Travis Scott at
+the Astroworld Festival, in Houston, Texas, U.S. November 6, 2021.
+REUTERS/Daniel Kramer/File\...
+
+#### Morning Bid: Awaiting another China exports slump
+
+https://www.reuters.com/markets/global-markets-view-asia-graphics-pix-2023-08-07/
+
+Containers are seen at the Yangshan Deep-Water Port in Shanghai, China
+October 19, 2020. REUTERS/Aly Song/File Photo A look at the day ahead in
+Asian markets from Jamie McGeever, financial markets columnist. Wall
+Street and world stocks\...
+
+#### Son of Spanish actor detained in Thailand in grisly murder case
+
+https://www.reuters.com/world/asia-pacific/son-spanish-actor-detained-thailand-grisly-murder-case-2023-08-07/
+
+Daniel Sancho Bronchal, the son of Spanish actor Rodolfo Sancho Aguirre
+is escorted while assisting Thai police with investigations after he was
+arrested on charges of murder in the death and dismemberment of his
+Colombian travelling\...
+
+#### Biden signs law implementing first part of U.S. trade pact with Taiwan
+
+https://www.reuters.com/world/us/biden-signs-law-implementing-first-part-us-trade-pact-with-taiwan-2023-08-07/
+
+Flags of Taiwan and U.S. are placed for a meeting in Taipei, Taiwan
+March 27, 2018. REUTERS/Tyrone Siu/File Photo U.S. President Joe Biden
+delivers remarks on healthcare coverage and the economy, at the White
+House in Washington, U.S\...
+
+#### Exclusive: North Korean hackers breached top Russian missile maker
+
+https://www.reuters.com/technology/north-korean-hackers-breached-top-russian-missile-maker-2023-08-07/
+
+Summary: Hackers breached systems at NPO Mashinostroyeniya Russian firm
+produces hypersonic missiles, satellites Discovery comes shortly after
+Russian defence minister visits Pyongyang North Korean leader Kim Jong
+Un and Russia\...
+
+#### US government offices close in DC due to severe storm threat
+
+https://www.reuters.com/world/us/us-government-offices-close-dc-due-severe-storm-threat-2023-08-07/
+
+The U.S. Capitol building is seen in Washington, U.S., June 24, 2023.
+REUTERS/Elizabeth Frantz U.S. government offices in the Washington area
+closed early on Monday due to a severe storm threat and tornado watch
+that was disrupting air\...
+
+#### Ukraine says Russian missile strikes on apartment buildings kill five in east
+
+https://www.reuters.com/world/europe/ukraine-says-russian-missile-strikes-apartment-buildings-kill-five-east-2023-08-07/
+
+A view shows a building destroyed during a Russian missile strike, amid
+Russias attack on Ukraine, in Pokrovsk, Donetsk region, Ukraine August
+7, 2023. Head of the Donetsk Regional Military Administration Pavlo
+Kyrylenko/\...
+
+#### Pakistan to privatise loss-making national airline
+
+https://www.reuters.com/business/aerospace-defense/pakistan-privatise-loss-making-national-airline-2023-08-07/
+
+A Pakistan International Airlines (PIA) passenger plane prepares to take
+off from the Benazir International airport in Islamabad, Pakistan,
+February 9, 2016. REUTERS/Faisal Mahmood/File Photo Pakistan plans to
+privatise its loss-making\...
+
+#### Ukraine says Jeddah talks 'huge blow' to Russia, new meeting agreed
+
+https://www.reuters.com/world/ukraine-says-jeddah-talks-huge-blow-russia-new-meeting-agreed-2023-08-07/
+
+Chief of Staff of Ukrainian Presidential Office Andriy Yermak speaks
+during a press conference with member of the International Working Group
+on the Environmental Consequences of War after a meeting with
+Ukraines\...
+
+#### China tells Russia it will uphold 'impartial' position on Ukraine
+
+https://www.reuters.com/world/china-tells-russia-it-will-uphold-impartial-position-ukraine-2023-08-07/
+
+Russias Foreign Minister Sergei Lavrov shakes hands with Chinas Director
+of the Office of the Central Foreign Affairs Commission Wang Yi on the
+sideline of the ASEAN Foreign Ministers meeting in Jakarta\...
+
+#### With Trump a likely no show, DeSantis emerges as top target at 2024 debate
+
+https://www.reuters.com/world/us/desantis-faces-major-test-first-2024-republican-debate-2023-08-07/
+
+Florida Governor Ron Desantis speaks as he is interviewed by Former Fox
+News commentator Tucker Carlson (not pictured) during the Family
+Leadership Summit at the Iowa Events Center, in Des Moines, Iowa, U.S.,
+July 14, 2023. REUTERS/Scott\...
+
+### 联合早报
+
+#### 台湾碳权交易所揭牌加速净零转型目标 但八成中小企业有"碳焦虑"
+
+https://www.zaobao.com/news/china/story20230807-1421545
+
+台湾碳权交易所星期一（8月7日）正式揭牌，总统蔡英文在典礼上表示，碳权交易所能让台湾跟上国际净零转型潮流。不过有调查显示，台湾高达八成中小企业因减碳压力而焦虑。
+为因应2050年达成净零排放目标，台湾行政院国家发展基金和证券交易所共同出资设立碳交所。考量到高雄市列管高碳排的石化和钢铁厂等高达90家，碳排放占台湾总排放的20%，故台湾政府将碳交所总部设在高雄，资讯交易中心设在台北，分工营运......
+
+#### 中国洪灾引发舆情 张国清赴黑龙江指导抗洪工作
+
+https://www.zaobao.com/news/china/story20230807-1421544
+
+洪灾导致黑龙江部分地区断电并与外界失联，图为8月6日居民在海林市长汀镇一广场上的应急通信车前与外界通话。
+（新华社）
+中国洪灾暴露地方治理问题，在河北居民疏散迟缓、外地捐赠物资遭拒等问题引发舆情后，中国国务院副总理张国清周末赴天津和黑龙江指导抗洪工作，强调要最大程度减少人员伤亡和洪涝灾害损失。
+受访学者分析，京津冀和东北的严重灾情凸显地方政府预备不足，灾后巨额的赔偿问题也将为地方财政带来巨大压力......
+
+#### 港警退休副处长刘赐蕙 传将出任香港国安委新职
+
+https://www.zaobao.com/news/china/story20230807-1421531
+
+刘赐蕙是香港警务处首位负责国家安全处的警队副处长，警务生涯长达38年。（互联网）
+已退休的香港警务处前副处长刘赐蕙，据报将加盟香港特区维护国家安全委员会（国安委）出任新职位。
+据《星岛日报》星期一（8月7日）引述消息称，继香港警务处前高级助理处长林晓彤加入国安委担任副秘书长后，今年4月退休的刘赐蕙也将加盟国安委......
+
+#### 美日韩峰会前 中俄军舰赴阿拉斯加附近巡逻
+
+https://www.zaobao.com/news/china/story20230807-1421518
+
+中俄海军参演舰艇编队7月20日在日本海中部海空域进行"北部•联合-2023"演习中，开展海空护航演练。（中国国防部网站）
+中国与俄罗斯近期军事互动频繁，美国媒体8月6日报道，有11艘中俄海军军舰前一周在美国阿拉斯加海岸附近巡逻，美国为此派出四艘驱逐舰监视。受访学者分析，中俄6月起便陆续在韩、日周边演训，此次行动又选在美日韩元首峰会前夕，具有强烈政治信号......
+
+#### 日本前首相麻生太郎访台 24架次大陆军机出没台海
+
+https://www.zaobao.com/news/china/story20230807-1421516
+
+头戴绅士帽的麻生太郎（前右）星期一（8月7日）中午率团抵达台北松山机场，吸引不少民众拍照，他也微笑挥手示意。（自由时报）
+日本自民党副总裁、前首相麻生太郎星期一（8月7日）率团访问台湾三天。24架次大陆军机在台海周边活动，其中12架次越过海峡中线。
+82岁的麻生太郎是日本执政党第二号人物，也是1972年日本与中华民国政府断交后，51年来访台的自民党最高层级干部，日媒和台媒普遍视此行为台日外交突破......
+
+#### 王纬温：贵州村超的由下而上
+
+https://www.zaobao.com/news/china/story20230807-1421272
+
+被称为"现象级乡村体育嘉年华"的贵州"村超"7月29日迎来决赛，车江一村足球队在点球大战中，以4比3战胜忠诚村足球队并赢得冠军，为逾两个月的乡村业余足球联赛画下圆满句点。
+村超的全称是"榕江（三宝侗寨）和美乡村足球超级联赛"，是中国近年少见、由下而上的大规模民间自发活动，身临其中让人感受到农村基层焕发出的旺盛活力和生命力，不似一般官方由上而下主导的活动，更多带给参与者制式的僵化之感......
+
+#### 中美参与下沙特和平峰会落幕 各国同意和平解决方案须尊重乌主权与领土完整
+
+https://www.zaobao.com/news/china/story20230807-1421278
+
+中国、美国、印度等40多个国家代表参加的乌克兰和平峰会，在沙特阿拉伯第二大城市吉达落幕。（路透社）
+中国、美国、印度等40多个国家代表参加的乌克兰和平峰会，在沙特阿拉伯第二大城市吉达落幕，与会者同意就基辅此前提出的10点和平计划展开进一步会谈。
+乌克兰总统泽连斯基去年提出的10点和平计划，包括恢复乌克兰领土完整以及俄罗斯撤军。
+综合路透社、法新社和彭博社报道，峰会在周六晚间结束，没有发表宣言......
+
+#### 中国东北提高洪水响应级别 官方再拨款支持防汛救灾
+
+https://www.zaobao.com/news/china/story20230806-1421271
+
+受台风"杜苏芮"连日暴雨影响，松花江支流水位达到危险水平，中国水利部星期天（8月6日）提高了东北地区洪水防御应急响应级别。中央财政同日拨款3.5亿元（人民币，下同，6500万新元），以支持防汛救灾工作。
+综合新华社、路透社报道，中国水利部星期天上午10时将内蒙古、吉林、黑龙江的洪水防御应急响应，从四级提升至三级......
+
+#### 山东德州5.5级地震致20伤 126处房屋倒塌
+
+https://www.zaobao.com/news/china/story20230806-1421245
+
+中国山东省德州市平原县8月6日发生里氏5.5级地震，造成126处房屋倒塌，20人受伤。这是山东省10年来最大的一次地震。
+图为平原县王打卦镇郭家堂村，一处房屋和燃气管道因地震受损。（新华社）
+中国山东省德州市发生里氏5.5级地震，已造成126处房屋倒塌，20人受伤。
+综合新华社、中新社报道，德州市平原县星期天（8月6日）凌晨2时33分发生5.5级地震，震源深度10公里......
+
+#### 台湾蓝绿互指乱花钱 侯友宜批蔡政府"债留曾孙"
+
+https://www.zaobao.com/news/china/story20230806-1421231
+
+台湾蓝绿互指对方执政时乱花钱。国民党指民进党政府频频举债以支应前瞻特别预算，台湾总统蔡英文反批前总统马英九留下巨债，国民党总统参选人侯友宜反指蔡政府破坏财政纪律，"不只债留子孙，恐将债留曾孙"......
+
+#### 港深水埗五个殖民时代旧街牌疑被盗
+
+https://www.zaobao.com/news/china/story20230806-1421224
+
+香港深水埗五个殖民时代的T字形旧街牌集体消失，怀疑被人盗走，路政署已就事件报警。
+综合星岛网、香港01等港媒报道，多名关注香港路牌的保育人士最近两星期，分别在深水埗福华街、北河街、基隆街及鸭寮等，发现至少有四五个依附在建筑外墙的T形旧街牌离奇"消失"。
+香港路政署说，经巡查发现深水埗区五个旧式T字形街牌疑被人非法移除，已就事件报警......
+
+#### 北京老城胡同腾笼换鸟走近年轻人
+
+https://www.zaobao.com/news/china/story20230806-1421223
+
+北京东城区美术馆后街77文创园的小剧场，正在上演沉浸式互动话剧《大真探赵赶鹅》，演出受到年轻人追捧。（孟丹丹摄）
+霓虹灯闪烁的胡同歌舞厅里，摇滚青年狂放不羁地宣泄自我，隔壁派出所的民警在为接连的凶杀案彻夜难寐，大杂院的街坊邻里则在不紧不慢摇着蒲扇聊着天\....
+北京东城区美术馆后街77文创园300平方米的剧场里，一百多名观众沉浸在互动话剧《大真探赵赶鹅》的演出中......
+
+#### 史上最难就业季 中国大学生转向短视频直播行业
+
+https://www.zaobao.com/news/china/story20230806-1420349
+
+今年高校毕业季，是冠病疫情三年后的第一个毕业季。中国进入就业市场的应届毕业生数字创下历史新高，竞争异常激烈。不少大学生选择进入短视频直播行业，寻求发展机遇，更有一些大学生在大学期间利用自媒体创造收入，有意日后发展副业。
+23岁的敏玲今年从广东一所高职院校毕业，她的大学专业与艺术设计有关，近几个月来她在网上投递了不少简历，但基本上石沉大海......
+
+#### 暴雨连续袭击中国京津冀和东北地区 学者：应检讨分洪组织是否到位
+
+https://www.zaobao.com/news/china/story20230805-1421015
+
+受连续强降雨影响，吉林省舒兰市部分乡镇洪水满贯，图为当地七里乡的农田遭洪水淹没，化为一片汪洋。（新华社）
+在京津冀地区造成严重洪涝后，台风"杜苏芮"带来的暴雨转向中国东北，连日来袭击被称为"中国粮仓"的黑龙江和吉林，当地大片农田被淹，一些村庄失联，有农民担忧大米产量减半......
+
+#### 中国严查高校毕业生就业数据弄虚作假
+
+https://www.zaobao.com/news/china/story20230805-1420999
+
+继中国官媒报道有高校对学生就业数据造假后，中国教育部近日派出多个工作组，对高校规范开展毕业去向登记监测、严查就业数据弄虚作假等情况。
+新华社旗下的《半月谈》早前揭露了中国高校在学生就业数据上造假的情况。一所高校就业指导中心负责人透露，学校对外宣称有90%的就业率，实际上今年只有20%的毕业生找到了工作。相关文章随后被官方下架......
+
+#### 中国时隔九年首次对韩国毒犯执行死刑
+
+https://www.zaobao.com/news/china/story20230805-1420998
+
+韩国外交部透露，中国星期五（8月4日）对一名在华贩毒的韩国公民处以死刑。这是中国政府自2014年以来，时隔九年首次对韩国毒犯执行死刑。
+据韩联社报道，韩国外交部官员星期五说，中国政府发来通知称，在华贩毒而被判死刑的韩国公民A某在当天被广东省广州市中级人民法院执行死刑......
+
+#### 顶住美国压力 南非拒禁华为
+
+https://www.zaobao.com/news/china/story20230805-1420996
+
+南非表明不会屈从美国压力停用中国电信巨头华为的设备。图为华为参与今年6月在上海举行的世界移动通信大会。（路透社）
+南非表明不会屈从美国压力停用中国电信巨头华为的设备，显示尽管华为近三年来被欧美多国制裁、禁用，但在中国政府和盟友的支持下，被寄予厚望的华为正在走出制裁阴影，有东山再起之势......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

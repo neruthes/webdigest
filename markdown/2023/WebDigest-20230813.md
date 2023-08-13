@@ -1,0 +1,995 @@
+Other formats: [PDF]() / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20230813.html)
+
+
+# Web Digest 2023-08-13
+
+
+## Developers
+
+### Hacker News
+
+#### Auditory illusions with examples from Daft Punk
+
+https://www.ugu.rs/blog/auditory-illusions-with-samples-from-daft-punk/
+
+https://news.ycombinator.com/item?id=37103802
+
+#### The US government is taking a step toward space-based nuclear propulsion
+
+https://arstechnica.com/space/2023/07/nasa-seeks-to-launch-a-nuclear-powered-rocket-engine-in-four-years/
+
+https://news.ycombinator.com/item?id=37102610
+
+#### My \$0-\>\$100M-\>\$0 in 5 years story
+
+https://old.reddit.com/r/startups/comments/15p8qrx/my_0100m0_in_5_years_story/
+
+https://news.ycombinator.com/item?id=37102442
+
+#### A conversation with a newspaper owner raided by cops
+
+https://thehandbasket.substack.com/p/a-conversation-with-the-newspaper
+
+https://news.ycombinator.com/item?id=37102271
+
+#### Exploring the Internals of Linux v0.01
+
+https://seiya.me/blog/reading-linux-v0.01
+
+https://news.ycombinator.com/item?id=37101588
+
+#### Deep Learning Systems
+
+https://dlsyscourse.org/lectures/
+
+https://news.ycombinator.com/item?id=37101515
+
+#### NASA's Software Catalog offers hundreds of new software programs for free
+
+https://software.nasa.gov/
+
+https://news.ycombinator.com/item?id=37100565
+
+#### Fedora Asahi Remix first impressions
+
+https://jasoneckert.github.io/myblog/fedora-asahi-remix/
+
+https://news.ycombinator.com/item?id=37100503
+
+#### The Carrot Problem
+
+https://www.atvbt.com/the-carrot-problem/
+
+https://news.ycombinator.com/item?id=37100226
+
+#### Record labels hit Internet Archive with new copyright lawsuit
+
+https://torrentfreak.com/record-labels-hit-internet-archive-with-new-400m-copyright-lawsuit-230812/
+
+https://news.ycombinator.com/item?id=37100140
+
+#### Harvard University encourages students to go on food stamps
+
+https://finance.yahoo.com/news/harvard-university-encourages-students-food-171022208.html
+
+https://news.ycombinator.com/item?id=37099780
+
+#### Notes on running a single-person Mastodon server
+
+https://jvns.ca/blog/2023/08/11/some-notes-on-mastodon/
+
+https://news.ycombinator.com/item?id=37099761
+
+#### 20 Years of Vim
+
+https://www.contextualize.ai/mpereira/20-years-of-vim-ef9acae9
+
+https://news.ycombinator.com/item?id=37099750
+
+#### Microsoft continues right to repair about face, makes its hardware easier to fix
+
+https://www.techdirt.com/2023/08/11/microsoft-continues-about-face-on-right-to-repair-makes-its-hardware-easier-to-fix/
+
+https://news.ycombinator.com/item?id=37099086
+
+#### tRPC -- Build and consume typesafe APIs without schemas or code generation
+
+https://trpc.io/
+
+https://news.ycombinator.com/item?id=37098875
+
+#### I feel like I made a mistake investing professionally into Flutter
+
+https://reddit.com/r/FlutterDev/comments/15njq61/i_feel_like_i_mad_a_mistake_investing/
+
+https://news.ycombinator.com/item?id=37098591
+
+#### How a startup loses its spark
+
+https://blog.johnqian.com/startup-spark
+
+https://news.ycombinator.com/item?id=37098483
+
+#### Beginner's Guide to Llama Models
+
+https://agi-sphere.com/llama-guide/
+
+https://news.ycombinator.com/item?id=37097353
+
+#### Multiple Incidents: B789 deviated from localizer, descended below safe altitude
+
+https://avherald.com/h?article=4d42d0b5
+
+https://news.ycombinator.com/item?id=37097287
+
+#### Do we really need a specialized vector database?
+
+https://modelz.ai/blog/pgvector
+
+https://news.ycombinator.com/item?id=37097004
+
+### Phoronix
+
+#### AMD FreeSync Panel Replay Ready For Linux 6.6, Next-Gen GPU Enablement Started
+
+https://www.phoronix.com/news/AMD-FSPR-Linux-6.6
+
+#### Linux Kernel Updated To Add Zenbleed Fix For Valve's Steam Deck
+
+https://www.phoronix.com/news/Linux-Zenbleed-Steam-Deck
+
+#### Intel Wiring Up DisplayPort Alt Mode 2.1 Support For Linux
+
+https://www.phoronix.com/news/Intel-Linux-DP-Alt-Mode-2.1
+
+#### AMD Working On ACPI PHAT Support For Linux To Expose Health-Related Telemetry
+
+https://www.phoronix.com/news/AMD-Adding-Linux-ACPI-PHAT
+
+#### System76 COSMIC Desktop Ironing Out Support For Themes, Application API
+
+https://www.phoronix.com/news/System76-COSMIC-August
+
+#### KDE Apps Now Support QOI Images, Plasma 6 Development Continues
+
+https://www.phoronix.com/news/KDE-Adds-QOI-Image-Support
+
+#### Initial Benchmarks Of The \"NVK\" Open-Source NVIDIA Vulkan Driver
+
+https://www.phoronix.com/review/nvk-vulkan-performance
+
+#### Linux 6.4.10 & LTS Kernels Updated With AMD Zen 1 Divide By Zero Bug-Fix
+
+https://www.phoronix.com/news/Linux-6.4.10-Released
+
+#### Linux 6.6 To Finish Gutting Wireless USB & UWB
+
+https://www.phoronix.com/news/Linux-6.6-Finish-Gutting-WUSB
+
+### GitHub
+
+#### Z4nzu/hackingtool
+
+https://github.com/Z4nzu/hackingtool
+
+ALL IN ONE Hacking Tool For Hackers\
+Language: Python\
+Stars: 32438\
+Forks: 3742
+
+#### yt-dlp/yt-dlp
+
+https://github.com/yt-dlp/yt-dlp
+
+A youtube-dl fork with additional features and fixes\
+Language: Python\
+Stars: 53046\
+Forks: 4374
+
+#### taikoxyz/taiko-mono
+
+https://github.com/taikoxyz/taiko-mono
+
+A decentralized, Ethereum-equivalent ZK-Rollup. 🥁\
+Language: HTML\
+Stars: 1843\
+Forks: 789
+
+#### Infisical/infisical
+
+https://github.com/Infisical/infisical
+
+♾ Infisical is an open-source, end-to-end encrypted platform for secret
+management: sync secrets across your team/infrastructure and prevent
+secret leaks.\
+Language: TypeScript\
+Stars: 7773\
+Forks: 318
+
+### Dribbble
+
+#### Beer Label
+
+https://dribbble.com/shots/22222807
+
+#### Stable Website Design: business landing web page, site designer
+
+https://dribbble.com/shots/21870162
+
+#### Threads Website VR Version
+
+https://dribbble.com/shots/22236848
+
+#### Notesaurus
+
+https://dribbble.com/shots/22218644
+
+#### Modic / SMM Agency
+
+https://dribbble.com/shots/22228267
+
+#### Fertile: Agriculture Branding
+
+https://dribbble.com/shots/22216101
+
+#### Retention
+
+https://dribbble.com/shots/22212909
+
+#### Letter Mobile App design: iOS Android ux ui designer
+
+https://dribbble.com/shots/21986111
+
+#### X Logo Design - Monogram, Arrows, Gradient
+
+https://dribbble.com/shots/22226367
+
+#### Caleican - Modern Calendar Web App Saas Dashboard
+
+https://dribbble.com/shots/22184482
+
+#### Role to Play Games
+
+https://dribbble.com/shots/22233264
+
+#### Westward Playing Cards
+
+https://dribbble.com/shots/22242419
+
+#### Modern Oasis // Mobile E-commerce
+
+https://dribbble.com/shots/22238433
+
+#### Flatfile Branding, visual identity, corporate brand design
+
+https://dribbble.com/shots/21906844
+
+#### Flowstate
+
+https://dribbble.com/shots/22189490
+
+#### The full case study of Zelt project
+
+https://dribbble.com/shots/22210785
+
+#### Aurahub
+
+https://dribbble.com/shots/22242975
+
+#### Real Estate App
+
+https://dribbble.com/shots/22218457
+
+#### Amazon - Back To School
+
+https://dribbble.com/shots/22221629
+
+#### Echo - Website Hero Header Builder
+
+https://dribbble.com/shots/22215234
+
+#### Finance control app
+
+https://dribbble.com/shots/22200925
+
+#### Sanitas - Brand Visual Identity Design
+
+https://dribbble.com/shots/22202885
+
+#### Nursececlub Site Redesign
+
+https://dribbble.com/shots/22231736
+
+#### Entourage logo concept
+
+https://dribbble.com/shots/22229980
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### 研究员认为切尔诺贝利辐射值被操纵
+
+https://www.solidot.org/story?sid=75780
+
+#### 两名青少年时隔 15 年再次破解波士顿地铁卡
+
+https://www.solidot.org/story?sid=75779
+
+#### Pornhub 等就年龄验证法律起诉德州
+
+https://www.solidot.org/story?sid=75778
+
+#### VED-eBPF：使用 eBPF 进行内核漏洞和 Rootkit 检测
+
+https://www.solidot.org/story?sid=75777
+
+#### 费米实验室接近发现第五种自然力
+
+https://www.solidot.org/story?sid=75776
+
+#### 火星漫游车发现季节性洪水的证据
+
+https://www.solidot.org/story?sid=75775
+
+#### 7 月气温比百年前平均温度高 1.5 摄氏度
+
+https://www.solidot.org/story?sid=75774
+
+#### 研究称高温和自杀增加相关
+
+https://www.solidot.org/story?sid=75773
+
+#### 研究确认 35 度高温 100% 湿度对人类致命
+
+https://www.solidot.org/story?sid=75772
+
+#### Firefox 桌面扩展将扩大支持 Android 版本
+
+https://www.solidot.org/story?sid=75771
+
+#### 俄罗斯发射首艘月球探测器 Luna-25
+
+https://www.solidot.org/story?sid=75770
+
+#### 甲骨文 SUSE 和 CIQ 成立 Open Enterprise Linux Association
+
+https://www.solidot.org/story?sid=75769
+
+#### 在 AMD GPU 上编译和部署大模型
+
+https://www.solidot.org/story?sid=75768
+
+#### 中国互联网巨头订购了 50 亿美元的英伟达 GPU
+
+https://www.solidot.org/story?sid=75767
+
+#### id Software 公布 Quake II 源代码
+
+https://www.solidot.org/story?sid=75766
+
+#### 研究称中国对未成年人游戏时间限制没有减少游戏沉迷
+
+https://www.solidot.org/story?sid=75765
+
+#### Vim 项目的未来
+
+https://www.solidot.org/story?sid=75764
+
+#### 科学家在心脏组织中发现微塑料
+
+https://www.solidot.org/story?sid=75763
+
+#### 印度通过数据保护法案
+
+https://www.solidot.org/story?sid=75762
+
+#### Google 认为 AI 可以挖掘网上内容除非选择退出
+
+https://www.solidot.org/story?sid=75761
+
+### V2EX
+
+#### \[宽带症候群\] 关于宽带 IPoE IPv4 over IPv6 MAP-E 参数的计算
+
+https://www.v2ex.com/t/964809
+
+#### \[问与答\] 降噪耳机能隔掉窗外马路上车来车往的噪音吗？
+
+https://www.v2ex.com/t/964808
+
+#### \[随想\] 微软为了让你更新 Windows 简直太拼了
+
+https://www.v2ex.com/t/964806
+
+#### \[问与答\] 十点多睡觉，两点醒一次，四点醒一次，连续四天了
+
+https://www.v2ex.com/t/964805
+
+#### \[编程\] 劲啊，服务器压缩图片这么简单
+
+https://www.v2ex.com/t/964803
+
+#### \[macOS\] \[分享创造\]我开发了一个简单的护眼小软件，叫 Daisy，提醒你的屏幕和环境光亮度
+
+https://www.v2ex.com/t/964802
+
+#### \[分享创造\] 一个简单的不能再简单的网页打开工具
+
+https://www.v2ex.com/t/964801
+
+#### \[宽带症候群\] 使用 Speedtest 服务器定点定栈测试 IPv6 带宽
+
+https://www.v2ex.com/t/964800
+
+#### \[问与答\] 女生失业期间能做什么赚点外快呢\_(:з」∠)\_
+
+https://www.v2ex.com/t/964799
+
+#### \[程序员\] 突然想到一个家用 wifi 安全的问题，密码强破是否存在？
+
+https://www.v2ex.com/t/964798
+
+#### \[宽带症候群\] 新协议 reality 富强的时候总要等几秒网站才能打开
+
+https://www.v2ex.com/t/964797
+
+#### \[程序员\] \[求教\] 作为家庭网管，大家是怎么管理家中多台电子设备？
+
+https://www.v2ex.com/t/964795
+
+#### \[Spotify\] 美区 Spotify 合租 美区 Spotify 家庭组 美区 Spotify 拼车 Spotify 美区会员 有需要的朋友可以来网站 naifeistation.com 上车 另建有万人售后大群及全平台矩阵 服务有保障
+
+https://www.v2ex.com/t/964794
+
+#### \[奇思妙想\] 我们每一个人都是神
+
+https://www.v2ex.com/t/964793
+
+#### \[问与答\] GitHub 仓库 release 的编译二进制怎么保证源码没被修改
+
+https://www.v2ex.com/t/964791
+
+#### \[问与答\] 大家一起为恐怖游戏的 恐怖程度 排个名？
+
+https://www.v2ex.com/t/964790
+
+#### \[Spotify\] 美区 SpotifyPremium 合租
+
+https://www.v2ex.com/t/964789
+
+#### \[问与答\] 聊个老梗：你知道为什么贴吧那么成功的产品越来越不行了吗？因为百度没有鸡吧。
+
+https://www.v2ex.com/t/964788
+
+#### \[旅行\] 8 月底去日本，第一次去，有啥路线推荐吗？
+
+https://www.v2ex.com/t/964787
+
+#### \[奇思妙想\] 一个关于 APP 备案的想法，可以利用规则漏洞去攻击其他友商
+
+https://www.v2ex.com/t/964786
+
+#### \[iPad\] 今年秋季发布会会发布新的 iPad 吗
+
+https://www.v2ex.com/t/964780
+
+#### \[推广\] \[服务器\] 湖北十堰 40 核 64G 内存 1T HDD 20M 带宽独享的独立服务器， 220 每月
+
+https://www.v2ex.com/t/964779
+
+#### \[问与答\] 微信发信息：在吗？？ 这些人是不是有病？
+
+https://www.v2ex.com/t/964776
+
+#### \[问与答\] 总上传 17.8 TiB 能求大佬一个馒头吗？
+
+https://www.v2ex.com/t/964775
+
+#### \[Netflix\] 有 Netfix 车位吗
+
+https://www.v2ex.com/t/964774
+
+#### \[问与答\] 理想 L7 pro 这个车怎么样？
+
+https://www.v2ex.com/t/964773
+
+#### \[Linux\] docker overlay 占用磁盘大
+
+https://www.v2ex.com/t/964772
+
+#### \[问与答\] 微服务如何划分给后台的接口和给前台的接口
+
+https://www.v2ex.com/t/964771
+
+#### \[问与答\] Cubox 闲鱼充值为什么需要密码？
+
+https://www.v2ex.com/t/964770
+
+#### \[程序员\] 讨论下如何保护手中的钱且不受放水影响吧？
+
+https://www.v2ex.com/t/964769
+
+#### \[生活\] 冷饮批发，买各种各样雪糕的一个好去处
+
+https://www.v2ex.com/t/964768
+
+#### \[宽带症候群\] zerotier / tailscale / wireguard 怎么选？
+
+https://www.v2ex.com/t/964767
+
+#### \[微信\] 肝了一个实时外汇汇率的查询微信小程序，给各位大佬们掌掌眼
+
+https://www.v2ex.com/t/964766
+
+#### \[Google\] G1V 在 win11 死活连不上，软路由前置
+
+https://www.v2ex.com/t/964765
+
+#### \[程序员\] 答题活动小程序
+
+https://www.v2ex.com/t/964764
+
+#### \[宽带症候群\] 杭州电信多拨砍半了？
+
+https://www.v2ex.com/t/964763
+
+#### \[WordPress\] 主题一为导航授权，有转让的嘛
+
+https://www.v2ex.com/t/964761
+
+#### \[问与答\] 求助，记得有一款 IDE 可以快速开发安卓 App，用的自研的类似 lua 语言，也可以用来快速开发 windows 上位机程序
+
+https://www.v2ex.com/t/964758
+
+#### \[程序员\] multi path 一般怎么做，测试 TCP 基本惨不忍睹
+
+https://www.v2ex.com/t/964757
+
+#### \[程序员\] 现在 asp.net core 开发都用 EF 来操作数据库了吗？还会用 sql 语句去建表和插初始数据吗？
+
+https://www.v2ex.com/t/964755
+
+#### \[MacBook Pro\] 请教： 20 款 13 寸 i7/32G/512G 值得出掉换个 M1 或 M2 不
+
+https://www.v2ex.com/t/964754
+
+#### \[Java\] 欢迎大家加入 Java 技术开发讨论群
+
+https://www.v2ex.com/t/964753
+
+#### \[MIUI\] miui 太恶心了 打算换第三方 大家推荐哪个类原生 rom？
+
+https://www.v2ex.com/t/964752
+
+#### \[问与答\] 能推荐一些 数码/科技/科普 类的 up 主/youtuber 吗？
+
+https://www.v2ex.com/t/964751
+
+#### \[问与答\] 关于用户体验， app 是转 loading 进入新页面还是秒进新页面
+
+https://www.v2ex.com/t/964749
+
+#### \[NAS\] Synology 群晖 Nvidia vGPU 实践指南
+
+https://www.v2ex.com/t/964748
+
+#### \[分享创造\] MayMayBlog 的优化，需要您的加入
+
+https://www.v2ex.com/t/964747
+
+#### \[程序员\] 开源了我的第一个 AIGC 项目，为社区提供一份微薄之力
+
+https://www.v2ex.com/t/964746
+
+#### \[分享创造\] 摸鱼也能背单词！开源免费的 VSCODE x ANKI 插件来啦！
+
+https://www.v2ex.com/t/964745
+
+#### \[问与答\] windows 上有没有哪个 pdf 阅读器搜索内容后能在目录大纲中显示每一节的匹配数?
+
+https://www.v2ex.com/t/964742
+
+## Generic News
+
+### AP News
+
+#### Watch the trailer for "20 days in Mariupol," AP's powerful documentary about the brutal Russian siege
+
+https://apnews.com/article/049664029268
+
+NEW YORK - The trailer for the documentary "20 Days in Mariupol" has
+been released ahead of the film's first theatrical showing in New York
+next month. The feature-length documentary is a co-production between
+The Associated Press and\...
+
+#### Supreme Court won't review North Carolina's decision to nix license plates with Confederate flag
+
+https://apnews.com/article/6042b7db4218798b93dbaa8924272cec
+
+WASHINGTON (AP) --- The Supreme Court said Monday it won't review North
+Carolina's decision to stop issuing specialty license plates with the
+Confederate flag. As is typical, the court did not comment in declining
+to hear the case, which\...
+
+#### British man detained after climbing 72nd floor of Seoul skyscraper
+
+https://apnews.com/article/27e5e133633521218539efbf8a71e861
+
+SEOUL, South Korea (AP) --- A British man was detained after climbing
+more than half way up the world's fifth-tallest skyscraper in Seoul with
+only his bare hands on Monday, authorities said. More than 90 emergency,
+police and other\...
+
+#### Driver charged after bus carrying wedding guests in Australia rolls over, killing 10 and injuring 25
+
+https://apnews.com/article/7f9aecb895a24b301c29f54ca5ea6783
+
+CANBERRA, Australia (AP) --- The driver of a bus was charged Monday
+after the vehicle carrying wedding guests rolled over on a foggy night
+in Australia's wine country, killing 10 people and injuring 25 in the
+nation's most deadly road\...
+
+#### German shepherd wounded in Ukraine gets new start as Hungarian police dog
+
+https://apnews.com/article/db54dcf17eafcb66e6380718ef49aa83
+
+BUDAPEST, Hungary (AP) --- After a rocket attack in eastern Ukraine,
+half of Rambo's face was mangled and bloody. Shrapnel had ravaged the
+right side of his head, and it was uncertain if he would survive. The
+3-year-old German shepherd\...
+
+#### Phoenix Mercury make travel 'adjustments' following airport incident with Brittney Griner
+
+https://apnews.com/article/70b4daf5e5369b14f8e8c3abc7388a68
+
+INDIANAPOLIS (AP) --- Phoenix Mercury coach Vanessa Nygaard had one goal
+before taking the court Sunday. She wants the WNBA to take additional
+steps to keep her team's traveling parties safe and secure. One day
+after Mercury center\...
+
+#### Report: Billionaire investor, philanthropist George Soros cedes control of empire to a younger son
+
+https://apnews.com/article/95e7a9858981b8a0b303402176025cb5
+
+NEW YORK (AP) --- Billionaire investor turned philanthropist George
+Soros is ceding control of his \$25 billion empire to a younger son,
+Alexander Soros, according to an exclusive interview with The Wall
+Street Journal published online\...
+
+#### 'Transformers' edge out 'Spider-Verse' to claim first place at box office
+
+https://apnews.com/article/015242d0f97388fff2db98403ae11d7f
+
+It was Miles Morales and the Spider-Verse versus the "Transformers" at
+the box office this weekend and the bots came out on top. "
+Transformers: Rise of the Beasts," the seventh entry in the series, took
+the No. 1 spot in its first\...
+
+#### Novak Djokovic wins his 23rd Grand Slam title by beating Casper Ruud in the French Open final
+
+https://apnews.com/article/d7bda9f570b010ea48cf8a05b397291e
+
+PARIS (AP) --- Novak Djokovic made clear for years this was his goal.
+What drove him. What inspired him. The biggest titles from his sport's
+biggest stages were Djokovic's main aim and now he finally stands alone
+--- ahead of Rafael\...
+
+#### Hospitalized Pope Francis walks a bit, follows Mass on TV, lunches with medical personnel and aides
+
+https://apnews.com/article/e13e8c7da509be29a695f4496a71d13b
+
+ROME (AP) --- Sticking to doctors' advice, Pope Francis on Sunday
+skipped his customary weekly public blessing as he convalesces from
+abdominal surgery in a Rome hospital, but walked a few steps, followed
+Mass on TV and did some work, the\...
+
+#### England's health service says it won't give puberty blockers to children at gender clinics
+
+https://apnews.com/article/abd9145484006fea23de6b4656c937da
+
+LONDON (AP) --- The publicly funded health service in England has
+decided it will not routinely offer puberty-blocking drugs to children
+at gender identity clinics, saying more evidence is needed about the
+potential benefits and harms\...
+
+#### Conor McGregor knocks out Heat mascot in bizarre promotion at NBA Finals
+
+https://apnews.com/article/097557b5dd00685bb5cdc6d418f9bbe9
+
+MIAMI (AP) --- Former UFC champion Conor McGregor knocked out the Miami
+Heat mascot in a midgame bit that went wrong. Burnie --- more
+specifically, the man who occupies Burnie's costume --- briefly sought
+medical attention Friday night\...
+
+#### Six people shot in parking lot outside Houston club, police say
+
+https://apnews.com/article/7e00d802be71c9e9385b6cb79079f90e
+
+HOUSTON (AP) --- Police in Houston say six people were shot and injured
+after someone opened fire in a crowded parking lot outside of a club in
+Houston early Sunday. Police Chief Troy Finner said officers found six
+people shot following a\...
+
+### Reuters
+
+#### Maui fires raise questions over warnings, death toll hits 80
+
+https://www.reuters.com/world/us/maui-wildfire-death-toll-rises-55-search-victims-gears-up-2023-08-11/
+
+A view of damage cause by wildfires in Lahaina, Maui, Hawaii, U.S., in
+this undated picture posted on August 11, 2023. Office of the Governor
+Hawaii Josh Green/Handout via REUTERS A view of flames as wildfires
+engulfed the historic town\...
+
+#### West Africa in another bid to engage with Niger coup leaders
+
+https://www.reuters.com/world/africa/west-african-regional-group-weighs-next-steps-niger-2023-08-12/
+
+Nigers junta supporters take part in a demonstration in front of a
+French army base in Niamey, Niger, August 11, 2023. REUTERS/Mahamadou
+Hamidou West Africas ECOWAS bloc aims to send a parliamentary\...
+
+#### Trump swoops into Iowa Fair to scramble DeSantis' effort to reboot campaign
+
+https://www.reuters.com/world/us/trump-swoops-into-iowa-fair-scramble-desantis-effort-reboot-his-campaign-2023-08-12/
+
+Republican presidential candidate and former U.S. President Donald Trump
+campaigns at the Iowa State Fair in Des Moines, Iowa, U.S. August 12,
+2023. REUTERS/Scott Morgan Republican U.S. presidential candidate
+Florida Governor Ron DeSantis\...
+
+#### Iran says unblocked South Korea funds to be used for 'non-sanctioned goods'
+
+https://www.reuters.com/world/iran-says-unblocked-skorea-funds-be-used-non-sanctioned-goods-2023-08-12/
+
+The sign of the Central Bank of the Islamic Republic of Iran is seen in
+Tehran, Iran January 25, 2023. Majid Asgaripour/WANA (West Asia News
+Agency)/Handout via REUTERS/File Photo Irans central bank chief said on
+Saturday\...
+
+#### India's Adani Ports says Deloitte auditor resignation arguments not convincing
+
+https://www.reuters.com/world/india/adani-ports-say-deloittes-reasons-quit-auditor-not-convincing-2023-08-12/
+
+The Deloitte company logo is seen at their office in Gurugram, India,
+June 13, 2023. REUTERS/Anushree Fadnavis/File Photo Indias Adani Ports
+on Saturday said Deloittes reason for quitting as auditor of\...
+
+#### Malaysia's political blocs split victories in regional polls amid opposition gains
+
+https://www.reuters.com/world/asia-pacific/malaysians-vote-state-elections-test-anwar-2023-08-12/
+
+A woman casts her ballot paper during a state election at Selayang,
+Malaysia August 12, 2023. REUTERS/Hasnoor Hussain People wait outside a
+polling station before the polling process for a state election to begin
+at Selayang, Malaysia\...
+
+#### Ron DeSantis and his backers paid \$95,000 to an Iowa religious leader's group
+
+https://www.reuters.com/world/us/desantis-his-backers-paid-95000-iowa-religious-leaders-group-documents-show-2023-08-12/
+
+Republican U.S. presidential candidate and Florida Governor Ron DeSantis
+speaks at an event at an American Legion hall, during his \"Never Back
+Down\" tour, in Harlan, Iowa, U.S. August 11, 2023. REUTERS/Scott Morgan
+As Florida Governor Ron\...
+
+#### Ukraine's Odesa opens a few beaches for the first time since Russian invasion
+
+https://www.reuters.com/world/europe/ukraines-odesa-opens-few-beaches-first-time-since-russian-invasion-2023-08-12/
+
+People relax at a Black Sea beach that was reopened after being closed
+down last year following sea mines laid around the ports of Odesa and
+Mykolaiv by Russia and Ukraine, amid Russias attack on Ukraine, in
+Odesa\...
+
+#### Finns Party mastermind defends long-term goal to leave the EU
+
+https://www.reuters.com/world/europe/finns-party-mastermind-defends-long-term-goal-exit-eu-2023-08-12/
+
+The speaker of Finlands Parliament Jussi Halla-aho stands outside the
+Finnish Parliament Annex, in Helsinki, Finland, August 9, 2023.
+REUTERS/Anne Kauranen Finland should aim to leave the European Union in
+the long term\...
+
+#### Eiffel Tower briefly evacuated after bomb threat
+
+https://www.reuters.com/world/europe/eiffel-tower-evacuated-after-bomb-threat-french-police-2023-08-12/
+
+A view shows the Eiffel Tower in Paris, France, August 3, 2023.
+REUTERS/Benoit Tessier/File Photo Visitors were allowed back in the
+Eiffel Tower on Saturday about two hours after officials evacuated it
+due to a bomb threat, a French\...
+
+#### Taiwan vice president leaves on sensitive trip to United States
+
+https://www.reuters.com/world/asia-pacific/taiwan-vice-president-leave-sensitive-trip-united-states-2023-08-12/
+
+Taiwans Vice President William Lai arrives at Taoyuan International
+Airport before his departure to the United States for a stopover in New
+York on his way to Paraguay, in Taoyuan, Taiwan August 12, 2023.
+REUTERS/Carlos\...
+
+#### China asks Philippines to jointly work on defusing South China Sea tensions
+
+https://www.reuters.com/world/asia-pacific/china-asks-philippines-jointly-work-defusing-south-china-sea-tensions-2023-08-12/
+
+Chinese Foreign Minister Wang Yi poses as he meets Turkish Foreign
+Minister Hakan Fidan (not seen) in Ankara, Turkey, July 26, 2023.
+Stringer/Pool via REUTERS/File Photo Chinese Foreign Minister Wang Yi
+urged the Philippines to work with\...
+
+#### Hollywood writers to evaluate counterproposal from studios
+
+https://www.reuters.com/world/us/hollywood-writers-evaluate-counterproposal-studios-2023-08-12/
+
+SAG-AFTRA actors and Writers Guild of America (WGA) writers walk the
+picket line during their ongoing strike outside Sunset Bronson studios
+and Netflix offices in Los Angeles, California, U.S., August 11, 2023.
+REUTERS/Mario Anzuoni The\...
+
+### 联合早报
+
+#### 老牌商场等不到春天 疫后"百货"萧条 伤心"太平洋"
+
+https://www.zaobao.com/news/china/story20230813-1422537
+
+经营了30年的太平洋百货徐汇店，曾是上海徐家汇商圈的地标之一。（陈婧摄）
+熬过三年冠病疫情，经营30年的上海商场"太平洋百货"没能等来迟到的春天，成为又一家退出市场的百货业者。业态老化、电商崛起和疫情冲击，本就令传统百货业风雨飘摇；疫后复苏缓慢的消费，成为压垮许多老牌商场的最后一根稻草。官方政策是否足以提振疲弱的消费？传统百货又要如何摆脱经营困境......
+
+#### 赖清德低调过境美国 大陆首日军演相对克制
+
+https://www.zaobao.com/news/china/story20230812-1423158
+
+台湾副总统赖清德（中）星期六（8月12日）登机出访巴拉圭和过境美国前，在桃园国际机场向公众挥手示意。总统府秘书长林佳龙（右）也随行。（路透社）
+台湾副总统、执政的民进党总统参选人赖清德星期天（8月13日）低调过境美国纽约，中国大陆首日军演强度相对克制，受访学者认为中美或正通过管控危机，来稳定紧绷的关系......
+
+#### 中国恢复团队游头一天 53艘中国邮轮申请停靠济州港
+
+https://www.zaobao.com/news/china/story20230812-1423121
+
+中国时隔六年五个月恢复赴韩团队游后仅过一天，就有53艘从中国出发的邮轮申请中途停靠济州道的港口。
+据韩联社星期五（8月11日）引述济州道政府消息报道，中国文化和旅游部星期四（8月10日）宣布即日起恢复对韩国等78国出境团队游业务后，至隔天早上已有53艘从上海启程的邮轮申请途中停靠济州港口，济州港和江汀港直至明年3月的停靠申请都已排满......
+
+#### 中国官媒称部分发达国家领导人不在一带一路论坛邀请之列
+
+https://www.zaobao.com/news/china/story20230812-1423114
+
+中国将举办第三届"一带一路"国际合作高峰论坛。图为论坛咨询委员会7月12日在北京召开第五次会议。（中国外交部网站）
+中国官媒驳斥有关欧洲国家领导人回避参与中国一带一路国际合作高峰论坛的说法，称一些发达国家领导人本就不在论坛的邀请之列......
+
+#### 澳总理：已通过最高层级要求北京释放澳籍记者成蕾
+
+https://www.zaobao.com/news/china/story20230812-1423111
+
+澳大利亚总理阿尔巴尼斯说，堪培拉已通过最高层级向中国政府施压，要求释放被拘留三年的澳大利亚籍华裔记者成蕾。
+综合法新社和澳大利亚广播公司报道，阿尔巴尼斯星期六（8月12日）到访昆士兰时，对成蕾的健康情况表示担忧。
+阿尔巴尼斯说，成蕾在中国被关押三年太长了，应该获释。"成蕾是澳大利亚公民，她不应该受到这样的对待......
+
+#### 新闻人间："揭弊天王"邱毅再现江湖
+
+https://www.zaobao.com/news/china/story20230812-1422850
+
+台湾政坛"揭弊天王"邱毅（联合早报）
+台湾政坛"揭弊天王"邱毅教授出手了，从天天点评时政、批判蓝绿白政治人物，到重炮揭露有关执政党领导人的弊案，网络声量忽然飙升。
+67岁的邱毅近年来深居简出，几乎在台湾所有媒体平台绝迹，重心转到经营网络直播，谈两岸统一、文化和经贸交流等课题。
+从去年"九合一"选举以来，他开始热衷点评台湾时政，今年3月中以来更几乎天天在脸书发一篇"社论"......
+
+#### 黄小芳：防疫后遗症
+
+https://www.zaobao.com/news/china/story20230812-1422905
+
+黑龙江8月以来成为中国舆论焦点，除了暴雨洪灾，当地建设方舱医院的消息也成为持续延烧的热点话题。
+8月2日，黑龙江佳木斯要建方舱医院的消息登上微博热搜。网上流传的公示板信息显示，佳木斯前进区计划建造一座方舱医院，用地面积6388平方米。根据公开资料，单是在一期，该建设项目涉及资金规模就超过4000万元人民币（748万新元）......
+
+#### 中国医疗反腐掀起"举报潮" 今年已近170医院高层被查
+
+https://www.zaobao.com/news/china/story20230812-1422912
+
+中国近期医疗反腐风暴持续，重庆、四川等多地星期五（8月11日）跟进公布集中整治举报方式，推升举报医疗行业人员的浪潮。据统计，中国各地今年已有近170名医院院长等高层被查，人数超过去年全年的两倍。
+受访学者研判，宏观经济不振之际，官方下半年势必加大力度整治出现在医疗、教育等攸关基层民生领域的腐败，以更好保障民众利益，避免激起更多民愤......
+
+#### 赖清德出访巴拉圭过境美国 学者：中国大陆初步"有节制" 军演
+
+https://www.zaobao.com/news/china/story20230811-1422910
+
+台湾副总统、执政的民进党总统参选人赖清德星期六（8月12日）出访友邦巴拉圭，并过境美国。赖清德出访前夕，中国大陆宣布自星期六起在东海举行三天军事演习。
+受访学者专家认为，大陆目前公布的军演相当"有节制"，但要观察赖清德过境美国情况，不排除大陆再升高军演动作。
+赖清德星期六启程前往巴拉圭，参加巴拉圭当选总统佩纳就职典礼，其间将过境美国纽约和旧金山，8月18日返台，共计七天六夜......
+
+#### 中国一军工人员公派国外被吸收 向美国提供情报
+
+https://www.zaobao.com/news/china/story20230811-1422876
+
+中国国家安全部星期五（8月11日）通报破获一起间谍案，一名中国军工集团工作人员公派意大利期间被吸收，为美国中央情报局（CIA）提供大量核心情报，收取间谍经费。 
+据中国国家安全部微信公众号发布，52岁的曾姓嫌疑人属重要涉密人员，被单位公派至意大利留学进修期间，美国驻意大利使馆官员塞斯主动与其结识，两人通过聚餐、郊游、观赏歌剧等活动逐步建立密切关系......
+
+#### 传中国暂停在伦敦建新使馆计划 中英外交紧张恐加深
+
+https://www.zaobao.com/news/china/story20230811-1422871
+
+中国规划在伦敦桥附近一带兴建新大使馆的外部景观。（路透社）
+中英两国都希望修复受损的双边关系之际，据报中国将暂停在伦敦建新使馆的计划，这可能会加剧两国外交紧张。
+中国2018年以2.5亿英镑（约4.4亿新元）的价格，在伦敦塔附近的皇家造币厂旧址购买土地，计划将现在位于波特兰大街的大使馆迁至该地。但这一计划去年底被当地市议会以存在安全和隐私风险为由，拒绝授予许可证......
+
+#### 在华被拘三年 澳洲记者发公开信描述关押经历
+
+https://www.zaobao.com/news/china/story20230811-1422841
+
+因涉嫌国家安全罪而被中国拘留的澳大利亚籍记者成蕾，首次发表公开信，描述自己在中国被关押的经历。（路透社）
+澳大利亚籍记者成蕾被中国以涉嫌国家安全罪拘留三年后，首次发表公开信，描述自己在中国被关押的经历。
+综合路透社、法新社、彭博社星期五（8月11日）报道，成蕾发表了一封被称为"给2500万人的情书"，是她在北京被拘留三年以来首次发表公开信......
+
+#### 中国大陆出境游名单不包括台湾 民进党政府指责任在大陆官方
+
+https://www.zaobao.com/news/china/story20230811-1422839
+
+中国大陆进一步开放出境团队旅游，但不包括台湾。有台湾旅行社业者质疑民进党政府未推动两岸主管部门接触洽商。台湾陆委会则强调，台方一再提议两岸主管部门直接沟通安排，是大陆官方一再拒绝回应。
+据中国文化和旅游部官网消息，文旅部办公厅星期四（8月10日）公告，进一步恢复大陆旅行社经营中国公民出境团队旅游业务。在所公布开放的第三批国家和地区名单中，不包括台湾......
+
+#### 中国科企抢跑人形机器人赛道
+
+https://www.zaobao.com/news/china/story20230810-1422546
+
+以扫地机器人闻名的追觅科技，今年3月推出第二代仿生机器狗和通用人形机器人。（陈婧摄）
+步入苏州追觅科技的展厅，四周陈列着吸尘器和扫地机等招牌产品，摆在正中的却是一个和普通男子体型相仿的机器人，以及一只摇头摆尾地和访客互动的机器狗。
+这家以扫地机器人闻名的独角兽企业，今年3月推出第二代仿生机器狗和通用人形机器人......
+
+#### 港警国安处拘捕10名涉违国安法"612基金"人士
+
+https://www.zaobao.com/news/china/story20230810-1422534
+
+香港社运人士叶宝琳（右）8月10日被香港警方带到她工作的天主教书局塔冷通心灵书舍蒐证后，再被押走。（路透社）
+香港警务处国家安全处星期四（8月10日）拘捕10人，指他们涉嫌捐助流亡海外的港人，违反《香港国安法》的"串谋勾结外国或者境外势力危害国家安全"罪及煽动暴动罪。
+被捕的四男六女，年龄介于26至43岁......
+
+#### 乌克兰驻华大使称中俄关系是"权宜联姻"
+
+https://www.zaobao.com/news/china/story20230810-1422529
+
+在中国罕见公开批评俄罗斯、中国参与乌克兰和平峰会，中俄乌三国关系出现微妙变化之际，乌克兰驻华大使形容，中俄关系是一场为了资源的"权宜婚姻"。
+据彭博社报道，乌克兰驻华大使利亚比肯（Pavlo
+Riabikin）星期二（8月8日）接受乌克兰新闻通讯社（RBC）采访时说，北京根据自身利益制定外交政策，对中国来说，俄罗斯既是政治伙伴，也是资源来源......
+
+#### 美国将限制对华敏感技术投资 中国称将保留采取措施权利
+
+https://www.zaobao.com/news/china/story20230810-1422527
+
+美国总统拜登8月9日签署行政令，限制美国公司和个人投资中国的敏感技术。图摄于8月9日。（路透社）
+美国总统拜登星期三（8月9日）签署行政命令，限制美国公司和个人投资中国的敏感技术，包括半导体、量子运算与人工智能；中国外交部和商务部隔天提出严正交涉和强烈不满，誓言保留采取措施的权利。
+受访学者分析，行政令将带来外溢效应，美国盟友有可能会跟进采取类似措施，其他国家的企业对华投资也将更谨慎......
+
+#### 中国警方侦破79起利用AI换脸欺诈案件
+
+https://www.zaobao.com/news/china/story20230810-1422520
+
+中国公安部通报，在针对"AI（人工智能）换脸"欺诈问题的专项行动中，全国共侦破相关案件79起，抓获犯罪嫌疑人515名。
+据中新经纬报道，中国公安部网络安全保卫局副局长李彤星期四（8月10日）在发布会上说，犯罪分子用于实施"AI换脸"的物料主要为照片，特别是身份证照片，同时结合人员姓名、身份证号来突破人脸识别验证系统......
+
+#### 中国就驻伦敦使馆新址之争向英国抗议
+
+https://www.zaobao.com/news/china/story20230810-1422519
+
+中国驻伦敦大使馆新址计划去年底被当地议会否决后，至今仍没有进展。图为使馆新址伦敦塔附近的景观。（路透社）
+中国驻伦敦大使馆新址计划去年底被当地议会否决后，至今没有进展。中国因此向英国政府提出抗议，指其未能履行外交义务。
+中国在2018年斥资2.55亿英镑（约4.4亿新元）购置了伦敦塔附近的皇家铸币厂旧址，以便将现在位于波特兰大街的使馆迁至该地......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

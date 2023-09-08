@@ -1,0 +1,995 @@
+Other formats: [PDF]() / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20230908.html)
+
+
+# Web Digest 2023-09-08
+
+
+## Developers
+
+### Hacker News
+
+#### NASA finally admits what everyone already knows: SLS is unaffordable
+
+https://arstechnica.com/space/2023/09/nasa-finally-admits-what-everyone-already-knows-sls-is-unaffordable/
+
+https://news.ycombinator.com/item?id=37425059
+
+#### NSO group iPhone zero-click, zero-day exploit captured in the wild
+
+https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/
+
+https://news.ycombinator.com/item?id=37425007
+
+#### 25 Gbit/s at home, part 1
+
+https://boredengineer.medium.com/25-gbit-s-at-home-part-1-98ff1013e32d
+
+https://news.ycombinator.com/item?id=37421993
+
+#### Mojo is available for local download
+
+https://www.modular.com/blog/mojo-its-finally-here
+
+https://news.ycombinator.com/item?id=37421529
+
+#### Grindr Loses Almost Half Its Staff on 2-Day RTO Requirement
+
+https://www.bloomberg.com/news/articles/2023-09-07/grindr-loses-nearly-half-its-staff-to-strict-return-to-office-rule
+
+https://news.ycombinator.com/item?id=37421241
+
+#### Wayland Isn't Going to Save the Linux Desktop (2022)
+
+https://dudemanguy.github.io/blog/posts/2022-06-10-wayland-xorg/wayland-xorg.html?r
+
+https://news.ycombinator.com/item?id=37421132
+
+#### Microsoft will assume liability for legal copyright risks of Copilot
+
+https://blogs.microsoft.com/on-the-issues/2023/09/07/copilot-copyright-commitment-ai-legal-concerns/
+
+https://news.ycombinator.com/item?id=37420885
+
+#### North Korean campaign targeting security researchers
+
+https://blog.google/threat-analysis-group/active-north-korean-campaign-targeting-security-researchers/
+
+https://news.ycombinator.com/item?id=37420831
+
+#### Tailscale Has Partnered with Mullvad
+
+https://mullvad.net/en/blog/2023/9/7/tailscale-has-partnered-with-mullvad/
+
+https://news.ycombinator.com/item?id=37420382
+
+#### Kagi Small Web
+
+https://blog.kagi.com/small-web
+
+https://news.ycombinator.com/item?id=37420281
+
+#### California's plastic bag ban is failing
+
+https://www.latimes.com/environment/story/2023-08-24/whats-the-deal-with-single-use-plastic-bag-bans
+
+https://news.ycombinator.com/item?id=37420045
+
+#### Are any words the same in all languages?
+
+https://blog.duolingo.com/words-shared-in-all-languages/
+
+https://news.ycombinator.com/item?id=37419864
+
+#### Running a 180B parameter LLM on a single Apple M2 Ultra
+
+https://twitter.com/ggerganov/status/1699791226780975439
+
+https://news.ycombinator.com/item?id=37419518
+
+#### Report says PR firm has been paying Rotten Tomatoes critics for positive reviews
+
+https://www.screengeek.net/2023/09/06/rotten-tomatoes-pr-firm-paying-critics-positive-reviews/
+
+https://news.ycombinator.com/item?id=37419427
+
+#### Texas just got closer to blackouts than it has since 2021. What happened?
+
+https://www.kut.org/energy-environment/2023-09-07/texas-just-got-closer-to-blackouts-than-it-has-since-2021-what-happened
+
+https://news.ycombinator.com/item?id=37419220
+
+#### Arduino raises \$22M Series B round
+
+https://blog.arduino.cc/2023/09/06/what-will-we-do-with-an-additional-22m/
+
+https://news.ycombinator.com/item?id=37419107
+
+#### ERNIE, China's ChatGPT, cracks under pressure
+
+https://www.chinatalk.media/p/how-ernie-chinas-chatgpt-cracks-under
+
+https://news.ycombinator.com/item?id=37419049
+
+#### UK drops 'spy clause' for scanning encrypted messages, admits not 'feasible'
+
+https://www.theregister.com/2023/09/07/uk_government_clause_online_safety_bill/
+
+https://news.ycombinator.com/item?id=37416909
+
+#### Exa Is Deprecated
+
+https://github.com/ogham/exa
+
+https://news.ycombinator.com/item?id=37416430
+
+#### Someone keeps trying to reset my Facebook password
+
+https://reddit.com/r/facebook/comments/154goal/someone_keeps_trying_to_reset_my_facebook_password/
+
+https://news.ycombinator.com/item?id=37416411
+
+### Phoronix
+
+#### Linux 6.6 Lands Support For The Cirrus Logic CS42L43 Audio Codec
+
+https://www.phoronix.com/news/Linux-6.6-Cirrus-Logic-CS42L43
+
+#### New ASUS Laptop Features & HP BIOS Settings Driver For Linux 6.6
+
+https://www.phoronix.com/news/Linux-6.6-x86-Platform-Drivers
+
+#### Radeon Software For Linux 23.20 Brings RX 7700 XT / RX 7800 XT Support
+
+https://www.phoronix.com/news/Radeon-Software-Linux-23.20
+
+#### Ubuntu 23.10 Adding Experimental TPM-Backed Full Disk Encryption
+
+https://www.phoronix.com/news/Ubuntu-23.10-TPM-FDE
+
+#### AMD UIF 1.2 Released With Initial Radeon GPU Support
+
+https://www.phoronix.com/news/AMD-UIF-1.2-Inference-Frontend
+
+#### KDE Plasma 6.0 Planned For Release In Early February
+
+https://www.phoronix.com/news/KDE-Plasma-6.0-February
+
+#### Intel Arc Graphics Enjoy Another Open-Source Vulkan Driver Performance Optimization
+
+https://www.phoronix.com/news/Intel-Vulkan-MSAA-Compute-Queue
+
+#### OpenSSL 3.2 Alpha Released With Client-Side QUIC, Raw Public Key, SM4-XTS
+
+https://www.phoronix.com/news/OpenSSL-3.2-Alpha
+
+#### TURNIP Vulkan Driver Lands Initial Support For Adreno A730/A740 GPUs
+
+https://www.phoronix.com/news/TURNIP-Vulkan-Adreno-A700
+
+### GitHub
+
+#### italiaremote/awesome-italia-remote
+
+https://github.com/italiaremote/awesome-italia-remote
+
+A list of remote-friendly or full-remote companies that targets Italian
+talents.\
+Language: Go\
+Stars: 1872\
+Forks: 268
+
+#### SimplifyJobs/New-Grad-Positions
+
+https://github.com/SimplifyJobs/New-Grad-Positions
+
+A collection of New Grad full time roles in SWE, Quant, and PM.\
+Language: Unknown\
+Stars: 7242\
+Forks: 890
+
+#### langchain-ai/langchain
+
+https://github.com/langchain-ai/langchain
+
+⚡ Building applications with LLMs through composability ⚡\
+Language: Python\
+Stars: 61305\
+Forks: 8434
+
+#### nlohmann/json
+
+https://github.com/nlohmann/json
+
+JSON for Modern C++\
+Language: C++\
+Stars: 36408\
+Forks: 6236
+
+### Dribbble
+
+#### Letter O Logo Shapes Exploration
+
+https://dribbble.com/shots/22453973
+
+#### Health & Wellness APP widgets
+
+https://dribbble.com/shots/22457105
+
+#### Logo Lounge 14 Logo Selects
+
+https://dribbble.com/shots/22475736
+
+#### Contaminated commuting
+
+https://dribbble.com/shots/22478446
+
+#### Logo for The Secrets of Skellig
+
+https://dribbble.com/shots/22466344
+
+#### Robust Security Measures for Modern Finance Companies 6
+
+https://dribbble.com/shots/22437013
+
+#### R mark - sketch
+
+https://dribbble.com/shots/22457745
+
+#### Lady of the Lighthouse
+
+https://dribbble.com/shots/22440708
+
+#### Pricing cards
+
+https://dribbble.com/shots/22441686
+
+#### No Code Development Platform
+
+https://dribbble.com/shots/22478247
+
+#### Peel Coffee Brand Logo Design
+
+https://dribbble.com/shots/22434547
+
+#### WSJ - Take on the Week
+
+https://dribbble.com/shots/22442676
+
+#### Crop -- Agrotech tool
+
+https://dribbble.com/shots/22476241
+
+#### Flux -- Website for fintech startup
+
+https://dribbble.com/shots/22492825
+
+#### Crop -- Agrotech tool
+
+https://dribbble.com/shots/22469769
+
+#### Health Monitoring Dashboard Design
+
+https://dribbble.com/shots/22447897
+
+#### Konnex - Logo Design
+
+https://dribbble.com/shots/22459778
+
+#### NFT Cards Illustrations
+
+https://dribbble.com/shots/22441735
+
+#### Energy park homepage
+
+https://dribbble.com/shots/22484413
+
+#### NFTX Website
+
+https://dribbble.com/shots/22403265
+
+#### NebNest - Logo Design
+
+https://dribbble.com/shots/22467636
+
+#### Mayve Mezcal
+
+https://dribbble.com/shots/22441558
+
+#### AXON Defense - Logo Design
+
+https://dribbble.com/shots/22440632
+
+#### TaxBoxx Logo Design - Invoice, Box, Geometric
+
+https://dribbble.com/shots/22461170
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### 《星空》加入 DLSS 支持，付费版本包含有 DRM
+
+https://www.solidot.org/story?sid=76018
+
+#### 禽流感突变可能加重人类感染
+
+https://www.solidot.org/story?sid=76017
+
+#### 五角大楼计划打造庞大的 AI 网络
+
+https://www.solidot.org/story?sid=76016
+
+#### 汽车在隐私方面是最糟糕的产品
+
+https://www.solidot.org/story?sid=76014
+
+#### 世界经历了有记录以来最热的夏季
+
+https://www.solidot.org/story?sid=76013
+
+#### 美国各州总检察长呼吁对 AI 生成的儿童色情图像采取行动
+
+https://www.solidot.org/story?sid=76012
+
+#### 科学家从干细胞培育人类胚胎模型
+
+https://www.solidot.org/story?sid=76011
+
+#### 中国黑客通过盗窃微软工程师账号入侵 Azure
+
+https://www.solidot.org/story?sid=76010
+
+#### 丰田服务器磁盘空间满了导致它中断生产线
+
+https://www.solidot.org/story?sid=76009
+
+#### 美国 AI 专家倾向于建立一个 联邦 AI 部门去监管 AI
+
+https://www.solidot.org/story?sid=76008
+
+#### 人类并非是唯一易发胖的灵长类动物
+
+https://www.solidot.org/story?sid=76007
+
+#### Rockstar 在 Steam 上销售的《Midnight Club II》被发现是破解版
+
+https://www.solidot.org/story?sid=76006
+
+#### 官员被禁止在工作中使用 iPhone 
+
+https://www.solidot.org/story?sid=76005
+
+#### 知网被网信办罚款 5000 万元
+
+https://www.solidot.org/story?sid=76004
+
+#### 治安管理处罚法修订草案正在征求意见
+
+https://www.solidot.org/story?sid=76003
+
+#### 印度电信公司想要互联网公司为网络使用付费
+
+https://www.solidot.org/story?sid=76002
+
+#### Meta 公司因争抢计算资源发生内斗
+
+https://www.solidot.org/story?sid=76001
+
+#### 苹果与 Arm 达成新交易将一直持续到 2040 年后
+
+https://www.solidot.org/story?sid=76000
+
+#### Gizmodo 用 AI 翻译取代西班牙语员工
+
+https://www.solidot.org/story?sid=75999
+
+#### 百度 CEO 称中国已发布逾 70 个参数超 10 亿的大模型
+
+https://www.solidot.org/story?sid=75998
+
+### V2EX
+
+#### \[OpenAI\] 现在国内大模型有超过 chargpt3.5 么？
+
+https://www.v2ex.com/t/971900
+
+#### \[Apple\] nPlayer 更新了！
+
+https://www.v2ex.com/t/971899
+
+#### \[问与答\] 有人了解远东宏信这家公司吗以及研发岗位的一些工作节奏，氛围等吗
+
+https://www.v2ex.com/t/971898
+
+#### \[程序员\] 在公司摸鱼写自己小项目，如何尽量安全地 push 出去？
+
+https://www.v2ex.com/t/971896
+
+#### \[生活\] 有没有哪种服装品牌，总是会生产和去年相同款式的服装？
+
+https://www.v2ex.com/t/971895
+
+#### \[程序员\] pve 用户麻烦帮我看下这个文件名是啥？
+
+https://www.v2ex.com/t/971894
+
+#### \[跑步\] 除了跑步 你是怎么运动锻炼的
+
+https://www.v2ex.com/t/971893
+
+#### \[Python\] 摸脚店(Mojo)本地开业了
+
+https://www.v2ex.com/t/971892
+
+#### \[分享创造\] 做了一个梗图搜索网站，想请大佬指点指点
+
+https://www.v2ex.com/t/971891
+
+#### \[程序员\] 惠普光影精灵 5 笔记本电脑想接 4K 144HZ 显示器（双屏）
+
+https://www.v2ex.com/t/971890
+
+#### \[问与答\] 有老铁研究过宝马 i3 和新能源、宝马 3 系这些车吗？
+
+https://www.v2ex.com/t/971889
+
+#### \[程序员\] 从代码编译方面测试， intel 13 代 i9 快还是 m2pro 快
+
+https://www.v2ex.com/t/971888
+
+#### \[问与答\] 外接硬盘降温方案？
+
+https://www.v2ex.com/t/971887
+
+#### \[求职\] 数据工程 & 服务端开发熟练工求捞
+
+https://www.v2ex.com/t/971885
+
+#### \[Kubernetes\] ssh 端口转发和 K8S 网络问题
+
+https://www.v2ex.com/t/971884
+
+#### \[问与答\] 三个月，国内手机号卡回收的奇迹，应该再也不会第二个了
+
+https://www.v2ex.com/t/971883
+
+#### \[问与答\] 求助，打球手指戳到 关节直接反过来了
+
+https://www.v2ex.com/t/971882
+
+#### \[程序员\] 公司要技术迁移，怎么尽快熟悉新框架
+
+https://www.v2ex.com/t/971881
+
+#### \[问与答\] 求助反编译.class 文件遇到困难（红包感谢）
+
+https://www.v2ex.com/t/971879
+
+#### \[游戏\] RDR2 性能问题
+
+https://www.v2ex.com/t/971878
+
+#### \[程序员\] 最近在学习前端， js 到底有多少框架啊，当前流行的又到底有哪些？好疑惑
+
+https://www.v2ex.com/t/971877
+
+#### \[站长\] 个人博客被入侵，交比特币赎数据
+
+https://www.v2ex.com/t/971876
+
+#### \[问与答\] 你们会一个一个看软件商店的用户评论或者反馈邮件吗？
+
+https://www.v2ex.com/t/971875
+
+#### \[程序员\] 一夜赔掉一套房？使用对象存储托管静态网站如何防止被攻击被刷流量？
+
+https://www.v2ex.com/t/971873
+
+#### \[Apple\] 网站被入侵，勒索赎数据
+
+https://www.v2ex.com/t/971872
+
+#### \[macOS\] 推荐一款 MacOS 的鼠标右键手势软件 WGestures
+
+https://www.v2ex.com/t/971871
+
+#### \[问与答\] v 友们，人在香港，求推荐可以稳定访问 chatgpt 的梯子
+
+https://www.v2ex.com/t/971870
+
+#### \[互联网\] 家中端口不通
+
+https://www.v2ex.com/t/971869
+
+#### \[分享发现\] 记录一下，申请 GitHub 学生包，被拒 36 次后才成功的心情
+
+https://www.v2ex.com/t/971868
+
+#### \[求职\] 2 年前端想去杭州发展，求捞，或者简历指导
+
+https://www.v2ex.com/t/971867
+
+#### \[问与答\] 行车记录仪 求推荐一个
+
+https://www.v2ex.com/t/971866
+
+#### \[程序员\] 想做 py 的离线安装包， pip freeze 总会把一些不相关的包弄进来？
+
+https://www.v2ex.com/t/971865
+
+#### \[Linux\] distrobox 真是一个实用的工具
+
+https://www.v2ex.com/t/971864
+
+#### \[路由器\] 小户型网线到房+好几个普通路由器，能否用树莓派旁路由实现 AC+AP？
+
+https://www.v2ex.com/t/971863
+
+#### \[MacBook Pro\] 现在 Intel 的 mbp 还有价值么？
+
+https://www.v2ex.com/t/971862
+
+#### \[Apple\] AppleID 国区转美区还是\...
+
+https://www.v2ex.com/t/971861
+
+#### \[程序员\] V 站大佬们， Java 理论和架构如何体系化学习？
+
+https://www.v2ex.com/t/971860
+
+#### \[酷工作\] \[北京\] 央企正编，组内缺人，直接内推
+
+https://www.v2ex.com/t/971859
+
+#### \[程序员\] 做了大半年的涂鸦 App 开源
+
+https://www.v2ex.com/t/971858
+
+#### \[macOS\] 求助 Mac 用户，如何关闭 clashx 代理
+
+https://www.v2ex.com/t/971857
+
+#### \[分享创造\] 开发一个可以在旧手机上跑的 homeassistant 服务端 app，有前途嘛
+
+https://www.v2ex.com/t/971856
+
+#### \[程序员\] 坚果云的云桥模式居然用上 windows 的 API 了？
+
+https://www.v2ex.com/t/971855
+
+#### \[宽带症候群\] 家宽内网优化咨询
+
+https://www.v2ex.com/t/971854
+
+#### \[iOS\] 有没有啥 App / 插件 能让 iOS Safari 选中文本后的 Context Menu 中那「分享」按钮移动到最前面的
+
+https://www.v2ex.com/t/971853
+
+#### \[分享创造\] \[开源\] hamnet-一款基于 Mac 平台上的开源抓包工具
+
+https://www.v2ex.com/t/971852
+
+#### \[Apple\] Apple Watch S6 有备用表带吗
+
+https://www.v2ex.com/t/971851
+
+#### \[西安\] 西安房东直租，位置在 4 号线航天东路，山水馨居
+
+https://www.v2ex.com/t/971850
+
+#### \[Java\] 关于切点表达式中 \@annotation 用法的疑问
+
+https://www.v2ex.com/t/971848
+
+#### \[Apple\] 有多少小伙伴要抢 iPhone15 国行首发的？
+
+https://www.v2ex.com/t/971846
+
+#### \[酷工作\] \[北京\] 央企正式岗 hc，组内缺人，直接内推
+
+https://www.v2ex.com/t/971844
+
+## Generic News
+
+### AP News
+
+#### South Dakota Gov. Kristi Noem expected to endorse Trump
+
+https://apnews.com/article/24c70d4f9e4e86aa845b062b87a9c98a
+
+WASHINGTON (AP) --- South Dakota Gov. Kristi Noem is expected to endorse
+Donald Trump's presidential campaign when he travels to her state for a
+Republican fundraiser on Friday. Trump will appear in Rapid City for an
+event hosted by the\...
+
+#### Bruce Springsteen has peptic ulcer disease. Doctors say it's easily treated
+
+https://apnews.com/article/4bf3deeebf89720a9968ce17340f1b85
+
+Bruce Springsteen announced Thursday that he's postponing a slate of
+concerts in September on the advice of doctors who treating him for
+peptic ulcer disease. Fans who aren't familiar with this common and
+potentially serious\...
+
+#### What happened when England's soccer great Gascoigne met Prince William in a shop? A cheeky kiss
+
+https://apnews.com/article/94b7d8d406813b6bad331f22efd854f4
+
+LONDON (AP) --- For countless fans, giving the heir to the British
+throne a kiss on the cheek is not usually the done thing. But Paul
+Gascoigne, one of England's all-time soccer greats, was never one for
+protocol --- even during the\...
+
+#### Victoria's Secret overhauls its racy fashion catwalk in the company's latest move to be inclusive
+
+https://apnews.com/article/325baab972da88138f604d521a39e6da
+
+NEW YORK (AP) --- For more than 20 years, Victoria's Secret had
+bolstered its image built on a man's vision of sexiness with one big
+annual event: its fashion catwalk extravaganza, with supermodels like
+Naomi Campbell sashaying down the\...
+
+#### Prince Harry to attend charity event in London -- but meeting up with the family isn't on the agenda
+
+https://apnews.com/article/f26773753a54247bd9628d8875faea6a
+
+LONDON (AP) --- Prince Harry is attending a charity event Thursday night
+in London, though he isn't expected to meet with King Charles III or
+Prince William as Britain prepares to mark the first anniversary of
+Queen Elizabeth II's death\...
+
+#### Lainey Wilson leads the 2023 Country Music Award nominations for the second year in a row
+
+https://apnews.com/article/a85612ca2b18c66c8b44956b24957135
+
+LOS ANGELES (AP) --- It's another landmark year for breakout country
+superstar Lainey Wilson, who tops the CMA Awards nominations for the
+second year in a row. Wilson was a first-time nominee in 2022, which
+means she's made history in\...
+
+#### An ailing American explorer trapped 3,000 feet deep in Turkish cave awaits difficult rescue
+
+https://apnews.com/article/c9d4ac9ede90e6fe145e9bcf815b4ad8
+
+ISTANBUL (AP) --- Rescuers from across Europe rushed to a cave in Turkey
+on Thursday, launching an operation to save an American researcher who
+became trapped almost 1,000 meters (3,000 feet) below the cave's
+entrance after suffering\...
+
+#### Severe flooding in Greece leaves at least 6 dead and 6 missing, villages cut off
+
+https://apnews.com/article/68d1138c0915a58c5454d3c657d760bf
+
+ATHENS, Greece (AP) --- Widespread flooding in central Greece left at
+least six people dead, six missing and dozens trapped, with severe
+rainstorms feeding raging torrents that burst dams, washed away roads
+and bridges, hurled cars into\...
+
+#### 3 sailors reach land safely after sharks nearly sink their catamaran in the Coral Sea
+
+https://apnews.com/article/6f3e4c3c0f6593ac2c43092462c3a349
+
+CANBERRA, Australia (AP) --- Three round-the-world sailors reached land
+safely Thursday after sharks nearly sank their catamaran in the Coral
+Sea. Both of the inflatable hulls on their 9-meter (30-foot) boat were
+damaged in several\...
+
+#### 'That '70s Show' actor Danny Masterson gets 30 years to life in prison for rapes of 2 women
+
+https://apnews.com/article/fd7a10eda44d0e3ddde582d4c7053eb6
+
+LOS ANGELES (AP) --- A judge sentenced "That '70s Show" show star Danny
+Masterson to 30 years to life in prison Thursday for raping two women,
+giving them some relief after they spoke in court about the decades of
+damage he inflicted. "\...
+
+#### Grizzly bear blamed for fatal Montana mauling and Idaho attack is killed after breaking into a house
+
+https://apnews.com/article/033a1eaa972e9752e1f4513b0c13e24b
+
+WEST YELLOWSTONE, Mont. (AP) --- A grizzly bear that fatally mauled a
+woman on a forest trail west of Yellowstone National Park in July and
+also attacked a person in Idaho three years ago was killed after it
+broke into a house near West\...
+
+#### A popular climbing area in Yosemite National Park has been closed due to a crack in a granite cliff
+
+https://apnews.com/article/de781f115a12dafb501b397583dc5fba
+
+YOSEMITE NATIONAL PARK, Calif. (AP) --- A popular rock climbing area in
+Yosemite National Park has been closed because of a crack that has
+developed in a massive granite cliff. Climbers recently reported the new
+crack on the western side\...
+
+#### 49ers sign Nick Bosa to a record-setting contract extension to end his lengthy holdout
+
+https://apnews.com/article/4dc5feec5ead57102eb0243ec8ee027d
+
+SANTA CLARA, Calif. (AP) --- Nick Bosa's lengthy contract holdout ended
+four days before the start of the season for the San Francisco 49ers
+when he agreed to a contract extension that will make him the NFL's
+richest defensive player\...
+
+### Reuters
+
+#### Former Trump adviser Navarro convicted of contempt of Congress
+
+https://www.reuters.com/world/us/former-trump-adviser-navarro-convicted-contempt-congress-2023-09-07/
+
+Peter Navarro, a White House economic adviser under former U.S.
+President Donald Trump, speaks to reporters outside the E. Barrett
+Prettyman Federal Courthouse in Washington, U.S., September 5, 2023.
+REUTERS/Julia Nikhinson Peter Navarro\...
+
+#### Donald Trump may seek to move Georgia election case to federal court
+
+https://www.reuters.com/world/us/trump-may-seek-removal-georgia-election-subversion-case-us-court-filing-2023-09-07/
+
+Former U.S. President Donald Trump departs from Trump Tower to give a
+deposition to New York Attorney General Letitia James who sued Trump and
+his Trump Organization, in New York City, U.S., April 13, 2023.
+REUTERS/Mike Segar/File Photo\...
+
+#### Lee to become 'major hurricane' over weekend as it chugs across Caribbean
+
+https://www.reuters.com/world/us/lee-become-major-hurricane-over-weekend-it-chugs-across-caribbean-2023-09-07/
+
+Hurricane Lee, a Category 2 storm, was \"rapidly strengthening\" as it
+churned through the Caribbean on Thursday, the U.S.-based National
+Hurricane Center (NHC) reported. In Puerto Rico and the U.S. Virgin
+Islands, the Federal Emergency\...
+
+#### Cameroon militants set cars on fire, shoot passengers in village attack
+
+https://www.reuters.com/world/africa/cameroon-militants-set-cars-fire-shoot-passengers-village-attack-2023-09-07/
+
+Armed militants stopped cars, shot at passengers and set vehicles on
+fire during an attack on a village in Anglophone Cameroons South West
+region on Thursday, residents and a Reuters reporter said. Separatists
+in minority\...
+
+#### US says Niger has not told US ambassador to leave the country
+
+https://www.reuters.com/world/africa/niger-gives-us-ambassador-48-hours-leave-country-afp-2023-08-25/
+
+(This Aug. 25 story has been corrected to fix Kathleen FitzGibbons name
+in the story) Nigers Foreign Ministry has told the U.S. government that
+images of letters circulating online calling for the\...
+
+#### UN working on guarantees for Russia to restore grain deal but Moscow skeptical
+
+https://www.reuters.com/markets/commodities/un-working-guarantees-russia-restore-grain-deal-moscow-skeptical-2023-09-07/
+
+A combine loads a truck with wheat during harvesting in a field in the
+Rostov Region, Russia July 18, 2023. REUTERS/Sergey Pivovarov The United
+Nations is \"actively engaged\" in trying to improve Russias grain
+and\...
+
+#### Prince Harry back in Britain on anniversary of queen's death
+
+https://www.reuters.com/world/uk/prince-harry-back-britain-anniversary-queens-death-2023-09-07/
+
+Britains Prince Harry attends the 2023 WellChild Awards ceremony in
+London, Britain, September 7, 2023. REUTERS/Toby Melville Britains King
+Charles, Britains Anne, Princess Royal, Prince\...
+
+#### Bosnian Serb leader bans international peace envoy from entering his region
+
+https://www.reuters.com/world/europe/bosnian-serb-leader-bans-international-peace-envoy-entering-his-region-2023-09-07/
+
+Bosnian Serb leader Milorad Dodik attends a meeting with Russian
+President Vladimir Putin in Moscow, Russia, May 23, 2023. Sputnik/Alexey
+Filippov/Pool via REUTERS Bosnian Serb separatist leader Milorad Dodik
+said on Thursday that police\...
+
+#### The critics of Russia's war in Ukraine caught in jail 'carousel'
+
+https://www.reuters.com/world/europe/arrest-detain-repeat-russian-war-critics-caught-jail-carousel-2023-09-07/
+
+Summary: Russia has cracked down on criticism of Ukraine conflict Some
+war critics held multiple times for minor offences Lawyers say such
+carousel arrests used to curb dissent Practice can buy time for\...
+
+#### Nigeria opposition to appeal verdict upholding Tinubu presidential win
+
+https://www.reuters.com/world/africa/nigeria-opposition-appeal-verdict-upholding-tinubu-presidential-win-2023-09-07/
+
+FILE PHOTO: Nigerian President Bola Tinubu waves at a crowd, during his
+swearing-in ceremony in Abuja, Nigeria May 29, 2023. REUTERS/Temilade
+Adelaja/File Photo Nigerias main opposition candidates will appeal a
+tribunal\...
+
+#### Italy govt targets violent teens and parents in \"Baby gang\" crackdown
+
+https://www.reuters.com/world/europe/italy-govt-targets-violent-teens-parents-baby-gang-crackdown-2023-09-07/
+
+Parents of Italian children who drop out of school could face jail
+sentences under new steps to counter juvenile delinquency in the wake of
+a series of high profile crimes blamed on teenagers. The measure was
+part of a crackdown approved\...
+
+#### Exclusive: US military repositions some troops in Niger, pulls non-essential personnel
+
+https://www.reuters.com/world/us-military-repositioning-some-troops-within-niger-withdrawing-non-essential-2023-09-07/
+
+The Pentagon is repositioning some troops and equipment within Niger and
+will withdraw a small number of non-essential personnel \"out of an
+abundance of caution,\" U.S. officials told Reuters on Thursday, the
+first major American military\...
+
+#### At least 39 dead as cyclone hits Brazil's southernmost state
+
+https://www.reuters.com/world/americas/least-39-dead-cyclone-hits-brazils-southernmost-state-2023-09-07/
+
+Affected houses are seen in a flooded area after an extratropical
+cyclone hit southern towns, in Mucum, Rio Grande do Sul, Brazil,
+September 6, 2023. REUTERS/Diego Vara At least 39 people have died and
+nine remain missing after a cyclone\...
+
+### 联合早报
+
+#### 黄小芳：昙花一现的大爷跳水
+
+https://www.zaobao.com/news/china/story20230908-1431339
+
+两年多前到北京常驻后不久，我在中国的第一个旅游目的地就是毗邻的天津。除了被导游带到特产店买麻花和鲍鱼干，我对天津没有留下太深刻的印象。没想到这个看似平平无奇的城市，最近突然成为中国最火的旅游打卡地。
+今年8月底，大批天津大爷在狮子林桥跳水的视频在网络蹿红，但这股风潮来得快去得也快。不到一个月的时间，跳水大爷在星期三（9月6日）以天津狮子林桥跳水队的名义宣布停止这项活动......
+
+#### 【早知】华为新手机面世是否意味中国突破了"卡脖子"？
+
+https://www.zaobao.com/news/china/story20230907-1431374
+
+一名技术人员9月3日在渥太华的实验室里，分解华为Mate 60
+Pro智能手机。（彭博社） 华为上周低调发售最新旗舰手机Mate 60
+Pro，随即在中国内外掀起围绕这款手机芯片设计、技术背景的探察旋风。华为新手机横空出世，是否意味着中国已在芯片领域突破"卡脖子"？
+华为最新手机的科技成色如何......
+
+#### 腾讯推出"混元大模型" 正式加入中国人工智能竞赛
+
+https://www.zaobao.com/news/china/story20230907-1431353
+
+腾讯副总裁蒋杰星期四（9月7日）在年度全球数字生态大会上说，混元大模型具备中文创作和复杂语境下的逻辑推理能力，目前已接入公司旗下的50多个产品和服务。（林煇智摄）
+中国互联网巨头腾讯发布人工智能（AI）大模型"混元大模型"，并推出类似ChatGPT的聊天机器人，正式加入中国科技企业在AI领域的竞赛......
+
+#### 美国议员呼吁加码制裁中国科企 学者：即便不升级也会延续现有制裁
+
+https://www.zaobao.com/news/china/story20230907-1431344
+
+搭载中国国产芯片的华为新手机面世后，美国国内关于加码制裁中国科技企业的呼声水涨船高。学者分析，这类呼声更多是从政治角度而非技术层面提出，但在当前政治氛围下，华盛顿即便不升级，也会延续现有制裁。
+美国众议院中国问题特别委员会主席加拉格尔（Mike
+Gallagher）星期三（9月6日）发表声明，呼吁美国商务部停止向华为及其芯片供应商中芯国际出口所有技术......
+
+#### 美国延长部分中国产品加征关税豁免至今年底
+
+https://www.zaobao.com/news/china/story20230907-1431333
+
+（华盛顿/北京综合讯）美国决定对部分中国产品的豁免加征关税期限，延长至今年年底。获得延长的是352个中国进口产品项目，以及77个与应对冠病有关的中国产品项目。
+综合路透社、法新社报道，美国贸易代表办公室星期三（9月6日）宣布，将与上述项目有关的"301条款"关税排除期限，从原定的9月30日延长至12月31日。
+美国通货膨胀当下持续走高，拜登政府正面临来自企业和国会议员要求减轻关税负担压力......
+
+#### 中国对榴梿的需求使全球销售增400％
+
+https://www.zaobao.com/news/china/story20230907-1431328
+
+中国消费者对榴梿的需求增大，图为广西南宁市民今年5月在摊贩选购榴莲。（中新社）
+（北京/香港综合讯）中国消费者对榴梿的需求增大，促使全球榴梿销量增长400%。
+《南华早报》报道，汇丰银行星期一（9月4日）发布的报告显示，中国对榴梿的需求占全球市场的91%，中国过去两年共进口价值60亿美元（约81亿新元）的榴梿。在中国市场的带动下，今年第一季度的全球榴梿销量与去年同期相比，大增400%......
+
+#### 中澳总理会晤促关系升温 阿尔巴尼斯答应年内访华
+
+https://www.zaobao.com/news/china/story20230907-1431306
+
+中国总理李强（右）星期四（9月7日）在印度尼西亚雅加达出席亚细安系列峰会期间，与澳大利亚总理阿尔巴尼斯（左）举行会晤。（新华社）
+中国总理李强与澳大利亚总理阿尔巴尼斯星期四（9月7日）在印度尼西亚出席亚细安系列峰会期间举行会晤。李强呼吁双方抓紧重启和恢复各领域交流，推动关系进一步改善；阿尔巴尼斯则表示，将于今年稍晚时访问中国......
+
+#### 陈杰豪：重庆和中国西部仍有结构性增长动力 能与新加坡互补
+
+https://www.zaobao.com/news/china/story20230907-1431030
+
+国家发展部兼通讯及新闻部高级政务部长陈杰豪，星期一（9月4日）下午出席在重庆举行的中国国际智能产业博览会开幕式，会前接受《联合早报》采访。（王纬温摄）
+我国国家发展部兼通讯及新闻部高级政务部长陈杰豪认为，重庆和中国西部地区仍有一些结构性的经济增长动力，包括有年轻及愿意提升技能的人口，以及比沿海城市更巨大的增长潜力等......
+
+#### 担心美国打压？ 中国官媒低调报道华为新机
+
+https://www.zaobao.com/news/china/story20230906-1431011
+
+专业人员从华为Mate 60
+Pro手机中取出的芯片，为中芯国际在中国制造的七纳米制程芯片。（彭博社）
+中国通讯巨头华为的新手机Mate 60
+Pro销售火爆之际，中国官媒转而低调承认新机的"中国芯"与最先进技术还有差距。分析指出，随着更多专业拆机报告发表，官媒将引导民间情绪逐渐回归理性，避免引发美国加码打压。
+华为上周二（8月29日）在毫无宣传的情况下推出Mate 60 Pro......
+
+#### 台积电美国厂量产时间延后 刘德音坦承第一次海外盖厂必经学习过程
+
+https://www.zaobao.com/news/china/story20230906-1431009
+
+台积电董事长刘德音星期三在"SEMICON Taiwan
+2023国际半导体展"的大师论坛演讲。（庄慧良摄）
+台湾积体电路制造公司（台积电）三年前在美国亚利桑那州设厂，但量产时间从2024年初延后至2025年。台积电董事长刘德音星期三坦承，台积电第一次在海外盖大规模的工厂，开始会有一个学习的过程......
+
+#### 李强：中国今年有望实现5%左右经济增长
+
+https://www.zaobao.com/news/china/story20230906-1430994
+
+（雅加达综合讯）外界质疑中国经济复苏乏力之际，中国国务院总理李强在国际多边会议上重申，中国今年有望实现5%左右的经济增长目标。
+综合新华社和路透社报道，李强星期三（9月6日）在印度尼西亚雅加达出席亚细安与中日韩（亚细安加三）领导人会议时，在开幕词中做出上述表述。
+李强说，今年中国经济有望实现年初设定的5%左右的增长目标，经济发展前景可期，将为地区和世界各国不断提供新的更大机遇......
+
+#### 中国拟修法禁止"伤害民族感情"言论和服饰
+
+https://www.zaobao.com/news/china/story20230906-1430982
+
+（北京综合讯）中国拟修订《治安管理处罚法》，把"有损中华民族精神、伤害中华民族感情"的言行列入处罚范围，但因缺乏细化阐释，在互联网上引起争议。
+中国人大网显示，《治安管理处罚法（修订草案）》（简称《草案》）经过全国人大常委会会议审议后，从9月1日起向公众征求意见，为期30天......
+
+#### 李强试乘印尼雅万高铁 延宕四年下月通车
+
+https://www.zaobao.com/news/china/story20230906-1430980
+
+由中国与印度尼西亚合建的雅加达---万隆高速铁路（雅万高铁），经历多次延误后，预计今年10月正式运营。（路透社）
+中国国务院总理李强星期三（9月6日）在印度尼西亚试乘了两国合建的雅加达---万隆高速铁路（雅万高铁）。这项标志性的"一带一路"合作项目几经延宕，引发外界对一带一路是否后继无力的担忧。但学者分析，即便中国经济面临严峻挑战，仍会投注资源支撑......
+
+#### 中国外交部：将钓鱼岛标为中国领土理所当然
+
+https://www.zaobao.com/news/china/story20230906-1430978
+
+（北京/东京综合讯）针对日本官员批评中国发布的新地图将钓鱼岛（日本称尖阁诸岛）列为中国领土，中国外交部表示钓鱼岛及其附属岛屿是中国固有领土，在地图上将其标为中国领土理所当然。
+据共同社报道，日本内阁秘书长松野博一星期二（9月5日）在记者会上说，"对于在历史上和国际法上都无疑是我国固有领土的尖阁诸岛，确认到了中方基于自身主张的标注"......
+
+#### 【早知】中国为何不推出大规模经济刺激？
+
+https://www.zaobao.com/news/china/story20230906-1430976
+
+中国经济承压，多家国际金融机构近期下调中国全年增长预测。图为江苏海安一家工厂中，工人拉着一车电梯零部件。（法新社）
+多家国际金融机构近期下调中国经济增长预测，甚至认为可能无法实现官方设定的5%左右的全年增长目标。截至目前，北京推出的经济刺激政策，都只针对特定领域、特定问题，更有媒体形容这些措施"小打小闹"。中国目前面对哪些经济困难？为何迟迟没有出台大规模刺激计划？
+经济有哪些困难......
+
+#### 叶刘淑仪指终审法院对同性婚姻裁决 回避了中国人大释法的可能性
+
+https://www.zaobao.com/news/china/story20230906-1430969
+
+香港前民阵召集人岑子杰就港府拒绝承认海外同性婚姻注册提出上诉案。图为岑子杰2019年在香港理工大学跟支持者讲话。（路透社档案照）
+（香港讯）香港行政会议召集人叶刘淑仪星期三（9月6日）表示，香港终审法院就同性婚姻平权上诉的裁定，回避解释《香港基本法》第37条保障的婚姻自由是否包括同性婚姻，即回避了中国全国人民代表大会就条例释法的可能性......
+
+#### 中国禁官员工作中使用苹果手机
+
+https://www.zaobao.com/news/china/story20230906-1430936
+
+中国政府为减少对外国技术的依赖和加强网络安全，禁止中央政府机构的官员在工作中使用苹果手机。（法新社）
+（北京讯）知情人士透露，中国已要求中央政府机构的官员不得在工作中使用苹果手机（iPhone）和其它外国品牌的设备，也不得带入办公室。
+《华尔街日报》星期三（9月6日）引述知情人士称，政府人员近几周在工作聊天群或会议上接到上级的上述指示。一些中央政府监管机构的员工也收到类似信息......
+
+#### 居民老龄化 北京胡同面貌与功能逐渐蜕变
+
+https://www.zaobao.com/news/china/story20230906-1430612
+
+65岁的姚建华大爷是少数仍住在胡同里的老北京人，他位于北京二环的住所面积虽小，但别有洞天。（李山一摄）
+"我们这个胡同外迁的人不少，走了约五分之三的人。现在的居民大多超过60岁了，年轻人很少。"
+65岁的北京胡同居民姚建华向记者介绍胡同的情况，在自豪地分享胡同独特景观的同时，言语间夹杂着一丝感慨......
+
+#### 中科院禁院士发表与专业领域无关的学术意见
+
+https://www.zaobao.com/news/china/story20230905-1430636
+
+（北京综合讯）中国科学院时隔九年再次更新院士行为规范，禁止中科院院士公开发表与自身专业领域无关的学术意见。
+新版《中国科学院院士行为规范（试行）》8月2日在中科院网站上公布，新增的"禁止行为"章节一共五条，包括"禁止以院士名义，参加中国科学院和中国工程院、学部和学术团体、学术期刊以外活动。禁止参加各类应景性、应酬性活动......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

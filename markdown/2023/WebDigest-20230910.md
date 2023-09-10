@@ -1,0 +1,997 @@
+Other formats: [PDF]() / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20230910.html)
+
+
+# Web Digest 2023-09-10
+
+
+## Developers
+
+### Hacker News
+
+#### No Google Topics in Vivaldi
+
+https://vivaldi.com/blog/news/alert-no-google-topics-in-vivaldi/
+
+https://news.ycombinator.com/item?id=37449921
+
+#### Why you might want async in your project
+
+https://notgull.net/why-you-want-async/
+
+https://news.ycombinator.com/item?id=37448460
+
+#### The end of the subscription era is coming
+
+https://nickfthilton.medium.com/the-end-of-the-subscription-era-is-coming-ed197f252c6a
+
+https://news.ycombinator.com/item?id=37447915
+
+#### The U.S. housing market vs. the Canadian housing market
+
+https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/
+
+https://news.ycombinator.com/item?id=37446790
+
+#### Learning Zig
+
+https://www.openmymind.net/learning_zig/
+
+https://news.ycombinator.com/item?id=37446502
+
+#### Public restrooms are hard to find in America
+
+https://www.washingtonpost.com/wellness/2023/09/08/public-restrooms-hard-find-comic/
+
+https://news.ycombinator.com/item?id=37446083
+
+#### DJI Virtual Flight (iOS) has been broken for five months
+
+https://forum.dji.com/thread-293546-1-1.html
+
+https://news.ycombinator.com/item?id=37445963
+
+#### PAROL6 Desktop Robot Arm
+
+https://github.com/PCrnjak/PAROL6-Desktop-robot-arm
+
+https://news.ycombinator.com/item?id=37445951
+
+#### Investors account for 30 per cent of home buying in Canada, data show
+
+https://www.theglobeandmail.com/business/article-investors-account-for-30-per-cent-of-home-buying-in-canada-data-show/
+
+https://news.ycombinator.com/item?id=37445732
+
+#### Asking 60 LLMs a set of 20 questions
+
+https://benchmarks.llmonitor.com
+
+https://news.ycombinator.com/item?id=37445401
+
+#### Morocco earthquake kills more than 1,000
+
+https://www.nbcnews.com/news/world/live-blog/morocco-earthquake-kills-600-devastates-historic-sites-live-updates-rcna104208
+
+https://news.ycombinator.com/item?id=37445284
+
+#### CRISPR used to 'reprogram' cancer cells into healthy muscle in the lab
+
+https://www.livescience.com/health/cancer/crispr-used-to-reprogram-cancer-cells-into-healthy-muscle-in-the-lab
+
+https://news.ycombinator.com/item?id=37444477
+
+#### Google, Meta, Amazon hiring low-paid H1B workers after US layoffs
+
+https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/trends/layoffs-google-microsoft-meta-amazon-hiring-low-paid-h1b-workers-after-us-layoffs-report-10605301.html
+
+https://news.ycombinator.com/item?id=37444386
+
+#### Appeals court rules White House likely overstepped 1st Amendment on social media
+
+https://www.nytimes.com/2023/09/08/business/appeals-court-first-amendment-social-media.html
+
+https://news.ycombinator.com/item?id=37444340
+
+#### Every type of plastic used by LEGO (2022)
+
+https://bricknerd.com/home/every-type-of-plastic-used-by-lego-5-20-22
+
+https://news.ycombinator.com/item?id=37444268
+
+#### Dennis Austin, developer of PowerPoint, has died
+
+https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/
+
+https://news.ycombinator.com/item?id=37444257
+
+#### Privacy Nightmare on Wheels': Every Car Brand Reviewed by Mozilla
+
+https://foundation.mozilla.org/en/blog/privacy-nightmare-on-wheels-every-car-brand-reviewed-by-mozilla-including-ford-volkswagen-and-toyota-flunks-privacy-test/
+
+https://news.ycombinator.com/item?id=37443644
+
+#### Bare-Metal Kubernetes, Part I: Talos on Hetzner
+
+https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/
+
+https://news.ycombinator.com/item?id=37443404
+
+#### Eio 1.0 -- Effects-based IO for OCaml 5
+
+https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5
+
+https://news.ycombinator.com/item?id=37443395
+
+#### The Development of the C Language (2003)
+
+http://cm.bell-labs.co/who/dmr/chist.html
+
+https://news.ycombinator.com/item?id=37442810
+
+### Phoronix
+
+#### LoongArch With Linux 6.6 Adds KGDB/KDB, KFence, KASAN, LBT Binary Translation
+
+https://www.phoronix.com/news/Linux-6.6-LoongArch
+
+#### KSMBD Declared Stable - No Longer \"Experimental\" - In Linux 6.6
+
+https://www.phoronix.com/news/KSMBD-Stable-Linux-6.6
+
+#### DXVK-NVAPI 0.6.4 Implements HDR Support Via DXVK
+
+https://www.phoronix.com/news/DXVK-NVAPI-0.6.4
+
+#### GNOME 45.rc Brings GDM Wayland Multi-Seat, More libadwaita Adoption
+
+https://www.phoronix.com/news/GNOME-45-rc
+
+#### KDE Lands More Power Management Tuning, Behaves Better On Btrfs File-Systems
+
+https://www.phoronix.com/news/KDE-PM-And-Btrfs
+
+#### FreeBSD 14 Beta Released - Initial WiFi 6 Support, Updated LLVM Toolchain, Fwget Utility
+
+https://www.phoronix.com/news/FreeBSD-14-Beta-1
+
+#### Vulkan 1.3.264 Released With Microsoft Layered Driver Extension
+
+https://www.phoronix.com/news/Vulkan-1.3.264-Released
+
+#### Linux 6.5+ Bringing Some Performance/Efficiency Improvements For The AMD Ryzen Z1 Extreme / ASUS ROG Ally
+
+https://www.phoronix.com/review/ryzen-z1-linux65
+
+#### Linux Driver Preparing Support For ASUS Screenpad On High-End Laptops
+
+https://www.phoronix.com/news/ASUS-Screenpad-Linux-Patches
+
+### GitHub
+
+#### krahets/hello-algo
+
+https://github.com/krahets/hello-algo
+
+《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++,
+Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。\
+Language: Java\
+Stars: 18829\
+Forks: 2016
+
+#### oven-sh/bun
+
+https://github.com/oven-sh/bun
+
+Incredibly fast JavaScript runtime, bundler, test runner, and package
+manager -- all in one\
+Language: Zig\
+Stars: 46496\
+Forks: 1308
+
+#### SimplifyJobs/New-Grad-Positions
+
+https://github.com/SimplifyJobs/New-Grad-Positions
+
+A collection of New Grad full time roles in SWE, Quant, and PM.\
+Language: Unknown\
+Stars: 7420\
+Forks: 896
+
+#### dapr/dapr
+
+https://github.com/dapr/dapr
+
+Dapr is a portable, event-driven, runtime for building distributed
+applications across cloud and edge.\
+Language: Go\
+Stars: 22133\
+Forks: 1733
+
+### Dribbble
+
+#### Letter O Logo Shapes Exploration
+
+https://dribbble.com/shots/22453973
+
+#### Health & Wellness APP widgets
+
+https://dribbble.com/shots/22457105
+
+#### Logo Lounge 14 Logo Selects
+
+https://dribbble.com/shots/22475736
+
+#### Flux -- Website for fintech startup
+
+https://dribbble.com/shots/22492825
+
+#### Contaminated commuting
+
+https://dribbble.com/shots/22478446
+
+#### Logo for The Secrets of Skellig
+
+https://dribbble.com/shots/22466344
+
+#### R mark - sketch
+
+https://dribbble.com/shots/22457745
+
+#### NFT Cards Illustrations
+
+https://dribbble.com/shots/22441735
+
+#### No Code Development Platform
+
+https://dribbble.com/shots/22478247
+
+#### WSJ - Take on the Week
+
+https://dribbble.com/shots/22442676
+
+#### Health Monitoring Dashboard Design
+
+https://dribbble.com/shots/22447897
+
+#### Crop -- Agrotech tool
+
+https://dribbble.com/shots/22476241
+
+#### Energy park homepage
+
+https://dribbble.com/shots/22484413
+
+#### Crop -- Agrotech tool
+
+https://dribbble.com/shots/22469769
+
+#### NebNest - Logo Design
+
+https://dribbble.com/shots/22467636
+
+#### Konnex - Logo Design
+
+https://dribbble.com/shots/22459778
+
+#### House Rules
+
+https://dribbble.com/shots/22483669
+
+#### Wellness: All-in-One UI Kit
+
+https://dribbble.com/shots/22488758
+
+#### Data Home
+
+https://dribbble.com/shots/22500967
+
+#### Football app
+
+https://dribbble.com/shots/22467329
+
+#### TaxBoxx Logo Design - Invoice, Box, Geometric
+
+https://dribbble.com/shots/22461170
+
+#### YOFIT // Mobile App
+
+https://dribbble.com/shots/22490945
+
+#### Philosopher Portraits (Engraving) II
+
+https://dribbble.com/shots/22473928
+
+#### Rune Realms Website
+
+https://dribbble.com/shots/22489163
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### 上月发现的彗星西村本周末肉眼可见
+
+https://www.solidot.org/story?sid=76038
+
+#### 摩洛哥地震造成逾千人死亡
+
+https://www.solidot.org/story?sid=76037
+
+#### 联合国警告实现气候目标的窗口正在"迅速关闭"
+
+https://www.solidot.org/story?sid=76036
+
+#### PowerPoint 开发者 Dennis Austin 去世，享年 76 岁
+
+https://www.solidot.org/story?sid=76035
+
+#### 土耳其加密货币交易所 Thodex CEO 被判 11196 年
+
+https://www.solidot.org/story?sid=76034
+
+#### 中国古代水管道网表明无中央集权也能完成复杂工程
+
+https://www.solidot.org/story?sid=76033
+
+#### 饿了么如何帮助减少外卖塑料垃圾
+
+https://www.solidot.org/story?sid=76032
+
+#### 如果向流浪者提供 7500 加元的无条件资助
+
+https://www.solidot.org/story?sid=76031
+
+#### 研究称迪士尼公主有助于改善儿童的自我意像
+
+https://www.solidot.org/story?sid=76030
+
+#### 南极暖化速度超过预测
+
+https://www.solidot.org/story?sid=76029
+
+#### SpaceX 打破了去年创造的发射次数记录
+
+https://www.solidot.org/story?sid=76028
+
+#### 科学家在猪体内培育胚胎人源肾脏
+
+https://www.solidot.org/story?sid=76027
+
+#### ChatGPT 的访问量连续第三个月下降
+
+https://www.solidot.org/story?sid=76026
+
+#### Google 开始对更多 Chrome 用户启用隐私沙盒 
+
+https://www.solidot.org/story?sid=76025
+
+#### ASML 准备交付第一台高 NA 极紫外光刻机
+
+https://www.solidot.org/story?sid=76024
+
+#### 苹果修复了一个正被利用的零点击 0day 漏洞
+
+https://www.solidot.org/story?sid=76023
+
+#### Boot Unguarded: 泄漏的OEM签名密钥导致x86/intel信任体系崩塌
+
+https://www.solidot.org/story?sid=76022
+
+#### 谁将取代 transformer？
+
+https://www.solidot.org/story?sid=76021
+
+#### 苹果加大预算开发生成式 AI
+
+https://www.solidot.org/story?sid=76020
+
+#### 2D 转 3D AI 创业公司用人工去手动转换
+
+https://www.solidot.org/story?sid=76019
+
+### V2EX
+
+#### \[程序员\] 有没有轻量级的 json 日志可视化的工具
+
+https://www.v2ex.com/t/972385
+
+#### \[互联网\] 我个火星人，之前 cnbeta 死了，我才知道有 ithome 这么好的东西，相见恨晚，不知道还有没有别的东西我错过了太久太久。。。
+
+https://www.v2ex.com/t/972384
+
+#### \[程序员\] 前端跟踪调试分析工具
+
+https://www.v2ex.com/t/972383
+
+#### \[程序员\] 如何创建可以自定义 MAC 地址的虚拟网卡对某个网卡桥接来上网
+
+https://www.v2ex.com/t/972381
+
+#### \[Apple\] 在 2023 年买全新 intel 版 iMac 2020 和 Mac mini 2018
+
+https://www.v2ex.com/t/972380
+
+#### \[Spotify\] Spotify Windows IOS 无法同步本地音乐
+
+https://www.v2ex.com/t/972379
+
+#### \[问与答\] 一个专门用来做域名转发的服务器，买哪家的便宜？
+
+https://www.v2ex.com/t/972378
+
+#### \[iPhone\] 现在 iPhone 日版跟其他没区别了?
+
+https://www.v2ex.com/t/972377
+
+#### \[宽带症候群\] nas 直连光猫 8145xr， 1 个月后， nas 直接不在线了
+
+https://www.v2ex.com/t/972376
+
+#### \[Python\] 市面上的 OCR 软件
+
+https://www.v2ex.com/t/972375
+
+#### \[职场话题\] 9 月 9 号星期六，今天还加班真是标准的 996 了
+
+https://www.v2ex.com/t/972374
+
+#### \[宽带症候群\] 江苏常州电信 TCP 间歇性断流
+
+https://www.v2ex.com/t/972373
+
+#### \[问与答\] Poe 的每日一条的 GPT4 问答被盗用了
+
+https://www.v2ex.com/t/972371
+
+#### \[分享创造\] CDNJSCN 上线啦 
+
+https://www.v2ex.com/t/972370
+
+#### \[信息安全\] 推荐 Java spring vmp、ollvm、to C 加壳工具
+
+https://www.v2ex.com/t/972368
+
+#### \[酷工作\] 求一份远程工作的机会
+
+https://www.v2ex.com/t/972367
+
+#### \[问与答\] 对你来说，结婚的意义在哪？欢迎发表看法。
+
+https://www.v2ex.com/t/972366
+
+#### \[程序员\] 冷门域名能给个链接什么的嘛，狗头。
+
+https://www.v2ex.com/t/972365
+
+#### \[问与答\] 求推荐 2d 日式格斗游戏
+
+https://www.v2ex.com/t/972363
+
+#### \[JavaScript\] 请教一个 ts 的问题
+
+https://www.v2ex.com/t/972362
+
+#### \[分享创造\] 搞了个字数统计的工具站练手，布局样式是真不会 https://www.sentencecounter.online/
+
+https://www.v2ex.com/t/972361
+
+#### \[Linux\] openvpn 服务端如何设置代理
+
+https://www.v2ex.com/t/972360
+
+#### \[上海\] 上海友谊康苑房屋转单间 1700 元
+
+https://www.v2ex.com/t/972359
+
+#### \[分享创造\] 已将 Practice Makes Perfect: English Conversation 对话的文字和音频放到了 Vercel，方便学习听力和口语
+
+https://www.v2ex.com/t/972358
+
+#### \[路由器\] 请教:路由器 wan 口速率协商原理&RX packets errors 非常高
+
+https://www.v2ex.com/t/972357
+
+#### \[问与答\] TP-link 获取不到 IPv6?
+
+https://www.v2ex.com/t/972355
+
+#### \[分享发现\] 免翻墙免注册免费 ChatGPT 网页版 支持 claude
+
+https://www.v2ex.com/t/972354
+
+#### \[C++\] C++libtorch 多线程多 GPU 推理问题
+
+https://www.v2ex.com/t/972352
+
+#### \[VPS\] 搬瓦工日本怎么了
+
+https://www.v2ex.com/t/972351
+
+#### \[程序员\] 开发了一套 对接 OpenAI, ChatGPT 的网站，用 golang+vue3 实现
+
+https://www.v2ex.com/t/972350
+
+#### \[问与答\] thinkpad E 系列出了标压版本的，大家觉得值得买吗？
+
+https://www.v2ex.com/t/972349
+
+#### \[职场话题\] 今年不仅找工作难，试用期也很难
+
+https://www.v2ex.com/t/972348
+
+#### \[问与答\] 毕业设计求给点推荐
+
+https://www.v2ex.com/t/972347
+
+#### \[macOS\] Joplin 网页版？
+
+https://www.v2ex.com/t/972346
+
+#### \[Vercel\] vercel 被墙了？自定义域名国内无法访问了，有没有大佬有替代方案
+
+https://www.v2ex.com/t/972345
+
+#### \[Go 编程语言\] V 站的朋友们，想问一个关于 Go 的"基本类型零值问题"的问题？
+
+https://www.v2ex.com/t/972343
+
+#### \[程序员\] 请教一个关于 clickhouse 和 es 检索的问题
+
+https://www.v2ex.com/t/972341
+
+#### \[上海\] 最近各地居委又整新活，报名免费上门安装煤气报警器。可上海煤气公司说压根没整这活动，怀疑是煤气公司下面地方套皮业务又在完成什么任务好交差提业绩了
+
+https://www.v2ex.com/t/972340
+
+#### \[Go 编程语言\] LiteIDE 能不能自动删除不用的包
+
+https://www.v2ex.com/t/972339
+
+#### \[程序员\] 后端程序员学习前端，你门是怎么掌握 css 的
+
+https://www.v2ex.com/t/972338
+
+#### \[酷工作\] \[快手招聘\] 快手消费客户端招聘了! \[北京\]\[iOS&Android\]
+
+https://www.v2ex.com/t/972337
+
+#### \[宽带症候群\] 上海联通桥接降速如何破？
+
+https://www.v2ex.com/t/972335
+
+#### \[Xbox Series X/S\] 精英手柄三代什么时候出啊,想买个手柄给 iPad 用
+
+https://www.v2ex.com/t/972334
+
+#### \[程序员\] 请问 SATA 接口固态买哪个好？
+
+https://www.v2ex.com/t/972333
+
+#### \[问与答\] tor 下 zlib 的正确下载方式?
+
+https://www.v2ex.com/t/972332
+
+#### \[iCloud\] 免费发放 10 枚 iCloud 永久 200GB 账号
+
+https://www.v2ex.com/t/972331
+
+#### \[问与答\] 捡了一个鸽子回来养，需要注意什么？🐦
+
+https://www.v2ex.com/t/972330
+
+#### \[程序员\] 切换 Deno 技术栈的一点心得
+
+https://www.v2ex.com/t/972329
+
+#### \[分享创造\] 分享一下煮西米露的过程
+
+https://www.v2ex.com/t/972328
+
+#### \[问与答\] 有升级到 win11 的朋友吗， WSL 可否平滑升级过去
+
+https://www.v2ex.com/t/972326
+
+## Generic News
+
+### AP News
+
+#### Prince Harry arrives in Germany to open Invictus Games for veterans
+
+https://apnews.com/article/2f63f307a8e8c10bdb19ab98be526186
+
+BERLIN (AP) --- Prince Harry arrived in the western German city of
+Duesseldorf on Saturday where he will open the Invictus Games, a
+competition for wounded, injured and ill service personnel and veterans.
+Harry, also known as the Duke of\...
+
+#### Greek authorities evacuate another village as they try to prevent flooding in a major city
+
+https://apnews.com/article/904f58740cb72fd5b647f836339c6dcb
+
+ATHENS, Greece (AP) --- Another village near a major Greek city was
+ordered evacuated Saturday afternoon as authorities frantically shored
+up flood defenses against a rising river following torrential rain
+earlier in the week. Rescue\...
+
+#### Terrorism suspect who escaped from London prison is captured while riding a bike
+
+https://apnews.com/article/76a5d61b07a1cf3cb0df23b8422af828
+
+LONDON (AP) --- A former British soldier facing terrorism charges who
+snuck out of a London prison on a food delivery truck was captured
+Saturday, police said. Daniel Abed Khalife was nabbed while riding a
+bicycle along a canal path west\...
+
+#### Heavy swells pound northeast Caribbean as Hurricane Lee charges through open waters
+
+https://apnews.com/article/cfd1840ab0e92d9d6af71878aec0b187
+
+SAN JUAN, Puerto Rico (AP) --- Large swells battered the northeast
+Caribbean on Saturday as Hurricane Lee churned nearby through open
+waters as a Category 3 storm. The storm, which is not forecast to make
+landfall, was located about 350\...
+
+#### Neymar breaks Pele's Brazil goal-scoring record in 5-1 win in South American World Cup qualifying
+
+https://apnews.com/article/6f63ff83d614d1b5c0a3b5d84c508248
+
+SAO PAULO (AP) --- Neymar eclipsed Pelé as the top goal scorer for
+Brazil's national team after overtaking the three-time World Cup
+winner's career total on Friday. The goal that put the 31-year-old
+Neymar on the top of Brazil's scoring\...
+
+#### Trump Organization offloads Bronx golf course to casino company with New York City aspirations
+
+https://apnews.com/article/af489ecc87ccaade7e0f01e7ef6c198d
+
+NEW YORK (AP) --- The Trump Organization has sold its right to operate a
+public golf course in the Bronx, city officials confirmed, offloading
+control of the publicly-owned property to a company that is seeking to
+build a casino in New\...
+
+#### New Mexico governor issues order suspending the right to carry firearms in public across Albuquerque
+
+https://apnews.com/article/fc5b4b79bf411b8022c3ad58975724d7
+
+SANTA FE, N.M. (AP) --- New Mexico Gov. Michelle Lujan Grisham on Friday
+issued an emergency order suspending the right to carry firearms in
+public across Albuquerque and the surrounding county for at least 30
+days in response to a spate\...
+
+#### Judge denies Mark Meadows' request to move his Georgia election subversion case to federal court
+
+https://apnews.com/article/af4caf235c831bd32ac6c72b218695b3
+
+ATLANTA (AP) --- A judge on Friday denied Mark Meadows' request to move
+his Georgia election subversion case to federal court, ruling that the
+Trump White House chief of staff must fight the charges in state court
+instead. U.S. District\...
+
+#### Infrequent inspection of fan blades led to a United jet engine breaking up in 2021, report says
+
+https://apnews.com/article/7fb32f2a5cdd025e5df7ba19495beab2
+
+WASHINGTON (AP) --- An engine on a United Airlines jet broke up over
+Denver in 2021 because of wear and tear on a fan blade that was not
+adequately inspected for signs of cracking, federal investigators said
+Friday. The National\...
+
+#### From piñata to postage stamp, US celebrates centuries-old Hispanic tradition
+
+https://apnews.com/article/ed23be5a2d6962e350b04021e5f6c357
+
+ALBUQUERQUE, N.M. (AP) --- The U.S. Postal Service on Friday rolled out
+its latest special edition postage stamps, paying homage to a tradition
+with global roots that has evolved over centuries to become a universal
+symbol of celebration\...
+
+#### SpaceX can't launch its giant rocket again until fixes are made, FAA says
+
+https://apnews.com/article/a8d6cec63de579af4b6d5f040e51825d
+
+CAPE CANAVERAL, Fla. (AP) --- SpaceX must take a series of steps before
+it can launch its mega rocket again after its debut ended in an
+explosion, federal regulators said Friday. The Federal Aviation
+Administration said it closed its\...
+
+#### Country music star Zach Bryan says he was arrested and jailed briefly in northeastern Oklahoma
+
+https://apnews.com/article/d8f02726265687b86eda3cfad6b0e9f6
+
+OKLAHOMA CITY (AP) --- Country music star Zach Bryan was arrested by the
+Oklahoma Highway Patrol and jailed briefly Thursday in northeastern
+Oklahoma, according to a video posted on his account on the social media
+site X, formerly\...
+
+#### Miami Beach's iconic Clevelander Hotel and Bar to be replaced with affordable housing development
+
+https://apnews.com/article/55049da19da0f786908d64f360085775
+
+MIAMI BEACH, Fla. (AP) --- Plans are underway for an iconic Miami Beach
+hotel and bar to be replaced with a high-end restaurant and affordable
+housing units, the building's owner announced. The changes being
+submitted soon to the city of\...
+
+### Reuters
+
+#### At least five blasts heard in Kyiv early Sunday - Reuters witnesses
+
+https://www.reuters.com/world/europe/least-five-blasts-heard-kyiv-early-sunday-reuters-witnesses-2023-09-09/
+
+At least five blasts were heard early Sunday across the Ukrainian
+capital of Kyiv, Reuters witnesses reported, after Kyiv mayor Vitali
+Klitschko said air defence systems were engaged in repelling a Russian
+air attack. \"Drones are still\...
+
+#### Colombian President proposes Latin American alliance to transform 'war on drugs'
+
+https://www.reuters.com/world/americas/colombian-president-proposes-latin-american-alliance-transform-war-drugs-2023-09-09/
+
+Colombian President Gustavo Petro proposed on Saturday an alliance
+between Latin American countries to bring a unified voice to the fight
+against drug trafficking, by recognizing drug consumption as a public
+health problem instead of\...
+
+#### Greek rescue teams move into worst-hit flood villages
+
+https://www.reuters.com/world/europe/greek-rescue-teams-move-into-worst-hit-flood-villages-2023-09-09/
+
+A flooded area is seen in the aftermath of Storm Daniel, in Megala
+Kalyvia, Greece, September 9, 2023. REUTERS/Giannis Floulis Ourania
+Trivara reacts outside her flooded house, in the aftermath of Storm
+Daniel in central Greece, in the\...
+
+#### Morocco earthquake kills more than 2,000 people, survivors sleep outdoors
+
+https://www.reuters.com/world/africa/magnitude-7-earthquake-strikes-morocco-gfz-2023-09-08/
+
+Summary: With homes destroyed, villagers prepare for night outside Quake
+damages historic buildings in Marrakech old city WHO says more than
+300,000 people affected in quake zone People flee houses in Casablanca,
+Rabat, elsewhere\...
+
+#### Hurricane Lee expected to move north of Puerto Rico but still dangerous
+
+https://www.reuters.com/business/environment/hurricane-lee-expected-move-north-puerto-rico-still-dangerous-2023-09-09/
+
+A composite image shows Hurricane Lee churning towards the Caribbean
+after intensifying into a major storm, September 8, 2023. National
+Oceanic and Atmospheric Administration (NOAA)/Handout REUTERS. Hurricane
+Lee, a powerful Category 3\...
+
+#### In 'macho' Mexico, stage set for first female president
+
+https://www.reuters.com/world/americas/macho-mexico-stage-set-first-female-president-2023-09-09/
+
+Mexican senator of the National Action Party (PAN) Xochitl Galvez
+gestures as she arrives for her nomination as the opposition Broad Front
+for Mexico 2024 presidential candidate, in Mexico City, Mexico September
+3, 2023. REUTERS/Henry\...
+
+#### US cave explorer trapped in Turkey will be out 'within several days,' governor says
+
+https://www.reuters.com/world/us-cave-explorer-trapped-turkey-will-be-out-within-several-days-governor-2023-09-09/
+
+U.S. caver Mark Dickey is seen in Morca Cave, days before he fell ill
+and became trapped some 1,000 meters (3,280 ft) underground, near Anamur
+in Mersin province, southern Turkey August 28, 2023. REUTERS/Agnes
+Berentes U.S. caver Mark\...
+
+#### Teenager shot dead by Israeli forces, Palestinian health officials say
+
+https://www.reuters.com/world/middle-east/teenager-shot-dead-by-israeli-forces-palestinian-health-officials-say-2023-09-09/
+
+A 16-year-old Palestinian boy was shot dead by Israeli forces on
+Saturday near the occupied West Bank city of Hebron, Palestinian health
+officials said. The Israeli military said that militants hurled
+explosives at soldiers who were in a\...
+
+#### US, Vietnam to elevate ties during Biden visit, with eye on China
+
+https://www.reuters.com/world/us-vietnam-elevate-ties-during-biden-visit-with-eye-china-2023-09-09/
+
+U.S. President Joe Biden attends Partnership for Global Infrastructure
+and Investment event on the day of the G20 summit in New Delhi, India,
+September 9, 2023. REUTERS/Evelyn Hockstein/Pool U.S. President Joe
+Biden visits Vietnam\...
+
+#### Israelis protest against overhaul plans ahead of key court decision
+
+https://www.reuters.com/world/middle-east/israelis-protest-against-overhaul-plans-ahead-key-court-decision-2023-09-09/
+
+Protesters display a large banner as they take part in a demonstration
+against Israeli Prime Minister Benjamin Netanyahu and his nationalist
+coalition governments judicial overhaul, in Tel Aviv, Israel September
+9, 2023\...
+
+#### Moroccan village smashed by earthquake
+
+https://www.reuters.com/world/africa/moroccan-village-smashed-by-earthquake-2023-09-09/
+
+A view shows a damaged room, following a powerful earthquake, in the
+village of Tansghart in the Asni area, Morocco, September 9, 2023.
+REUTERS/Abdelhak Balhaki A view shows a house, damaged in an earthquake,
+that belongs to Saida\...
+
+#### Deal reached to open roads to Azerbaijan's breakaway Karabakh region
+
+https://www.reuters.com/world/azerbaijan-says-armenian-forces-fired-its-troops-2023-09-09/
+
+Summary: Karabakh to allow aid shipments via Azerbaijan First direct
+transport links since 1993 war Say Baku agrees to end blockade of road
+to Armenia An ethnic Armenian soldier looks through binoculars as he
+stands at fighting positions\...
+
+#### Ukraine's counteroffensive to continue after onset of bad weather, spy chief says
+
+https://www.reuters.com/world/europe/ukraines-counteroffensive-continue-after-onset-bad-weather-spy-chief-2023-09-09/
+
+Major General Kyrylo Budanov, chief of the Military Intelligence of
+Ukraine, speaks during an interview with Reuters, amid Russias attack on
+Ukraine, in Kyiv, Ukraine July 6, 2023. REUTERS/Valentyn Ogirenko
+Ukraine\...
+
+### 联合早报
+
+#### 中国房地产市场能否复苏？
+
+https://www.zaobao.com/news/china/story20230910-1431613
+
+过去两年，受冠病疫情影响，恒大、华夏幸福、碧桂园等中国著名地产商纷纷爆雷，中国房地产市场遭受重创。楼市低迷也给中国经济带来巨大负面影响。图为恒大在江苏淮安的发展项目，摄于2022年12月3日。（法新社）
+中国房地产市场过去两年遭受重创，低迷的楼市也冲击经济。中国各地近期纷纷松绑调控，出台"认房不认贷"等政策，降低购房门槛，刺激楼市销售。中国房地产市场能否迎来转机......
+
+#### 华为再上线两款新机
+
+https://www.zaobao.com/news/china/story20230909-1431932
+
+（北京综合讯）华为再上线两款新手机，市场评测称新机支持5G速度，显示华为可能已解决了量产5G功能芯片的难题。
+在没有任何预告的情况下，华为在星期五（9月8日）宣布开启Mate 60 Pro+和Mate
+X5两款新机预定销售，订金1000元人民币（约185新元）。10天前，华为以同样的方式开启了Mate
+60 Pro的预定。 华为没有披露两款新品的处理器信息......
+
+#### 港深大雨后解除预警 部分交通和电力设施仍待恢复
+
+https://www.zaobao.com/news/china/story20230909-1431904
+
+香港暴雨来势汹汹，养猪场的猪逃生无门，多数被冲走或淹死，让猪农损失严重。工作人员星期六（9月9日）在清理死猪。（路透社）
+（深圳/香港综合讯）中国粤港地区遭受破纪录的暴雨袭击后，雨势最为严重的香港、深圳两地于星期六（9月9日）解除相关暴雨预警，但部分受损道路、学校和地铁设施仍在修复中。
+综合《星岛日报》等香港媒体报道，港府在审视最新天气、交通及路面情况后，于星期六零时宣布结束"极端情况"警示......
+
+#### 新闻人间：华为新手机的启示
+
+https://www.zaobao.com/news/china/story20230909-1431671
+
+台积电董事长刘德音星期三（9月6日）出席"SEMICON Taiwan
+2023国际半导体展"大师论坛（CEO
+Summit）发表演说，会后被媒体追问在美国设厂困境等问题，不厌其烦详加说明。但一被询及中国大陆电信巨擘华为新手机用中芯七纳米晶片（也称芯片），显示在美国制裁下，大陆仍突围而出，"这晶片有看到台积电的影子吗？"刘德音立马斩钉截铁地说："没有......
+
+#### 香港遭遇百年一遇大暴雨 港府被质疑反应过慢
+
+https://www.zaobao.com/news/china/story20230908-1431675
+
+持续暴雨导致香港多地严重积水，导致车辆熄火被困，抛锚在水中。（彭博社）
+受台风"海葵"残留低压槽影响，香港遭遇百年一遇的大暴雨，多区出现严重淹水，逾130人受伤。港府被质疑反应过慢，没有及早预警和准备。
+据彭博行业研究估计，这场罕见的暴雨可能给香港造成超过1亿美元（约1.36亿新元）的损失......
+
+#### 李强与佐科会谈 印尼邀请中国企业建设新首都
+
+https://www.zaobao.com/news/china/story20230908-1431660
+
+中国总理李强（左）星期五（9月8日）在雅加达与印度尼西亚总统佐科会谈。（新华社）
+（雅加达综合讯）中国总理李强在与印度尼西亚总统佐科会面时，承诺扩大印尼大宗商品和农渔产品进口，佐科则邀请中国企业参与新首都努山达拉建设。
+正在印尼访问的李强星期五（9月8日）在雅加达与佐科会面。据新华社报道，李强在会面中呼吁两国把握自身根本和长远利益，在涉及彼此核心利益和重大关切问题上加大相互支持......
+
+#### 深港两地遭受有记录以来最大暴雨袭击
+
+https://www.zaobao.com/news/china/story20230908-1431656
+
+（彭博社）
+受台风"海葵"外围残留云系与季风影响，深港两地遭受有记录以来最大暴雨袭击。
+香港在星期四（9月7日）晚上录得每小时158.1
+毫米的降雨量，是当地自1884年有记录以来的最高降雨量。雨势导致香港部分街道被淹，有茶餐厅店员竖起防洪挡水板，避免雨水倒灌进店内。
+截至星期五下午6时15分，暴雨已造成超过130人受伤送医，四人伤势严重......
+
+#### 美国正式对华为手机芯片展开调查
+
+https://www.zaobao.com/news/china/story20230908-1431651
+
+受美国关注的华为Mate 60
+Pro系列手机星期五在中国预售，引发抢购热潮。（路透社）
+中美手机之争越演越烈，美国政府已正式对华为新型手机内的先进中国制芯片展开调查；中国外交部则批评美国"滥用国家力量，无理打压中国企业"。
+受访学者分析，美国料难以进一步收紧对华限制措施，因此力图通过调查的方式，对有关华为芯片的舆论作出回应......
+
+#### 广东多地遭暴雨袭击 深圳降雨量破多项极值
+
+https://www.zaobao.com/news/china/story20230908-1431649
+
+深圳星期四（9月7日）晚上遭暴雨袭击，高降雨量导致多个地区出现内涝，马路和人行道完全被雨水淹没，有车辆浸泡在路中央。（林煇智摄）
+受暴雨影响，深圳火车站的负一楼进出站口被水淹，乘客无法正常进出站，一度有约百人被滞留在站内。（中新社）
+中国广东珠江三角洲遭大暴雨袭击，泛滥洪水导致深圳、广州、东莞等城市出现严重内涝，部分地区被迫停课停工......
+
+#### 数百港人寻求政治庇护 获英国批核率不足一成
+
+https://www.zaobao.com/news/china/story20230908-1431641
+
+（伦敦/香港综合讯）英国内政部统计，自2020年近300宗香港人赴英寻求庇护个案，当局仅批出28宗，批核率不足一成。
+英国广播公司（BBC）报道，反对《逃犯条例》修订风波期间，不少年轻港人离港赴英，部分人因无法通过英国国民（海外）护照（BNO）签证计划申请居留，需向英国政府申请政治庇护。
+报道引述英国内政部数据，自2020年赴英寻求庇护的港人个案共有299宗，当中未成年人达44人......
+
+#### 中缅合力打击 1207名缅北涉诈嫌疑人移交中国
+
+https://www.zaobao.com/news/china/story20230908-1431631
+
+（北京综合讯）继本月初抓获269名缅北涉诈犯罪嫌疑人后，中缅警方继续合力打击电信网络诈骗犯罪，缅甸星期三（9月6日）再将1207名涉案嫌疑人移交中国。
+据新华社消息，中国公安部部署云南等地警方持续推进缅北涉华电信网络诈骗打击行动。云南普洱警方与缅甸相关地方执法部门开展边境警务合作，最近移交中国1207名缅北涉诈犯罪嫌疑人，其中网上在逃人员41名。官方报道中没有说明这些嫌疑人的国籍......
+
+#### 黄小芳：昙花一现的大爷跳水
+
+https://www.zaobao.com/news/china/story20230908-1431339
+
+两年多前到北京常驻后不久，我在中国的第一个旅游目的地就是毗邻的天津。除了被导游带到特产店买麻花和鲍鱼干，我对天津没有留下太深刻的印象。没想到这个看似平平无奇的城市，最近突然成为中国最火的旅游打卡地。
+今年8月底，大批天津大爷在狮子林桥跳水的视频在网络蹿红，但这股风潮来得快去得也快。不到一个月的时间，跳水大爷在星期三（9月6日）以天津狮子林桥跳水队的名义宣布停止这项活动......
+
+#### 【早知】华为新手机面世是否意味中国突破了"卡脖子"？
+
+https://www.zaobao.com/news/china/story20230907-1431374
+
+一名技术人员9月3日在渥太华的实验室里，分解华为Mate 60
+Pro智能手机。（彭博社） 华为上周低调发售最新旗舰手机Mate 60
+Pro，随即在中国内外掀起围绕这款手机芯片设计、技术背景的探察旋风。华为新手机横空出世，是否意味着中国已在芯片领域突破"卡脖子"？
+华为最新手机的科技成色如何......
+
+#### 腾讯推出"混元大模型" 正式加入中国人工智能竞赛
+
+https://www.zaobao.com/news/china/story20230907-1431353
+
+腾讯副总裁蒋杰星期四（9月7日）在年度全球数字生态大会上说，混元大模型具备中文创作和复杂语境下的逻辑推理能力，目前已接入公司旗下的50多个产品和服务。（林煇智摄）
+中国互联网巨头腾讯发布人工智能（AI）大模型"混元大模型"，并推出类似ChatGPT的聊天机器人，正式加入中国科技企业在AI领域的竞赛......
+
+#### 美国议员呼吁加码制裁中国科企 学者：即便不升级也会延续现有制裁
+
+https://www.zaobao.com/news/china/story20230907-1431344
+
+美国众议院中国问题特别委员会主席加拉格尔6日发表声明，呼吁美国商务部停止向华为及其芯片（又称晶片）供应商中芯国际出口所有技术。（法新社）
+搭载中国国产芯片的华为新手机面世后，美国国内关于加码制裁中国科技企业的呼声水涨船高。学者分析，这类呼声更多是从政治角度而非技术层面提出，但在当前政治氛围下，华盛顿即便不升级，也会延续现有制裁......
+
+#### 美国延长部分中国产品加征关税豁免至今年底
+
+https://www.zaobao.com/news/china/story20230907-1431333
+
+（华盛顿/北京综合讯）美国决定对部分中国产品的豁免加征关税期限，延长至今年年底。获得延长的是352个中国进口产品项目，以及77个与应对冠病有关的中国产品项目。
+综合路透社、法新社报道，美国贸易代表办公室星期三（9月6日）宣布，将与上述项目有关的"301条款"关税排除期限，从原定的9月30日延长至12月31日。
+美国通货膨胀当下持续走高，拜登政府正面临来自企业和国会议员要求减轻关税负担压力......
+
+#### 中国对榴梿的需求使全球销售增400％
+
+https://www.zaobao.com/news/china/story20230907-1431328
+
+中国消费者对榴梿的需求增大，图为广西南宁市民今年5月在摊贩选购榴莲。（中新社）
+（北京/香港综合讯）中国消费者对榴梿的需求增大，促使全球榴梿销量增长400%。
+《南华早报》报道，汇丰银行星期一（9月4日）发布的报告显示，中国对榴梿的需求占全球市场的91%，中国过去两年共进口价值60亿美元（约81亿新元）的榴梿。在中国市场的带动下，今年第一季度的全球榴梿销量与去年同期相比，大增400%......
+
+#### 中澳总理会晤促关系升温 阿尔巴尼斯答应年内访华
+
+https://www.zaobao.com/news/china/story20230907-1431306
+
+中国总理李强（右）星期四（9月7日）在印度尼西亚雅加达出席亚细安系列峰会期间，与澳大利亚总理阿尔巴尼斯（左）举行会晤。（新华社）
+中国总理李强与澳大利亚总理阿尔巴尼斯星期四（9月7日）在印度尼西亚出席亚细安系列峰会期间举行会晤。李强呼吁双方抓紧重启和恢复各领域交流，推动关系进一步改善；阿尔巴尼斯则表示，将于今年稍晚时访问中国......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

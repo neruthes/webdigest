@@ -1,0 +1,999 @@
+Other formats: [PDF]() / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20230917.html)
+
+
+# Web Digest 2023-09-17
+
+
+## Developers
+
+### Hacker News
+
+#### Java 21 makes me like Java again
+
+https://wscp.dev/posts/tech/java-pattern-matching/
+
+https://news.ycombinator.com/item?id=37538333
+
+#### Masked 'boot girls' are freeing booted cars in Atlanta
+
+https://www.roadandtrack.com/news/a45123358/masked-boot-girls-are-freeing-booted-cars-all-over-atlanta/
+
+https://news.ycombinator.com/item?id=37537111
+
+#### Is this fraud? And if so, to what extent am I responsible?
+
+https://workplace.stackexchange.com/questions/193234/is-this-fraud-and-if-so-to-what-extent-am-i-responsible
+
+https://news.ycombinator.com/item?id=37536361
+
+#### Unity's Self-Combustion Engine
+
+https://www.gamesindustry.biz/unitys-self-combustion-engine-this-week-in-business
+
+https://news.ycombinator.com/item?id=37535910
+
+#### French supermarket using 'shrinkflation' stickers to pressure PepsiCo and others
+
+https://www.cnn.com/2023/09/15/business-food/carrefour-shrinkflation-stickers/index.html
+
+https://news.ycombinator.com/item?id=37535575
+
+#### Game developers turning off all IronSource and Unity Ads monetization
+
+https://docs.google.com/document/d/16PzpX6qIwJu57jCB2fhxqKtmxA6A6QmZWifsWZBqI2w/view
+
+https://news.ycombinator.com/item?id=37535187
+
+#### Activists Have One Simple Goal: Abolish the Cruise Industry
+
+https://www.thenation.com/article/world/cruise-ships-marseille-stop-croisieres/
+
+https://news.ycombinator.com/item?id=37534618
+
+#### Horcrux: Split your file into encrypted fragments
+
+https://github.com/jesseduffield/horcrux
+
+https://news.ycombinator.com/item?id=37534615
+
+#### NASA clears the air: No evidence that UFOs are aliens
+
+https://theconversation.com/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial-213528
+
+https://news.ycombinator.com/item?id=37534517
+
+#### Bitwarden login down due to Azure outage
+
+https://status.bitwarden.com/
+
+https://news.ycombinator.com/item?id=37534430
+
+#### Tracking Austrian grocery prices by scraping store sites
+
+https://mastodon.gamedev.place/@badlogic/111071396799790275
+
+https://news.ycombinator.com/item?id=37532973
+
+#### GPT-4 is not getting worse
+
+https://coagulopath.com/gpt-4-is-not-getting-worse/
+
+https://news.ycombinator.com/item?id=37532522
+
+#### How Instagram scaled to 14 million users with only 3 engineers
+
+https://engineercodex.substack.com/p/how-instagram-scaled-to-14-million
+
+https://news.ycombinator.com/item?id=37532355
+
+#### Relational is more than SQL
+
+https://fauna.com/blog/relational-is-more-than-sql
+
+https://news.ycombinator.com/item?id=37532245
+
+#### Marc Benioff: "I don't work well in an office"
+
+https://fortune.com/2023/09/15/marc-benioff-salesforce-says-hes-remote-worker-office-return/
+
+https://news.ycombinator.com/item?id=37531965
+
+#### Subdomain.center -- discover all subdomains for a domain
+
+https://www.subdomain.center/
+
+https://news.ycombinator.com/item?id=37531801
+
+#### Inflation in Austria
+
+https://mastodon.gamedev.place/@badlogic/111071396799790275
+
+https://news.ycombinator.com/item?id=37530314
+
+#### Where did the Carter White House's solar panels go? (2010)
+
+https://www.scientificamerican.com/article/carter-white-house-solar-panel-array/
+
+https://news.ycombinator.com/item?id=37529683
+
+#### "Most notorious" illegal shadow library (LibGen) sued by textbook publishers
+
+https://arstechnica.com/tech-policy/2023/09/most-notorious-illegal-shadow-library-sued-by-textbook-publishers/
+
+https://news.ycombinator.com/item?id=37529666
+
+#### Everyday uses for PVC water pipe
+
+https://tomtilley.net/projects/pvc/
+
+https://news.ycombinator.com/item?id=37528472
+
+### Phoronix
+
+#### AMD Linux Gaming Performance Largely Unchanged With Linux 6.6 Git
+
+https://www.phoronix.com/news/AMD-Gaming-Linux-6.6-6.5
+
+#### LWJGL 3.3.3 Released With Updated Bindings, GraalVM Native Image Support
+
+https://www.phoronix.com/news/LWJGL-3.3.3
+
+#### Linux 6.5 Now Powering Ubuntu 23.10
+
+https://www.phoronix.com/news/Ubuntu-23.10-Lands-Linux-6.5
+
+#### AMD Releases ROCm 5.7 GPU Compute Stack
+
+https://www.phoronix.com/news/AMD-ROCm-5.7-Released
+
+#### KDE Plasma 6.0 Lands More Performance Optimizations, Better Wayland Gaming Experience
+
+https://www.phoronix.com/news/KDE-Plasma-6-Better-Gaming
+
+#### Ubuntu 23.10's Firefox Snap Enabling Wayland By Default
+
+https://www.phoronix.com/news/Ubuntu-23.10-Firefox-Wayland
+
+#### SteamOS 3.5 Rolls Out In Preview On The Steam Deck With Many New Features
+
+https://www.phoronix.com/news/SteamOS-3.5-Preview
+
+#### GCC Preparing To Introduce \"-fhardened\" Security Hardening Option
+
+https://www.phoronix.com/news/GCC-fhardened-Hardening-Option
+
+#### Wine 8.16 Restarts Work On Implementing Microsoft's Deprecated DirectMusic API
+
+https://www.phoronix.com/news/Wine-8.16-Released
+
+### GitHub
+
+#### apache/iotdb
+
+https://github.com/apache/iotdb
+
+Apache IoTDB\
+Language: Java\
+Stars: 3911\
+Forks: 928
+
+#### d2l-ai/d2l-zh
+
+https://github.com/d2l-ai/d2l-zh
+
+《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。\
+Language: Python\
+Stars: 48138\
+Forks: 9585
+
+#### godotengine/godot-demo-projects
+
+https://github.com/godotengine/godot-demo-projects
+
+Demonstration and Template Projects\
+Language: GDScript\
+Stars: 3756\
+Forks: 1327
+
+### Dribbble
+
+#### TeamUp Logo Design - Abstract, People, Connection
+
+https://dribbble.com/shots/22567753
+
+#### E-manager - Website design for E-Sim card management mobile app
+
+https://dribbble.com/shots/22570069
+
+#### Space brandmark
+
+https://dribbble.com/shots/22567444
+
+#### SelfQuest mobile app interaction
+
+https://dribbble.com/shots/22552166
+
+#### Logos & Background Patterns
+
+https://dribbble.com/shots/22558614
+
+#### Colorful Ampersand
+
+https://dribbble.com/shots/22555686
+
+#### HelpSpot - Logo Design 🔗
+
+https://dribbble.com/shots/22558254
+
+#### Kinetic Trails Wordmark
+
+https://dribbble.com/shots/22549671
+
+#### Shock - bolt logo
+
+https://dribbble.com/shots/22543619
+
+#### Evening still life 💀👑
+
+https://dribbble.com/shots/22547034
+
+#### Candyland Story
+
+https://dribbble.com/shots/22529931
+
+#### Flights -- Product Design & Motion for Super App
+
+https://dribbble.com/shots/22527463
+
+#### Wordsmith - Logo Concepts
+
+https://dribbble.com/shots/22536770
+
+#### The Wyoming Reserve
+
+https://dribbble.com/shots/22539046
+
+#### Health Monitoring App
+
+https://dribbble.com/shots/22539495
+
+#### New York City Stickers
+
+https://dribbble.com/shots/22521374
+
+#### Business Landing Page
+
+https://dribbble.com/shots/22532468
+
+#### Marketplace Marathon
+
+https://dribbble.com/shots/22536148
+
+#### Omi Logo Redesign
+
+https://dribbble.com/shots/22524463
+
+#### Brand ID - Unlayered (podcast)
+
+https://dribbble.com/shots/22506327
+
+#### Flora and Fauna
+
+https://dribbble.com/shots/22518846
+
+#### Unused Kode Logo Design
+
+https://dribbble.com/shots/22527785
+
+#### Acme - Logo / Brand Mark Design
+
+https://dribbble.com/shots/22520026
+
+#### Wellness: Your All-in-One UI Kit
+
+https://dribbble.com/shots/22520765
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### 马斯克的 X 移除美国汽车工人联盟的付费蓝标
+
+https://www.solidot.org/story?sid=76103
+
+#### 最高检谈合理使用和避风港规则
+
+https://www.solidot.org/story?sid=76102
+
+#### 研究发现教育减负效果不显著
+
+https://www.solidot.org/story?sid=76101
+
+#### 研究发现乌鸦能使用统计逻辑
+
+https://www.solidot.org/story?sid=76100
+
+#### 永远不会瘪胎的自行车轮胎通过 Kickstarter 销售
+
+https://www.solidot.org/story?sid=76099
+
+#### TikTok 因违反欧盟儿童数据保护法被罚 3.45 亿欧元
+
+https://www.solidot.org/story?sid=76098
+
+#### Unity 员工向公司发出死亡威胁
+
+https://www.solidot.org/story?sid=76097
+
+#### 漫画家宣布将其《童话中人（Fables）》系列漫画捐给所有人
+
+https://www.solidot.org/story?sid=76096
+
+#### 2023 年搞笑诺贝尔奖宣布
+
+https://www.solidot.org/story?sid=76095
+
+#### 黑客从 CoinEX 窃取了 5300 万美元加密货币
+
+https://www.solidot.org/story?sid=76094
+
+#### iPhone 15 Pro 是第一款支持开源智能家居协议 Thread 的智能手机
+
+https://www.solidot.org/story?sid=76093
+
+#### Unity 在死亡威胁之后关闭办事处
+
+https://www.solidot.org/story?sid=76092
+
+#### 晚睡晚起或增加糖尿病风险
+
+https://www.solidot.org/story?sid=76091
+
+#### Chromebook 将获得十年的更新支持
+
+https://www.solidot.org/story?sid=76090
+
+#### 美国指 Google 通过搜索默认交易巩固其垄断地位
+
+https://www.solidot.org/story?sid=76089
+
+#### 勒索组织 Scattered Spider 利用社交工程攻击了米高梅
+
+https://www.solidot.org/story?sid=76088
+
+#### Meduza 联合创始人的 iPhone 手机感染了间谍软件 Pegasus
+
+https://www.solidot.org/story?sid=76087
+
+#### 法国以辐射超标暂停 iPhone 12 销售
+
+https://www.solidot.org/story?sid=76086
+
+#### 科技行业高管讨论 AI 未来
+
+https://www.solidot.org/story?sid=76085
+
+#### Google 裁减招聘职位
+
+https://www.solidot.org/story?sid=76084
+
+### V2EX
+
+#### \[YouTube\] youtube 印区 10 一季度 要自己转印区 或 没锁区的号
+
+https://www.v2ex.com/t/974505
+
+#### \[分享创造\] 写了一个刮刮乐模拟器，欢迎大家来打发时间
+
+https://www.v2ex.com/t/974504
+
+#### \[分享创造\] AI 站点存活监控网站 https://www.aiwebsitechecker.com/
+
+https://www.v2ex.com/t/974503
+
+#### \[OpenAI\] 收 OpenAI 的 4.0api 收 Claude api
+
+https://www.v2ex.com/t/974501
+
+#### \[生活\] 年龄越大越觉得能力不那么重要，人与人之间的关系或者说团结更重要
+
+https://www.v2ex.com/t/974499
+
+#### \[OpenAI\] GPT4 API 全面放开了！ GPT4 Plus 到期没续，部署了两个开源 UI， stars 高达 4w3，但是感觉不太行
+
+https://www.v2ex.com/t/974496
+
+#### \[宽带症候群\] 上海移动千兆宽带=40 元每月，每月另送 50G 流量+2000 分钟语音。
+
+https://www.v2ex.com/t/974494
+
+#### \[宽带症候群\] 河南郑州电信有类似"游戏宽带"的精品网套餐吗
+
+https://www.v2ex.com/t/974493
+
+#### \[分享创造\] AI 站点存活监控网站 https://www.ispoedown.com/
+
+https://www.v2ex.com/t/974492
+
+#### \[OpenWrt\] Openwrt 作为主路由 PPPOE 拨号显示成功，已获取 IPV4 地址，但是网页无法打开
+
+https://www.v2ex.com/t/974491
+
+#### \[宽带症候群\] 成都电信 2000M 家宽已经被截割到 vBRAS
+
+https://www.v2ex.com/t/974490
+
+#### \[问与答\] 为什么 GTX1080 比 rtx 3060 转码 1080P 的视频哪个更快？
+
+https://www.v2ex.com/t/974489
+
+#### \[问与答\] 一件事再次让我对身边亲近的人感到无奈
+
+https://www.v2ex.com/t/974487
+
+#### \[问与答\] 有没有最低成本的 openai api？
+
+https://www.v2ex.com/t/974486
+
+#### \[宽带症候群\] 求药， hddolby/audiences/hdfans/wintersakura 任意一个都行
+
+https://www.v2ex.com/t/974485
+
+#### \[职场话题\] 请教在香港 it 行业工作的朋友
+
+https://www.v2ex.com/t/974484
+
+#### \[问与答\] 怎么训练抗压能力，在压力和焦虑面前不再拖延和逃避？
+
+https://www.v2ex.com/t/974483
+
+#### \[问与答\] 第一次在咸鱼卖内存条，求解惑
+
+https://www.v2ex.com/t/974480
+
+#### \[分享创造\] 😄😄😄又一个管理端框架上线了，设计理念简单而不简约
+
+https://www.v2ex.com/t/974479
+
+#### \[问与答\] Cpanel 中没有 MultiPHP Manager,如何设置单个子目录的 PHP 版本为 5?
+
+https://www.v2ex.com/t/974478
+
+#### \[Apple\] Setapp 不想用了，还剩 300 多天，有人要么？
+
+https://www.v2ex.com/t/974476
+
+#### \[Java\] 一个 jar 包 60 多 Mb 正常吗，感觉还没引入多少依赖
+
+https://www.v2ex.com/t/974475
+
+#### \[程序员\] Cookie 同步的浏览器插件有需求吗?
+
+https://www.v2ex.com/t/974474
+
+#### \[问与答\] 求助，解决 maven install 不成功的问题
+
+https://www.v2ex.com/t/974473
+
+#### \[分享创造\] 开发了一款 AI 搜索引擎，欢迎大家试用 - Note AI
+
+https://www.v2ex.com/t/974472
+
+#### \[酷工作\] \[社招\] \[内推\] \[深圳\] 资深后端开发工程师-飞书多维表格
+
+https://www.v2ex.com/t/974471
+
+#### \[酷工作\] 爬虫工程师兼职 (远程岗位) 3K 到 5K
+
+https://www.v2ex.com/t/974470
+
+#### \[Python\] 如何实现一个网页气泡🫧效果？
+
+https://www.v2ex.com/t/974469
+
+#### \[SONY\] 有用 sony 电视+Chromecast with Google tv4K 搭配的吗？增强模式打不开 4KHDR+双杜比怎么办？
+
+https://www.v2ex.com/t/974467
+
+#### \[推广\] NameSilo 最新活动 .com 域名首年一美元
+
+https://www.v2ex.com/t/974466
+
+#### \[程序员\] clash 中将使用 url-test 的节点进行 relay 放到 fallback-auto 中的奇怪问题
+
+https://www.v2ex.com/t/974465
+
+#### \[Apple\] iPhone15 Pro 换成 USB3 能不能支持移动硬盘、显示屏、拓展坞？
+
+https://www.v2ex.com/t/974464
+
+#### \[问与答\] 双非考研中科院软件所, 出来就业时能过简历关吗
+
+https://www.v2ex.com/t/974463
+
+#### \[问与答\] Autox.js 环境下可以 Encode / Decode Protobuf 协议内容？
+
+https://www.v2ex.com/t/974462
+
+#### \[汽车\] 为什么科目三 各地规则都不一样 有黑幕吗
+
+https://www.v2ex.com/t/974461
+
+#### \[生活\] 简评一下我用过的耳塞
+
+https://www.v2ex.com/t/974460
+
+#### \[NAS\] 蒲公英 X1 旁路盒子测评
+
+https://www.v2ex.com/t/974459
+
+#### \[问与答\] 很想知道一群小孩子玩的游戏的名字，你小时候玩过吗？你知道它的名字？
+
+https://www.v2ex.com/t/974458
+
+#### \[求职\] 23 届双非计算机，请各位指点下了。上海求职 3 个月了。
+
+https://www.v2ex.com/t/974457
+
+#### \[程序员\] dperf 参加 DPDK 峰会 2023 的 PPT 及视频
+
+https://www.v2ex.com/t/974456
+
+#### \[问与答\] 域名邮箱问题
+
+https://www.v2ex.com/t/974455
+
+#### \[程序员\] 尚硅谷和黑马哪家比较好？
+
+https://www.v2ex.com/t/974453
+
+#### \[分享发现\] nue 有希望替代 vue 和 react 吗
+
+https://www.v2ex.com/t/974451
+
+#### \[OpenAI\] 如果用土区账户和礼品卡来买 plus,会有什么问题么
+
+https://www.v2ex.com/t/974450
+
+#### \[北京\] 个人整租找室友，昌平北七家， 1500/月
+
+https://www.v2ex.com/t/974449
+
+#### \[问与答\] 如果从两岁开始给小朋友只看英语动画片，会不会对他们未来的英语学习有极大帮助？
+
+https://www.v2ex.com/t/974448
+
+#### \[问与答\] 请问有没有可以帮忙写网页的大哥呢？有偿付费。
+
+https://www.v2ex.com/t/974447
+
+#### \[程序员\] 突发奇想，有没有这样一款远程软件
+
+https://www.v2ex.com/t/974445
+
+#### \[程序员\] 有人用 answer.dev 这个问答程序吗？
+
+https://www.v2ex.com/t/974444
+
+#### \[酷工作\] \[远程\] 安卓逆向， QT， Golang， UI， CDN！
+
+https://www.v2ex.com/t/974443
+
+## Generic News
+
+### AP News
+
+#### Angels star Shohei Ohtani will have elbow surgery soon, out for the season because of oblique injury
+
+https://apnews.com/article/153797050423a70c15d45addc5224e7e
+
+ANAHEIM, Calif. (AP) --- Shohei Ohtani will have surgery soon on the
+ligament tear in his pitching elbow after the Los Angeles Angels'
+two-way star was ruled out for the rest of the season Saturday due to an
+oblique injury. Ohtani and the\...
+
+#### Comedian Russell Brand denies allegations of sexual assault published by three UK news organizations
+
+https://apnews.com/article/8e501489fc489fb66fe33f4e113d04e9
+
+LONDON (AP) --- Three British news organizations reported Saturday that
+comedian and social influencer Russell Brand has been accused of rape,
+sexual assault and abuse based on allegations from four women who knew
+him over a seven-year\...
+
+#### Italian air force aircraft crashes during an acrobatic exercise. A girl on the ground was killed
+
+https://apnews.com/article/fd7ec602db3186a12fea3f88e2b7263b
+
+MILAN (AP) --- An aircraft of the Italian acrobatic air team the Frecce
+Tricolori crashed on Saturday during a practice run outside the northern
+city of Turin, killing a child on the ground, Italian media reported.
+The plane or parts of\...
+
+#### Louisiana prisoner suit claims they're forced to endure dangerous conditions at Angola prison farm
+
+https://apnews.com/article/a091bf3375d091994d5814539dafb87f
+
+BATON ROUGE, La. (AP) --- Men incarcerated at Louisiana State
+Penitentiary filed a class-action lawsuit Saturday, contending they have
+been forced to work in the prison's fields for little or no pay, even
+when temperatures soar past 100\...
+
+#### Beer flows and crowds descend on Munich for the official start of Oktoberfest
+
+https://apnews.com/article/4e719c6ef30db862450674047bdc6498
+
+MUNICH (AP) --- The beer is flowing and millions of people descending on
+the Bavarian capital to celebrate the official opening of Oktoberfest.
+With the traditional cry of "O'zapft is" --- "It's tapped" --- Mayor
+Dieter Reiter\...
+
+#### Shohei Ohtani's locker has been packed up at Angel Stadium, and the Angels decline to say why
+
+https://apnews.com/article/d4daa9bed2115c35c5c7133d95c8d394
+
+ANAHEIM, Calif. (AP) --- Shohei Ohtani's locker has been mostly cleared
+out at Angel Stadium, and the Los Angeles Angels declined to say why
+Friday night. The two-way superstar missed his 11th consecutive game
+with an oblique muscle\...
+
+#### A preacher to death row inmates says he wants to end executions. Critics warn he's only seeking fame
+
+https://apnews.com/article/62ebfe9aa69ac8066d3562dcc96b9cbd
+
+OKLAHOMA CITY (AP) --- With just weeks left before his scheduled
+execution, Oklahoma death row inmate Anthony Sanchez took the unusual
+step of firing his attorneys and skipping a clemency hearing that many
+viewed as the last chance to\...
+
+#### Ashton Kutcher resigns as chair of anti-sex abuse organization after Danny Masterson letter
+
+https://apnews.com/article/b8ee3e125e7eb703eb0cae96d4564b1c
+
+LOS ANGELES (AP) --- Ashton Kutcher has resigned as chairman of the
+board of an anti-child sex abuse organization that he co-founded, after
+he and wife Mila Kunis wrote letters seeking leniency for their former
+"That '70s Show'' co-star\...
+
+#### Hugh Jackman and Deborra-lee Jackman separate after 27 years of marriage
+
+https://apnews.com/article/f1fa97cf97b15a461fc479f4632cfa47
+
+NEW YORK (AP) --- Hugh Jackman and Deborra-lee Jackman have decided to
+end their marriage after 27 years and two children. "We have been
+blessed to share almost 3 decades together as husband and wife in a
+wonderful, loving marriage. Our\...
+
+#### British neonatal nurse found guilty of murdering 7 babies launches bid to appeal her convictions
+
+https://apnews.com/article/6878518520a4d638c9ca3ef1000aca67
+
+LONDON (AP) --- A British neonatal nurse who was found guilty of
+murdering seven babies and the attempted murder of six others has
+launched a bid to appeal her convictions, officials said Friday. Lucy
+Letby, 33, was sentenced last month\...
+
+#### Alaska lawmaker's husband was flying meat from hunting camp when crash occurred, authorities say
+
+https://apnews.com/article/c28e0d1d496fc1465cb9c95a59e1d3f3
+
+ANCHORAGE, Alaska (AP) --- The plane flown by the husband of Alaska U.S.
+Rep. Mary Peltola was carrying a load of moose meat from a remote
+hunting camp when it crashed, killing him earlier this week, authorities
+said. Eugene Peltola Jr\...
+
+#### Tony Award-winner Michael McGrath, mourned as 'adorable, mischievous, brilliant,' dies at 65
+
+https://apnews.com/article/f5fc39b08a95107c74fc6fb7250c33b4
+
+NEW YORK (AP) --- Michael McGrath, a Broadway character actor who shined
+in zany, feel-good musicals and won a Tony Award for "Nice Work If You
+Can Get It," has died. He was 65. McGrath died Thursday at his home in
+Bloomfield, New\...
+
+#### Rep. Lauren Boebert apologizes after getting kicked out of show and falsely denying she vaped
+
+https://apnews.com/article/186d748f754d87a7441268744b0076cf
+
+DENVER (AP) --- Republican Rep. Lauren Boebert apologized Friday after
+getting kicked out of a musical play in Colorado last weekend for
+disruptive behavior and then falsely denying she had been vaping. The
+apology came a day after\...
+
+### Reuters
+
+#### Canada's housing crisis will take years to solve, finance minister says
+
+https://www.reuters.com/world/americas/canadas-housing-crisis-will-take-years-solve-finance-minister-2023-09-16/
+
+A house under construction in a neighbourhood of Ottawa, Ontario, Canada
+April 17, 2023. REUTERS/Lars Hagberg//File Photo An affordable housing
+crisis that is hurting the Canadian governments popularity will take
+years to\...
+
+#### Iran Guards detain dual national for 'organising unrest and sabotage,' Tasnim reports
+
+https://www.reuters.com/world/middle-east/iran-guards-detain-dual-national-organising-unrest-sabotage-tasnim-2023-09-16/
+
+Irans Revolutionary Guards on Saturday detained a dual national
+suspected of \"trying to organise unrest and sabotage\", the
+semi-official Tasnim news agency reported, amid heightened security to
+thwart planned protests a\...
+
+#### Brazil's president calls U.S. economic embargo on Cuba 'illegal,' condemns terrorist list label
+
+https://www.reuters.com/world/americas/brazils-president-calls-us-economic-embargo-cuba-illegal-condemns-terrorist-list-2023-09-16/
+
+On his first trip to Cuba during his third term in office, Brazilian
+President Luiz Inacio Lula da Silva called the embargo imposed by the
+United States on the island \"illegal\" and denounced the islands
+inclusion on the\...
+
+#### Developing countries double down on technology at Havana summit
+
+https://www.reuters.com/world/developing-countries-double-down-technology-havana-summit-2023-09-16/
+
+Brazils President Luiz Inacio Lula da Silva speaks during the G77+ China
+summit in Havana, Cuba, September 16, 2023. REUTERS/Alexandre Meneghini
+Brazils President Luiz Inacio Lula da Silva, chats next to\...
+
+#### Iran's security forces out in force a year after Mahsa Amini's death
+
+https://www.reuters.com/world/middle-east/irans-security-forces-detain-mahsa-aminis-father-anniversary-her-death-rights-2023-09-16/
+
+A woman takes part in a protest against the Islamic regime of Iran
+following the death of Mahsa Amini, in Istanbul, Turkey December 10,
+2022. REUTERS/Dilara Senkaya Iranian security forces cracked down on
+protests in Kurdish areas of the\...
+
+#### Lee weakens to post-tropical cyclone, knocks out power as it nears Atlantic coast
+
+https://www.reuters.com/world/americas/hurricane-lee-nears-new-england-canada-2023-09-16/
+
+A windsurfer takes advantage of the wind and waves from post tropical
+storm Lee, which passed by off shore, in Gloucester, Massachusetts,
+U.S., September 16, 2023. REUTERS/Brian Snyder A windsurfer takes
+advantage of the wind and waves\...
+
+#### Rising ammunition prices set back NATO efforts to boost security, official says
+
+https://www.reuters.com/world/rising-ammunition-prices-set-back-nato-efforts-boost-security-official-2023-09-16/
+
+Banners displaying the NATO logo are placed at the entrance of new NATO
+headquarters during the move to the new building, in Brussels, Belgium
+April 19, 2018. REUTERS/Yves Herman/File Photo A top NATO military
+official warned on Saturday\...
+
+#### Mali, Niger and Burkina Faso sign Sahel security pact
+
+https://www.reuters.com/world/africa/mali-niger-burkina-faso-sign-sahel-security-pact-2023-09-16/
+
+Colonel Assimi Goita, leader of Malian military junta, looks on while he
+stands behind Nigers President Mahamadou Issoufou during a photo
+opportunity after the Economic Community of West African States
+(ECOWAS\...
+
+#### IAEA chief Grossi condemns Iran's 'unprecedented' barring of inspectors
+
+https://www.reuters.com/world/middle-east/un-watchdog-condemns-iranian-decision-bar-some-inspectors-2023-09-16/
+
+FILE PHOTO-U.N. nuclear watchdog chief Rafael Grossi attends a press
+conference during the International Atomic Energy Agency s (IAEA)
+35-nation Board of Governors meeting in Vienna, Austria, September 11,
+2023. REUTERS/\...
+
+#### EU chief to visit Italy's Lampedusa amid protests over migrant numbers
+
+https://www.reuters.com/world/newborn-baby-found-dead-migrant-boat-off-italys-lampedusa-ansa-2023-09-16/
+
+A child looks on as migrants are seen inside the hotspot, on the
+Sicilian island of Lampedusa, Italy, September 16, 2023. REUTERS/Yara
+Nardi A member of the Carabinieri gestures towards migrants outside the
+hotspot, on the Sicilian island\...
+
+#### Women set fire to prison ward near Tehran, IRNA reports
+
+https://www.reuters.com/world/middle-east/women-set-fire-prison-ward-near-tehran-irna-2023-09-16/
+
+Prison guards on Saturday put out a fire started by female inmates in a
+prison ward near the capital Tehran, Irans official IRNA news agency. It
+said female convicts on death row protesting the prison management set
+fire\...
+
+#### Hisham Kassem, prominent Egyptian activist and government critic, jailed for six months
+
+https://www.reuters.com/world/africa/prominent-egyptian-activist-govt-critic-jailed-six-months-2023-09-16/
+
+Egyptian publisher and activist Hisham Kassem speaks with a supporter
+during his trial as policemen stand guard in the Cairo Economic Court in
+the suburb of Maadi, Egypt, September 16, 2023. Hisham Kassem Supporters
+Facebook Page/Handout\...
+
+#### Russian forces near Norway are 20% fewer than before Ukraine war, Norway's armed-forces chief says
+
+https://www.reuters.com/world/europe/russian-forces-near-norway-are-20-fewer-than-before-ukraine-war-norways-armed-2023-09-16/
+
+General Eirik Kristoffersen, head of Norways Armed Forces, poses for a
+picture at his office in Oslo, Norway, September 26, 2022.
+REUTERS/Gwladys Fouche/File Photo Russian forces stationed in the Arctic
+near Norway are \"\...
+
+### 联合早报
+
+#### 中国突破7纳米芯片技术 中美科技战进入2.0阶段？
+
+https://www.zaobao.com/news/china/story20230917-1433739
+
+半导体行业观察机构TechInsights与彭博社拆解研判，华为新手机搭载的是中芯以7纳米制程生产的麒麟9000s芯片。（彭博社）
+中国通讯巨头华为8月底突然开售新款智能手机，搭载据称是中国国产的7纳米芯片，网速达到5G水平，在美国政界引发震荡。中国突破7纳米芯片技术将产生哪些深远影响？华盛顿将如何应对......
+
+#### 中联办主任首次检阅港警结业会操 称有敌对势力试图扰港
+
+https://www.zaobao.com/news/china/story20230916-1434050
+
+作为检阅官，香港中央政府驻港联络办主任郑雁雄（穿黑色西装者）星期六（9月16日）在香港警队结业会操上，检阅警员学员队伍。（中新社）
+（香港综合讯）香港中央政府驻港联络办主任郑雁雄星期六（9月16日）检阅香港警队结业会操时说，目前仍有外国敌对势力企图破坏香港发展稳定。
+综合《星岛日报》和"香港01"报道，香港警察学院星期六举行结业会操，郑雁雄检阅28名毕业见习督察和127名警员......
+
+#### IMF将敦促中国转向消费驱动增长模式
+
+https://www.zaobao.com/news/china/story20230916-1434048
+
+IMF总裁格奥尔基耶娃说，将在最新磋商报告中敦促中国转变经济增长方式，提振国内消费，并解决房地产困境、地方债高企等拖累中国及全球经济增长的问题。（路透社档案图）
+（华盛顿路透电）国际货币基金组织（IMF）将敦促中国转变经济增长方式，提振国内消费，并解决房地产困境、地方债高企等拖累中国及全球经济增长的问题......
+
+#### 新闻人间："万亿茅台"缔造者袁仁国去世
+
+https://www.zaobao.com/news/china/story20230916-1433817
+
+有"液体黄金"之称的中国白酒龙头企业贵州茅台近日参与多项跨界合作频频出圈，而一手打造出这个"万亿茅台"帝国的前董事长袁仁国去世的消息，本周也在中国媒体中传开，人们的目光再次聚焦到这个毁誉参半的争议性人物身上......
+
+#### 庄慧良：在野阵营的"备胎"副手
+
+https://www.zaobao.com/news/china/story20230916-1433846
+
+赖佩霞表明，若郭台铭参选到底，她愿一路相陪，若在野整合成功，她会自动退出。（法新社）
+拟独立参选2024年台湾总统选举的鸿海集团创办人郭台铭，星期四（9月14日）宣布艺人、也是作家的赖佩霞作为副总统搭档人选，立刻成为政治圈和娱乐圈的热门话题，连最大在野党国民党总统参选人侯友宜出访美国的新闻也全被淹没。
+赖佩霞虽是政治素人，但人生阅历丰富，学有所成......
+
+#### 韩正下周出席联合国大会 王毅不出席添中美元首会晤变数
+
+https://www.zaobao.com/news/china/story20230915-1433826
+
+（北京/香港/纽约综合讯）中国官方宣布，中国国家副主席韩正将于下星期出席联合国大会一般性辩论。
+中国外交部星期五（9月15日）在官网发布消息称，韩正将于9月18日至23日出席第78届联合国大会一般性辩论。其间，他将出席联合国系列活动，并同联合国秘书长、第78届联大主席及有关国家领导人举行双边会晤......
+
+#### 梵蒂冈教宗特使与中国特别代表李辉在北京会面
+
+https://www.zaobao.com/news/china/story20230915-1433819
+
+（梵蒂冈/北京综合讯）梵蒂冈教宗指派的乌克兰问题特使，在北京与中国政府欧亚事务特别代表李辉会面，就和平解决乌克兰危机进行会谈。
+据梵蒂冈新闻网报道，梵蒂冈官方星期四（9月14日）发布声明说，教宗方济各指派的乌克兰问题特使祖皮枢机主教（Cardinal
+Matteo
+Zuppi）当天在北京与李辉会面，双方在公开而亲切（cordial）的氛围中进行了谈话......
+
+#### 中国防长李尚福逾两周未露面 据报因健康原因推迟与越官员会晤
+
+https://www.zaobao.com/news/china/story20230915-1433815
+
+中国国务委员兼国防部长李尚福8月底以来，已超过两周没有公开露面。图为李尚福（前排左一）今年6月2日在新加坡参加香格里拉对话。（路透社）
+中国国务委员兼国防部长李尚福超过两周没有公开露面引发外界关注。英国《金融时报》星期四（9月14日）报道称，美国政府认为李尚福受到北京调查，并已被解除职权......
+
+#### 中国大陆制裁两家美国军工企业 涉对台军售
+
+https://www.zaobao.com/news/china/story20230915-1433812
+
+（北京综合讯）北京宣布对美国军工企业洛克希德·马丁、诺斯罗普·格鲁曼实施制裁，作为这两家公司参与美国对台售武的回应。
+中国外交部发言人毛宁星期五（9月15日）在例行记者会上说，美国洛克希德·马丁公司密苏里州圣路易斯市分公司作为主承包商直接参与8月24日美售台武器，诺斯罗普·格鲁曼公司多次参与美售台武器。中方决定根据《反外国制裁法》对这两家企业实施制裁......
+
+#### 韩咏红：新加坡前外长提出"两岸邦联制"
+
+https://www.zaobao.com/news/china/story20230915-1433505
+
+杨荣文本周以个人身份到台北演讲，建议台湾与中国大陆共组"中国人的邦联"。（档案照片）
+新加坡前外长杨荣文本周以个人身份到台北演讲，抛出两岸邦联制主张，建议台湾与中国大陆共组"中国人的邦联"（Chinese
+Commonwealth）。杨荣文也呼吁台北尽早与北京谈判，因为台海现状不可持续、"是个滴答作响的计时炸弹"；台湾是被"美国利用来对付中国大陆的一枚可以牺牲的棋子"......
+
+#### 郭台铭宣布副手人选 赖佩霞：愿落实郭台铭"整合在野"心愿
+
+https://www.zaobao.com/news/china/story20230914-1433483
+
+鸿海集团创办人郭台铭（左）星期四（9月14日）宣布与艺人赖佩霞（右）搭档参选2024年台湾总统选举。（法新社）
+台湾鸿海集团创办人郭台铭星期四（9月14日）宣布与艺人、作家赖佩霞搭档参选2024年总统大选。他表示，将借重赖佩霞的专业能力及沟通技巧，来凝聚台湾社会集体共识，带领台湾走向团结，更加茁壮。
+赖佩霞强调，她的任务就是落实郭台铭"整合在野"的心愿......
+
+#### 台湾外交部回应杨荣文两岸问题主张 指其认知明显偏颇
+
+https://www.zaobao.com/news/china/story20230914-1433467
+
+（台北讯）针对新加坡前外交部长杨荣文在"亚太千里论坛"上的演讲，台湾外交部回应称，有关台海情势及台美关系的言论"完全与事实不符，认知明显偏颇，与区域内多数民主国家的理解大相迳庭"。
+台湾外交部星期四（9月14日）在官网回应说："杨前外长的个人意见，不仅无助区域和平与稳定发展，也损害台美关系与台新关系的正向发展......
+
+#### 中国大陆68架次军机在台海周边活动
+
+https://www.zaobao.com/news/china/story20230914-1433462
+
+台湾国防部星期三（9月13日）发布的这张照片显示，台湾基隆级驱逐舰（右）在海上监控中国大陆航空母舰山东号（左）。（法新社）
+（台北/华盛顿综合讯）中国大陆被指在西太平洋展开有史以来规模最大的航母演习之际，据报于24小时内出动了近70架次军机在台海周边活动......
+
+#### 被困缅甸诈骗园区中科院博士：没有靠业绩挣到过钱
+
+https://www.zaobao.com/news/china/story20230914-1433455
+
+（北京／广州综合讯）中国科学院一名博士被诱至缅甸从事诈骗一年，上星期二（9月5日）获解救回国。他称，自己落入高薪跨国求职陷阱，被诱至缅甸诈骗园区，但过去一年，没有靠业绩挣到过钱。
+综合《新京报》、《南方都市报》、澎湃新闻等报道，被困博士张某2022年在网上通过中介得知新加坡一家公司招聘客服人员，但疫情期间新加坡签证办理困难，中介建议其先去泰国分公司......
+
+#### 戴庆成：民主党能参加区议会选举么？
+
+https://www.zaobao.com/news/china/story20230914-1433192
+
+香港将在今年12月举行"新时代"下的新一届区议会选举，并于下个月开始接受报名。民主派最大的政党------民主党原本在日前举行的筹款晚宴突然告吹，使该党能否"入闸"参选再次成为当地政界人士热议的话题。
+事缘民主党原定9月初在尖沙咀一家酒店举办筹款晚宴，筵开15席，后来鉴于外界反应踊跃，决定加开至20席。但在晚宴举行前的数天，酒店突然以"场地问题"为由取消了民主党的场地预订......
+
+#### 杨荣文：现状不可持续 吁台湾以"中国人的邦联"导向和平统一
+
+https://www.zaobao.com/news/china/story20230913-1433193
+
+在"亚太千里论坛"对谈环节中，在台下就坐的台湾前总统马英九（站立背对镜头者）向杨荣文（台上右二）提问，现场擦出火花。（李气虹摄）
+我国前外交部长杨荣文建议，台湾将"一个中国"诠释为"一个中国人的邦联"（Chinese
+Commonwealth），以此作为导向最终两岸和平统一的进程......
+
+#### 陈振声：新中各有挑战和机遇 要从长远出发系统性建立两国关系
+
+https://www.zaobao.com/news/china/story20230913-1433180
+
+主管新加坡公共服务的教育部长陈振声（左）星期三（9月13日）在北京与中国教育部部长怀进鹏（右）会面。（新加坡通讯及新闻部提供）
+主管新加坡公共服务的教育部长陈振声说，新中两国在发展过程中都有各自的挑战和机遇，最重要的是从长远角度出发，系统性地建立两国关系。
+赴华访问的陈振声星期三（9月13日）在北京接受新加坡媒体访问，回应有关中国经济展望，以及其对新中关系影响的提问......
+
+#### 中国大陆国台办：台湾无资格加入联合国
+
+https://www.zaobao.com/news/china/story20230913-1433178
+
+台湾洽请友邦促使国际接纳台湾加入联合国体系，并敦促联合国修正对联大2758号决议的"错误解释"。中国大陆国台办星期三斥责民进党当局台独分裂立场冥顽不化，年复一年挑战国际关系基本准则和国际社会共识，只会让国际社会更加清楚台湾是中国一部分的事实。
+另外，据路透社报道，日本国防部将派一名文职现役官员常驻台湾......
+
+#### 美银调查：中国房地产超越美欧成全球首要信贷风险
+
+https://www.zaobao.com/news/china/story20230913-1433162
+
+美国银行调查称，中国房地产已经超越美国和欧盟，成为投资者眼中全球信用风险首要来源。图为8月18日碧桂园在天津的一处在建住房。（路透社）
+（旧金山/北京综合讯）中国政府推出系列稳定房地产措施之际，美国银行调查发现，中国房地产已经超越美国和欧盟，成为投资者眼中全球信用风险首要来源......
+
+#### Mate 60系列热销拉升出货量 华为加速回归手机市场
+
+https://www.zaobao.com/news/china/story20230913-1433127
+
+消息人士称， 华为Mate
+60系列手机市场表现超出预期，华为将该系列手机下半年目标出货量提升两成。图为上海华为店内展示的Mate
+60 Pro手机。（路透社） （深圳综合讯）接近中国通讯巨头华为的人士透露，
+华为旗下手机Mate
+60系列市场表现超出预期，华为下半年计划将该系列手机目标出货量提升两成，并已启动回归手机市场的通盘计划......
+
+#### 杨丹旭：香料之路挑战丝绸之路
+
+https://www.zaobao.com/news/china/story20230913-1432844
+
+原以为9月G20峰会可能因俄乌战争问题而无法发出联合声明，但峰会第一天，印度总理莫迪就宣布G20已通过联合声明。（法新社）
+由印度作为东道国举办的二十国集团（G20）峰会上周末落幕。这场峰会因中俄元首没有出席、成员国步调不一致，一开始并不被外界看好，但峰会最终没有交白卷。
+新德里峰会开幕后，取得的第一项进展是实现G20扩容，正式接纳非洲联盟加入成为永久成员......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

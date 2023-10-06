@@ -1,0 +1,976 @@
+Other formats: [PDF]() / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20231006.html)
+
+
+# Web Digest 2023-10-06
+
+
+## Developers
+
+### Hacker News
+
+#### I'm not a programmer, and I used AI to build my first bot
+
+https://blog.replit.com/building-my-first-slack-bot
+
+https://news.ycombinator.com/item?id=37782626
+
+#### Show HN: An app store just for installable web apps
+
+https://store.app
+
+https://news.ycombinator.com/item?id=37782513
+
+#### U.S. federal price tag for the post-9/11 wars is over \$8T
+
+https://watson.brown.edu/costsofwar/figures/2021/BudgetaryCosts
+
+https://news.ycombinator.com/item?id=37782218
+
+#### YouTube's crackdown on ad blockers intensifies
+
+https://searchengineland.com/youtubes-crackdown-on-ad-blockers-intensifies-432213
+
+https://news.ycombinator.com/item?id=37782171
+
+#### Generative AI could make search harder to trust
+
+https://www.wired.com/story/fast-forward-chatbot-hallucinations-are-poisoning-web-search/
+
+https://news.ycombinator.com/item?id=37781231
+
+#### Booking.com makes a fortune -- so why is it leaving its bills to hotels unpaid?
+
+https://www.theguardian.com/business/2023/oct/03/bookingcom-makes-a-fortune-so-why-is-it-leaving-its-bills-to-small-hotels-unpaid
+
+https://news.ycombinator.com/item?id=37781022
+
+#### OpenAI's justification for why training data is fair use, not infringement \[pdf\]
+
+https://www.uspto.gov/sites/default/files/documents/OpenAI_RFC-84-FR-58141.pdf
+
+https://news.ycombinator.com/item?id=37780199
+
+#### Singapore: Right to own a car costs \$76,000. And that doesn't include the car
+
+https://www.cnn.com/2023/10/05/asia/singapore-most-expensive-car-license-intl-hnk/index.html
+
+https://news.ycombinator.com/item?id=37779018
+
+#### Lenovo PC boss: 4 in 5 of our devices will be repairable by 2025
+
+https://www.theregister.com/2023/10/05/lenovo_pc_boss_4_in/
+
+https://news.ycombinator.com/item?id=37778771
+
+#### Where does my computer get the time from?
+
+https://dotat.at/@/2023-05-26-whence-time.html
+
+https://news.ycombinator.com/item?id=37778496
+
+#### School shooting hoaxes have terrorized kids across U.S.
+
+https://www.washingtonpost.com/nation/2023/10/04/school-swatting-hoax-active-shooter/
+
+https://news.ycombinator.com/item?id=37778186
+
+#### Ask HN: Does your microwave interfere with Bluetooth? Mine does
+
+https://news.ycombinator.com/item?id=37777897
+
+https://news.ycombinator.com/item?id=37777897
+
+#### Krita fund has no corporate support
+
+https://fund.krita.org/
+
+https://news.ycombinator.com/item?id=37777301
+
+#### HTTP/3 adoption is growing rapidly
+
+https://blog.apnic.net/2023/09/25/why-http-3-is-eating-the-world/
+
+https://news.ycombinator.com/item?id=37777050
+
+#### September was the most anomalously hot month ever
+
+https://www.scientificamerican.com/article/september-was-the-most-anomalously-hot-month-ever/
+
+https://news.ycombinator.com/item?id=37776854
+
+#### Google Docs adds tracking to links in document exports
+
+https://fosstodon.org/@Joe_0237/111145684757912952
+
+https://news.ycombinator.com/item?id=37776492
+
+#### US startup begins producing 40%-efficient thermophotovoltaic cells
+
+https://www.pv-magazine.com/2023/01/25/us-startup-begins-producing-40-efficient-thermophotovoltaic-cells/
+
+https://news.ycombinator.com/item?id=37775649
+
+#### Delta finds fake jet aircraft engine parts with forged airworthiness documents
+
+https://fortune.com/2023/10/03/delta-fourth-major-us-airline-fake-jet-aircraft-engine-parts-forged-airworthiness-documents-uk-company-aog/
+
+https://news.ycombinator.com/item?id=37775073
+
+#### Pythagorean Theorem found on clay tablet 1k years older than Pythagoras (2009)
+
+https://link.springer.com/article/10.1057/jt.2009.16
+
+https://news.ycombinator.com/item?id=37774580
+
+#### Google Pixel Watch 2
+
+https://store.google.com/us/product/pixel_watch_2?hl=en-US
+
+https://news.ycombinator.com/item?id=37774004
+
+### Phoronix
+
+#### Ferrocene Safety-Critical Rust Compiler Code Published
+
+https://www.phoronix.com/news/Ferrocene-Rust-Compiler-Code
+
+#### AMD Ryzen 9 7900X Performance With ECC DDR5 Memory
+
+https://www.phoronix.com/review/amd-ryzen9-ddr5-ecc
+
+#### Linux Fix Queued For Recent AMD Laptops Failing To Resume From Attached USB Devices
+
+https://www.phoronix.com/news/Linux-Fix-AMD-Laptop-Resume-USB
+
+#### Linux Patches Updated For 64-Core RISC-V Milk-V Pioneer mATX Board
+
+https://www.phoronix.com/news/Milk-V-Pioneer-Linux-Patches
+
+#### WayVNC 0.7 Released As VNC Server For Wlroots-Based Wayland Compositors
+
+https://www.phoronix.com/news/WayVNC-0.7-Released
+
+#### Mobileye EyeQ 5 SoC Support Being Worked On For The Mainline Linux Kernel
+
+https://www.phoronix.com/news/Mobileye-EyeQ5-SoC-Linux
+
+#### Intel Vulkan Driver Implements A Transfer Queue For DG2/Alchemist GPUs
+
+https://www.phoronix.com/news/Intel-DG2-Transfer-Queue
+
+#### New Patches Speed-Up Linux's Accounted Kernel Memory Allocations By  30%
+
+https://www.phoronix.com/news/Linux-Faster-Accounted-Kmem
+
+#### GCC Security Policy Merged To GCC Git
+
+https://www.phoronix.com/news/GCC-Security-Policy
+
+### GitHub
+
+#### novuhq/novu
+
+https://github.com/novuhq/novu
+
+🔥 The open-source notification infrastructure with fully functional
+embedded notification center 🚀🚀🚀\
+Language: TypeScript\
+Stars: 28455\
+Forks: 2361
+
+#### dortania/OpenCore-Legacy-Patcher
+
+https://github.com/dortania/OpenCore-Legacy-Patcher
+
+Experience macOS just like before\
+Language: Python\
+Stars: 8506\
+Forks: 855
+
+#### apache/superset
+
+https://github.com/apache/superset
+
+Apache Superset is a Data Visualization and Data Exploration Platform\
+Language: TypeScript\
+Stars: 54485\
+Forks: 11373
+
+#### codecrafters-io/build-your-own-x
+
+https://github.com/codecrafters-io/build-your-own-x
+
+Master programming by recreating your favorite technologies from
+scratch.\
+Language: Unknown\
+Stars: 219891\
+Forks: 21333
+
+### Dribbble
+
+#### Practice Hub Logo Design Process
+
+https://dribbble.com/shots/22746163
+
+#### Barista Essentials - Brand Redesign
+
+https://dribbble.com/shots/22745018
+
+#### Paytient Branding
+
+https://dribbble.com/shots/22743095
+
+#### Product Details
+
+https://dribbble.com/shots/22732507
+
+#### Lamar Advertising® Brand Refresh
+
+https://dribbble.com/shots/22737324
+
+#### On the beach
+
+https://dribbble.com/shots/22733280
+
+#### JoCreate.AI - Website design for NFT collection creation service
+
+https://dribbble.com/shots/22724434
+
+#### Coinin - Logo Design
+
+https://dribbble.com/shots/22721992
+
+#### Flux -- Product Design & Motion for Fintech App
+
+https://dribbble.com/shots/22723680
+
+#### Dating App Logo Concept (Unused for Sale)
+
+https://dribbble.com/shots/22721863
+
+#### Wingly Fintech Branding
+
+https://dribbble.com/shots/22726027
+
+#### Practice Hub Branding Identity
+
+https://dribbble.com/shots/22710544
+
+#### R
+
+https://dribbble.com/shots/22712911
+
+#### AI SaaS landing page design
+
+https://dribbble.com/shots/22712725
+
+#### W crypto wallet interaction
+
+https://dribbble.com/shots/22711907
+
+#### Rush Hour Chaos
+
+https://dribbble.com/shots/22715521
+
+#### Barista Essentials - Logo Design
+
+https://dribbble.com/shots/22715386
+
+#### Harvest Builders Brandmark
+
+https://dribbble.com/shots/22704056
+
+#### EduNova - Website design for Educational platform
+
+https://dribbble.com/shots/22696959
+
+#### Spark Tech logo
+
+https://dribbble.com/shots/22696183
+
+#### Vampire Set
+
+https://dribbble.com/shots/22688160
+
+#### Planet S
+
+https://dribbble.com/shots/22693059
+
+#### Veear - Virtual Reality AR Company Landing Page Website
+
+https://dribbble.com/shots/22694551
+
+#### Flight Booking App Exploration
+
+https://dribbble.com/shots/22693481
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### 俄罗斯计划从 2024 年 3 月起封杀 VPN
+
+https://www.solidot.org/story?sid=76251
+
+#### 上月是有记录以来最热的九月
+
+https://www.solidot.org/story?sid=76250
+
+#### 《暗黑破坏神IV》将登陆 Steam
+
+https://www.solidot.org/story?sid=76249
+
+#### RMS 谈 Red Hat、AI 和道德软件许可
+
+https://www.solidot.org/story?sid=76248
+
+#### 亚马逊被指利用秘密算法抬高商品价格
+
+https://www.solidot.org/story?sid=76247
+
+#### 2023 年度诺贝尔化学奖授予了量子点的发现者和合成者
+
+https://www.solidot.org/story?sid=76246
+
+#### 2023 年诺贝尔物理学奖授予了三位研究阿秒光脉冲的物理学家 
+
+https://www.solidot.org/story?sid=76245
+
+#### 印度用反恐法打击记者
+
+https://www.solidot.org/story?sid=76244
+
+#### Arm 警告其 GPU 驱动漏洞正被活跃利用
+
+https://www.solidot.org/story?sid=76243
+
+### V2EX
+
+#### \[macOS\] macOS APP 损坏问题
+
+https://www.v2ex.com/t/979140
+
+#### \[问与答\] iPhone 中 app 能不能避开 stream 的抓包？
+
+https://www.v2ex.com/t/979139
+
+#### \[V2EX\] Is this Zion?
+
+https://www.v2ex.com/t/979137
+
+#### \[Apple\] 苹果独有的优势，短期不会被超越
+
+https://www.v2ex.com/t/979136
+
+#### \[程序员\] \[连载\] 用文件系统做数据库 之二 命令行工具
+
+https://www.v2ex.com/t/979135
+
+#### \[Dell\] 烦人，放假回来屏幕上出现一条紫色竖线
+
+https://www.v2ex.com/t/979133
+
+#### \[macOS\] 升级 sonoma 以后，老哥们的圈 x 还好使吗？
+
+https://www.v2ex.com/t/979131
+
+#### \[求职\] 24 届本科 golang/云原生同学求捞
+
+https://www.v2ex.com/t/979130
+
+#### \[macOS\] windows 为什么没有妙控板这样的外设
+
+https://www.v2ex.com/t/979129
+
+#### \[分享创造\] utools 插件 \[易待办\] v4.7.0 发布！
+
+https://www.v2ex.com/t/979128
+
+#### \[Kubernetes\] k8s 部署 emby 通过 smb 访问 truenas 里的 movie，中文乱码
+
+https://www.v2ex.com/t/979126
+
+#### \[程序员\] 一个不需要任何后端的纯净版 GitBook 代替品
+
+https://www.v2ex.com/t/979125
+
+#### \[宽带症候群\] 路由器换了个系统， wifi 速度暴降，求求懂哥指个明路
+
+https://www.v2ex.com/t/979122
+
+#### \[阅读\] 2023 九月读地理学，我是谁，文学，心经......13 本
+
+https://www.v2ex.com/t/979121
+
+#### \[分享发现\] Surge 屏蔽搜狗输入法联网 小坑
+
+https://www.v2ex.com/t/979120
+
+#### \[问与答\] 为什么 MySQL 有缓存，还要使用 Redis？
+
+https://www.v2ex.com/t/979119
+
+#### \[Apple\] Apple ID 什么时候支持多国家付款方式？
+
+https://www.v2ex.com/t/979118
+
+#### \[分享创造\] 十一写了个小工具 bup
+
+https://www.v2ex.com/t/979116
+
+#### \[Android\] 不要升安卓 14
+
+https://www.v2ex.com/t/979115
+
+#### \[VPS\] 群晖 Active backup for business 备份 VPS 失败
+
+https://www.v2ex.com/t/979114
+
+#### \[macOS\] 大伙更新 sonoma 之后，关掉这个指针加速，有觉得变得和 win 一样么？
+
+https://www.v2ex.com/t/979112
+
+#### \[问与答\] 感觉一人食火锅比较有市场 v 友怎么看?
+
+https://www.v2ex.com/t/979111
+
+#### \[macOS\] 在 M1 Pro 的 Macbook 上升级到 Sonoma 就可以打暗黑重制版了吗？
+
+https://www.v2ex.com/t/979110
+
+#### \[问与答\] 毕业 4 年， 27 岁一事无成无一技傍身，转行学编程怎么样？
+
+https://www.v2ex.com/t/979109
+
+#### \[NAS\] bitwarden(vaultwarden)多台设备之间该怎么同步数据？
+
+https://www.v2ex.com/t/979106
+
+#### \[Android\] 根治骚扰电话，类原生系统可用魔法打败魔法
+
+https://www.v2ex.com/t/979104
+
+#### \[分享创造\] 分享一款在手机上玩经典 Flash 小游戏 Android APP
+
+https://www.v2ex.com/t/979103
+
+#### \[深圳\] 自来水有盐状结晶正常吗？
+
+https://www.v2ex.com/t/979101
+
+#### \[蒲公英\] 蒲公英 x1 使用体验
+
+https://www.v2ex.com/t/979099
+
+#### \[问与答\] 健身的各位老哥，请问肌酸有便宜大腕且正宗的产品推荐吗？肌酸好像都是可以合成生产的，价格可以很便宜，现在各个牌子卖得太贵了
+
+https://www.v2ex.com/t/979097
+
+#### \[问与答\] 只有我一个人觉得安卓的新 Logo 很丑吗
+
+https://www.v2ex.com/t/979096
+
+#### \[问与答\] iPhone 中 Stream 抓包安装证书时是开启 VPN 跳转到浏览器中 192.168.0.2 下载证书？
+
+https://www.v2ex.com/t/979095
+
+#### \[装修\] 武汉全屋定制报价单
+
+https://www.v2ex.com/t/979093
+
+#### \[游戏\] \[记录\]-2023-10-05 最近在玩的游戏
+
+https://www.v2ex.com/t/979090
+
+#### \[macOS\] Mac 播放视频时，视频中有 hey Siri，能唤出电脑的 Siri
+
+https://www.v2ex.com/t/979089
+
+#### \[香港\] 香港平价住宿～
+
+https://www.v2ex.com/t/979085
+
+#### \[旅行\] 成都重庆玩了几天，对比分享
+
+https://www.v2ex.com/t/979084
+
+#### \[投资\] 侨行天下黄金租赁有董哥吗
+
+https://www.v2ex.com/t/979082
+
+#### \[硬件\] 现在推荐什么电视盒子
+
+https://www.v2ex.com/t/979080
+
+#### \[程序员\] 请教下 playwright 的交互式 UI 模式和 Codegen 模式开发思路
+
+https://www.v2ex.com/t/979079
+
+#### \[酷工作\] \[远程\] Golang，后端，产品经理， QT，安卓逆向， UI， CDN！
+
+https://www.v2ex.com/t/979078
+
+#### \[生活\] 今年十一长假，你们身边同学亲人朋友结婚的多吗
+
+https://www.v2ex.com/t/979076
+
+#### \[问与答\] 请问币安 C2C 交易人民币和 USDT 的汇率为什么那么高
+
+https://www.v2ex.com/t/979075
+
+#### \[程序员\] 请问这是什么加密方式？
+
+https://www.v2ex.com/t/979073
+
+#### \[宽带症候群\] 刚办杭州联通
+
+https://www.v2ex.com/t/979072
+
+#### \[分享创造\] 原来的网盘资源分享站改成了网盘资源搜索引擎，从此资源搜索方便多了
+
+https://www.v2ex.com/t/979071
+
+#### \[宽带症候群\] 有没有按照文件格式分流的工具？
+
+https://www.v2ex.com/t/979070
+
+#### \[云计算\] 腾讯云 hk 轻量又在犯病了
+
+https://www.v2ex.com/t/979069
+
+#### \[推广\] 10.33 包邮助眠神器
+
+https://www.v2ex.com/t/979068
+
+#### \[分享创造\] 写了个在线时间计时器
+
+https://www.v2ex.com/t/979067
+
+## Generic News
+
+### AP News
+
+#### Colorado funeral home with "green" burials under investigation after improperly stored bodies found
+
+https://apnews.com/article/945ad85c3609bfa66987b47c2b20b315
+
+PENROSE, Colo. (AP) --- Authorities said Thursday they were
+investigating the improper storage of human remains at a southern
+Colorado funeral home that performs what they call "green" burials
+without embalming chemicals or metal\...
+
+#### Indianapolis police capture a cheeky monkey that escaped and went on the lam
+
+https://apnews.com/article/9bf9a16b22371ffb0dc863d00c6097d8
+
+INDIANAPOLIS (AP) --- Momo the monkey's taste of freedom is over. The
+primate spurred an hourslong search on Indianapolis' east side after he
+escaped Wednesday evening from his owner's property. But the male patas
+monkey was finally\...
+
+#### X removes article headlines in latest platform update, widening a rift with news media
+
+https://apnews.com/article/bebab0753b583929fda7e581625e7a55
+
+SAN FRANCISCO (AP) --- X, formerly known as Twitter, has stopped showing
+headlines on articles shared on the platform. Now, X only displays an
+article's lead image and a link to the story. Plans for the change were
+first reported by\...
+
+#### FedEx plane without landing gear skids off runway, but lands safely at Tennessee airport
+
+https://apnews.com/article/d57861fdd9d0febacc18324514ad3726
+
+CHATTANOOGA, Tenn. (AP) --- A FedEx plane skidded off the runway during
+a crash landing at a Tennessee airport when its landing gear did not
+descend, but no one was injured, officials said. Public safety agencies
+rushed to the Chattanooga\...
+
+#### Battery technology in the crashed Venice bus made it less prone to catastrophic fires, experts say
+
+https://apnews.com/article/998d73a2a36fac82c3d87df69eafb530
+
+MILAN (AP) --- Italy's transport minister is questioning the spread of
+electric vehicle technology following the fiery crash of a fully
+electric shuttle bus that killed 21 people in mainland Venice. But the
+battery chemistry used by the\...
+
+#### AT&T and Gallaudet University unveil a football helmet for deaf and hard of hearing quarterbacks
+
+https://apnews.com/article/0f1fd5001c7d95953c2a836de2c0c219
+
+WASHINGTON (AP) --- AT&T and Gallaudet University have developed a
+football helmet for players who are deaf or hard of hearing and
+communicate using American Sign Language. The company and
+Washington-based school for students who are\...
+
+#### Biden's dog Commander no longer at White House after biting incidents
+
+https://apnews.com/article/e2592d3996381ea82e24a13d6666de77
+
+WASHINGTON (AP) --- President Joe Biden's dog, Commander, is "not
+presently on the White House campus" following a series of biting
+incidents involving White House staff and U.S. Secret Service officers,
+a spokesperson for first lady\...
+
+#### King Charles III's image to appear on Australian coins this year
+
+https://apnews.com/article/67a6e515053b8da665488b1b5e36cefa
+
+CANBERRA, Australia (AP) --- An image of King Charles III will soon
+appear on Australian coins, more than a year after the death of his
+mother Queen Elizabeth II, officials said Thursday. The gold Australian
+dollar coin will be the first\...
+
+#### Too much Taylor? Travis Kelce says NFL TV coverage is 'overdoing it' with Swift during games
+
+https://apnews.com/article/0c02652993a9a4da7762ed304dbff7f8
+
+Maybe there's too much Taylor, not enough Travis. Travis Kelce agreed
+Wednesday with the idea that NFL TV coverage has been "overdoing it"
+with the amount of times Taylor Swift has been on screen while attending
+his Kansas City Chiefs'\...
+
+#### First leopard cubs born in captivity in Peru climb trees and greet visitors at a Lima zoo
+
+https://apnews.com/article/7fb8decad4f704e1efb6e0a662b8f460
+
+LIMA, Peru (AP) --- The first two leopard cubs born in captivity in Peru
+began climbing trees inside their cages at a Lima zoo Wednesday in their
+first appearance before the public. The cubs --- a male and a female ---
+walked in circles\...
+
+#### Apple releases fix for issue causing the iPhone 15 to run 'warmer than expected'
+
+https://apnews.com/article/e06c75f5e67ea4332af5f0bd3ca259f2
+
+Apple has released an iOS 17 system update that includes a fix to
+prevent the iPhone 15 lineup from becoming uncomfortably hot. According
+to the release's accompanying patch notes, iOS 17.0.3 "addresses an
+issue that may cause iPhone to\...
+
+#### Brett Favre will testify under oath in Mississippi welfare scandal civil case
+
+https://apnews.com/article/aeb57f694fef0e5647bd30034304ad1e
+
+JACKSON, Miss. (AP) --- Retired NFL quarterback Brett Favre will answer
+questions under oath about the misspending of federal welfare money in
+Mississippi, where public money intended to help some of the nation's
+poorest people was used\...
+
+#### Powerball jackpot up to \$1.4 billion after no one matches all the numbers and hits it rich
+
+https://apnews.com/article/79e5d5541adc5094ad92f7bd71b22421
+
+PINEVILLE, N.C. (AP) --- The Powerball jackpot climbed to an estimated
+\$1.4 billion after no players matched all six numbers and hit it rich
+Wednesday night. The winning numbers announced were: 9, 35, 54, 63, 64
+and the Powerball 1\...
+
+### Reuters
+
+#### Exclusive: India lake that flooded was poised to get early warning system
+
+https://www.reuters.com/world/india/india-lake-that-flooded-was-poised-get-early-warning-system-2023-10-05/
+
+Remains of the bridge connecting Adarsh gaon with Singtam is pictured
+along the bank of Teesta River at Singtam in Sikkim, India October 5,
+2023. REUTERS/Wang Chen NO RESALES. NO ARCHIVES People walk along the
+area affected by the flood\...
+
+#### Guatemala protests intensify, demanding prosecutor resignations
+
+https://www.reuters.com/world/americas/guatemala-protests-intensify-demanding-prosecutor-resignations-2023-10-05/
+
+Mayan Ancestral Authorities demonstrate requesting the resignation of
+the Attorney General, as part of the blockades and demonstrations held
+nationwide in the fight for democracy, in Guatemala City, Guatemala
+October 2, 2023. REUTERS/\...
+
+#### New Zealand PM returns to campaign trail after recovering from COVID
+
+https://www.reuters.com/world/new-zealand-pm-returns-campaign-trail-after-recovering-covid-2023-10-05/
+
+New Zealand Prime Minister Chris Hipkins on Friday said he was back on
+the election campaign trail, after he tested negative for COVID-19
+earlier in the day. New Zealand is just a week out from the Oct. 14
+general election, which the\...
+
+#### Outgoing Slovak PM will leave question of Ukraine military aid to next government, TASR news agency reports
+
+https://www.reuters.com/world/europe/outgoing-slovak-pm-will-leave-question-ukraine-military-aid-next-government-2023-10-05/
+
+Slovakian Prime Minister Ludovit Odor attends the European Political
+Community Summit in Granada, Spain October 5, 2023. REUTERS/Juan
+Medina/File Photo Slovakias outgoing caretaker government will not send
+more military\...
+
+#### US restarting direct deportations to Venezuela, senior official says
+
+https://www.reuters.com/world/us/us-restarting-direct-deportations-venezuela-senior-official-2023-10-05/
+
+Venezuelan migrants, some expelled from the U.S. to Mexico under Title
+42 and others who have not yet crossed after the new immigration
+policies, rest in an old warehouse that was improvised as a shelter in
+Ciudad Juarez, Mexico December\...
+
+#### US restarting direct deportations to Venezuela, senior official says
+
+https://www.reuters.com/world/us/biden-administration-restart-deportations-venezuela-cbs-2023-10-05/
+
+Venezuelan migrants, some expelled from the U.S. to Mexico under Title
+42 and others who have not yet crossed after the new immigration
+policies, rest in an old warehouse that was improvised as a shelter in
+Ciudad Juarez, Mexico December\...
+
+#### Turkish cargo ship hits mine in Black Sea, sustains minor damage
+
+https://www.reuters.com/world/turkish-cargo-ship-hits-mine-black-sea-sustains-minor-damage-2023-10-05/
+
+A Turkish-flagged general cargo ship hit a mine on Thursday in the Black
+Sea off the coast of Romania and sustained minor damage but the crew was
+safe, maritime and security sources said. British maritime security
+company Ambrey, citing\...
+
+#### Israeli troops kill two Palestinian gunmen, suspected shooter, in West Bank
+
+https://www.reuters.com/world/middle-east/israeli-troops-kill-two-palestinians-west-bank-clash-2023-10-05/
+
+A Palestinian protestor kicks a tear-gas canister during clashes with
+the Israeli forces, near Tulkarm, in the Israeli-occupied West Bank,
+October 5, 2023. REUTERS/Raneen Sawafta Members of the Israeli forces
+stand guard during clashes\...
+
+#### At least 100 killed in drone attack on Syrian military academy, monitor says
+
+https://www.reuters.com/world/middle-east/drone-attack-homs-military-college-causes-large-number-casualties-syrian-state-2023-10-05/
+
+People stand and walk outside a building after drone attack on Syrian
+military academy in Homs, Syria October 5, 2023 is seen in this screen
+grab from a video. Video obtained by Reuters/via REUTERS At least 100
+people were killed on\...
+
+#### Tunisian judge orders imprisonment of President Saied opponent Abir Moussi -lawyer
+
+https://www.reuters.com/world/africa/tunisian-judge-orders-imprisonment-president-saied-opponent-abir-moussi-lawyer-2023-10-05/
+
+President of Tunisias Free Destourian Party Abir Moussi speaks to the
+media during a protest demanding the dissolution of parliament and
+asking for early legislative elections, in Tunis, Tunisia November 20,
+2021. REUTERS/\...
+
+#### Zelenskiy tells Europe: Russia will attack others if Ukraine loses
+
+https://www.reuters.com/world/europe/european-leaders-expected-rally-around-zelenskiy-spain-summit-2023-10-05/
+
+Summary: Ukraines Zelenskiy joins other European leaders in Spain Says
+Russia could attack other countries if not resisted Ukraines air
+defences, food exports in focus in Granada Europe assures Kyiv of\...
+
+#### Putin suggests plane of Wagner boss Prigozhin was blown up using hand grenades on board
+
+https://www.reuters.com/world/europe/putin-hand-grenade-fragments-found-bodies-prigozhin-plane-crash-2023-10-05/
+
+Summary: Grenade fragments found in bodies from plane - Putin Putin
+suggests a missile did not down the plane Putin says details were
+reported to him by top investigator Police officers keep guard at a
+checkpoint near the site of the\...
+
+#### Putin holds out possibility that Russia could resume nuclear testing
+
+https://www.reuters.com/world/europe/putin-says-west-has-lost-touch-with-reality-russia-had-push-back-2023-10-05/
+
+Summary: Putin says West has forgotten compromise Putin: Lets see where
+that leads Putin: Russia has tested nuclear-powered missile Putin: Not
+ready to say if nuclear testing should resume Rouble falls below 100 per
+U.S\...
+
+### 联合早报
+
+#### 于泽远：许家印的见识与胆识
+
+https://www.zaobao.com/news/china/story20231006-1439974
+
+9月28日，中国国庆长假的前一天，恒大集团董事局主席许家印被官宣采取强制措施。曾被媒体人誉为"恒而不倒，大而愈强"的恒大集团终于塌台了。
+许家印显然要在看守所里度过他即将到来的65周岁生日，但他曾经的辉煌不会很快被人遗忘，尤其是他留给中国经济和社会的一堆烂摊子，更不会随着他的入狱就能轻易收拾干净。
+许家印生于河南周口农村，幼时就失去了母亲，在奶奶的照看下长大，是一个地道的"苦孩子"......
+
+#### 台湾查获15万公斤美猪"洗产地" 政府强调没检出"莱猪"
+
+https://www.zaobao.com/news/china/story20231005-1439999
+
+台湾桃园市卫生局和卫生福利部食品药物管理署查获两家公司将来自美国的15万公斤猪肉制成火锅肉片等贩售，产地则标示为加拿大和英国。这批猪肉8月下旬几乎都已售罄，被质疑在"洗产地"。
+行政院发言人林子伦星期四（10月5日）在行政院会后强调，自2021年进口美猪两年半以来，无论是边境或市场均未查获检出含莱克多巴胺的猪肉，且此次稽查是食药署主动出击的成果......
+
+#### 台风"小犬"导致全台逾30万户家庭停电 一死300多伤
+
+https://www.zaobao.com/news/china/story20231005-1439991
+
+台风"小犬"星期四（10月5日）吹倒台湾南部屏东县整排的电线杆。（法新社）
+（台北/香港综合讯）台风"小犬"横扫了台湾南部地区，不仅给台湾带来有记录以来风力最强的阵风，也导致当地30多万户家庭停电，并造成一人死亡以及300多人受伤。
+综合台媒报道，据台湾中央气象署通报，"小犬"在星期四（10月5日）上午登陆台湾最南端的岬角鹅銮鼻......
+
+#### 柯文哲访美遇台侨吁蓝白合 侯柯配之外的整合方案浮出台面
+
+https://www.zaobao.com/news/china/story20231005-1439972
+
+台湾民众党主席、总统参选人柯文哲星期四（10月5日）结束二度访美行程，返台前有台侨当面呼吁"蓝白合"。多名评论员认为，蓝白合未必是侯柯配，具体可行的在野整合方案，也包括让柯文哲当行政院长或立法院长。
+台湾2024年1月13日将举行总统与立委选举，从10月5日开始倒数百日，喧腾大半年的在野整合议题，也进入成局或破局的摊牌时刻......
+
+#### 法新社：中国涉向瓦格纳集团提供卫星情报支持
+
+https://www.zaobao.com/news/china/story20231005-1439968
+
+（巴黎法新电）法新社看到的一份文件显示，俄罗斯雇佣兵组织瓦格纳集团在2022年与一家中国公司签订合同，购买了两颗卫星并使用其图像，以辅助其在乌克兰和非洲的情报工作。
+法新社星期四（10月5日）的报道说，这两颗卫星甚至在瓦格纳今年6月兵变中也发挥了作用。
+据悉，合同签订于2022年11月15日，由英文和俄文书写，金额超过3000万美元（4110万新元）......
+
+#### 中菲又在南中国海发生摩擦
+
+https://www.zaobao.com/news/china/story20231005-1439963
+
+（北京/马尼拉综合讯）中国和菲律宾又在有主权争议的南中国海海域发生摩擦。中国谴责四艘菲律宾船只未经中国政府允许，进入南沙群岛仁爱礁海域。菲律宾则指中国尝试"阻挡、骚扰和干扰"菲方执行的补给任务。
+根据中国海警局在微信公号发布的消息，该局新闻发言人甘羽说，菲律宾两艘运补船和两艘海警船在星期三（10月4日）未经中国政府允许，擅自进入仁爱礁（菲律宾称阿云津礁）邻近海域......
+
+#### "天宫"升级计划：中国打造"太空母港" 挑战国际空间站
+
+https://www.zaobao.com/news/china/story20231005-1439962
+
+阿塞拜疆首都巴库星期三（10月4日）的国际宇航大会上，关于"天宫"空间站的小组讨论现场。（美国太空新闻网）
+（北京/巴库综合讯）中国推出替代国际空间站方案，计划将中国空间站"天宫"太空舱数量扩大一倍......
+
+#### 美媒：王毅本月将访华盛顿 为习拜会铺路
+
+https://www.zaobao.com/news/china/story20231005-1439907
+
+中国外长王毅据报本月将访美，为习拜会铺路。图为王毅9月26日出席在北京举行的《携手构建人类命运共同体：中国的倡议与行动》白皮书新闻发布会。（路透社）
+（华盛顿综合讯）美国媒体引述知情人士透露，中国外长王毅将在10月晚些时候访问华盛顿，为中美两国元首在11月亚太经济合作组织（APEC）峰会上的会面铺路......
+
+#### 陈婧：中国游客去哪儿？
+
+https://www.zaobao.com/news/china/story20231005-1439689
+
+前两天从新加坡飞回上海，樟宜机场随处可见面向中国消费者的银联卡和微信支付优惠广告，好几个柜台也推出"黄金周"特价折扣。
+相比热火朝天的促销活动，机场里的中国游客却没有预期中多。柜员小姐坦言，虽然今年访新的中国旅客有所增加，但和疫情前还是相差甚远，"不懂他们去哪了？"
+中国疫情管控全面放开后的首个"十一"黄金周长假，出行数据迎来井喷式增长......
+
+#### 特稿：总统选战倒数100天 台湾在野整合有利形势流失中
+
+https://www.zaobao.com/news/china/story20231004-1439691
+
+台湾两大在野党总统参选人，国民党的新北市长侯友宜（左）和民众党主席、卸任台北市长柯文哲，在担任双北首长期间互动良好。（互联网）
+台湾总统选战从星期四（10月5日）开始倒数100天，在野整合的有利形势正在流失中，"蓝白合"可能在10月中下旬成局或破局。
+台湾将在2024年1月13日举行总统与立委选举，多份民调显示过半民众希望政党轮替......
+
+#### 【亚洲前瞻峰会】陆港学者：北京不急着武统台湾
+
+https://www.zaobao.com/news/china/story20231004-1439687
+
+亚洲前瞻峰会星期三（10月4日）下午举行分场，聚焦"在战略竞争时代下的中美合作"。参会专家包括亚洲协会美中关系中心阿瑟罗斯主任夏伟（中）、香港城市大学法学院教授王江雨（左），以及南京大学国际关系学院执行院长朱锋......
+
+#### 四家台企被指为华为建厂 台高官澄清有通过投资审查
+
+https://www.zaobao.com/news/china/story20231004-1439678
+
+彭博社点名台湾四家科技公司协助华为在深圳建设晶片厂基础设施，躲避美国的制裁。图为华为位于上海的门店。（路透社）
+台湾经济部长王美花和国安局长蔡明彦星期三（10月4日）澄清说，被外媒点名协助中国大陆华为公司建厂的四家台湾公司，皆经台湾政府投资审查通过才去投资，而且所建工厂属于较低阶的废水或环保工程，并非科技管制出口的项目。
+华为Mate 60系列采用中芯7奈米制程，成功突破美国禁令......
+
+#### 台风"小犬"逼近 台湾多县市停班停课
+
+https://www.zaobao.com/news/china/story20231004-1439667
+
+台湾台东县一名女子星期三（10月4日）坐在岸边，看着台风"小犬"登陆前，在沿海地区掀起的巨浪。（路透社）
+（台北综合讯）在台风"小犬"登陆之前，台湾取消了超过100趟境内外航班，并宣布多个县市停班停课。这是台湾在短短一个月内第二次面对大型风暴......
+
+#### 港府总部外发生伤人案 17岁青年持水果刀袭击保安
+
+https://www.zaobao.com/news/china/story20231004-1439645
+
+一名患有自闭症的17岁青年星期三上午持水果刀在港府总部大楼外袭击两名保安人员。（路透社）
+（香港综合讯）香港政府总部大楼外发生伤人案，一名患有自闭症的17岁青年，持水果刀袭击两名保安人员，导致一人手部被刺伤，另一人则扭伤脚部。
+综合港媒报道，事发在星期三（10月4日）上午10时许，地点是在连接政府总部大楼的行人天桥。这名青年当时突然持刀袭击大楼外的保安人员，之后被其他在场保安人员和行人制伏......
+
+#### 凯盛融英通过中国国家安全合规整改验收
+
+https://www.zaobao.com/news/china/story20231004-1439606
+
+咨询公司凯盛融英说，已经通过中国国家安全合规整改验收。（互联网）
+（上海彭博电）咨询公司凯盛融英（Capvision）说，该公司已经通过中国国家安全合规整改验收。
+这家总部位于纽约和上海的公司发表声明说，在政府有关部门的指导下，该公司建立了更加完备的合规制度和实施方案，整改符合要求并完成验收。
+凯盛融英星期二（10月3日）晚间在其官方微信账号上说，"咨询行业必须增强安全和忧患意识"......
+
+#### 中国欢迎美参议员组团访华 盼增进美国会对华客观了解
+
+https://www.zaobao.com/news/china/story20231004-1439604
+
+（北京综合讯）美国参议院多数党领袖、民主党人舒默将于本月率跨党派议员访华，中国外交部表示欢迎，并强调希望通过此访增进美国国会对中国的客观了解。
+中国外交部星期三（10月4日）通过官网发文，以答记者问形式，回应舒默宣布率领两党参议员代表团访华的问题......
+
+#### 台积电市值已蒸发770亿美元
+
+https://www.zaobao.com/news/china/story20231004-1439603
+
+台积电自6月中旬以来已蒸发市值770亿美元，损失规模居亚洲之首。（路透社）
+（台北综合电）当市场准备迎接芯片行业进入长时间疲软之际，全球最大芯片代工制造商台积电自6月中旬以来已蒸发市值770亿美元（1056亿新元），损失规模居亚洲之首。
+据彭博社报道，投资者对宏观环境和全球消费电子需求疲软的担忧，导致台积电股价自6月高点至今下跌了11%......
+
+#### 杨丹旭：许家印的"中秋劫"
+
+https://www.zaobao.com/news/china/story20231004-1439333
+
+《华尔街日报》10月1日引述知情人士称，官方正在调查许家印是否试图在恒大陷入财务困境之际，将资产转移到海外。（路透社）
+十一黄金周，中国房地产圈最大的谈资不是楼市的"金九银十"，而是地产大亨许家印的"中秋劫"。
+在坊间传出许家印被警方带走的消息后不久，中国恒大在中秋节前夕的9月28日发公告证实，董事局主席许家印因涉嫌违法犯罪，已被依法采取强制措施。
+恒大和中国官方都未披露许家印涉案的原因......
+
+#### 台潜舰自造案衍生"卖国贼"争议 防长感慨好事变坏事
+
+https://www.zaobao.com/news/china/story20231003-1439315
+
+台湾总统蔡英文（中）在出席台湾首艘自造潜舰"海鲲军舰"下水仪式时，与台湾国际造船股份有限公司董事长郑文隆（右）手持潜舰比例模型合影。（路透社）
+台湾潜舰自造案连日来衍生"卖国贼"争议，国防部长邱国正星期二（10月3日）在立法院感慨"这原本是好事一桩，没想到会演变至此地步"......
+
+#### 中国首次完成海底3000米地质勘探作业
+
+https://www.zaobao.com/news/china/story20231003-1439285
+
+（北京综合讯）中国星期二（10月3日）首次在深度3000米以上的海域完成油气勘探作业，并绘制首张3000米深水地质勘探图。
+综合央视新闻和观察者网报道，中国深海勘探技术人员乘"海洋石油720"深水物探船，采用自主研发的海洋拖揽地震勘探采集装备"海经"系统，在珠江口盆地鹤山凹陷海域完成上述勘探作业。
+报道称，深海已经成为全球油气资源开发的重要增长点......
+
+#### 22名中国人跨海偷渡韩国被捕
+
+https://www.zaobao.com/news/china/story20231003-1439249
+
+（保宁韩联电）韩国警方星期二称，22名企图偷渡进入韩国的中国人，正在接受立案调查。
+据韩联社报道，韩国保宁海洋警察署星期二（10月3日）称，这些人涉嫌乘船跨海到韩国西海岸，并于当天凌晨在保宁市大川港西南方向约3.7公里处穿救生衣跳入海中，游向陆地。
+其中21人在大川港一带被抓获，只有一人成功藏身，并逃到其友人位于京畿道安山市的住宅。
+韩国海警透露，上述人员年龄均在40多岁左右，均为中国籍......
+
+#### 旅美大熊猫受虐待传言再掀中国民间反美情绪
+
+https://www.zaobao.com/news/china/story20231003-1439222
+
+大熊猫"美香"在美国华盛顿动物园遭受虐待的传闻过去几个月掀起中国民间的反美情绪。图为2014年8月23日，"美香"在华盛顿动物园的草坪上进食。（法新社）
+（华盛顿综合讯）继旅美大熊猫丫丫被传受虐待送返中国后，美国华盛顿动物园另一头大熊猫受虐的说法，过去几个月也在中国社交媒体上引起强烈反响，在中美关系紧张之际再度掀起中国民间的反美情绪......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

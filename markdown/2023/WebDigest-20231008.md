@@ -1,0 +1,1002 @@
+Other formats: [PDF]() / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20231008.html)
+
+
+# Web Digest 2023-10-08
+
+
+## Developers
+
+### Hacker News
+
+#### FTX \"insurance fund\" calculated by multiplying trading volume by random number
+
+https://twitter.com/molly0xfff/status/1710718416724595187
+
+https://news.ycombinator.com/item?id=37804493
+
+#### ChatGPT -- Dalle3 System Prompt
+
+https://twitter.com/Suhail/status/1710653717081653712
+
+https://news.ycombinator.com/item?id=37804288
+
+#### Wired has removed \"How Google alters search queries\" story
+
+https://www.wired.com/story/google-antitrust-lawsuit-search-results/
+
+https://news.ycombinator.com/item?id=37802116
+
+#### How Big Pharma reaps profits while hurting everyday Americans (2019)
+
+https://www.americanprogress.org/article/big-pharma-reaps-profits-hurting-everyday-americans/
+
+https://news.ycombinator.com/item?id=37801735
+
+#### Meta in Myanmar, Part III. The Inside View
+
+https://erinkissane.com/meta-in-myanmar-part-iii-the-inside-view
+
+https://news.ycombinator.com/item?id=37801150
+
+#### Berry is a ultra-lightweight dynamically typed embedded scripting language
+
+https://berry-lang.github.io/
+
+https://news.ycombinator.com/item?id=37801140
+
+#### Brave layoffs
+
+https://techcrunch.com/2023/10/06/brave-lays-off-9-of-its-workforce/
+
+https://news.ycombinator.com/item?id=37801043
+
+#### Paperless-ngx -- Open source document management system
+
+https://nerdyarticles.com/a-clutter-free-life-with-paperless-ngx/
+
+https://news.ycombinator.com/item?id=37800951
+
+#### The glass at McCormick Place in Chicago is a lethal obstacle for birds
+
+https://www.theguardian.com/us-news/2023/oct/07/chicago-mccormick-place-building-bird-deaths-windows
+
+https://news.ycombinator.com/item?id=37800810
+
+#### Moving Marginalia to a new server
+
+https://www.marginalia.nu/log/90-new-server-design/
+
+https://news.ycombinator.com/item?id=37800753
+
+#### Getting Started in KiCad 7.0
+
+https://docs.kicad.org/7.0/en/getting_started_in_kicad/getting_started_in_kicad.html
+
+https://news.ycombinator.com/item?id=37800572
+
+#### Shell using Fortnite, TikTok, etc. to convince kids fossil fuels are cool
+
+https://kotaku.com/shell-big-oil-roadtrips-fortnite-map-collab-tiktok-ign-1850907435
+
+https://news.ycombinator.com/item?id=37800507
+
+#### "Real Water" that poisoned dozens contained chemical from rocket fuel
+
+https://arstechnica.com/health/2023/10/jury-awards-229m-to-victims-of-real-water-tainted-with-rocket-fuel-chemical/
+
+https://news.ycombinator.com/item?id=37800458
+
+#### Subtraction is functionally complete
+
+https://orlp.net/blog/subtraction-is-functionally-complete/
+
+https://news.ycombinator.com/item?id=37800062
+
+#### John Carmack and Rich Sutton partner to accelerate development of AGI
+
+https://www.amii.ca/latest-from-amii/john-carmack-and-rich-sutton-agi/
+
+https://news.ycombinator.com/item?id=37799579
+
+#### Cloudflare is free of CAPTCHAs; Turnstile is free for everyone
+
+https://blog.cloudflare.com/turnstile-ga/
+
+https://news.ycombinator.com/item?id=37799413
+
+#### Joys of Small Game Development
+
+https://abagames.github.io/joys-of-small-game-development-en/
+
+https://news.ycombinator.com/item?id=37799387
+
+#### Documented source code for Elite on the NES
+
+https://github.com/markmoxon/nes-elite-beebasm
+
+https://news.ycombinator.com/item?id=37798914
+
+#### "Be Useful"
+
+https://www.npr.org/2023/10/06/1203694351/arnold-schwarzenegger-has-one-main-guiding-principle-be-useful
+
+https://news.ycombinator.com/item?id=37798329
+
+#### RISC-V chip technology emerges as new battleground in US-China tech war
+
+https://www.reuters.com/technology/us-china-tech-war-risc-v-chip-technology-emerges-new-battleground-2023-10-06/
+
+https://news.ycombinator.com/item?id=37798178
+
+### Phoronix
+
+#### OpenZFS 2.2-rc5 Released With More Fixes & Linux 6.5 Compatibility
+
+https://www.phoronix.com/news/OpenZFS-2.2-rc5-Released
+
+#### Intel oneDNN 3.3 Brings More Performance Optimizations For Sapphire Rapids / AMX
+
+https://www.phoronix.com/news/Intel-oneDNN-3.3
+
+#### Chrome 119 Beta Released With CSS Relative Color Syntax, WebSQL Disabled
+
+https://www.phoronix.com/news/Chrome-119-Beta
+
+#### dav1d 1.3 Yields Lower Memory Use, More Arm NEON Optimizations
+
+https://www.phoronix.com/news/dav1d-1.3-Released
+
+#### KWin Replaces KScreen For Handling Monitor Arrangement Under KDE Plasma Wayland
+
+https://www.phoronix.com/news/KWin-Takes-Over-KScreen-Duties
+
+#### OpenJDK Merges Intel's x86-simd-sort For Speeding Up Data Sorting 7 15x
+
+https://www.phoronix.com/news/Intel-x86-simd-sort-3.0
+
+#### Vulkan 1.3.267 Released With Nested Command Buffer Extension
+
+https://www.phoronix.com/news/Vulkan-1.3.267-Released
+
+#### AMD OpenSIL Will Be Talked About Later This Month At The 2023 OCP Global Summit
+
+https://www.phoronix.com/news/AMD-OpenSIL-Global-OCP-2023
+
+#### LLVM Merges Initial Support For OpenMP Kernel Language
+
+https://www.phoronix.com/news/LLVM-Lands-OpenMP-Kernel-Lang
+
+### GitHub
+
+#### jaegertracing/jaeger
+
+https://github.com/jaegertracing/jaeger
+
+CNCF Jaeger, a Distributed Tracing Platform\
+Language: Go\
+Stars: 18401\
+Forks: 2256
+
+#### microsoft/onnxruntime
+
+https://github.com/microsoft/onnxruntime
+
+ONNX Runtime: cross-platform, high performance ML inferencing and
+training accelerator\
+Language: C++\
+Stars: 10555\
+Forks: 2322
+
+#### InterviewReady/system-design-resources
+
+https://github.com/InterviewReady/system-design-resources
+
+These are the best resources for System Design on the Internet\
+Language: Unknown\
+Stars: 10908\
+Forks: 1281
+
+#### gethomepage/homepage
+
+https://github.com/gethomepage/homepage
+
+A highly customizable homepage (or startpage / application dashboard)
+with Docker and service API integrations.\
+Language: JavaScript\
+Stars: 8885\
+Forks: 508
+
+#### apache/superset
+
+https://github.com/apache/superset
+
+Apache Superset is a Data Visualization and Data Exploration Platform\
+Language: TypeScript\
+Stars: 54627\
+Forks: 11385
+
+#### supabase/supabase
+
+https://github.com/supabase/supabase
+
+The open source Firebase alternative. Follow to stay updated about our
+public Beta.\
+Language: TypeScript\
+Stars: 57600\
+Forks: 4999
+
+### Dribbble
+
+#### PNSwap - Swap, Stake, and Farming platform
+
+https://dribbble.com/shots/22757794
+
+#### Fox
+
+https://dribbble.com/shots/22753952
+
+#### GradientWave Animated Icons
+
+https://dribbble.com/shots/22751039
+
+#### Practice Hub Logo Design Process
+
+https://dribbble.com/shots/22746163
+
+#### Barista Essentials - Brand Redesign
+
+https://dribbble.com/shots/22745018
+
+#### Paytient Branding
+
+https://dribbble.com/shots/22743095
+
+#### Linkedin Logo Redesign Concept
+
+https://dribbble.com/shots/22743683
+
+#### Orca
+
+https://dribbble.com/shots/22745634
+
+#### Lamar Advertising® Brand Refresh
+
+https://dribbble.com/shots/22737324
+
+#### Product Details
+
+https://dribbble.com/shots/22732507
+
+#### LunarCrush Iconography Design
+
+https://dribbble.com/shots/22738640
+
+#### JoCreate.AI - Website design for NFT collection creation service
+
+https://dribbble.com/shots/22724434
+
+#### Coinin - Logo Design
+
+https://dribbble.com/shots/22721992
+
+#### Flux -- Product Design & Motion for Fintech App
+
+https://dribbble.com/shots/22723680
+
+#### Dating App Logo Concept (Unused for Sale)
+
+https://dribbble.com/shots/22721863
+
+#### Propwise - Calendar Page Property Management Web App Saas
+
+https://dribbble.com/shots/22727013
+
+#### Wingly Fintech Branding
+
+https://dribbble.com/shots/22726027
+
+#### Practice Hub Branding Identity
+
+https://dribbble.com/shots/22710544
+
+#### R
+
+https://dribbble.com/shots/22712911
+
+#### AI SaaS landing page design
+
+https://dribbble.com/shots/22712725
+
+#### W crypto wallet interaction
+
+https://dribbble.com/shots/22711907
+
+#### Rush Hour Chaos
+
+https://dribbble.com/shots/22715521
+
+#### Jersey Zoo
+
+https://dribbble.com/shots/22590752
+
+#### Barista Essentials - Logo Design
+
+https://dribbble.com/shots/22715386
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### 俄罗斯大学开发社会评级系统 We
+
+https://www.solidot.org/story?sid=76264
+
+#### NASA CMS 系统从 Drupal 迁移到 WordPress
+
+https://www.solidot.org/story?sid=76263
+
+#### 23andMe 证实用户数据被盗
+
+https://www.solidot.org/story?sid=76262
+
+#### 欧洲第一台 ExaFLOP 超算将使用 ARM 芯片
+
+https://www.solidot.org/story?sid=76261
+
+#### 米高梅证实黑客在网络攻击中窃取了客户数据
+
+https://www.solidot.org/story?sid=76260
+
+#### OpenAI 探索制造自己的 AI 芯片
+
+https://www.solidot.org/story?sid=76259
+
+#### 韩国指控苹果和 Google 滥用市场主导地位
+
+https://www.solidot.org/story?sid=76258
+
+#### 特朗普的违规推文会降低其支持者对政治包容性和公平性的支持
+
+https://www.solidot.org/story?sid=76257
+
+#### 联合国报告督促全球到 2030 年结束化石燃料的勘探
+
+https://www.solidot.org/story?sid=76256
+
+#### 科学家探测到来自脉冲星的极高能伽马射线
+
+https://www.solidot.org/story?sid=76255
+
+#### 普拉达为 NASA 设计登月宇航服
+
+https://www.solidot.org/story?sid=76254
+
+#### Google 将强制要求日发送逾 5 千邮件的发送者提供取消订阅按钮
+
+https://www.solidot.org/story?sid=76253
+
+#### 被失控的电动汽车劫持
+
+https://www.solidot.org/story?sid=76252
+
+#### 俄罗斯计划从 2024 年 3 月起封杀 VPN
+
+https://www.solidot.org/story?sid=76251
+
+#### 上月是有记录以来最热的九月
+
+https://www.solidot.org/story?sid=76250
+
+#### 《暗黑破坏神IV》将登陆 Steam
+
+https://www.solidot.org/story?sid=76249
+
+#### RMS 谈 Red Hat、AI 和道德软件许可
+
+https://www.solidot.org/story?sid=76248
+
+#### 亚马逊被指利用秘密算法抬高商品价格
+
+https://www.solidot.org/story?sid=76247
+
+### V2EX
+
+#### \[问与答\] macOS 默认打开的终端，请问如何修改？
+
+https://www.v2ex.com/t/979677
+
+#### \[分享创造\] 经历了 10 个月的时间，我的短链平台，终于迎来了第一批付费用户
+
+https://www.v2ex.com/t/979675
+
+#### \[宽带症候群\] 求问哪里能找到办理宽带的优惠渠道
+
+https://www.v2ex.com/t/979673
+
+#### \[汽车运动\] 问下 V 友们摩托车机油怎么选？
+
+https://www.v2ex.com/t/979672
+
+#### \[分享发现\] g.co/CAPS
+
+https://www.v2ex.com/t/979671
+
+#### \[分享发现\] 订阅了 chatgpt-4，有什么想问的？
+
+https://www.v2ex.com/t/979669
+
+#### \[VPS\] 70 求中山一元 nat 鸡
+
+https://www.v2ex.com/t/979668
+
+#### \[问与答\] 各位大哥，求一套 ai 绘画的台式电脑配置
+
+https://www.v2ex.com/t/979667
+
+#### \[微软\] 微软这么强为什么不整一个手机操作系统？
+
+https://www.v2ex.com/t/979665
+
+#### \[Apple\] 我怎么感觉 Sonoma 动态壁纸突然更新了一波呢？大家确认下
+
+https://www.v2ex.com/t/979664
+
+#### \[程序员\] 怎么找到或者开发自动填表程序提高工作效率
+
+https://www.v2ex.com/t/979663
+
+#### \[问与答\] 桌面软件挣钱呢？
+
+https://www.v2ex.com/t/979662
+
+#### \[服务器\] home lab 虚拟化从 esxi 迁移到 proxmox 是否是个好主意
+
+https://www.v2ex.com/t/979659
+
+#### \[VPS\] 求推荐一款便宜大陆 vps
+
+https://www.v2ex.com/t/979658
+
+#### \[硬件\] 关于黑群晖使用 ssd 的问题
+
+https://www.v2ex.com/t/979657
+
+#### \[Java\] 响应式编程确实有点看不懂
+
+https://www.v2ex.com/t/979656
+
+#### \[酷工作\] 深圳靠谱职位： Java 架构师，年薪： 80-120W，年龄： 40-45 岁，大型互联网公司经验
+
+https://www.v2ex.com/t/979655
+
+#### \[酷工作\] 网易内推，，（非猎头非 hr）
+
+https://www.v2ex.com/t/979654
+
+#### \[iPhone\] 港版 iPhone 是不是目前最好的选择，毕竟如果后面锁区就麻烦了
+
+https://www.v2ex.com/t/979653
+
+#### \[Linux\] 请教大佬一个 ubuntu 运行 dpkg 的问题
+
+https://www.v2ex.com/t/979652
+
+#### \[Windows\] 有哪些知名的 UWP / WPF / WinUI 3 / .NET MAUI 第三方软件？
+
+https://www.v2ex.com/t/979651
+
+#### \[嵌入式开发\] 嵌入式前景怎么样
+
+https://www.v2ex.com/t/979650
+
+#### \[OpenAI\] 有了 Bing Chat 还有必要充值 ChatGPT plus 吗
+
+https://www.v2ex.com/t/979649
+
+#### \[问与答\] 寻找哈工程计算机学院的学长学姐询问导师情况
+
+https://www.v2ex.com/t/979648
+
+#### \[程序员\] 有人知道这个是什么加密吗？
+
+https://www.v2ex.com/t/979647
+
+#### \[昆明\] 不知道大家还记得上次发的杭州和苏州自行车道的问题，今天过来昆明玩，又发现不同城市管理真的不同。 昆明的 2 轮车道还有左转道是我没想到的，这样要求 2 轮车道就很宽，差不多占用了一个 4 轮车道了。
+
+https://www.v2ex.com/t/979645
+
+#### \[Apple\] 关于苹果播客 Podcast 使用问题，请教大佬。
+
+https://www.v2ex.com/t/979644
+
+#### \[程序员\] 请教一下各位大佬，小白准备在安卓上开发一个自己用的 APP，应该选择什么语言比较好？
+
+https://www.v2ex.com/t/979643
+
+#### \[生活\] 联通手机的融合套餐送的宽带被别人装了怎么办
+
+https://www.v2ex.com/t/979641
+
+#### \[ WATCH\] 手表开常亮，坚持不了一天咋办？
+
+https://www.v2ex.com/t/979640
+
+#### \[互联网\] 请问下大家 Android 下用哪个 clash 客户端？
+
+https://www.v2ex.com/t/979638
+
+#### \[VPS\] 打算购买搬瓦工洛杉矶 CN2 GIA 线路自建机场， 199 美金 1 年，请问南京电信速度如何
+
+https://www.v2ex.com/t/979636
+
+#### \[Apple\] 某宝的独贩数码买港版 Apple 手表怎么样？
+
+https://www.v2ex.com/t/979634
+
+#### \[程序员\] 如何使用程序进行解密 puzzle?
+
+https://www.v2ex.com/t/979633
+
+#### \[宽带症候群\] SFU 光猫如何获取 VLAN 划分信息？
+
+https://www.v2ex.com/t/979632
+
+#### \[酷工作\] \[北京/上海\]小红书多岗位内推，全程辅助
+
+https://www.v2ex.com/t/979631
+
+#### \[git\] 如何把全部 git commit 全部转成英文？
+
+https://www.v2ex.com/t/979630
+
+#### \[奇思妙想\] 脑子里突然冒出的一个想法，让 ai 根据每天自己做了啥，给人写一段鼓励顺便总结的话
+
+https://www.v2ex.com/t/979629
+
+#### \[问与答\] 请教各 V 友，购买到盗版教辅资料可以如何维权
+
+https://www.v2ex.com/t/979628
+
+#### \[生活\] 回到小城市后，大家是否也在增加对工作生活的钝感
+
+https://www.v2ex.com/t/979627
+
+#### \[OpenAI\] 为什么迟迟不开放上传图像功能呢？
+
+https://www.v2ex.com/t/979624
+
+#### \[问与答\] C#求助 自制外呼工具
+
+https://www.v2ex.com/t/979623
+
+#### \[分享创造\] 利用 GAE 反代谷歌云 VM，获得一个 30G 月流量的免费虚拟机
+
+https://www.v2ex.com/t/979621
+
+#### \[Netflix\] 法老区车队，补 2 人，月 10，半年付
+
+https://www.v2ex.com/t/979620
+
+#### \[Apple\] 你们还敢在 App Store 购买软件么
+
+https://www.v2ex.com/t/979619
+
+#### \[Android\] 国内安卓 APP 怎么都不喜欢升级 API 等级？
+
+https://www.v2ex.com/t/979618
+
+#### \[问与答\] chatgpt 现在变得太蠢了，基本的文本修改都使用不了了，大家有其他的推荐么
+
+https://www.v2ex.com/t/979617
+
+#### \[macOS\] 不能彻底关机，是 macOS Sonoma 的新特性吗
+
+https://www.v2ex.com/t/979616
+
+#### \[macOS\] 为啥退出变成了 fn+command+q
+
+https://www.v2ex.com/t/979614
+
+#### \[问与答\] 有什么事情，爱好，兴趣可以让人身心愉悦舒畅满足的？
+
+https://www.v2ex.com/t/979612
+
+## Generic News
+
+### AP News
+
+#### Powerball jackpot is up to \$1.4 billion after 33 drawings without a winner
+
+https://apnews.com/article/0b897001206521758101be4d04c3ee6c
+
+DES MOINES, Iowa (AP) --- An estimated \$1.4 billion Powerball jackpot
+that has been growing since July will be on the line Saturday night. The
+jackpot is the world's fifth-largest lottery prize after rolling over
+for 33 consecutive\...
+
+#### Albuquerque International Balloon Fiesta brings colorful displays to the New Mexico sky
+
+https://apnews.com/article/7350b1139ecaf2cfdab94c64b2dd6aec
+
+The Albuquerque International Balloon Fiesta has brought colorful
+displays to the New Mexico sky in an international event that attracts
+hundreds of thousands of spectators every year. The event started
+Saturday with a drone light show\...
+
+#### 21 Savage cleared to legally travel abroad with plans of international performance in London
+
+https://apnews.com/article/e1df9a9a4d513ad388eb620192758453
+
+LOS ANGELES (AP) --- Rapper 21 Savage can now legally travel outside the
+United States and plans to make his international performance in his
+native London. Savage's lawyer, Charles Kuck, told The Associated Press
+in a statement Friday\...
+
+#### Witnesses to FBI hunt for Civil War gold describe heavily loaded armored truck, signs of a night dig
+
+https://apnews.com/article/6b5feca00ebf3e04638a8bbce992809d
+
+PENFIELD, Pa. (AP) --- In the heart of Pennsylvania elk country, Eric
+McCarthy and his client, Don Reichel, got up before sunrise to scour the
+forest floor for so-called "brown gold" --- a rack of freshly shed
+antlers to add to Reichel'\...
+
+#### Man who attacked Capitol with tomahawk and now promotes Jan. 6 merchandise gets 7 years in prison
+
+https://apnews.com/article/d33fd96d4a8a747748d2a0a8adfb56d2
+
+WASHINGTON (AP) --- A Texas man who attacked the U.S. Capitol with a
+metal tomahawk --- and is now the face of a website selling merchandise
+portraying jailed rioters as "political prisoners" --- was sentenced
+Friday to seven years\...
+
+#### Broncos trade benched pass rusher Randy Gregory to 49ers in deal including swap of 2024 draft picks
+
+https://apnews.com/article/80bfda2b1b9d27275541223dd1be890b
+
+The Broncos on Friday traded benched pass rusher Randy Gregory to the
+San Francisco 49ers in a deal that also includes the exchange of 2024
+draft picks, with Denver sending over a seventh-round selection for a
+sixth-round choice. Broncos\...
+
+#### \$1.4 billion Powerball prize is a combination of interest rates, sales, math --- and luck
+
+https://apnews.com/article/6ecd6909f7cb459676bd6426cbe8d8f1
+
+DES MOINES, Iowa (AP) --- At \$1.4 billion, the Powerball jackpot on the
+line Saturday night is the world's fifth-largest lottery prize, due to
+higher interest rates, long odds, fewer ticket sales per drawing and, of
+course, luck. A\...
+
+#### Doctor who treated Morgan State shooting victim is gunshot survivor himself
+
+https://apnews.com/article/7c3c8e7cc94f55b42f5971dd96e06fe2
+
+BALTIMORE (AP) --- When Johns Hopkins trauma surgeon Dr. Joseph Sakran
+was notified about a shooting with multiple victims on the campus of
+Morgan State University earlier this week, he relied on a unique
+combination of training and\...
+
+#### Man ordered to remain in custody over an alleged plot to kidnap and murder a British television host
+
+https://apnews.com/article/958893faae25a1d296cfefdb86ccbf5c
+
+LONDON (AP) --- A 36-year-old man was ordered to remain in custody after
+appearing in court on Friday in connection with an alleged plot to
+kidnap and murder Holly Willoughby, one of Britain's most high-profile
+television personalities\...
+
+#### An American tourist is arrested for smashing ancient Roman statues at a museum in Israel
+
+https://apnews.com/article/c1f793f1df00d477adac3e651e5751a7
+
+JERUSALEM (AP) --- Israeli police have arrested an American tourist at
+the Israel Museum in Jerusalem after he hurled works of art to the
+floor, defacing two second-century Roman statues. The vandalism late
+Thursday raised questions about\...
+
+#### Dick Butkus, fearsome Hall of Fame Chicago Bears linebacker, dies at 80
+
+https://apnews.com/article/8272fe9638bf4d6aa9d65801966309d5
+
+CHICAGO (AP) --- A photo of Dick Butkus sneering behind his facemask
+filled the cover of Sports Illustrated's 1970 NFL preview, topped by the
+headline, "The Most Feared Man in the Game." Opponents who wound up on
+the business end of his\...
+
+#### Colorado funeral home with 'green' burials under investigation after improperly stored bodies found
+
+https://apnews.com/article/945ad85c3609bfa66987b47c2b20b315
+
+PENROSE, Colo. (AP) --- Authorities in Colorado said Thursday they were
+investigating the improper storage of human remains at a funeral home
+that performs "green" burials without embalming chemicals or metal
+caskets. The investigation\...
+
+#### Indianapolis police capture a cheeky monkey that escaped and went on the lam
+
+https://apnews.com/article/9bf9a16b22371ffb0dc863d00c6097d8
+
+INDIANAPOLIS (AP) --- Momo the monkey's taste of freedom is over. The
+primate spurred an hourslong search on Indianapolis' east side after he
+escaped Wednesday evening from his owner's property. But the male patas
+monkey was finally\...
+
+### Reuters
+
+#### Turkey says it's ready to help de-escalate Israeli-Palestinian conflict
+
+https://www.reuters.com/world/middle-east/turkey-ready-help-de-escalate-israeli-palestinian-conflict-2023-10-07/
+
+Turkish Foreign Minister Hakan Fidan speaks during a press conference in
+Ankara, Turkey September 5, 2023. REUTERS/Cagla Gurdogan/File Photo
+Turkish Foreign Minister Hakan Fidan held calls on Saturday with his
+regional counterparts to\...
+
+#### Israel's Netanyahu vows 'mighty vengeance' against Hamas
+
+https://www.reuters.com/world/middle-east/israels-netanyahu-vows-mighty-vengeance-against-hamas-2023-10-07/
+
+Israeli Prime Minister Benjamin Netanyahu delivers a statement at the
+Palmachim Air Force Base near the city of Rishon Lezion, Israel July 5,
+2023. REUTERS/Amir Cohen Israeli Prime Minister Benjamin Netanyahu sits
+on a Black Hawk\...
+
+#### 'Sea of bodies' in Israel, scores dead in Gaza as shock Hamas attack unleashes war
+
+https://www.reuters.com/world/middle-east/sirens-warning-incoming-rockets-sound-around-gaza-near-tel-aviv-2023-10-07/
+
+Summary: Hamas gunmen enter Israel in unprecedented attack At least 200
+Israelis reported dead, more than 1,000 wounded Hamas says it has taken
+many Israeli captives Israel says Hamas declares war, commits grave
+mistake\...
+
+#### Poland's security depends on its own army and the US, deputy prime minister says
+
+https://www.reuters.com/world/europe/polands-security-depends-own-army-us-deputy-pm-2023-10-07/
+
+Leader of the Law and Justice (PiS) ruling party Jaroslaw Kaczynski
+delivers his speech during the Law and Justice party conference in
+Konskie, Poland September 9, 2023. Pawel Maleckii/Agencja Wyborcza.pl
+via REUTERS/File Photo Poland\...
+
+#### Hamas will 'bear the results' of its attack, Israel tells UN Security Council
+
+https://www.reuters.com/world/middle-east/hamas-will-bear-results-its-attack-israel-tells-un-security-council-2023-10-07/
+
+Israel's Ambassador to the United Nations Gilad Erdan speaks to members
+of the media after he addressed the United Nations Security Council
+during a meeting to discuss the issue of Israeli settlement activities
+in the occupied Palestinian\...
+
+#### Russia says it thwarts Ukraine missile attack over Crimea
+
+https://www.reuters.com/world/europe/russia-says-thwarts-ukraine-missile-attack-over-crimea-2023-10-07/
+
+Russias defence ministry said the countrys air defence systems had
+\"detected and destroyed\" a Ukrainian S-200 anti-aircraft missile
+deployed in an attempted attack on the Crimean Peninsula on Saturday\...
+
+#### Turkey says it killed 58 Kurdish militants in northern Syria
+
+https://www.reuters.com/world/middle-east/turkey-says-it-neutralised-least-14-kurdish-militants-northern-syria-overnight-2023-10-07/
+
+Smoke rises from Syrias Kurdish-controlled northeast city of Qamishli,
+Syria October 5, 2023. REUTERS/Orhan Qereman Turkish forces have killed
+58 Kurdish militants in northern Syria in overnight attacks on
+militant\...
+
+#### Gunmen in homes, captives abducted leave Israelis in shock
+
+https://www.reuters.com/world/middle-east/gunmen-homes-captives-abducted-gaza-leave-israelis-shock-2023-10-07/
+
+A view of a junction shows the aftermath of a mass-infiltration by Hamas
+gunmen from the Gaza Strip, in the Sderot area, southern Israel October
+7, 2023. REUTERS/Ammar Awad Smoke and flames billow after Israeli forces
+struck a high-rise\...
+
+#### Madagascar presidential candidate injured after opposition rally teargassed
+
+https://www.reuters.com/world/africa/madagascar-presidential-candidate-shows-injury-after-opposition-rally-teargassed-2023-10-07/
+
+Summary: November vote will be third after a 2009 coup Candidates want
+changes in election body, incumbent barred Madagascar Presidential
+candidate Marc Ravalomanana addresses supporters, during a campaign
+rally at the at the Mahamasina\...
+
+#### Denmark to re-start ammunition production at repurchased arms plant
+
+https://www.reuters.com/world/europe/denmark-re-start-ammunition-production-repurchased-arms-plant-2023-10-07/
+
+Soldiers from the Schleswig Infantry Regiment on drill at the Oksboel
+Shooting and Training Ground, Jutland, Denmark, March 16, 2023. The
+regiment is one of four combat troop regiments under the Danish Army
+Command. Ritzau Scanpix/Mads\...
+
+#### US ready to offer Israel support after attacks, Biden says
+
+https://www.reuters.com/world/us-ready-offer-israel-support-after-attacks-biden-2023-10-07/
+
+U.S. President Joe Biden speaks about the September Jobs Report and
+National Manufacturing Day in the Roosevelt room at the White House in
+Washington, U.S., October 6, 2023. REUTERS/Leah Millis U.S. President
+Joe Biden said on Saturday\...
+
+#### Hamas leader Haniyeh says Israel can't provide protection for Arab countries
+
+https://www.reuters.com/world/middle-east/hamas-leader-haniyeh-says-israel-cant-provide-protection-arab-countries-2023-10-07/
+
+Palestinian group Hamas top leader, Ismail Haniyeh meets with Irans
+Supreme Leader Ayatollah Ali Khamenei (not pictured), in Tehran, Iran
+June 21, 2023. Office of the Iranian Supreme Leader/WANA (West\...
+
+#### Ecuador investigates prison agency after killings of suspects in candidate assassination
+
+https://www.reuters.com/world/americas/ecuador-investigates-prison-agency-after-killings-suspects-candidate-2023-10-07/
+
+Ecuadorean presidential candidate Fernando Villavicencio speaks during a
+campaign rally in Quito, Ecuador August 9, 2023. REUTERS/Karen Toro/File
+Photo Ecuadors public prosecutors office has launched an\...
+
+### 联合早报
+
+#### 一带一路10年提升中国话语权 却陷地缘政治与债务风险
+
+https://www.zaobao.com/news/china/story20231008-1439965
+
+以基础建设投资为核心的中国"一带一路"倡议今年届满10年，中国外交部9月宣布，已有90个国家确认会参加10月在北京举行的"一带一路"峰会。图为9月在香港举行的"一带一路"高峰论坛会场......
+
+#### 中国黄金周假期跨境旅游人数恢复至疫前85%
+
+https://www.zaobao.com/news/china/story20231007-1440601
+
+今年的中秋国庆长假，更多中国消费者转向国内旅行，图为市民和游客在天津五大道游玩。（中新社）
+中国"双节"黄金周假期结束，官方数据显示，跨境旅游人数已恢复至2019年冠病疫情前同期的85%，但低于官方预期。更多中国消费者转向国内旅行，旅游人次和消费均超过疫情前水平......
+
+#### 升空前出现异常 台湾首枚自制气象卫星取消发射
+
+https://www.zaobao.com/news/china/story20231007-1440592
+
+台湾首枚自制气象卫星猎风者原定星期六早上搭乘法国亚利安公司的织女星火箭升空。图为工作人员10月2日准备将卫星装入火箭中。（台湾国家太空中心脸书）
+（台北综合讯）台湾首枚自制气象卫星猎风者原定星期六（10月7日）上午在法属圭亚那升空，但在进入读秒阶段时出现异常信号，发射任务紧急取消......
+
+#### 宝马在华生产出口电动车成欧盟反补贴调查目标
+
+https://www.zaobao.com/news/china/story20231007-1440579
+
+欧盟要求德国车企宝马提交在华生产并出口的iX3运动型多用途汽车（SUV）信息，意味着宝马也成了欧盟反补贴调查的对象。（互联网）
+（柏林彭博电）在欧盟正式对进口自中国的电动车发起反补贴调查后，宝马汽车被要求提供与其在中国生产并出口的iX3运动型多用途汽车（SUV）相关的信息。
+德国车企宝马首席财务官默特尔星期五（10月6日）透露，宝马正在填写关于调查的问卷......
+
+#### 欧盟外交事务负责人博雷利下周将访华
+
+https://www.zaobao.com/news/china/story20231007-1440570
+
+今年两度延迟访华行程的欧盟外交与安全政策高级代表博雷利，将于下周访问中国。（路透社）
+（布鲁塞尔法新电）今年两度延迟访华行程的欧盟外交与安全政策高级代表博雷利，将于下周访问中国。
+欧盟官员星期五（10月6日）说，博雷利将于下个星期四（10月12日）至星期六（14日）访问中国。他届时将与中国外交部长王毅会面，商讨有关中国和欧盟的双边关系、外交政策和安保等议题......
+
+#### 陆港猴痘病例渐增 台陆委会吁赴陆游客做好预防
+
+https://www.zaobao.com/news/china/story20231007-1440567
+
+（香港／北京／台北综合讯）随着中国大陆和香港的猴痘病例逐渐增加，台湾陆委会首次发布针对猴痘的旅游提醒，呼吁赴大陆旅游的民众要做好预防措施。
+据香港特区政府卫生署卫生防护中心星期五（10月6日）通报，正调查一起猴痘确诊病例，并透露香港至今共已录得50起猴痘病例。
+通报称，上述病例是一名过往健康良好的43岁男病人。他在9月27日出现皮疹和发烧症状，10月3日到医院求诊，目前情况稳定......
+
+#### 新闻人间：再次卷入争议的香港大学校长张翔
+
+https://www.zaobao.com/news/china/story20231007-1440335
+
+新闻人间---港大校长张翔（Lianhe Zaobao）
+香港继早前中文大学校董会改组风波闹得沸沸扬扬后，最高学府香港大学近来也爆出管治争议。港大校长张翔疑与校务委员会闹不和，遭"吹哨人"指控多起罪名。
+首先是上个月，有港媒披露港大计划为校长座驾换车，张翔最后指定选购价格高昂的宝马，可过程中被质疑没有申报相关利益和招标......
+
+#### 温伟中：殉职消防员等不到的蜜月旅行
+
+https://www.zaobao.com/news/china/story20231007-1440353
+
+10月2日，是帅气阳光的33岁消防员赖俊儒期待已久的一天。
+那一天，他原本准备搭长途班机，带相恋五年的英国籍新婚妻萨洱玛（Salma）到瑞士蜜月旅行，过后再到英国伯明翰探望岳父岳母。原本，他还将在旅途中的10月11日庆祝生日。
+令人遗憾的是，他等不到这一天......
+
+#### 连署跨过门槛 郭台铭宣布拿到2024参选门票
+
+https://www.zaobao.com/news/china/story20231006-1440337
+
+（新北综合讯）台湾鸿海集团创办人郭台铭宣布，他的总统参选连署已越过门槛，并表示要"继续努力奋战到底"。
+综合TVBS新闻网、《联合报》等多家台媒报道，郭台铭星期五（10月6日）晚在新北市板桥受访时说，他与副手赖佩霞的连署在星期三（10月4日）已经达标。
+郭台铭竞选办公室发言人陈家颐当日受访时补充，自9月20日宣布连署以来，份数已经超过30万份，团队的目标是"越多越好"......
+
+#### 中国布设巅峰气象观测网 追踪青藏高原气候脉动
+
+https://www.zaobao.com/news/china/story20231006-1440321
+
+中国科考队员10月1日在卓奥友峰峰顶架设自动气象站。（新华社）
+（拉萨综合电）中国科学考察队10月1日在世界第六高峰卓奥友峰峰顶成功架设自动气象站，扩大了喜马拉雅山脉气象观测网络，以追踪气候变化对青藏高原的影响。
+青藏高原是除了南北极以外，地球上冰川分布最广的地区，故有"亚洲水塔"之称。该地区脆弱的生态环境日益成为科学界关注的重点......
+
+#### 赖清德：台湾已主权独立 不必另行宣布
+
+https://www.zaobao.com/news/china/story20231006-1440310
+
+台湾副总统、民进党总统参选人赖清德8月25日在位于台北的民进党总部召开的记者会上，回应外媒提问。（法新社）
+（台北综合讯）台湾现任副总统、民进党总统参选人赖清德受访时称"台湾已经主权独立"，不必再另行宣布独立，并表示自己所有努力都在避免战争、稳定台海......
+
+#### 政经因素冲击下 在华日本人数跌至近20年来新低
+
+https://www.zaobao.com/news/china/story20231006-1440277
+
+（广州综合讯）在中国生活的日本人持续减少，从2012年顶峰的15万人，减至目前10万人以下近20年来的最低水平。受中日政经关系紧张等因素影响，人数今后也可能继续呈下跌趋势。
+据日经中文网星期四（10月5日）报道，日本外交部的《海外日籍人数调查统计》显示，2022年在中国生活的日本人比2021年减少5%，降至10万2066人......
+
+#### 分析：大陆不至于中止ECFA 或切香肠反制台贸易壁垒
+
+https://www.zaobao.com/news/china/story20231006-1440274
+
+《海峡两岸经济合作架构协议》（ECFA）是大陆海峡两岸关系协会、台湾海峡交流基金会，2010年6月29日在重庆代表两岸官方签订的双边经济协议。其中依据WTO规定，达成分阶段免关税默契，纳入早期收获清单的产品，依照双方约定的税率调降关税。图为两岸签署ECFA档案照片......
+
+#### 于泽远：许家印的见识与胆识
+
+https://www.zaobao.com/news/china/story20231006-1439974
+
+9月28日，中国国庆长假的前一天，恒大集团董事局主席许家印被官宣采取强制措施。（路透社）
+9月28日，中国国庆长假的前一天，恒大集团董事局主席许家印被官宣采取强制措施。曾被媒体人誉为"恒而不倒，大而愈强"的恒大集团终于塌台了。
+许家印显然要在看守所里度过他即将到来的65周岁生日，但他曾经的辉煌不会很快被人遗忘，尤其是他留给中国经济和社会的一堆烂摊子，更不会随着他的入狱就能轻易收拾干净......
+
+#### 台湾查获15万公斤美猪"洗产地" 政府强调没检出"莱猪"
+
+https://www.zaobao.com/news/china/story20231005-1439999
+
+台湾桃园市卫生局和卫生福利部食品药物管理署查获两家公司将来自美国的15万公斤猪肉制成火锅肉片等贩售，产地则标示为加拿大和英国。这批猪肉8月下旬几乎都已售罄，被质疑在"洗产地"。
+行政院发言人林子伦星期四（10月5日）在行政院会后强调，自2021年进口美猪两年半以来，无论是边境或市场均未查获检出含莱克多巴胺的猪肉，且此次稽查是食药署主动出击的成果......
+
+#### 台风"小犬"导致全台逾30万户家庭停电 一死300多伤
+
+https://www.zaobao.com/news/china/story20231005-1439991
+
+台风"小犬"星期四（10月5日）吹倒台湾南部屏东县整排的电线杆。（法新社）
+（台北/香港综合讯）台风"小犬"横扫了台湾南部地区，不仅给台湾带来有记录以来风力最强的阵风，也导致当地30多万户家庭停电，并造成一人死亡以及300多人受伤。
+综合台媒报道，据台湾中央气象署通报，"小犬"在星期四（10月5日）上午登陆台湾最南端的岬角鹅銮鼻......
+
+#### 柯文哲访美遇台侨吁蓝白合 侯柯配之外的整合方案浮出台面
+
+https://www.zaobao.com/news/china/story20231005-1439972
+
+台湾民众党主席、总统参选人柯文哲星期四（10月5日）结束二度访美行程，返台前有台侨当面呼吁"蓝白合"。多名评论员认为，蓝白合未必是侯柯配，具体可行的在野整合方案，也包括让柯文哲当行政院长或立法院长。
+台湾2024年1月13日将举行总统与立委选举，从10月5日开始倒数百日，喧腾大半年的在野整合议题，也进入成局或破局的摊牌时刻......
+
+#### 法新社：中国涉向瓦格纳集团提供卫星情报支持
+
+https://www.zaobao.com/news/china/story20231005-1439968
+
+俄罗斯雇佣兵组织瓦格纳集团已故首脑普里戈任掌控的尼卡-弗鲁特公司2022年11月15日与北京云泽科技有限公司签订一份英俄文书写的合约。（法新社）
+（巴黎法新电）法新社看到的一份文件显示，俄罗斯雇佣兵组织瓦格纳集团在2022年与一家中国公司签订合同，购买了两颗卫星并使用其图像，以辅助其在乌克兰和非洲的情报工作。
+法新社星期四（10月5日）的报道说，这两颗卫星甚至在瓦格纳今年6月兵变中也发挥了作用......
+
+#### 中菲又在南中国海发生摩擦
+
+https://www.zaobao.com/news/china/story20231005-1439963
+
+（北京/马尼拉综合讯）中国和菲律宾又在有主权争议的南中国海海域发生摩擦。中国谴责四艘菲律宾船只未经中国政府允许，进入南沙群岛仁爱礁海域。菲律宾则指中国尝试"阻挡、骚扰和干扰"菲方执行的补给任务。
+根据中国海警局在微信公号发布的消息，该局新闻发言人甘羽说，菲律宾两艘运补船和两艘海警船在星期三（10月4日）未经中国政府允许，擅自进入仁爱礁（菲律宾称阿云津礁）邻近海域......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

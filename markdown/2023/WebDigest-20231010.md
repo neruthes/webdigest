@@ -1,0 +1,1009 @@
+Other formats: [PDF]() / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20231010.html)
+
+
+# Web Digest 2023-10-10
+
+
+## Developers
+
+### Hacker News
+
+#### John Riccitiello steps down as CEO of Unity
+
+https://venturebeat.com/games/john-riccitiello-steps-down-as-ceo-of-unity-after-pricing-battle/
+
+https://news.ycombinator.com/item?id=37825292
+
+#### LLMs can't self-correct in reasoning tasks, DeepMind study finds
+
+https://bdtechtalks.com/2023/10/09/llm-self-correction-reasoning-failures/
+
+https://news.ycombinator.com/item?id=37823543
+
+#### Extreme Parkour with Legged Robots
+
+https://extreme-parkour.github.io/
+
+https://news.ycombinator.com/item?id=37823440
+
+#### Bare-metal Rust in Android
+
+https://security.googleblog.com/2023/10/bare-metal-rust-in-android.html
+
+https://news.ycombinator.com/item?id=37823377
+
+#### Video streaming at scale with Kubernetes and RabbitMQ
+
+https://alexandreolive.medium.com/video-streaming-at-scale-with-kubernetes-and-rabbitmq-6e23fd0e75fb
+
+https://news.ycombinator.com/item?id=37823160
+
+#### Linux ate my RAM (2009)
+
+https://www.linuxatemyram.com/
+
+https://news.ycombinator.com/item?id=37822927
+
+#### Medieval staircases were not built going clockwise for the defender's advantage
+
+https://fakehistoryhunter.net/2023/10/09/medieval-staircases-were-not-built-going-clockwise-for-the-defenders-advantage/
+
+https://news.ycombinator.com/item?id=37822774
+
+#### Tell HN: DNS record \"hn.algolia.com\" was gone
+
+https://www.nslookup.io/domains/hn.algolia.com/dns-records/
+
+https://news.ycombinator.com/item?id=37821821
+
+#### The pivot table, the spreadsheet's most powerful tool (2020)
+
+https://qz.com/1903322/why-pivot-tables-are-the-spreadsheets-most-powerful-tool
+
+https://news.ycombinator.com/item?id=37820877
+
+#### Chapel 1.32
+
+https://chapel-lang.org/blog/posts/announcing-chapel-1.32/
+
+https://news.ycombinator.com/item?id=37820617
+
+#### Text Showdown: Gap Buffers vs. Ropes
+
+https://coredumped.dev/2023/08/09/text-showdown-gap-buffers-vs-ropes/
+
+https://news.ycombinator.com/item?id=37820532
+
+#### Google changed ad auctions, raising prices 15%, witness says
+
+https://finance.yahoo.com/news/google-changed-ad-auctions-raising-191333390.html
+
+https://news.ycombinator.com/item?id=37820192
+
+#### Safe AI Image Generation
+
+https://www.smbc-comics.com/comic/generation
+
+https://news.ycombinator.com/item?id=37819855
+
+#### Leantime: Open-Source Jira Alternative
+
+https://github.com/Leantime/leantime
+
+https://news.ycombinator.com/item?id=37819693
+
+#### ZeroMQ -- Relicense from LGPL3 and exceptions to MPL 2.0
+
+https://github.com/zeromq/libzmq/pull/4555
+
+https://news.ycombinator.com/item?id=37819566
+
+#### Show HN: Explore Doctors' Disciplinary History
+
+https://www.physician.fyi/
+
+https://news.ycombinator.com/item?id=37819234
+
+#### Zimaboard: The closest thing to my dream home server setup
+
+https://ounapuu.ee/posts/2023/10/09/zimaboard/
+
+https://news.ycombinator.com/item?id=37819114
+
+#### Warp drive's best hope dies, as antimatter falls down
+
+https://bigthink.com/starts-with-a-bang/warp-drives-best-hope-dies/
+
+https://news.ycombinator.com/item?id=37819012
+
+#### UK Address Oddities (2018)
+
+https://paulplowman.com/stuff/uk-address-oddities/
+
+https://news.ycombinator.com/item?id=37818991
+
+#### 2023 Nobel Prize in economics awarded to Claudia Goldin
+
+https://www.nobelprize.org/prizes/economic-sciences/2023/press-release/
+
+https://news.ycombinator.com/item?id=37818937
+
+### Phoronix
+
+#### AMD Posts Linux Graphics Driver Patches Enabling SMU 14.0 IP
+
+https://www.phoronix.com/news/AMDGPU-SMU-14.0-Patches
+
+#### Benchmarks: AMD Ryzen 7000 Series Performance Boosted With Ubuntu 23.10
+
+https://www.phoronix.com/review/ubuntu-2310-desktop
+
+#### Curl Preps For \"Probably The Worst Curl Security Flaw In A Long Time\"
+
+https://www.phoronix.com/news/Curl-8.4-Coming
+
+#### GNOME Merge Requests Opened That Would Drop X.Org Session Support
+
+https://www.phoronix.com/news/GNOME-MR-Drop-X11-Session
+
+#### Intel APX Code Begins Landing Within The GCC Compiler
+
+https://www.phoronix.com/news/GCC-Intel-APX-Starts-Landing
+
+#### Hangover 8.17 Released With Updated Box64 & FEX Integration
+
+https://www.phoronix.com/news/Hangover-8.17-Released
+
+#### Libva 2.20 Released For Video Acceleration API
+
+https://www.phoronix.com/news/libva-2.20
+
+#### Linux 6.6-rc5 Released: \"Things Are Back To Normal\"
+
+https://www.phoronix.com/news/Linux-6.6-rc5
+
+#### PreSonus Studio One 6.5 Music Production Software Adds Wayland-Only Linux Support
+
+https://www.phoronix.com/news/PreSonus-Studio-One-On-Linux
+
+### GitHub
+
+#### AUTOMATIC1111/stable-diffusion-webui
+
+https://github.com/AUTOMATIC1111/stable-diffusion-webui
+
+Stable Diffusion web UI\
+Language: Python\
+Stars: 104939\
+Forks: 20985
+
+#### coqui-ai/TTS
+
+https://github.com/coqui-ai/TTS
+
+🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in
+research and production\
+Language: Python\
+Stars: 20230\
+Forks: 2267
+
+#### termux/termux-packages
+
+https://github.com/termux/termux-packages
+
+A package build system for Termux.\
+Language: Shell\
+Stars: 11197\
+Forks: 2829
+
+#### yt-dlp/yt-dlp
+
+https://github.com/yt-dlp/yt-dlp
+
+A youtube-dl fork with additional features and fixes\
+Language: Python\
+Stars: 57388\
+Forks: 4714
+
+#### krahets/hello-algo
+
+https://github.com/krahets/hello-algo
+
+《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++,
+Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。\
+Language: Java\
+Stars: 37753\
+Forks: 4158
+
+### Dribbble
+
+#### Alumia Branding Identity
+
+https://dribbble.com/shots/22776505
+
+#### Boom Boom Boom
+
+https://dribbble.com/shots/22776536
+
+#### PNSwap - Swap, Stake, and Farming platform
+
+https://dribbble.com/shots/22757794
+
+#### GradientWave Animated Icons
+
+https://dribbble.com/shots/22751039
+
+#### Fox
+
+https://dribbble.com/shots/22753952
+
+#### Practice Hub Logo Design Process
+
+https://dribbble.com/shots/22746163
+
+#### Barista Essentials - Brand Redesign
+
+https://dribbble.com/shots/22745018
+
+#### Paytient Branding
+
+https://dribbble.com/shots/22743095
+
+#### Linkedin Logo Redesign Concept
+
+https://dribbble.com/shots/22743683
+
+#### Orca
+
+https://dribbble.com/shots/22745634
+
+#### Lamar Advertising® Brand Refresh
+
+https://dribbble.com/shots/22737324
+
+#### Product Details
+
+https://dribbble.com/shots/22732507
+
+#### Packaging
+
+https://dribbble.com/shots/22735898
+
+#### LunarCrush Iconography Design
+
+https://dribbble.com/shots/22738640
+
+#### Aurahub
+
+https://dribbble.com/shots/22736552
+
+#### GLAMFUSH - Fashion Landing Page Exploration
+
+https://dribbble.com/shots/22730460
+
+#### On the beach
+
+https://dribbble.com/shots/22733280
+
+#### JoCreate.AI - Website design for NFT collection creation service
+
+https://dribbble.com/shots/22724434
+
+#### Coinin - Logo Design
+
+https://dribbble.com/shots/22721992
+
+#### Flux -- Product Design & Motion for Fintech App
+
+https://dribbble.com/shots/22723680
+
+#### Dating App Logo Concept (Unused for Sale)
+
+https://dribbble.com/shots/22721863
+
+#### Propwise - Calendar Page Property Management Web App Saas
+
+https://dribbble.com/shots/22727013
+
+#### A Piece of Istanbul
+
+https://dribbble.com/shots/22722828
+
+#### Wingly Fintech Branding
+
+https://dribbble.com/shots/22726027
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### FTX 宣布破产当天如何阻止 10 亿美元加密货币被盗窃
+
+https://www.solidot.org/story?sid=76287
+
+#### 澳大利亚继续研究投放疱疹病毒控制泛滥的鲤鱼
+
+https://www.solidot.org/story?sid=76286
+
+#### 2023 年度诺贝尔经济学奖授予了研究性别差异的 Claudia Goldin
+
+https://www.solidot.org/story?sid=76285
+
+#### Ardour 8.0 释出
+
+https://www.solidot.org/story?sid=76284
+
+#### 研究发现炎热天气降低生产率
+
+https://www.solidot.org/story?sid=76283
+
+#### 中国工厂迁移到内陆
+
+https://www.solidot.org/story?sid=76282
+
+#### 诺贝尔物理学奖是如何选择的
+
+https://www.solidot.org/story?sid=76281
+
+#### 怀孕期间大脑就在为育儿做准备
+
+https://www.solidot.org/story?sid=76280
+
+#### 拼多多 Temu 的崛起
+
+https://www.solidot.org/story?sid=76279
+
+#### 微软 CEO 在 Google 反垄断案中作证
+
+https://www.solidot.org/story?sid=76278
+
+#### 感冒也有长期症状
+
+https://www.solidot.org/story?sid=76277
+
+#### 微型语言模型的时代来临
+
+https://www.solidot.org/story?sid=76276
+
+#### 亚马逊首批互联网卫星原型发射升空
+
+https://www.solidot.org/story?sid=76275
+
+#### X.Org 新发现漏洞可追溯到 1988 年
+
+https://www.solidot.org/story?sid=76274
+
+#### 佛罗里达男子持武器击落警方无人机面临 10 年徒刑
+
+https://www.solidot.org/story?sid=76273
+
+#### 7% 的 Python 开发者仍在使用 Python 2
+
+https://www.solidot.org/story?sid=76272
+
+#### Greg Kroah-Hartman 回应内核 LTS 版本缩短到两年
+
+https://www.solidot.org/story?sid=76271
+
+#### 南极臭氧空洞面积接近 2600 万平方公里
+
+https://www.solidot.org/story?sid=76270
+
+#### 日本 AI 草案提出使用方需承担部分责任
+
+https://www.solidot.org/story?sid=76269
+
+#### 洛克希德马丁拥抱软件订阅模式
+
+https://www.solidot.org/story?sid=76268
+
+### V2EX
+
+#### \[宽带症候群\] 有点搞笑，安徽联通办了所谓的"专线"，连公网 IP 都没有
+
+https://www.v2ex.com/t/980462
+
+#### \[分享发现\] 小米手机管家开始删除 SQ App 了
+
+https://www.v2ex.com/t/980460
+
+#### \[C#\] 既然已经继承了 BCL 中的 IComparable 接口，为什么还要自己写 CompareTo 方法的实现？
+
+https://www.v2ex.com/t/980459
+
+#### \[Apple\] 关于 M1 外接 BenQ 显示器 PD2705U 27 亮度偏低, 但开启双色彩后能提升亮度的奇特操作.
+
+https://www.v2ex.com/t/980458
+
+#### \[问与答\] Bing 搜索会根据个人偏好返回搜索结果吗？
+
+https://www.v2ex.com/t/980457
+
+#### \[分享创造\] NeuralRad ：使用 Rust 和 WebAssembly 构建的下一代放疗平台
+
+https://www.v2ex.com/t/980456
+
+#### \[问与答\] 帮忙看下这是哪个插件在 Chrome 里植入的广告
+
+https://www.v2ex.com/t/980455
+
+#### \[NGINX\] 关于 sql server 反代
+
+https://www.v2ex.com/t/980454
+
+#### \[NAS\] 想在 NAS 上弄个云桌面，用来远程挂微信、WPS、访问网页，有没有合适的轻量级系统？
+
+https://www.v2ex.com/t/980452
+
+#### \[Apple\] 大爱百度网页版日历, 苹果生态有哪些能提供相似功能的软件么?
+
+https://www.v2ex.com/t/980451
+
+#### \[Linux\] 执行指令 CHMOD 777 /ETC/SSH -R 不能 SSH 登录
+
+https://www.v2ex.com/t/980449
+
+#### \[程序员\] 禁用 devtools 的奇技淫巧
+
+https://www.v2ex.com/t/980448
+
+#### \[OpenAI\] chatgpt plus 通过 link 捆绑国内信用卡，还能正常扣款吗？
+
+https://www.v2ex.com/t/980447
+
+#### \[问与答\] macbook 进水 修复概率有多少
+
+https://www.v2ex.com/t/980446
+
+#### \[OpenAI\] 免费！炸裂！终于可以使用 GPT 3.5 进行网页搜索啦， Google 颤抖吧～
+
+https://www.v2ex.com/t/980445
+
+#### \[问与答\] 小米自研 Mios 能否和华为鸿蒙 OS 一战？
+
+https://www.v2ex.com/t/980444
+
+#### \[问与答\] 有没好用的轻量的支持多平台的共享剪切板工具
+
+https://www.v2ex.com/t/980443
+
+#### \[问与答\] 香格里拉酒店 WiFi 居然可以直连 v2ex,什么原理？用的 China Telecom Next Generation Carrier Network
+
+https://www.v2ex.com/t/980442
+
+#### \[问与答\] 求问火车路线的 GPS 坐标
+
+https://www.v2ex.com/t/980441
+
+#### \[问与答\] 安卓 tasker 有中文社区么
+
+https://www.v2ex.com/t/980440
+
+#### \[求职\] 寻求 量化交易 实盘自动化交易程序编写 兼职
+
+https://www.v2ex.com/t/980438
+
+#### \[职场话题\] 程序员，年底了，危机感很强烈
+
+https://www.v2ex.com/t/980437
+
+#### \[分享创造\] 第一个发布的个人网站，纯属好玩
+
+https://www.v2ex.com/t/980435
+
+#### \[投资\] \[20231009\]今天 A 股表现不错，继续加仓 2 万元
+
+https://www.v2ex.com/t/980434
+
+#### \[程序员\] 图解 LeetCode 算法汇总---链表
+
+https://www.v2ex.com/t/980433
+
+#### \[旅行\] 国庆之乌孙古道重装徒步 day3
+
+https://www.v2ex.com/t/980432
+
+#### \[iPhone\] 「调整后的 Genius 天才支持」是什么？
+
+https://www.v2ex.com/t/980431
+
+#### \[问与答\] 电梯经常在没人时停在一楼，有没有在某些时段停在最多次上下的楼层？
+
+https://www.v2ex.com/t/980430
+
+#### \[问与答\] 关于 AI 提示词的一些问题
+
+https://www.v2ex.com/t/980429
+
+#### \[程序员\] 域名是否可能被恶意举报而被暂停解析
+
+https://www.v2ex.com/t/980428
+
+#### \[移民\] 打算润加
+
+https://www.v2ex.com/t/980427
+
+#### \[程序员\] 程序员 uuid  OJodwjodjad
+
+https://www.v2ex.com/t/980426
+
+#### \[Apple\] 升级最新的 macOS 和 iOS 后， AirPods Pro（第一代）自动切换连接效率和成功率高了很多
+
+https://www.v2ex.com/t/980425
+
+#### \[问与答\] 购物网站推荐系统对于长期持有物品的规避 有什么处理思路？
+
+https://www.v2ex.com/t/980424
+
+#### \[问与答\] 求推荐支持导入 m3u8 iptv 列表的 app
+
+https://www.v2ex.com/t/980422
+
+#### \[奇思妙想\] 今天晚上看了一篇文章突破了我的固有认知，给大家分享一下
+
+https://www.v2ex.com/t/980421
+
+#### \[Apple\] 🇺🇸美区 Apple one 高级版 Family 补一位
+
+https://www.v2ex.com/t/980420
+
+#### \[问与答\] 这样的二手房要不要入手？
+
+https://www.v2ex.com/t/980419
+
+#### \[程序员\] oracle 的免费主机问题
+
+https://www.v2ex.com/t/980416
+
+#### \[生活\] 谈谈我和初恋分手
+
+https://www.v2ex.com/t/980415
+
+#### \[分享创造\] \[开源自荐\] 语雀/Notion/FlowUs/飞书云文档 批量 Markdown 导出工具。实现云端多平台写作，同步部署到 Hexo/Vitepress/Confluence/WordPress 等多平台
+
+https://www.v2ex.com/t/980412
+
+#### \[问与答\] chrome 不知道什么时候突然不能新增本地用户了
+
+https://www.v2ex.com/t/980411
+
+#### \[问与答\] 躺平 1 年了，还能找到工作吗
+
+https://www.v2ex.com/t/980410
+
+#### \[问与答\] 关于 AI 带来的变化
+
+https://www.v2ex.com/t/980409
+
+#### \[分享发现\] 订阅转换 sub converter 这个漏洞有点厉害
+
+https://www.v2ex.com/t/980408
+
+#### \[macOS\] 有办法关掉光标下的输入法提示吗？
+
+https://www.v2ex.com/t/980407
+
+#### \[Visual Studio Code\] VSCode 有没有自动 Toggle 注释的插件？
+
+https://www.v2ex.com/t/980405
+
+#### \[程序员\] 独立开发周记 #34：从安卓市场赚的钱才叫窝囊费
+
+https://www.v2ex.com/t/980403
+
+#### \[Go 编程语言\] 请问 ecdsa.GenerateKey 使用同样的 seed 会生成两种密钥对是正常的吗？
+
+https://www.v2ex.com/t/980400
+
+#### \[macOS\] \[BUG\] 设置里修改屏保开始时间为 1h 后，过会儿再打开设置这个选项会自动变成 30min。包括屏幕关闭立即需要密码修改为 5s 后，过会儿又会自动变成"立即需要"。
+
+https://www.v2ex.com/t/980399
+
+## Generic News
+
+### AP News
+
+#### Chef and TV personality Michael Chiarello dies at 61 after being treated for allergic reaction
+
+https://apnews.com/article/2492bed7e400b0d04c1d8244644ad627
+
+NEW YORK (AP) --- Michael Chiarello, a chef known for his
+Italian-inspired Californian restaurants who won an Emmy Award for best
+host for "Easy Entertaining With Michael Chiarello" and appeared on
+Bravo's "Top Chef" and "Top Chef\...
+
+#### Louisiana public school principal apologizes after punishing student for dancing at a party
+
+https://apnews.com/article/82e706e9f63828fac685f65514362626
+
+WALKER, La. (AP) --- A Louisiana public school principal has apologized
+for punishing a student and questioning her religious beliefs after he
+saw a video of her dancing at an off-campus party. The 17-year-old
+student government president\...
+
+#### 'Frasier' returns to TV but you don't need to be a superfan of the original to laugh at its jokes
+
+https://apnews.com/article/5c1a887d0b8ee3c5386523196ec86617
+
+You could say Joe Cristalli tweeted his role as co-executive producer
+and co-showrunner on the new "Frasier" sitcom into existence. About 10
+years ago as a fledgling TV writer and "Frasier" super fan, Cristalli
+started a Twitter\...
+
+#### Chiefs star Travis Kelce shakes off an ankle injury with a key TD catch after his brief absence
+
+https://apnews.com/article/c8292645dc17ed7c15687a394311e977
+
+MINNEAPOLIS (AP) --- Travis Kelce was hurting at halftime, having limped
+off the field with an injury to his right ankle and Kansas City in a
+tied game at Minnesota. Patrick Mahomes knew better than to bother his
+close friend and favorite\...
+
+#### Unstoppable Simone Biles wraps up world championships comeback with 2 more gold medals
+
+https://apnews.com/article/3dcdfab536e0aa80fe224e2ae70b6e3e
+
+ANTWERP, Belgium (AP) --- Simone Biles was not too worried about the
+medal count, or the color of the medals, at the gymnastics world
+championships this week. That approach has sure paid off. The American
+superstar claimed a third, then a\...
+
+#### American mountaineer, local guide dead after avalanches hit Tibetan mountain. Two others are missing
+
+https://apnews.com/article/d9efbfeb74cc15f6bb1348d563543c44
+
+BEIJING (AP) --- American mountaineer Anna Gutu and a Nepalese guide
+Mingmar Sherpa were confirmed Sunday dead after avalanches struck the
+slopes of a Tibetan mountain, while two others remained missing,
+according to Chinese media\...
+
+#### An app shows how ancient Greek sites looked thousands of years ago. It's a glimpse of future tech
+
+https://apnews.com/article/273f4a1c64c6aa72a1c3c3d39e34d252
+
+ATHENS, Greece (AP) --- Tourists at the Acropolis this holiday season
+can witness the resolution of one of the world's most heated debates on
+cultural heritage. All they need is a smartphone. Visitors can now pinch
+and zoom their way\...
+
+#### Powerball jackpot up to \$1.55 billion as lottery losing streak continues
+
+https://apnews.com/article/0b897001206521758101be4d04c3ee6c
+
+DES MOINES, Iowa (AP) --- The Powerball jackpot climbed to an estimated
+\$1.55 billion after no one matched the game's six numbers Saturday and
+won the giant prize. The numbers drawn Saturday night were: 47, 54, 57,
+60, 65 and red\...
+
+#### Albuquerque International Balloon Fiesta brings colorful displays to the New Mexico sky
+
+https://apnews.com/article/7350b1139ecaf2cfdab94c64b2dd6aec
+
+The Albuquerque International Balloon Fiesta has brought colorful
+displays to the New Mexico sky in an international event that attracts
+hundreds of thousands of spectators every year. The event started
+Saturday with a drone light show\...
+
+#### 21 Savage cleared to legally travel abroad with plans of international performance in London
+
+https://apnews.com/article/e1df9a9a4d513ad388eb620192758453
+
+LOS ANGELES (AP) --- Rapper 21 Savage can now legally travel outside the
+United States and plans to make his international performance in his
+native London. Savage's lawyer, Charles Kuck, told The Associated Press
+in a statement Friday\...
+
+#### New witnesses share what they saw in the woods during a secretive FBI hunt for Civil War gold
+
+https://apnews.com/article/6b5feca00ebf3e04638a8bbce992809d
+
+PENFIELD, Pa. (AP) --- In the heart of Pennsylvania elk country, Eric
+McCarthy and his client, Don Reichel, got up before sunrise to scour the
+forest floor for so-called "brown gold" --- a rack of freshly shed
+antlers to add to Reichel'\...
+
+#### Man who attacked Capitol with tomahawk and now promotes Jan. 6 merchandise gets 7 years in prison
+
+https://apnews.com/article/d33fd96d4a8a747748d2a0a8adfb56d2
+
+WASHINGTON (AP) --- A Texas man who attacked the U.S. Capitol with a
+metal tomahawk --- and is now the face of a website selling merchandise
+portraying jailed rioters as "political prisoners" --- was sentenced
+Friday to seven years\...
+
+#### Broncos trade benched pass rusher Randy Gregory to 49ers in deal including swap of 2024 draft picks
+
+https://apnews.com/article/80bfda2b1b9d27275541223dd1be890b
+
+The Broncos on Friday traded benched pass rusher Randy Gregory to the
+San Francisco 49ers in a deal that also includes the exchange of 2024
+draft picks, with Denver sending over a seventh-round selection for a
+sixth-round choice. Broncos\...
+
+### Reuters
+
+#### Former U.S. congressman Will Hurd drops out of Republican presidential race
+
+https://www.reuters.com/world/us/former-us-congressman-will-hurd-drops-out-republican-presidential-race-2023-10-09/
+
+Former Texas congressman Will Hurd announced on Monday that he is
+dropping out of the race for the Republican presidential nomination and
+is endorsing former South Carolina Governor Nikki Haley to be the partys
+White\...
+
+#### Hamas threatens to kill captives if Israel strikes civilians
+
+https://www.reuters.com/world/middle-east/hamas-threatens-kill-captives-if-israel-strikes-civilians-2023-10-09/
+
+Summary: More than 1,500 Israelis and Palestinians dead Air strikes
+continue into the night World worries about escalation, expansion of
+conflict Fighting adds to uncertainty for investors Flames and smoke
+billow during Israeli strikes in\...
+
+#### Mexico denies energy 'donations' to Cuba but mum on financial details
+
+https://www.reuters.com/world/americas/mexico-denies-energy-donations-cuba-mum-financial-details-2023-10-09/
+
+Mexico has not provided its ally Cuba with any energy donations, a
+senior official said on Monday, even as Mexican oil exports to the
+communist-run Caribbean island have risen dramatically this year. Last
+year, Mexico did provide Cuba oil\...
+
+#### Israel on war footing, Hamas threatens to kill captives
+
+https://www.reuters.com/world/middle-east/israel-retaliates-after-hamas-attacks-deaths-pass-1100-2023-10-09/
+
+Summary: LATEST DEVELOPMENTS 900 Israelis and 687 Palestinians dead with
+thousands injured Hezbollah says at least three members killed in
+Israeli fire An Israeli tank is positioned near Israels border with
+Lebanon\...
+
+#### U.S. rushing air defenses, munitions to Israel, defense official says
+
+https://www.reuters.com/world/us-rushing-air-defenses-munitions-israel-defense-official-says-2023-10-09/
+
+A rocket launched from the Gaza Strip strikes an area near Sderot,
+southern Israel October 9, 2023. REUTERS/Amir Cohen The U.S. military is
+\"surging\" fresh supplies of air defenses, munitions and other security
+assistance to Israel to\...
+
+#### U.S. Senate moves quickly toward confirming Lew as ambassador to Israel
+
+https://www.reuters.com/world/us-senate-moves-quickly-toward-confirming-lew-ambassador-israel-2023-10-09/
+
+Former U.S. Treasury Secretary Jack Lew speaks during a panel entitled
+\"Reforming the Euro Area: Views from Inside and Outside of Europe\"
+during IMF spring meetings in Washington, U.S., April 19, 2018.
+REUTERS/Aaron P. Bernstein/File\...
+
+#### U.N. held talks in Russia on Monday on grain, fertilizer exports
+
+https://www.reuters.com/world/un-held-talks-russia-monday-grain-fertilizer-exports-2023-10-09/
+
+Top United Nations trade official Rebeca Grynspan met with Russian
+officials in Moscow on Monday for talks aimed at enabling the
+\"unimpeded access\" to global markets for grain and fertilizer from
+Russia and Ukraine, a U.N. spokesperson\...
+
+#### Hollywood writers union ratifies three-year labor contract after strike
+
+https://www.reuters.com/business/media-telecom/hollywood-writers-union-ratifies-three-year-labor-contract-after-strike-2023-10-09/
+
+SAG-AFTRA actors and Writers Guild of America (WGA) writers walk the
+picket line outside Disney Studios in Burbank, California, U.S., July
+25, 2023. REUTERS/Mike Blake/File Photo Members of the Writers Guild of
+America (WGA) approved a\...
+
+#### At least 11 American citizens killed in Israel, Biden says
+
+https://www.reuters.com/world/us/least-11-american-citizens-killed-israel-biden-says-2023-10-09/
+
+U.S. President Joe Biden leaves Mass at Holy Trinity Catholic Church in
+Washington, U.S., October 7, 2023. REUTERS/Elizabeth Frantz/File Photo
+U.S. President Joe Biden said on Monday that at least 11 American
+citizens were among those\...
+
+#### Dominican Republic intensifies Haiti border shutdown over canal row
+
+https://www.reuters.com/world/americas/dominican-republic-intensifies-haiti-border-shutdown-over-canal-row-2023-10-09/
+
+Haitians carry personal belongings, as they cross the border between the
+Dominican Republic and Haiti, after Dominican President Luis Abinader
+announced an imminent total border shutdown amid a conflict over the
+construction of a water\...
+
+#### UN chief 'deeply distressed' by planned Israeli siege of Gaza
+
+https://www.reuters.com/world/middle-east/un-chief-deeply-distressed-by-planned-israeli-siege-gaza-2023-10-09/
+
+United Nations Secretary-General Antonio Guterres addresses the 78th
+Session of the U.N. General Assembly in New York City, September 19,
+2023. REUTERS/Mike Segar/File Photo United Nations Secretary-General
+Antonio Guterres said on Monday\...
+
+#### Iran is complicit but there is no direct evidence tying it to attacks in Israel, White House's Kirby says
+
+https://www.reuters.com/world/middle-east/iran-is-complicit-there-is-no-direct-evidence-tying-it-attacks-israel-white-2023-10-09/
+
+A rocket launched from the Gaza Strip strikes an area near Sderot,
+southern Israel October 9, 2023. REUTERS/Amir Cohen Iran is complicit
+even though the United States has no intelligence or evidence that
+points to Irans\...
+
+#### Deadly humid heat could hit billions, spread as far as US Midwest, study says
+
+https://www.reuters.com/business/environment/deadly-humid-heat-could-hit-billions-spread-far-us-midwest-study-says-2023-10-09/
+
+A woman walks to fetch water from a nearby hand-pump with a water cooler
+on her head, during a heatwave, on the outskirts of Jacobabad, Pakistan,
+May 16, 2022. REUTERS/Akhtar Soomro/File Photo Parya, 42, a labourer,
+works in the sun\...
+
+### 联合早报
+
+#### 韩国瑜出面促台湾在野总统参选人整合 获侯友宜柯文哲郭台铭正面回应
+
+https://www.zaobao.com/news/china/story20231009-1441189
+
+台湾高雄前市长韩国瑜星期一（10月9日）在脸书发出呼吁，希望国民党总统参选人侯友宜、民众党总统参选人柯文哲和独立参选的鸿海集团创办人郭台铭，齐心合力让台湾更好，获三人积极回应。
+外传有意促成在野阵营在台湾总统选战整合的韩国瑜，也是上届国民党总统候选人。他星期一晚上在其脸书公开与柯文哲的合照，强调"整合不是个人意愿的抉择，而是国家社会的期待"......
+
+#### 中国---南京服务业推介会在新举行
+
+https://www.zaobao.com/news/china/story20231009-1441168
+
+由江苏省南京市商务局等主办、南京生态科技岛开发区管委会等承办、新加坡中华总商会支持的中国---南京服务业扩大开放高质量发展推介会，星期一（10月9日）上午在新加坡举行，开展投资促进与经贸交流活动。
+该活动也是新加坡---南京生态科技岛经贸合作交流会。生态科技岛是新苏会框架下的旗舰项目之一，也是江苏省第二大对外合作项目......
+
+#### 台风"小犬"向西偏南移动 海南将迎来强风雨天气
+
+https://www.zaobao.com/news/china/story20231009-1441155
+
+香港一名男子10月9日早晨在大雨中出行。（中新社）
+（北京/香港综合讯）受台风"小犬"影响，香港、珠海、深圳、海南等地星期一（10月9日）迎来强风暴雨，多地港口停运、学校停课，香港股市星期一上午暂停交易......
+
+#### 台陆委会：大陆对台贸易壁垒调查是出于政治动机
+
+https://www.zaobao.com/news/china/story20231009-1441150
+
+（北京/台北综合讯）中国大陆商务部宣布，将把对台湾贸易壁垒的调查展延至明年1月12日，也就是明年台湾总统选举前夕。台湾陆委会回应称，这证明此项调查是出于政治动机，大陆正企图以经济胁迫干扰台湾选举。
+大陆商务部官网星期一（10月9日）发布消息，根据《中华人民共和国对外贸易法》及商务部《对外贸易壁垒调查规则》规定，商务部今年4月12日发布公告，决定就台湾对大陆贸易限制措施进行贸易壁垒调查......
+
+#### 中俄朝密切互动 是否走向结盟受关注
+
+https://www.zaobao.com/news/china/story20231009-1441148
+
+朝鲜领导人金正恩（右）今年9月12日至17日访问俄罗斯，9月13日在远东地区阿穆尔州东方航天发射场同俄罗斯总统普京会晤。（路透社）
+中国与俄罗斯和俄罗斯与朝鲜10月将分别迎来受外界高度关注的双边高层会谈，引发外界对于中俄朝走向结盟的关注。受访学者分析，中俄朝目前着重于在双边关系中各取所需，不意味着三国正在共同建立新的三边机制......
+
+#### 美研究：中国新一代核潜艇取得突破性进展 将更难监视
+
+https://www.zaobao.com/news/china/story20231009-1441135
+
+（香港路透电）随着中国在制造新一代核潜艇的技术上取得突破性进展，美国海军战争学院一份研究报告指出，美国与其盟友将来对中国潜艇的监视预计将愈发困难。
+分析人士和地区防务武官说，越来越多的证据表明，中国新一代的"096型弹道导弹潜艇"有望在2030年前正式投入使用。该潜艇在静音性能上取得突破性进展，而这在一定程度上得益于俄罗斯技术......
+
+#### 广东省副省长孙志洋 出任广州代市长
+
+https://www.zaobao.com/news/china/story20231009-1441133
+
+（广州综合讯）中国广东省会广州市迎来新一轮人事变动，广东省副省长孙志洋出任广州代市长。
+据广州市政府网站消息，广州市人大常委会星期一（10月9日）开会决定，接受郭永航辞去广州市市长职务的请求，由孙志洋任广州市副市长、代理市长。
+郭永航今年6月出任广东省委常委、广州市委书记，此次辞去广州市市长职务之前，他身兼广州市委书记与市长职务长达数个月......
+
+#### 韩咏红：当外国人减少踏足中国
+
+https://www.zaobao.com/news/china/story20231009-1440883
+
+中国在7月实施了新修订的《反间谍法》，"适度扩大相关主体窃密的对象范围"，并明确将"关系国家安全和利益的文件、数据、资料、物品"纳入保护。（路透社）
+最近新加坡的聚会和大型论坛多，几天前遇到一名老朋友，他问起北京最近的情况，语带苦恼地表示自己已不能再到中国。之前几年是因疫情缘故，今年则是因为他服务的公司不让他踏足中国境内。
+我错愕了一下，还以为自己听错了："你的公司禁止你到中国......
+
+#### 黄金周交易不如预期 楼市料难明显反弹
+
+https://www.zaobao.com/news/china/story20231008-1440871
+
+中国10月黄金周期间，仅有一线城市整体新房成交面积同比增长。图为今年9月北京一个住宅工地的施工现场。（路透社）
+尽管中国密集出台楼市利好政策，但10月"黄金周"新房交易仍不及预期，且各线城市分化加剧。分析师预计，尽管房地产政策仍有进一步放宽的空间，但在成色不足的"金九银十"过后，中国楼市今年内难再有明显反弹......
+
+#### 中国金融监管部门提示提防新型网络诈骗
+
+https://www.zaobao.com/news/china/story20231008-1440870
+
+中国金融监管部门发布风险提示，提醒民众警惕校园贷款连环套、"AI换脸"和冒充监管行骗三类新型骗局。（早报示意图）
+（北京综合讯）中国金融监管部门发布风险提示，提醒民众警惕校园贷款连环套、"AI换脸"和冒充监管行骗三类新型骗局。
+据新华社报道，中国国家金融监督管理总局北京监管局星期六（10月7日）发布风险提示，提醒民众谨防新型欺诈手段，提高打假维权本领......
+
+#### 台风"小犬"来势汹汹 香港至海南风雨大作
+
+https://www.zaobao.com/news/china/story20231008-1440865
+
+香港天文台星期天（10月8日）晚上7时升级发布"九号烈风或暴风风力增强信号"（"九号风球"）。图为香港市民星期天晚撑伞离开港铁北角站。
+（中新社）
+（香港／海口综合讯）台风"小犬"于星期日（10月8日）直扑香港，香港天文台于当晚7时挂起九号风球；台风向西南移动，广东和海南一带多地宣布停运、停航......
+
+#### 因应台海紧张局势 台军油品采购预算连续三年超支
+
+https://www.zaobao.com/news/china/story20231008-1440837
+
+因应台海紧张局势，台湾军队油品采购预算逐年增加，已连续三年超支。图为7月20日新北市军演彩排中，一名士兵在储油设施附近。（路透社）
+（台北综合讯）因应台海紧张局势，台湾军队油品采购预算逐年增加，已连续三年超支......
+
+#### 港专家：冠病和流感每半年将轮流暴发一次
+
+https://www.zaobao.com/news/china/story20231008-1440835
+
+香港专家称，冠病疫情打乱流感暴发周期，预计未来冠病和流感将轮流出现，每半年暴发一次。（路透社）
+（香港综合讯）香港专家称，冠病疫情打乱流感暴发周期，预计未来冠病和流感将轮流出现，每半年暴发一次。
+综合《星岛日报》、香港01报道，香港大学医学院内科学系传染病科主任及临床教授孔繁毅星期六（10月7日）在电视节目中说，香港夏季流感高峰期已到尾声，但冠病病例有上升迹象，估计11月将迎来高峰......
+
+#### 【视频】向往自由生活 深圳人住房车过"游牧"生活
+
+https://www.zaobao.com/news/china/story20231008-1440830
+
+向往自由的沈兰，今年2月做出让周边的人们大跌眼镜的决定：离开了舒适的住宅，搬进一辆房车，在深圳过着"游牧"生活。
+沈兰接受《联合早报》访问时指出，是自己在生活需求上的改变，以及对旅游和探索的热爱，促使她作出这项决定。
+40岁的沈兰与房车生活的缘起，是在2021年年底第一次租房车和家人一起跨年出游......
+
+#### "赖萧配"呼之欲出 "蓝白不合"或保送赖清德
+
+https://www.zaobao.com/news/china/story20231008-1440825
+
+赖清德日前出席活动时，喊出把萧美琴"送进总统府"，让"赖萧配"的可能性再度上升。图为赖清德（左）8月过境美国时，与萧美琴（右）穿球衣合影。（互联网）
+（台北综合讯）距离台湾2024总统大选剩余三个月，民进党参选人赖清德日前出席活动时，喊出把萧美琴"送进总统府"，让"赖萧配"的可能性再度上升。民进党内部团结稳固，对于"蓝白到底合不合"的问题，非绿阵营日显焦虑......
+
+#### 中国特稿：一带一路10年提升中国话语权 却陷地缘政治与债务风险
+
+https://www.zaobao.com/news/china/story20231008-1439965
+
+以基础建设投资为核心的中国"一带一路"倡议今年届满10年，中国外交部9月宣布，已有90个国家确认会参加10月在北京举行的"一带一路"峰会。图为9月在香港举行的"一带一路"高峰论坛会场......
+
+#### 中国黄金周假期跨境旅游人数恢复至疫前85%
+
+https://www.zaobao.com/news/china/story20231007-1440601
+
+今年的中秋国庆长假，更多中国消费者转向国内旅行，图为市民和游客在天津五大道游玩。（中新社）
+中国"双节"黄金周假期结束，官方数据显示，跨境旅游人数已恢复至2019年冠病疫情前同期的85%，但低于官方预期。更多中国消费者转向国内旅行，旅游人次和消费均超过疫情前水平......
+
+#### 升空前出现异常 台湾首枚自制气象卫星取消发射
+
+https://www.zaobao.com/news/china/story20231007-1440592
+
+台湾首枚自制气象卫星猎风者原定星期六早上搭乘法国亚利安公司的织女星火箭升空。图为工作人员10月2日准备将卫星装入火箭中。（台湾国家太空中心脸书）
+（台北综合讯）台湾首枚自制气象卫星猎风者原定星期六（10月7日）上午在法属圭亚那升空，但在进入读秒阶段时出现异常信号，发射任务紧急取消......
+
+#### 宝马在华生产出口电动车成欧盟反补贴调查目标
+
+https://www.zaobao.com/news/china/story20231007-1440579
+
+欧盟要求德国车企宝马提交在华生产并出口的iX3运动型多用途汽车（SUV）信息，意味着宝马也成了欧盟反补贴调查的对象。（互联网）
+（柏林彭博电）在欧盟正式对进口自中国的电动车发起反补贴调查后，宝马汽车被要求提供与其在中国生产并出口的iX3运动型多用途汽车（SUV）相关的信息。
+德国车企宝马首席财务官默特尔星期五（10月6日）透露，宝马正在填写关于调查的问卷......
+
+#### 欧盟外交事务负责人博雷利下周将访华
+
+https://www.zaobao.com/news/china/story20231007-1440570
+
+今年两度延迟访华行程的欧盟外交与安全政策高级代表博雷利，将于下周访问中国。（路透社）
+（布鲁塞尔法新电）今年两度延迟访华行程的欧盟外交与安全政策高级代表博雷利，将于下周访问中国。
+欧盟官员星期五（10月6日）说，博雷利将于下个星期四（10月12日）至星期六（14日）访问中国。他届时将与中国外交部长王毅会面，商讨有关中国和欧盟的双边关系、外交政策和安保等议题......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

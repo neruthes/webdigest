@@ -1,0 +1,999 @@
+Other formats: [PDF]() / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20231018.html)
+
+
+# Web Digest 2023-10-18
+
+
+## Developers
+
+### Hacker News
+
+#### What happened to blogging for the hell of it?
+
+https://blog.whiona.me/what-happened-to-blogging-for-the-hell-of-it/
+
+https://news.ycombinator.com/item?id=37920697
+
+#### Free IRS-run tax filing pilot to be available in 13 states
+
+https://www.irs.gov/newsroom/irs-advances-innovative-direct-file-project-for-2024-tax-season-free-irs-run-pilot-option-projected-to-be-available-for-eligible-taxpayers-in-13-states
+
+https://news.ycombinator.com/item?id=37920633
+
+#### Superlinear Returns
+
+http://paulgraham.com/superlinear.html
+
+https://news.ycombinator.com/item?id=37919949
+
+#### Ishkur's Guide to Electronic Music
+
+https://music.ishkur.com/
+
+https://news.ycombinator.com/item?id=37919241
+
+#### Llemma: An Open Language Model for Mathematics
+
+https://arxiv.org/abs/2310.10631
+
+https://news.ycombinator.com/item?id=37918327
+
+#### Tech CEO sentenced to 5 years in IP address scheme
+
+https://krebsonsecurity.com/2023/10/tech-ceo-sentenced-to-5-years-in-ip-address-scheme/
+
+https://news.ycombinator.com/item?id=37917597
+
+#### Using Goatse to Stop App Theft
+
+https://joshcsimmons.com/post/H4sIAAAAAAAA%2F0xVTY%2FjNgy951c8TA%2BzC0yCQQ9F0dte2gYosIedbdEjbdG2dmRRFakE7q8vKCebXvIBySTfB59%2FwFeNecZvQqYME3wxKfhUCt4WnuxwOKPyyNnShqHFZCAMVa7K9TiQcsBVasBMK%2BMabcG6YaqRc1CMlBIHfPmnX%2Fmg%2Ffs0yvrxhPPzilKlBe%2BptMEWMlz5%2BcIYmDNoSH2elWI2ihkENaawYa7SCmRCoJg20GjxwmjKVSEXrrCFUUgNP2GVbItCKlQQWEs0RhZDEIdNeUNlSqBw4WrRuTgdDn%2B2ZK2y4hpTAl84o8TxHWRYJbAatI0jq0JNamQ9HQ5%2FsxrXQBsks0%2B3bhglJRqkkklVzCKz8%2FG0E%2FEEyh39EhXaaqlR%2BcWHr4yrf5hk9UpTrGrHQjOjsrZkemercn62jvdBLoI4ZycXUBkajRVUGU9dJJrnyrNP9HQ767UWUcMmrYJKQcwaQ0dBGfHX6g%2Bq7Ddt4Q0j5S6HM4fqDDXGVGXda5QqoY12OhzeHN1KgeG981xjF8jLGnSRlgIWujCOXZaBR2rKd89EBWEkXTDKFUdcGUEccm0ZFBSSd%2FQuq9O5n670zi49uxdlRbQXRHtWfGtqmKRiahlHDO3RMRqu5O0KqUbJjuEbj7a7%2BmbpF6isbIt7p7S694zZOFuUTCl5Q%2B6%2BLYk2%2FHV%2B%2B%2F3z1zcf9YSzT0Azxazm7mBbRNF7Br5wksL1rr%2FrNVDO7mnvUaS0om7Ful39xgnnCee%2BksFFolJe%2FD%2BnyBf%2BH7kcvSIGl4fZN%2BFxNjBaOU5VsoEGaYbrTWFoG3SssTguf6i0Oi6kjFLjyC7Mh27fhXMXrhXllFz9jycPjdEbuBY0uJOU2TnrO%2BFekMwW%2F2UnD%2BYWudLW3cJYyXevo66sRbLGHgWddBMEwfVhm54VJqAQ3CrStYDy2Gq0DUVSHDe%2FsIfC7MSB1j7zrZOK%2B92zZYd%2FRuAxBg73bqSonMMtWZhq2vDj6%2Burdulr5k7o%2BI64%2Bo7esrT7hpCdrpVV%2FUhb4RrXIh6cPauiOQUl0djXzRv0BZzuKxDYeLxvvN%2F2ro%2B1dLINC%2BnOxCN75spkHlU0Lm6JlbM93PaLY0vxwsfAJckGwuq%2BvzDmffwdizNrSOxp%2BvMtWW6z0B4%2Ba8w%2BxB%2Fsvok%2BBgiJVX01xQ2Bo8PxH%2B7q1t83j1hxjqP2baF9j3ek6sU9TPRlT2Bf28RztLiSsRvSadSXXrl7IUs3QJV0fw%2BQfbfE0cnz2BoXyjM7LE9%2Fiyuf8DkzPLrvPpAJSeTdJ43ZObiPu3db47x4cny%2F1IvBU6By2hDiNHk2G95j7tWKVKN0OvwHAAD%2F%2FwMASc5Y2XAHAAA%3D
+
+https://news.ycombinator.com/item?id=37917012
+
+#### Frasier Fantasy
+
+https://edward-la-barbera.itch.io/frasier-fantasy
+
+https://news.ycombinator.com/item?id=37916855
+
+#### Billing Engines Don't Solve Pricing Problems
+
+https://www.tier.run/blog/pricing-engine-vs-billing-engine
+
+https://news.ycombinator.com/item?id=37916840
+
+#### Patlabor 2, the Movie: realistic portrayal of modern aerial combat
+
+https://taskandpurpose.com/culture/realistic-aerial-combat-movie-patlabor-2/
+
+https://news.ycombinator.com/item?id=37916306
+
+#### Making CRDTs More Efficient
+
+https://jakelazaroff.com/words/making-crdts-98-percent-more-efficient/
+
+https://news.ycombinator.com/item?id=37915934
+
+#### Swedish union declares strike for Tesla employees
+
+https://www.ifmetall.se/aktuellt/tesla/background-information-on-if-metalls-conflict-at-tesla/
+
+https://news.ycombinator.com/item?id=37915241
+
+#### Love after life: Richard Feynman's letter to his departed wife (2017)
+
+https://www.themarginalian.org/2017/10/17/richard-feynman-arline-letter/
+
+https://news.ycombinator.com/item?id=37914958
+
+#### Show HN: Riffusion with Lyrics
+
+https://www.riffusion.com/
+
+https://news.ycombinator.com/item?id=37914425
+
+#### Small business owners say they're pressured to hire off-duty cops for security
+
+https://minnesotareformer.com/2023/10/17/small-business-owners-they-are-pressured-to-hire-off-duty-mpd-cops-for-security/
+
+https://news.ycombinator.com/item?id=37914243
+
+#### Mypy 1.6
+
+https://mypy-lang.blogspot.com/2023/10/mypy-16-released.html
+
+https://news.ycombinator.com/item?id=37914146
+
+#### Working in Silicon Valley was fun. Now it's just another miserable corporate gig
+
+https://www.businessinsider.com/tech-workers-employees-dissatisfied-jobs-new-data-labor-market-glassdoor-2023-10
+
+https://news.ycombinator.com/item?id=37913659
+
+#### Interviews in the Age of AI: Ditch Leetcode -- Try Code Reviews Instead
+
+https://chrlschn.dev/blog/2023/07/interviews-age-of-ai-ditch-leetcode-try-code-reviews-instead/
+
+https://news.ycombinator.com/item?id=37913506
+
+#### Encrypting private data and private communications is now an ethical duty
+
+https://blog.tripu.info/encrypt/
+
+https://news.ycombinator.com/item?id=37913256
+
+#### No morphological differences between living and non-living systems are yet known
+
+https://www.chemistryworld.com/opinion/shape-is-not-enough-to-distinguish-life-from-abiotic-systems/4017874.article
+
+https://news.ycombinator.com/item?id=37912954
+
+### Phoronix
+
+#### Intel Arc Graphics A580 On Linux: Open-Source Graphics For Under \$200
+
+https://www.phoronix.com/review/intel-arc-graphics-a580
+
+#### GNOME Foundation Names A New Executive Director
+
+https://www.phoronix.com/news/GNOME-Foundation-New-Director
+
+#### NVIDIA R545 Linux Beta Driver Brings HDMI Deep Color, Night Color & FB Consoles
+
+https://www.phoronix.com/news/NVIDIA-545.23.06-Linux-Beta
+
+#### Debian Repeals The Merged \"/usr\" Movement Moratorium
+
+https://www.phoronix.com/news/Debian-Repeats-Merged-Usr-Block
+
+#### AMD Takes SEV-SNP Hypervisor To v10, Intel TDX Host Support Up To 14 Revisions
+
+https://www.phoronix.com/news/AMD-SEV-SNP-Intel-TDX-Journey
+
+#### Intel's Habana Labs Driver Finishes Adapting To The Linux Accel Subsystem
+
+https://www.phoronix.com/news/Intel-Habana-Labs-Linux-6.7
+
+#### Google Proposes New mseal() Memory Sealing Syscall For Linux
+
+https://www.phoronix.com/news/Linux-mseal-Memory-Sealing
+
+#### Weston 13 Alpha Released With New Backends, Other Improvements
+
+https://www.phoronix.com/news/Weston-13-Alpha
+
+#### Ubuntu 23.10 Desktop ISOs Re-Released Following Translation Snafu
+
+https://www.phoronix.com/news/Ubuntu-23.10-ISOs-Re-Released
+
+### GitHub
+
+#### omnivore-app/omnivore
+
+https://github.com/omnivore-app/omnivore
+
+Omnivore is a complete, open source read-it-later solution for people
+who like reading.\
+Language: HTML\
+Stars: 4832\
+Forks: 196
+
+#### formbricks/formbricks
+
+https://github.com/formbricks/formbricks
+
+Open Source Surveys & Experience Management Solution\
+Language: TypeScript\
+Stars: 3063\
+Forks: 539
+
+#### calcom/cal.com
+
+https://github.com/calcom/cal.com
+
+Scheduling infrastructure for absolutely everyone.\
+Language: TypeScript\
+Stars: 24123\
+Forks: 4827
+
+### Dribbble
+
+#### Ride-Hailing Experience -- Product Design & Motion for Super App
+
+https://dribbble.com/shots/22835748
+
+#### Edge Logo Design Concept
+
+https://dribbble.com/shots/22830294
+
+#### Campfire Logo Concept
+
+https://dribbble.com/shots/22830411
+
+#### Car Sharing Startup Website
+
+https://dribbble.com/shots/22832416
+
+#### Big Brother
+
+https://dribbble.com/shots/22837453
+
+#### Monly Website
+
+https://dribbble.com/shots/22836132
+
+#### S
+
+https://dribbble.com/shots/22834891
+
+#### African Tourism EXPO website - Login and Register
+
+https://dribbble.com/shots/19794256
+
+#### Rapida - Website design for delivery service
+
+https://dribbble.com/shots/22817635
+
+#### Lautsprecher - Audio Equipment Online Store Landing Page Website
+
+https://dribbble.com/shots/22812520
+
+#### Flowerhouse Cards
+
+https://dribbble.com/shots/22817027
+
+#### 90's vibe
+
+https://dribbble.com/shots/22806307
+
+#### Heyo Icons
+
+https://dribbble.com/shots/22760257
+
+#### Wid: logo design, creative logo
+
+https://dribbble.com/shots/22790040
+
+#### FinBlock - Logo Design
+
+https://dribbble.com/shots/22804648
+
+#### \"Cozy Autumn\" - Daily doodle
+
+https://dribbble.com/shots/22809104
+
+#### Brand Identity for Stocks Trading Company
+
+https://dribbble.com/shots/22803994
+
+#### BioSphere Logo Design - Abstract, Colorful Symbol, Icon
+
+https://dribbble.com/shots/22803907
+
+#### Heyo Avatars
+
+https://dribbble.com/shots/22760246
+
+#### analog - blockchain logo
+
+https://dribbble.com/shots/22795665
+
+#### Various works / Part 1
+
+https://dribbble.com/shots/22795466
+
+#### Government leaders
+
+https://dribbble.com/shots/22800478
+
+#### Ghetto Bird
+
+https://dribbble.com/shots/22791481
+
+#### Hexagons pt. 2
+
+https://dribbble.com/shots/22793484
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### 纽约州新法案对购买 3D 打印机要求犯罪背景调查
+
+https://www.solidot.org/story?sid=76368
+
+#### 小米将用澎湃OS替代 MIUI
+
+https://www.solidot.org/story?sid=76367
+
+#### 百度公布文心大模型4.0，称能与 ChatGPT-4 媲美
+
+https://www.solidot.org/story?sid=76366
+
+#### 思科高危 0day 漏洞正被活跃利用
+
+https://www.solidot.org/story?sid=76365
+
+#### 韦伯望远镜在系外行星大气层中探测到石英晶体
+
+https://www.solidot.org/story?sid=76364
+
+#### 略微减少热量摄入有助于保持健康
+
+https://www.solidot.org/story?sid=76363
+
+#### 科学家提出新自然法则
+
+https://www.solidot.org/story?sid=76362
+
+#### Linkedin 二次裁员，其中五分之一是经理
+
+https://www.solidot.org/story?sid=76361
+
+#### Stack Overflow 裁掉约 28% 的员工
+
+https://www.solidot.org/story?sid=76360
+
+#### Netflix 准备推出更多热门剧集改编的游戏
+
+https://www.solidot.org/story?sid=76359
+
+#### 美国政府持有价值 5 亿美元的比特币
+
+https://www.solidot.org/story?sid=76358
+
+#### 黑客利用币安智能链储存恶意代码
+
+https://www.solidot.org/story?sid=76357
+
+#### OpenBSD 7.4 释出
+
+https://www.solidot.org/story?sid=76356
+
+#### NASA 向含有贵金属的小行星发射探测器
+
+https://www.solidot.org/story?sid=76355
+
+#### 随着地球暖化长期休眠的病毒正在苏醒
+
+https://www.solidot.org/story?sid=76354
+
+#### 国际奥运会宣布电竞奥运会
+
+https://www.solidot.org/story?sid=76353
+
+#### 英伟达继续允许员工选择远程办公
+
+https://www.solidot.org/story?sid=76352
+
+#### 科学家利用 ChatGPT 背后的技术构建用于科学发现的 AI
+
+https://www.solidot.org/story?sid=76351
+
+#### Dropbox CEO 为远程办公模式辩护
+
+https://www.solidot.org/story?sid=76350
+
+#### Brad Smith 如何利用微软的游说机器赢得动视暴雪的交易
+
+https://www.solidot.org/story?sid=76349
+
+### V2EX
+
+#### \[程序员\] filerun 的 docker 部署有问题，死活无法访问。
+
+https://www.v2ex.com/t/982961
+
+#### \[Linux\] Linux 上要如何物理禁用网卡
+
+https://www.v2ex.com/t/982960
+
+#### \[奇思妙想\] 想做一个 pull request 的工具，问问大家是不是伪需求？
+
+https://www.v2ex.com/t/982958
+
+#### \[分享创造\] 做了一个 iOS 迷你模拟器：摇骰子，抛硬币和抛瓶子
+
+https://www.v2ex.com/t/982957
+
+#### \[分享创造\] 做了个 Linux 常用软件整合下载站（demo）
+
+https://www.v2ex.com/t/982956
+
+#### \[iPhone\] 从安全的角度来聊聊为什么不开放 esim
+
+https://www.v2ex.com/t/982954
+
+#### \[问与答\] 这种白色塑料边框的电视怎么没有了
+
+https://www.v2ex.com/t/982953
+
+#### \[MacBook Air\] Macbook Air 外接屏幕的 LG 屏幕有竖条条
+
+https://www.v2ex.com/t/982952
+
+#### \[分享创造\] 这是目前最好的视频下载插件，并且支持 Safari， Edge， Chrome
+
+https://www.v2ex.com/t/982951
+
+#### \[Apple\] 中国移动无忧行 App 比 eSIM 还要激进啊！无忧行数据文件夹迁移到任一苹果设备都能接打电话和接短信。缅北诈骗团伙的福音啊。国内 sim 卡生成了无忧行数据直接就能传输到缅北。
+
+https://www.v2ex.com/t/982950
+
+#### \[程序员\] headscale 的流量 udp-\>tcp 请教
+
+https://www.v2ex.com/t/982948
+
+#### \[iPhone\] 美版国内售后服务换出国行咋办？
+
+https://www.v2ex.com/t/982947
+
+#### \[开源软件\] 开源软件有漏洞，作者需要负责吗？是的！
+
+https://www.v2ex.com/t/982944
+
+#### \[Apple\] 新款 Apple Pencil 给我看昏厥了
+
+https://www.v2ex.com/t/982941
+
+#### \[Apple\] 快双十一了，求推荐一个用于 Mac mini M2 的硬盘盒/拓展坞和 SSD
+
+https://www.v2ex.com/t/982940
+
+#### \[问与答\] 一带一路有什么可以做的行业吗？
+
+https://www.v2ex.com/t/982938
+
+#### \[Apple\] eSIM 来了 FaceTime Audio？
+
+https://www.v2ex.com/t/982937
+
+#### \[问与答\] YouTube 会员突然不能后台播放了
+
+https://www.v2ex.com/t/982936
+
+#### \[问与答\] 本地部署 hexo 后怎么打不开?http://localhost:4000
+
+https://www.v2ex.com/t/982935
+
+#### \[宽带症候群\] 上海电信使用联通 9929 线路富强速度很一般呀
+
+https://www.v2ex.com/t/982934
+
+#### \[分享创造\] \[漫画翻译辅助软件 MomoTranslator 2.0 更新\]
+
+https://www.v2ex.com/t/982933
+
+#### \[分享发现\] 十代 iPad 蜂窝版，国行支持 eSIM 了
+
+https://www.v2ex.com/t/982932
+
+#### \[Apple\] 关于国行 eSim 的一些分析和猜测
+
+https://www.v2ex.com/t/982931
+
+#### \[产品经理茶话会\] 东方甄选推出 199 会员，真的有必要么？
+
+https://www.v2ex.com/t/982930
+
+#### \[问与答\] 纯粹喜欢 CS 应该考虑留学吗？
+
+https://www.v2ex.com/t/982929
+
+#### \[宽带症候群\] 最近入坑软路由,分享下我的家庭网络规划
+
+https://www.v2ex.com/t/982928
+
+#### \[Telegram\] 如何避免 tg 账号被封导致创建的频道和群组一同消失的情况？
+
+https://www.v2ex.com/t/982925
+
+#### \[职场话题\] 2023 年 10 月，目前澳洲和加拿大哪里更容易，有人在关注吗？
+
+https://www.v2ex.com/t/982924
+
+#### \[分享发现\] 要被 Windows 的 WiFi 机制搞疯了
+
+https://www.v2ex.com/t/982923
+
+#### \[Apple\] 创建失败，这是什么节奏？
+
+https://www.v2ex.com/t/982921
+
+#### \[iDev\] 纯小白问题：苹果开发者账号必须要付费才能使用吗？
+
+https://www.v2ex.com/t/982919
+
+#### \[问与答\] 智能家居平台 homeassistant
+
+https://www.v2ex.com/t/982917
+
+#### \[程序员\] 项目从 Ubuntu 移植到 Debian 出现莫名其妙的 bug。
+
+https://www.v2ex.com/t/982916
+
+#### \[问与答\] ChatGPT 4 提一个问题总是 Network Error, 有什么好的解决办法?
+
+https://www.v2ex.com/t/982915
+
+#### \[程序员\] 我的至暗时刻，大批微信小程序遭破解，多年心血被盗版。
+
+https://www.v2ex.com/t/982914
+
+#### \[问与答\] 看演唱会现场有感，为什么台团在华开演唱会屡见不鲜，韩团，日团，美团在华开演唱会却很少很少？
+
+https://www.v2ex.com/t/982913
+
+#### \[问与答\] 微信读书现在是不是没法关掉翻译
+
+https://www.v2ex.com/t/982912
+
+#### \[Apple\] 第十代 iPad 发布，苹果产品首次在国内支持 eSIM
+
+https://www.v2ex.com/t/982911
+
+#### \[HTML\] 为啥 img 和 embed 标签对同一个 svg 展示效果不一样？
+
+https://www.v2ex.com/t/982908
+
+#### \[Apple\] 新 iPad 支持 eSIM！
+
+https://www.v2ex.com/t/982907
+
+#### \[App Store\] App Store 绑定支付方式的验证款会退吗？
+
+https://www.v2ex.com/t/982906
+
+#### \[职场话题\] GAP3 年 普本 非计算机专业 1 年前端子 出路在哪里
+
+https://www.v2ex.com/t/982905
+
+#### \[Google\] 有偿求助：我的 Google My Business（谷歌商家）被别人注册，我该如何找回所有权？
+
+https://www.v2ex.com/t/982904
+
+#### \[Evernote\] 这是钓鱼的还是 evernote 官方发的东西？
+
+https://www.v2ex.com/t/982902
+
+#### \[问与答\] 手动安装 Cloudflare WAPR 和 WireGuard 后无法手动启动
+
+https://www.v2ex.com/t/982901
+
+#### \[程序员\] DDD 关于 aggregate 的规则，是否 mongo 更适合使用呢
+
+https://www.v2ex.com/t/982900
+
+#### \[VPS\] 甲骨文免费机交换
+
+https://www.v2ex.com/t/982899
+
+#### \[分享发现\] 分享一个很好用的 webdav 音乐播放器
+
+https://www.v2ex.com/t/982898
+
+#### \[问与答\] 如何在网上买到好吃的柚子？
+
+https://www.v2ex.com/t/982897
+
+#### \[问与答\] 半夜走回农村有流浪狗群如何防身？
+
+https://www.v2ex.com/t/982896
+
+## Generic News
+
+### AP News
+
+#### At least 189 bodies found decaying at a Colorado funeral home, up from 115, officials say
+
+https://apnews.com/article/d83e65897404bef632dbb7ad4a8e4bfe
+
+DENVER (AP) --- The remains of at least 189 bodies have been found
+decaying at a Colorado funeral home, up from about 115 reported when the
+bodies were discovered two weeks ago, officials said Tuesday. The
+remains were found by\...
+
+#### Britney Spears writes of abortion while dating Justin Timberlake in excerpts from upcoming memoir
+
+https://apnews.com/article/b67f8514d72acb0b2ecc7c0c9b6984cc
+
+Britney Spears wrote that she had an abortion while dating Justin
+Timberlake more than 20 years ago, according to a peek inside her hotly
+anticipated memoir. "If it had been left up to me alone, I never would
+have done it," she writes\...
+
+#### Can New York's mayor speak Mandarin? No, but with AI he's making robocalls in different languages
+
+https://apnews.com/article/30517885466994e5f1f54745c08691e0
+
+ALBANY, N.Y. (AP) --- New York City Mayor Eric Adams has been using
+artificial intelligence to make robocalls that contort his own voice
+into several languages he doesn't actually speak, posing new ethical
+questions about the government's\...
+
+#### Rite Aid's bankruptcy plan stirs worries of new 'pharmacy deserts'
+
+https://apnews.com/article/0739cda0df8d199d3a6c001612b0e8fc
+
+Rite Aid's plan to close more stores as part of its bankruptcy process
+could hurt access to medicine and care, particularly in some majority
+Black and Hispanic neighborhoods and in rural areas, experts say. The
+drugstore chain said late\...
+
+#### These five toys are regular finalists for Hall of Fame honors. Now fans can vote one in
+
+https://apnews.com/article/98b0f5b1a18b91b0835273610fcdfd22
+
+ROCHESTER, N.Y. (AP) --- They are playfully called the "forgotten five":
+A handful of toys --- the pogo stick, the Fisher-Price Corn Popper, My
+Little Pony, PEZ dispensers, and Transformers --- that regularly
+approach toybox royalty as\...
+
+#### Upcoming 'Sesame Street' season stars Ariana DeBose, Brandi Carlile, ASL and an octopus chef
+
+https://apnews.com/article/758dd910c6489a3c8c1bed6875bc0996
+
+NEW YORK (AP) --- The upcoming season of "Sesame Street" features an
+octopus as a chef, an exploration of American Sign Language and Quinta
+Brunson giving Cookie Monster a little bit of attitude. The 54th season
+of the iconic children's\...
+
+#### Rolls-Royce is cutting up to 2,500 jobs in an overhaul of the UK jet engine maker
+
+https://apnews.com/article/375255aad3be447e9bd91a4ecffbb41e
+
+Jet engine maker Rolls-Royce said Tuesday it's cutting up to 2,500 jobs
+globally as part of a corporate overhaul that its new CEO is carrying
+out. The aerospace company was hit hard by the COVID-19 pandemic that
+decimated demand for air\...
+
+#### The internet is littered with fake reviews. Amazon, Glassdoor and others are trying to fight back
+
+https://apnews.com/article/43a478ac0b27d6bb773a3bbdba1858b1
+
+NEW YORK (AP) --- Some of the most used platforms for travel and online
+shopping said Tuesday they're going to team up to battle fake reviews.
+Amazon, reviews site Glassdoor and Trustpilot, as well as travel
+companies Expedia Group\...
+
+#### Biden campaign launches account on Trump's Truth Social, saying 'converts welcome'
+
+https://apnews.com/article/f8b61b8d360318404be5905a0de6b5d2
+
+WASHINGTON (AP) --- President Joe Biden 's 2024 campaign launched an
+account on Donald Trump 's Truth Social on Monday, attempting to poke
+online fun at the Republican candidate he may well face again in next
+fall's election. Under the\...
+
+#### Reese's \$25,000 promotion may violate sweepstakes laws
+
+https://apnews.com/article/6baba25eced7f8ac528252c0588f3ed0
+
+Reese's may be in violation of state and federal laws with its new
+sweepstakes offer currently advertised on packs of peanut butter cups.
+The promotion on two-cup packages reads "You could win \$25,000" and, in
+smaller print, "See\...
+
+#### Suzanne Somers, of 'Three's Company,' dies at 76
+
+https://apnews.com/article/2b97c5362eab6709f594b30280dc79c3
+
+Suzanne Somers, the effervescent blonde actor known for playing Chrissy
+Snow on the television show "Three's Company" and who became an
+entrepreneur and New York Times best-selling author, has died. She was
+76. Somers had breast cancer\...
+
+#### Stoneman Douglas High shooting site visited one last time by lawmakers and educators
+
+https://apnews.com/article/34e8e51d7ca69e3d995a8af3e295e80f
+
+PARKLAND, Fla. (AP) --- Florida lawmakers and education leaders from
+several states on Saturday took what is likely the final tour of a
+building at Marjory Stoneman Douglas High School in Parkland, where a
+former student shot 17 people to\...
+
+#### Ex-Connecticut police officer suspected of burglaries in 3 states
+
+https://apnews.com/article/7ab011b02612192e198f6e21cd571b0f
+
+GLASTONBURY, Conn. (AP) --- A former Connecticut police officer is
+suspected of being a serial burglar and committing 30 or more thefts in
+three states, including the community he had patrolled until recently. A
+newly unsealed warrant\...
+
+### Reuters
+
+#### Biden considering \$100 bln funding request that includes Israel, Ukraine aid -sources
+
+https://www.reuters.com/world/biden-considering-100-bln-funding-request-that-includes-israel-ukraine-aid-2023-10-17/
+
+U.S. President Joe Biden delivers remarks on his efforts to curb
+so-called junk fees, from the Rose Garden at the White House in
+Washington, U.S., October 11, 2023. REUTERS/Jonathan Ernst/File Photo
+U.S. President Joe Biden may consider a\...
+
+#### Venezuela gov't, opposition agree election will take place in latter half of 2024
+
+https://www.reuters.com/world/americas/venezuela-govt-opposition-agree-election-will-take-place-latter-half-2024-2023-10-17/
+
+Venezuelas government and its political opposition on Tuesday signed two
+deals laying out electoral guarantees for the 2024 elections and
+measures they said would protect the countrys national interests\...
+
+#### Reactions to strike on Gaza hospital killing hundreds
+
+https://www.reuters.com/world/middle-east/quote-box-israeli-air-strike-hits-gaza-hospital-hundreds-dead-2023-10-17/
+
+An Injured child is taken into a hospital after Israeli air strike hit a
+hospital, according to Gaza Health Ministry in Gaza City, Gaza Strip, in
+this screen grab obtained from video, October 17, 2023. REUTERS/Reuters
+TV An injured person\...
+
+#### US to continue Israel charter flights through at least Sunday
+
+https://www.reuters.com/world/us-continue-israel-charter-flights-through-least-sunday-2023-10-17/
+
+The U.S. State Department will continue to offer government-sponsored
+charter flights from Tel Aviv for Europe to help Americans depart
+through at least Sunday, a department spokesperson told Reuters on
+Tuesday. The department said Monday\...
+
+#### Hundreds killed in Gaza hospital blast, West Bank protests flare
+
+https://www.reuters.com/world/middle-east/diplomats-renew-calls-gaza-aid-iran-warns-israel-2023-10-16/
+
+Summary: LATEST DEVELOPMENTS: Hundreds of Palestinians dead, health
+authorities say Palestinian health authorities blame Israeli air strike
+Israeli military blames failed Islamic Jihad rocket launch Islamic Jihad
+spokesman denies being\...
+
+#### Palestinians clash with Abbas' West Bank forces after Gaza hospital strike
+
+https://www.reuters.com/world/middle-east/palestinians-clash-with-abbas-west-bank-forces-after-gaza-hospital-strike-2023-10-17/
+
+Palestinians take part in a protest after an Israeli air strike hit
+Al-Ahli Hospital, according to Gaza Health Ministry, in Tubas, in the
+Israeli-occupied West Bank October 17, 2023. REUTERS/Raneen Sawafta
+Palestinian security forces in\...
+
+#### At least 300 dead in Gaza hospital bombing, local authorities say
+
+https://www.reuters.com/world/middle-east/least-500-victims-israeli-air-strike-hospital-gaza-health-ministry-2023-10-17/
+
+Children sit in the back of an ambulance after an Israeli air strike hit
+At Al-Ahli Hospital, according to Gaza Health Ministry in Gaza City,
+Gaza Strip, October 17, 2023. REUTERS/Mohammed Al-Masri An injured
+person is assisted at Shifa\...
+
+#### Islamic state claims responsibility for Brussels attack -group's channel on Telegram
+
+https://www.reuters.com/world/europe/islamic-state-claims-responsibility-brussels-attack-groups-channel-telegram-2023-10-17/
+
+Police officers work outside the site of a police operation against a
+deadly shooting suspect, in Schaerbeek, Brussels, Belgium, October 17,
+2023. REUTERS/Yves Herman Islamic State claimed responsibility for
+Mondays\...
+
+#### Gaza hospital strike complicates risky Biden trip to Israel
+
+https://www.reuters.com/world/middle-east/gaza-hospital-strike-complicates-risky-biden-trip-israel-2023-10-17/
+
+U.S. President Joe Biden holds a bilateral meeting with Israeli Prime
+Minister Benjamin Netanyahu on the sidelines of the 78th U.N. General
+Assembly in New York City, U.S., September 20, 2023. REUTERS/Kevin
+Lamarque/File Photo\...
+
+#### UN warns Gaza civilians being 'packed in ever-smaller area'
+
+https://www.reuters.com/world/middle-east/un-warns-gaza-civilians-being-packed-ever-smaller-area-2023-10-17/
+
+Palestinians search for casualties at the site of Israeli strikes on
+houses in Rafah in the southern Gaza Strip October 17, 2023.
+REUTERS/Ibraheem Abu Mustafa The United Nations warned on Tuesday that
+Palestinian civilians in the Gaza\...
+
+#### German chancellor meets families in Israel of German hostages held by Hamas
+
+https://www.reuters.com/world/german-chancellor-meets-families-israel-german-hostages-held-by-hamas-2023-10-17/
+
+German Chancellor Olaf Scholz, speaks to the media during a joint press
+conference with Israeli Prime Minister Benjamin Netanyahu, in Tel Aviv,
+Israel, Tuesday, Oct. 17, 2023. Maya Alleruzzo/Pool via REUTERS German
+Chancellor Olaf Scholz\...
+
+#### Migrant's drowning in Mediterranean prompts criticism of Malta's rescue policies
+
+https://www.reuters.com/world/europe/migrants-drowning-mediterranean-prompts-criticism-maltas-rescue-policies-2023-10-17/
+
+Handout image obtained by Reuters, October 12, 2023 shows a Medicins
+Sans Frontiers (MSF) rescue boat near a rubber boat carrying migrants
+from the Middle East and Africa, in the Mediterranean Sea, June 24,
+2023. MSF/Skye McKee/Handout\...
+
+#### Canadian prime minister calls Israeli strike on hospital 'unacceptable'
+
+https://www.reuters.com/world/canadian-prime-minister-calls-israeli-strike-hospital-unacceptable-2023-10-17/
+
+Canadas Prime Minister Justin Trudeau speaks in the House of Commons on
+Parliament Hill in Ottawa, Ontario, Canada October 3, 2023.
+REUTERS/Blair Gable/File Photo Canadian Prime Minister Justin Trudeau on
+Tuesday said a\...
+
+### 联合早报
+
+#### 杨丹旭：十年一带一路何去何从
+
+https://www.zaobao.com/news/china/story20231018-1443685
+
+第三届"一带一路"国际合作高峰论坛星期三（10月18日）将在北京开幕，这是中国今年底前最重要的主场外交。据官方发布的消息，共有140多个国家、30多个国际组织的代表确认与会，参会嘉宾注册人数超过4000人。
+这个规模比2019年第二届高峰论坛时略微逊色。四年前，超过150个国家、92个国际组织的6000多名代表参会......
+
+#### 罗森伯格"面试"蓝绿白总统参选人
+
+https://www.zaobao.com/news/china/story20231017-1443681
+
+美国在台协会（AIT）主席罗森伯格访台五天，安排与蓝绿白三大党总统参选人会面，被视为"面试"台湾未来总统人选。受访学者解读，美国希望当面了解，他们准备如何在复杂国际情势下维持台海现状，并对选情做出第一手评估。
+罗森伯格（Laura
+Rosenberger）星期天（10月15日）抵台进行五天访问，这是她3月20日上任以来第三次访台......
+
+#### 俄罗斯提出以哈停火决议草案 未获联合国安理会通过
+
+https://www.zaobao.com/news/china/story20231017-1443680
+
+联合国安理会星期一（10月16日）晚就以哈冲突举行紧急会议，并就俄罗斯主导的决议草案进行表决。图为俄罗斯常驻联合国代表涅边贾（前排左一）举手支持决议草案。（路透社）
+俄罗斯拟的以哈停火决议草案，星期一（10月16日）以美英法日四国反对、中俄等五国支持、六国弃权，未获联合国安全理事会通过......
+
+#### 台防长避谈自制潜舰泄密后续影响 外长：台湾信用和防务安全均受损
+
+https://www.zaobao.com/news/china/story20231017-1443675
+
+韩国去年初起诉协助台湾制造潜舰的承包商，台湾国防部长邱国正星期二（10月17日）在立法院受访时说，政府已掌握相关资讯，因检调单位已展开调查，他不再多所置喙，避免被外界穿凿附会，造成更大的风波。
+台湾外交部长吴钊燮则在立法院会备询时指出，国际友人愿意帮忙台湾，结果台湾有人泄密，既损伤台湾的信用，未来若没有他国愿意帮忙，台湾防务也会受损......
+
+#### 许连碹：新中通过"一带一路"开展绿色项目潜力巨大
+
+https://www.zaobao.com/news/china/story20231017-1443631
+
+新加坡和中国过去15年来制定绿色发展框架、打造绿色建筑示范区，让中新天津生态城从一片盐碱地变成有超过10万人居住的绿色家园，两国未来通过"一带一路"开展绿色项目的合作潜力巨大。
+新加坡永续发展与环境部兼交通部高级政务部长许连碹博士星期二（10月17日）在北京第三届"一带一路"国际合作高峰论坛一场以"绿色丝绸之路新展望"为主题的高层研讨会上，作出上述发言......
+
+#### 香港区议会选举接受报名 紫荆党计划首次派人参选
+
+https://www.zaobao.com/news/china/story20231017-1443627
+
+香港2023年区议会一般选举将于12月10日举行，提名期由星期二（17日）开始，至10月30日结束。图为民建联主席陈克勤（后排右二）17日率领该党港岛区及离岛区九名参选人到海港政府大楼报名。（香港中通社）
+香港实施新选举制度后的首次区议会选举，周二（17日）开始接受报名。除了传统的建制和泛民政团相继公布出选名单，代表中国大陆"海归派"的紫荆党也计划首次派人参选......
+
+#### 中日船只又在钓鱼岛周围海域发生对峙
+
+https://www.zaobao.com/news/china/story20231017-1443611
+
+（北京／东京综合讯）中国和日本的船只又在有领土争议的钓鱼岛周围海域发生对峙。
+根据中国海警局网站的消息，中国海警局新闻发言人甘羽说，日本"鹤丸"号船只和数艘巡视船星期一（10月16日）非法进入钓鱼岛（日本称尖阁诸岛）领海，中国海警舰艇对其采取必要管控措施并警告驱离。
+甘羽称，中国海警舰艇在相关海域开展海上维权执法活动，敦促日本立即停止在该海域的一切违法活动......
+
+#### 路透：中国收紧公务员和国企员工海外旅行的限制
+
+https://www.zaobao.com/news/china/story20231017-1443600
+
+（上海／香港路透电）英国媒体报道，中国公务员和国有企业员工正面临更严格的私人出国旅行限制，他们的海外联系也受到更严格的审查。
+路透社星期二（10月17日）引述10名现任和前任公务员和国有企业员工说，相关限制措施自2021年以来扩大，包括禁止海外旅行、收紧旅行频率和境外逗留时间、繁琐的审批流程，以及离境前的保密培训。他们称，这些措施都与冠病疫情无关......
+
+#### "蓝白合"陷僵局 民众党基层出现与郭台铭合作的呼声
+
+https://www.zaobao.com/news/china/story20231016-1443340
+
+国民党和民众党14日首次举行"蓝白合"磋商会议，隔天双方就撕破脸。民众党基层现出现与独立参选的鸿海集团创办人郭台铭合作的呼声。（路透社）
+台湾在野国民党总统参选人侯友宜的竞选办公室，星期一（10月16日）晚上致函民众党总统参选人柯文哲竞选办公室，呼吁三天内举行第二次会面，尽速整合在野力量。柯办冷回称，看不出侯办有具体内容，不用为见面而见面......
+
+#### 中国央行净投放2890亿人民币MLF 规模为近三年最大
+
+https://www.zaobao.com/news/china/story20231016-1443334
+
+中国央行通过中期借贷便利（MLF）向市场注入2890亿元人民币（548亿新元）资金。图为中国央行位于北京的总部大楼。（路透社）
+中国央行通过中期借贷便利（MLF）向市场注入2890亿元（人民币，下同，548亿新元）资金，净投放规模为近三年来最大。分析预计，年底前央行还会持续大幅加量操作，为稳经济政策"组合拳"保驾护航......
+
+#### 美国在台协会主席上任半年多三度访台 将见蓝绿白总统参选人
+
+https://www.zaobao.com/news/china/story20231016-1443330
+
+美国在台协会（AIT）主席罗森伯格今年第三度访台，她星期一（10月16日）与台湾总统蔡英文见面时强调，美国当务之急是要提高全球对台海和平的重视。
+44岁的罗森伯格（Laura
+Rosenberger）星期天（10月15日）抵台进行五天访问，她在美国国务院亚太局资深顾问罗峻平（Michael
+Pignatello）陪同下，准备与台湾政府高层、部会官员和各界人士讨论台美关系、区域安全、经贸投资等议题......
+
+#### 极兔快递拟在港上市 有望成香港今年第二大IPO
+
+https://www.zaobao.com/news/china/story20231016-1443292
+
+（香港综合讯）中国科技巨企腾讯支持的物流公司极兔快递已在香港启动首次公开募股（IPO）程序，计划募集39.2亿港元（6.86亿新元），有望成为香港今年迄今第二大IPO。
+据彭博社报道，极兔快递环球有限公司（J&T Global
+Express）星期一（10月16日）开启招股，计划10月27日在港交所主板挂牌上市。
+在此之前，顺丰控股和阿里巴巴旗下的菜鸟也于过去两个月，向港交所提交了上市申请书......
+
+#### 中行原董事长刘连舸被捕 分析：金融反腐频或为平息民众对经济下行不满
+
+https://www.zaobao.com/news/china/story20231016-1443284
+
+中国官方星期一（10月16日）证实，中国银行原党委书记、董事长刘连舸（图）因涉嫌受贿、违法发放贷款，已被逮捕。（中新社档案照）
+中国官方星期一（10月16日）证实，中国银行原党委书记、董事长刘连舸因涉嫌受贿、违法发放贷款，已被逮捕。中国今年至少已有108名金融官员和高阶主管，受到调查或处罚。学者分析，官方或许尝试透过对金融领域的集权反腐，平息民众对经济乏力的不满......
+
+#### 香港据报将设立抗战纪念馆 强化爱国主义教育
+
+https://www.zaobao.com/news/china/story20231016-1443273
+
+（香港讯）香港特区政府据报将通过新施政报告，设立宣扬中华文化办公室和抗战纪念馆，坚定文化自信，强化爱国主义教育。
+据《星岛日报》星期一（10月16日）报道，香港特首李家超将在下星期三（10月25日）发表施政报告。消息称，新施政报告将提出进一步完善治理体系，在不同领域成立小组及办公室；部分部门则因应性质、权责而改组合并......
+
+#### 台交通部长：陆客今年都不会来
+
+https://www.zaobao.com/news/china/story20231016-1443271
+
+台湾台北市区的夜景。图为知名的台北101大厦。（路透社）
+（台北综合讯）在中国大陆和台湾无法就恢复两岸观光交流达成一致的背景下，台湾交通部长王国材坦言，大陆旅客今年都不会到台湾来。
+综合《中国时报》、风传媒等报道，王国材星期一（10月16日）在立法院交通委员会回答国民党立委傅崐萁提问大陆旅游团客何时会来台时指出，台湾已对大陆释出善意，起初预计下半年双方就会同步解除旅游禁令......
+
+#### 新中法律专家齐聚狮城 探讨基础设施项目、知识产权和海事争议解决方法
+
+https://www.zaobao.com/news/china/story20231016-1441581
+
+我国麦士威国际争议解决中心（Maxwell
+Chambers）是全球第一个提供全面解决方案的争议解决中心。（韩宝镇摄）
+基础设施项目争议，除了通过诉讼、仲裁和调解来解决，还能够通过什么方法在争议未发生前，就进行预防？知识产权纠纷日益增加，新中两国司法界对此各采取了哪些举措？联合国公约对海事业者带来什么益处......
+
+#### 于泽远：中国将现新一波人事变动
+
+https://www.zaobao.com/news/china/story20231016-1442981
+
+中国全国人大常委会会议将于10月20日至24日召开。（法新社）
+中国全国人大常委会会议将于10月20日至24日召开，外界预计会议将任命刘振立为国防部长，蓝佛安为财政部长，阴和俊为科技部长。
+现任国务委员兼国防部长李尚福已有一个半月未在公开场合露面，尤其没有出席9月28日中国高层举行的国庆招待会，从侧面证实他可能涉及腐败案件，已不能正常履职......
+
+#### 学者：王毅最新表态显示 北京对以哈冲突的外交姿态已出现根本变化
+
+https://www.zaobao.com/news/china/story20231015-1443045
+
+中国外交部长王毅14日首次公开点名批评以色列的行为已超越自卫范围，应停止对加沙民众的集体惩罚。（法新社）
+以哈冲突持续一周之际，中国外交部长王毅星期六（10月14日）首次公开点名批评以色列的行为已超越自卫范围，应停止对加沙民众的集体惩罚。受访学者研判，王毅的最新表态显示北京对以哈冲突的外交姿态已出现根本变化，对以色列计划摧毁哈马斯可能引发新一轮中东战乱表现出前所未有的担忧......
+
+#### "蓝白合"未达共识 两党言语展露火药味
+
+https://www.zaobao.com/news/china/story20231015-1443035
+
+（台北综合讯）台湾在野的国民党和民众党首次磋商会隔天，双方仍未达成共识。双方对于最强候选人的产生方式分歧依然突出，两党言语间更展露火药味。
+综合《联合报》《自由时报》等报道，在蓝白两党星期六（10月14日）的磋商会议中，民众党主张"比民调"，国民党则主张采用"开放式民主初选"的方式......
+
+#### 中俄互免签证重启 俄人到黑河吃早餐
+
+https://www.zaobao.com/news/china/story20231015-1443023
+
+图为在星期日（10月15日）黑龙江省黑河市的早市，跨境前来消费的俄罗斯游客与中国摊贩进行买卖。（中新社）
+（黑河综合讯）中俄团体免签旅游上月在中国黑龙江省黑河市率先恢复，吸引大批俄罗斯居民跨境到黑河街头消费。
+综合新华社、《星岛日报》报道，9月中下旬，黑河市率先恢复因疫情中断的中俄互免签证团体旅游业务，随后黑河口岸出入境人员数量迅速激增......
+
+#### 第三届中新国际商事争议解决论坛10月20日登场
+
+https://www.zaobao.com/news/china/story20231015-1443018
+
+因为疫情停办三年的中新国际商事争议解决论坛去年4月7日恢复以线上线下方式在新加坡、北京和厦门三地举行。图为在新加坡举行的其中一场专题讨论，左起：安睿雅士律师事务所顾问许廷芳律师、艾伦格禧律师事务所合伙人王文辉、新加坡王律师事务所合伙人曾福庆。（主办当局提供）
+探讨加强新中商事纠纷解决合作的第三届中国---新加坡国际商事争议解决论坛，将于星期五（10月20日）在新加坡登场......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

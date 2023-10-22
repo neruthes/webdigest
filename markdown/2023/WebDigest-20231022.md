@@ -1,0 +1,957 @@
+Other formats: [PDF]() / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20231022.html)
+
+
+# Web Digest 2023-10-22
+
+
+## Developers
+
+### Hacker News
+
+#### Reddit mods dumped tokens hours before blockchain program termination
+
+https://cointelegraph.com/news/reddit-mods-dumped-tokens-hours-before-blockchain-program-termination
+
+https://news.ycombinator.com/item?id=37969387
+
+#### Adtech surveillance and government surveillance are often the same
+
+https://www.eff.org/deeplinks/2023/10/adtech-surveillance-and-government-surveillance-are-often-same-surveillance
+
+https://news.ycombinator.com/item?id=37969248
+
+#### FPGA N64
+
+http://www.ultrafp64.com/
+
+https://news.ycombinator.com/item?id=37967936
+
+#### Keju, China's difficult civil service test
+
+https://aeon.co/essays/why-chinese-minds-still-bear-the-long-shadow-of-keju
+
+https://news.ycombinator.com/item?id=37967751
+
+#### Human microbiome myths and misconceptions
+
+https://www.nature.com/articles/s41564-023-01426-7
+
+https://news.ycombinator.com/item?id=37967748
+
+#### Fish skin can heal other animals' eye injuries
+
+https://www.scientificamerican.com/article/fish-skin-can-heal-other-animals-eye-injuries/
+
+https://news.ycombinator.com/item?id=37967493
+
+#### What every developer should know about GPU computing
+
+https://codeconfessions.substack.com/p/gpu-computing
+
+https://news.ycombinator.com/item?id=37967126
+
+#### Cratering motor fuel sales in Norway show the death spiral that can end oil
+
+https://electrek.co/2023/10/20/cratering-motor-fuel-sales-in-norway-show-the-death-spiral-that-can-end-oil/
+
+https://news.ycombinator.com/item?id=37966767
+
+#### The Problem with Jon Stewart cancellation highlights a problem for Apple content
+
+https://arstechnica.com/gadgets/2023/10/report-apple-cancels-the-problem-with-jon-stewart-over-china-ai-topics/
+
+https://news.ycombinator.com/item?id=37966643
+
+#### The Pixel 8 Pro's Tensor G3 off-loads all generative AI tasks to the cloud
+
+https://www.notebookcheck.net/MrWhosetheboss-video-reveals-Google-s-Pixel-8-Pro-Tensor-G3-off-loads-all-generative-AI-tasks-to-the-cloud.760215.0.html
+
+https://news.ycombinator.com/item?id=37966569
+
+#### Refactoring has a price, not refactoring has a cost
+
+https://www.germanvelasco.com/blog/refactoring-is-a-habit
+
+https://news.ycombinator.com/item?id=37966485
+
+#### It takes 12 people to use the 18k Sphere camera
+
+https://petapixel.com/2023/10/20/darren-aronofsky-says-it-takes-12-people-to-use-the-18k-sphere-camera/
+
+https://news.ycombinator.com/item?id=37966367
+
+#### Google cuts dozens of jobs in news division
+
+https://www.cnbc.com/2023/10/18/google-cuts-dozens-of-jobs-in-news-division-.html
+
+https://news.ycombinator.com/item?id=37965564
+
+#### We Built a Streaming SQL Engine
+
+https://www.epsio.io/blog/how-to-create-a-streaming-sql-engine
+
+https://news.ycombinator.com/item?id=37965319
+
+#### Town Repeatedly Surveilled Man's Yard with Drone Without a Warrant
+
+https://www.404media.co/town-surveilled-mans-yard-without-a-warrant/
+
+https://news.ycombinator.com/item?id=37965297
+
+#### Go Package for Building Progressive Web Apps
+
+https://go-app.dev
+
+https://news.ycombinator.com/item?id=37965217
+
+#### We have used too many levels of abstractions
+
+https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html
+
+https://news.ycombinator.com/item?id=37965142
+
+#### O3DE
+
+https://o3de.org/
+
+https://news.ycombinator.com/item?id=37964999
+
+#### Microwatt: A tiny Open POWER ISA softcore written in VHDL 2008
+
+https://github.com/antonblanchard/microwatt
+
+https://news.ycombinator.com/item?id=37964878
+
+#### With Firefox on X11, any page can pastejack you anytime (middle button paste)
+
+https://www.openwall.com/lists/oss-security/2023/10/17/1
+
+https://news.ycombinator.com/item?id=37964835
+
+### Phoronix
+
+#### Intel Optimizing Its MDS Mitigation Handling To Avoid Possible Kernel Data Leaking
+
+https://www.phoronix.com/news/Intel-Linux-Delay-VERW-MDS
+
+#### TuxClocker 1.2 Released With AMD GPU Thermal Monitoring, CPU Governor Controls
+
+https://www.phoronix.com/news/TuxClocker-1.2
+
+#### FreeBSD 14.0-RC2 Pulls In OpenZFS 2.2, OpenSSH 9.5p1
+
+https://www.phoronix.com/news/FreeBSD-14.0-RC2
+
+#### More Optimizations Made For Making GNOME/VTE Terminals Go Faster
+
+https://www.phoronix.com/news/GNOME-VTE-Go-Faster
+
+#### Geany 2.0 Lightweight IDE / Text Editor Released
+
+https://www.phoronix.com/news/Geany-2.0-Released
+
+#### AMD Wants To Know If You'd Like Ryzen AI Support On Linux
+
+https://www.phoronix.com/news/Ryzen-AI-For-Linux-Requests
+
+#### Raptor Computing Developing New Secure BMC & New OpenPOWER ISA 3.1 Based Systems
+
+https://www.phoronix.com/news/Raptor-Computing-New-2024
+
+#### Linux 6.5+ Is Great For The Lenovo ThinkPad P14s Gen 4 / AMD Ryzen 7 PRO 7840U
+
+https://www.phoronix.com/review/linux-65-thinkpad
+
+#### COSMIC Desktop Rolls Out Lock/Login Screen, More Wayland Protocols
+
+https://www.phoronix.com/news/System76-COSMIC-October
+
+### Dribbble
+
+#### Echospectra Logo Design
+
+https://dribbble.com/shots/22859506
+
+#### Baby Born
+
+https://dribbble.com/shots/22862237
+
+#### Train Effective - app 2
+
+https://dribbble.com/shots/22862543
+
+#### Yakoda
+
+https://dribbble.com/shots/22858126
+
+#### Hot Sauce Label Characters
+
+https://dribbble.com/shots/22849484
+
+#### Campfire Logo Concept
+
+https://dribbble.com/shots/22856153
+
+#### Pinetech
+
+https://dribbble.com/shots/22854734
+
+#### LinkDrop logo design
+
+https://dribbble.com/shots/22851286
+
+#### Craft bakery
+
+https://dribbble.com/shots/22852365
+
+#### ✨
+
+https://dribbble.com/shots/22844443
+
+#### Ride-Hailing Experience -- Product Design & Motion for Super App
+
+https://dribbble.com/shots/22835748
+
+#### \"Wednesday's Child is Full of Woes\" - Daily doole
+
+https://dribbble.com/shots/22845112
+
+#### Pine Park Health Sticker No. IV
+
+https://dribbble.com/shots/22842033
+
+#### EarthCore Apparel
+
+https://dribbble.com/shots/22839651
+
+#### Edge Logo Design Concept
+
+https://dribbble.com/shots/22830294
+
+#### Campfire Logo Concept
+
+https://dribbble.com/shots/22830411
+
+#### Monly Website
+
+https://dribbble.com/shots/22836132
+
+#### Car Sharing Startup Website
+
+https://dribbble.com/shots/22832416
+
+#### Big Brother
+
+https://dribbble.com/shots/22837453
+
+#### Pendleton Whisky
+
+https://dribbble.com/shots/22838322
+
+#### S
+
+https://dribbble.com/shots/22834891
+
+#### Adventure awaits
+
+https://dribbble.com/shots/22836827
+
+#### Smart home mobile
+
+https://dribbble.com/shots/22829853
+
+#### African Tourism EXPO website - Login and Register
+
+https://dribbble.com/shots/19794256
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### Twitter/X 将推出两种新的订阅套餐
+
+https://www.solidot.org/story?sid=76410
+
+#### Hugging Face 被屏蔽
+
+https://www.solidot.org/story?sid=76409
+
+#### 耐克在中国推行四天工作制
+
+https://www.solidot.org/story?sid=76408
+
+#### AI 帮助维基百科整理引用链接
+
+https://www.solidot.org/story?sid=76407
+
+#### jabber.ru 遭中间人攻击
+
+https://www.solidot.org/story?sid=76406
+
+#### 攻击者用国际化域名编码让钓鱼网站域名模仿 KeePass
+
+https://www.solidot.org/story?sid=76405
+
+#### Julian Assange 将被授予罗马荣誉公民
+
+https://www.solidot.org/story?sid=76404
+
+#### 受脑启发的低功耗 AI 推理芯片 NorthPole
+
+https://www.solidot.org/story?sid=76403
+
+#### 研究揭示男女焦虑差异的生理机理
+
+https://www.solidot.org/story?sid=76402
+
+#### OpenAI 寻求以 860 亿美元估值出售股票
+
+https://www.solidot.org/story?sid=76401
+
+#### 苹果 CEO 库克突然访华
+
+https://www.solidot.org/story?sid=76400
+
+#### Microsoft AI 为古腾堡项目录制了 5000 本有声书
+
+https://www.solidot.org/story?sid=76399
+
+#### Google 开始在印度生产 Pixel 手机
+
+https://www.solidot.org/story?sid=76398
+
+#### arXiv 平台收到 1000 万美元资助
+
+https://www.solidot.org/story?sid=76397
+
+#### 地球存在过的活细胞数量比星星更多
+
+https://www.solidot.org/story?sid=76396
+
+#### RowPress 能在部署了 RowHammer 保护措施的 DRAM 中诱发比特翻转
+
+https://www.solidot.org/story?sid=76395
+
+#### 新闻出版署希望网游抛弃氪金氪肝
+
+https://www.solidot.org/story?sid=76394
+
+#### 日本电动汽车公司寻求通过软件获得持续收入
+
+https://www.solidot.org/story?sid=76393
+
+#### 果糖可能是肥胖问题的核心
+
+https://www.solidot.org/story?sid=76392
+
+#### Google 将在侧载应用安装时进行扫描
+
+https://www.solidot.org/story?sid=76391
+
+### V2EX
+
+#### \[分享发现\] 说说最容易吃灰的家用电器吧
+
+https://www.v2ex.com/t/984178
+
+#### \[问与答\] 如何看待： \[耐克大中华区将实行四天工作制\]
+
+https://www.v2ex.com/t/984177
+
+#### \[问与答\] 加拿大，电脑上淘宝网页版反复要求拖动滑块验证而且总是验证失败，手机 APP 没事
+
+https://www.v2ex.com/t/984175
+
+#### \[iOS\] iOS17 电话来电自带黄页功能
+
+https://www.v2ex.com/t/984173
+
+#### \[分享创造\] 分享一个飞书的订阅服务管理模板
+
+https://www.v2ex.com/t/984172
+
+#### \[Linux\] ubuntu wayland 下系统设置无法打开
+
+https://www.v2ex.com/t/984171
+
+#### \[问与答\] 微信换个手机说账号有被盗嫌疑直接封号怎么办？找好友填银行卡预留手机号明明符合解封条件却说不符合。旧手机坏掉了无法旧手机扫码刷脸登录的非说我账号被盗。
+
+https://www.v2ex.com/t/984170
+
+#### \[问与答\] kindle 有办法支持双拼么？
+
+https://www.v2ex.com/t/984169
+
+#### \[问与答\] 好奇，大家是怎么戒掉熬夜 恢复到正常睡眠生物钟
+
+https://www.v2ex.com/t/984168
+
+#### \[前端开发\] Ray Template v4.2.5 发布
+
+https://www.v2ex.com/t/984166
+
+#### \[分享发现\] 开源 Flutter 数独应用，支持打包 IOS/Android 应用
+
+https://www.v2ex.com/t/984165
+
+#### \[问与答\] 美版无锁要使用美国卡激活吗
+
+https://www.v2ex.com/t/984164
+
+#### \[宽带症候群\] godaddy 被污染登陆页面打不开，挂代理能打开，但登陆检查不让挂代理，死循环如何破解
+
+https://www.v2ex.com/t/984163
+
+#### \[NAS\] 主板功耗 20 瓦+，真让人头疼
+
+https://www.v2ex.com/t/984162
+
+#### \[硬件\] 纠结，选电视 Redmi max 86. vs Xiaomi S pro 75
+
+https://www.v2ex.com/t/984161
+
+#### \[分享创造\] GameMakerKit 加速独立游戏产品上线效率
+
+https://www.v2ex.com/t/984158
+
+#### \[程序员\] 这种网页经常看到，请问是用什么程序做的？
+
+https://www.v2ex.com/t/984157
+
+#### \[问与答\] 如何评价《别独自用餐》这本书？
+
+https://www.v2ex.com/t/984156
+
+#### \[问与答\] 注册微软浏览器开发者账号时报错，错误代码 2201 怎么解决？
+
+https://www.v2ex.com/t/984155
+
+#### \[微信\] 有从微信转为 WeChat 的吗
+
+https://www.v2ex.com/t/984154
+
+#### \[iPad\] iPadmini5 现在是 iOS14.8.1，要不要升级 iOS16.7.1？
+
+https://www.v2ex.com/t/984153
+
+#### \[Android\] 求助： Google Play 更新 APP 时，始终存在待安装项目
+
+https://www.v2ex.com/t/984151
+
+#### \[程序员\] 请教 wireguard 和 gost 转发 2 个问题。
+
+https://www.v2ex.com/t/984150
+
+#### \[程序员\] 招募志愿者一起来翻译 solidity 设计模式
+
+https://www.v2ex.com/t/984149
+
+#### \[macOS\] Can't delete "xx" because its pathname is too long. 求助如何解决
+
+https://www.v2ex.com/t/984148
+
+#### \[程序员\] 今天才发现谷歌的 Bard 已经可以正常使用了
+
+https://www.v2ex.com/t/984145
+
+#### \[分享创造\] 基于 Tauri 开发的壁纸小软件
+
+https://www.v2ex.com/t/984142
+
+#### \[硬件\] 想配一台 intel14 代台式机， i9-14900K，主板该这么选？
+
+https://www.v2ex.com/t/984140
+
+#### \[Apple\] 拼多多 iPhone15pro 256G 为什么这么便宜，能冲吗
+
+https://www.v2ex.com/t/984139
+
+#### \[Telegram\] 不懂就问 Telegram 和 TelegramX 有啥区别？
+
+https://www.v2ex.com/t/984137
+
+#### \[iPad\] iPad mini 2 上的油管应用不能用了怎么办？
+
+https://www.v2ex.com/t/984136
+
+#### \[问与答\] 蹲一波 hugo 博客主题
+
+https://www.v2ex.com/t/984133
+
+#### \[Apple\] Vision Pro 的开发者套件发货了吗？
+
+https://www.v2ex.com/t/984132
+
+#### \[程序员\] Mojo 开发者交流会第三期结束
+
+https://www.v2ex.com/t/984130
+
+#### \[问与答\] 求各位 v 友们推荐个能当文件传输助手的 im 软件
+
+https://www.v2ex.com/t/984128
+
+#### \[宽带症候群\] 将 Tailscale 安装在云服务器，是否存在安全问题？
+
+https://www.v2ex.com/t/984127
+
+#### \[问与答\] appstore 日区 jcb 信用卡开通 gpt plus 有问题吗
+
+https://www.v2ex.com/t/984126
+
+#### \[路由器\] MBP & TP-Link AP 的协商速率怎么调整
+
+https://www.v2ex.com/t/984125
+
+#### \[路由器\] 路由器回家，有办法实现流量分流吗？
+
+https://www.v2ex.com/t/984124
+
+#### \[路由器\] 發現一個小米路由器自帶的 QOS 問題\...
+
+https://www.v2ex.com/t/984123
+
+#### \[问与答\] 大 A 加速下跌了，是否买点到了？
+
+https://www.v2ex.com/t/984122
+
+#### \[问与答\] 全屋定制本地工厂店 做样板房需要注意什么？
+
+https://www.v2ex.com/t/984121
+
+#### \[问与答\] 大家有什么大屏播放软件推荐的？类似 vMix 这种
+
+https://www.v2ex.com/t/984119
+
+#### \[iPhone\] 终于发货了
+
+https://www.v2ex.com/t/984118
+
+#### \[问与答\] 是不是现在越来越多的人活的更自我了？
+
+https://www.v2ex.com/t/984117
+
+#### \[程序员\] Shopify 的自动化中工作流的这种 Canvas 的实现技术
+
+https://www.v2ex.com/t/984113
+
+#### \[分享创造\] 刚手搓的论坛，欢迎大家来玩 
+
+https://www.v2ex.com/t/984105
+
+#### \[问与答\] 求 mac & win 双屏幕鼠标 键盘 剪贴板共享免费方案
+
+https://www.v2ex.com/t/984104
+
+#### \[问与答\] HP 笔记本电脑，维修换了一块 5 年前产的原厂电池，半年后 25 次充放电，损耗 4%，正常吗？
+
+https://www.v2ex.com/t/984103
+
+#### \[宽带症候群\] 链路聚合为什么带宽没有叠加
+
+https://www.v2ex.com/t/984100
+
+## Generic News
+
+### AP News
+
+#### Visitors tour New Mexico atomic site in likely record attendance fueled by 'Oppenheimer' fanfare
+
+https://apnews.com/article/c5abb260f0fc50762929d83c579cbb08
+
+WHITE SANDS MISSILE RANGE, N.M. (AP) --- Visitors lined up Saturday to
+tour the southern New Mexico site where the world's first atomic bomb
+was detonated in what officials believe could be a record turnout amid
+ongoing fanfare\...
+
+#### Spirit Airlines cancels dozens of flights to inspect some of its planes. Disruptions will last days
+
+https://apnews.com/article/5affc1006ab687a6701d47c6d11b2162
+
+Spirit Airlines canceled about 100 flights on Friday after pulling some
+planes out of service for inspections, and the airline expects the
+disruptions to last several days. Spirit did not describe the nature of
+the inspections and did not\...
+
+#### Illinois government employee fired after posting antisemitic comments on social media
+
+https://apnews.com/article/42b9fb4dd66b20e903ca9b8c4515c327
+
+SPRINGFIELD, Ill. (AP) --- An employee with the Illinois comptroller's
+office has been fired after she posted vulgar antisemitic comments on
+social media during an exchange about the latest Israel-Hamas war. A
+spokesperson for Illinois\...
+
+#### UK stage and screen star Haydn Gwynne dies at 66 after cancer diagnosis
+
+https://apnews.com/article/5fb17dbc928656ee7e5678667cff0005
+
+LONDON (AP) --- Haydn Gwynne, a versatile and acclaimed performer on
+British stage and screen, has died. She was 66 and had recently been
+diagnosed with cancer. Gwynne's agent Alex Irwin said the actress died
+in a London hospital early\...
+
+#### Italian Premier Meloni announces separation from partner, father of daughter
+
+https://apnews.com/article/5eeaa4ae2596c5c9c36df20b16fa4614
+
+ROME (AP) --- Italian Premier Giorgia Meloni announced Friday that she
+is separating from her partner and the father of their young daughter
+after nearly a decade together. In a statement posted on social media,
+Meloni said her\...
+
+#### What's that bar band playing 'Jumpin' Jack Flash'? Oh, it's the Rolling Stones!
+
+https://apnews.com/article/071ec5fd08fc3005657e4e4f98e81311
+
+NEW YORK (AP) --- Those miracles of modern science, the Rolling Stones,
+celebrated the release of their first album of original music in 18
+years with a Manhattan club gig on Thursday. Before a celebrity-strewn
+audience of invited guests\...
+
+#### Baltimore firefighter dies and 4 others are injured battling rowhouse fire
+
+https://apnews.com/article/35eb6664afaccebfad9b71cadf19d28c
+
+BALTIMORE (AP) --- A rapidly intensifying blaze that engulfed multiple
+rowhouses in northwest Baltimore late Thursday afternoon left one
+firefighter dead and four others injured, city officials said. The
+injured firefighters sustained\...
+
+#### Britney Spears' book 'The Woman In Me' makes private details public, and public events personal
+
+https://apnews.com/article/80d00a6d450d87ae68457bd826843be4
+
+LOS ANGELES (AP) --- Britney Spears' highly anticipated memoir "The
+Woman in Me" will be released Tuesday, revealing the pop superstar's
+personal take on events that have played out publicly in her decades as
+one of the most scrutinized\...
+
+#### Marlon Wayans says he is being unfairly prosecuted after being racially targeted by gate agent
+
+https://apnews.com/article/4ec0285ee770867d09d6a749b74e0927
+
+DENVER (AP) --- Actor and comedian Marlon Wayans says he is being
+unfairly prosecuted for disturbing the peace over a dispute with an
+airline employee who he alleges targeted him because of his race.
+Attorneys for Wayans, who is Black\...
+
+#### Southern California university mourns loss of four seniors killed in Pacific Coast Highway crash
+
+https://apnews.com/article/e795a3de43fc240938ed3d6bb040213d
+
+MALIBU, Calif. (AP) --- A Southern California university wrestling with
+the deaths of four seniors who were struck by a car sought to comfort
+students and faculty Thursday in a prayer service that recalled the
+young women as "bright\...
+
+#### Forecast predict an El Nino winter. What does that mean?
+
+https://apnews.com/article/e5c450e1cb51d186d68aaae1b259b311
+
+The upcoming United States winter looks likely to be a bit low on snow
+and extreme cold outbreaks, with federal forecasters predicting the
+North to get warmer than normal and the South wetter and stormier. A
+strong El Nino heavily\...
+
+#### Will Smith joins Jada Pinkett Smith at book talk, calls their relationship brutal and beautiful
+
+https://apnews.com/article/5fa6987b0fcd31d0b9041f70e22dd1d9
+
+BALTIMORE (AP) --- Will Smith joined Jada Pinkett Smith on stage as she
+promoted her new memoir in her Baltimore hometown Wednesday night,
+pledging lifelong support for her just a week after she revealed that
+the couple had been separated\...
+
+#### Marine killed in homicide at Camp Lejeune; second Marine held for suspected involvement
+
+https://apnews.com/article/6705fcbc3920625c0bea38a1b9909234
+
+CAMP LEJEUNE, N.C. (AP) --- A Marine was killed in a homicide at Camp
+Lejeune and a second Marine was held on suspicion of being involved, the
+base said. Base authorities took the Marine into custody about 10:15
+p.m. Wednesday after an\...
+
+### Reuters
+
+#### Talks between studios, striking U.S. actors to restart Tuesday
+
+https://www.reuters.com/world/us/talks-between-studios-striking-us-actors-restart-tuesday-2023-10-21/
+
+Team captain Miki Yamashita holds a sign as she and other SAG-AFTRA
+members walk the picket line on the 100th day of their ongoing strike,
+outside Paramount Studios in Los Angeles, California, U.S., October 20,
+2023. REUTERS/Mario Anzuoni\...
+
+#### Lebanon's Hezbollah says six fighters killed in Israel hostilities
+
+https://www.reuters.com/world/middle-east/lebanons-hezbollah-says-fighter-killed-exchange-fire-with-israel-2023-10-21/
+
+A view shows illumination flares in the sky by Israels border with
+Lebanon, in northern Israel, as seen from its Israeli side October 21,
+2023. REUTERS/Lisi Niesner Six fighters from the Lebanese group
+Hezbollah were\...
+
+#### Over one thousand migrants reach Spain's Canary Islands in single day
+
+https://www.reuters.com/world/europe/over-one-thousand-migrants-reach-spains-canary-islands-single-day-2023-10-21/
+
+Rescuers disembark a migrant baby from a Spanish coast guard vessel, in
+the port of Arguineguin, on the island of Gran Canaria, Spain, October
+21, 2023. REUTERS/Borja Suarez A group of migrants in a wooden boat are
+towed by a Spanish\...
+
+#### Israel calls Hamas' claim it rejected hostage release 'propaganda'
+
+https://www.reuters.com/world/middle-east/hamas-says-israel-declined-receive-two-hostages-it-intended-release-2023-10-21/
+
+A person looks at posters depicting hostages and missing people, as
+residents of Tel Aviv show support and solidarity with the families of
+hostages who are being held in Gaza, amid the ongoing conflict between
+Israel and Hamas, in Tel\...
+
+#### Russian missile attack kills six in distribution centre in Kharkiv, governor says
+
+https://www.reuters.com/world/europe/russian-missile-attack-kills-six-distribution-centre-kharkiv-governor-2023-10-21/
+
+A Russian missile hit a postal distribution centre in Ukraines second
+largest city Kharkiv on Saturday, killing six people and injuring 14,
+Kharkiv region governor Oleh Synehubov said. Synehubov, writing on the
+Telegram\...
+
+#### Canada to continue work with Qatar to release hostages held by Hamas, PM Trudeau says
+
+https://www.reuters.com/world/canada-continue-work-with-qatar-release-hostages-held-by-hamas-pm-trudeau-says-2023-10-21/
+
+Canadas Prime Minister Justin Trudeau speaks during the Canada-CARICOM
+Summit in Ottawa, Ontario, Canada October 18, 2023. REUTERS/Blair Gable
+Canadian Prime Minister Justin Trudeau said on Saturday that Canada
+would\...
+
+#### Emergency convoy reaches Gaza, Israel says it will intensify strikes
+
+https://www.reuters.com/world/middle-east/israel-vows-fight-until-victory-after-hamas-releases-two-us-hostages-2023-10-20/
+
+Summary: LATEST DEVELOPMENTS: Twenty aid trucks enter Gaza 12 days into
+total siege by Israel Start rolling towards distribution hubs in south
+Gaza Blinken warns Hamas not to try to divert aid Egypt\...
+
+#### Former Pakistan premier Nawaz Sharif vows to work toward economic recovery
+
+https://www.reuters.com/world/asia-pacific/pakistans-three-time-premier-nawaz-sharif-expected-home-exile-2023-10-21/
+
+Summary: Sharif aims to wrest back votes from rival Imran Khan Files
+appeals against convictions which bar him from office Reviving broken
+economy is uphill task for Sharif Sharif in cordial phase with\...
+
+#### 92nd Street Y cancels talk by Pulitzer-winning author who backs Palestinians
+
+https://www.reuters.com/world/us/pulitzer-winner-who-backs-palestinians-says-talk-canceled-by-ny-jewish-2023-10-21/
+
+A woman holds a flag of Palestine during a rally held in support of
+Palestinians amid the ongoing conflict between Israel and the
+Palestinian Islamist group Hamas, in Mineola, New York, U.S., October
+15, 2023. REUTERS/Andrew Kelly/File\...
+
+#### UN aid chief says second aid convoy for Gaza could lead to sustained relief
+
+https://www.reuters.com/world/middle-east/un-aid-chief-says-second-aid-convoy-gaza-could-lead-sustained-relief-2023-10-21/
+
+An aid truck arrives at a UN storage facility as the conflict between
+Israel and Palestinian Islamist group Hamas continues, in the central
+Gaza Strip October 21, 2023. REUTERS/Mohammed Salem The United Nations
+is hoping a second convoy\...
+
+#### UN agencies call for ceasefire and humanitarian access throughout Gaza
+
+https://www.reuters.com/world/middle-east/un-agencies-call-ceasefire-humanitarian-access-throughout-gaza-2023-10-21/
+
+An aid truck arrives at a UN storage facility as the conflict between
+Israel and Palestinian Islamist group Hamas continues, in the central
+Gaza Strip October 21, 2023. REUTERS/Mohammed Salem U.N. agencies called
+on Saturday for a\...
+
+#### Turkey's Erdogan discussed Gaza with Hamas leader - Turkish presidency
+
+https://www.reuters.com/world/middle-east/turkeys-erdogan-discussed-gaza-with-hamas-leader-turkish-presidency-2023-10-21/
+
+Turkeys President Tayyip Erdogan addresses the 78th Session of the U.N.
+General Assembly in New York City, U.S., September 19, 2023.
+REUTERS/Brendan McDermid/File Photo Turkish President Tayyip Erdogan
+discussed Gaza in\...
+
+#### Blinken tells Lebanon it would be affected by being drawn into Israel conflict
+
+https://www.reuters.com/world/middle-east/blinken-tells-lebanon-it-would-be-affected-by-being-drawn-into-israel-conflict-2023-10-21/
+
+U.S. Secretary of State Antony Blinken speaks in Tel Aviv, Tuesday Oct.
+17, 2023, after an overnight meeting with Israeli Prime Minister
+Benjamin Netanyahu. Jacquelyn Martin/Pool via REUTERS/File photo U.S.
+Secretary of State Anthony\...
+
+### 联合早报
+
+#### 网传青岛啤酒工人在原料仓小解 官方：该批麦芽已全部封存
+
+https://www.zaobao.com/news/china/story20231021-1444822
+
+网传视频显示，一名工人进入青岛啤酒三厂的原料仓小解。（视频截取）
+（青岛综合讯）针对网传山东青岛啤酒工人在原料仓小解一事，青岛啤酒官方回应称，涉事批次麦芽已全部封存，警方也已介入调查。
+星期四（10月19日）在网上疯传的视频显示，一名工人爬进青岛啤酒三厂的原料仓小解......
+
+#### 中国国防部批美国才是真正的搅局者
+
+https://www.zaobao.com/news/china/story20231021-1444815
+
+（北京综合讯）针对美国国防部指中国过去两年拦截美军机次数大增，中国国防部批美国炒作渲染并不存在的"中国军事威胁"，是真正的"挑衅者、冒险者、搅局者"。
+中国国防部发言人张晓刚星期五（10月20日）在新闻发布会上说，美国炒作渲染并不存在的"中国军事威胁"，是"有预谋的对华攻击抹黑，背后有不可告人的政治目的"，并称中国对此坚决反对，已向美国提出严正交涉......
+
+#### 中墨据报商讨管控芬太尼原料跨国贩运
+
+https://www.zaobao.com/news/china/story20231021-1444810
+
+在美国不断施压之际，中墨两国据报正在寻求高级别协商，以管控芬太尼原料的跨国贩运。图为去年美国警方搜查到的芬太尼。
+（路透社）
+（北京／墨西哥城彭博电）在美国不断向中国和墨西哥就遏制阿片类药物进行施压之际，中墨两国据报正在寻求高级别协商，以管控芬太尼原料的跨国贩运。
+知情人士透露，墨西哥和中国在今年早些时候就芬太尼问题爆发口水战之后，如今开始针对上述议题进行对话，并寻求高级别的会谈......
+
+#### 特稿：澳大力发展演唱会经济 港各界盼重拾领先地位
+
+https://www.zaobao.com/news/china/story20231021-1444809
+
+一场接一场的演唱会，带旺了澳门旅游业，图为游客今年十一中国国庆黄金周假期在大三巴牌坊前游览。（新华社）
+香港歌手陈奕迅本月中在澳门举行演唱会，期间跟观众聊天互动时，突然有粉丝大喊"讲国语"。陈奕迅拒绝并以英语反击，在网上引起热议。
+港人唐先生当天刚好在现场，目睹了整件事的经过。他接受《联合早报》访问时指出，今年冠病疫情结束后，他已去澳门看了五次演唱会，当中大部分是香港歌手的演出......
+
+#### 全球广告巨头WPP旗下公司在华高管被拘
+
+https://www.zaobao.com/news/china/story20231021-1444802
+
+全球广告巨头WPP旗下公司在上海的办公室据报遭到搜查。图为WPP位于伦敦的办公室。（路透社）
+（上海综合讯）全球广告巨头WPP旗下公司在上海的办公室据报遭到搜查，一名高管和两名前雇员也被拘。
+英国《金融时报》星期五（10月20日）引述知情人士报道，群邑集团一名高层被扣留，接受进一步问话，内容与集团员工的工作有关......
+
+#### 台湾一对新人在垃圾山前拍婚纱照 盼社会减少垃圾量
+
+https://www.zaobao.com/news/china/story20231021-1444800
+
+台湾一对新人10月14日在南投埔里的垃圾山前相拥，拍婚纱照。新娘薛绍芸希望大家能重视台湾垃圾爆量的问题。（法新社）
+（台北综合讯）台湾一对新人在南投埔里的垃圾山前拍婚纱照，环保意识强烈的新娘薛绍芸希望社会能重视垃圾爆量的问题。
+综合《联合报》《中国时报》等台湾媒体报道，南投县埔里镇因缺乏垃圾临时堆置场和掩埋场，垃圾堆积问题严重，导致当地的垃圾堆成好几层楼高的小山......
+
+#### 晶片制造能力是矽盾？台湾研究：未必提升美驰援民意
+
+https://www.zaobao.com/news/china/story20231021-1444784
+
+台湾中央研究院政治学研究所助理研究员林宣佑在2022、2023年调查2000名美国民众对美国驰援他国的意愿。结果显示，受驰援国能否制造进阶晶片，对提升美国人驰援意愿的效果并不显著......
+
+#### 新闻人间：陈奕迅演唱会不说普通话有错吗？
+
+https://www.zaobao.com/news/china/story20231021-1444613
+
+香港歌手陈奕迅因在演唱会回呛要求他说普通话的观众，踩到了不少中国大陆网民的敏感神经。
+陈奕迅上星期五（10月13日）在澳门举办演唱会，演唱之余还用粤语与歌迷交流互动，却引来部分观众不满。
+网络流传的视频显示，就在陈奕迅在台上感性地向歌迷致谢时，讲话突然被台下"讲国语" "讲普通话"的呼声打断......
+
+#### 台湾在野"蓝白合"露曙光 两党党魁商讨共组选举联盟
+
+https://www.zaobao.com/news/china/story20231020-1444676
+
+台湾将在明年1月13日举行总统与立委选举，参选人必须在11月20日至24日登记。（彭博社）
+台湾总统选战在野"蓝白合"露出曙光，国民党主席朱立伦和民众党主席柯文哲星期五（10月20日）都证实见过面，探讨选前组选举联盟，选后打造联合政府。
+台湾将在2024年1月13日举行总统与立委选举，参选人必须在一个月后的11月20日至24日登记......
+
+#### 美国公布中国军力报告 台湾防长称不指望外军介入
+
+https://www.zaobao.com/news/china/story20231020-1444661
+
+美国国防部的中国军力报告书指出，中国大陆增强对台湾外交、政治与军事施压，去年军机扰台次数大增。台湾国防部长邱国正星期五表示，台湾确实面临美国报告书所描述的状况，但台军不期望也不指望外军会介入。
+邱国正星期五（10月20日）在立法院受访时，针对美国国防部报告书所描述的状况，回应称"我们都面临到"。他说，台湾军方除了加强监控、战备，也会与其他国家交换意见，这对台湾建军备战有帮助......
+
+#### 中国宣布对动力电池关键材料石墨实施出口管制
+
+https://www.zaobao.com/news/china/story20231020-1444655
+
+德国萨尔茨吉特大众汽车厂电池生产线上用于电池浆料的石墨粉。照片摄于2022年5月18日。（路透社）
+中国宣布对电动汽车电池的关键材料石墨实施出口管制。分析认为，中国此举意在巩固中国电动车和电池企业的全球优势地位，也是在中美科技战背景下释放信号，表明有工具可以回击......
+
+#### 中国宣布将派特使赴开罗出席巴勒斯坦问题峰会
+
+https://www.zaobao.com/news/china/story20231020-1444629
+
+中国政府中东问题特使翟隽（左）星期四（10月19日）在多哈与俄罗斯副外长博格丹诺夫会面。
+（新华社）
+（北京/多哈综合讯）中国外交部星期五晚宣布，应埃及政府邀请，中国政府中东问题特使翟隽将出席在开罗举行的巴勒斯坦问题峰会。
+中国外交部星期五（10月20日）晚在官网宣布这一消息，并表示中方愿同国际社会一道，为缓解当前巴以紧张局势、推动停火止战、避免人道灾难、恢复和谈作出不懈努力......
+
+#### 俄乌战争后中国对美国制裁的研究激增
+
+https://www.zaobao.com/news/china/story20231020-1444588
+
+（北京路透电）中国官方下属研究机构的一些人员认为，如果中国与美国因台湾开战，中国将需要建立一个受美国制裁的全球公司网络，在中国境内扣押美国资产，并发行以黄金计价的债券。
+路透社检视中国知网（CNKI）去年2月以来发表的200多篇中文政策论文和学术文章后，发现在俄乌战争爆发后的12个月内，关于美国制裁的讨论，包括来自中国外交和金融政策机构内部研究人员的讨论，较去年同期激增了50%......
+
+#### 台积电总裁魏哲家：半导体市场很接近触底复苏
+
+https://www.zaobao.com/news/china/story20231019-1444344
+
+台积电预计的第四季收入和全年资本支出，都超越分析师预期。（彭博社）
+台湾积体电路制造公司（台积电）预计的第四季收入和全年资本支出，都超越分析师预期，总裁魏哲家评估，晶片产业已"很接近"谷底。此一表态支持主流观点，即全球科技需求明年有望从疫情后的低迷中复苏......
+
+#### 塔利班政府冀正式加入"一带一路"倡议
+
+https://www.zaobao.com/news/china/story20231019-1444337
+
+阿富汗临时政府代理商工部长阿齐齐（Haji Nooruddin
+Azizi）说，阿富汗希望加入中巴经济走廊和一带一路倡议，并称"今天正在讨论技术问题"。（路透社）
+（北京路透电）阿富汗塔利班政府希望正式加入中国的"一带一路"倡议，并将派遣技术团队到中国商谈......
+
+#### 美国加州州长宣布访华 分析：显示中美地方接触也在恢复中
+
+https://www.zaobao.com/news/china/story20231019-1444336
+
+美国加利福尼亚州州长纽森宣布下周访华一星期。（路透社）
+中美高层官员恢复接触后，美国加利福尼亚州州长纽森宣布下周访华一星期，行程包括香港和上海特斯拉工厂。
+受访学者分析，这显示中美上至行政部门、下至地方级别的接触都在逐步恢复。
+纽森办公室在美国时间星期三（10月18日）发布纽森下周访华的消息。纽森将访问香港、深圳、广州、北京、上海和江苏......
+
+#### 被指涉嫌从事间谍活动 日籍药企员工被中国逮捕
+
+https://www.zaobao.com/news/china/story20231019-1444334
+
+日本媒体报道，中国正式逮捕了因涉嫌间谍活动而被拘留的日本安斯泰来制药公司的在华日籍员工。（互联网）
+（北京综合讯）日本政府说，中国正式逮捕了因涉嫌间谍活动而被拘留的在华日本制药公司的日籍员工。
+综合路透社、日本共同社和日本经济新闻等报道，日本内阁秘书长松野博一星期四（19日）在记者会上说，一名在中国的50多岁日本男子，"确认已在10月中旬被逮捕"，并称日本政府将继续要求中国尽早释放该名男子......
+
+#### 分析：要使中国整体楼市回暖 有待民众对宏观经济信心进一步提升
+
+https://www.zaobao.com/news/china/story20231019-1444332
+
+楼市宽松政策频出之下，中国新房价格仍在9月录得近一年来最大跌幅，显示市场需求持续低迷。图为中国房企碧桂园在江苏宿迁的一处楼盘。（法新社）
+楼市宽松政策频出之下，中国新房价格仍在9月录得近一年来最大跌幅，显示市场需求持续低迷。分析认为，当前政策仅能刺激刚需和改善性购房需求，要使整体楼市回暖，还有待民众对宏观经济信心进一步提升......
+
+#### "五眼联盟"警告：中国间谍活动日益针对科技公司
+
+https://www.zaobao.com/news/china/story20231019-1444305
+
+美联调局官员估计，中国超过一半以窃取美国技术为重点的间谍活动发生在旧金山湾区。图为2020年7月的旧金山湾区。（彭博社）
+（伦敦/纽约综合讯）"五眼联盟"成员国在本周的一次会议上警告，中国的间谍活动已触及美国及其伙伴国的国家安全、外交和先进商业技术的各个方面，并且日益针对科技公司......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

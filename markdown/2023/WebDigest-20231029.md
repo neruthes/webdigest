@@ -1,0 +1,995 @@
+Other formats: [PDF]() / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20231029.html)
+
+
+# Web Digest 2023-10-29
+
+
+## Developers
+
+### Hacker News
+
+#### Elixir and Phoenix can do it all
+
+https://fly.io/phoenix-files/elixir-and-phoenix-can-do-it-all/
+
+https://news.ycombinator.com/item?id=38052864
+
+#### FCC wants to bolster amateur radio
+
+https://www.radioworld.com/news-and-business/business-and-law/fcc-wants-to-bolster-amateur-radio
+
+https://news.ycombinator.com/item?id=38052577
+
+#### Arena Allocation in SBCL
+
+https://github.com/sbcl/sbcl/blob/master/doc/internals-notes/arena-allocation.txt
+
+https://news.ycombinator.com/item?id=38052564
+
+#### Show HN: OpenSign -- Open source alternative to DocuSign
+
+https://github.com/OpenSignLabs/OpenSign
+
+https://news.ycombinator.com/item?id=38052344
+
+#### McDonalds is giving free French fries in return for waiving the right to sue
+
+https://www.mashed.com/1432093/mcdonalds-new-app-terms-conditions-reactions/
+
+https://news.ycombinator.com/item?id=38052212
+
+#### Fixing the volume on my Bluetooth earbuds
+
+https://blog.ornx.net/post/bluetooth-volume-fix/
+
+https://news.ycombinator.com/item?id=38051488
+
+#### Getting my library cards onto my phone the hard way
+
+https://iliana.fyi/blog/ios-wallet-library-card/
+
+https://news.ycombinator.com/item?id=38050535
+
+#### Samsung disables customer phones remotely, holds data hostage \[video\]
+
+https://www.youtube.com/watch?v=Ln4rsxWq3WM
+
+https://news.ycombinator.com/item?id=38050381
+
+#### Show HN: Demystifying Advanced RAG Pipelines
+
+https://github.com/pchunduri6/rag-demystified
+
+https://news.ycombinator.com/item?id=38050326
+
+#### The Cruel Fantasies of Well-Fed People
+
+https://www.monbiot.com/2023/10/04/the-cruel-fantasies-of-well-fed-people/
+
+https://news.ycombinator.com/item?id=38050236
+
+#### MagicaVoxel -- A free voxel art editor and interactive path tracing renderer
+
+https://ephtracy.github.io/
+
+https://news.ycombinator.com/item?id=38050106
+
+#### The UK's Controversial Online Safety Act Is Now Law
+
+https://www.wired.com/story/the-uks-controversial-online-safety-act-is-now-law/
+
+https://news.ycombinator.com/item?id=38048811
+
+#### Google to invest up to \$2B in Anthropic
+
+https://www.reuters.com/technology/google-agrees-invest-up-2-bln-openai-rival-anthropic-wsj-2023-10-27/
+
+https://news.ycombinator.com/item?id=38048155
+
+#### WinterJS
+
+https://wasmer.io/posts/announcing-winterjs-service-workers
+
+https://news.ycombinator.com/item?id=38047872
+
+#### The fun factor of the video game Uplink
+
+https://vertette.github.io/post/funfactoruplink
+
+https://news.ycombinator.com/item?id=38047861
+
+#### Cortex X2: ARM aims high
+
+https://chipsandcheese.com/2023/10/27/cortex-x2-arm-aims-high/
+
+https://news.ycombinator.com/item?id=38047743
+
+#### New Study Says Maybe Helicopter Parenting Is Making Kids Depressed
+
+https://www.techdirt.com/2023/10/26/new-study-in-the-journal-of-pediatrics-says-maybe-its-not-social-media-but-helicopter-parenting-thats-making-kids-depressed/
+
+https://news.ycombinator.com/item?id=38046910
+
+#### A small warning about UDP based protocols
+
+https://boston.conman.org/2023/10/25.1
+
+https://news.ycombinator.com/item?id=38046448
+
+#### Staring at a Wall: Embracing Deliberate Boredom
+
+https://www.ch3ngl0rd.com/staring-at-a-wall/
+
+https://news.ycombinator.com/item?id=38046396
+
+#### When gradient descent is a kernel method
+
+https://cgad.ski/blog/when-gradient-descent-is-a-kernel-method.html
+
+https://news.ycombinator.com/item?id=38045665
+
+### Phoronix
+
+#### Some Of The Features You Can Expect With Linux 6.7
+
+https://www.phoronix.com/news/Linux-6.7-Expected-Features
+
+#### Intel's Mesa Drivers Enable \"TBMIR\" Tile-Based Rendering
+
+https://www.phoronix.com/news/Intel-Mesa-Enables-TBMIR
+
+#### Six Great Features With The Upcoming Linux 6.6 Kernel
+
+https://www.phoronix.com/news/Linux-6.6-Great-Features
+
+#### KDE Desktop Cube Effect Returns & Plasma Wayland Per-Screen Color Management
+
+https://www.phoronix.com/news/KDE-Wayland-Color-Mgmt
+
+#### Linux Patches Speed-Up Kernel Crypto Functions With RISC-V Vector Extensions
+
+https://www.phoronix.com/news/Linux-RISC-V-Vector-Crypto
+
+#### Mesa Turns To Hawkmoth For Improving Documentation
+
+https://www.phoronix.com/news/Mesa-Hawkmoth-Docs
+
+#### Canoeboot 20231026 Released As Another Fork Of Coreboot-Downstream Libreboot
+
+https://www.phoronix.com/news/Canoeboot-20231026
+
+#### AMD Releases HIP RT 2.1 For Radeon Ray-Tracing
+
+https://www.phoronix.com/news/AMD-HIP-RT-2.1
+
+#### Last Minute Linux 6.6 Fixes Address Nine \"Unusable\" Lenovo AMD Laptops
+
+https://www.phoronix.com/news/Linux-6.6-Fixes-9-Lenovo-Laptop
+
+### GitHub
+
+#### psf/black
+
+https://github.com/psf/black
+
+The uncompromising Python code formatter\
+Language: Python\
+Stars: 35116\
+Forks: 2303
+
+#### PowerShell/PowerShell
+
+https://github.com/PowerShell/PowerShell
+
+PowerShell for every system!\
+Language: C#\
+Stars: 41257\
+Forks: 7616
+
+#### Vendicated/Vencord
+
+https://github.com/Vendicated/Vencord
+
+The cutest Discord client mod\
+Language: TypeScript\
+Stars: 4605\
+Forks: 642
+
+#### microsoft/fluentui
+
+https://github.com/microsoft/fluentui
+
+Fluent UI web represents a collection of utilities, React components,
+and web components for building web applications.\
+Language: TypeScript\
+Stars: 16643\
+Forks: 2570
+
+### Dribbble
+
+#### Immersive Experience Studio Mobile Website
+
+https://dribbble.com/shots/22926590
+
+#### Flower Shower 3D version
+
+https://dribbble.com/shots/22923918
+
+#### Tankbusters
+
+https://dribbble.com/shots/22922386
+
+#### Car Rental Platform
+
+https://dribbble.com/shots/22925847
+
+#### House of Gleason
+
+https://dribbble.com/shots/22686600
+
+#### La Hermana No. 2
+
+https://dribbble.com/shots/22911844
+
+#### Orange Dog Logo
+
+https://dribbble.com/shots/22913836
+
+#### Coworking App
+
+https://dribbble.com/shots/22917563
+
+#### Alcova Miami
+
+https://dribbble.com/shots/22921021
+
+#### Stack
+
+https://dribbble.com/shots/22904911
+
+#### Crypto Exchange Illustration
+
+https://dribbble.com/shots/22901199
+
+#### Gorilla sketch
+
+https://dribbble.com/shots/22909320
+
+#### Retro Synth APTUP
+
+https://dribbble.com/shots/22901237
+
+#### Vectober 2023 25 // Coral
+
+https://dribbble.com/shots/22774375
+
+#### Parramatta Eels
+
+https://dribbble.com/shots/22811301
+
+#### Mocktober - Mainway Industries
+
+https://dribbble.com/shots/22908939
+
+#### Muti Moon Base 2071
+
+https://dribbble.com/shots/22908748
+
+#### Scooby boo (Personal '23)
+
+https://dribbble.com/shots/22907869
+
+#### footer micro animation
+
+https://dribbble.com/shots/22895157
+
+#### Little detective
+
+https://dribbble.com/shots/22896186
+
+#### Web UI
+
+https://dribbble.com/shots/22897813
+
+#### Oscar Health --- Health Insurance App
+
+https://dribbble.com/shots/22865186
+
+#### Project Management Dashboard
+
+https://dribbble.com/shots/22886547
+
+#### Country Counter App Concept
+
+https://dribbble.com/shots/22835034
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### Android 14 bug 会锁定多配置文件用户的设备
+
+https://www.solidot.org/story?sid=76470
+
+#### Google 在 2021 年为默认搜索交易支付了 263 亿美元
+
+https://www.solidot.org/story?sid=76469
+
+#### 世界尽头的扫地机器人
+
+https://www.solidot.org/story?sid=76468
+
+#### 学术界的了不起的盖茨比曲线
+
+https://www.solidot.org/story?sid=76467
+
+#### 解密冷战卫星照片揭示了数百个以前未发现的罗马要塞
+
+https://www.solidot.org/story?sid=76466
+
+#### 扎克伯格称 Threads App 月活用户数接近一亿
+
+https://www.solidot.org/story?sid=76465
+
+#### 肾结石治疗取得突破
+
+https://www.solidot.org/story?sid=76464
+
+#### 铠侠和西数的合并谈判中断
+
+https://www.solidot.org/story?sid=76463
+
+#### Linux Mint 准备支持 Wayland
+
+https://www.solidot.org/story?sid=76462
+
+#### Gaijin 开源 《战争雷霆》使用的引擎
+
+https://www.solidot.org/story?sid=76461
+
+#### 黑客能利用旁路攻击让 Safari 泄露密码
+
+https://www.solidot.org/story?sid=76460
+
+#### 罗马教宗鼓励儿童学习编程
+
+https://www.solidot.org/story?sid=76459
+
+#### 乌克兰黑客与情报机构合作入侵俄罗斯银行
+
+https://www.solidot.org/story?sid=76458
+
+#### 日本核聚变装置初期实验取得成功
+
+https://www.solidot.org/story?sid=76457
+
+#### 中国成功发射神舟十七号
+
+https://www.solidot.org/story?sid=76456
+
+#### 新神经网络在语言归纳能力上接近人类
+
+https://www.solidot.org/story?sid=76455
+
+#### 科学家发现持续时间最短的快速射电暴
+
+https://www.solidot.org/story?sid=76454
+
+#### Python 公布了实现 no-GIL Python 的计划
+
+https://www.solidot.org/story?sid=76453
+
+#### Google 要求集成生成式 AI 的应用包含标记和举报功能
+
+https://www.solidot.org/story?sid=76452
+
+#### 首个疟疾疫苗减少了儿童死亡率
+
+https://www.solidot.org/story?sid=76451
+
+### V2EX
+
+#### \[问与答\] 如何找到在线 web 应用过去的版本
+
+https://www.v2ex.com/t/986356
+
+#### \[问与答\] 有没有邮箱客户端推荐
+
+https://www.v2ex.com/t/986355
+
+#### \[macOS\] 解决 Mac 中文输入法卡顿的问题
+
+https://www.v2ex.com/t/986352
+
+#### \[生活\] 你在什么时候感觉到没有斗志，想躺平了。
+
+https://www.v2ex.com/t/986350
+
+#### \[分享发现\] 看同人本的时候，感觉用 OLED 电视体验更好
+
+https://www.v2ex.com/t/986349
+
+#### \[问与答\] 求➕多邻国好友
+
+https://www.v2ex.com/t/986348
+
+#### \[Apple\] Mac Mini 外接显示屏如何避免锁屏时屏幕自动关闭?
+
+https://www.v2ex.com/t/986347
+
+#### \[软件\] 什么软件可以实现 windows 串流到 Mac
+
+https://www.v2ex.com/t/986346
+
+#### \[程序员\] 我召集了一帮同学，每周读 DDIA ，分享答疑，欢迎加入
+
+https://www.v2ex.com/t/986345
+
+#### \[OpenAI\] 请教关于 app store 内购关联被封账号的问题
+
+https://www.v2ex.com/t/986344
+
+#### \[Debian\] Debian 12 Linux 如何国内终端快速下载安装 PostgreSQL 数据库？
+
+https://www.v2ex.com/t/986343
+
+#### \[Windows\] 目前有哪些工具可以快速开发一款 Windows 桌面应用程序？
+
+https://www.v2ex.com/t/986341
+
+#### \[问与答\] 对未来的丧气是正常的还是矫情
+
+https://www.v2ex.com/t/986340
+
+#### \[开源软件\] 有无真正开源的报餐系统推荐？
+
+https://www.v2ex.com/t/986339
+
+#### \[问与答\] 两个为什么，请懂哥解惑。
+
+https://www.v2ex.com/t/986338
+
+#### \[程序员\] 有没有开源的投票网站推荐啊，
+
+https://www.v2ex.com/t/986337
+
+#### \[分享创造\] cdns：一个可自定义解析流程的 DNS 服务器
+
+https://www.v2ex.com/t/986336
+
+#### \[问与答\] 国内百度云、华为云、阿里云、腾讯云这几家的人脸识别技术，那家的好用点啊
+
+https://www.v2ex.com/t/986335
+
+#### \[Android\] 折叠屏
+
+https://www.v2ex.com/t/986334
+
+#### \[Apple\] 有没有 Twitter, Instagram 的 QuanX 去广告重写规则，广告太多了
+
+https://www.v2ex.com/t/986333
+
+#### \[问与答\] 有没有在亚马逊做跨境电商的朋友，谈一谈现在能否开始
+
+https://www.v2ex.com/t/986331
+
+#### \[NVIDIA\] NVIDIA Jetson Linux 35.4.1 安装 qt4 有朋友实践吗？
+
+https://www.v2ex.com/t/986330
+
+#### \[OpenAI\] 还有什么办法可以把 token 转换成 ChatGPT API
+
+https://www.v2ex.com/t/986329
+
+#### \[问与答\] 有没有这样的现成在线报价下单系统
+
+https://www.v2ex.com/t/986328
+
+#### \[问与答\] 平时喜欢买数码产品， 抖音上面有个猫哥测评东西比较便宜， 靠谱不？
+
+https://www.v2ex.com/t/986327
+
+#### \[问与答\] 用显示器看电视,日常有哪些不方便的地方
+
+https://www.v2ex.com/t/986325
+
+#### \[程序员\] 农村程序员&独立开发者，在村里各处写代码的日常与一路走来的历程
+
+https://www.v2ex.com/t/986324
+
+#### \[Android\] 想换个 8 GEN 3 的手机，换了之后能否用到真正全面屏到来？
+
+https://www.v2ex.com/t/986323
+
+#### \[程序员\] 哪里有流行基础组件的基准性能测试?
+
+https://www.v2ex.com/t/986322
+
+#### \[问与答\] 奶昔机场的充值问题
+
+https://www.v2ex.com/t/986321
+
+#### \[北京\] 有人分析一下新一轮房改吗？
+
+https://www.v2ex.com/t/986320
+
+#### \[生活\] 求助，我这种情况是否需要去看心理医生
+
+https://www.v2ex.com/t/986319
+
+#### \[iOS\] 求帮忙找一个 APP
+
+https://www.v2ex.com/t/986318
+
+#### \[Telegram\] 现在 Telegram 搜索中文群组频道的机器人哪家强？
+
+https://www.v2ex.com/t/986317
+
+#### \[问与答\] 安卓有扩音器功能吗
+
+https://www.v2ex.com/t/986315
+
+#### \[宽带症候群\] ipv6 到底是没有端口映射和 DMZ 主机？还是说这功能不是天然就支持的
+
+https://www.v2ex.com/t/986314
+
+#### \[宽带症候群\] 关于 ipv6 入口方向防火墙问题
+
+https://www.v2ex.com/t/986313
+
+#### \[程序员\] 分享 一个生物实验汪的编程学习经历和开源项目总结
+
+https://www.v2ex.com/t/986312
+
+#### \[iPhone\] 有没有适合 iphone15pro（能轻松插进去）的充电线
+
+https://www.v2ex.com/t/986311
+
+#### \[VPS\] \*\*\*\*请大佬推荐 vps 或云服务，部署自己的网站前后端， 谢谢\*\*\*\*
+
+https://www.v2ex.com/t/986310
+
+#### \[Go 编程语言\] Go 不需要依赖注入？手把手带你在 Golang 使用像 Java Spring 注解一样的 DI 和 AOP
+
+https://www.v2ex.com/t/986306
+
+#### \[分享发现\] 为什么购买同样的电子版漫画， Pixiv 漫画比 DLsite 便宜 50%？
+
+https://www.v2ex.com/t/986303
+
+#### \[Ubuntu\] 大佬们，请教 ubuntu desktop 环境下安装软件的问题
+
+https://www.v2ex.com/t/986302
+
+#### \[程序员\] 请问通过 ACM Skills Bundle Add-On 可以访问 O'Reilly 的全部内容吗？
+
+https://www.v2ex.com/t/986300
+
+#### \[程序员\] 如何给别的 app 增加 fliter 呢
+
+https://www.v2ex.com/t/986299
+
+#### \[OpenAI\] GPT-4 的识图功能突然失效了
+
+https://www.v2ex.com/t/986298
+
+#### \[全球工单系统\] coding 是准备放弃了吗？修一个 webhook 故障需要 4 天吗？
+
+https://www.v2ex.com/t/986297
+
+#### \[生活\] 失业回老家，身体状态越来越好
+
+https://www.v2ex.com/t/986296
+
+#### \[酷工作\] 有偿 找有 uniapp app 开发经验和打包经验， 且有接入过 vant weapp 的请联系我，
+
+https://www.v2ex.com/t/986295
+
+#### \[京东\] 京东 plus 会员的 100 元礼金劵不再提供
+
+https://www.v2ex.com/t/986294
+
+## Generic News
+
+### AP News
+
+#### Jagger watches Barcelona wear Stones logo in 'clasico' but Beatles fan Bellingham gets Madrid winner
+
+https://apnews.com/article/bdac04de98f4de81a4c7a8ddd5883898
+
+BARCELONA, Spain (AP) --- Barcelona aligned with the Rolling Stones for
+Saturday's "clasico" soccer game against Real Madrid when Mick Jagger
+showed up to see the home team wear special jerseys featuring the iconic
+logo of his legendary\...
+
+#### Winner of albinism pageant says Zimbabwe event made her feel beautiful and provided sense of purpose
+
+https://apnews.com/article/9a8c87824a6be9965e648cdcfd2fec68
+
+HARARE, Zimbabwe (AP) --- A glittering crown on her head and a bouquet
+of flowers in her hands, Andreia Solange Sicato Muhitu beamed at being
+named the co-winner of the the inaugural Mr. and Miss Albinism Southern
+Africa pageant. The 28\...
+
+#### In Seattle, phones ding. Killer whales could be close
+
+https://apnews.com/article/0e86cd0a5403049a74386d66fc0ae8c8
+
+SEATTLE (AP) --- Peter Bates was dropping his car at the mechanic this
+month when a notification pinged on his phone: killer whales were
+approaching his Seattle neighborhood. He hopped on a bus toward the
+water, then an electric bike. He\...
+
+#### Canadian fishing boat rescues American fisherman from missing vessel based in Washington state
+
+https://apnews.com/article/a90d32432832be0c10099445a5f8ccba
+
+VANCOUVER, British Columbia (AP) --- A Canadian fishing boat rescued an
+American man one day after the U.S. Coast Guard ended its search for a
+missing commercial fishing boat from Washington state with two people
+board, authorities said\...
+
+#### A salty problem for people near the mouth of the Mississippi is a wakeup call for New Orleans
+
+https://apnews.com/article/1a55ad43ce83419247642929629377b2
+
+NEW ORLEANS (AP) --- The heating element removed from Monique
+Plaisance's water heater in September was disintegrating, streaked with
+rust and covered in a dry crust. She blamed the corrosion on the water
+piped in from the area's longtime\...
+
+#### The White House and Google launch a new virtual tour with audio captions, Spanish translation
+
+https://apnews.com/article/d422c4ede3424643fc131d6fb24e2636
+
+WASHINGTON (AP) --- Can't come to Washington? Couldn't get a ticket to
+tour the White House? Don't worry. The White House, Google Maps and
+Google Arts & Culture launched a new virtual tour of the famous mansion
+on Friday, which is also\...
+
+#### DC pandas will be returning to China in mid-November, weeks earlier than expected
+
+https://apnews.com/article/96c106c85143621e29bcc579a24c068d
+
+WASHINGTON (AP) --- The National Zoo's three celebrity giant pandas will
+be heading home a little earlier than expected. Zoo officials told The
+Associated Press on Thursday that adult bears Mei Xiang and Tian Tian
+and their cub Xiao Qi Ji\...
+
+#### Arizona Diamondbacks take series of slights into surprise World Series against Texas Rangers
+
+https://apnews.com/article/fbd22417810138c1cfe396aa7c2bdfbd
+
+ARLINGTON, Texas (AP) --- Before opening the World Series, the Arizona
+Diamondbacks wanted to recount a series of slights. Overlooked by
+oddsmakers and angered by analysts, the Diamondbacks find themselves in
+a Surprise Series against the\...
+
+#### Radio host Larry Elder ends Republican presidential campaign and endorses Donald Trump
+
+https://apnews.com/article/a3d3665cd50d1e0d2071ab8800075482
+
+Conservative talk radio host Larry Elder announced Thursday that he was
+ending his 2024 Republican campaign for president and endorsing former
+President Donald Trump. Elder, who sought to replace California Gov.
+Gavin Newsom in a failed\...
+
+#### Ottawa's Shane Pinto suspended 41 games, becomes the 1st modern NHL player banned for gambling
+
+https://apnews.com/article/09cbedc1d9257fede6ec59251e76a914
+
+The NHL suspended Ottawa Senators forward Shane Pinto for 41 games on
+Thursday, making the 22-year-old American the first modern-day hockey
+player banned for sports gambling. The league said the half-season ban
+was for "activities\...
+
+#### The last new Beatles song, 'Now And Then,' will be released next week
+
+https://apnews.com/article/e7b3a349b0e1e58b8668e98ba2d9cd0b
+
+NEW YORK (AP) --- Sixty years after the onset of Beatlemania and with
+two of the quartet now dead, artificial intelligence has enabled the
+release next week of what is promised to be the last "new" Beatles song.
+The track, called "Now\...
+
+#### No. 1 pick Wembanyama scores 15 points in NBA debut as Spurs fall to Mavericks in opener
+
+https://apnews.com/article/a0d4aa8851311110a55b59da9eb84023
+
+SAN ANTONIO (AP) --- The Victor Wembanyama era is underway in San
+Antonio. Wembanyama made his NBA debut with the Spurs against the Dallas
+Mavericks on Wednesday night and made an immediate splash. "He's going
+to be amazing, he already\...
+
+#### Rep. Bowman of New York charged with misdemeanor, to pay fine after triggering House fire alarm
+
+https://apnews.com/article/1b9f8559a741a982116f7e8a4b6c6ac5
+
+WASHINGTON (AP) --- Democratic Rep. Jamaal Bowman was charged Wednesday
+with a misdemeanor for triggering a fire alarm as lawmakers scrambled to
+pass a funding bill before a government shutdown deadline in September.
+He is expected to\...
+
+### Reuters
+
+#### Maine shooting suspect found dead in cargo trailer, motive still a mystery
+
+https://www.reuters.com/world/us/us-army-reservist-suspected-lewiston-maine-shootings-found-dead-likely-suicide-2023-10-28/
+
+People embrace during a candlelight vigil for victims of Lewiston mass
+shooting, in Lisbon, Maine, U.S., October 28, 2023. REUTERS/Shannon
+Stapleton People attend a candlelight vigil for victims of Lewiston mass
+shooting, in Lisbon\...
+
+#### Hepatitis outbreak closes schools, sends scores to hospital in Ukraine's Vinnytsia
+
+https://www.reuters.com/world/europe/hepatitis-outbreak-closes-schools-sends-scores-hospital-ukraines-vinnytsia-2023-10-28/
+
+An aerial view shows buildings damaged by a Russian missile strike in
+Vinnytsia, Ukraine July 15, 2022. REUTERS/Stringer Schools will move to
+an online regime starting Monday in Ukraines central city of Vinnytsia
+after a\...
+
+#### Israel launches Gaza war's second phase with ground operation, Netanyahu says
+
+https://www.reuters.com/world/middle-east/eu-calls-humanitarian-pauses-gaza-aid-israel-raids-enclave-2023-10-26/
+
+Summary: LATEST DEVELOPMENTS: \"We will destroy the enemy above ground
+and below ground,\" says Netanyahu \"God help anyone under the rubble,\"
+says one Gaza journalist after night of terror Smoke rises over Gaza, as
+seen from Israel\...
+
+#### Home countries of major rainforests agree to work together to save them
+
+https://www.reuters.com/business/environment/home-countries-major-rainforests-agree-work-together-save-them-2023-10-28/
+
+A general view shows the water conditions of the Piraiba river before a
+summit of Amazon rainforest nations, in Belem, Para state, Brazil August
+6, 2023. REUTERS/Ueslei Marcelino Countries that are home to the
+worlds\...
+
+#### First Quantum's Panama unit says concerned over protests at port
+
+https://www.reuters.com/world/americas/first-quantums-panama-unit-says-concerned-over-protests-port-2023-10-28/
+
+The Panama unit of Canadian miner First Quantum said on Saturday in a
+statement that it is deeply worried over unauthorized boats entering a
+port it operates in the country, amid ongoing anti-government protests
+over a local mine\...
+
+#### Qatar-led negotiations between Israel and Hamas continue, source says
+
+https://www.reuters.com/world/middle-east/qatar-led-negotiations-between-israel-hamas-continue-source-2023-10-28/
+
+An explosion is seen on the Israel-Gaza border, amid the ongoing
+conflict between Israel and Palestinian Islamist group Hamas, as seen
+from the Israeli side, October 27, 2023. REUTERS TV via REUTERS
+Qatar-mediated negotiations between\...
+
+#### Mexico hurricane death toll hits 39; president slams critics
+
+https://www.reuters.com/business/environment/death-toll-mexico-devastating-hurricane-otis-rises-39-2023-10-28/
+
+A view of a damaged building in the aftermath of Hurricane Otis, in
+Acapulco, Mexico, October 28, 2023. REUTERS/Quetzalli Nicte-Ha A view of
+a rubble, in the aftermath of Hurricane Otis, in Acapulco, Mexico,
+October 28, 2023. REUTERS/\...
+
+#### Israeli military, asked about Gaza coms blackout, says we do what needed to protect forces
+
+https://www.reuters.com/world/middle-east/israeli-military-asked-about-gaza-coms-blackout-says-we-do-what-needed-protect-2023-10-28/
+
+Smoke rises over Gaza, as seen from Israels border with Gaza, in
+southern Israel October 28, 2023. REUTERS/Amir Cohen Israels chief
+military spokesperson declined to say whether Israel was behind the\...
+
+#### Egypt says 'Israeli obstacles' impeding aid delivery to Gaza
+
+https://www.reuters.com/world/middle-east/egypt-says-israeli-obstacles-impeding-aid-delivery-gaza-2023-10-28/
+
+Palestinians, who fled their houses amid Israeli strikes, take shelter
+at a tent camp at a United Nations-run centre, after Israels call for
+more than 1 million civilians in northern Gaza to move south, in Khan
+Younis in\...
+
+#### UAE condemns Israeli ground operations in Gaza Strip
+
+https://www.reuters.com/world/middle-east/uae-condemns-israeli-ground-operations-gaza-strip-state-news-agency-2023-10-28/
+
+The United Arab Emirates (UAE) on Saturday condemned the Israeli ground
+operations in the Palestinian Gaza Strip, the state news agency WAM
+reported, citing the countrys foreign ministry. UAE, which became the
+first Gulf\...
+
+#### Israeli PM Netanyahu says Gaza war entered second stage with ground operation
+
+https://www.reuters.com/world/middle-east/israeli-pm-netanyahu-says-gaza-war-entered-second-stage-with-ground-operation-2023-10-28/
+
+Israeli Prime Minister Benjamin Netanyahu attends a joint press
+conference with French President Emmanuel Macron in Jerusalem, October
+24, 2023. Christophe Ena/Pool via REUTERS/File photo Israeli Prime
+Minister Benjamin Netanyahu said on\...
+
+#### Hungary bans teenagers from World Press Photo exhibit, citing LGBT content
+
+https://www.reuters.com/world/europe/hungary-bans-teenagers-world-press-photo-exhibit-citing-lgbt-content-2023-10-28/
+
+Hungarys government has banned youngsters under 18 from visiting the
+World Press Photo exhibition on display in Budapest, citing LGBT content
+in some of the photos. Prime Minister Viktor Orbans\...
+
+#### Johannesburg Pride marches for LGBTQ+ Ugandans after anti-gay law passed
+
+https://www.reuters.com/world/africa/johannesburg-pride-marches-lgbtq-ugandans-after-anti-gay-law-passed-2023-10-28/
+
+People march in celebration of LGBTQ+ rights at the annual Pride Parade
+in Johannesburg, South Africa, October 28, 2023. REUTERS/Sumaya Hisham
+People march in celebration of LGBTQ+ rights at the annual Pride Parade
+in Johannesburg, South\...
+
+### 联合早报
+
+#### 中国民众赴李克强合肥故居献花悼念
+
+https://www.zaobao.com/news/china/story20231028-1446420
+
+有中国民众在李克强故居外献花后，鞠躬致意。（微博视频截屏）
+（合肥综合讯）中国前总理李克强因突发心脏病于星期五（10月27日）凌晨逝世后，他位于安徽省合肥市的故居出现络绎不绝的民众到场献花悼念。鲜花堆满外墙，现场宛如一片花海......
+
+#### 中国指欧盟对电动汽车发起反补贴调查"不正当"
+
+https://www.zaobao.com/news/china/story20231028-1446406
+
+中国驻欧盟大使傅聪说，欧盟对中国电动汽车展开的反补贴调查是"不正当和令人遗憾的"。（互联网档案照片）
+（布鲁塞尔综合电）中国驻欧盟大使傅聪说，欧盟对中国电动汽车展开的反补贴调查是"不正当和令人遗憾的"，并警告欧盟，未来不可采取任何可能惩罚中国清洁技术产业的贸易措施。
+彭博社星期五（10月27日）报道，傅聪上述言论是中国官方迄今对欧盟进行的反补贴调查作出的最强烈反驳之一......
+
+#### 中美往返客运航班将增至每周70班
+
+https://www.zaobao.com/news/china/story20231028-1446386
+
+（华盛顿／北京综合讯）美国交通部宣布调整中国航班往返中美的次数，中美往返客运航班合计将增至每周70班。
+美国交通部在当地时间星期五（10月27日）发布最新通知称，自11月9日起，允许中国航空公司将中美往返航班数量从每周24班增至每周35班。
+按照航权对等原则，美国航司每周执行的中美往返航班也将随之增至35班。扩容后，中国和美国航司每周运营的中美往返客运航班合计将达到70班......
+
+#### 彭博：刘振民或接替解振华出任中国气候特使
+
+https://www.zaobao.com/news/china/story20231028-1446383
+
+彭博社报道，中国前副外长刘振民可能将接替解振华出任中国气候变化事务特使。（互联网）
+（北京彭博电）中国政府准备任命前副外长刘振民接替解振华，出任中国气候变化事务特使。这一人事变动将可能影响中美刚取得进展的气候合作。
+不愿具名的知情人士透露，上述人事变动很可能会于今年11月在阿联酋举行的第28届联合国气候变化大会（COP28）闭幕后生效......
+
+#### 中国公卫专家吴尊友因胰腺癌病逝
+
+https://www.zaobao.com/news/china/story20231028-1446376
+
+中国疾控中心流行病学首席专家吴尊友星期五（10月27日）因病在北京逝世，享年60岁。（中新社档案照）
+（北京综合讯）中国知名公共卫生专家吴尊友因胰腺癌病逝，享年60岁。
+据中国央视新闻报道，中国疾病预防控制中心星期五（10月27日）发布讣告，该中心流行病学首席专家吴尊友当天下午12时56分因病医治无效，在北京逝世，享年60岁。
+根据讣告，疾控中心将尊重吴尊友生前遗愿，丧事从简，不举行遗体告别仪式......
+
+#### 新闻人间：中国网民反以 辛德勒遭殃
+
+https://www.zaobao.com/news/china/story20231028-1446205
+
+以色列与哈马斯本月爆发的冲突，再次撕裂中国舆论场，一部讲述拯救犹太人的电影，成了网民讨伐的对象。
+好莱坞名导斯皮尔伯格的经典影片《辛德勒的名单》（Schindler's
+List），上星期五（10月20日）起被大量中国网民狂刷差评，该片在视频网站哔哩哔哩上的评分，一度从原本的9分多跌落到只有4.1分。电影网站豆瓣上也出现了一批新增的差评......
+
+#### 于泽远：李克强辞世引震动
+
+https://www.zaobao.com/news/china/story20231028-1446263
+
+李克强逝世消息传出后，一些民众到安徽省滁州市定远县的李克强故居前献花，以示哀悼。（法新社）
+中国前总理李克强星期五（10月27日）凌晨逝世，引发中外舆论震动。李克强的突然辞世会不会影响中国政治和社会稳定，也成为外界关注的话题。
+中国官方媒体10月27日早上8时发布消息说，李克强近日在上海休息，10月26日因突发心脏病，经全力抢救无效，于10月27日零时10分在上海逝世，享年68岁。讣告后发......
+
+#### 台湾半导体产值年减12% 明后年有望靠AI带动成长
+
+https://www.zaobao.com/news/china/story20231028-1446287
+
+台湾半导体产业协会（TSIA）新任理事长、台积电欧亚业务及技术研究资深副总经理侯永清，被业界视为台积电热门接班人。（温伟中摄）
+台湾半导体产业协会（TSIA）新任理事长侯永清说，由于经济趋缓和前景不确定，台湾半导体产值预估年减12%，但明后年有望靠人工智能（AI）带动成长。他也评估，美国扩大AI晶片（也称芯片）销售中国大陆的禁令，对台短期影响较小且可控......
+
+#### 中国原总理李克强因突发心脏病逝世
+
+https://www.zaobao.com/news/china/story20231028-1446282
+
+李克强（中）今年3月11日在全国人民代表大会期间，与新当选的国务院总理的李强握手表示祝贺。（法新社）
+中国原总理李克强因突发心脏病于星期五（10月27日）凌晨逝世，享年68岁，引起中国舆论震惊。中国官方预计将遵循追悼已故前总理李鹏的前例，为李克强治丧。
+央视新闻星期五一早报道，李克强近日在上海休息，星期四（26日）因突发心脏病，经全力抢救无效，于星期五0时10分在上海逝世......
+
+#### 李成：中美在台海交战比美国内战概率更低
+
+https://www.zaobao.com/news/china/story20231027-1446272
+
+知名中国观察者李成星期五（10月27日）在慧眼中国论坛上说，中美之间在台海发生战争的概率，比美国发生内战的概率还低。（邝启聪摄）
+知名中国政情观察学者李成认为，中美之间在台海发生战争的概率，比美国发生内战的概率还低。
+在星期五（10月27日）进行的慧眼中国论坛"重塑中的中国经济与外交之路"主题讨论中，香港大学政治与公共行政学系教授、当代中国与世界研究中心创始主任李成发表了上述观点......
+
+#### 从盐碱荒滩到绿色之城 中新天津生态城获通商中国企业奖
+
+https://www.zaobao.com/news/china/story20231027-1446268
+
+通商中国青年奖得主张济徽（左起）、成就奖得主黄山忠，以及领取企业奖的中新天津生态城投资开发有限公司总裁张永昌，星期五（10月27日）晚间出席通商中国奖颁奖礼。（邝启聪摄）
+15年的开发建设，让一片盐碱荒滩成为了一座拥有超过13万常住人口的绿色之城。作为新加坡与中国政府合作的重要成果之一，中新天津生态城获颁第11届通商中国企业奖......
+
+#### 温和改革派代表 经济思路被总结为"李克强经济学"
+
+https://www.zaobao.com/news/china/story20231027-1446259
+
+（北京综合讯）因突发心脏病去世的中国前国务院总理李克强，专业涵盖法律和经济，是中国第一位拥有经济学博士学位的总理，其经济发展思路曾被总结为"李克强经济学"（Likonomics）。
+李克强在2013年3月被任命为国务院总理 ，当时中国经济增长放缓，但新一届政府在近三个月的时间里，并未释放明确的经济政策调整信号。同年6月，时任英国巴克莱资本亚洲首席经济学家黄益平提出了"李克强经济学"一词......
+
+#### 李克强与新加坡的渊源
+
+https://www.zaobao.com/news/china/story20231027-1446260
+
+2018年11月13日，到访我国的中国总理李克强（前排左二）在时任财政部长王瑞杰（前排左一）的陪同下，参观专门研发癌症细胞疗法的本地生物科技公司Tessa
+Therapeutics。（ 邝启聪摄） "新-加-坡，代表着永远的创新！永远做加法！"
+已故中国前总理李克强在2018年访问新加坡，在一个晚宴上向本地工商界致辞时如是妙解新加坡......
+
+#### 李克强骤逝引民间悼念 学者：任内形象务实亲民
+
+https://www.zaobao.com/news/china/story20231027-1446258
+
+李克强任内每年都会在中国全国"两会"闭幕后举行总理记者会回答中外记者的提问。图为他2014年3月13日在北京人民大会堂出席总理记者会。（法新社档案照片）
+中国前总理李克强星期五（10月27日）凌晨在上海骤逝的消息震惊舆论，他生前的视频与语录也被大量转发。受访学者分析，李克强在过去10年任内的形象务实亲民，但实质政治影响力有限，中国民间对他的悼念情绪带有深深的惋惜......
+
+#### 新加坡前驻华大使：美欧在俄乌战争现疲惫迹象
+
+https://www.zaobao.com/news/china/story20231027-1446232
+
+资深外交官、新加坡前驻中国大使陈燮荣，星期五（10月27日）在慧眼中国环球论坛的开幕主题论坛上说，美国对俄乌战争的目标"极具野心、前所未闻"，反映出美国的过度自信。（关俊威摄）
+资深外交官、新加坡前驻中国大使陈燮荣分析，美国对俄乌战争的目标野心过大，西方开始对持续的战争感到疲惫，中国则间接参与，在中俄合作中获益......
+
+#### 中国民航第三季度复苏强劲 中国国际航空雨过天晴
+
+https://www.zaobao.com/news/china/story20231027-1446229
+
+（北京综合讯）中国民航客运市场需求旺盛，行业客运规模创季度历史新高。中国国际航空公司实现前三季度盈利，打响扭亏第一枪。
+中国民航局星期五（10月27日）举行新闻发布会，民航局航空安全办公室副主任李勇介绍说，中国民航第三季度呈安全有序恢复态势。全行业共完成旅客运输量1.8亿人次，同比增长108.3%，较2019年同期增长2.6%，恢复水平较第二季度提高6.3个百分点......
+
+#### 韩咏红：李尚福落马凸显的反腐难题
+
+https://www.zaobao.com/news/china/story20231027-1446019
+
+在10月24日闭幕的全国人大常委会会议上，李尚福原本担任的国务委员、国防部长以及国家中央军委委员职务，都被免去。（法新社）
+在消失了近两个月后，原中国国防部长李尚福被官宣落马了。
+在本星期二（10月24日）闭幕的全国人大常委会会议上，李尚福原本担任的国务委员、国防部长以及国家中央军委委员职务，都被免去，概括起来是"三免"......
+
+#### 台湾蓝白合继续僵持 进入政党协商延长赛
+
+https://www.zaobao.com/news/china/story20231026-1446005
+
+侯友宜23日表态不介意当副手，并通过比民调和初选投票各半的方式，以侯正柯副和柯正侯副的搭配让选民抉择，盼柯文哲25日前回复是否愿意搭档。（法新社）
+台湾在野"蓝白合"继续僵持，双方星期四（10月26日）宣告无法就比民调或初选投票方式选出总统参选人达成共识，进入政党协商的延长赛......
+
+#### 中国国安部护航《反间谍法》 指未强制收集外企数据
+
+https://www.zaobao.com/news/china/story20231026-1445988
+
+（北京综合讯）中国官方说，国安机构调取数据受到严格制约，并且不涉及外资企业和外籍人员的合法数据活动。
+中国施行新修订的《反间谍法》以来，部分外企对正常商务行为可能被针对并进行惩罚感到担忧。
+中国国家安全部星期四（10月26日）在微信公众号发文说，认为"《反间谍法》过度强调数据安全并使国家安全机关有权查阅数据，从而给企业和个人带来'数据安全风险' "是一种误解......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

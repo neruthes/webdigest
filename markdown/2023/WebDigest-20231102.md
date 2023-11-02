@@ -1,0 +1,1010 @@
+Other formats: [PDF]() / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20231102.html)
+
+
+# Web Digest 2023-11-02
+
+
+## Developers
+
+### Hacker News
+
+#### Help Wanted at LWN
+
+https://lwn.net/Articles/949461/
+
+https://news.ycombinator.com/item?id=38105232
+
+#### FCC launches inquiry to increase minimum broadband speed \[pdf\]
+
+https://docs.fcc.gov/public/attachments/DOC-398168A1.pdf
+
+https://news.ycombinator.com/item?id=38103733
+
+#### US consumer spending dashboard built on data from 50M+ cards now on Snowflake
+
+https://app.snowflake.com/marketplace/listing/GZTSZ290BUX40/
+
+https://news.ycombinator.com/item?id=38102885
+
+#### My Rude-Ass Car
+
+https://www.neverbeclever.org/blog/my-rude-ass-car/
+
+https://news.ycombinator.com/item?id=38102083
+
+#### Bitwarden adds support for passkeys
+
+https://bitwarden.com/help/releasenotes/
+
+https://news.ycombinator.com/item?id=38102082
+
+#### Dot by New Computer
+
+https://new.computer/
+
+https://news.ycombinator.com/item?id=38101966
+
+#### YouTube's 'War' on Adblockers Shows How Google Controls the Internet
+
+https://www.404media.co/youtubes-war-on-adblockers-shows-how-google-controls-the-internet/
+
+https://news.ycombinator.com/item?id=38101629
+
+#### Cosmopolitan Third Edition
+
+https://justine.lol/cosmo3/
+
+https://news.ycombinator.com/item?id=38101613
+
+#### IBM cancels 401k matching, replaces with proprietary pension fund RBA
+
+https://old.reddit.com/r/IBM/login/
+
+https://news.ycombinator.com/item?id=38101388
+
+#### Asahi Linux goes from Apple Silicon port project to macOS bug hunters
+
+https://www.theregister.com/2023/11/01/asahi_linux_mac_black_screen/
+
+https://news.ycombinator.com/item?id=38101328
+
+#### The false positive rate of AI detectors and its effect on freelance writers
+
+https://authory.com/blog/how-ai-detectors-are-destroying-livelihoods
+
+https://news.ycombinator.com/item?id=38101219
+
+#### Htmx, Rust and Shuttle: A New Rapid Prototyping Stack
+
+https://www.shuttle.rs/blog/2023/10/25/htmx-with-rust
+
+https://news.ycombinator.com/item?id=38099145
+
+#### Ask HN: Who is hiring? (November 2023)
+
+https://news.ycombinator.com/item?id=38099086
+
+https://news.ycombinator.com/item?id=38099086
+
+#### Why doctors in America earn so much
+
+https://www.economist.com/united-states/2023/10/31/why-doctors-in-america-earn-so-much
+
+https://news.ycombinator.com/item?id=38098779
+
+#### Reasons to fight cashless contagion
+
+https://brettscott.substack.com/p/10-reasons-to-fight-cashless-society
+
+https://news.ycombinator.com/item?id=38098671
+
+#### C++23: Removing garbage collection support
+
+https://www.sandordargo.com/blog/2023/11/01/cpp23-garbage-collection
+
+https://news.ycombinator.com/item?id=38097984
+
+#### As the public begins to believe Google isn't as useful, what happens to SEO?
+
+https://www.theverge.com/features/23931789/seo-search-engine-optimization-experts-google-results
+
+https://news.ycombinator.com/item?id=38097938
+
+#### Splunk to cut workforce by 7% after cisco deal
+
+https://www.bloomberg.com/news/articles/2023-11-01/splunk-to-cut-workforce-by-7-after-cisco-deal
+
+https://news.ycombinator.com/item?id=38097769
+
+#### HubSpot Acquires Clearbit
+
+https://www.hubspot.com/company-news/welcoming-clearbit-to-hubspot
+
+https://news.ycombinator.com/item?id=38097724
+
+#### Improving deep sleep may prevent dementia, study finds
+
+https://www.monash.edu/news/articles/improving-deep-sleep-may-prevent-dementia,-study-finds
+
+https://news.ycombinator.com/item?id=38097184
+
+### Phoronix
+
+#### OpenRazer 3.7 Adds Support For Many Newer Razer Devices On Linux
+
+https://www.phoronix.com/news/OpenRazer-3.7
+
+#### Sysctl With Linux 6.7 Continues Work To Remove Kernel Bloat
+
+https://www.phoronix.com/news/Linux-6.7-sysctl
+
+#### Mesa 23.3-rc2 Released With Fixes For Zink, Rusticl, RADV & Other Drivers
+
+https://www.phoronix.com/news/Mesa-23.3-rc2-Released
+
+#### Mozilla Eyes Removal Of Theora Support In Firefox
+
+https://www.phoronix.com/news/Mozilla-Eyes-Dropping-Theora
+
+#### JFS File-System Seeing Minor Stability Improvements With Linux 6.7
+
+https://www.phoronix.com/news/JFS-Linux-6.7-Improvements
+
+#### Fwupd 1.9.7 Adds Support For More Logitech, Synaptics & Western Digital Hardware
+
+https://www.phoronix.com/news/Fwupd-1.9.7-Released
+
+#### Linux 6.7 MMC To See Up To 4 5% Better 4K Random Write Performance
+
+https://www.phoronix.com/news/Linux-6.7-MMC
+
+#### KDE KWin Preparing Preliminary Support For Running HDR Games
+
+https://www.phoronix.com/news/KDE-KWin-Initial-HDR-Gaming-MR
+
+#### Intel Arc Graphics Conceals Itself To Get Diablo IV Running On Linux
+
+https://www.phoronix.com/news/Diablo-IV-No-Intel-Graphics
+
+### GitHub
+
+#### InterviewReady/system-design-resources
+
+https://github.com/InterviewReady/system-design-resources
+
+These are the best resources for System Design on the Internet\
+Language: Unknown\
+Stars: 12484\
+Forks: 1412
+
+#### langchain-ai/langchain
+
+https://github.com/langchain-ai/langchain
+
+⚡ Building applications with LLMs through composability ⚡\
+Language: Python\
+Stars: 66513\
+Forks: 9578
+
+#### projectdiscovery/nuclei-templates
+
+https://github.com/projectdiscovery/nuclei-templates
+
+Community curated list of templates for the nuclei engine to find
+security vulnerabilities.\
+Language: Unknown\
+Stars: 7164\
+Forks: 2210
+
+#### microsoft/PowerToys
+
+https://github.com/microsoft/PowerToys
+
+Windows system utilities to maximize productivity\
+Language: C#\
+Stars: 97856\
+Forks: 5772
+
+#### 1c7/chinese-independent-developer
+
+https://github.com/1c7/chinese-independent-developer
+
+👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 \-- 分享大家都在做什么\
+Language: Unknown\
+Stars: 26023\
+Forks: 2284
+
+#### microsoft/Web-Dev-For-Beginners
+
+https://github.com/microsoft/Web-Dev-For-Beginners
+
+Lessons, 12 Weeks, Get Started as a Web Developer\
+Language: JavaScript\
+Stars: 77585\
+Forks: 11996
+
+### Dribbble
+
+#### Snake mark ver.2
+
+https://dribbble.com/shots/22957233
+
+#### Geometric Tiger Logo
+
+https://dribbble.com/shots/22958011
+
+#### Forager - OUT NOW!
+
+https://dribbble.com/shots/22954151
+
+#### Mocktober - Apparition Apprehension
+
+https://dribbble.com/shots/22952393
+
+#### Halloween - Mobile App Concept
+
+https://dribbble.com/shots/22948377
+
+#### Stickers for Cliganic
+
+https://dribbble.com/shots/22953114
+
+#### UX-UI design Protect card mobile animation
+
+https://dribbble.com/shots/22941969
+
+#### Happy Halloweenie from this devil dog!! 🌭👺🍴
+
+https://dribbble.com/shots/22952937
+
+#### Leigh Leopards
+
+https://dribbble.com/shots/22811356
+
+#### Gemini
+
+https://dribbble.com/shots/22927847
+
+#### James & Dew Logo Design
+
+https://dribbble.com/shots/22679030
+
+#### Survey & Newsletter Created App
+
+https://dribbble.com/shots/22937561
+
+#### Talaria --- Custom Wordmark (Agency)
+
+https://dribbble.com/shots/22848920
+
+#### Pepper & Salt BBQ - Sticker Design Vol. 2
+
+https://dribbble.com/shots/22937826
+
+#### Foodies
+
+https://dribbble.com/shots/22710886
+
+#### Mercedes-Benz Vinyl (Illustration)
+
+https://dribbble.com/shots/22921084
+
+#### Vectober 2023 27 // Pond
+
+https://dribbble.com/shots/22774389
+
+#### KUO DUO
+
+https://dribbble.com/shots/22923608
+
+#### EstateGuru Hero Illustration 08
+
+https://dribbble.com/shots/22697098
+
+#### A girl drinking a cocktail
+
+https://dribbble.com/shots/22920476
+
+#### Unloved
+
+https://dribbble.com/shots/22919798
+
+#### Jack O'Lantern Tutorial
+
+https://dribbble.com/shots/22917907
+
+#### Halloween Illustrations
+
+https://dribbble.com/shots/22910768
+
+#### Stratis UI - Mobile Graph
+
+https://dribbble.com/shots/22912133
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### SBF 以"我不记得"回应法庭询问
+
+https://www.solidot.org/story?sid=76508
+
+#### 微软开始向用户推送 Windows 11 23H2
+
+https://www.solidot.org/story?sid=76507
+
+#### uBlock Origin 和 YouTube 在玩猫捉老鼠游戏
+
+https://www.solidot.org/story?sid=76506
+
+#### Telegram 屏蔽与哈马斯相关频道
+
+https://www.solidot.org/story?sid=76505
+
+#### 苹果 M3 Pro 的内存带宽比 M1/M2 Pro 少四分之一
+
+https://www.solidot.org/story?sid=76504
+
+#### WeWork 最早下周申请破产
+
+https://www.solidot.org/story?sid=76503
+
+#### 间歇性禁食能帮助糖尿病患者
+
+https://www.solidot.org/story?sid=76502
+
+#### vivo 发布用 Rust 编写的操作系统蓝河
+
+https://www.solidot.org/story?sid=76501
+
+#### 英伟达可能被迫取消明年 50 亿美元的对华 AI 芯片订单
+
+https://www.solidot.org/story?sid=76499
+
+#### 国内主要社交网络宣布了前台实名制
+
+https://www.solidot.org/story?sid=76498
+
+#### 华为手机将 Google 应用标记为病毒
+
+https://www.solidot.org/story?sid=76497
+
+#### X/Twitter 将公司估值降为 190 亿美元
+
+https://www.solidot.org/story?sid=76496
+
+#### GCC 14 加入对兆芯永丰架构的支持
+
+https://www.solidot.org/story?sid=76495
+
+#### 更多硬件加入了对 AV1 编解码器的支持
+
+https://www.solidot.org/story?sid=76494
+
+#### 小行星撞击地球产生的尘埃导致了持续 15 年的严冬
+
+https://www.solidot.org/story?sid=76493
+
+#### 德国法庭裁决 Do Not Track 具有法律约束力
+
+https://www.solidot.org/story?sid=76492
+
+#### 英国软件公司要求 Meta 在英国停止使用 Threads 名称
+
+https://www.solidot.org/story?sid=76491
+
+#### 西部数据将剥离闪存业务
+
+https://www.solidot.org/story?sid=76490
+
+#### 苹果宣布了 M3 系列芯片
+
+https://www.solidot.org/story?sid=76489
+
+#### Google 准备明年推出 RISC-V 版 Android 模拟器
+
+https://www.solidot.org/story?sid=76488
+
+### V2EX
+
+#### \[生活\] 躺在床上了，怎么快速睡着？大家有啥经验 ？
+
+https://www.v2ex.com/t/987686
+
+#### \[OpenAI\] OpenKey 中转接口为什么稳定？最新系统架构图已公布，可供学习
+
+https://www.v2ex.com/t/987685
+
+#### \[iCloud\] 最好的"使用中同步"网盘到底是什么， icloud 老是 hang
+
+https://www.v2ex.com/t/987683
+
+#### \[MacBook Pro\] 咸鱼买 mac 纠纷预防与处理 咨询
+
+https://www.v2ex.com/t/987682
+
+#### \[iPhone\] 新 iPhone 是备份恢复，还是当新的用？
+
+https://www.v2ex.com/t/987681
+
+#### \[宽带症候群\] 运营商给的光猫算国有资产吗？
+
+https://www.v2ex.com/t/987680
+
+#### \[iPhone\] 后知后觉 imazing 原来是免费备份 但是恢复备份是收费的
+
+https://www.v2ex.com/t/987679
+
+#### \[开源软件\] 看光猫插件贴有感，技术是否有罪？
+
+https://www.v2ex.com/t/987677
+
+#### \[MacBook Pro\] 有 AC， 1 年不到屏幕上划痕可以免费修吗
+
+https://www.v2ex.com/t/987675
+
+#### \[生活\] 遗憾越来越多
+
+https://www.v2ex.com/t/987674
+
+#### \[云计算\] 大佬们，帮我看个问题
+
+https://www.v2ex.com/t/987673
+
+#### \[Apple\] M3 Pro 和 M2 Pro 相比是进步还是持平？
+
+https://www.v2ex.com/t/987672
+
+#### \[macOS\] 请问 macOS 上有这么支持比如 Emby 这种媒体中心的开源播放器吗？
+
+https://www.v2ex.com/t/987671
+
+#### \[全球工单系统\] 免费的新浪邮箱无法找回密码。。。。
+
+https://www.v2ex.com/t/987670
+
+#### \[Apple\] M3 Geekbench 评分出炉
+
+https://www.v2ex.com/t/987666
+
+#### \[奇思妙想\] 电脑显示器可以做成竖屏的吗？
+
+https://www.v2ex.com/t/987664
+
+#### \[iOS\] 请问 RevenueCat ID 是什么
+
+https://www.v2ex.com/t/987663
+
+#### \[宽带症候群\] 光猫贴有感，大佬们是怎么学到网络知识的？
+
+https://www.v2ex.com/t/987662
+
+#### \[JetBrains\] Goland Copy Reference 竟然拷贝的是文件名和行号
+
+https://www.v2ex.com/t/987661
+
+#### \[Python\] 请问大家 Python 应用如何通过代理服务器访问多个外网服务器啊?
+
+https://www.v2ex.com/t/987660
+
+#### \[程序员\] ITX、迷你主机还是笔记本
+
+https://www.v2ex.com/t/987659
+
+#### \[Apple\] 京东自营 15 256G 蓝色已经到了 5798 的价位。
+
+https://www.v2ex.com/t/987656
+
+#### \[宽带症候群\] 请教一个关于 Clash Mixin 的配置某些情况不生效的问题
+
+https://www.v2ex.com/t/987655
+
+#### \[求职\] 杭州 8 年开发经验，想找一个 golang 开发岗，求捞
+
+https://www.v2ex.com/t/987654
+
+#### \[问与答\] 米家的警戒模式，只有传统网关和空调伴侣可以吗？小爱音箱自带的网关可不可以使用警戒模式？
+
+https://www.v2ex.com/t/987653
+
+#### \[问与答\] 耳疾，求推荐 500 以内的骨传导耳机，或有没有病友指导下外耳道湿疹治疗方法或医院
+
+https://www.v2ex.com/t/987652
+
+#### \[问与答\] java8 以后常用的新特性有哪些？
+
+https://www.v2ex.com/t/987651
+
+#### \[问与答\] 今年存储这么贵吗？
+
+https://www.v2ex.com/t/987650
+
+#### \[macOS\] 数码荔枝双十一拼车！ Qbserve\|AlDente
+
+https://www.v2ex.com/t/987649
+
+#### \[分享创造\] 我做了一个新网站，来看看吧
+
+https://www.v2ex.com/t/987648
+
+#### \[问与答\] 请专业人士帮忙看下，选一个什么路由器呢？
+
+https://www.v2ex.com/t/987647
+
+#### \[生活\] 隔壁男的天天开着门怎么治?
+
+https://www.v2ex.com/t/987646
+
+#### \[酷工作\] \[上海\] 米哈游 miHoYo 2023.11.1 最新招聘信息（业务平台、企业效能组内推专场）
+
+https://www.v2ex.com/t/987645
+
+#### \[问与答\] iOS 平台没有很强大的自建音乐库客户端吗？类似 Symfonium。
+
+https://www.v2ex.com/t/987644
+
+#### \[宽带症候群\] 上海联通奇怪问题
+
+https://www.v2ex.com/t/987642
+
+#### \[VPS\] 刚买的阿里云 99 元机器反应很慢
+
+https://www.v2ex.com/t/987641
+
+#### \[问与答\] 求推荐一款电子阅读器，市面上产品太多眼镜都花了。
+
+https://www.v2ex.com/t/987640
+
+#### \[计算机\] 笔记本升级硬盘后如何迁移系统
+
+https://www.v2ex.com/t/987639
+
+#### \[Chrome\] chrome 应用商店无法安装插件
+
+https://www.v2ex.com/t/987638
+
+#### \[跑步\] 也许是最好用的佳明二维码软件 MultiQRCode
+
+https://www.v2ex.com/t/987637
+
+#### \[问与答\] 单网口的 Windows 主机，有多个用户时，是否可以为每个用户分配不同 IP？
+
+https://www.v2ex.com/t/987635
+
+#### \[程序员\] 想润出去，啥语言我都愿意写。。。 我发现国外大厂投简历的流程都比较繁琐，又累了（太懒）不想在领英过多得勾搭人了，有什么润润技巧能推荐吗？小弟先谢过了。
+
+https://www.v2ex.com/t/987634
+
+#### \[Apple\] 翻了翻大学时的日记，好像现在 Mac 的价格也没有那么贵，但心理上却觉得很贵
+
+https://www.v2ex.com/t/987632
+
+#### \[酷工作\] \[北京\]\[理想汽车\]高级 Java 工程师\<急\>
+
+https://www.v2ex.com/t/987630
+
+#### \[奇思妙想\] 这道小学判断题应该是对还是错？
+
+https://www.v2ex.com/t/987629
+
+#### \[JavaScript\] 后端因为工作需要被迫需要写 js，有什么快速适应语法的方式啊
+
+https://www.v2ex.com/t/987627
+
+#### \[Surge\] Surge iOS Pro Personal License 新车 3 缺 1
+
+https://www.v2ex.com/t/987626
+
+#### \[OpenAI\] AI 导航站和 ChatGPT 聊天
+
+https://www.v2ex.com/t/987624
+
+#### \[宽带症候群\] 移动端是不是封锁绑定到家宽 ip 的域名
+
+https://www.v2ex.com/t/987623
+
+#### \[问与答\] 冲牙器好不好用？
+
+https://www.v2ex.com/t/987622
+
+## Generic News
+
+### AP News
+
+#### Ozone hole is about average size, despite undersea volcano eruption that was expected to worsen it
+
+https://apnews.com/article/19a41d78a332e9d75b11d15d71131974
+
+With last year's undersea volcano injecting massive amounts of water
+high into the atmosphere, scientists were bracing for a big Antarctica
+ozone hole this fall. But it didn't happen. Instead this year's ozone
+hole was about average size\...
+
+#### Cooking spray burn victim awarded \$7.1 million in damages after can 'exploded into a fireball'
+
+https://apnews.com/article/536d629af220f359a51b164bf3b873eb
+
+CHICAGO (AP) --- A jury in Illinois has ordered Chicago-based Conagra
+Brands to pay \$7.1 million to a Pennsylvania woman who was badly
+injured in 2017 when a can of commercial brand cooking spray ignited in
+a kitchen at her workplace and\...
+
+#### 80-foot Norway spruce gets the nod as Rockefeller Center Christmas tree, will be cut down next week
+
+https://apnews.com/article/b20b8c66c4a5b0db150e84dc232a0bd3
+
+NEW YORK (AP) --- An 80-foot-tall (24-meter) Norway spruce from the
+Binghamton area has been selected as this year's Rockefeller Center
+Christmas tree and will be cut down and trucked to New York City next
+week, Rockefeller Center\...
+
+#### Mormon church sued again over how it uses tithing contributions from members
+
+https://apnews.com/article/0849212284504c6172a93467148c22d2
+
+CHEYENNE, Wyo. (AP) --- A federal lawsuit filed Tuesday alleges The
+Church of Jesus Christ of Latter-day Saints investment arm misused
+hundreds of thousands of dollars donated by three men by investing the
+money instead of using it for\...
+
+#### Eruption of Eurasia's tallest active volcano sends ash columns above a Russian peninsula
+
+https://apnews.com/article/0d1808d47e9f499feab5846d392e4ee8
+
+MOSCOW (AP) --- Huge ash columns erupted from Eurasia's tallest active
+volcano Wednesday, forcing authorities to close schools in two towns on
+Russia's sparsely populated Kamchatka Peninsula. The eruptions from the
+Klyuchevskaya Sopka\...
+
+#### The US infant mortality rate rose last year. The CDC says it's the largest increase in two decades
+
+https://apnews.com/article/c808796da0415b6ecc0629938421e1b5
+
+NEW YORK (AP) --- The U.S. infant mortality rate rose 3% last year ---
+the largest increase in two decades, according to the Centers for
+Disease Control and Prevention. White and Native American infants,
+infant boys and babies born at 37\...
+
+#### Semien's 5 RBIs, Seager's home run lead Rangers over Diamondbacks 11-7 for 3-1 World Series lead
+
+https://apnews.com/article/a4d8af6a4e1769e42fd5cdb333840924
+
+PHOENIX (AP) --- Marcus Semien's two-run triple and three-run homer
+powered Texas to a 10-run lead by the third inning, Corey Seager hit
+another long home run and the Rangers beat the Arizona Diamondbacks 11-7
+on Tuesday night to move\...
+
+#### Settlement over lack of girls' locker rooms at Hawaii high school includes independent evaluator
+
+https://apnews.com/article/524be98757bbdf6a986f4d196d1ab5a9
+
+HONOLULU (AP) --- A 2018 class-action lawsuit over a lack of locker
+rooms for female athletes at Hawaii's largest public school has reached
+a settlement that attorneys say will ensure athletic gender equity at
+the high school. The lawsuit\...
+
+#### The Day of the Dead in Mexico is a celebration for the 5 senses
+
+https://apnews.com/article/6397d16bc3ed28fec9d3acbe133053dc
+
+MEXICO CITY (AP) --- The Day of the Dead in Mexico smells like
+cempasuchil flowers and copal incense. It has a sweet taste. Sounds and
+colors abound. There are photos, candles and music all over. The hands
+of artisans prepare the altars\...
+
+#### Robert De Niro lashes out at former assistant who sued him, shouting: 'Shame on you!'
+
+https://apnews.com/article/3aac7dfd15b1050fd0a32176a92fffb2
+
+NEW YORK (AP) --- Actor Robert De Niro shouted "Shame on you!" as he
+testified Tuesday in a New York courtroom, directing the comments toward
+his former executive assistant and vice president who seeks millions of
+dollars after accusing\...
+
+#### Antisemitism policies at public city colleges in New York will be reviewed, the governor says
+
+https://apnews.com/article/5500f0b2bccf26da7b31549c203dbeaf
+
+ALBANY, N.Y. (AP) --- An independent party will review antisemitism
+policies at the City University of New York, the nation's largest urban
+public university system, Gov. Kathy Hochul announced Tuesday, as
+protests about the war between\...
+
+#### Ohio St., UGA, Michigan, FSU are CFP top 4. NCAA investigation of Wolverines not considered in rank
+
+https://apnews.com/article/20f74946eda67316bf32608989c7f04d
+
+The NCAA investigation hanging over Michigan as it heads into the final
+month of the season as a national championship contender is not
+affecting the College Football Playoff selection committee's assessment
+of the Wolverines. Ohio State\...
+
+#### Commanders jump-start rebuild by trading Chase Young to the 49ers and Montez Sweat to the Bears
+
+https://apnews.com/article/dbcea02cb785222dc3e27b2e3a571c1c
+
+Under new ownership, the Washington Commanders are heading in the
+direction of a rebuild after selling at the NFL trade deadline.
+Washington on Tuesday sent Montez Sweat to the Chicago Bears for a 2024
+second-round draft pick and fellow\...
+
+### Reuters
+
+#### Australia police arrest woman over mushroom lunch that killed three
+
+https://www.reuters.com/world/asia-pacific/australia-police-arrest-woman-over-mushroom-lunch-that-killed-three-2023-11-01/
+
+Australian police said on Thursday they had arrested a 49-year-old woman
+over the deaths of three elderly people in August after they allegedly
+consumed mushrooms at a lunch hosted by her. Victoria state police said
+they had searched the\...
+
+#### Hamas says 195 Palestinians killed in Israeli attacks on Gaza's Jabalia
+
+https://www.reuters.com/world/middle-east/hamas-says-195-palestinians-killed-israeli-attacks-gazas-jabalia-2023-11-01/
+
+A man reacts as Palestinians search for casualties a day after Israeli
+strikes on houses in Jabalia refugee camp in the northern Gaza Strip,
+November 1, 2023. REUTERS/Mohammed Al-Masri Palestinians gather at the
+site of Israeli strikes on\...
+
+#### Honduran lawmakers elect interim prosecutor, opposition cries foul
+
+https://www.reuters.com/world/americas/honduran-lawmakers-elect-interim-prosecutor-opposition-cries-foul-2023-11-01/
+
+Honduras President Xiomara Castro addresses supporters during a protest
+to demand the Congress compliance with the Constitutional mandate to
+elect new authorities of the Public Prosecutors Office, in\...
+
+#### Israel says new strike on Gaza refugee camp kills second Hamas leader, first evacuees reach Egypt
+
+https://www.reuters.com/world/middle-east/israeli-military-jets-strike-gaza-camp-says-hamas-commander-killed-2023-11-01/
+
+Summary: LATEST DEVELOPMENTS: Jabalia camp strikes could be war crimes,
+UN commission says White House sees no Hamas role in future Gaza
+governance US Secretary of State Blinken to visit Israel, Jordan on
+Friday Palestinians with dual\...
+
+#### First Australian nationals leave Israeli-besieged Gaza for Egypt
+
+https://www.reuters.com/world/middle-east/first-australian-nationals-leave-israeli-besieged-gaza-egypt-2023-11-01/
+
+A general view of the Rafah border crossing point with Egypt, as
+Palestinians with dual citizenship waits outside the Rafah border
+crossing, in the hope of getting permission to leave Gaza, amid the
+ongoing conflict between Israel and\...
+
+#### Israel's defence and finance ministers clash over Palestinian tax payout
+
+https://www.reuters.com/world/middle-east/israels-defence-finance-ministers-clash-over-palestinian-tax-payout-2023-11-01/
+
+Israeli Defence Minister Yoav Gallant attends a joint press conference
+with German Defence Minister Boris Pistorius (not pictured) in Berlin,
+Germany, September 28, 2023. REUTERS/Fabrizio Bensch/File Photo Israeli
+Finance Minister Bezalel\...
+
+#### Canada caps immigration target amid housing crunch, inflation
+
+https://www.reuters.com/world/americas/canada-keeps-immigration-target-unchanged-next-2-years-amid-housing-crunch-2023-11-01/
+
+An asylum seeker arrives by taxi to cross into Canada from the U.S.
+border on Roxham Road in Champlain, New York, U.S., February 25, 2023.
+REUTERS/Christinne Muschi Canadas liberal government kept immigration
+targets\...
+
+#### Moldovan president says Russia is 'buying' voters, seeks backing for pro-Europe policies
+
+https://www.reuters.com/world/europe/moldovan-president-accuses-russia-buying-voters-local-election-2023-11-01/
+
+Moldovan President Maia Sandu speaks at the USAID \"Democracy Delivers\"
+event at the Ford Foundation Center for Social Justice, in New York
+City, U.S., September 20, 2023, on the sidelines of the 78th United
+Nations General Assembly. ZAK\...
+
+#### Israel's Netanyahu faces reckoning over Hamas disaster
+
+https://www.reuters.com/world/middle-east/israels-netanyahu-faces-reckoning-over-hamas-disaster-2023-11-01/
+
+Israeli Prime Minister Benjamin Netanyahu holds a press conference with
+Defense Minister Yoav Gallant and Cabinet Minister Benny Gantz (not
+pictured) in the Kirya military base in Tel Aviv , Israel , 28 October
+2023. ABIR SULTAN POOL/Pool\...
+
+#### Lula militarizes Brazil's main ports, airports amid rising crime
+
+https://www.reuters.com/world/americas/brazils-lula-signs-decree-military-security-ports-airports-2023-11-01/
+
+Brazils president Luiz Inacio Lula da Silva looks on during a press
+conference at the Planalto Palace in Brasilia, Brazil, November 1, 2023.
+REUTERS/Adriano Machado Brazils president Luiz Inacio Lula da\...
+
+#### Walmart pledges \$1 million aid for Israel victims
+
+https://www.reuters.com/world/walmart-pledges-1-million-aid-israel-victims-2023-11-01/
+
+View of Walmarts newly remodeled Supercenter, in Teterboro, New Jersey,
+U.S., June 7, 2023. REUTERS/Siddharth Cavale/File Photo Walmart
+Foundation, the philanthropy arm of the U.S. retailer, has pledged \$1
+million to an\...
+
+#### Congested Bogota secures \$415 million IDB credit for second metro line
+
+https://www.reuters.com/world/americas/congested-bogota-secures-415-million-idb-credit-second-metro-line-2023-11-01/
+
+The logo of the Metro public transportation company is seen in Bogota,
+Colombia October 3, 2019. REUTERS/Luis Jaime Acosta/File Photo The board
+of directors of the Inter-American Development Bank (IDB) on Wednesday
+approved a \$415\...
+
+#### No US peacekeeping troops in Gaza, White House says
+
+https://www.reuters.com/world/middle-east/us-believes-hamas-cannot-govern-gaza-future-white-house-2023-11-01/
+
+Palestinians gather at the site of Israeli strikes on houses in Jabalia
+refugee camp in the northern Gaza Strip, November 1, 2023. REUTERS/Anas
+Al-Shareef The White House on Wednesday said the United States would not
+put U.S. troops on\...
+
+### 联合早报
+
+#### 陈婧：有中国特色的万圣节
+
+https://www.zaobao.com/news/china/story20231102-1447286
+
+刚过去的这个周末，上海朋友圈里流传这么一句问候语，言下之意是：你参加万圣节巡游吗？
+被称为"网红路"的巨鹿路是今年万圣节巡游的中心，这几天都是水泄不通。我也尝试过去凑热闹，但很快就被汹涌的人潮挤出圈外。
+不过，即便不到巨鹿路，在上海街头也能感受到浓郁的万圣节氛围：路旁的商家挂起南瓜灯和蜘蛛网，路上的年轻人也有不少盛装打扮，坦然接受行人的注目礼......
+
+#### 中国民众献花 李克强合肥故居外鲜花成山
+
+https://www.zaobao.com/news/china/story20231101-1447285
+
+中国原总理李克强10月27日凌晨在上海逝世，中国民众星期二（11月1日）继续到李克强位于安徽合肥的故居外献花，现场鲜花堆积如山。（彭博社）
+（合肥／北京综合讯）已故中国前总理李克强的遗体星期四（11月2日）将在北京火化。大批民众连日来到李克强位于安徽合肥的故居外献花。
+李克强少年时曾居住在安徽省文史研究馆大院，也就是现在的合肥市红星路80号......
+
+#### 郭台铭低调递交连署书 蓝白对选总统仍无共识
+
+https://www.zaobao.com/news/china/story20231101-1447272
+
+鸿海集团创办人郭台铭（中）与副手赖佩霞（右三）11月1日下午前往台北市选委会递交台湾总统、副总统选举连署书。不过，郭台铭并未公布连署数量，仅表示会继续向前。（香港中通社）
+台湾在野"蓝白合"前景依然不明朗，准备独立参选台湾总统的鸿海集团创办人郭台铭星期三（11月1日）下午递交连署书，但低调不受访。蓝白三主帅密会后，仍无法对如何决定正副总统人选达成共识，蓝营主张协商决定，白营仍坚持公开比赛......
+
+#### 黄永宏呼吁南中国海声索国达成渔业协定
+
+https://www.zaobao.com/news/china/story20231101-1447264
+
+南中国海局势近期升温，我国国防部长黄永宏医生呼吁声索国达成渔业协定，并加速《南中国海行为准则》磋商。
+中国和菲律宾过去几个月在南中国海摩擦不断，两国船只上月还在阿云津礁（中国称仁爱礁）附近发生碰撞。
+黄永宏星期三（11月1日）在北京接受媒体访问时，呼吁涉事各方为南中国海局势降温，并远离危险线和采取防范措施。
+他说，各国应尽一切所能避免亚洲发生冲突......
+
+#### 中国互联网平台实施前台实名制
+
+https://www.zaobao.com/news/china/story20231101-1447253
+
+中国多家互联网平台宣布，将对有50万粉丝以上的社交媒体账号实施前台实名制，在个人账户的首页展示真实姓名。
+中国主要的互联网平台抖音、微信、微博、快手、小红书、B站、百度与知乎，星期二（10月31日）在各自平台发布声明，将分批次引导粉丝量在50万以上和100万以上的自媒体账号，在个人主页展示真实姓名......
+
+#### 中科技部副部长出席英人工智能安全峰会
+
+https://www.zaobao.com/news/china/story20231101-1447246
+
+中国科技部副部长吴朝晖将率团出席在英国举行的人工智能安全峰会，并向参会各方介绍中国提出的《全球人工智能治理倡议》。（互联网）
+（北京／伦敦综合讯）中国科技部副部长率团出席在英国举行的人工智能安全峰会，被视为两国紧张关系进一步缓和。不过英国也称，中国不适合参加部分讨论......
+
+#### 中国北方雾霾将持续到11月中旬
+
+https://www.zaobao.com/news/china/story20231101-1447238
+
+北京商务中心区星期三（11月1日）被雾霾笼罩。（路透社）
+（北京综合讯）中国空气质量近日转差，京津冀等北方城市的雾霾情况预计将持续至11月中旬。
+法新社引述瑞士空气净化信息科技公司IQAir称，北京星期三（11月1日）的PM2.5浓度，比世界卫生组织的标准高出二十多倍。IQAir也说，北京目前是世界上污染第三严重的城市......
+
+#### 中国通报多艘日本船只驶入钓鱼岛周围海域
+
+https://www.zaobao.com/news/china/story20231101-1447221
+
+（北京/东京综合讯）中国海警局通报，多艘日本船只驶入有领土争议的钓鱼岛（日本称"尖阁诸岛"）周围海域，并称已采取必要管控措施。
+根据"中国海警"微信公众号消息，中国海警局新闻发言人甘羽说，日本"惠丸" "鹤丸" "第八泰生丸"三艘船只和数艘巡视船星期三（11月1日）非法进入钓鱼岛周围海域，中国海警舰艇依法采取必要管控措施......
+
+#### 台国防部：配合山东舰海空联训 37架次解放军军机越过海峡中线
+
+https://www.zaobao.com/news/china/story20231101-1447219
+
+（台北综合讯）台湾国防部说，侦察到中国大陆解放军"山东号"航母编队在台湾东南应变区外实施海空联训，并侦测到多架次解放军军机越过台海中线。
+根据台湾国防部官网消息，自星期二（10月31日）上午6时至星期三（11月1日）上午6时，侦获中国大陆派出43架次军机、七艘次军舰持续在台海周边活动，其中37架次跨越海峡中线及其延伸线进入西南及东南空域......
+
+#### 在华被拘四年 澳籍作家杨恒均之子吁澳总理助父获释
+
+https://www.zaobao.com/news/china/story20231101-1447206
+
+在中国被拘留四年多的杨恒均又名杨军，是澳大利亚华裔时事评论家，网络作家。（互联网）
+（堪培拉综合讯）澳大利亚华裔作家杨恒均被中国以涉嫌间谍罪拘留四年多后，他的儿子写信请求澳洲总理阿尔巴尼斯，在访华期间敦促北京释放他们的父亲......
+
+#### 赖清德副手考虑六人 萧美琴是优先之上
+
+https://www.zaobao.com/news/china/story20231101-1447176
+
+台湾驻美代表萧美琴（右）今年8月在赖清德过境美国期间，在脸书上贴出两人看职棒时，分别穿上1号跟11号球衣的背影照，曾一度被解读为赖萧配已成形。（萧美琴脸书）
+（台北综合讯）台湾民进党总统参选人赖清德透露，考虑搭档的副总统人选目前有六人，外界热传的台湾驻美国代表萧美琴、文化部前部长郑丽君均在列，且萧美琴在名单中是"优先之上"......
+
+#### 台湾前副防长：希望对岸深刻体会到武力解决是"最笨方法"
+
+https://www.zaobao.com/news/china/story20231031-1447052
+
+台湾前海军司令陈永康上将（左）和战略学者、国民党驻美代表黄介正教授，在台湾学术界推动台海兵棋推演多年。（温伟中摄）
+台湾安全研究中心星期一（10月30日）发表区域安全兵推报告，设想中国大陆2027年攻台情境，推演大陆如何施展各种围困手法，并全方位加强备战与避战之道......
+
+#### 黄永宏：避免亚洲出现实体冲突 是各国安全首长首要任务
+
+https://www.zaobao.com/news/china/story20231031-1447032
+
+我国国防部长黄永宏医生10月31日在北京香山论坛上致辞。（法新社）
+我国国防部长黄永宏医生呼吁各国国防机构和军队必须接触，并强调未来的十年里，所有安全首长最重要的任务，是避免亚洲发生实体冲突。
+黄永宏星期二（10月31日）在北京香山论坛上致辞时，以过去三年的冠病疫情、俄乌战争和以哈冲突为例，提醒和平并不牢固，也不能被任何国家视为理所当然......
+
+#### 北京指菲护卫舰闯黄岩岛邻近海域 马尼拉指中国炒作
+
+https://www.zaobao.com/news/china/story20231031-1447013
+
+（北京/马尼拉综合讯）中国和菲律宾在南中国海又发生摩擦，中国解放军星期一（10月30日）称，拦阻管制了一艘"非法闯入"黄岩岛（菲律宾称马辛洛克浅滩）邻近海域的菲律宾护卫舰。菲律宾则回应，船只"没有非法进入中国的主权空间"，并称将不惜一切代价保护领土......
+
+#### 中国国安部发现数百气象探测点 非法向境外传送数据
+
+https://www.zaobao.com/news/china/story20231031-1447008
+
+中国国安部发现藏身在居民区的非法气象探测设备。（中国国家安全部）
+（北京综合讯）中国国家安全部披露，20多个省份存在数百个非法气象探测站，实时向中国大陆境外传输数据，对国家安全构成风险。
+中国国家安全部微信公众号星期二（10月31日）发布消息称，国安机关今年会同气象、保密等部门，在大陆各地开展对涉外气象探测的专项治理，查核了10余家境外气象设备代理商和3000多个涉外气象站点......
+
+#### 澳洲智库报告：中国对太平洋地区援助缩量增质
+
+https://www.zaobao.com/news/china/story20231031-1447006
+
+（悉尼综合讯）澳大利亚智库报告显示，中国对太平洋地区的援助正在减少，但针对性更强，重点转向了支持合作伙伴和战略国家。
+综合《南华早报》、澳大利亚广播公司等报道，澳大利亚智库洛伊国际政策研究所星期二（10月31日）发表报告，指中国在太平洋地区的支出在2016年达到3.84亿美元（约5.24亿新元）峰值后，到2021年已缩减至2.41亿美元......
+
+#### 神舟十六飞船返回舱着陆
+
+https://www.zaobao.com/news/china/story20231031-1446999
+
+神舟十六号载人飞船返回舱在东风着陆场成功着陆，现场医监医保人员确认航天员景海鹏、朱杨柱、桂海潮身体健康状况良好，顺利出舱。
+图为航天员景海鹏出舱。 （中新社）
+（北京综合讯）中国神舟十六号载人飞船结束了为期五个月的太空空间站任务后，星期二（10月31日）早上在内蒙古的东风着陆场着陆......
+
+#### 台学者：东南亚是"一带一路"下阶段发展重点
+
+https://www.zaobao.com/news/china/story20231031-1446962
+
+台湾政治大学东亚研究所10月31日举办"一带一路的十年回顾：进展与影响"专题演讲。由政大东亚所教授薛健吾（右）主讲，淡江大学中国一带一路研究中心执行长洪耀南（左）与谈。
+（缪宗翰摄）
+台湾学者认为，北京下一步会把"一带一路"发展重心放在东南亚，然而由于不少东南亚国家与中国存在海洋冲突，可预期这些国家会采取一定的避险措施，并维持"经济靠中国、安全靠美国"的策略......
+
+#### 【东谈西论】郭台铭选总统内外交困
+
+https://www.zaobao.com/news/china/story20231031-1446891
+
+8月28日宣布以独立参选人身份投入台湾2024年总统大选的鸿海集团创办人郭台铭，近期被传旗下的富士康集团正被中国大陆调查。（路透社）
+2024年台湾总统选举进入倒计时。在四组参选人中，排名第四的台湾首富郭台铭最近内外交困。
+郭台铭创办的鸿海富士康集团，在中国大陆被查税和土地违规使用。在台湾，郭台铭也陷入"花钱买连署"的丑闻......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

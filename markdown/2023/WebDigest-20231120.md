@@ -1,0 +1,939 @@
+Other formats: [PDF]() / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20231120.html)
+
+
+# Web Digest 2023-11-20
+
+
+## Developers
+
+### Hacker News
+
+#### OpenAI negotiations to reinstate Altman hit snag over board role
+
+https://www.bloomberg.com/news/articles/2023-11-19/openai-negotiations-to-reinstate-altman-hit-snag-over-board-role
+
+https://news.ycombinator.com/item?id=38337568
+
+#### Financial situation of the Matrix.org Foundation
+
+https://github.com/matrix-org/matrix-spec/issues/571
+
+https://news.ycombinator.com/item?id=38336736
+
+#### Awesome Engineering Games
+
+https://github.com/arcataroger/awesome-engineering-games
+
+https://news.ycombinator.com/item?id=38336688
+
+#### Gang crisis shaking Sweden
+
+https://www.ft.com/content/79f0d181-bdae-4c81-a971-861ccd8d512c
+
+https://news.ycombinator.com/item?id=38336065
+
+#### A map of ATMs designed to scam tourists in Europe
+
+https://twitter.com/faborio/status/1725631676309463137
+
+https://news.ycombinator.com/item?id=38335864
+
+#### Altman sought billions for AI chip venture before OpenAI ouster
+
+https://www.bloomberg.com/news/articles/2023-11-19/altman-sought-billions-for-ai-chip-venture-before-openai-ouster
+
+https://news.ycombinator.com/item?id=38335525
+
+#### StyleTTS2 -- open-source Eleven-Labs-quality Text To Speech
+
+https://github.com/yl4579/StyleTTS2
+
+https://news.ycombinator.com/item?id=38335255
+
+#### From airlines to ticket sellers, companies fight U.S. to keep junk fees
+
+https://www.washingtonpost.com/business/2023/11/19/companies-lobbyists-fight-junk-fees/
+
+https://news.ycombinator.com/item?id=38334126
+
+#### Terraform Cloud Pricing Changes Sticker Shock
+
+https://shavingtheyak.com/2023/10/28/hashicorps-terraform-cloud-rum-pricing-sticker-shock/
+
+https://news.ycombinator.com/item?id=38334102
+
+#### I will always prefer to work from home
+
+https://shavingtheyak.com/2023/10/25/wfh-part1/
+
+https://news.ycombinator.com/item?id=38334084
+
+#### U.S. agency declares 21 species now extinct
+
+https://www.pbsnc.org/blogs/science/us-agency-declares-21-species-now-extinct/
+
+https://news.ycombinator.com/item?id=38333790
+
+#### I cancelled my Replit subscription
+
+https://journal.paoloamoroso.com/why-i-cancelled-my-replit-subscription
+
+https://news.ycombinator.com/item?id=38333271
+
+#### datetime.utcnow() is now deprecated
+
+https://blog.miguelgrinberg.com/post/it-s-time-for-a-change-datetime-utcnow-is-now-deprecated
+
+https://news.ycombinator.com/item?id=38333116
+
+#### Should I replace my 56k modem with a 28.8K Modem? (2001)
+
+https://forums.anandtech.com/threads/should-i-replace-my-56k-modem-with-a-28-8k-modem.437516/
+
+https://news.ycombinator.com/item?id=38332788
+
+#### Victor Mono Typeface
+
+https://rubjo.github.io/victor-mono/
+
+https://news.ycombinator.com/item?id=38332635
+
+#### Revenge bedtime procrastination
+
+https://solvingprocrastination.com/revenge-bedtime-procrastination/
+
+https://news.ycombinator.com/item?id=38332364
+
+#### The architecture of today's LLM applications
+
+https://github.blog/2023-10-30-the-architecture-of-todays-llm-applications/
+
+https://news.ycombinator.com/item?id=38332137
+
+#### Kyutai AI research lab with a \$330M budget that will make everything open source
+
+https://techcrunch.com/2023/11/17/kyutai-is-an-french-ai-research-lab-with-a-330-million-budget-that-will-make-everything-open-source/
+
+https://news.ycombinator.com/item?id=38331751
+
+#### Lindenmayer systems
+
+https://vsekar.me/blog/log_coffee/chapter_0.html
+
+https://news.ycombinator.com/item?id=38331750
+
+#### Comparing humans, GPT-4, and GPT-4V on abstraction and reasoning tasks
+
+https://arxiv.org/abs/2311.09247
+
+https://news.ycombinator.com/item?id=38331669
+
+### Phoronix
+
+#### Linux 6.7-rc2 Released: \"Slightly Larger Than Average\"
+
+https://www.phoronix.com/news/Linux-6.7-rc2-Released
+
+#### Polychromatic 0.8.3 Released For Latest Open-Source Razer Experience On Linux
+
+https://www.phoronix.com/news/Polychromatic-0.8.3
+
+#### AMD AXI 1-Wire Driver Queued Ahead Of The Linux 6.8 Kernel
+
+https://www.phoronix.com/news/AMD-1-Wire-Driver
+
+#### Open-Source Graphics DevRoom Returning For FOSDEM 2024
+
+https://www.phoronix.com/news/Graphics-DevRoom-FOSDEM-24
+
+#### Microsoft Enables OpenGL 4.6 Support Over Direct3D 12
+
+https://www.phoronix.com/news/Microsoft-OpenGL-4.6-D3D12
+
+#### Inkscape Celebrates 20 Years With New Release
+
+https://www.phoronix.com/news/Inkscape-1.3.1-For-20-Years
+
+#### LLVM Now Using PGO For Building x86_64 Windows Release Binaries:  22% Faster Builds
+
+https://www.phoronix.com/news/LLVM-PGO-Windows-Build
+
+#### KDE Addressing A Spike In Bug Reports Following The Plasma 6 Alpha
+
+https://www.phoronix.com/news/KDE-Post-Plasma-6-Alpha
+
+#### RadeonSI Gallium3D Enables VCN Encoder Intra-Refresh Support
+
+https://www.phoronix.com/news/Radeon-VCN-Intra-Refresh-Encode
+
+### GitHub
+
+#### PowerShell/PowerShell
+
+https://github.com/PowerShell/PowerShell
+
+PowerShell for every system!\
+Language: C#\
+Stars: 41665\
+Forks: 7686
+
+### Dribbble
+
+#### Task Manager Mobile IOS App
+
+https://dribbble.com/shots/23079473
+
+#### Game Console Tutorial
+
+https://dribbble.com/shots/23080124
+
+#### VR Glasses Landing Page
+
+https://dribbble.com/shots/23080869
+
+#### Rural House
+
+https://dribbble.com/shots/23080345
+
+#### Whitehaven
+
+https://dribbble.com/shots/22874099
+
+#### Financilux Dashboard
+
+https://dribbble.com/shots/23079941
+
+#### House of Gleason
+
+https://dribbble.com/shots/22993291
+
+#### Broadlume Rebrand
+
+https://dribbble.com/shots/23077703
+
+#### Magic Mushroom!✨
+
+https://dribbble.com/shots/23072059
+
+#### moving
+
+https://dribbble.com/shots/23078309
+
+#### getting away from it all
+
+https://dribbble.com/shots/23077692
+
+#### The Beetle Backs / Back Design
+
+https://dribbble.com/shots/23075184
+
+#### Real Estate Website Concept
+
+https://dribbble.com/shots/23041099
+
+#### Cancer Care
+
+https://dribbble.com/shots/22924649
+
+#### Packaging Design for condoms
+
+https://dribbble.com/shots/23068850
+
+#### Lunch time
+
+https://dribbble.com/shots/23070364
+
+#### After IRL
+
+https://dribbble.com/shots/23071440
+
+#### Starryai Landing Page
+
+https://dribbble.com/shots/23058220
+
+#### 28 Tackles in the Final
+
+https://dribbble.com/shots/23071120
+
+#### Fitness app design
+
+https://dribbble.com/shots/23071269
+
+#### Book XVII's 2019 Vintage Label Rendered by Steven Noble
+
+https://dribbble.com/shots/23072833
+
+#### MFP outdoor advert & stationery
+
+https://dribbble.com/shots/23063137
+
+#### Stabby Stray
+
+https://dribbble.com/shots/23070870
+
+#### WIP. Squirrel
+
+https://dribbble.com/shots/23070594
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### Inkscape 庆祝诞生 20 周年
+
+https://www.solidot.org/story?sid=76662
+
+#### 海葵被发现具有向日性
+
+https://www.solidot.org/story?sid=76661
+
+#### 小行星将在 12 月 12 日从参宿四前方飞过
+
+https://www.solidot.org/story?sid=76660
+
+#### 《半条命》发布二十五周年
+
+https://www.solidot.org/story?sid=76659
+
+#### 2.8 亿辆电动单车减少的石油需求远高于电动汽车
+
+https://www.solidot.org/story?sid=76658
+
+#### 苹果、迪士尼等都从 X/Twitter 撤下广告
+
+https://www.solidot.org/story?sid=76657
+
+#### 三位 OpenAI 资深 AI 研究员辞职
+
+https://www.solidot.org/story?sid=76656
+
+#### OpenAI 董事会解雇了 CEO Sam Altman
+
+https://www.solidot.org/story?sid=76655
+
+#### CEO 入狱虚拟女友失效
+
+https://www.solidot.org/story?sid=76654
+
+#### WHO 宣布孤独为全球公共卫生问题
+
+https://www.solidot.org/story?sid=76653
+
+#### 剑桥词典将幻觉（hallucinate）选为 2023 年的年度单词
+
+https://www.solidot.org/story?sid=76652
+
+#### 阿里巴巴以美国芯片出口管制为由放弃分拆云计算业务
+
+https://www.solidot.org/story?sid=76651
+
+#### 美国三分之一的地方报纸消失
+
+https://www.solidot.org/story?sid=76650
+
+#### Signal 披露其运营成本
+
+https://www.solidot.org/story?sid=76649
+
+#### 三星证实黑客在长达一年时间内窃取了英国客户的个人数据
+
+https://www.solidot.org/story?sid=76648
+
+#### 微软将允许欧洲经济区用户卸载 Edge 和移除必应
+
+https://www.solidot.org/story?sid=76647
+
+#### Google Chrome 将在 2024 年禁用 Manifest V2 扩展
+
+https://www.solidot.org/story?sid=76646
+
+#### IBM 从 X/Twitter 撤下广告
+
+https://www.solidot.org/story?sid=76645
+
+#### 勒索软件组织向 SEC 投诉受害者未及时披露数据泄露
+
+https://www.solidot.org/story?sid=76644
+
+#### 苹果宣布将在明年支持 RCS 标准
+
+https://www.solidot.org/story?sid=76643
+
+### V2EX
+
+#### \[macOS\] Mac 自带输入法有输入习惯的缓存可以清理吗？
+
+https://www.v2ex.com/t/993321
+
+#### \[分享发现\] 一个人的推广能力有多强大？！ Google 一下 easyalarm 好 我惊呆了！
+
+https://www.v2ex.com/t/993320
+
+#### \[分享创造\] 写了一个检查 v 友是否被封的脚本
+
+https://www.v2ex.com/t/993319
+
+#### \[宽带症候群\] 双千兆宽带 升级改造求方案
+
+https://www.v2ex.com/t/993317
+
+#### \[OpenWrt\] openwrt 真好用啊，直接能在路由器上跑个 ping 监控
+
+https://www.v2ex.com/t/993316
+
+#### \[硬件\] 2023 年 11 月，有什么 4k、有高刷且 HDR 优秀的显示器推荐呢？
+
+https://www.v2ex.com/t/993314
+
+#### \[生活\] 女儿喜欢 youtube 短视频，拒绝看动画片、电影之类的长视频
+
+https://www.v2ex.com/t/993313
+
+#### \[iPhone\] 现在 13 pro 官方折价 4300 了
+
+https://www.v2ex.com/t/993310
+
+#### \[宽带症候群\] 广东垃圾移动出海又开始丢包了
+
+https://www.v2ex.com/t/993309
+
+#### \[程序员\] 现在还能找到下载 Html 源码资源吗？
+
+https://www.v2ex.com/t/993308
+
+#### \[Apple\] 往 apple store 充了 20 美元发现 gpt 暂停订阅了，求一个花出去的渠道
+
+https://www.v2ex.com/t/993307
+
+#### \[Neovim\] 请教大佬们一个问题， Neovim 中每次 prisma generate 之后没办法立即识别生成的 client，所以没有代码提示，有什么好的办法吗？
+
+https://www.v2ex.com/t/993306
+
+#### \[音乐\] 马歇尔 Kilburn II 如何识别真伪
+
+https://www.v2ex.com/t/993305
+
+#### \[分享创造\] 开源一个基于 Webgpu 技术和 wasm 技术的免费开源 inpainting 工具, 纯浏览器端实现
+
+https://www.v2ex.com/t/993304
+
+#### \[分享发现\] 程序必备工具站，工具大合集
+
+https://www.v2ex.com/t/993303
+
+#### \[Apple\] iPhone 双卡里没有设为上网卡的那个卡每月也会有少量流量消耗
+
+https://www.v2ex.com/t/993302
+
+#### \[奇思妙想\] 自制一周预制菜可行性
+
+https://www.v2ex.com/t/993300
+
+#### \[分享创造\] 链.top -- 致敬曾经的 链.ml \| 免费·简单·便捷的短链接生成器
+
+https://www.v2ex.com/t/993299
+
+#### \[问与答\] 有没有下载无损歌曲的网站或者程序推荐？
+
+https://www.v2ex.com/t/993298
+
+#### \[宽带症候群\] 江苏南京电信 1000M 宽带，怀疑被模板限速无法怎么破？
+
+https://www.v2ex.com/t/993297
+
+#### \[DNS\] 内网 DNS 问题，求教各位大佬
+
+https://www.v2ex.com/t/993296
+
+#### \[服务器\] 服务器安装宝塔 8.0.4，现在所有站点切换手机版都调用远程 js 文件
+
+https://www.v2ex.com/t/993295
+
+#### \[职场话题\] 为什么要支持年功序列，跟大家分享一下看到的一个好的答案
+
+https://www.v2ex.com/t/993294
+
+#### \[宽带症候群\] ipv6 开启后微信消息出现延迟怎么破？
+
+https://www.v2ex.com/t/993293
+
+#### \[Notion\] 为什么无法下载 macOS 版本的 notion 了？
+
+https://www.v2ex.com/t/993292
+
+#### \[问与答\] 电视的输入法，太难用，有推荐的吗
+
+https://www.v2ex.com/t/993291
+
+#### \[Android\] Unity 编译的 Android 应用，访问 Application.PersistentDataPath： Access Denied
+
+https://www.v2ex.com/t/993290
+
+#### \[问与答\] 如何入门自动化交易或者量化交易
+
+https://www.v2ex.com/t/993289
+
+#### \[Apple\] 2.5G 网络内通过 SMB 共享 windows 文件夹做 Time Machine 速度过慢
+
+https://www.v2ex.com/t/993288
+
+#### \[iPhone\] 各位尊贵的爱疯用户都用什么输入法
+
+https://www.v2ex.com/t/993287
+
+#### \[深圳\] 20231119 香港一日游
+
+https://www.v2ex.com/t/993286
+
+#### \[程序员\] \*\*\*\*AWS RDS MYSQL 如何优化查询速度?\*\*\*\*
+
+https://www.v2ex.com/t/993285
+
+#### \[Windows\] 如何彻底地关闭 Windows 11 的 Windows Defender
+
+https://www.v2ex.com/t/993284
+
+#### \[推广\] 介绍一下短视频带货繁星计划
+
+https://www.v2ex.com/t/993283
+
+#### \[分享创造\] 简单封面 V0.1.0 上线，让做封面图片这件事情变得更简单
+
+https://www.v2ex.com/t/993282
+
+#### \[投资\] 过去的 20 天中证 2000 和中证 1000 居然涨了超过百分之 10,科创 100 最高时 16%，被我完美避开了。。。
+
+https://www.v2ex.com/t/993281
+
+#### \[iPhone\] 刚拍摄的照片在"照片"中显示"载入此照片的更高质量版本时出错"，应用程序例如微信、iMessage 无法读取，有解决方案吗？
+
+https://www.v2ex.com/t/993280
+
+#### \[程序员\] 问个备案的事, 国内开发安卓或 ios app 备案都可以个人名义做吗
+
+https://www.v2ex.com/t/993279
+
+#### \[Apple TV\] Apple TV 遥控器有时候失灵的疑问？
+
+https://www.v2ex.com/t/993278
+
+#### \[服务器\] 请教一下，如果我想让侄子去学习一些服务器硬件相关的知识，有什么好的书籍和社区嘛？
+
+https://www.v2ex.com/t/993277
+
+#### \[程序员\] 计算机里还有哪些板块像爬虫一样适合提升修为
+
+https://www.v2ex.com/t/993276
+
+#### \[微信\] 最近 5 天腾讯封了我 3 个 wechat 账号，绑定的都是 google voice，我要疯了
+
+https://www.v2ex.com/t/993275
+
+#### \[杭州\] 杭州上城区有没有给小学五年级做英语家教的？每节课 240 元左右，想给自己孩子补下英语
+
+https://www.v2ex.com/t/993274
+
+#### \[Go 编程语言\] 为什么我的 GoLand 每次打开项目的时候都是飘红
+
+https://www.v2ex.com/t/993273
+
+#### \[Java\] 关于 socket 序列化的疑惑
+
+https://www.v2ex.com/t/993272
+
+#### \[OpenAI\] 目前（2023 年 11 月 19 日）有任何基于 OpenAI 的可以语音聊天的智能音箱么？
+
+https://www.v2ex.com/t/993271
+
+#### \[创业组队\] 最近在创业，有几个方向，大家看看哪个靠谱？
+
+https://www.v2ex.com/t/993270
+
+#### \[Cloudflare\] 请问以下， cloudflare 控制面板中，修改了 A 记录的 IP 后，是多少生效的
+
+https://www.v2ex.com/t/993269
+
+#### \[程序员\] 抖音的 CDN 调度是通过 DNS 调度还是 HTTP 302 或者 HTTPS DNS？
+
+https://www.v2ex.com/t/993268
+
+#### \[问与答\] 有没有免费开源进销存软件，支持手机扫描
+
+https://www.v2ex.com/t/993266
+
+## Generic News
+
+### AP News
+
+#### Rosalynn Carter, outspoken former first lady, dead at 96
+
+https://apnews.com/article/e4291133392444bc9ad9d1da461d95c1
+
+ATLANTA (AP) --- Former first lady Rosalynn Carter, the closest adviser
+to Jimmy Carter during his one term as U.S. president and their four
+decades thereafter as global humanitarians, has died at the age of 96.
+The Carter Center said she\...
+
+#### Maine and Massachusetts are the last states to keep bans on Sunday hunting. That might soon change
+
+https://apnews.com/article/76bcbad45f23ff8e3ecf391fee0e905d
+
+PORTLAND, Maine (AP) --- Some states are steadily chipping away at
+longstanding bans on Sunday hunting, and there's a push to overturn the
+laws in Maine and Massachusetts, the final two states with full bans.
+Maine's highest court is\...
+
+#### Tiger Woods to play in the Bahamas, his first competition since the Masters
+
+https://apnews.com/article/1dc0fc79cad338f1fd86b0d39ee21a65
+
+Tiger Woods showed he could walk four days while caddying for his son.
+Now he has decided he is fit enough to try to play. Woods announced on
+social media Saturday he will be playing in the Hero World Challenge,
+which starts Nov. 30 at\...
+
+#### Connecticut judge sets new primary date for mayor's race tainted by alleged ballot box stuffing
+
+https://apnews.com/article/b2786657fefa94953251571ba5aaa7ad
+
+BRIDGEPORT, Conn. (AP) --- A Connecticut judge has set Jan. 23 as the
+date for a new Democratic primary election in the Bridgeport mayor's
+race after having tossed out the September election results because of
+alleged ballot box stuffing\...
+
+#### A volcano may keep residents out of an evacuated Iceland town for months
+
+https://apnews.com/article/aaaf815bed6f5314057fba5f9ed4df57
+
+REYKJAVIK, Iceland (AP) --- People in southwest Iceland remained on edge
+Saturday, waiting to see whether a volcano rumbling under the Reykjanes
+Peninsula will erupt. Civil protection authorities said that even if it
+doesn't, it's likely\...
+
+#### Taylor Swift postpones Rio de Janeiro show, citing record heat a day after fan dies during concert
+
+https://apnews.com/article/b69ad355301a7ae6edebd3255c94a167
+
+RIO DE JANEIRO (AP) --- Taylor Swift postponed an Eras Tour concert in
+Rio de Janeiro Saturday after a 23-year-old fan died during her Friday
+night show, according to a message posted on the singer's Instagram.
+"I'm writing this from my\...
+
+#### SpaceX launched its giant new rocket but explosions end the second test flight
+
+https://apnews.com/article/37c0893ddf605270b16a33ae64d69a85
+
+SpaceX launched its mega rocket Starship but lost both the booster and
+the spacecraft in a pair of explosions minutes into Saturday's test
+flight. The rocketship reached space following liftoff from South Texas
+before communication\...
+
+#### Moldova's first dog nips Austrian president on the hand during official visit
+
+https://apnews.com/article/4105031b52b59fb6eb19326e473f03b8
+
+BERLIN (AP) --- Austrian President Alexander van der Bellen had an
+unusual encounter during an official visit to Moldova when the country's
+first dog, a rescue belonging to Moldovan President Maia Sandu, bit him
+on the hand. Video footage\...
+
+#### Sean 'Diddy' Combs and singer Cassie settle lawsuit alleging abuse 1 day after it was filed
+
+https://apnews.com/article/2d2a4c8938eb82c34b62c01a30969554
+
+NEW YORK (AP) --- A lawsuit by singer Cassie containing allegations of
+beatings and abuse by music producer Sean "Diddy" Combs has been
+settled, the artists announced Friday, one day after the lawsuit was
+filed. The settlement was\...
+
+#### Dogs are coming down with an unusual respiratory illness in several US states
+
+https://apnews.com/article/7495daf374ddb8179593b2276248da75
+
+Veterinary laboratories in several states are investigating an unusual
+respiratory illness in dogs, and encouraging people to take basic
+precautions to keep their pets healthy as veterinarians try to pin down
+what's making the animals\...
+
+#### Snoop Dogg says he's giving up 'smoke.' It caught some of his fans off guard
+
+https://apnews.com/article/a7e2b4fc8d09f53e3d7a59b475a9196b
+
+NEW YORK (AP) --- Asking for privacy, hip-hop legend and longtime
+marijuana enthusiast Snoop Dogg says he's going to stop smoking ---
+though he didn't specify exactly what that might mean. "After much
+consideration and conversation with\...
+
+#### One of Napoleon's signature bicorne hats on auction in France could fetch upwards of \$650,000
+
+https://apnews.com/article/f2e27d28718641e61f859481289dee8c
+
+FONTAINEBLEAU, France (AP) --- One of the signature broad, black bicorne
+hats that Napoleon Bonaparte wore when he ruled 19th-century France and
+waged war in Europe is expected to fetch upwards of 600,000 euros
+(\$650,000) at an auction\...
+
+#### Author A.S. Byatt, who wrote best-seller 'Possession' and had a beetle named after her, dies at 87
+
+https://apnews.com/article/bb4f901f7131d3aa338738bbcc79f62b
+
+LONDON (AP) --- British author A.S. Byatt, who wove history, myth and a
+sharp eye for human foibles into books that included the Booker
+Prize-winning novel "Possession," has died at the age of 87. Byatt's
+publisher, Chatto & Windus\...
+
+### Reuters
+
+#### Israel says 55-metre fortified tunnel found under Gaza's Shifa hospital
+
+https://www.reuters.com/world/middle-east/israel-says-55-metre-fortified-tunnel-found-under-gazas-shifa-hospital-2023-11-19/
+
+An opening to a tunnel that, according to Israels military, was used by
+Palestinian militants under Al Shifa hospital in the Gaza Strip as seen
+in this screen grab taken from a handout video released by the Israel
+Defense\...
+
+#### Israel-Hamas hostage deal edges closer despite fierce fighting in Gaza
+
+https://www.reuters.com/world/middle-east/israel-renews-call-gazans-flee-key-southern-city-2023-11-17/
+
+Summary: LATEST DEVELOPMENTS: Gazas government media office says at
+least 13,000 Palestinians killed since start of conflict on Oct. 7,
+including at least 5,500 children Israel should not pursue big offensive
+against\...
+
+#### Argentina votes in nail-biter election with libertarian slight favorite
+
+https://www.reuters.com/world/americas/argentina-readies-vote-likely-presidential-election-thriller-2023-11-19/
+
+Argentine presidential candidate Javier Milei greets people on the day
+of the second round of Argentine presidential election, in Buenos Aires,
+Argentina November 19, 2023. REUTERS/Cristina Sille People gather as
+Argentine presidential\...
+
+#### In southern Mexico, third-gender 'muxe' festival mixes celebration and activism
+
+https://www.reuters.com/world/americas/southern-mexico-third-gender-muxe-festival-mixes-celebration-activism-2023-11-19/
+
+Members of southern Mexicos third-gender muxe community celebrated
+sexual and gender diversity over the weekend, while committing to
+fighting for LGBTQ people in the face of recent\...
+
+#### Congo's Tshisekedi kicks off re-election bid with vow to consolidate achievements
+
+https://www.reuters.com/world/africa/congos-tshisekedi-kicks-off-re-election-bid-with-vow-consolidate-achievements-2023-11-19/
+
+President Felix Tshisekedi, leader of Union for Democracy and Social
+Progress (UDPS) walks with his wife Denise Nyekeru Tshisekedi as he
+arrives during the launch of the first official day of the campaign for
+the presidential election of\...
+
+#### U.N. plastic treaty talks grapple with re-use, recycle, reduce debate
+
+https://www.reuters.com/business/environment/un-plastic-treaty-talks-grapple-with-re-use-recycle-reduce-debate-2023-11-19/
+
+Summary: Greenpeace says not enough progress Two more rounds of talks
+scheduled next year Could also be additional session, participant says
+Plastics industry, oil producers oppose production curbs A boy walks on
+a beach polluted by\...
+
+#### Jailed Russian nationalist Girkin warns of 'sham' presidential election
+
+https://www.reuters.com/world/europe/jailed-russian-nationalist-nominates-himself-president-2023-11-18/
+
+Summary: Girkin wants to run for Russian president Nationalist is in
+jail awaiting trial, denies charges Says election will be a sham with
+result already clear Calls for patriotic forces to unite around him
+Russian nationalist Kremlin\...
+
+#### Italy's transgender women thank pope for making them feel 'more human'
+
+https://www.reuters.com/world/europe/italys-transgender-women-thank-pope-making-them-feel-more-human-2023-11-19/
+
+Carla and Claudia Victoria, transgender women, sit inside the Blessed
+Immaculate Virgin Church in Torvaianica, near Rome, Italy, November 16,
+2023. REUTERS/Antonio Denti Transgender women belonging to the Blessed
+Immaculate Virgin Church\...
+
+#### Gaza hostage deal closer than ever, US official says
+
+https://www.reuters.com/world/middle-east/us-official-urges-israel-protect-civilians-south-gaza-2023-11-19/
+
+Palestinians walk during rainfall, after Israeli forces raided Jenin
+refugee camp in the Israeli-occupied West Bank November 19, 2023.
+REUTERS/Raneen Sawafta A deal to secure the release of some of the
+hostages held in Gaza by Hamas\...
+
+#### France test-fires long-range ballistic missile in bid to boost nuclear deterrence
+
+https://www.reuters.com/business/aerospace-defense/france-test-fires-long-range-ballistic-missile-bid-boost-nuclear-deterrence-2023-11-19/
+
+France has successfully test-fired an M51.3 long-range ballistic
+missile, boosting the credibility of Frances nuclear deterrence
+capabilities, the defence ministry said on Sunday. The missile, which
+did not carry a\...
+
+#### Russia launches drone attack on Kyiv second night in row, Ukraine says
+
+https://www.reuters.com/world/europe/russia-launches-drone-attack-kyiv-2nd-night-row-ukraine-2023-11-19/
+
+An explosion of a drone is seen in the sky over the city during a
+Russian drone strike, amid Russias attack on Ukraine, in Kyiv, Ukraine
+November 19, 2023. REUTERS/Gleb Garanich An explosion of a drone is seen
+in the sky\...
+
+#### Death toll from Philippines earthquake rises to 8
+
+https://www.reuters.com/world/asia-pacific/death-toll-philippines-earthquake-rises-8-2023-11-19/
+
+The death toll from a magnitude 6.7 offshore earthquake in the southern
+Philippines rose to eight, the countrys civil defence said on Sunday.
+Two people missing in a landslide after Fridays quake, which\...
+
+#### Hundreds of Thais to be evacuated from Myanmar via China amid heavy fighting
+
+https://www.reuters.com/world/asia-pacific/hundreds-thais-be-evacuated-myanmar-via-china-amid-heavy-fighting-2023-11-19/
+
+More than two hundred Thai nationals trapped by the surge in fighting in
+northern Myanmar between junta soldiers and armed ethnic-minority groups
+are being evacuated to Thailand via China, the Thai foreign ministry
+said on Sunday. Myanmar\...
+
+### 联合早报
+
+#### 美研究：中国政策性银行正将绿色能源拒之门外
+
+https://www.zaobao.com/news/china/story20231120-1451044
+
+（波士顿讯）美国研究发现，尽管中国曾承诺向发展中国家提供更多绿色和低碳能源项目的资金支持，但其政策性银行尚未实现这一承诺。
+《南华早报》星期天（11月19日）报道，波士顿大学全球发展政策中心研究发现，包括中国进出口银行和中国国家开发银行在内的中国政策性银行，在2021至2022年间并未向能源部门注入资金......
+
+#### 国民党推韩国瑜领军不分区立委 盼柯文哲回心转意任侯友宜副手
+
+https://www.zaobao.com/news/china/story20231119-1451043
+
+台湾在野民众党总统参选人柯文哲星期天（11月19日）在板桥体育馆誓师大会上宣布，他会继续用台湾民众党总统候选人的身份拼战到底。（庄慧良攝）
+台湾在野国民党（蓝）星期天举行临时中常会，通过以高雄市前市长韩国瑜领军的不分区立委名单，希望民众党（白）总统参选人柯文哲回心转意，担任国民党总统参选人侯友宜的副手，也要抢回支持柯文哲和鸿海集团创办人郭台铭的韩粉票源......
+
+#### 合资公司获发清算业务核可证 万事达卡正式进军中国市场
+
+https://www.zaobao.com/news/china/story20231119-1451031
+
+中国央行宣布，已向万事达在中国的合资企业核发银行卡清算业务许可证，标志着"万事达"品牌人民币银行卡将可在中国市场发行。（路透社档案照）
+（北京综合讯）中国央行宣布，已向万事达在中国的合资企业核发银行卡清算业务许可证，标志着"万事达"品牌人民币银行卡将可在中国市场发行......
+
+#### 官媒：中国不再依赖投资刺激经济增长的老路
+
+https://www.zaobao.com/news/china/story20231119-1451016
+
+中国官媒《经济日报》发表评论称，中国经济不能、也不会再走依赖投资刺激增长的老路，而是要将投资重点聚焦于关键领域和薄弱环节，坚持精准有效的投资导向。图为福建省厦门市建设中的楼盘。（中新社档案照）
+中国投资增速持续放缓之际，官媒《经济日报》发表评论称，中国经济不能、也不会再走依赖投资刺激增长的老路，而是要将投资重点聚焦于关键领域和薄弱环节，坚持精准有效的投资导向......
+
+#### 保障融资 中国财政部提前下达明年部分地方债限额
+
+https://www.zaobao.com/news/china/story20231119-1450997
+
+民众在中国金融中心上海外滩上行走和休息。（彭博社）
+（北京综合讯）中国财政部表示，将提前下达2024年度部分新增地方政府债务额度，合理保障地方融资需求......
+
+#### 加媒：在华被捕加拿大人正向加国政府求偿
+
+https://www.zaobao.com/news/china/story20231119-1450993
+
+（渥太华综合讯）加拿大媒体报道，曾在中国被拘捕近三年的加拿大人斯帕弗，正在向加国政府寻求赔偿，声称他被捕是因为无意中向加国政府提供了有关朝鲜的情报。
+加拿大《环球邮报》星期六（11月18日）引述两名消息人士报道，斯帕弗（Michael
+Spavor）称，他向康明凯（Michael
+Kovrig）分享情报，但他并不知道这些信息会被转交给加拿大政府及加国的五眼情报伙伴......
+
+#### 中国人口第一大县安徽临泉关停50所幼儿园
+
+https://www.zaobao.com/news/china/story20231119-1450978
+
+（阜阳综合讯）中国人口第一大县安徽阜阳市临泉县，今年已有50所幼儿园停止办学，占全县民办幼儿园总数近四分之一。
+21世纪经济报道，临泉县教育局今年8月发布当地50所民办幼儿园终止办学公告，包括12所自愿申请终止和38所因无实际招生活动、办学许可证到期的幼儿园。停办数字占2022年全县幼儿园总数11.8%，占全县民办幼儿园的比例为24.5%......
+
+#### 台湾中研院院士吁晶片和平取代晶片战争
+
+https://www.zaobao.com/news/china/story20231119-1450976
+
+台湾中央研究院院士王平呼吁美国以晶片和平取代晶片战争，建议美国取消一些对中国大陆的出口禁令和制裁，换来大陆承诺不攻打台湾，这对陆美台三方是最好的结果。
+也是美国圣路易华盛顿大学讲座教授的王平，11月16日通过视讯参与政治大学的"半导体产业发展与能源转型的挑战与机遇"研讨会时发表上述看法......
+
+#### 中国特稿：中国政策摇摆 外企等待定心丸
+
+https://www.zaobao.com/news/china/story20231119-1450482
+
+美国百事公司今年首次参加在上海举办的进博会，展台前排起等待进场的长队。（新华社）
+多家在中国发展的外国企业接连撤出，外国直接投资总额转负，令中国政府对外开放的承诺遭受质疑。是哪些因素冲击了外资信心？哪类企业最受影响？中国市场对外资还有多大吸引力？
+时隔三年，中国国际进口博览会本月全面恢复线下举办。不过，这场宣示中国对外开放决心的展会，却被几条同期发生的新闻抢了热度......
+
+#### 香港紫荆党吁港府特赦反修例运动中被捕学生
+
+https://www.zaobao.com/news/china/story20231118-1450873
+
+（香港综合讯）由中国大陆"海归派"人士组成的香港紫荆党在港媒发文，呼吁港府特赦在2019年反修例风波中被捕的学生。
+紫荆党星期六（11月18日）在网媒"香港01"论坛栏目发表题为《特赦被捕学生》的文章，作出上述呼吁。
+文章引述媒体报道说，香港目前仍有约6000人在修例风波中被捕后未被起诉。港府公开资料显示，截至2020年3月初，在修例风波中被捕的7700多人中，学生占了40%......
+
+#### 民调误差率谈不拢 蓝白合再卡关 台在野总统候选人悬而未决
+
+https://www.zaobao.com/news/china/story20231118-1450870
+
+民众党主席柯文哲星期六（11月18日）在新庄竞选总部的临时记者会上说，柯侯配的民调支持度都不输侯柯配。（路透社）
+因民调误差范围谈不拢，台湾"蓝白合"再卡关，在野党总统候选人悬而未决。双方都称蓝白合未破局，会继续政党协商，但最终能否合力打选战，再添新变数。
+台湾明年1月13日举行总统大选，候选人必须在下星期五（11月24日）下午5时前登记......
+
+#### 中国前驻日大使孔铉佑：中日也应找到正确相处之道
+
+https://www.zaobao.com/news/china/story20231118-1450852
+
+中国公共外交协会、当代中国与世界研究院和北京对话智库联合举办的"思想亚洲"媒体智库论坛星期六（11月18日）在新加坡举行。（左起）北京对话发起人兼秘书长韩桦，中国前副外长、前驻日大使孔铉佑，中国外文局原副局长、当代中国与世界研究院高级研究员王刚毅，新加坡南洋理工大学拉惹勒南国际问题研究院副教授李明江参加主题论坛......
+
+#### 韩国瑜出任国民党不分区立委提名人
+
+https://www.zaobao.com/news/china/story20231118-1450845
+
+（台北综合讯）台湾在野的国民党拟将高雄市前市长韩国瑜列为该党不分区立委第一名，并委任他担任不分区立委提名人。
+综合台湾《联合报》《自由时报》和中时新闻网报道，国民党星期天（11月19日）将召开中常会通过不分区立委提名名单......
+
+#### 新闻人间：董明珠身旁的"格力男孩"王自如
+
+https://www.zaobao.com/news/china/story20231118-1450706
+
+自带热搜体质的中国家电巨头格力电器董事长董明珠，半年前因网红秘书孟羽童离职而被舆论聚焦，最近又因与另一员工、过气网红王自如捆绑而再次成为话题人物。
+许多年轻网民并不清楚王自如是何许人也，只知道他是一个和老板董明珠闹绯闻需要董明珠亲自澄清、却又因当众拍老板马屁再度陷入舆论漩涡的高级打工人......
+
+#### 温伟中：习拜会背景下的蓝白合
+
+https://www.zaobao.com/news/china/story20231118-1450741
+
+台湾"蓝白合"11月15日成局，（左起）国民党总统候选人侯友宜和民众党主席柯文哲在台湾前总统马英九基金会大门口宣布合作打选战。（路透社）
+就是那么巧，万众瞩目的中美元首"习拜会"，和改变总统选战走势的台湾在野"蓝白合"，都在11月15日同一天的早晨上演了。
+不过，两地时差16小时，习拜会在美国旧金山南郊的费罗丽庄园，蓝白合在台北内湖的马英九文教基金会......
+
+#### 美解除对中国公安部物证鉴定中心制裁
+
+https://www.zaobao.com/news/china/story20231117-1450705
+
+美国商务部星期四（11月16日）公告，已将中国国家毒品实验室所在的中国公安部物证鉴定中心，从出口管制实体清单中移除。（路透社档案照）
+（旧金山/北京综合讯）中美元首在旧金山举行会晤之后，美国宣布解除对中国公安部物证鉴定中心的制裁，以推进两国联手打击芬太尼产销。中国则向全社会发通告，提醒相关企业和个人谨慎销售可制毒物品......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

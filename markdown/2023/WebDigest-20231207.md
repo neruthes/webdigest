@@ -1,0 +1,984 @@
+Other formats: [PDF]() / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20231207.html)
+
+
+# Web Digest 2023-12-07
+
+
+## Developers
+
+### Hacker News
+
+#### Fukuoka court rules ban on dual nationality is constitutional
+
+https://www.japantimes.co.jp/news/2023/12/06/japan/crime-legal/dual-nationality-fukuoka-ruling/
+
+https://news.ycombinator.com/item?id=38549169
+
+#### W3C Leaves Twitter
+
+https://w3c.social/@w3c/111534700276754588
+
+https://news.ycombinator.com/item?id=38547203
+
+#### Gemini AI
+
+https://deepmind.google/technologies/gemini/
+
+https://news.ycombinator.com/item?id=38544729
+
+#### Serbia grants citizenship to Steve Wozniak
+
+https://www.b92.net/eng/news/business.php?yyyy=2023&mm=12&dd=06&nav_id=117200
+
+https://news.ycombinator.com/item?id=38543230
+
+#### Mold Course
+
+https://www.epa.gov/mold/mold-course-introduction
+
+https://news.ycombinator.com/item?id=38543229
+
+#### Governments spying on Apple, Google users through push notifications
+
+https://www.reuters.com/technology/cybersecurity/governments-spying-apple-google-users-through-push-notifications-us-senator-2023-12-06/
+
+https://news.ycombinator.com/item?id=38543155
+
+#### Norway Joins Denmark in Swedish Tesla Strike/Blockade
+
+[[https://www.svt.se/nyheter/utrikes/aven-norge-dras-in-i-teslastrejken--3vcx0b](https://www.svt.se/nyheter/utrikes/aven-norge-dras-in-i-teslastrejken--3vcx0b)]
+
+https://news.ycombinator.com/item?id=38542892
+
+#### Rethinking serverless with FLAME
+
+https://fly.io/blog/rethinking-serverless-with-flame/
+
+https://news.ycombinator.com/item?id=38542764
+
+#### An Open Letter to the Python Software Foundation
+
+https://pythonafrica.blogspot.com/2023/12/an-open-letter-to-python-software_5.html
+
+https://news.ycombinator.com/item?id=38542330
+
+#### Largest tokamak fusion reactor powers up
+
+https://newatlas.com/energy/worlds-largest-tokamak-fusion-reactor-powers-up/
+
+https://news.ycombinator.com/item?id=38541451
+
+#### Microsoft Outlook Blocking All Email from Tutanota.com Domain as Spam
+
+https://tuta.com/blog/posts/outlook-falsely-marks-tutanota-emails-as-junk
+
+https://news.ycombinator.com/item?id=38541355
+
+#### Why is Jepsen written in Clojure?
+
+https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure
+
+https://news.ycombinator.com/item?id=38540761
+
+#### JSONB has landed
+
+https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97
+
+https://news.ycombinator.com/item?id=38540421
+
+#### An update on Twitch in Korea
+
+https://blog.twitch.tv/en/2023/12/05/an-update-on-twitch-in-korea/
+
+https://news.ycombinator.com/item?id=38539167
+
+#### Thermoelectric heating stands at the brink of commercialization
+
+https://spectrum.ieee.org/thermoelectric-heating
+
+https://news.ycombinator.com/item?id=38538886
+
+#### Does uBlock Origin bypass the latest YouTube anti-adblock script?
+
+https://drhyperion451.github.io/does-uBO-bypass-yt/
+
+https://news.ycombinator.com/item?id=38538236
+
+#### Playstation is erasing seasons of Discovery shows from customer libraries
+
+https://arstechnica.com/gadgets/2023/12/playstation-is-erasing-1318-seasons-of-discovery-shows-from-customer-libraries/
+
+https://news.ycombinator.com/item?id=38538162
+
+#### Virtual Machine as a core Android Primitive
+
+https://android-developers.googleblog.com/2023/12/virtual-machines-as-core-android-primitive.html
+
+https://news.ycombinator.com/item?id=38538100
+
+#### Report: YouTube adding user-traceable ID tag to links shared off-platform
+
+https://twitter.com/OldRowSwig/status/1732112446943269347?s=20
+
+https://news.ycombinator.com/item?id=38537977
+
+#### Show HN: Dropbase -- Build internal web apps with just Python
+
+https://github.com/DropbaseHQ/dropbase
+
+https://news.ycombinator.com/item?id=38534920
+
+### Phoronix
+
+#### systemd 255 Released With A \"Blue Screen of Death\" For Linux Systems
+
+https://www.phoronix.com/news/systemd-255
+
+#### AMD Announces The Ryzen 8040 Series Mobile Processors With Better Ryzen AI
+
+https://www.phoronix.com/review/amd-ryzen-8040-ryzen-ai
+
+#### AMD Details The MI300X & MI300A, Announces ROCm 6.0 Software
+
+https://www.phoronix.com/review/amd-instinct-mi300-rocm6
+
+#### Feral's GameMode 1.8 Adds CPU Core Pinning & Parking
+
+https://www.phoronix.com/news/Feral-GameMode-1.8-Released
+
+#### Cloudflare Talks Up Its Success In Using OpenBMC
+
+https://www.phoronix.com/news/Cloudflare-Loves-OpenBMC
+
+#### Fedora 40 Eyes The Ability To Boot Unified Kernel Images Directly
+
+https://www.phoronix.com/news/Fedora-40-Boot-UKIs-Directly
+
+#### Austrian Game Studio Now Sponsoring Krita Development
+
+https://www.phoronix.com/news/Broken-Rules-Krita
+
+#### More AMD GFX12 Additions Land In LLVM Git For RDNA4 GPUs
+
+https://www.phoronix.com/news/AMDGPU-LLVM-More-GFX12
+
+#### AlmaLinux's ELevate Begins Handling EPEL Repositories
+
+https://www.phoronix.com/news/AlmaLinux-ELevate-EPEL
+
+### GitHub
+
+#### microsoft/PowerToys
+
+https://github.com/microsoft/PowerToys
+
+Windows system utilities to maximize productivity\
+Language: C#\
+Stars: 99219\
+Forks: 5872
+
+#### trekhleb/javascript-algorithms
+
+https://github.com/trekhleb/javascript-algorithms
+
+📝 Algorithms and data structures implemented in JavaScript with
+explanations and links to further readings\
+Language: JavaScript\
+Stars: 177872\
+Forks: 29301
+
+#### krahets/hello-algo
+
+https://github.com/krahets/hello-algo
+
+《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++,
+Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。\
+Language: Java\
+Stars: 53007\
+Forks: 6380
+
+#### ExpLangcn/NucleiTP
+
+https://github.com/ExpLangcn/NucleiTP
+
+自动整合全网Nuclei的漏洞POC，实时同步更新最新POC！\
+Language: Unknown\
+Stars: 1458\
+Forks: 234
+
+#### awesome-selfhosted/awesome-selfhosted
+
+https://github.com/awesome-selfhosted/awesome-selfhosted
+
+A list of Free Software network services and web applications which can
+be hosted on your own servers\
+Language: Unknown\
+Stars: 158961\
+Forks: 8644
+
+#### nodejs/node
+
+https://github.com/nodejs/node
+
+Node.js JavaScript runtime ✨🐢🚀✨\
+Language: JavaScript\
+Stars: 100407\
+Forks: 27850
+
+### Dribbble
+
+#### Angry Bull is Watching You
+
+https://dribbble.com/shots/23194938
+
+#### Milks
+
+https://dribbble.com/shots/23194315
+
+#### Marketing Page
+
+https://dribbble.com/shots/23193585
+
+#### Glyph Beer 13
+
+https://dribbble.com/shots/23191740
+
+#### Booker UI-UX
+
+https://dribbble.com/shots/23196599
+
+#### Walkman icon
+
+https://dribbble.com/shots/23195689
+
+#### Hippo Logo
+
+https://dribbble.com/shots/23194048
+
+#### Jobsity Illustration
+
+https://dribbble.com/shots/22760017
+
+#### \"Winter Elemental\", Open edition, Winter 2023, NFT.
+
+https://dribbble.com/shots/23197729
+
+#### Video Sharing Platform
+
+https://dribbble.com/shots/23178378
+
+#### Sweetheart
+
+https://dribbble.com/shots/23192918
+
+#### Vision
+
+https://dribbble.com/shots/23194951
+
+#### Driftaway Wordmark Logo Lettering exploration
+
+https://dribbble.com/shots/23190139
+
+#### つづく
+
+https://dribbble.com/shots/23191053
+
+#### meal
+
+https://dribbble.com/shots/23191195
+
+#### The Nutcracker - Wordmark
+
+https://dribbble.com/shots/23190172
+
+#### Proven Website Design
+
+https://dribbble.com/shots/23140439
+
+#### Hero Page With Animation
+
+https://dribbble.com/shots/23189534
+
+#### Advocacy Through Walls Web Design
+
+https://dribbble.com/shots/23189587
+
+#### Chocolate 7-Pot
+
+https://dribbble.com/shots/23182112
+
+#### P-Con Final
+
+https://dribbble.com/shots/23190672
+
+#### Dashlane - Passwords
+
+https://dribbble.com/shots/23191025
+
+#### Fishing Club - Badge
+
+https://dribbble.com/shots/23186995
+
+#### Willie's Wall Cleaner Service
+
+https://dribbble.com/shots/23024245
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### 新理论尝试统一广义相对论和量子力学
+
+https://www.solidot.org/story?sid=76819
+
+#### Meta 和 IBM 推动 AI 开源
+
+https://www.solidot.org/story?sid=76818
+
+#### 研究发现租房对衰老的影响大于抽烟和肥胖
+
+https://www.solidot.org/story?sid=76817
+
+#### 维基百科上的有毒评论与编辑活动下降相关联
+
+https://www.solidot.org/story?sid=76816
+
+#### 全球教育评估中美国学生数学得分下降
+
+https://www.solidot.org/story?sid=76815
+
+#### 中国科学家在城市微观气象预报上取得突破
+
+https://www.solidot.org/story?sid=76814
+
+#### 印度月球探测器推进模块返回地球轨道
+
+https://www.solidot.org/story?sid=76813
+
+#### 帽带企鹅每天打盹数千次但每次只持续数秒
+
+https://www.solidot.org/story?sid=76812
+
+#### ChatGPT 是维基百科 2023 年浏览量最高的条目
+
+https://www.solidot.org/story?sid=76811
+
+#### Windows 10 将向个人用户提供额外的三年付费支持
+
+https://www.solidot.org/story?sid=76810
+
+#### 拼多多重塑中国电商格局
+
+https://www.solidot.org/story?sid=76809
+
+#### 随着 Firefox 份额越来越低网站兼容性问题将会愈发突出
+
+https://www.solidot.org/story?sid=76808
+
+#### OpenAI 限制 ChatGPT 一直重复单词
+
+https://www.solidot.org/story?sid=76807
+
+#### 惠普高管称锁定打印机客户带来了更多收入
+
+https://www.solidot.org/story?sid=76806
+
+#### 英国 Sellafield 核设施曾遭黑客组织入侵
+
+https://www.solidot.org/story?sid=76805
+
+#### 美国政府官员警告英伟达不要设计中国特供版芯片
+
+https://www.solidot.org/story?sid=76804
+
+#### 23andMe 证实黑客窃取了 690 万用户的家族遗传史数据
+
+https://www.solidot.org/story?sid=76803
+
+#### Windows 更新 bug 将所有人的打印机都重命名为 HP M101-M106
+
+https://www.solidot.org/story?sid=76802
+
+#### 故意坠毁飞机的 YouTube 主播因妨碍调查被判 6 个月
+
+https://www.solidot.org/story?sid=76801
+
+#### Django 5.0 释出
+
+https://www.solidot.org/story?sid=76800
+
+### V2EX
+
+#### \[随想\] 人生没有一帆风顺，总是频频遇到错误的
+
+https://www.v2ex.com/t/998228
+
+#### \[Google\] Bard 在集成 Gemini 之后，实际用起来怎么样？官方宣称全面超越 GPT4
+
+https://www.v2ex.com/t/998226
+
+#### \[Android\] 求大佬推荐手机
+
+https://www.v2ex.com/t/998224
+
+#### \[分享创造\] 哈利路亚输入法（HallelujahIM）的 Linux 移植
+
+https://www.v2ex.com/t/998223
+
+#### \[MacBook Pro\] Intel 芯片的 Mac 是真不行了，求机型推荐
+
+https://www.v2ex.com/t/998222
+
+#### \[求职\] \[长沙\] java10 年老兵求职
+
+https://www.v2ex.com/t/998221
+
+#### \[生活\] 薅羊毛不成反被薅，记录一次被骗的经历（有能力的 v 友可以搞点事情，造福大众）
+
+https://www.v2ex.com/t/998220
+
+#### \[Apple\] 仅支持 Homekit 的摄像头，有没有办法支持本地 NVR，把视频存在本地？
+
+https://www.v2ex.com/t/998219
+
+#### \[Android\] pdd 可以绕过读取手机的拨打电话和管理通话吗
+
+https://www.v2ex.com/t/998218
+
+#### \[生活\] 帮忙带娃期间跟丈母娘产生了直接冲突
+
+https://www.v2ex.com/t/998217
+
+#### \[问与答\] 关于防卫若干问题
+
+https://www.v2ex.com/t/998216
+
+#### \[程序员\] 遇到一个非常奇怪的问题， ping 域名稳定延迟 9 秒出现 ping 结果
+
+https://www.v2ex.com/t/998215
+
+#### \[问与答\] "推特"最后一个竖型排列的是哪个版本？
+
+https://www.v2ex.com/t/998214
+
+#### \[问与答\] 我这 MBP 掉电正常吗？
+
+https://www.v2ex.com/t/998211
+
+#### \[生活\] 眼药水开封 15 天后就不能用了可信吗？
+
+https://www.v2ex.com/t/998210
+
+#### \[奇思妙想\] 有没有类似 chatExcel 之类的东西
+
+https://www.v2ex.com/t/998208
+
+#### \[问与答\] 手机端浏览器只有 edge 无法访问谷歌
+
+https://www.v2ex.com/t/998207
+
+#### \[Apple\] 官网 479 买了 finewoven 手机壳感觉是智商税\...
+
+https://www.v2ex.com/t/998206
+
+#### \[程序员\] 大佬们，有什么好用的开源思维导图啊！
+
+https://www.v2ex.com/t/998205
+
+#### \[汽车\] 有没有人客观评论一下迈腾 380 和迈腾 GTE
+
+https://www.v2ex.com/t/998204
+
+#### \[程序员\] 腾讯云 COS 建议大家别用了 URL Query 都能搞成违规
+
+https://www.v2ex.com/t/998203
+
+#### \[优惠信息\] Adguard 新一轮促销家庭版 16 刀
+
+https://www.v2ex.com/t/998202
+
+#### \[职场话题\] 想找个 Java 实习，求大家帮忙看看简历
+
+https://www.v2ex.com/t/998201
+
+#### \[酷工作\] 招募前端开发工程师
+
+https://www.v2ex.com/t/998200
+
+#### \[问与答\] 感觉这颗心快坏掉了 有时不由自主感到惶恐 该如何修心呢
+
+https://www.v2ex.com/t/998199
+
+#### \[V2EX\] 24 年软考备考 \[绝对免费资料\]
+
+https://www.v2ex.com/t/998198
+
+#### \[VPS\] 175.137.113.85 这个 ip 的 vps 哪里可以买的到，多少钱？
+
+https://www.v2ex.com/t/998197
+
+#### \[OpenWrt\] 现有个 OpenWrt 路由器，可以在它下游接个 AP 实现组网吗
+
+https://www.v2ex.com/t/998196
+
+#### \[Python\] Python 缺少一个类似 Spring Boot 的通用应用程序框架？
+
+https://www.v2ex.com/t/998195
+
+#### \[问与答\] 有 直接翻译电影声音的工具吗
+
+https://www.v2ex.com/t/998194
+
+#### \[问与答\] 想写个 localsend 该如何起手？
+
+https://www.v2ex.com/t/998193
+
+#### \[程序员\] 求推荐一个 PC 端工具订阅收费类型的 vue 开源项目
+
+https://www.v2ex.com/t/998192
+
+#### \[问与答\] 以前的投影仪，非智能电视是什么系统？
+
+https://www.v2ex.com/t/998191
+
+#### \[Apple\] iPhone 13P 更换\"移植电芯\"和\"超容电池\"🔋体验
+
+https://www.v2ex.com/t/998190
+
+#### \[OpenAI\] 某音有人发了个问 gpt 新闻实事的视频
+
+https://www.v2ex.com/t/998188
+
+#### \[数据库\] mysql 其中一个数据库迁移到另一个 mysql
+
+https://www.v2ex.com/t/998186
+
+#### \[Chrome\] chrome 119 为什么有的看起来有点不一样？
+
+https://www.v2ex.com/t/998185
+
+#### \[问与答\] Microsoft 365 E5 开发者账号最近（2023 年 11 月起）无法顺利续期
+
+https://www.v2ex.com/t/998184
+
+#### \[推广\] 老铁们，有做中药保健品养生的吗？原产地黄芪寻找代理商
+
+https://www.v2ex.com/t/998183
+
+#### \[问与答\] 求问，有没有不需要安装百度网盘客户端就实现下载大文件的办法。
+
+https://www.v2ex.com/t/998181
+
+#### \[问与答\] 我这个 py 包 py4j 是不是不太对，\_\_inti\_\_.py 里面只有几行代码？
+
+https://www.v2ex.com/t/998180
+
+#### \[问与答\] 无意间发现家里的极路由竟然可以获取 root 权限，是不是挺危险的？
+
+https://www.v2ex.com/t/998178
+
+#### \[问与答\] 不用 edge 的话真的就无法体验 full bing 吗?
+
+https://www.v2ex.com/t/998177
+
+#### \[iPhone\] 谁有 iOS16、17 的 iPhone 12、13、14 系列，帮忙验证下 Siri。
+
+https://www.v2ex.com/t/998176
+
+#### \[程序员\] 今天怼了所谓的自考本科论文指导老师
+
+https://www.v2ex.com/t/998175
+
+#### \[分享发现\] 避雷『网易严选 Pro 年卡』
+
+https://www.v2ex.com/t/998172
+
+#### \[问与答\] 有哪些工具可以实现同时连接多个 modbus tcp 设备、轮询数据、数据容易和 Python 或者 PHP 对接？
+
+https://www.v2ex.com/t/998171
+
+#### \[分享创造\] Magic Animate 第一个版本网站上线了，目前还没有 4090 显卡部署，但是可以在线体验了
+
+https://www.v2ex.com/t/998170
+
+#### \[分享发现\] 没有国外的手机号，如何注册 tg
+
+https://www.v2ex.com/t/998167
+
+#### \[小米\] 小爱智能输入法怎么下线了
+
+https://www.v2ex.com/t/998166
+
+## Generic News
+
+### AP News
+
+#### Lawsuit accuses Sean Combs, 2 others of raping 17-year-old girl in 2003; Combs denies allegations
+
+https://apnews.com/article/53e664171385e8704a9c4135262b888a
+
+NEW YORK (AP) --- A woman sued the hip-hop mogul Sean "Diddy" Combs on
+Wednesday, claiming he and two other men raped her 20 years ago in a New
+York City recording studio when she was 17. The woman, whose name wasn't
+disclosed in the\...
+
+#### 52 sea turtles experiencing 'cold stun' in New England flown to rehab in Florida
+
+https://apnews.com/article/dd3927953123b610edf7f4329c634f4f
+
+CLEARWATER, Fla. (AP) --- Fifty-two endangered Kemp's ridley sea turtles
+suffering from "cold stun" are rehabbing at four facilities in Florida
+after a flight on a private plane from the New England Aquarium in
+Massachusetts. The\...
+
+#### 2 bodies found in creeks as atmospheric river drops record-breaking rain in Pacific Northwest
+
+https://apnews.com/article/17d983781b3b1516265c82bcc2dddd5b
+
+PORTLAND, Ore. (AP) --- Authorities in Oregon were investigating the
+deaths of two people whose bodies were found in creeks this week as an
+atmospheric river brought heavy rain, flooding and unseasonably warm
+temperatures to the Pacific\...
+
+#### Bills GM says edge rusher Von Miller to practice and play while facing domestic violence charge
+
+https://apnews.com/article/d9a009a8cb1b23819477a0d5b4bfedaa
+
+ORCHARD PARK, N.Y. (AP) --- Though disappointed in the allegations of
+domestic violence made against Von Miller, Buffalo Bills general manager
+Brandon Beane stressed on Wednesday that he wants the legal process to
+play out and not rush to\...
+
+#### McDonald's testing new CosMc's chain amid unprecedented global expansion
+
+https://apnews.com/article/617fb9859fc67e3a8ab4c1440f0ce434
+
+McDonald's is testing a new restaurant format with customizable drinks
+and treats designed to appeal to afternoon snackers --- and grab sales
+from competitors like Starbucks and Dunkin'. The company said Wednesday
+it will open 10 CosMc's\...
+
+#### Taylor Swift is named Time magazine's person of the year
+
+https://apnews.com/article/6c8ce1275db4cc326fe6ac94ea20bace
+
+NEW YORK (AP) --- Is the year of Taylor Swift over now? Not yet. Time
+magazine named Swift its person of the year on Wednesday, a week after
+Spotify announced she was the most-played artist on the streaming
+platform. Swift was picked from\...
+
+#### When is St. Nicholas Day? And how did this Christian saint inspire the Santa Claus legend?
+
+https://apnews.com/article/fe4aa5607763558f48171b44036b806d
+
+NEW YORK (AP) --- The white-bearded Christian saint whose acts of
+generosity inspired America's secular Santa Claus figure is known
+worldwide --- but Saint Nicholas' origin story is not. The legends
+surrounding jolly old St. Nicholas\...
+
+#### A young nurse suffered cardiac arrest while training on the condition. Fellow nurses saved her life
+
+https://apnews.com/article/644e02d0491fa3e9a95dcbb65769b3aa
+
+CONCORD, N.H. (AP) --- Andy Hoang eagerly began her first nursing job
+this year in New Hampshire, with a desire to specialize in cardiac care.
+She was excited about attending a November practice session on how to
+respond to someone in\...
+
+#### From Barbie's unexpected wisdom to dissent among Kennedys, these are the top quotes of 2023
+
+https://apnews.com/article/33f2e941b3c719b885284ed441ff85a7
+
+HARTFORD, Conn. (AP) --- From dissent within the Kennedy family to the
+unexpected wisdom of Barbie, Yale's 2023 list of notable quotations have
+something for just about everyone. This year's list is topped by Robert
+F. Kennedy Jr\...
+
+#### 4 more members of K-pop supergroup BTS to begin mandatory South Korean military service
+
+https://apnews.com/article/36674ad16a37fc64d76c5b2aae043fad
+
+SEOUL, South Korea (AP) --- Four more members of the K-pop supergroup
+BTS are to begin their mandatory South Korean military duties soon,
+their management agency said. Big Hit Music said in a statement Tuesday
+that the enlistments are "\...
+
+#### Actors vote to approve deal that ended strike, bringing relief to union leaders and Hollywood
+
+https://apnews.com/article/a7a529acaf6b5b38aac93722db54c193
+
+LOS ANGELES (AP) --- Hollywood's actors have voted to ratify the deal
+with studios that ended their strike after nearly four months, bringing
+an official finish to the labor strife that shook the entertainment
+industry for most of 2023\...
+
+#### A pregnant Texas woman is asking a court to let her have an abortion under exceptions to state's ban
+
+https://apnews.com/article/dc5f97fdccf801f572bb5acffac3ad45
+
+AUSTIN, Texas (AP) --- A pregnant Texas woman whose fetus has a fatal
+diagnosis asked a court Tuesday to let her have an abortion, bringing
+what her attorneys say is the first lawsuit of its kind in the U.S.
+since Roe v. Wade was\...
+
+#### Shohei Ohtani met with the Dodgers in LA for 2-3 hours, manager Dave Roberts says
+
+https://apnews.com/article/3e7b3f092628402bd65503ea9aa41450
+
+NASHVILLE, Tenn. (AP) --- Shohei Ohtani met with the Los Angeles Dodgers
+a few days ago at Dodger Stadium, manager Dave Roberts revealed Tuesday
+at the winter meetings. The two-way star is expected to command a record
+contract of \$500\...
+
+### Reuters
+
+#### Barbados PM Mottley calls for slavery reparation conversations
+
+https://www.reuters.com/world/americas/barbados-pm-mottley-calls-slavery-reparation-conversations-2023-12-06/
+
+Barbados Prime Minister Mia Amor Mottley speaks at a press conference at
+COP28 World Climate Summit, in Dubai United Arab Emirates, December 4,
+2023. REUTERS/Thomas Mukoya/File Photo Barbados Prime Minister Mia
+Mottley\...
+
+#### Honduras secures \$607 mln dev bank loan to improve highways
+
+https://www.reuters.com/world/americas/honduras-secures-607-mln-dev-bank-loan-improve-highways-2023-12-06/
+
+A Central American development bank said on Wednesday it had approved a
+\$606.9 million loan for Honduras, aimed at boosting transportation
+throughout the Central American country. The loan will fund a government
+program aimed at\...
+
+#### Explainer: What is the border dispute between Venezuela and Guyana?
+
+https://www.reuters.com/world/americas/what-is-border-dispute-between-venezuela-guyana-2023-12-06/
+
+Venezuelas President Nicolas Maduro addresses the media after voting in
+an electoral referendum over Venezuelas rights to the potentially
+oil-rich region of Esequiba, which has long been the subject of a\...
+
+#### Mexico's military-run commercial airline to launch with military planes
+
+https://www.reuters.com/business/aerospace-defense/mexicos-military-run-commercial-airline-launch-with-military-planes-2023-12-06/
+
+Mexicos newest commercial airline, due to be run by the military, is set
+to launch later this month using military aircraft after a deal to lease
+planes fell through, local media reported on Wednesday. The airline,
+which\...
+
+#### Ukraine defense minister visits Pentagon amid questions about future of aid
+
+https://www.reuters.com/world/ukraine-defense-minister-visits-pentagon-amid-questions-about-future-aid-2023-12-06/
+
+Ukraines Defence Minister Rustem Umerov attends a joint news conference
+with German Defence Minister Boris Pistorius, amid Russias attack on
+Ukraine, in Kyiv, Ukraine November 21, 2023. REUTERS/Gleb\...
+
+#### Las Vegas police say suspect dead after reports of university shooting
+
+https://www.reuters.com/world/us/las-vegas-police-say-reports-active-shooter-university-multiple-victims-2023-12-06/
+
+People leave campus with raised hands following reports of a shooting at
+the University of Nevada, in the campus of Las Vegas, U.S., December 6,
+2023, in this screen grab taken from a handout video. Video obtained by
+Reuters Law\...
+
+#### Venezuela issues arrest warrants for opposition staffers for treason
+
+https://www.reuters.com/world/americas/venezuela-issues-arrest-warrants-opposition-staffers-treason-2023-12-06/
+
+Venezuelas attorney general on Wednesday said there are arrest warrants
+for three people involved in the campaign of opposition presidential
+nominee Maria Corina Machado, for crimes including treason. A lawyer for
+Machado\...
+
+#### US monitoring reports of Chinese warships at Cambodian base
+
+https://www.reuters.com/world/asia-pacific/us-monitoring-reports-chinese-warships-cambodian-base-2023-12-06/
+
+A sailor stands guard at the Cambodian Ream Naval Base in Sihanoukville,
+Cambodia, July 26, 2019. REUTERS/Samrang Pring/File Photo Sailors stand
+guard near petrol boats at the Cambodian Ream Naval Base in
+Sihanoukville, Cambodia, July 26\...
+
+#### US declares warring parties in Sudan committed war crimes
+
+https://www.reuters.com/world/africa/us-declares-warring-parties-sudan-committed-war-crimes-2023-12-06/
+
+A general view of refugee tents in the Metche Sudanese refugee camp,
+Chad, November 9, 2023. REUTERS/El Tayeb Siddig/File Photo Families stop
+to register with international relief agencies at the border crossing in
+Adre, Chad after\...
+
+#### UK immigration minister Robert Jenrick resigns over new Rwanda asylum law
+
+https://www.reuters.com/world/uk/uk-immigration-minister-robert-jenrick-has-resigned-sun-sunday-political-editor-2023-12-06/
+
+British Minister of State for Immigration Robert Jenrick walks on
+Downing Street on the day of a cabinet meeting, in London, Britain
+September 5, 2023 REUTERS/Peter Nicholls/File Photo Britains immigration
+minister Robert\...
+
+#### Child poverty levels in the UK worst among world's richest nations, UNICEF report finds
+
+https://www.reuters.com/world/uk/child-poverty-levels-uk-worst-among-worlds-richest-nations-unicef-report-finds-2023-12-06/
+
+A view shows signage on the exterior of UNICEFs humanitarian warehouse
+in Copenhagen, Denmark, November 15, 2023. REUTERS/ Tom Little/File
+Photo A tent is placed on the street in London, Britain November 6,
+2023. REUTERS/\...
+
+#### Russia's Putin meets Saudi crown prince in whirlwind Gulf visit
+
+https://www.reuters.com/world/middle-east/putin-talk-oil-uae-saudi-meet-crown-prince-mohammed-bin-salman-2023-12-06/
+
+Summary: Putin arrives in Riyadh to meet MbS Meeting in Moscow had been
+postponed amid oil producer split Putin met Sheikh Mohammed Bin Zayed Al
+Nahyan in UAE Oil, OPEC+, Gaza, Ukraine on agenda of rare foreign trip
+Putin to host Iranian\...
+
+#### US reviewing Amnesty International report that said US-made munitions have killed civilians in Gaza
+
+https://www.reuters.com/world/us-reviewing-amnesty-international-report-that-said-us-made-munitions-have-2023-12-06/
+
+Smoke rises over northern Gaza following Israeli air strikes, after a
+temporary truce between Israel and the Palestinian Islamist group Hamas
+expired, as seen from Israels border with Gaza in southern Israel,
+December 1\...
+
+### 联合早报
+
+#### 侧记：黄循财首次以总理接班人之姿率团访华
+
+https://www.zaobao.com/news/china/story20231207-1454627
+
+副总理兼财政部长黄循财（前排右二）12月6日在人民大会堂与中国总理李强（前排右一）会晤，参加会见的新加坡政要包括（前排右三起）贸工部长颜金勇、教育部长陈振声、国家发展部长李智陞、交通部代部长兼财政部高级政务部长徐芳达、交通部兼永续发展与环境部高级政务部长许连碹博士、国家发展部兼外交部高级政务部长沈颖；以及（后排右起）贸工部兼文化、社区及青年部政务部长刘燕玲，卫生部兼律政部高级政务次长拉哈尤玛赞......
+
+#### 萧美琴被指"战猫外交"背后是卑躬屈膝 台外交部：在野党扭曲台美关系
+
+https://www.zaobao.com/news/china/story20231206-1454620
+
+台湾在野国民党立委候选人星期三（12月6日）揭露一份台美谈判密件，指时任驻美代表的民进党副总统候选人萧美琴，去年4月便知台湾同意开放美国莱克多巴胺猪肉和日本福岛五县市食品的政治代价，仍无法被美国纳入印太经济框架（IPEF）的事实，政府吹嘘萧美琴的"战猫外交"，背地里却是卑躬屈膝......
+
+#### 中国部分地方健康码重新上线 受访民众不认为官方会收紧防疫
+
+https://www.zaobao.com/news/china/story20231206-1454608
+
+《联合早报》记者星期三（12月6日）登陆"天府健康通"，发现四川的健康码已重新上线。（手机截图）
+中国今年入冬以来呼吸道感染患者持续增多，医院儿科就诊量居高不下，广东、四川等地近期重现健康码，引发部分民众担忧严格防疫措施时隔一年卷土重来。
+但有迹象显示，重新上线的健康码并未投入使用，有分析相信官方不会在经济不佳之际收紧防疫，以免引起民众反弹......
+
+#### 全球首座第四代核电站在山东投入商业运行
+
+https://www.zaobao.com/news/china/story20231206-1454549
+
+华能石岛湾高温气冷堆核电站正式投入商业运行。图为摄于2016年的华能石岛湾高温气冷堆示范工程首台反应堆压力容器吊装。（新华社）
+（北京新华电）全球首座第四代核电站：位于山东省荣成市的华能石岛湾高温气冷堆核电站正式投入商业运行......
+
+#### 港反修例中枪抗争者：参加更生计划后 学会避免被人煽动
+
+https://www.zaobao.com/news/china/story20231206-1454539
+
+曾参与香港反修例抗争而中枪的曾志健，在香港无线电视推出的国安法资讯节目《有法安国》中现身说法但未露脸。（香港警察脸书截图）
+（香港综合讯）曾在反修例抗争期间中枪被捕的香港青年在国安法节目上说，他参加了更生计划，并从中学会如何管理情绪，"避免被人煽动和唆摆"。
+香港警方星期二（12月5日）在脸书发布一段时长两分钟的视频，同时介绍该视频源自香港无线电视11月底开播的国安法资讯节目《有法安国》......
+
+#### 美海军巡逻机飞越台海 中国大陆战机跟监警戒
+
+https://www.zaobao.com/news/china/story20231206-1454537
+
+（北京/台北综合讯）美国海军一架巡逻机星期三（12月6日）飞越台湾海峡，中国大陆解放军东部战区称已组织战机跟监警戒。
+据路透社报道，美国海军第七舰队星期三发布声明称，P-8A海神海上巡逻侦察机在国际空域飞越了台海。P-8A是美军长程反潜机，能执行海上巡逻、侦察与反潜任务。
+声明称，此举表明了美国对自由开放的印太地区的承诺。"美国军队在国际法允许的任何地方飞行、航行和行动......
+
+#### 王纬温：中美两军不沟通 南中国海紧张难管控
+
+https://www.zaobao.com/news/china/story20231206-1454386
+
+中美元首11月15日在旧金山会晤，宣布重启两军高层沟通会议机制，但这项标志性成果，三周以来迟迟未落实。近期持续升级的南中国海紧张局势，本周则再度冲击中美关系。在菲律宾12月3日称逾135艘中国民兵船现踪菲国海域后，美国隔天派军舰驶入中菲有主权争议的仁爱礁（菲称阿云津礁）邻近海域，是小马可斯政府上台近一年半来首次，介入姿态明显上升......
+
+#### "赖萧配"支持度明显领先 柯文哲：民调没有造假但可操纵
+
+https://www.zaobao.com/news/china/story20231205-1454382
+
+"蓝白合"破局后，相关民调显示，台湾执政的民进党总统候选人赖清德和副总统候选人萧美琴的民调明显领先，最大在野党国民党（蓝）总统候选人侯友宜和副总统候选人赵少康居次，而另一在野党民众党（白）总统候选人柯文哲和副总统候选人吴欣盈已见败象......
+
+#### 早知：民调的真伪奥秘
+
+https://www.zaobao.com/news/china/story20231205-1454378
+
+台湾政治民调的真实性如何确定？ 每份民调有不同的调查方式，
+结果会有很大的差别，看一份民调数据，最好审视该民调的原始资料，包括它的抽样方法、样本数、如何加权，访谈题目顺序，以及交叉分析等资料，从中可检验数据的合理性。
+拒绝公开上述背景资料的民调必须存疑，台湾选举期间常冒出名不见经传的单位做的民调，得格外留意......
+
+#### 分析：周庭弃保流亡 可能令香港23条立法"加辣"
+
+https://www.zaobao.com/news/china/story20231205-1454359
+
+周庭2017年6月4日在香港街头演说的情景。（法新社档案照片）
+涉嫌违反国安法被捕的前"香港众志"副秘书长周庭，保释期间获准离港赴加拿大读书，但在日前突然宣布弃保流亡加国，引起香港社会和多国关注。有分析认为，这次事件影响深远，可能会令当局明年就《基本法》23条立法时"加辣"......
+
+#### 涉违反中国宗教事务条例 喜茶"佛喜"茶拿铁下架
+
+https://www.zaobao.com/news/china/story20231205-1454339
+
+自2017年新茶饮市场出现"联名"概念以来，喜茶推出了超过百款跨界联名产品。图为已下架的"佛喜"茶拿铁。（互联网）
+（上海／深圳综合讯）中国著名茶饮品牌喜茶与景德镇中国陶瓷博物馆近日联名推出一款以佛教为主题的茶拿铁"佛喜"，因涉嫌违反宗教法规，在上市不到一周后即被下架......
+
+#### 民进党前主席施明德病危
+
+https://www.zaobao.com/news/china/story20231205-1454316
+
+82岁的施明德出生于台湾高雄，是推动台湾民主的"美丽岛事件"主要领导人物。（施明德脸书）
+（台北综合讯）台湾资深媒体人陈文茜透露，82岁的民进党前主席施明德因肝癌复发，住进加护病房，性命垂危。
+陈文茜在星期一（12月4日）播出的政论节目《TVBS战情室》上，谈到民进党副总统候选人萧美琴是美籍还是"中华民国国籍"的争议时感叹，台湾当前政治环境一党独大，中选会根本不是独立机关，执政党说了算......
+
+#### 中国发布自动驾驶汽车运输安全服务试行指南
+
+https://www.zaobao.com/news/china/story20231205-1454298
+
+中国星期二发布了自动驾驶汽车运输安全服务试行指南。图为百度推出的阿波罗自动驾驶出租车服务。（路透社）
+（北京综合讯）中国发布自动驾驶汽车运输安全服务试行指南，要求从事城市公共汽电车客运和道路旅客运输经营的自动驾驶汽车，随车配备一名驾驶员或运行安全保障人员。
+中国交通运输部星期二（12月5日）在官网发布上述指南，规范自动驾驶技术在运输服务领域的应用......
+
+#### 戴庆成：香港传媒寒冬期未过
+
+https://www.zaobao.com/news/china/story20231205-1454155
+
+"你看了《新闻女王》吗？"香港无线电视台（TVB）近日正在播映的台庆重头剧《新闻女王》，由于题材新颖，剧情节奏明快，开播后随即掀起追看热潮，也吸引了不少传媒工作者捧场观看，至今已连续两周位列收视榜首。
+但《新闻女王》大受欢迎，并未能挽救TVB的颓势......
+
+#### 广汽本田据报首次在华裁员 公司回应是误读
+
+https://www.zaobao.com/news/china/story20231204-1454158
+
+（广州综合讯）日本本田汽车据报自1998年与广汽集团成立合资公司以来首次裁员，但广汽本田回应指相关报道不属实。
+日经中文网星期一（12月4日）报道称，广汽本田计划裁减约占公司总员工数7%的900名员工，主要涉及广州市工厂从事汽车组装的派遣员工。广汽本田已于11月下旬通知这些员工，并承诺提供合同规定的经济补偿。
+据报道，广汽本田今年1至10月的销量同比下降18.5%......
+
+#### 蔡英文：台湾不要香港式和平 要有尊严和平
+
+https://www.zaobao.com/news/china/story20231204-1454157
+
+台湾总统蔡英文（左五）星期天（12月3日）在台北为执政的民进党正副总统候选人赖清德（左四）和萧美琴（左六）助选时间接称，2024年总统大选是香港式和平与有尊严和平的选择......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

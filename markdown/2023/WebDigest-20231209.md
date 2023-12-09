@@ -1,0 +1,958 @@
+Other formats: [PDF]() / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20231209.html)
+
+
+# Web Digest 2023-12-09
+
+
+## Developers
+
+### Hacker News
+
+#### Apple cuts off Beeper Mini's access
+
+https://techcrunch.com/2023/12/08/apple-cuts-off-beeper-minis-access-after-launch-of-service-that-brought-imessage-to-android/
+
+https://news.ycombinator.com/item?id=38574888
+
+#### Paul Graham's Twitter account targeted by IDF
+
+https://twitter.com/paulg/status/1733146138226614465
+
+https://news.ycombinator.com/item?id=38572877
+
+#### The pro-Israel information war
+
+https://jackpoulson.substack.com/p/inside-the-pro-israel-information
+
+https://news.ycombinator.com/item?id=38572675
+
+#### FDA approves a CRISPR-based medicine for treatment of sickle cell disease
+
+https://www.statnews.com/2023/12/08/fda-approves-casgevy-crispr-based-medicine-for-treatment-of-sickle-cell-disease/
+
+https://news.ycombinator.com/item?id=38571956
+
+#### Researchers have identified new elements of whale vocalizations
+
+https://www.vice.com/en/article/4a35kp/scientists-have-reported-a-breakthrough-in-understanding-whale-language
+
+https://news.ycombinator.com/item?id=38571332
+
+#### IA Writer in Paper
+
+https://ia.net/topics/ia-writer-in-paper
+
+https://news.ycombinator.com/item?id=38571088
+
+#### Judge allows major 'right to repair' lawsuit against John Deere to move forward
+
+https://www.techdirt.com/2023/12/08/judge-allows-major-right-to-repair-lawsuit-against-john-deere-to-move-forward/
+
+https://news.ycombinator.com/item?id=38570677
+
+#### Show HN: WarpBuild -- x86-64 and arm GitHub Action runners for 30% faster builds
+
+https://www.warpbuild.com/
+
+https://news.ycombinator.com/item?id=38570624
+
+#### Mistral \"Mixtral\" 8x7B 32k model \[magnet\]
+
+https://twitter.com/MistralAI/status/1733150512395038967
+
+https://news.ycombinator.com/item?id=38570537
+
+#### You are never taught how to build quality software
+
+https://www.florianbellmann.com/blog/never-taught-qa
+
+https://news.ycombinator.com/item?id=38570261
+
+#### The wealth of the 25 richest families in the world soared 43% in the last year
+
+https://www.bloomberg.com/features/2023-worlds-richest-families/
+
+https://news.ycombinator.com/item?id=38570110
+
+#### Spoofing DNS records by abusing DHCP DNS dynamic updates
+
+https://www.akamai.com/blog/security-research/spoofing-dns-by-abusing-dhcp
+
+https://news.ycombinator.com/item?id=38570035
+
+#### The Onyx Programming Language
+
+https://onyxlang.io/
+
+https://news.ycombinator.com/item?id=38569608
+
+#### JC converts the output of popular command-line tools to JSON
+
+https://github.com/kellyjonbrazil/jc
+
+https://news.ycombinator.com/item?id=38569240
+
+#### TXR Lisp
+
+https://www.nongnu.org/txr/txr-lisp.html
+
+https://news.ycombinator.com/item?id=38569129
+
+#### Postgres Language Server: Implementing the Parser
+
+https://supabase.com/blog/postgres-language-server-implementing-parser
+
+https://news.ycombinator.com/item?id=38568252
+
+#### Problems on the Galaxy Store
+
+https://forum.developer.samsung.com/t/test-confirmation-rejected-too-expensive/28238
+
+https://news.ycombinator.com/item?id=38568121
+
+#### Arch Linux bugtracker migration to Gitlab completed
+
+https://archlinux.org/news/bugtracker-migration-to-gitlab-completed/
+
+https://news.ycombinator.com/item?id=38568076
+
+#### Dieselgate, but for trains -- some heavyweight hardware hacking
+
+https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking/
+
+https://news.ycombinator.com/item?id=38567687
+
+#### Tesla loses legal action in Sweden as dispute with Nordic unions escalates
+
+https://www.theguardian.com/technology/2023/dec/07/tesla-loses-legal-action-sweden-nordic-unions-licence-plates-collective-bargaining
+
+https://news.ycombinator.com/item?id=38567424
+
+### Phoronix
+
+#### Wine 9.0-rc1 Released With Upgraded VKD3D, Wine Wayland Improvements
+
+https://www.phoronix.com/news/Wine-9.0-rc1-Released
+
+#### Vulkan 1.3.273 Released With KHR Calibrated Timestamps Extension
+
+https://www.phoronix.com/news/Vulkan-1.3.273-Released
+
+#### Intel Striving To Overhaul Their Multiple Ethernet Linux Drivers: \"The Great Code Dedup\"
+
+https://www.phoronix.com/news/Intel-DeDup-Ethernet-Linux-Driv
+
+#### Linux Dealing With x86 32-bit Software Security Issue For Intel TDX & AMD SEV
+
+https://www.phoronix.com/news/Linux-SEV-TDX-int-0x80-Misuse
+
+#### GNOME's Dynamic Triple Buffering \"Ready To Merge\"
+
+https://www.phoronix.com/news/GNOME-Triple-Buffering-Ready
+
+#### Canonical Releases Multipass 1.13 RC With Snapshots Support, Migrated To Qt6
+
+https://www.phoronix.com/news/Multipass-1.13-RC
+
+#### PoCL 5.0-RC1 Released With Experimental OpenCL For Networked Systems
+
+https://www.phoronix.com/news/PoCL-5.0-RC1
+
+#### Wine Wayland Driver Lands Mouselook Support, Relative Cursor Motion
+
+https://www.phoronix.com/news/Wine-Wayland-Relative-Mouse
+
+#### Intel Will Submit New Xe Kernel Graphics Driver Soon - Likely For Linux 6.8
+
+https://www.phoronix.com/news/Intel-Xe-DRM-Submission-Nears
+
+### GitHub
+
+#### SuperDuperDB/superduperdb
+
+https://github.com/SuperDuperDB/superduperdb
+
+🔮 SuperDuperDB: Bring AI to your database: Integrate, train and manage
+any AI models and APIs directly with your database and your data.\
+Language: Python\
+Stars: 1399\
+Forks: 194
+
+#### microsoft/PowerToys
+
+https://github.com/microsoft/PowerToys
+
+Windows system utilities to maximize productivity\
+Language: C#\
+Stars: 99621\
+Forks: 6023
+
+#### awesome-selfhosted/awesome-selfhosted
+
+https://github.com/awesome-selfhosted/awesome-selfhosted
+
+A list of Free Software network services and web applications which can
+be hosted on your own servers\
+Language: Unknown\
+Stars: 159615\
+Forks: 8788
+
+#### trekhleb/javascript-algorithms
+
+https://github.com/trekhleb/javascript-algorithms
+
+📝 Algorithms and data structures implemented in JavaScript with
+explanations and links to further readings\
+Language: JavaScript\
+Stars: 178113\
+Forks: 29424
+
+### Dribbble
+
+#### Beaverdale edc
+
+https://dribbble.com/shots/23210592
+
+#### Spark mini icon
+
+https://dribbble.com/shots/23210709
+
+#### Thank you sticker
+
+https://dribbble.com/shots/23199572
+
+#### NVO: Trading panel
+
+https://dribbble.com/shots/23210044
+
+#### hacker
+
+https://dribbble.com/shots/23210286
+
+#### Sweet Badger Ice Cream
+
+https://dribbble.com/shots/23211968
+
+#### Aventurine Studio One
+
+https://dribbble.com/shots/23200310
+
+#### Vancouver Golf Co.
+
+https://dribbble.com/shots/23206444
+
+#### Pear
+
+https://dribbble.com/shots/23202843
+
+#### Branding and web design exploration
+
+https://dribbble.com/shots/23202104
+
+#### 3D Icons for Fulfyd.com
+
+https://dribbble.com/shots/23202093
+
+#### Mota - UX/UI web application design for remote work
+
+https://dribbble.com/shots/23200911
+
+#### Jason Broyles
+
+https://dribbble.com/shots/23143827
+
+#### Windy Day
+
+https://dribbble.com/shots/23204684
+
+#### TechSphere Edtech Branding
+
+https://dribbble.com/shots/23180563
+
+#### Bike 🚲
+
+https://dribbble.com/shots/23203868
+
+#### Luffy
+
+https://dribbble.com/shots/23201597
+
+#### Buffalo Creek Golf - Logo Design
+
+https://dribbble.com/shots/23207235
+
+#### I see faces.. 👀
+
+https://dribbble.com/shots/23204651
+
+#### Design course landing page --- Untitled UI
+
+https://dribbble.com/shots/23081901
+
+#### Anchor Face Logo
+
+https://dribbble.com/shots/23202095
+
+#### Advocacy Through Walls Web Pages
+
+https://dribbble.com/shots/23204914
+
+#### Jobsity Characters
+
+https://dribbble.com/shots/22760043
+
+#### Financeo: Components & Cards
+
+https://dribbble.com/shots/23202304
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### 苹果让印度工厂生产更多 iPhone 零部件
+
+https://www.solidot.org/story?sid=76838
+
+#### 极大望远镜将改变天文学研究
+
+https://www.solidot.org/story?sid=76837
+
+#### Fairphone 5 的可维修性被 iFixit 评为 10/10
+
+https://www.solidot.org/story?sid=76836
+
+#### 《博德之门III》赢得 TGA 年度游戏奖
+
+https://www.solidot.org/story?sid=76835
+
+#### systemd 更新引入了 Windows 的蓝屏死机
+
+https://www.solidot.org/story?sid=76834
+
+#### Windows 11 记事本应用加入字数统计功能
+
+https://www.solidot.org/story?sid=76833
+
+#### 14 世纪的鼠疫改变了酿酒师的性别构成
+
+https://www.solidot.org/story?sid=76832
+
+#### CPU 新 Spectre 攻击 SLAM
+
+https://www.solidot.org/story?sid=76831
+
+#### Meta 的 AI 图像生成器用了 11 亿 Instagram 和 Facebook 照片训练
+
+https://www.solidot.org/story?sid=76830
+
+#### 中国面临慢性疾病挑战
+
+https://www.solidot.org/story?sid=76829
+
+#### Meta 开始在 Facebook Messenger 和 Instagram 应用中启用端对端加密
+
+https://www.solidot.org/story?sid=76828
+
+#### 检方寻求对青叶真司判处死刑
+
+https://www.solidot.org/story?sid=76827
+
+#### AMD 发布 MI300X，称性能比 H100 高 30%
+
+https://www.solidot.org/story?sid=76826
+
+#### AMD 发布 Ryzen 8040 移动芯片，与 Ryzen 7040 的差别在于 NPU
+
+https://www.solidot.org/story?sid=76825
+
+#### AMD 发布 Ryzen 8040 移动芯片，与 Ryzen 7040 的差别在于 NPU
+
+https://www.solidot.org/story?sid=76824
+
+#### 英特尔抨击 AMD 的芯片命名是在欺骗客户
+
+https://www.solidot.org/story?sid=76822
+
+#### ICANN 发布一站式 WHOIS 查询服务 
+
+https://www.solidot.org/story?sid=76821
+
+#### Google 发布 AI 大模型 Gemini，称比 GPT-4 更先进
+
+https://www.solidot.org/story?sid=76820
+
+#### 新理论尝试统一广义相对论和量子力学
+
+https://www.solidot.org/story?sid=76819
+
+#### Meta 和 IBM 推动 AI 开源
+
+https://www.solidot.org/story?sid=76818
+
+### V2EX
+
+#### \[Apple\] 整理一下这几年留下的外包装纸壳
+
+https://www.v2ex.com/t/998878
+
+#### \[macOS\] 现在的 macos 为什么这么吃内存
+
+https://www.v2ex.com/t/998877
+
+#### \[问与答\] 索尼电视机出现 4 个 HDMI 接口完全没反应是什么故障呢？
+
+https://www.v2ex.com/t/998874
+
+#### \[宽带症候群\] OpenWrt 多条 IPv6 的路由逻辑？
+
+https://www.v2ex.com/t/998873
+
+#### \[Apple\] 请教一个 MacOS WiFi 的网络性能问题
+
+https://www.v2ex.com/t/998872
+
+#### \[问与答\] 站内搜索怎么用？
+
+https://www.v2ex.com/t/998870
+
+#### \[汇编\] 汇编问题求解，这个问题我自己确实做不来
+
+https://www.v2ex.com/t/998869
+
+#### \[Rust\] 如何在 rust 里实现一个超级轻量级的协程？ （譬如 protothread）
+
+https://www.v2ex.com/t/998868
+
+#### \[分享发现\] TikTok 运营工具大全
+
+https://www.v2ex.com/t/998867
+
+#### \[问与答\] 大家觉得这两份工作应该怎么选
+
+https://www.v2ex.com/t/998866
+
+#### \[C#\] 如何配置环境变量才能让 dotnet 和 ipconfig 都可以工作？
+
+https://www.v2ex.com/t/998864
+
+#### \[VPS\] 求推荐台湾的 VPS 或者机场。
+
+https://www.v2ex.com/t/998863
+
+#### \[问与答\] 来聊聊成年后发生的真实恐怖/灵异经历，但科学解释得通。
+
+https://www.v2ex.com/t/998860
+
+#### \[程序员\] 有没有什么矮轴且静音轴的键盘推荐？啥配列都行，最好是带数字小键盘
+
+https://www.v2ex.com/t/998858
+
+#### \[程序员\] 求问 iOS 的隐私问题
+
+https://www.v2ex.com/t/998857
+
+#### \[编程\] 分时调度协程脚本语言
+
+https://www.v2ex.com/t/998855
+
+#### \[Android\] Android 14 阻止通过 adb install / pm install shell 命令降级应用程序，除非该应用程序被标记为可调试。
+
+https://www.v2ex.com/t/998853
+
+#### \[宽带症候群\] 广东佛山电信要回公网 IP 之路，内附和客服斗智斗勇过程，大家参谋参谋
+
+https://www.v2ex.com/t/998849
+
+#### \[宽带症候群\] 更换了中兴 G7615 网络更不稳定了
+
+https://www.v2ex.com/t/998848
+
+#### \[问与答\] 坐标山东，今晚打死了至少八只蚊子。是不是天台暖和的原因，蚊子都从下水道里飞出来了。如果是的话请问怎么杜绝这种情况呢？
+
+https://www.v2ex.com/t/998847
+
+#### \[宽带症候群\] sms-activate 接码平台选了境外的号码，怎么仍是接收不到短信验证码？
+
+https://www.v2ex.com/t/998846
+
+#### \[宽带症候群\] 河南联通手动改桥接后，删除 TR069 配置，路由 pppoe 拨号，获取公网 ip 被固定暂时无法漂移\...
+
+https://www.v2ex.com/t/998845
+
+#### \[Apple\] 国内的 Sony 电视为什么要把 HomeKit 去掉？
+
+https://www.v2ex.com/t/998844
+
+#### \[问与答\] bing 通过 proxy 进行代理，经常打不开，提示 ERR_TOO_MANY_REDIRECTS
+
+https://www.v2ex.com/t/998842
+
+#### \[Android\] 安卓的解锁 root 只能靠厂商？是时候靠自己了
+
+https://www.v2ex.com/t/998840
+
+#### \[Apple\] 还原所有设置后相机里「共享图库」开关消失
+
+https://www.v2ex.com/t/998839
+
+#### \[分享创造\] 闲着没事，重构了 n 年前写的一个诗词网站 demo
+
+https://www.v2ex.com/t/998838
+
+#### \[iOS\] 有没有好用的主题 app
+
+https://www.v2ex.com/t/998837
+
+#### \[问与答\] 手机换电池，把屏幕搞没了，怎么办
+
+https://www.v2ex.com/t/998835
+
+#### \[宽带症候群\] 找个运营商锁 nat4 的同学来测一下 frp xtcp 通不通
+
+https://www.v2ex.com/t/998832
+
+#### \[问与答\] 求 gh0st 或类似 其他成品。。。
+
+https://www.v2ex.com/t/998831
+
+#### \[分享发现\] 这个 ReadMedium 可以直接把 Medium 的文章翻译成中文了
+
+https://www.v2ex.com/t/998830
+
+#### \[Apple\] 请教如何把 Mac iPhone 的照片传到 pixel
+
+https://www.v2ex.com/t/998829
+
+#### \[YouTube\] 正在逛 youtube，结果搜索结果页给我推 998 Suicide 的提示
+
+https://www.v2ex.com/t/998827
+
+#### \[程序员\] 各位 DevOps 大佬们, 最适合 Kubernetes 的 CICD 是什么呀?
+
+https://www.v2ex.com/t/998826
+
+#### \[分享发现\] google 大语言模型 palm api 目前免费，来玩
+
+https://www.v2ex.com/t/998825
+
+#### \[问与答\] 准备注册 100 个邮箱，怎么能方便的注册，不要手机号啥的
+
+https://www.v2ex.com/t/998824
+
+#### \[前端开发\] 一款在开发时监控 next.js + axios 项目服务端请求的 Network 面板
+
+https://www.v2ex.com/t/998823
+
+#### \[推广\] 支原体肺炎为什么这么难好？本质就是医疗挤兑
+
+https://www.v2ex.com/t/998817
+
+#### \[问与答\] 关于除甲醛的方式咨询一下大家
+
+https://www.v2ex.com/t/998816
+
+#### \[硬件\] 打算装一台主机，各位帮忙看看有没有哪里需要调整的
+
+https://www.v2ex.com/t/998815
+
+#### \[macOS\] macOS 怎么做到文件重命名后应用内最近文件列表也自动重命名的
+
+https://www.v2ex.com/t/998814
+
+#### \[iCloud\] iCloud 土区， iCloud 2T，任意区可加， 5 人车差 3 人
+
+https://www.v2ex.com/t/998813
+
+#### \[投资\] 2023 年快结束了，大家晒一下今年的投资收益吧
+
+https://www.v2ex.com/t/998812
+
+#### \[问与答\] 想在自如上合租，有什么优惠券之类的吗？
+
+https://www.v2ex.com/t/998809
+
+#### \[分享创造\] 我做了一个支持灵动岛显示的秒表
+
+https://www.v2ex.com/t/998808
+
+#### \[MySQL\] 为什么 vercel 不支持 mysql
+
+https://www.v2ex.com/t/998807
+
+#### \[问与答\] 还原所有设置后相机里的「共享图库」开关没有了
+
+https://www.v2ex.com/t/998806
+
+#### \[问与答\] 刚刚， github 又又又挂了吗？
+
+https://www.v2ex.com/t/998805
+
+#### \[Kubernetes\] 有个 K8s 跨集群通信的需求想请教下各位
+
+https://www.v2ex.com/t/998804
+
+## Generic News
+
+### AP News
+
+#### Jonathan Majors begged accuser to avoid hospital, warning of possible 'investigation,' messages show
+
+https://apnews.com/article/87fb75a5ca50c7d7de4ce99cff3abe15
+
+NEW YORK (AP) --- The actor Jonathan Majors begged his former girlfriend
+not to seek medical attention after an incident that left her with a
+head injury last year, warning she had "no perspective of what could
+happen" if the truth got\...
+
+#### French actor Gerard Depardieu is under scrutiny over sexual remarks and gestures in new documentary
+
+https://apnews.com/article/731ae81b16fb66cde83055f6868f7eee
+
+PARIS (AP) --- French actor Gerard Depardieu's behavior toward women
+came under renewed scrutiny in France after a documentary showed him
+repeatedly making obscene remarks and gestures during a 2018 trip to
+North Korea. The footage\...
+
+#### Spotify's CFO is one of thousands to leave the company --- after he moves to sell \$9 million in shares
+
+https://apnews.com/article/e3cd38dc2952df4b2a7fff9cbafe4950
+
+NEW YORK (AP) --- Spotify's chief financial officer will step down next
+year, according to the music streaming service, just days after it
+announced its third round of layoffs for 2023. In a statement announcing
+CFO Paul Vogel's\...
+
+#### Taylor Swift's Eras Tour is the first tour to gross over \$1 billion, Pollstar says
+
+https://apnews.com/article/52945111233438b1f2166aa19eee365f
+
+LOS ANGELES (AP) --- Taylor Swift's Eras Tour is the first tour to cross
+the billion-dollar mark, according to Pollstar's 2023 year-end charts.
+Not only was Swift's landmark Eras Tour the No. 1 tour both worldwide
+and in North America\...
+
+#### Thousands of tons of dead sardines wash ashore in northern Japan
+
+https://apnews.com/article/88003e085359a88cb1135a818c722c05
+
+TOKYO (AP) --- Thousands of tons of dead sardines have washed up on a
+beach in northern Japan for unknown reasons, officials said Friday. The
+sardines and some mackerel washed ashore in Hakodate on Japan's
+northernmost main island of\...
+
+#### Woman charged with attempted arson of Martin Luther King Jr. birthplace in Atlanta
+
+https://apnews.com/article/a642a0d24866e272d3f7418873ef2702
+
+ATLANTA (AP) --- Atlanta police have arrested a woman who's accused of
+trying to burn down the birthplace of the Rev. Martin Luther King Jr. in
+Atlanta. Officers arrested the 26-year-old woman around 5:45 p.m.
+Thursday after responding to\...
+
+#### Johnny Depp among stars paying tribute at funeral of The Pogues singer Shane MacGowan
+
+https://apnews.com/article/c9db39a8b26073d6f149f5c969d93615
+
+LONDON (AP) --- Thousands of people lined the streets of Dublin on
+Friday to say goodbye to The Pogues frontman Shane MacGowan as his
+coffin wound through the Irish capital before a small-town funeral
+attended by family, neighbors and\...
+
+#### Nintendo cancels its Live 2024 Tokyo event after persistent threats to workers and customers
+
+https://apnews.com/article/e2782eb5ac3f0e1315f1df0d03a97610
+
+TOKYO (AP) --- Nintendo canceled its upcoming video game showcase and
+postponed several other events because of persistent threats to the
+company, its workers and players. "We decided we could not amply ensure
+the safety of our\...
+
+#### An asteroid will pass in front of bright star Betelgeuse to produce a rare eclipse visible to millions
+
+https://apnews.com/article/b9e3796c1ca915afdb84ed41509da9c8
+
+CAPE CANAVERAL, Fla. (AP) --- One of the biggest and brightest stars in
+the night sky will momentarily vanish as an asteroid passes in front of
+it to produce a one-of-a-kind eclipse. The rare and fleeting spectacle,
+late Monday into early\...
+
+#### Menu signed by Mao Zedong brings a quarter million dollars at auction
+
+https://apnews.com/article/a4634fce2bc71b3f9fc57a62834f4743
+
+BOSTON (AP) --- An official menu for a state banquet that bears the
+signature of former Chinese leader Mao Zedong has been auctioned for
+\$275,000. Boston-based RR Auction said the menu auctioned Wednesday was
+for a banquet held in\...
+
+#### Jonathan Majors' accuser breaks down on witness stand as footage shows actor shoving her
+
+https://apnews.com/article/4dac8b21f64b38b92d3b1ea5feb853b0
+
+NEW YORK (AP) --- The woman who accused Jonathan Majors of assaulting
+her in the backseat of a car broke down multiple times on the witness
+stand Thursday as the actor's attorney repeatedly played a surveillance
+video that showed Majors\...
+
+#### Rapper Kodak Black is arrested on cocaine charges in South Florida
+
+https://apnews.com/article/b2524d8a24479d6c7bc88a3ff22143ad
+
+FORT LAUDERDALE, Fla. (AP) --- Rapper Kodak Black has been arrested
+again in South Florida, this time on charges of possessing cocaine, jail
+records show. The Broward County jail listed Bill Kapri, Kodak Black's
+legal name, as being in\...
+
+#### Deputy U.S. Marshal charged with entering plane drunk after misconduct report on flight to London
+
+https://apnews.com/article/c85007f93d677eade7df5408d78186e4
+
+WASHINGTON (AP) --- A deputy U.S. Marshal was charged in the United
+Kingdom on Thursday with entering an aircraft while drunk, after being
+arrested on allegations of misconduct aboard a flight from New York,
+London police said. Michael\...
+
+### Reuters
+
+#### Israel increases Gaza strikes, UN decries 'humanitarian nightmare'
+
+https://www.reuters.com/world/middle-east/us-criticizes-israel-gaza-civilian-toll-un-hear-ceasefire-demand-2023-12-08/
+
+Summary: LATEST DEVELOPMENTS: Guterres says situation in Gaza at
+breaking point Guterres sees risk of collapse of public order Israel
+reports unsuccessful hostage rescue attempt Hamas say it thwarts\...
+
+#### Palestinians mourn Gaza poet, educator killed in Israeli strike
+
+https://www.reuters.com/world/middle-east/palestinians-mourn-gaza-poet-educator-killed-israeli-strike-2023-12-08/
+
+Destroyed and damaged buildings of the Islamic University are seen in
+the aftermath of Israeli strikes amid the ongoing conflict between
+Israel and the Palestinian Islamist group Hamas in Gaza, October 13,
+2023. REUTERS/Saleh Salem/File\...
+
+#### Paris' Louvre museum to hike ticket prices by 29%
+
+https://www.reuters.com/world/europe/paris-louvre-museum-hike-ticket-prices-by-29-2023-12-08/
+
+Tourists walk past the glass Pyramid of the Louvre Museum in Paris,
+France, November 2, 2023. REUTERS/Claudia Greco/File Photo A man walks
+past the glass Pyramid of the Louvre Museum in Paris, France, November
+2, 2023. REUTERS/Claudia\...
+
+#### Guatemala electoral court chief says election 'unalterable' after prosecutors seek to annul results
+
+https://www.reuters.com/world/americas/oas-condemns-attempted-coup-guatemala-2023-12-08/
+
+People march during a protest in support of democracy and to demand a
+peaceful democratic transition of power, in Guatemala City, Guatemala,
+December 7, 2023. REUTERS/Cristina Chiquin/File photo Guatemalas top
+electoral\...
+
+#### White House 'eager' to resume military talks with China
+
+https://www.reuters.com/world/white-house-eager-resume-military-talks-with-china-2023-12-08/
+
+United States and Chinese flags are set up before a meeting between U.S.
+Treasury Secretary Janet Yellen and Chinese Vice Premier He Lifeng at
+the Diaoyutai State Guesthouse in Beijing, China, Saturday, July 8,
+2023. Mark Schiefelbein/\...
+
+#### World Food Programme says it cannot do its job in Gaza
+
+https://www.reuters.com/world/middle-east/world-food-programme-says-it-cannot-do-its-job-gaza-2023-12-08/
+
+A Palestinian child reacts, while people gather to get their share of
+charity food offered by volunteers, amid food shortages, as the conflict
+between Israel and the Palestinian Islamist group Hamas continues, in
+Rafah, in the southern\...
+
+#### US sanctions dozens of people worldwide over human rights abuses
+
+https://www.reuters.com/world/us/us-sanctions-dozens-people-worldwide-over-human-rights-abuses-2023-12-08/
+
+U.S. Secretary of State Antony Blinken meets with human rights leaders
+at the State Department in Washington, U.S., December 7, 2023.
+REUTERS/Evelyn Hockstein/File Photo U.S. Treasury Secretary Janet Yellen
+meets with Mexican business\...
+
+#### Six French teenagers convicted in connection with 2020 beheading of teacher Paty
+
+https://www.reuters.com/world/europe/six-teenagers-convicted-connection-with-2020-beheading-teacher-paty-2023-12-08/
+
+A photograph taken on October 16, 2023 shows a commemorative plaque for
+slain teacher Samuel Paty (portrait) near the Bois dAulne school in
+Conflans-Sainte-Honorine, outside Paris. BERTRAND GUAY/Pool via
+REUTERS/File\...
+
+#### Israeli images showing Palestinian detainees in underwear spark outrage
+
+https://www.reuters.com/world/middle-east/hamas-condemns-israel-over-images-showing-semi-naked-palestinian-prisoners-2023-12-08/
+
+Summary: Images on social media show detained men semi-naked Senior
+Hamas official condemns Israeli forces over images Israel says men were
+in areas they were told to evacuate Captured and detained Palestinians
+sit on a street in Beit\...
+
+#### Exclusive: State Dept asks Congress to approve sale of Israeli tank rounds amid growing rights concerns
+
+https://www.reuters.com/world/state-dept-asks-congress-approve-sale-israeli-tank-rounds-amid-growing-rights-2023-12-08/
+
+An Israeli soldier looks on from a Merkava tank while operating in a
+location given as Gaza, amid the ongoing conflict between Israel and the
+Palestinian Islamist group Hamas, in this handout picture released on
+December 7, 2023. Israel\...
+
+#### Cuba publishes list of accused terrorists, including Miami mayoral candidate
+
+https://www.reuters.com/world/americas/cuba-publishes-list-accused-terrorists-including-miami-mayoral-candidate-2023-12-08/
+
+An honour guard stands at the entrance of the Revolution Palace ahead of
+the G77+China summit in Havana, Cuba, September 14, 2023.
+REUTERS/Alexandre Meneghini/File Photo Cuba published late on Thursday a
+list of foreign nationals and\...
+
+#### COP28 considers end to fossil fuels in move opposed by OPEC
+
+https://www.reuters.com/business/environment/cop28-president-tells-nations-get-out-comfort-zones-search-final-deal-2023-12-08/
+
+United Arab Emirates Minister of Industry and Advanced Technology and
+COP28 President Sultan Ahmed Al Jaber speaks during a press conference
+at the United Nations Climate Change Conference (COP28) in Dubai, United
+Arab Emirates, December\...
+
+#### Ukraine says ICC arrest warrant for Putin helped return deported kids
+
+https://www.reuters.com/world/europe/ukraine-says-icc-arrest-warrant-putin-helped-return-deported-kids-2023-12-08/
+
+Sheikh Ahmed bin Nasser Al Thani, ambassador of Qatar to Russia, and
+Alexey Ghazaryan, head of the Office of the Commissioner for Childrens
+Rights under the President of the Russian Federation, meet Ukrainian
+children and\...
+
+### 联合早报
+
+#### 新闻人间：公主选副总统 吴欣盈"无心赢"？
+
+https://www.zaobao.com/news/china/story20231209-1455012
+
+新闻人间------民众党副总统候选人吴欣盈（联合早报制图）
+台湾在野阵营"蓝白合"破局后，民众党隔天（11月24日）推出新光集团"大公主"吴欣盈担任副总统候选人，与总统候选人、党主席柯文哲搭档。
+从吴欣盈的政治资历、媒体应对来观察，许多评论员都认为，民众党和吴欣盈看来可能真的"无心赢"......
+
+#### 庄慧良：葛来仪等三位美国学者呼吁"冻结台独党纲"的警讯
+
+https://www.zaobao.com/news/china/story20231209-1455079
+
+台湾在野民众党总统候选人柯文哲星期四（12月7日）重申其"深绿"背景，并提及若当选，未来外交政策将遵循总统蔡英文路线，强调他没有执政的民进党台独党纲包袱，两岸可以更和善。随即被民进党总统候选人赖清德竞选总干事潘孟安奚落说，如果认为蔡英文路线是对的，"那支持正版赖清德就好了......
+
+#### 黄循财：新中互免签证有利人员交往 首先要设法增加两地往来航班
+
+https://www.zaobao.com/news/china/story20231209-1455081
+
+新加坡和中国将落实30天互免签证安排，副总理兼财政部长黄循财指出，这将便利两国人员往来，也符合新加坡利益，但首先要设法增加往来两地的航班。
+黄循财星期五（12月8日）结束访华行程前在北京接受新加坡媒体采访。他在谈到新中未来的互免签证安排时强调，民间交流的加强，将为改善双方在广泛领域的合作提供更好基础......
+
+#### 黄循财：新中双方人员的接触"绝对是有效合作的基础"
+
+https://www.zaobao.com/news/china/story20231209-1455080
+
+新中官员多年来在不同双边合作机制下共事，副总理兼财政部长黄循财认为，双方建立的友谊和联系是可贵的，通过个人层面的接触形成的关系"绝对是有效合作的基础"。
+黄循财星期二（12月5日）起率团访华四天，期间会见多名中国高层，并主持新中双边合作联合委员会（JCBC）会议......
+
+#### 黄循财：永远不要押注中国衰弱 中国仍能为双边合作提供巨大机会
+
+https://www.zaobao.com/news/china/story20231208-1455077
+
+冠病疫情后中国经济的表现，引发外界担忧中国增长前景，但副总理兼财政部长黄循财强调，"永远不要押注中国衰弱"，中国将继续是一个能给新中双边合作带来巨大机会的经济体。
+他说，这是因为"中国经济规模巨大，在先进制造、绿色经济等领域有很多优势；此外（中国）还有如此巨大的市场"......
+
+#### 特稿：台湾选总统很烧钱 每组候选人估计打底10亿新台币
+
+https://www.zaobao.com/news/china/story20231208-1455075
+
+2024年1月13日的台湾总统与立委选举，牵动台海局势与两岸关系走向，引起海内外关注，各政党倾全力呼唤选民热情，背后是一场激烈的烧钱和烧脑竞赛。图为民进党12月2日在彰化县的一场大型夜间造势活动。（民进党提供）
+打一场台湾总统选战，要烧多少钱？按照规定，每组候选人不能超过4.2749亿元（新台币，下同，1824万新元），但超过也不会受罚......
+
+#### 黄循财与中国新财长蓝佛安会面 讨论在双边与区域平台加强合作
+
+https://www.zaobao.com/news/china/story20231208-1455043
+
+副总理兼财政部长黄循财（左）星期五（12月8日）在北京钓鱼台国宾馆与10月底履新的中国财政部部长蓝佛安会面。（海峡时报）
+副总理兼财政部长黄循财星期五（12月8日）在北京钓鱼台国宾馆，与中国财政部长蓝佛安会面，讨论两国财政部如何加强双边合作，以及在"亚细安+3"、亚太经济合作组织（APEC）等区域平台的合作。
+根据总理公署文告，蓝佛安向黄循财介绍了中国经济和金融的优先事项......
+
+#### 中国调降外国公民赴华签证费用
+
+https://www.zaobao.com/news/china/story20231208-1455039
+
+（北京综合讯）中国对多国公民实施免签政策后，宣布驻外使领馆将下调办理赴华签证的费用，降幅达25%。
+中国外交部领事司星期五（12月8日）发布《关于阶段性减免来华签证费的通知》，中国驻外使领馆自2023年12月11日至2024年12月31日，按现行收费标准的75%收取签证费......
+
+#### 中国拟规定运营者一小时内上报较大网安事件 迟瞒报造成重大危害从重处罚
+
+https://www.zaobao.com/news/china/story20231208-1455031
+
+（北综合京讯）中国强化网络安全监管，拟要求网络运营者对"较大、重大与特别重大"网安事件一小时内上报，因迟漏报造成重大危害后果，将从重处罚。
+中国国家互联网信息办公室星期五（12月8日）发布《网络安全事件报告管理办法（征求意见稿）》，公开征求意见至明年1月7日......
+
+#### 港府拟设国家发展成就馆开展爱国教育引争议
+
+https://www.zaobao.com/news/china/story20231208-1455030
+
+近年积极推动爱国主义教育的港府建议设立一座以中国发展成就为主题的博物馆，地点初步考虑目前尖沙咀科学馆的位置，至于沙田的文化博物馆则会重建为科学馆。消息一出，引起社会哗然和不满，认为港府的考虑是以政治挂帅。
+港府自2019年反修例风波后就积极在学校和社会开展爱国主义教育。特首李家超今年在10月发表的《施政报告》中提出设立两座博物馆，以介绍国家成就和抗战历史......
+
+#### 美国防授权法案拟助台湾培训军队 分析：或促美台联合作战
+
+https://www.zaobao.com/news/china/story20231208-1455028
+
+美国国会12月7日公布协商版《国防授权法案》内容，其中要求美国国防部协助台湾培训军队。图为台湾义务役士兵11月23日在台中一处军事基地展示战斗技能。（法新社）
+美国国会星期四（12月7日）公布协商版《国防授权法案》内容，其中要求美国国防部协助台湾培训军队。受访学者分析，美国若真将培训台军入法，隐约透露出为美台联合作战做准备的意涵......
+
+#### 韩咏红：特朗普阴影笼罩2024年
+
+https://www.zaobao.com/news/china/story20231208-1454841
+
+英国《经济学人》杂志上个月推出2024年趋势的预测系列，封面设计留给了地球和阴影------美国前总统特朗普的侧面剪影，如日蚀般覆盖半个地球。《经济学人》称，他们的年度预测从未像2024年般被一个人的阴影笼罩，"特朗普构成2024年全世界最大的危险"。
+《经济学人》一贯擅长设定议题和打造概念......
+
+#### 新中双边合作联委会会议达成24项成果 展现双边关系升级后的全方位高质量和前瞻性
+
+https://www.zaobao.com/news/china/story20231208-1454846
+
+新加坡和中国在两国最高层级的年度双边合作会议上达成24项成果，展现新中关系升级后的全方位、高质量和前瞻性；两国也计划通过互免签证协议，便利人员往来，目标在2024年早些时候落实免签安排......
+
+#### 王金平任侯友宜的全台后援会总会长
+
+https://www.zaobao.com/news/china/story20231207-1454828
+
+国民党总统候选人侯友宜（左二）和副手赵少康（左一），以及国民党主席朱立伦（右一）星期四（12月7日）上午拜会前立法院长王金平。（侯友宜竞选办提供）
+（台北综合讯）在国民党正副总统候选人侯友宜和赵少康，以及党主席朱立伦亲自力邀下，台湾前立法院长王金平点头答应担任侯友宜的全台后援会总会长......
+
+#### 台网曝情治机关监听政治人物 官方：境外认知作战
+
+https://www.zaobao.com/news/china/story20231207-1454826
+
+台湾社群网站出现一份疑似情治机关监听多名政治人物及外国驻台机构的匿名资料。内政部和法务部等相关单位星期四（12月7日）纷纷强调，该份错假资料来自境外，意图在大选期间对台进行认知作战，呼吁民众切勿轻信。
+不过，在野国民党正副总统候选人侯友宜、赵少康等人呼吁检调应先厘清事实，若此事为真，监听是否依法请法官开监听票？为何资料会外泄？若此事为假，便不应以讹传讹......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

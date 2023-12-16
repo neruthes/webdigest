@@ -1,0 +1,863 @@
+Other formats: [PDF]() / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20231216.html)
+
+
+# Web Digest 2023-12-16
+
+
+## Developers
+
+### Hacker News
+
+#### Leave work slightly unfinished for easier flow the next day
+
+https://read.engineerscodex.com/p/simple-software-engineering-habits
+
+https://news.ycombinator.com/item?id=38658262
+
+#### Suspects can refuse to provide phone passcodes to police, court rules
+
+https://arstechnica.com/tech-policy/2023/12/suspects-can-refuse-to-provide-phone-passcodes-to-police-court-rules/
+
+https://news.ycombinator.com/item?id=38657577
+
+#### McDonald's ice cream machine hackers say they found 'smoking gun'
+
+https://www.wired.com/story/kytch-taylor-mcdonalds-ice-cream-machine-smoking-gun/
+
+https://news.ycombinator.com/item?id=38657192
+
+#### I bricked my Christmas lights
+
+https://www.whizzy.org/2023-12-14-bricked-xmas/
+
+https://news.ycombinator.com/item?id=38657126
+
+#### Prompt engineering
+
+https://platform.openai.com/docs/guides/prompt-engineering
+
+https://news.ycombinator.com/item?id=38657029
+
+#### Fastmail Employees Form a Union
+
+https://union.place/@fastmailunited/111563614375789166
+
+https://news.ycombinator.com/item?id=38656727
+
+#### Do large language models need all those layers?
+
+https://www.amazon.science/blog/do-large-language-models-really-need-all-those-layers
+
+https://news.ycombinator.com/item?id=38656039
+
+#### Not even LinkedIn is that keen on Microsoft's cloud: Shift to Azure abandoned
+
+https://www.theregister.com/2023/12/14/linkedin_abandons_migration_to_microsoft/
+
+https://news.ycombinator.com/item?id=38656038
+
+#### Database Fundamentals
+
+https://tontinton.com/posts/database-fundementals/
+
+https://news.ycombinator.com/item?id=38655066
+
+#### Scheme in Scheme on WASM in the browser
+
+https://spritely.institute/news/scheme-in-scheme-on-wasm-in-the-browser.html
+
+https://news.ycombinator.com/item?id=38655047
+
+#### Delta Dental says data breach exposed info of 7M people
+
+https://www.bleepingcomputer.com/news/security/delta-dental-says-data-breach-exposed-info-of-7-million-people/
+
+https://news.ycombinator.com/item?id=38654805
+
+#### September 11th That You Have Never Seen
+
+https://medium.com/@jeremiahjw/31-photos-from-september-11th-that-you-have-never-seen-9514aaac2d54
+
+https://news.ycombinator.com/item?id=38654567
+
+#### Data exfiltration from Writer.com with indirect prompt injection
+
+https://promptarmor.substack.com/p/data-exfiltration-from-writercom
+
+https://news.ycombinator.com/item?id=38654533
+
+#### What happens in the brain while daydreaming?
+
+https://hms.harvard.edu/news/what-happens-brain-while-daydreaming
+
+https://news.ycombinator.com/item?id=38654388
+
+#### How Lego builds a new Lego set
+
+https://www.theverge.com/c/23991049/lego-ideas-polaroid-onestep-behind-the-scenes-price
+
+https://news.ycombinator.com/item?id=38653456
+
+#### Fly Postgres, Managed by Supabase
+
+https://supabase.com/blog/postgres-on-fly-by-supabase
+
+https://news.ycombinator.com/item?id=38653212
+
+#### WebP is so great except it's not (2021)
+
+https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/
+
+https://news.ycombinator.com/item?id=38653110
+
+#### EU capitals want media law carve-out to spy on reporters
+
+https://www.politico.eu/article/eu-capitals-want-media-law-carve-out-to-spy-on-reporters/
+
+https://news.ycombinator.com/item?id=38652905
+
+#### Oxlint -- Faster than ESLint
+
+https://oxc-project.github.io/blog/2023-12-12-announcing-oxlint.html
+
+https://news.ycombinator.com/item?id=38652887
+
+#### An interactive guide to the Fourier transform (2012)
+
+https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/
+
+https://news.ycombinator.com/item?id=38652794
+
+### Phoronix
+
+#### Wine 9.0-rc2 Released With 33 More Fixes - Including Wine Wayland Fixes
+
+https://www.phoronix.com/news/Wine-9.0-rc2-Released
+
+#### AMD ROCm 6.0 Now Available To Download With MI300 Support, PyTorch FP8 & More AI
+
+https://www.phoronix.com/news/AMD-ROCm-6.0-Released
+
+#### GNOME Gets A New Terminal Choice: Prompt
+
+https://www.phoronix.com/news/GNOME-Terminal-Prompt
+
+#### Intel 5th Gen Xeon Performance Benchmarks With DDR5-4800 vs. DDR5-5600
+
+https://www.phoronix.com/review/intel-xeon-ddr5-5600
+
+#### Pop!\_OS COSMIC Desktop Improving Multi-Monitor & Multi-Window Support
+
+https://www.phoronix.com/news/COSMIC-December-2023
+
+#### Framework 13 AMD Workaround Prepared For Linux To Deal With A Suspend Issue
+
+https://www.phoronix.com/news/Framework-13-AMD-Lid-Suspend
+
+#### Intel VC-Intrinsics Updated With Arrow Lake, Lunar Lake & XeHPCVG Support
+
+https://www.phoronix.com/news/Intel-VC-Intrinsics-ARL-LNL
+
+#### Canonical Details Ubuntu 24.04 Desktop Plans + Ongoing X11 Sunsetting Discussions
+
+https://www.phoronix.com/news/Ubuntu-24.04-LTS-Desktop-Plans
+
+#### The Intel_Idle Linux Driver Prepares For Grand Ridge SoCs
+
+https://www.phoronix.com/news/Intel-Idle-Grand-Ridge-SoCs
+
+### GitHub
+
+#### sdmg15/Best-websites-a-programmer-should-visit
+
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit
+
+:link: Some useful websites for programmers.\
+Language: Unknown\
+Stars: 53861\
+Forks: 7186
+
+#### vinta/awesome-python
+
+https://github.com/vinta/awesome-python
+
+A curated list of awesome Python frameworks, libraries, software and
+resources\
+Language: Python\
+Stars: 190531\
+Forks: 24331
+
+### Dribbble
+
+#### Astropop
+
+https://dribbble.com/shots/23252734
+
+#### AI is Your Friend!
+
+https://dribbble.com/shots/23250382
+
+#### Travel Icon Set - Vol 1.
+
+https://dribbble.com/shots/23248213
+
+#### Gingerbread Cabin 🍭
+
+https://dribbble.com/shots/23241686
+
+#### Jetpack - Snowboard Design
+
+https://dribbble.com/shots/23244032
+
+#### Elixir
+
+https://dribbble.com/shots/23238933
+
+#### Glyph Beer 15
+
+https://dribbble.com/shots/23237785
+
+#### Dribbbler's Crocs
+
+https://dribbble.com/shots/23240071
+
+#### Jason Broyles
+
+https://dribbble.com/shots/23143859
+
+#### Beaverdale sketch
+
+https://dribbble.com/shots/23243277
+
+#### Beyond Ordinary
+
+https://dribbble.com/shots/23245108
+
+#### Favorite Day Holiday
+
+https://dribbble.com/shots/23244544
+
+#### ilcons / mini illustrated icons
+
+https://dribbble.com/shots/23232934
+
+#### Geometric Zebra Logo
+
+https://dribbble.com/shots/23233788
+
+#### jetadmin.io
+
+https://dribbble.com/shots/23234782
+
+#### Garden Street Inn
+
+https://dribbble.com/shots/23229864
+
+#### 🍭🍬Wonka🍫🎩
+
+https://dribbble.com/shots/23229646
+
+#### Apple Watch App Concept 5
+
+https://dribbble.com/shots/23226008
+
+#### fruts
+
+https://dribbble.com/shots/23225707
+
+#### Like a ninja (Personal '23)
+
+https://dribbble.com/shots/23228356
+
+#### Love is love
+
+https://dribbble.com/shots/23226732
+
+#### Car #2
+
+https://dribbble.com/shots/23225877
+
+#### Hot Sauces
+
+https://dribbble.com/shots/23228703
+
+#### Backcountry Skiing
+
+https://dribbble.com/shots/23151454
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### Google Groups 明年终止支持新闻组（Usenet）
+
+https://www.solidot.org/story?sid=76897
+
+#### 拼多多 Temu 指控竞争对手希音使用黑帮风格的恐吓手段
+
+https://www.solidot.org/story?sid=76896
+
+#### A24 和小岛工作室制作《死亡搁浅》真人版
+
+https://www.solidot.org/story?sid=76895
+
+#### 亚马逊宽带卫星用太空激光器传输数据
+
+https://www.solidot.org/story?sid=76894
+
+#### 加密钱包 Ledger 遭供应链攻击
+
+https://www.solidot.org/story?sid=76893
+
+#### 研究发现 AI 聊天机器人并没有增加学校的总体作弊率
+
+https://www.solidot.org/story?sid=76892
+
+#### 太阳释放出一个 X2.8 级耀斑
+
+https://www.solidot.org/story?sid=76891
+
+#### Google DeepMind 用大模型解决尚未解决的数学问题
+
+https://www.solidot.org/story?sid=76890
+
+#### AMD 开源 FSR 3
+
+https://www.solidot.org/story?sid=76889
+
+#### 考古学家发现距今八千年的要塞
+
+https://www.solidot.org/story?sid=76888
+
+#### 在朝鲜当小说家
+
+https://www.solidot.org/story?sid=76887
+
+#### Threads 开始测试 ActivityPub 整合
+
+https://www.solidot.org/story?sid=76886
+
+#### 泰议员因推文冒犯君主罪被判 6 年
+
+https://www.solidot.org/story?sid=76885
+
+#### 澳大利亚在全球率先禁止工程石
+
+https://www.solidot.org/story?sid=76884
+
+#### Google 地图将允许用户将位置数据本地储存而非云端
+
+https://www.solidot.org/story?sid=76883
+
+#### Ubuntu 24.04 LTS 将默认启用帧指针
+
+https://www.solidot.org/story?sid=76882
+
+#### 微软发布运行在 Linux 上的 Windows AI Studio 预览版
+
+https://www.solidot.org/story?sid=76881
+
+#### 战争让乌克兰科学家的科研时间减少了五分之一
+
+https://www.solidot.org/story?sid=76880
+
+#### 猫咪能吃逾两千种动物
+
+https://www.solidot.org/story?sid=76879
+
+#### 英特尔、三星和台积电竞争谁率先推出 2 纳米芯片
+
+https://www.solidot.org/story?sid=76878
+
+### V2EX
+
+#### \[Linux\] 终于可以登陆网页微信了
+
+https://www.v2ex.com/t/1000851
+
+#### \[Arduino\] 好冷清，我来问下初初级问题：入门套件买啥
+
+https://www.v2ex.com/t/1000850
+
+#### \[Android\] 微信 Google Play 版更新了，目标 API33，并没有刻意限制"部分照片"权限
+
+https://www.v2ex.com/t/1000849
+
+#### \[云修电脑\] 碰到个灵异事件 我的笔记本电脑半夜三点钟自己播放原神攻略视频
+
+https://www.v2ex.com/t/1000848
+
+#### \[程序员\] 学习哪些编程语言更容易接到国外开发外包呢？除了 upwork、fiverr 这些平台还有别的渠道吗？
+
+https://www.v2ex.com/t/1000847
+
+#### \[iPhone\] 除了 iRingo 还有别的办法解锁全部功能吗？ iOS 17.3 已经失效了
+
+https://www.v2ex.com/t/1000844
+
+#### \[分享发现\] 分享三个导航网站，大家应该都能用到
+
+https://www.v2ex.com/t/1000842
+
+#### \[iPhone\] 新 iPhone 从旧手机恢复备份后 app 收不到通知
+
+https://www.v2ex.com/t/1000841
+
+#### \[问与答\] 什么地方有质量不错的平房/独栋？
+
+https://www.v2ex.com/t/1000840
+
+#### \[问与答\] lucky-canvas 抽奖插件的 uniapp 小程序真机运行报错，请问有人遇到并解决的吗？
+
+https://www.v2ex.com/t/1000839
+
+#### \[Apple\] 怎么看刚买的 Macbook 是不是翻新机
+
+https://www.v2ex.com/t/1000838
+
+#### \[Apple\] OYUNFOR 是不是无法付款了？
+
+https://www.v2ex.com/t/1000836
+
+#### \[VPS\] 分享一个 AKILE LAXBASE 5900x VPS
+
+https://www.v2ex.com/t/1000835
+
+#### \[云计算\] 使用分时调度协程降低开发成本
+
+https://www.v2ex.com/t/1000834
+
+#### \[问与答\] 关于一段 Java 代码的疑问，求解答
+
+https://www.v2ex.com/t/1000833
+
+#### \[问与答\] 有什么便宜好用的平板推荐吗？
+
+https://www.v2ex.com/t/1000832
+
+#### \[数学\] 什么样的 AI 函数是可训练的？
+
+https://www.v2ex.com/t/1000831
+
+#### \[摄影\] osmo pocket 3 对焦抽搐
+
+https://www.v2ex.com/t/1000830
+
+#### \[Apple\] Apple Silicon Mac 有啥低延迟的采集软件吗？ OBS 延迟还是有点高。
+
+https://www.v2ex.com/t/1000829
+
+#### \[程序员\] 新版 PyCharm 持续占用 cpu 过高 bug 解决
+
+https://www.v2ex.com/t/1000828
+
+#### \[问与答\] 试用了谷歌的 IDX AI ，给大家看点笑话
+
+https://www.v2ex.com/t/1000827
+
+#### \[问与答\] 使用 tar 作为笔记的存储格式是否可行？
+
+https://www.v2ex.com/t/1000826
+
+#### \[程序员\] 准备在腾讯云开发者社区写技术博客了
+
+https://www.v2ex.com/t/1000825
+
+#### \[Android\] note12turbo 刷哪个系统比较靠谱
+
+https://www.v2ex.com/t/1000824
+
+#### \[分享发现\] EpicGames 大战谷歌！ ➡️ E 宝胜！
+
+https://www.v2ex.com/t/1000823
+
+#### \[Next.js\] nextjs14 app router 写了个练手前端站
+
+https://www.v2ex.com/t/1000822
+
+#### \[职场话题\] 吐槽一下这周的面试
+
+https://www.v2ex.com/t/1000821
+
+#### \[程序员\] win 上最佳安卓方案是哪个？
+
+https://www.v2ex.com/t/1000820
+
+#### \[Windows\] Windows 11 可以隐藏任务栏上第一个开始按钮吗？
+
+https://www.v2ex.com/t/1000818
+
+#### \[问与答\] 想问下有没有基于 ChatGPT 的智能语音音响？
+
+https://www.v2ex.com/t/1000816
+
+#### \[Apple\] 关于 AppleMusic 扣款的疑惑
+
+https://www.v2ex.com/t/1000815
+
+#### \[问与答\] 小白真诚发问
+
+https://www.v2ex.com/t/1000814
+
+#### \[Pixel\] 现在买 Pixel 有什么靠谱的方法吗？
+
+https://www.v2ex.com/t/1000813
+
+#### \[Linux\] 最拥有生产力的 Linux 发行版本推荐
+
+https://www.v2ex.com/t/1000810
+
+#### \[硬件\] 现在的核显笔记本能不能跑 VR 呢？
+
+https://www.v2ex.com/t/1000809
+
+#### \[程序员\] 开了个公司不知道该干什么了
+
+https://www.v2ex.com/t/1000808
+
+#### \[iOS\] ios shadowrocket 有类似于 QX 墨鱼那样好用的规则吗
+
+https://www.v2ex.com/t/1000807
+
+#### \[Node.js\] 有哪些好用的 nodejs 开源低代码工具
+
+https://www.v2ex.com/t/1000806
+
+#### \[宽带症候群\] WRC-23 已经 WiFi7 6Ghz 达成协议.准备开放了？
+
+https://www.v2ex.com/t/1000805
+
+#### \[问与答\] 公司屏蔽了 QQ 音乐，如何绕过？
+
+https://www.v2ex.com/t/1000804
+
+#### \[JetBrains\] JetBrains AI 用国内双币信用卡支付被拒绝了
+
+https://www.v2ex.com/t/1000803
+
+#### \[酷工作\] 分享工作
+
+https://www.v2ex.com/t/1000802
+
+#### \[程序员\] B 站评论区好像崩了
+
+https://www.v2ex.com/t/1000801
+
+#### \[程序员\] 基于昨天那个 MacBook 跟 NAS 对比计算 sha256 速度的主题，聊聊"为什么人类社区要禁止使用 AI 回复"，以及"为什么不同的人使用同样的模型问问题，得到的回答质量差距很大"
+
+https://www.v2ex.com/t/1000800
+
+#### \[宽带症候群\] 广东 电信&移动宽带 你怎么看
+
+https://www.v2ex.com/t/1000799
+
+#### \[程序员\] 独立开发提高产品定位成功率：找到 3 个对标产品
+
+https://www.v2ex.com/t/1000796
+
+#### \[程序员\] win10 的资源管理器驱动器这么难删除吗\...
+
+https://www.v2ex.com/t/1000795
+
+#### \[MacBook Pro\] MacBook Pro 购买建议
+
+https://www.v2ex.com/t/1000794
+
+#### \[程序员\] \[求问\] 公司产品针对不同甲方要做二开，如何管理仓库/jar 包能更方便维护？
+
+https://www.v2ex.com/t/1000791
+
+#### \[问与答\] 现在这个时间点 还适合买 xsx 吗
+
+https://www.v2ex.com/t/1000790
+
+## Generic News
+
+### AP News
+
+#### Declared missing as a child, British teenager lives off-grid for 6 years, then pops up in France
+
+https://apnews.com/article/843cabd6b4f25870d29d8862e7e9f9fc
+
+LE PECQ, France (AP) --- The vehicle's headlights silhouetted the
+exhausted teenager walking alone in the rain in deepest rural France,
+with a skateboard tucked under his arm. "I said to myself, 'That's
+strange. It's 3 am in the morning\...
+
+#### Andre Braugher died from lung cancer, rep for 'Brooklyn Nine-Nine' and 'Homicide' star says
+
+https://apnews.com/article/6aa6f46c6cf4c20500a8a96bfa1831cb
+
+LOS ANGELES (AP) --- Andre Braugher died from lung cancer, a
+representative said Thursday. When the Emmy-winning actor who starred in
+the series "Brooklyn Nine-Nine" and "Homicide: Life on the Street" died
+Monday at age 61, his\...
+
+#### Fuming over setback to casino smoking ban, workers light up in New Jersey Statehouse meeting
+
+https://apnews.com/article/bf3195201451a5fcdab6bf10fb40fd42
+
+ATLANTIC CITY, N.J. (AP) --- With prospects for a smoking ban in
+Atlantic City's casinos looking hazier than ever, workers who want
+smoking banned took matters into their own hands, lips and lungs
+Thursday. Members of the United Auto\...
+
+#### A 4-month-old survived after a Tennessee tornado tossed him. His parents found him in a downed tree
+
+https://apnews.com/article/78b30d60f5e03c88837357b2cc85ec7e
+
+CLARKSVILLE, Tenn. (AP) --- A 4-month-old boy has survived after a
+tornado in Tennessee sucked him up from his family's mobile home, which
+was demolished in the storm. Sydney Moore told WSMV-TV that when the
+tornado hit their home in\...
+
+#### Air Jordans made for filmmaker Spike Lee are up for auction after being donated to Oregon shelter
+
+https://apnews.com/article/fd39eb136fae73dd8993398be8ae7564
+
+PORTLAND, Ore. (AP) --- The shiny, gold Nike sneakers were hard to miss
+in the donation pile at a shelter in Portland, Oregon, earlier this
+year. They were Air Jordan 3s, size 12 1/2, and one of just a few custom
+pairs that had been made\...
+
+#### Miljenko 'Mike' Grgich, an immigrant who put Napa Valley on the world's wine map, dies at 100
+
+https://apnews.com/article/d96da71ce701b3e70d8a0a5ca37994c2
+
+Miljenko "Mike" Grgich, a celebrated winemaker who helped establish Napa
+Valley as one of the world's premier wine-making regions, has died. He
+was 100. Grgich died in his sleep Wednesday morning at his home in
+Calistoga, California\...
+
+#### Senator's son faces upgraded homicide charge in crash that killed North Dakota sheriff's deputy
+
+https://apnews.com/article/823c204771490facff9d611f8da39a3b
+
+BISMARCK, N.D. (AP) --- New charges approved Thursday against the
+42-year-old son of U.S. Sen. Kevin Cramer included an upgraded homicide
+count in a crash that killed a North Dakota sheriff's deputy. Ian Cramer
+initially faced a\...
+
+#### Jury deliberating whether actor Jonathan Majors assaulted a girlfriend in New York last spring
+
+https://apnews.com/article/d60a7367c96cf36ca9f0661e798532f9
+
+NEW YORK (AP) --- A jury began deliberating Thursday whether Jonathan
+Majors is guilty of assault following a New York trial featuring
+clashing narratives about whether the rising Hollywood star was the
+aggressor or victim during a\...
+
+#### Set of 6 Messi World Cup shirts sells for \$7.8 million at auction in New York
+
+https://apnews.com/article/7bfe6ccbddd25ea210ee651ae4ae9c1b
+
+NEW YORK (AP) --- Six jerseys worn by soccer superstar Lionel Messi
+during Argentina's winning run at last year's World Cup sold Thursday
+for \$7.8 million, the auction house Sotheby's announced. The final
+price for the shirts, each worn\...
+
+#### Former NFL player Adam 'Pacman' Jones reaches plea deal over airport incident
+
+https://apnews.com/article/ac2907a52b0c277062c1bb9f9bf4ee05
+
+BURLINGTON, Ky. (AP) --- Former NFL player Adam "Pacman" Jones reached a
+plea agreement on a disorderly conduct charge Thursday after he was
+removed from a plane before takeoff at the Cincinnati/Northern Kentucky
+Airport in September\...
+
+#### A bull on the tracks at Newark station delays train traffic outside New York
+
+https://apnews.com/article/2618b54237d48fb944d146221b0d0798
+
+NEWARK, N.J. (AP) --- A loose bull in New Jersey's largest city found
+its way onto train tracks, snarling rail traffic for a while Thursday
+before it was captured, authorities said. The ruddy brown bull with
+long, dark-tipped horns stood\...
+
+#### In first news conference with Dodgers, Shohei Ohtani dodges questions about Tommy John surgery
+
+https://apnews.com/article/6cc91eb10170fcda38b4db7da0bee4fd
+
+LOS ANGELES (AP) --- Shohei Ohtani opened his first news conference with
+the Los Angeles Dodgers by dodging questions about whether he had a
+second Tommy John surgery. "At the time of the announcement, we didn't
+know which way we were\...
+
+#### The family of a Chicago woman who died in a hotel freezer agrees to a \$10 million settlement
+
+https://apnews.com/article/ecd3bd9d2fef9dac73d38af6a2f67b71
+
+CHICAGO (AP) --- The family of a Chicago woman who froze to death after
+she became locked in a hotel freezer has agreed to a \$10 million legal
+settlement. Kenneka Jenkins' mother, Tereasa Martin, will receive about
+\$3.7 million\...
+
+### 联合早报
+
+#### 新闻人间：曾经"感动中国"的高耀洁
+
+https://www.zaobao.com/news/china/story20231216-1456397
+
+新闻人间：高耀洁
+被誉为"中国民间防艾（艾滋病，即爱之病）第一人"的高耀洁医生当地时间12月10日在美国纽约去世，享年95岁。《纽约时报》等美国主流媒体报道了高耀洁逝世的消息，但对很多中国读者来说，高耀洁这个名字已十分陌生。
+不过，高耀洁也曾大名鼎鼎......
+
+#### 温伟中：台北诚品与24小时阅读
+
+https://www.zaobao.com/news/china/story20231216-1456429
+
+在台北101大楼地标附近，号称全球最大繁体中文书店，也是全台湾唯一24小时书店、诚品信义店，将在12月24日平安夜熄灯。
+幸好，这则坚持了24年的故事还没结束，还有接棒店、代班店续写都市传奇，让任何人任何时候都能免费阅读，24小时不打烊。
+接棒店是位于松山文创园区的诚品松烟店，环境清幽，号称"看得见天空晨昏云影"......
+
+#### 香港38%市民想移居海外 20%打算移居大陆
+
+https://www.zaobao.com/news/china/story20231215-1456387
+
+（香港讯）香港中文大学一份民意调查结果显示，近三成八的香港市民打算移居海外，两成市民有移居中国大陆的打算。
+香港中文大学亚太研究所星期四（12月14日）在网站发出新闻稿，公布上述民调。
+根据民调，约37.7%受访市民表示有打算移居外地，比去年9月进行的上一轮调查（28.4%）高出9.3%。这轮调查有58%受访者没打算移居海外，另有4.3%回答"不知道／很难说／没有想过"......
+
+#### 中国国安部称唱衰中国经济危害国家安全
+
+https://www.zaobao.com/news/china/story20231215-1456385
+
+（北京综合讯）中国社媒平台微博提醒用户避免发表有关经济的悲观言论之际，中国国安部发文指出，唱衰中国经济是对中国特色社会主义制度及道路的攻击与否定和对中国的战略围堵打压。
+中国国安部是在星期五（12月15日）在官方微信账号上发表题为《国家安全机关坚决筑牢经济安全屏障》的文章，论及唱衰中国经济的危害......
+
+#### 北京地铁昌平线雪夜发生追尾事故 致102人骨折
+
+https://www.zaobao.com/news/china/story20231215-1456384
+
+北京地铁昌平线星期四（12月14日）晚发生列车脱节事故，是因两辆列车追尾导致。事故造成515人送医院检查，102人骨折。（互联网）
+（北京综合讯）北京地铁昌平线星期四（12月14日）晚发生列车脱节事故，是因两辆列车追尾导致。事故造成515人送医院检查，102人骨折。
+北京市交通委员会星期五（15日）在微信公号通报称，当天18时57分，地铁昌平线西二旗至生命科学园上行区间，两辆列车发生追尾事故......
+
+#### 英美批香港悬赏通缉五名海外港人
+
+https://www.zaobao.com/news/china/story20231215-1456382
+
+香港警务处国家安全处星期四（12月14日）举行记者会公布新一批悬红通缉名单，涉及五名现正身处海外的人士，即郑文杰、许颖婷、邵岚、霍嘉志及蔡明达，每人悬红100万港元。（香港中通社）
+香港特区政府继早前通缉罗冠聪和许智峰等八名前民主派人士后，周四（12月14日）再通缉五名海外港人。美国和英国纷纷谴责有关做法，但中国政府强调任何触犯法律红线的人都难逃法网......
+
+#### 中国家庭寻求"数字永生" 安抚丧亲之痛
+
+https://www.zaobao.com/news/china/story20231215-1456200
+
+"虽然我再也不能在你身边，但我的灵魂依然在这个世界，陪伴着你们度过余生。"痛失爱子的吴先生和妻子11月7日站在儿子的墓前，手机中播放着通过AI技术合成的孩子的声音。（法新社）
+（台州法新电）越来越多的中国家庭在失去亲人后，正转向人工智能（AI）技术来寻求慰藉。他们利用这项技术创建逼真的数字人物场景，以此来缓解至爱逝去的悲伤......
+
+#### 北京地铁车厢脱节 30余人受伤
+
+https://www.zaobao.com/news/china/story20231214-1456194
+
+（北京综合讯）中国北京地铁昌平线一列车的两节车厢在行驶途中脱节，造成30余人受伤。
+北京地铁星期四（12月14日）晚间在微博通报，昌平线因车辆故障，列车最后两节与前车在西二旗至生命科学园区段，"发生分离情况"，30余人受伤，无人员死亡。所有伤员送往医院治疗，事故原因正在调查中。
+微博流传的视频显示，列车车厢在连接处断开......
+
+#### 强寒潮席卷中国大片地区 电力供应面临考验
+
+https://www.zaobao.com/news/china/story20231214-1456191
+
+强寒潮星期四（12月14日）席卷中国大片地区。在北京街头，工人忙着用扫雪机清除道路上的积雪。（路透社）
+（北京综合讯）今年入冬以来的最强寒潮星期四（12月14日）席卷中国大片地区，冷空气未来两天将一路南下，预计北方多地气温将跌破历史同期纪录，南方气温上演冷暖大逆转。受强冷空气影响，中国电力供应正面临今冬以来的最大考验......
+
+#### 港中大副校长吴树培被即时解雇 曾参与反对校董会改组
+
+https://www.zaobao.com/news/china/story20231214-1456179
+
+吴树培于2007年加入中大，2017年起担任副校长（行政）及秘书长，负责统筹大学的专业及行政服务等。（香港中文大学）
+（香港综合讯）香港中文大学校董会星期三（13日）宣布通过决议，解雇中大副校长（行政）及秘书长吴树培，即时生效。吴树培对此表示非常遗憾......
+
+#### 香港国安处再发百万元悬赏通缉五名海外港人
+
+https://www.zaobao.com/news/china/story20231214-1456160
+
+（香港综合讯）香港警方国安处再悬赏百万港元，通缉五名海外港人。
+综合网媒"香港01"和星岛网报道，香港警方国安处总警司李桂华星期四（12月14日）在记者会上说，继7月悬赏通缉八名海外逃亡人士后，再各以100万港元（约17万新元）悬赏通缉五名海外逃亡人士，并冻结五人资产。
+他们是郑文杰（33岁）、许颖婷（24岁）、邵岚（24岁）、蔡明达（46岁）和霍嘉志（42岁）......
+
+#### 陷"小作文"争议 东方甄选股价三天跌近20%
+
+https://www.zaobao.com/news/china/story20231214-1456144
+
+中国直播带货平台东方甄选主播董宇辉的微博粉丝数超过130万人，是顶流主播之一。（互联网）
+（北京/广州综合讯）中国知名教育机构新东方近期陷入"小作文"争议，围绕旗下直播带货平台东方甄选的文案由谁撰写引发舆论风波，导致公司股价持续三天下跌。新东方创始人俞敏洪星期四（12月14日）发布声明称，事件说明公司管理上有很大的漏洞......
+
+#### 台湾大选临近 国民党副主席夏立言再访大陆
+
+https://www.zaobao.com/news/china/story20231214-1456137
+
+曾任台湾行政院陆委会主委的夏立言今年已四度访问中国大陆。图为他今年2月8日飞往大陆前在桃园国际机场接受媒体采访。（路透社档案照片）
+（台北综合讯）台湾在野的国民党副主席夏立言星期三（12月13日）抵达中国大陆访问，这是他今年第四次访问大陆。距离台湾总统大选仅有一个月时间之际，夏立言此行时机被视为高度敏感，迅速引发执政的民进党阵营批评......
+
+#### 柯文哲称选输不辞党主席 要将民众党打造成耶稣会
+
+https://www.zaobao.com/news/china/story20231214-1456127
+
+台湾民众党总统候选人柯文哲12月13日说，目前不计划因竞选失利请辞党主席。他强调，要将民众党弄得像"耶稣会"一样，"有思想、有信仰"。（法新社档案照）
+在蓝绿夹杀下，台湾在野的民众党总统候选人柯文哲在最新民调支持度虽上升，但仍在第三位。他星期三（12月13日）说，目前并不计划因竞选失利请辞党主席，并强调要将民众党弄得像"耶稣会"一样，"有思想、有信仰"......
+
+#### 周海媚抢救病历遭泄露 北京警方行拘一名医院职工
+
+https://www.zaobao.com/news/china/story20231214-1456069
+
+（北京综合讯）中国香港著名演员周海媚于星期一（12月11日）因病去世，一名医院工作人员因泄露其急救病历被北京警方行拘。
+综合九派新闻、《中国青年报》等报道，疑似周海媚生前被送至北京顺义区某医院抢救的病历截图近日在网络流传。这份病历详细记录了她的个人资料和就诊时间。
+北京顺义公安星期四（12月14日）通报，警方近日查处一起散布他人隐私案件......
+
+#### 民众党抢到大选前夕的凯道路权
+
+https://www.zaobao.com/news/china/story20231213-1455993
+
+台湾总统府前的凯达格兰大道，向来是大选前夕最抢手的造势场合。以年轻族群为主的在野民众党，星期三（12月13日）以最快手速夺下1月12日凯道路权。
+执政的民进党则包下明年1月9日至11日三天的凯道路权；国民党申请到台北市政府前的路权。
+《TVBS》星期三公布民调显示，民进党"赖萧配"以36%领先国民党"侯康配"的32%和民众党"柯盈配"的22%......
+
+#### 香港"抢人才"计划吸引超20万份申请
+
+https://www.zaobao.com/news/china/story20231213-1455977
+
+（香港综合讯）香港"抢人才"计划截至今年11月底，共收超20万宗申请。香港政府表示，会密切留意各计划实施情况并适时优化。
+综合香港政府新闻网、香港电台等报道，劳工及福利局局长孙玉菡星期三（12月13日）说，香港各类人才引进计划截至上月底，共收到超过20万份申请，是去年申请数量的近四倍，其中超过12万份申请已经获批......
+
+#### 美新一轮制裁援俄实体与个人涉中国企业 中方：将采取必要措施
+
+https://www.zaobao.com/news/china/story20231213-1455969
+
+（华盛顿/北京综合讯）美国星期二（12月12日）宣布制裁来自中国、土耳其和阿联酋等国逾250个实体和个人，理由是涉嫌帮助俄罗斯进行军事采购。中国外交部星期三（13日）回应称，中方将采取必要措施，坚决维护中国企业的合法权益。
+综合彭博社与美国之音报道，美国表明，最新制裁打击的是助长俄罗斯对乌克兰发动战争能力，并加强俄罗斯未来能源生产和出口能力的个人与实体......
+
+#### 碧桂园四董事主动降薪 行政开销大幅削减
+
+https://www.zaobao.com/news/china/story20231213-1455962
+
+面临流动性持续紧张，中国房地产巨头碧桂园的四名董事，自愿将年薪降至12万元人民币（2万2460新元）。图为中国江苏省镇江市一栋大楼顶部的碧桂园标志。（法新社）
+（佛山综合讯）面临流动性持续紧张，中国房地产巨头碧桂园实施自救措施，其四名董事自愿将年薪降至12万元（人民币，下同，2万2460新元）。为进一步削减成本，集团还取消了高管配车和免费食堂等福利......
+
+#### 中央经济工作会议令投资者失望 沪指再破3000点
+
+https://www.zaobao.com/news/china/story20231213-1455958
+
+（上海/华盛顿综合讯）中国A股与港股星期三（12月13日）双双下跌，代表外资风向的北向资金连续三天减仓，显示投资者对前一天落幕的官方年度经济工作会议未提出强有力的经济刺激措施感到失望。
+A股与港股星期三开盘即走低，其中，A股三大指数集体低开，随后全天维持低位运行，收盘均跌超1%。上证指数收跌1.15%，再度击破3000点，北向资金全天净卖出95.90亿元人民币（17.9亿新元）......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

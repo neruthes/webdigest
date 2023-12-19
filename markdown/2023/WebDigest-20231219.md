@@ -1,0 +1,995 @@
+Other formats: [PDF]() / [HTML](https://webdigest.pages.dev/readhtml/2023/WebDigest-20231219.html)
+
+
+# Web Digest 2023-12-19
+
+
+## Developers
+
+### Hacker News
+
+#### The teenager who lives like it's the 1940s
+
+https://www.bbc.com/news/articles/crgpjpr35nko
+
+https://news.ycombinator.com/item?id=38687171
+
+#### VW is putting buttons back in cars
+
+https://www.thedrive.com/news/vw-is-putting-buttons-back-in-cars-because-people-complained-enough
+
+https://news.ycombinator.com/item?id=38686967
+
+#### Apple halts US sales of Watch before Christmas after losing patent case
+
+https://www.ft.com/content/52a15bec-8dc2-4a19-9749-8b353c53035c
+
+https://news.ycombinator.com/item?id=38686086
+
+#### Nikola founder to be sentenced for federal fraud charges
+
+https://www.cnbc.com/2023/12/18/nikola-founder-trevor-milton-sentencing-fraud-charges.html
+
+https://news.ycombinator.com/item?id=38685607
+
+#### Fly Kubernetes
+
+https://fly.io/blog/fks/
+
+https://news.ycombinator.com/item?id=38685393
+
+#### Word2Vec received 'strong reject' four times at ICLR2013
+
+https://openreview.net/forum?id=idpCdOWtqXd60
+
+https://news.ycombinator.com/item?id=38684925
+
+#### Facebook Is Being Overrun with Stolen, AI-Gen Images That People Think Are Real
+
+https://www.404media.co/facebook-is-being-overrun-with-stolen-ai-generated-images-that-people-think-are-real/
+
+https://news.ycombinator.com/item?id=38684309
+
+#### Progress toward a GCC-based Rust compiler
+
+https://lwn.net/SubscriberLink/954787/41470c731eda02a4/
+
+https://news.ycombinator.com/item?id=38684102
+
+#### Why Are Things Expensive?
+
+https://www.why-expensive.com/
+
+https://news.ycombinator.com/item?id=38683594
+
+#### US Steel, once the largest corporation, agrees to sell to Nippon Steel
+
+https://www.cnn.com/2023/12/18/investing/us-steel-nippon-steel-deal/index.html
+
+https://news.ycombinator.com/item?id=38683493
+
+#### Beeper vs. Apple battle intensifies: Lawmakers demand DOJ investigation
+
+https://www.androidauthority.com/beeper-vs-apple-us-senators-letter-doj-3395333/
+
+https://news.ycombinator.com/item?id=38683178
+
+#### Figma and Adobe abandon proposed merger
+
+https://www.figma.com/blog/figma-adobe-abandon-proposed-merger/
+
+https://news.ycombinator.com/item?id=38681861
+
+#### Wasm3 entering a minimal maintenance phase
+
+https://github.com/wasm3/wasm3
+
+https://news.ycombinator.com/item?id=38681672
+
+#### \"I just bought a 2024 Chevy Tahoe for \$1\"
+
+https://twitter.com/ChrisJBakke/status/1736533308849443121
+
+https://news.ycombinator.com/item?id=38681450
+
+#### The \"Cheap\" Web
+
+https://potato.cheap
+
+https://news.ycombinator.com/item?id=38681437
+
+#### Paying Netflix \$0.53/H, etc.
+
+https://taylor.town/dollar-per-hour
+
+https://news.ycombinator.com/item?id=38681428
+
+#### EU opens proceedings against X over efforts to combat information manipulation
+
+https://www.reuters.com/technology/eu-opens-proceedings-against-x-over-its-efforts-combat-information-manipulation-2023-12-18/
+
+https://news.ycombinator.com/item?id=38681353
+
+#### Commission opens formal proceedings against X under the Digital Services Act
+
+https://ec.europa.eu/commission/presscorner/detail/en/ip_23_6709
+
+https://news.ycombinator.com/item?id=38681312
+
+#### Pilots hide mental health problems so they don't lose their licenses
+
+https://www.washingtonpost.com/travel/2023/12/15/pilots-mental-health-faa-certification/
+
+https://news.ycombinator.com/item?id=38678779
+
+#### Mickey, Disney, and the public domain: A 95-year love triangle
+
+https://web.law.duke.edu/cspd/mickey/
+
+https://news.ycombinator.com/item?id=38678021
+
+### Phoronix
+
+#### Nintendo Switch Online Controller Support Coming With Linux 6.8
+
+https://www.phoronix.com/news/Nintendo-Switch-NSO-Controller
+
+#### Firefox 121 Now Available With Wayland Enabled By Default
+
+https://www.phoronix.com/news/Firefox-121-Available
+
+#### Shotcut 23.12 Released With Wayland Crash Fix, Upgraded AV1 Encode/Decode
+
+https://www.phoronix.com/news/Shotcut-23.12-Released
+
+#### Intel 5th Gen Xeon Performance Benchmarks: Impressive Efficiency Gains With \"Optimized Power Mode\"
+
+https://www.phoronix.com/review/xeon-optimized-power-mode
+
+#### Qualcomm Snapdragon 8 Gen 3 Will Be Able To Boot On The Mainline Linux 6.8 Kernel
+
+https://www.phoronix.com/news/Snapdragon-8-Gen-3-Linux-6.8
+
+#### Intel Lunar Lake Thunderbolt Support Being Prepped For Linux
+
+https://www.phoronix.com/news/Intel-Lunar-Lake-Thunderbolt
+
+#### Gigabyte Waterforce AIO Cooler Driver Set To Premiere In Linux 6.8
+
+https://www.phoronix.com/news/Gigabyte-Waterforce-Linux-6.8
+
+#### RADV Vulkan Video Encoding Still Being Worked On
+
+https://www.phoronix.com/news/RADV-Vulkan-Video-Encode-Dec
+
+#### It's Looking Like 2024 Could Be The Year Of HDR On The Linux Desktop
+
+https://www.phoronix.com/news/KDE-HDR-End-Of-2023
+
+### GitHub
+
+#### anoma/namada
+
+https://github.com/anoma/namada
+
+Rust implementation of Namada, a Proof-of-Stake L1 for interchain
+asset-agnostic privacy\
+Language: Rust\
+Stars: 1519\
+Forks: 678
+
+#### ordinals/ord
+
+https://github.com/ordinals/ord
+
+👁‍🗨 Rare and exotic sats\
+Language: Rust\
+Stars: 2723\
+Forks: 1037
+
+#### yt-dlp/yt-dlp
+
+https://github.com/yt-dlp/yt-dlp
+
+A youtube-dl fork with additional features and fixes\
+Language: Python\
+Stars: 62229\
+Forks: 5117
+
+#### immich-app/immich
+
+https://github.com/immich-app/immich
+
+Self-hosted photo and video backup solution directly from your mobile
+phone.\
+Language: TypeScript\
+Stars: 23031\
+Forks: 1018
+
+#### freeCodeCamp/freeCodeCamp
+
+https://github.com/freeCodeCamp/freeCodeCamp
+
+freeCodeCamp.orgs open-source codebase and curriculum. Learn to code for
+free.\
+Language: TypeScript\
+Stars: 379390\
+Forks: 35045
+
+### Dribbble
+
+#### Tarot card #00: The Fool
+
+https://dribbble.com/shots/23263274
+
+#### Wonka x theory11 Playing Cards
+
+https://dribbble.com/shots/23259494
+
+#### Southern Red Bishop
+
+https://dribbble.com/shots/23241811
+
+#### Case Study: Advocacy Through Walls Website
+
+https://dribbble.com/shots/23258899
+
+#### Manufactory
+
+https://dribbble.com/shots/23258744
+
+#### AI is Your Friend!
+
+https://dribbble.com/shots/23250382
+
+#### Elastic Path Rebrand + Case Study
+
+https://dribbble.com/shots/23252971
+
+#### Travel Icon Set - Vol 1.
+
+https://dribbble.com/shots/23248213
+
+#### Gingerbread Cabin 🍭
+
+https://dribbble.com/shots/23241686
+
+#### Jetpack - Snowboard Design
+
+https://dribbble.com/shots/23244032
+
+#### Jason Broyles
+
+https://dribbble.com/shots/23143859
+
+#### Glyph Beer 15
+
+https://dribbble.com/shots/23237785
+
+#### Dribbbler's Crocs
+
+https://dribbble.com/shots/23240071
+
+#### Beaverdale sketch
+
+https://dribbble.com/shots/23243277
+
+#### ⚫⚪
+
+https://dribbble.com/shots/23076222
+
+#### Favorite Day Holiday
+
+https://dribbble.com/shots/23244544
+
+#### The Nutcracker
+
+https://dribbble.com/shots/23245299
+
+#### Mobile UI
+
+https://dribbble.com/shots/23240401
+
+#### Pryme Mobile App - Integrations Software
+
+https://dribbble.com/shots/23219892
+
+#### Beyond Ordinary
+
+https://dribbble.com/shots/23245108
+
+#### Christmas Tree Guide
+
+https://dribbble.com/shots/23243634
+
+#### ilcons / mini illustrated icons
+
+https://dribbble.com/shots/23232934
+
+#### jetadmin.io
+
+https://dribbble.com/shots/23234782
+
+#### Honk if you love burgers
+
+https://dribbble.com/shots/23238847
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### 因监管问题 Adobe 放弃以 200 亿美元收购 Figma
+
+https://www.solidot.org/story?sid=76915
+
+#### 欧盟对 X/Twitter 展开调查
+
+https://www.solidot.org/story?sid=76914
+
+#### 华为致力于将鸿蒙变成中国的 Android
+
+https://www.solidot.org/story?sid=76913
+
+#### 美国核聚变实验室多次实现"点火"
+
+https://www.solidot.org/story?sid=76912
+
+#### 卡塔尔航空因差评封杀了一名 YouTube 主播
+
+https://www.solidot.org/story?sid=76911
+
+#### 英特尔、三星和台积电演示 3D 堆叠晶体管
+
+https://www.solidot.org/story?sid=76910
+
+#### Iterate.ai 开源能识别武器的 AI 系统
+
+https://www.solidot.org/story?sid=76909
+
+#### 米老鼠将于 2024 年 1 月 1 日进入公有领域
+
+https://www.solidot.org/story?sid=76908
+
+#### 微软宣布 Windows Protected Print Mode
+
+https://www.solidot.org/story?sid=76907
+
+#### 美国官员称华为最新芯片性能落后
+
+https://www.solidot.org/story?sid=76906
+
+#### Debian 准备停止支持 i386 架构
+
+https://www.solidot.org/story?sid=76905
+
+#### 科学家确定怀孕期间呕吐恶心的原因
+
+https://www.solidot.org/story?sid=76904
+
+#### 土星卫星恩克拉多斯有适合生命的成分
+
+https://www.solidot.org/story?sid=76903
+
+#### 曾呼吁植树的生态学家对种植同一种树发出警告
+
+https://www.solidot.org/story?sid=76902
+
+#### 贝佐斯表示 Blue Origin 需要加快速度
+
+https://www.solidot.org/story?sid=76901
+
+#### OpenAI 因字节跳动使用 GPT 训练自己的 AI 模型而封锁其账号
+
+https://www.solidot.org/story?sid=76900
+
+#### Firefox Android 版支持逾 450 个扩展
+
+https://www.solidot.org/story?sid=76899
+
+### V2EX
+
+#### \[酷工作\] 澳洲远程 前端兼职
+
+https://www.v2ex.com/t/1001514
+
+#### \[生活\] 地震应急准备想法
+
+https://www.v2ex.com/t/1001512
+
+#### \[问与答\] 请问各路大神，有没有办法可以自动保存群图片和群文件，长期征询。
+
+https://www.v2ex.com/t/1001511
+
+#### \[硬件\] 用 PC 当监控 NVR 的方案
+
+https://www.v2ex.com/t/1001510
+
+#### \[云修电脑\] 有高人能分析下蓝屏原因吗？
+
+https://www.v2ex.com/t/1001509
+
+#### \[问与答\] 美区 app store 有 0.01 美元的软件吗？
+
+https://www.v2ex.com/t/1001507
+
+#### \[游戏\] 有没有那种写实风格的武侠或者历史类 rpg 游戏？
+
+https://www.v2ex.com/t/1001506
+
+#### \[全球工单系统\] 已经存在很多年的垃圾邮件套路网易邮箱没有识别到呀
+
+https://www.v2ex.com/t/1001504
+
+#### \[问与答\] 刷抖音看到个挺好看的终端配色
+
+https://www.v2ex.com/t/1001503
+
+#### \[问与答\] 小程序备案会审查主体以前提交的网站域名备案吗？
+
+https://www.v2ex.com/t/1001502
+
+#### \[Android\] 小米 BL 解锁答题真的是在抽象的道路上越走越远
+
+https://www.v2ex.com/t/1001500
+
+#### \[分享创造\] 分享自己的跨平台剪切板同步方案
+
+https://www.v2ex.com/t/1001499
+
+#### \[宽带症候群\] 关于游戏服务器被 D
+
+https://www.v2ex.com/t/1001498
+
+#### \[程序员\] 为什么打开 leetcode 中文网要验证手机号啊，能不验证吗
+
+https://www.v2ex.com/t/1001497
+
+#### \[OpenAI\] ChatGPT Plus 账号独享 可改密 价格比官网低
+
+https://www.v2ex.com/t/1001495
+
+#### \[分享发现\] 通過幣的方式讓自己的收入回家 意外的順利
+
+https://www.v2ex.com/t/1001494
+
+#### \[问与答\] 「过去分词」中的「分」是怎来的，有什么缘由吗？
+
+https://www.v2ex.com/t/1001493
+
+#### \[求职\] \[求职/远程\]五年全栈，寻岗位
+
+https://www.v2ex.com/t/1001492
+
+#### \[前端开发\] 想搞一个照片墙的静态页面，图片文件为 zip 包，有没有现成的轮子？
+
+https://www.v2ex.com/t/1001490
+
+#### \[问与答\] AP 面板防水吗，可以装到卫生间吗？
+
+https://www.v2ex.com/t/1001489
+
+#### \[程序员\] 本地文件批量重命名，现在可以用 web 实现了
+
+https://www.v2ex.com/t/1001486
+
+#### \[DevOps\] 开源 CMDB 新增支持多种认证方式: CAS、OAuth2.0、OIDC，并已兼容测试 casdoor
+
+https://www.v2ex.com/t/1001485
+
+#### \[问与答\] 求助，学校实习不给请假怎么办
+
+https://www.v2ex.com/t/1001484
+
+#### \[写周报\] 独立开发周记 #44：只想做一个沙发土豆
+
+https://www.v2ex.com/t/1001483
+
+#### \[Apple\] 15promax 屏幕被我拍到了水泥地板上，怎么检查屏幕是否有留下暗病？
+
+https://www.v2ex.com/t/1001482
+
+#### \[程序员\] 发现即便是搜索简体中文内容， google 也比百度更精准
+
+https://www.v2ex.com/t/1001481
+
+#### \[职场话题\] 35+，失业了，好慌
+
+https://www.v2ex.com/t/1001480
+
+#### \[问与答\] 实在忍不住吐槽苹果现在垃圾到连鼠标都不能自理
+
+https://www.v2ex.com/t/1001479
+
+#### \[问与答\] 去哪里获取一些新消息比较好呀
+
+https://www.v2ex.com/t/1001478
+
+#### \[问与答\] 腾讯视频会员现在有没有优惠渠道
+
+https://www.v2ex.com/t/1001476
+
+#### \[程序员\] 感觉 Java 方面能指引方向的大神比 Javascript 少很多
+
+https://www.v2ex.com/t/1001475
+
+#### \[Windows\] 公司要买正版 Windows，什么途径靠谱而且又优惠呢？有没有大佬知道
+
+https://www.v2ex.com/t/1001474
+
+#### \[分享创造\] 我用 GPT 3.5 为 20 万个图标和 5 千个 Emoji 分别构建了多语言搜索引擎
+
+https://www.v2ex.com/t/1001472
+
+#### \[酷工作\] Android（AIGC、远程办公）
+
+https://www.v2ex.com/t/1001471
+
+#### \[问与答\] 你们的 Palm Phone 可以开启热点么?
+
+https://www.v2ex.com/t/1001469
+
+#### \[程序员\] 请教如何把一个已经写好的 shell 脚本"内置"到 C 语言程序里并运行。
+
+https://www.v2ex.com/t/1001468
+
+#### \[奇思妙想\] 大家一起来探索下躺平财富自由的可行性\...
+
+https://www.v2ex.com/t/1001467
+
+#### \[游戏开发\] 求推荐 2D 游戏引擎
+
+https://www.v2ex.com/t/1001464
+
+#### \[iCloud\] 求转移/合并 iCloud 账号的最优解
+
+https://www.v2ex.com/t/1001463
+
+#### \[问与答\] CPE 的奇怪重启问题
+
+https://www.v2ex.com/t/1001462
+
+#### \[Android\] 关于 Android 手机密码的一些问题
+
+https://www.v2ex.com/t/1001461
+
+#### \[宽带症候群\] er2260t 原厂固件请教端口映射问题
+
+https://www.v2ex.com/t/1001460
+
+#### \[深圳\] 深圳福田上梅林 梅村站 找舍友
+
+https://www.v2ex.com/t/1001459
+
+#### \[问与答\] 新买的苹果电脑半年修了 6 次，一个月一次，如何维权？
+
+https://www.v2ex.com/t/1001456
+
+#### \[Figma\] Figma 终止了和 Adobe 的合并
+
+https://www.v2ex.com/t/1001455
+
+#### \[Apple\] 请问有没有 ios 短信自动转发的 app 或者解决方法。
+
+https://www.v2ex.com/t/1001454
+
+#### \[程序员\] 请教一个问题 sqlserver 在频繁写入时，会不会造成锁表。
+
+https://www.v2ex.com/t/1001453
+
+#### \[酷工作\] 招聘远程！远程！远程！
+
+https://www.v2ex.com/t/1001452
+
+#### \[问与答\] 程序员的最佳技术学习方向应该是什么呢
+
+https://www.v2ex.com/t/1001451
+
+#### \[程序员\] 我们设计了一个 npm install 不了的 Node Package，正在众筹，感兴趣的同学可以看看
+
+https://www.v2ex.com/t/1001450
+
+## Generic News
+
+### AP News
+
+#### Amid accusations, French actor Gerard Depardieu's figure is removed from a Paris wax museum
+
+https://apnews.com/article/88042adbb3a883931da28c73a7e1c243
+
+PARIS (AP) --- The wax figure of actor Gerard Depardieu has been removed
+from Paris' most famous wax museum, following negative reactions from
+visitors over allegations about his conduct with women, the museum said
+Monday. The decision to\...
+
+#### Berlin Zoo sends the first giant pandas born in Germany to China
+
+https://apnews.com/article/cc80f883b79ae6cc292777f7ac9774d8
+
+BERLIN (AP) --- The Berlin Zoo has sent the first giant pandas born in
+Germany to China, dispatching the 4-year-olds on a journey that was
+delayed by the COVID-19 pandemic. Pit and Paule, who also are known by
+the Chinese names Meng Xiang\...
+
+#### That's a wrap: Bryant Gumbel and HBO's 'Real Sports' air their last episode after 29 years
+
+https://apnews.com/article/08cc7ce042d68f02828f36dd858b808a
+
+NEW YORK (AP) --- For the last few years of its life, HBO's "Real
+Sports" taped its episodes on the same Manhattan block where CBS' "60
+Minutes" resides. They shared a sensibility along with a neighborhood.
+But while "60 Minutes"\...
+
+#### Police say driver accidentally struck parked SUV in Biden's motorcade near campaign headquarters
+
+https://apnews.com/article/ff47e3d21cc4f3ca5b85be0aa9e2ed79
+
+WILMINGTON, Del. (AP) --- Wilmington police say a 46-year-old driver
+believed to be drunk accidentally plowed into a parked SUV that was
+guarding President Joe Biden's motorcade Sunday night while the
+president was leaving a visit to his\...
+
+#### Auburn controls USC 91-75 in Bronny James' first road game
+
+https://apnews.com/article/b9ca6144b0f8ae03abbf4adb764450b5
+
+AUBURN, Ala. (AP) --- A dominant performance by Auburn served as a
+reminder that neither USC nor Bronny James are a finished product. Aden
+Holloway scored 15 points with six assists and Jaylin Williams had 14
+points to help Auburn beat\...
+
+#### LeBron James-produced special wins Daytime Emmy award
+
+https://apnews.com/article/a388fe089c23713deb34ec8f8f6515eb
+
+LOS ANGELES (AP) --- A show produced by Los Angeles Lakers superstar
+LeBron James has won a Daytime Emmy. "Recipe for Change: Standing Up to
+Antisemitism" won for outstanding daytime special at the Creative Arts
+and Lifestyle ceremony\...
+
+#### Luton captain Tom Lockyer is undergoing tests and scans after cardiac arrest during EPL game
+
+https://apnews.com/article/ae5873ee639118981d6d727c514c429c
+
+LUTON, England (AP) --- Luton captain Tom Lockyer was undergoing tests
+and scans at hospital on Sunday after suffering a cardiac arrest during
+a Premier League game, his club said. Lockyer, who collapsed during a
+game in May and underwent\...
+
+#### Maury Povich receives lifetime achievement award from wife Connie Chung at Daytime Emmys
+
+https://apnews.com/article/118e53c4942a50c4e8462cca2080b208
+
+LOS ANGELES (AP) --- Maury Povich received the Daytime Emmys Lifetime
+Achievement Honor on Saturday from his wife, journalist Connie Chung.
+The 84-year-old talk show host, who retired last year, was honored
+during the creative arts\...
+
+#### NFL bans Eagles security chief Dom DiSandro from sideline for rest of regular season, AP sources say
+
+https://apnews.com/article/454e1679b8fb7d99a20dedd0e7b242ee
+
+The NFL has banned Eagles security chief Dom DiSandro from being on the
+sideline for the remainder of the regular season after he was ejected
+from a game earlier this month for a scuffle with 49ers linebacker Dre
+Greenlaw, two people\...
+
+#### Boston Tea Party turns 250 years old with reenactments of the revolutionary protest
+
+https://apnews.com/article/7d8971ed0bfaa1084bbb130c33afaba2
+
+BOSTON (AP) --- Patriotic mobs and harbor tea-dumping returned to Boston
+on Saturday as the city marked the 250th anniversary of the
+revolutionary protest that preceded America's independence. The
+commemoration of the Boston Tea Party\...
+
+#### Quaker Oats recalls granola products over concerns of salmonella contamination
+
+https://apnews.com/article/b4b821bf6c038e2815c788a092279aff
+
+CHICAGO (AP) --- Quaker Oats on Friday recalled several of its granola
+products, including granola bars and cereals, saying the foods could be
+contaminated with salmonella. Salmonella infections can cause fever,
+diarrhea, nausea, vomiting\...
+
+#### Browns star Myles Garrett fined \$25,000 by NFL for criticizing officials after game, AP source says
+
+https://apnews.com/article/d2bf34a507ae4f1c393b0a6b8e7449f1
+
+CLEVELAND (AP) --- Cleveland Browns star defensive end Myles Garrett was
+fined \$25,000 by the NFL for "public criticism of officiating" after he
+made pointed remarks following last week's game against Jacksonville, a
+person familiar\...
+
+#### Mayim Bialik is out as a host of 'Jeopardy!'
+
+https://apnews.com/article/545613a84a54c23d07da4a9f665172dd
+
+LOS ANGELES (AP) --- Mayim Bialik won't be giving answers as a host of
+"Jeopardy!" anymore. "The Big Bang Theory" actor posted news of her
+departure on Instagram on Friday. "Sony has informed me that I will no
+longer be hosting the\...
+
+### Reuters
+
+#### Moody's and Fitch say Chile's polarization, social demands persist after constitution vote
+
+https://www.reuters.com/world/americas/moodys-fitch-say-chiles-polarization-social-demands-persist-after-constitution-2023-12-18/
+
+A vote in Chile to reject a new constitution on Sunday reduced
+regulatory uncertainty but does not resolve social discontent or
+political divisions, rating agencies said on\...
+
+#### At least 250,000 flee fighting in Sudan's El Gezira state -IOM
+
+https://www.reuters.com/world/africa/least-250000-flee-fighting-sudans-el-gezira-state-iom-2023-12-18/
+
+At least 250,000 to 300,000 people have fled Sudans El Gezira state
+since Dec. 15 as a result of clashes between the Rapid Support Forces
+and Sudans army, the International Organization for Migration\...
+
+#### Russian diplomats: New EU sanctions show measures against Moscow have failed
+
+https://www.reuters.com/world/europe/russian-diplomats-new-eu-sanctions-show-measures-against-moscow-have-failed-2023-12-18/
+
+Russias diplomatic mission to the European Union said on Monday that new
+sanctions imposed by the EU showed that punitive measures against Moscow
+had\...
+
+#### Jordan strikes Iran-linked drugs smugglers in southern Syria - sources
+
+https://www.reuters.com/world/middle-east/jordan-strikes-iran-linked-drugs-smugglers-southern-syria-sources-2023-12-18/
+
+Jordan on Monday launched several aerial raids into its northern
+neighbour Syria against hideouts of Iranian-backed drug smugglers in
+retaliation against a large-scale smuggling operation, regional
+intelligence sources\...
+
+#### IMF governors approve 50% increase in lending resources with no shareholding changes
+
+https://www.reuters.com/business/finance/imf-governors-approve-50-increase-lending-resources-with-no-shareholding-changes-2023-12-18/
+
+The International Monetary Funds governing body has approved a 50%
+increase in quota resources to be contributed by member countries in
+proportion to their current IMF shareholding, bringing total quotas to
+\$960\...
+
+#### Texas to arrest migrants crossing border illegally under new state law
+
+https://www.reuters.com/world/us/texas-arrest-migrants-crossing-border-illegally-under-new-state-law-2023-12-18/
+
+Texass governor is expected to sign a law on Monday that will allow
+state law enforcement to arrest people suspected of crossing the
+U.S.-Mexico border illegally, giving local officers powers long
+delegated to the federal\...
+
+#### Commercial ship still hijacked off Somali coast - sources
+
+https://www.reuters.com/world/africa/commercial-ship-still-hijacked-off-somali-coast-sources-2023-12-18/
+
+A commercial vessel hijacked by unknown assailants remains off the coast
+of Somalia raising fears of further instability for global shipping as
+attacks escalate in the Red Sea, maritime security sources said on\...
+
+#### Israel shipping costs rising as lines pull out and Red Sea attacks worsen
+
+https://www.reuters.com/world/middle-east/israel-shipping-costs-rising-lines-pull-out-red-sea-attacks-worsen-2023-12-18/
+
+The cost of shipping goods to Israel by sea has risen in recent days as
+some container lines pull out while others impose new surcharges, adding
+to the countrys supply chain pressures amid its war in Gaza,
+shipping\...
+
+#### Seven European countries pledge CO2-free power systems by 2035
+
+https://www.reuters.com/business/energy/seven-european-countries-pledge-co2-free-power-systems-by-2035-2023-12-18/
+
+Seven countries including Germany, the Netherlands and France pledged on
+Monday to eliminate CO2-emitting power plants from their electricity
+systems by\...
+
+#### Gaza grandfather describes killing of his family by Israeli soldiers
+
+https://www.reuters.com/world/middle-east/gaza-grandfather-describes-killing-his-family-by-israeli-soldiers-2023-12-18/
+
+When the Israeli soldiers entered the Gaza school where Yousef Khalil
+was sleeping near his family, they began shooting indiscriminately,
+killing nine people including children, he said, pointing to
+bullet-pocked, bloodstained\...
+
+#### Ex-US, NATO officials call on Congress to pass new Ukraine aid
+
+https://www.reuters.com/world/ex-us-nato-officials-call-congress-pass-new-ukraine-aid-2023-12-18/
+
+More than 40 former top U.S. and NATO diplomats and defense officials on
+Monday urged Congress to approve new aid for Ukraine, warning that
+losing its war with Russia would be disastrous for Ukraine and threaten
+the security of the United\...
+
+#### Spanish court halts exhumations of Civil War dead from Francoist mausoleum
+
+https://www.reuters.com/world/europe/spanish-court-halts-exhumations-civil-war-dead-francoist-mausoleum-2023-12-18/
+
+Spains High Court on Monday ordered a temporary stop to exhumations of
+Spanish Civil War victims from a Francoist mausoleum after the
+granddaughter of one victim said the disinterment work could lead to the
+desecration of\...
+
+#### Convicted cardinal wants to 'shout to the world' he is innocent
+
+https://www.reuters.com/world/europe/convicted-cardinal-wants-shout-world-he-is-innocent-2023-12-18/
+
+Cardinal Angelo Becciu, the most senior Roman Catholic Church official
+ever to be tried by a Vatican criminal court, professed his innocence on
+Monday in his first public comments since being found guilty of
+embezzlement and\...
+
+### 联合早报
+
+#### 中国首艘超深水大洋钻探船"梦想"号即将试航
+
+https://www.zaobao.com/news/china/story20231218-1456912
+
+中国首艘超深水大洋钻探船------"梦想"号，由中国自然资源部中国地质调查局牵头负责的重大科技创新工程，由中国船舶集团设计建造，150余家单位参研参建，预计于2024年全面建成。（中新社）
+（广州综合讯）中国自主研制的第一艘超深水大洋钻探船，正式命名为"梦想"号，并计划于近日首次试航......
+
+#### 老家违建被谷歌地图标示为"赖皮寮" 赖清德过去决策被质疑为双重标准
+
+https://www.zaobao.com/news/china/story20231218-1456906
+
+民进党总统候选人赖清德位于新北市万里的老家，在谷歌（Google）地图上一度被标示为"赖皮寮"。（自由时报）
+台湾执政的民进党总统候选人赖清德老家的违建争议延烧数月，他坚持"依法公平"处理而不愿拆除，其决策风格和执拗个性显露无遗。
+赖清德位于新北市万里的老家，在谷歌（Google）地图上一度被标示为"赖皮寮"，已成为民众打卡的新观光景点；经人检举下架后，再被标示为"赖功德祠堂"......
+
+#### 时隔十天 台湾军方再侦获大陆空飘气球越过台海中线
+
+https://www.zaobao.com/news/china/story20231218-1456898
+
+（台北综合讯）时隔十天，台湾军方再侦获中国大陆的空飘气球越过台海中线。
+台湾国防部星期一（12月18日）在官网通报，指两枚大陆空飘气球分别在星期天（12月17日）上午9时03分和下午2时43分越过台海中线，出现在基隆西北方约110海里，高度约2万7000英尺（8229公尺）以下的地方，并在上午9时36分和下午4时35分消失......
+
+#### 中国据报在马来西亚组装高端芯片避美制裁
+
+https://www.zaobao.com/news/china/story20231218-1456896
+
+2021年10月15日，一名工人在马来西亚芯片封装企业友尼森（Unisem）的怡保工厂检查半导体芯片。（路透社档案照）
+（北京／吉隆坡综合讯）随着美国对中国芯片业的制裁加剧，越来越多中国半导体公司开始寻求马来西亚企业的帮助，在当地组装部分高端芯片，分散潜在风险。
+路透社星期一（12月18日）引述三名消息人士透露，中国企业正与马来西亚芯片封装企业合作组装图像处理器（GPU）......
+
+#### 黎智英涉违反香港国安法案开审 最高可判终身监禁
+
+https://www.zaobao.com/news/china/story20231218-1456891
+
+有"王婆婆"之称的社运人士王凤瑶，早上约8时手持英国国旗到达西九龙裁判法院外，被警员包围，其后被带到法院外的示威区。（法新社）
+（香港／北京综合讯）被控违反《香港国安法》的壹传媒创始人黎智英案星期一开审，美英政府分别发表声明，要求香港特区政府立即释放黎智英。中国外交部批评，美英此举是"赤裸裸的政治操弄和百分百的双重标准"......
+
+#### 安谋重组在华业务 裁员逾70名工程师
+
+https://www.zaobao.com/news/china/story20231218-1456880
+
+（北京综合讯）英国半导体和软件设计公司安谋（Arm）在中国进行重组，裁员数十名员工，部分受影响的岗位将迁至亚洲以外地区。
+彭博社星期一（12月18日）引述消息人士透露，安谋此次裁减了70多名软件工程师，其中约15名员工将被转岗至与中国市场相关的其他项目，一些被裁的岗位则由曾参与安谋全球业务的合同软件工程师填补......
+
+#### ​中国官媒：明年经济要警惕"黑天鹅"防范"灰犀牛"
+
+https://www.zaobao.com/news/china/story20231218-1456879
+
+民众12月6日在中国金融中心上海外滩的广场上，欣赏城市夜景。（法新社）
+（北京综合讯）中国官方在上周结束的年度经济工作会议上，提出要统筹化解房地产、地方债务与中小金融机构这三大领域风险。中国官媒星期天发表文章称，明年经济工作要高度警惕"黑天鹅"事件，随时防范"灰犀牛"事件......
+
+#### 天津至北京大兴国际机场铁路开通运营
+
+https://www.zaobao.com/news/china/story20231218-1456840
+
+（北京综合电）天津至北京大兴国际机场铁路星期一（12月18日）开通运营，天津西至大兴机场站间最快41分钟可达。
+综合新华社和中新社报道，天津至大兴（简称津兴）城际铁路起自天津西站，途经天津市红桥区、河北省廊坊市、北京市大兴区，接入大兴机场站，线路全长约101公里。其中全长47公里的胜芳至固安东段为新建线路，设计时速250公里......
+
+#### 于泽远：中国航天连发大招
+
+https://www.zaobao.com/news/china/story20231218-1456655
+
+中国航天近日连发大招，12月14日用长征二号F运载火箭再次成功发射可重复使用航天器；隔天，又用长征五号遥六运载火箭将遥感四十一号卫星送入预定轨道。这两次发射标志着中国航天技术水平又有了新突破。
+可重复使用航天器是指可重复使用、能自由往返于地球表面与太空之间，运送乘员和有效载荷，并可较长时间在轨道停留和机动、完成各种任务的航天器，包括载人飞船、货运飞船、航天飞机等......
+
+#### 京沪楼市新政出台 首个周末买气各不同
+
+https://www.zaobao.com/news/china/story20231217-1456707
+
+北京和上海房地产新政出台后首个周末，两地楼市温度不同。图为被积雪覆盖的北京亮马河沿岸人行道。（彭博社）
+北京和上海房地产新政出台后首个周末，两地楼市温度不同。分析师预测，京沪楼市有望迎来一波回暖行情，而整体政策仍有进一步放宽空间。
+京沪两城上周四（12月14日）同步出台新政策，包括调整普通住宅认定标准、降低首付比例，以及下调房贷利率下限等......
+
+#### 中国明年5月起实施《非银行支付机构监督管理条例》
+
+https://www.zaobao.com/news/china/story20231217-1456701
+
+（北京综合讯）中国支付领域发展迅速，但存在违法挪用资金、提供电信诈骗资金转移通道等，官方为防范风险，明年5月起将实施相关监管条例。
+综合中国政府网和新华社星期天（12月17日）的消息，中国总理李强日前签署国务院令，公布《非银行支付机构监督管理条例》。该条例将于明年5月1日施行，是中央金融工作会议后出台的首部金融领域行政法规......
+
+#### 台湾选举周末拜票 蓝绿白都打出气势
+
+https://www.zaobao.com/news/china/story20231217-1456697
+
+台湾民众党总统候选人柯文哲的竞选总部总干事黄珊珊，星期六（12月16日）在脸书贴出柯文哲在台南造势时的背影。（黄珊珊脸书）
+台湾总统与立法委员选举倒数第四个周末，蓝绿白在寒天中从南到北拜票。蓝营主打两岸和平、经济发展；绿营亮出蔡英文路线，呼吁支持"英德美"（谐音赢得美）；白营连办两天万人大造势，柯文哲民调回稳......
+
+#### 台湾陷入与大陆"灰区地带冲突"执法困境
+
+https://www.zaobao.com/news/china/story20231217-1456693
+
+（台北综合讯）台湾官方指中国大陆渔船和海警在海上执行任务时，严重威胁台湾安全。当处理这类"灰区地带冲突"，台方何时决定使用武力，成为棘手问题。
+《联合报》星期天（12月17日）报道，中国大陆渔船、海警形同"海上民兵"，主要负责海上维权并执行部分军事任务，并可能配备武器。
+大陆船只执行任务过程中，与台湾易陷入一种既非战争也非和平模糊状态，即所谓"灰区地带冲突"......
+
+#### 网友质疑释义不当《新华字典》被起诉
+
+https://www.zaobao.com/news/china/story20231217-1456690
+
+（杭州综合讯）一名中国网民对《新华字典》某些词条释义提出质疑，认为表述不当且涉嫌违法，已向法院提起诉讼。
+综合极目新闻、看度新闻等报道，一名为"钱妞，春天"网民上周五（12月15日）发布视频，称第12版《新华字典》某些内容"涉嫌违反相关法律法规，并可能对未成年人造成不良影响"，已将诉讼材料提交至杭州市余杭区法院，预计七个工作日内会有初步结果......
+
+#### 中疾控：目前中国冠病感染处于较低流行水平
+
+https://www.zaobao.com/news/china/story20231217-1456684
+
+中国疾病预防控制中心指出，中国冠病病毒感染目前处于较低流行水平。图为北京一名戴着口罩的女子，12月14日走在白雪皑皑的街道上。（路透社）
+（北京综合电）中国疾病预防控制中心指出，中国冠病病毒感染目前处于较低流行水平......
+
+#### 购房者担忧不确定经济环境 深圳放宽购房限制未能持续刺激需求
+
+https://www.zaobao.com/news/china/story20231217-1456683
+
+为提振房地产市场，深圳宣布降低居民购买二套住房的资金门槛，把住房贷款最低首付款比例从70%-80%统一下调至40%。（林煇智摄）
+深圳放宽购房限制提高了消费者升级住房的兴趣，但在不明朗的经济环境下，新政策对刺激实际购房需求作用不大，交易量在政策出台第二周已开始减缓。
+受访专家认为，不确定的经济环境是购房者的主要担忧，大多数购房者对市场信心仍不足，担心未来房价继续下跌而选择观望......
+
+#### 特稿：拼多多撼动阿里京东电商地位
+
+https://www.zaobao.com/news/china/story20231217-1456653
+
+疫后消费降级的大潮，助推了主打性价比的中国电商平台拼多多，令它在中国和海外市场同时飞速发展。（路透社）
+刚刚过去的"双十二"网购节，上海白领刘静怡（29岁）最大一笔花销，是在购物网站"拼多多"上买了一台iPad平板电脑。
+刘静怡告诉《联合早报》，这台iPad在拼多多售价比官网便宜近800元（人民币，下同，150新元），也比淘宝和京东便宜三四百元不等......
+
+#### 澳洲有信心中国明年会取消对澳酒类关税
+
+https://www.zaobao.com/news/china/story20231217-1456648
+
+（悉尼综合讯）中澳贸易关系取得新进展，澳大利亚政府有信心中国会在2024年初撤销对澳洲酒类征收关税。
+综合英国"天空新闻"、路透社等报道，澳洲贸易部长法雷尔星期天（12月17日）说，"我非常有信心，在新年伊始我们将从中国当局那里得到一个理想结果：中国将解除对澳酒类的禁令。"
+法雷尔指出，澳洲葡萄酒业正进入加工季，这项举措对葡萄酒制造商来说意义非凡。
+中国曾是澳洲最大葡萄酒出口市场......
+
+#### 台湾特稿：打贪反诈抑房价 蓝绿白内政比拼 选民更信谁？
+
+https://www.zaobao.com/news/china/story20231217-1456375
+
+台北市信义区豪宅"陶朱隐园"，一户成交价高达18亿新台币（约7600万新元），许多买不起房子、只能租房的"无壳蜗牛"只能望屋兴叹。（温伟中摄）
+台湾总统选战倒数四周，蓝绿对决形势日渐清晰，中间选民将左右战局，民生和内政议题让民众最有感。民进党八年执政包袱酝酿政党轮替呼声，但在野党战力不足、整合受挫，导致思变的民心虽继续焖烧，却尚未沸腾......
+
+#### 美国公布新一轮对台军售 学者：向中国重申美国印太战略不变
+
+https://www.zaobao.com/news/china/story20231216-1456562
+
+美国国务院批准向台湾出售总额约3亿美元（约4亿新元）的军备，来维护战术信息系统。图为台中军事基地的一名义务兵，11月23日专心聆听台湾总统蔡英文在台上发表讲话。（路透社）
+台湾总统大选倒数不到一个月，美国国务院批准向台湾出售总额约3亿美元（约4亿新元）的军备，来维护战术信息系统。
+受访学者认为，美国希望通过军售向台湾保证美方的支持，同时也向中国大陆重申，其在印度洋-太平洋地区的战略不会改变......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

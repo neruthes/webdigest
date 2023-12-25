@@ -262,6 +262,7 @@ case $1 in
         ;;
     pkgdist/*.*)
         # echo "[INFO] Uploading tarballs..."
+        ### We may fix dist package backup later...
         du -h "$1"
         # echo cfoss "$1"
         ;;

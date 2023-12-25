@@ -1,7 +1,7 @@
 #!/bin/bash
 
 export TZ=UTC
-source "$HOME/.python-venv/bin/activate"
+#source "$HOME/.python-venv/bin/activate"
 
 
 function die() {
@@ -190,7 +190,7 @@ case $1 in
         # texfn="$(find issue -name '*.tex' | sort -r | head -n1)"
         # bash $0 $texfn
         bash src/markdown.sh
-        bash "$0" tgmsg gc rss wwwdist deploy pkgdist pkgdist/*.*
+        bash "$0" tgmsg gc rss wwwdist deploy pkgdist pkgdist/{web,www}*.tar.zstd
         git add .
         git commit -m "Automatic commit via 'bash build.sh today'"
         git push
@@ -213,7 +213,7 @@ case $1 in
     _dist/issue/*/*.pdf)
         pdffn="$1"
         # echo "$pdffn"
-        pdfrange $pdffn 1-1
+        pdfrange "$pdffn" 1-1
         rangedfn="/tmp/http/pdfrange/$(basename "$pdffn")"
         rangedfn="$(sed 's|.pdf$|_page1-1.pdf|' <<< "$rangedfn")"
         pdftoimg "$rangedfn"
@@ -256,21 +256,22 @@ case $1 in
     pkgdist | pkgdist/ )
         source .env
         echo "[INFO] Producing tarballs..."
-        tar -cf "pkgdist/pdfdist-$THISYEAR.tar" --exclude "_dist/issue/$THISYEAR/*.jpg" "_dist/issue/$THISYEAR"
-        tar -cf "pkgdist/wwwdist.tar" wwwdist/
-        tar -cf "pkgdist/webdb.tar" webdb/
+        tar --zstd -cf "pkgdist/pdfdist-$THISYEAR.tar.zstd" --exclude "_dist/issue/$THISYEAR/*.jpg" "_dist/issue/$THISYEAR"
+        tar --zstd -cf "pkgdist/wwwdist.tar.zstd" wwwdist/
+        tar --zstd -cf "pkgdist/webdb.tar.zstd" webdb/
         ;;
     pkgdist/*.*)
-        echo "[INFO] Uploading tarballs..."
-        cfoss $1
+        # echo "[INFO] Uploading tarballs..."
+        du -h "$1"
+        # echo cfoss "$1"
         ;;
     deploy)
         # shareDirToNasPublic
-        wrangler pages publish wwwdist --project-name=webdigest --commit-dirty=true --branch=main
+        wrangler pages deploy wwwdist --project-name=webdigest --commit-dirty=true --branch=main
         ;;
     '')
         bash $0 wwwdist pkgdist deploy
         # shareDirToNasPublic
-        bash $0 pkgdist/*.* tag
+        bash $0 pkgdist/{web,www}*.tar.zstd tag
         ;;
 esac

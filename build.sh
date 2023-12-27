@@ -202,17 +202,14 @@ case $1 in
         pdfrange $pdffn 1-1
         rangedfn="/tmp/http/pdfrange/$(basename "$pdffn")"
         rangedfn="$(sed 's|.pdf$|_page1-1.pdf|' <<< "$rangedfn")"
-        pdftoimg "$rangedfn"
-        imgfn="$rangedfn.jpg"
-        convert "$imgfn" -resize x1200 "$pdffn.jpg"
-        # cfoss "$pdffn.jpg"
         minoss "$pdffn.jpg"
         # echo "wanted rangedfn=/tmp/http/pdfrange/issue-20230107_page1-1.pdf"
         # echo "actual rangedfn=$rangedfn"
         ;;
     _dist/issue/*/*.pdf)
         pdffn="$1"
-        # echo "$pdffn"
+        echo "$pdffn"
+        cfoss "$pdffn" &
         pdfrange "$pdffn" 1-1
         rangedfn="/tmp/http/pdfrange/$(basename "$pdffn")"
         rangedfn="$(sed 's|.pdf$|_page1-1.pdf|' <<< "$rangedfn")"
@@ -220,6 +217,7 @@ case $1 in
         imgfn="$rangedfn.jpg"
         convert "$imgfn" -resize x1200 "$pdffn.jpg"
         cfoss "$pdffn.jpg"
+        wait
         ;;
     wwwdist*)
         echo "[INFO] Building website..."
@@ -232,14 +230,14 @@ case $1 in
                 if [[ ! -e $INDEXFILE ]]; then
                     echo "[INFO] Generating 'index.html' for directory '$RAWDIR'..."
                     sed "s:HTMLTITLE:Web Digest | ${RAWDIR}:" src/htmllib/dirindex.head.html \
-                        | sed "s|RAWDIRNAME|$RAWDIR|"  > $INDEXFILE
-                    for ITEM in $(ls $DIR | grep -v 'index.html' | sort -r); do
+                        | sed "s|RAWDIRNAME|$RAWDIR|"  > "$INDEXFILE"
+                    for ITEM in $(ls "$DIR" | grep -v 'index.html' | sort -r); do
                         if [[ -d $DIR/$ITEM ]]; then
                             ITEM_SUFFIX="/"
                         else
                             ITEM_SUFFIX=""
                         fi
-                        echo "<a class='dirindexlistanchor' href='./$ITEM$ITEM_SUFFIX'>$ITEM$ITEM_SUFFIX</a>" >> $INDEXFILE
+                        echo "<a class='dirindexlistanchor' href='./$ITEM$ITEM_SUFFIX'>$ITEM$ITEM_SUFFIX</a>" >> "$INDEXFILE"
                     done
                     cat src/htmllib/dirindex.tail.html >> "$INDEXFILE"
                 fi

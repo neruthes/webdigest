@@ -2,7 +2,7 @@
 
 ### This script may be used as the entry for a cronjob
 # 01 0 * * * bash /home/neruthes/DEV/webdigest/cron.sh
-# Run this job at 00:00 UTC
+# Run this job at 00:01 UTC
 
 
 
@@ -54,9 +54,9 @@ MARKUP=HTML tgbot-msg /home/neruthes/DEV/clinotifbot-tg $(pasm p tgid) _dist/tgm
 
 
 ### And play with experimental ApubNode instance
-cd /home/neruthes/DEV/mypubnode
-apubnode newnote webdigest '' < /home/neruthes/DEV/webdigest/_dist/tgmsg.html
-bash build.sh deploy
-git add .
-git commit -m 'Automatic commit '"$(date '+%F %T')"
-git push
+# cd /home/neruthes/DEV/mypubnode
+# apubnode newnote webdigest '' < /home/neruthes/DEV/webdigest/_dist/tgmsg.html
+# bash build.sh deploy
+# git add .
+# git commit -m 'Automatic commit '"$(date '+%F %T')"
+# git push

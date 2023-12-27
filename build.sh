@@ -31,7 +31,7 @@ case $1 in
         done
         ;;
     lastpdf)
-        realpath "$(find _dist -name 'WebDigest-*.pdf' | sort -r | head -n1)"
+        find _dist -name 'WebDigest-*.pdf' | sort -r | head -n1
         ;;
     tgmsg)
         source .env
@@ -198,11 +198,12 @@ case $1 in
     issue/*.tex)
         ntex "$1" --2
         pdffn="_dist/${1/.tex/.pdf}"
+        bash "$0" "$(bash "$0" lastpdf)"
         # echo "$pdffn"
-        pdfrange $pdffn 1-1
-        rangedfn="/tmp/http/pdfrange/$(basename "$pdffn")"
-        rangedfn="$(sed 's|.pdf$|_page1-1.pdf|' <<< "$rangedfn")"
-        minoss "$pdffn.jpg"
+        # pdfrange $pdffn 1-1
+        # rangedfn="/tmp/http/pdfrange/$(basename "$pdffn")"
+        # rangedfn="$(sed 's|.pdf$|_page1-1.pdf|' <<< "$rangedfn")"
+        # minoss "$pdffn.jpg"
         # echo "wanted rangedfn=/tmp/http/pdfrange/issue-20230107_page1-1.pdf"
         # echo "actual rangedfn=$rangedfn"
         ;;
@@ -216,6 +217,7 @@ case $1 in
         pdftoimg "$rangedfn"
         imgfn="$rangedfn.jpg"
         convert "$imgfn" -resize x1200 "$pdffn.jpg"
+        minoss "$pdffn.jpg"
         cfoss "$pdffn.jpg"
         wait
         ;;

@@ -1,0 +1,982 @@
+Other formats: [PDF](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/webdigest/WebDigest-20240101.pdf--c1f4e9422e228715cd7577d28896848a.pdf) / [HTML](https://webdigest.pages.dev/readhtml/2024/WebDigest-20240101.html)
+
+
+# Web Digest 2024-01-01
+
+
+## Developers
+
+### Hacker News
+
+#### Happy New Year HN!
+
+https://news.ycombinator.com/item?id=38826283
+
+https://news.ycombinator.com/item?id=38826283
+
+#### Sony software updates breaks movie theater projectors
+
+https://bsky.app/profile/donohoe.dev/post/3khu7w2kz7l2b
+
+https://news.ycombinator.com/item?id=38825623
+
+#### How to run a small social network (2019)
+
+https://runyourown.social/
+
+https://news.ycombinator.com/item?id=38825520
+
+#### Email addresses are not good 'permanent' identifiers for accounts
+
+[[https://utcc.utoronto.ca/ cks/space/blog/tech/EmailAddressesBadPermanentIDs](https://utcc.utoronto.ca/~cks/space/blog/tech/EmailAddressesBadPermanentIDs)]
+
+https://news.ycombinator.com/item?id=38823817
+
+#### Bun, JavaScript, and TCO
+
+https://www.onsclom.net/posts/javascript-tco
+
+https://news.ycombinator.com/item?id=38823673
+
+#### 7 watts idle -- building a low powered server/NAS on Intel 12th/13th gen
+
+https://mattgadient.com/7-watts-idle-on-intel-12th-13th-gen-the-foundation-for-building-a-low-power-server-nas/
+
+https://news.ycombinator.com/item?id=38823514
+
+#### Sweden Solar System
+
+https://en.wikipedia.org/wiki/Sweden_Solar_System
+
+https://news.ycombinator.com/item?id=38823482
+
+#### A 1690s Peanut is Reborn
+
+https://nationalpeanutboard.org/news/a-1690s-peanut-is-reborn/
+
+https://news.ycombinator.com/item?id=38823304
+
+#### I forked SteamOS for my living room PC
+
+https://iliana.fyi/blog/build-your-own-steamos-updates/
+
+https://news.ycombinator.com/item?id=38823101
+
+#### You're Supposed to Be Glad Your Tesla Is a Brittle Heap of Junk
+
+https://defector.com/youre-supposed-to-be-glad-your-tesla-is-a-brittle-heap-of-junk
+
+https://news.ycombinator.com/item?id=38822973
+
+#### Emacs-copilot: Large language model code completion for Emacs
+
+https://github.com/jart/emacs-copilot
+
+https://news.ycombinator.com/item?id=38822164
+
+#### Maersk ship hit by missile in the Red Sea
+
+https://gcaptain.com/maersk-ship-hit-by-missile-in-the-red-sea/
+
+https://news.ycombinator.com/item?id=38821372
+
+#### Compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT
+
+https://danluu.com/seo-spam/
+
+https://news.ycombinator.com/item?id=38821248
+
+#### More fun with Apple's internal tools: creating a PDS card
+
+https://www.downtowndougbrown.com/2023/12/more-fun-with-apples-internal-tools-creating-a-pds-card/
+
+https://news.ycombinator.com/item?id=38819618
+
+#### Ugrep -- a more powerful, fast, user-friendly, compatible grep
+
+https://ugrep.com/
+
+https://news.ycombinator.com/item?id=38819262
+
+#### Claude Bragdon: Drawings of the Fourth Dimension (2022)
+
+https://socks-studio.com/2022/10/23/claude-bragdon-drawings/
+
+https://news.ycombinator.com/item?id=38819030
+
+#### EU Cyber Resilience Act: What does it mean for open source?
+
+https://berthub.eu/articles/posts/eu-cra-what-does-it-mean-for-open-source/
+
+https://news.ycombinator.com/item?id=38818734
+
+#### Amazon allegedly resells damaged books
+
+https://twitter.com/joabaldwin/status/1741145625809559933
+
+https://news.ycombinator.com/item?id=38818578
+
+#### Amazon's Silent Sacking
+
+https://justingarrison.com/blog/2023-12-30-amazons-silent-sacking/
+
+https://news.ycombinator.com/item?id=38818319
+
+#### Tether reveals partnerships with Secret Service, FBI in letter to U.S. Senate
+
+https://finance.yahoo.com/news/tether-reveals-partnerships-secret-fbi-053041589.html
+
+https://news.ycombinator.com/item?id=38817271
+
+### Phoronix
+
+#### Linux 6.7-rc8 Released: A Light Holiday Release With A Couple Fixes
+
+https://www.phoronix.com/news/Linux-6.7-rc8
+
+#### OpenCV 4.9 Brings DNN Module Enhancements, Orbbec Gemini 2 Camera Support
+
+https://www.phoronix.com/news/OpenCV-4.9-Released
+
+#### GNU Boot Drops Some Motherboards & CPU Code After Discovering Non-Free Bits
+
+https://www.phoronix.com/news/GNU-Boot-Drops-Non-Free-Bits
+
+#### AMD Ends Out 2023 Still Working To Get The Rest Of SEV-SNP Upstream In Linux
+
+https://www.phoronix.com/news/AMD-EOY-2023-SEV-SNP-Continues
+
+#### Alacritty 0.13 Released For This OpenGL-Powered Terminal Emulator
+
+https://www.phoronix.com/news/Alacritty-0.13-Terminal
+
+#### Rav1e 0.7.0 Released For Xiph.Org's Latest Rust-Based AV1 Encoding
+
+https://www.phoronix.com/news/Rav11-0.7
+
+#### Freedreno Now Supports The Qualcomm Adreno 644 GPU
+
+https://www.phoronix.com/news/Freedreno-Mesa-24.0-Adreno-644
+
+#### Fedora 40 Looks To Provide Optimized x86_64 Binaries For Different HWCAPs
+
+https://www.phoronix.com/news/Fedora-40-Faster-x86-64
+
+#### ScummVM 2.8 Gets More Games Running
+
+https://www.phoronix.com/news/ScummVM-2.8-Released
+
+### GitHub
+
+#### donnemartin/system-design-primer
+
+https://github.com/donnemartin/system-design-primer
+
+Learn how to design large-scale systems. Prep for the system design
+interview. Includes Anki flashcards.\
+Language: Python\
+Stars: 238994\
+Forks: 41717
+
+#### KRTirtho/spotube
+
+https://github.com/KRTirtho/spotube
+
+🎧 Open source Spotify client that doesnt require Premium nor uses
+Electron! Available for both desktop & mobile!\
+Language: Dart\
+Stars: 8228\
+Forks: 369
+
+#### paperless-ngx/paperless-ngx
+
+https://github.com/paperless-ngx/paperless-ngx
+
+A community-supported supercharged version of paperless: scan, index and
+archive all your physical documents\
+Language: Python\
+Stars: 13936\
+Forks: 684
+
+#### jaywcjlove/awesome-mac
+
+https://github.com/jaywcjlove/awesome-mac
+
+ Now we have become very big, Different from the original idea. Collect
+premium software in various categories.\
+Language: JavaScript\
+Stars: 67052\
+Forks: 6087
+
+#### freeCodeCamp/freeCodeCamp
+
+https://github.com/freeCodeCamp/freeCodeCamp
+
+freeCodeCamp.orgs open-source codebase and curriculum. Learn to code for
+free.\
+Language: TypeScript\
+Stars: 380302\
+Forks: 35269
+
+#### coolsnowwolf/lede
+
+https://github.com/coolsnowwolf/lede
+
+Leans LEDE source\
+Language: C\
+Stars: 27899\
+Forks: 19682
+
+### Dribbble
+
+#### Geometric Little Bird Logo
+
+https://dribbble.com/shots/23333918
+
+#### Nova Post Advent Calendar Design
+
+https://dribbble.com/shots/23328815
+
+#### House of light
+
+https://dribbble.com/shots/23333288
+
+#### Liquor Loot Advent Calendar 2023
+
+https://dribbble.com/shots/23330643
+
+#### 𝐓𝐡𝐞 𝐎𝐯𝐞𝐫 𝐀𝐜𝐜𝐞𝐬𝐬𝐨𝐫𝐢𝐳𝐞𝐫
+
+https://dribbble.com/shots/23329511
+
+#### Lavender Tuck Box
+
+https://dribbble.com/shots/23330242
+
+#### Deed - Website design for delivery and trucking digital platform
+
+https://dribbble.com/shots/23325263
+
+#### Gone Outside Studios
+
+https://dribbble.com/shots/23329917
+
+#### Christmas tree🎅
+
+https://dribbble.com/shots/23324553
+
+#### Ghost illustration collab 3
+
+https://dribbble.com/shots/23331558
+
+#### Gate of Tiger
+
+https://dribbble.com/shots/23319250
+
+#### Glyph beer 19
+
+https://dribbble.com/shots/23321925
+
+#### Kramar Distillery - Istria
+
+https://dribbble.com/shots/23323497
+
+#### \*\*\*\*\*\*\*\*\*
+
+https://dribbble.com/shots/23322155
+
+#### Kitty --- The Paper Doll
+
+https://dribbble.com/shots/23323383
+
+#### Sleepy Cat
+
+https://dribbble.com/shots/23320454
+
+#### Queen Resort Website
+
+https://dribbble.com/shots/23323981
+
+#### 980s GMC K-2500 picup
+
+https://dribbble.com/shots/23318864
+
+#### Christmas Gifts
+
+https://dribbble.com/shots/23211666
+
+#### Clojure Camp Logo System
+
+https://dribbble.com/shots/23144012
+
+#### Beaverdale edc
+
+https://dribbble.com/shots/23314554
+
+#### Merry Christmas
+
+https://dribbble.com/shots/23314777
+
+#### Merry Christmas Illustration
+
+https://dribbble.com/shots/23304525
+
+#### 👁️‍🗨️
+
+https://dribbble.com/shots/23076362
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### 支付宝变更为无实际控制人
+
+https://www.solidot.org/story?sid=77018
+
+#### 在本地运行的 Emacs 辅助编程助手 Emacs Copilot
+
+https://www.solidot.org/story?sid=77017
+
+#### Bruce Perens 谈后开源运动
+
+https://www.solidot.org/story?sid=77016
+
+#### 丰田大发在发现长期违规之后全面停产
+
+https://www.solidot.org/story?sid=77015
+
+#### 精英们为何突然恐惧 AI？
+
+https://www.solidot.org/story?sid=77014
+
+#### GitHub 的编程问答机器人 Copilot Chat GA
+
+https://www.solidot.org/story?sid=77013
+
+#### 传统娱乐巨头的流媒体业务亏损逾 50 亿美元
+
+https://www.solidot.org/story?sid=77012
+
+#### 德国研究人员破解特斯拉的辅助驾驶系统解锁埃隆模式
+
+https://www.solidot.org/story?sid=77011
+
+#### 中国全年汽车出口量首次跃居世界首位
+
+https://www.solidot.org/story?sid=77010
+
+#### 适度游戏有益身心健康
+
+https://www.solidot.org/story?sid=77009
+
+#### 中国今年完成了逾 60 次轨道发射
+
+https://www.solidot.org/story?sid=77008
+
+#### SpaceX 发射 X-37B
+
+https://www.solidot.org/story?sid=77007
+
+#### 村民拍摄到长征火箭助推器坠落视频
+
+https://www.solidot.org/story?sid=77005
+
+### V2EX
+
+#### \[问与答\] V 友有什么生活中集体主义/团结就是力量的好事例不？
+
+https://www.v2ex.com/t/1004890
+
+#### \[NAS\] 跪求大佬帮分析群晖系统下 VMM 安装 ubuntu 做服务器的外网访问问题！
+
+https://www.v2ex.com/t/1004888
+
+#### \[TypeScript\] 想问问大家 TypeScript 中关于 null 处理的方式
+
+https://www.v2ex.com/t/1004887
+
+#### \[ WATCH\] 12 月挑战完成了吗？ 2024 年的 1 月挑战是什么？
+
+https://www.v2ex.com/t/1004886
+
+#### \[MacBook Pro\] Macbook 换新，旧 Macbook 上的贴纸怎么办
+
+https://www.v2ex.com/t/1004885
+
+#### \[分享发现\] 免费撸 2 个月的 ChatGPT4
+
+https://www.v2ex.com/t/1004884
+
+#### \[旅行\] 新年快乐，今年在服务区跨年🎉٩('ω')و🎉
+
+https://www.v2ex.com/t/1004883
+
+#### \[创业组队\] 加入我们的 Web3&AI 创业之旅！
+
+https://www.v2ex.com/t/1004882
+
+#### \[宽带症候群\] 询问电信是不是猫腻最多的运营？
+
+https://www.v2ex.com/t/1004881
+
+#### \[问与答\] 2024 你有什么 flag 么？
+
+https://www.v2ex.com/t/1004880
+
+#### \[程序员\] 我的 2023 之年终总结
+
+https://www.v2ex.com/t/1004879
+
+#### \[问与答\] 大家对 2023 有什么感想？对 2024 有什么展望？
+
+https://www.v2ex.com/t/1004878
+
+#### \[程序员\] V 友们 2024 新年快乐！
+
+https://www.v2ex.com/t/1004877
+
+#### \[问与答\] \[求助\]安卓电视自动循环播放 u 盘视频的方案(老人看戏剧)
+
+https://www.v2ex.com/t/1004876
+
+#### \[天黑以后\] 20231231 午夜俱乐部
+
+https://www.v2ex.com/t/1004874
+
+#### \[程序员\] 2024 祝你们一切顺利，一帆风顺
+
+https://www.v2ex.com/t/1004873
+
+#### \[iCloud\] iCloud 钥匙串（密码管理器）可以在 macOS Sonoma 上配合 Chrome/Edge 使用了
+
+https://www.v2ex.com/t/1004872
+
+#### \[Windows\] windows11 在更新之后出现关键错误:你的\"开始\"菜单出现了问题,我们将在你下一次登陆时修复它,该怎么办?
+
+https://www.v2ex.com/t/1004871
+
+#### \[VPS\] 搬瓦工 VPS 绝版套餐 \$28.19 洛杉矶 CN2 账号转让
+
+https://www.v2ex.com/t/1004870
+
+#### \[分享创造\] 🌈「屏幕跑马灯」现已发布 🌟（英文搜索 "Strip Light"）💡✨
+
+https://www.v2ex.com/t/1004869
+
+#### \[Z shell\] Windows/MSYS2 下 zsh 用什么插件库速度最快？
+
+https://www.v2ex.com/t/1004868
+
+#### \[分享发现\] 2023 打动我的文艺作品
+
+https://www.v2ex.com/t/1004867
+
+#### \[问与答\] Obsidian 可以使用 Google drive 等方式同步吗
+
+https://www.v2ex.com/t/1004866
+
+#### \[云修电脑\] Windows 遇到一个奇怪的问题，部分软件需要等待精确的 15 秒才会启动。
+
+https://www.v2ex.com/t/1004865
+
+#### \[分享创造\] 分享一个自己做的项目， YouTube 的年度总结
+
+https://www.v2ex.com/t/1004864
+
+#### \[Kubernetes\] 准备跨年了，再推一次我的 K8s 教程
+
+https://www.v2ex.com/t/1004863
+
+#### \[程序员\] 关于 HiPer 的安全性讨论，以及对于近期一些小事的简单介绍
+
+https://www.v2ex.com/t/1004861
+
+#### \[问与答\] 树莓派装安卓 14 之后，如何远程桌面连接？
+
+https://www.v2ex.com/t/1004860
+
+#### \[奇思妙想\] 批发充值码的方式能合法实现支付功能吗？
+
+https://www.v2ex.com/t/1004859
+
+#### \[问与答\] 扫码支付是不是助长了到处围栏收费杆收停车费？停一下午 100 块钱停车费
+
+https://www.v2ex.com/t/1004855
+
+#### \[分享创造\] GitHub 个人年度报告
+
+https://www.v2ex.com/t/1004854
+
+#### \[云计算\] 非得用微服务吗？
+
+https://www.v2ex.com/t/1004852
+
+#### \[Raspberry Pi\] 卖 3 个树莓派回血
+
+https://www.v2ex.com/t/1004850
+
+#### \[iPhone\] iPhone 来电显示\"可能是 XXX\"，是怎么实现的？
+
+https://www.v2ex.com/t/1004849
+
+#### \[求职\] \[求职\]7 年后端， 2 年前端，求远程全职/兼职
+
+https://www.v2ex.com/t/1004848
+
+#### \[问与答\] 笔记本 Type-C 外接显示器经常闪屏是什么原因啊
+
+https://www.v2ex.com/t/1004845
+
+#### \[问与答\] 咨询一下开车时候戴的眼镜
+
+https://www.v2ex.com/t/1004844
+
+#### \[Android\] WebView 竟然貌似不支持 js async 函数？
+
+https://www.v2ex.com/t/1004843
+
+#### \[程序员\] 就是不喜欢刷题该怎么办呢？
+
+https://www.v2ex.com/t/1004842
+
+#### \[Apple\] 淘宝百亿补贴买到已激活 AirPods Pro
+
+https://www.v2ex.com/t/1004841
+
+#### \[生活\] 2023 小记
+
+https://www.v2ex.com/t/1004839
+
+#### \[macOS\] 推荐一个 macos 下的小工具 free
+
+https://www.v2ex.com/t/1004838
+
+#### \[分享创造\] 大家对于 C 端产品的用户体验。好看 or 好用？
+
+https://www.v2ex.com/t/1004837
+
+#### \[iCloud\] iPhone 5s 无法登录 icloud 和 appstore
+
+https://www.v2ex.com/t/1004836
+
+#### \[程序员\] 一个老程序员的 2024 独立开发计划
+
+https://www.v2ex.com/t/1004835
+
+#### \[iPhone\] 15PM Infuse 外接屏幕看剧经常中断， iPad 不会，你们遇到过吗？
+
+https://www.v2ex.com/t/1004834
+
+#### \[Apple\] ios 屏蔽越狱检测用什么方法或者是插件最好？
+
+https://www.v2ex.com/t/1004833
+
+#### \[问与答\] 高浓度的异丙醇擦屏幕会有啥影响吗？
+
+https://www.v2ex.com/t/1004831
+
+#### \[酷工作\] 日本东京！ ELESTYLE 株式会社 2024 春季招聘
+
+https://www.v2ex.com/t/1004830
+
+#### \[OpenAI\] 苹果充值用户请教一下，现在 gpt 会员到期后，能随时想续订就能续订吗？
+
+https://www.v2ex.com/t/1004828
+
+## Generic News
+
+### AP News
+
+#### Surfer dies after shark "encounter" in Hawaii
+
+https://apnews.com/article/5fd98ad87b5e07a46b2d80be5289afe2
+
+PAIA, Hawaii (AP) --- A surfer in Hawaii has died after being injured in
+a shark encounter off Maui's northern shore, according to the Maui
+Police Department. Authorities stopped short of calling the event an
+attack and didn't describe\...
+
+#### Shecky Greene, legendary standup comic, improv master and lord of Las Vegas, dies at 97
+
+https://apnews.com/article/6f0455de97a4ae5faefa508ca55b6cd0
+
+LOS ANGELES (AP) --- Shecky Greene, the gifted comic and master
+improviser who became the consummate Las Vegas lounge headliner and was
+revered by his peers and live audiences as one of the greatest standup
+acts of his generation, has\...
+
+#### Denmark's Queen Margrethe II to step down from throne on Jan. 14
+
+https://apnews.com/article/92afd336166b4e643caf57289eaf8fbe
+
+STOCKHOLM, Sweden (AP) --- Denmark's Queen Margrethe II announced Sunday
+that she plans to abdicate after 52 years and hand over the throne to
+her son, Crown Prince Frederik. The queen, who is Europe's
+longest-reigning living monarch\...
+
+#### Sen. Fetterman says he thought news about his depression treatment would end his political career
+
+https://apnews.com/article/0f424652b43f77b40e7dac9e186b14bb
+
+WASHINGTON (AP) --- Sen. John Fetterman acknowledges having "dark
+conversations" about harming himself before he hit "the emergency brake"
+and sought treatment for depression. He remembers thinking about his
+three school-age kids. "I\...
+
+#### South Korea's capital records heaviest single-day snowfall in December for 40 years
+
+https://apnews.com/article/f644c0a935cb0e2c674691ea9d5bf373
+
+SEOUL, South Korea (AP) --- The South Korean capital, Seoul, received
+the biggest single-day snowfall recorded in December for more than 40
+years on Saturday but there have been no reports of any weather-related
+deaths or injuries. The\...
+
+#### At the stroke of midnight, the New Year gives a clean slate for long-elusive resolutions
+
+https://apnews.com/article/a022bcea9e37851b32b0a1a05107b9eb
+
+NEW YORK (AP) --- It's an annual end-of-year exercise in futility for
+many. But a clean slate awaits at the stroke of midnight for the next
+round of resolutions. From the first spray of fireworks to the closing
+chorus of "Auld Lang\...
+
+#### New Year's Eve celebrations roll across Asia, but wars cast a shadow on the start of 2024
+
+https://apnews.com/article/17154156831f22b2354b82688d4272af
+
+Revelers across Asia celebrated the countdown to midnight on New Year's
+Eve with fireworks and brightly lit signs --- offering a hopeful start
+to 2024 for some, even as the globe's ongoing conflicts raised security
+concerns and let to\...
+
+#### High surf advisories remain in some parts of California, as ocean conditions begin to calm
+
+https://apnews.com/article/b2b834040a570dfce1f4f02f68d0bd59
+
+VENTURA, Calif. (AP) --- Southern California's Ventura County issued a
+temporary evacuation warning Saturday for some coastal residents due to
+high surf that pounded the West Coast this week but has begun to calm
+down. County officials\...
+
+#### Paula Abdul accuses 'American Idol' producer Nigel Lythgoe of sexual assault in lawsuit
+
+https://apnews.com/article/ce22542ef62e4ac5a1081932c9a631ab
+
+LOS ANGELES (AP) --- Paula Abdul has accused former "American Idol"
+producer Nigel Lythgoe of sexually assaulting her in the early 2000s
+when she was a judge on the reality competition show, according to a new
+lawsuit. The lawsuit filed\...
+
+#### In a crisis-ridden world, Germany's chancellor uses his New Year's speech to convey confidence
+
+https://apnews.com/article/91794fc65fc12a08e677e01f03e4dcb4
+
+BERLIN (AP) --- Germany's chancellor used his New Year's speech to call
+on his country's citizens not to lose confidence in the future as they
+adapt to a world experiencing multiple crises and changing at an
+ever-faster pace. "So much\...
+
+#### Family of 4 found dead in apparent murder-suicide by New York police sergeant
+
+https://apnews.com/article/b294adb78e1a9a2ac7a18fc522a63926
+
+NEW YORK (AP) --- A husband and wife and their two sons, ages 10 and 12,
+were found dead in a suburban New York home Saturday in what authorities
+described as a murder-suicide by a police sergeant. Police officials
+said Watson Morgan, a\...
+
+#### British actor Tom Wilkinson, known for 'The Full Monty' and 'Michael Clayton,' dies at 75
+
+https://apnews.com/article/9f69d232bf9e94ab59fe98c12b7f5856
+
+LONDON (AP) --- Tom Wilkinson, the Oscar-nominated British actor known
+for his roles in "The Full Monty," "Michael Clayton" and "The Best
+Exotic Marigold Hotel," has died, his family said. He was 75. A
+statement shared by his agent\...
+
+#### What does Watch Night mean for Black Americans today? It dates back to the Emancipation Proclamation
+
+https://apnews.com/article/9d169e7bc6be54a764a190d6b73cf760
+
+The tradition of Watch Night services in the United States dates back to
+Dec. 31, 1862, when many Black Americans gathered in churches and other
+venues, waiting for President Abraham Lincoln to sign the Emancipation
+Proclamation into law\...
+
+### Reuters
+
+#### Zelenskiy says Ukraine stronger as it moves toward year two of war
+
+https://www.reuters.com/world/europe/zelenskiy-says-ukraine-stronger-it-moves-toward-year-two-war-2023-12-31/
+
+Zelenskiy made almost no direct reference to the situation on the front
+line, the limited success of Ukraines counteroffensive or the
+difficulties in securing continued military and other aid from the U.S.
+and\...
+
+#### Macron says 2024, marked by Olympics, will be year of French pride and hope
+
+https://www.reuters.com/world/europe/macron-says-2024-marked-by-olympics-will-be-year-french-pride-hope-2023-12-31/
+
+President Emmanuel Macron vowed on Sunday that 2024 will be the year of
+French pride and hope, marked by the Paris 2024 Olympic Summer Games and
+the reopening of the Notre Dame cathedral after a devastating fire
+in\...
+
+#### German police arrest three more over alleged Cologne Cathedral attack plot
+
+https://www.reuters.com/world/europe/german-police-arrest-three-more-over-alleged-cologne-cathedral-attack-plot-2023-12-31/
+
+The alleged attackers planned to use a car to attack the 800-year-old
+Gothic edifice, police\...
+
+#### Congo's Tshisekedi fights poll fraud accusations with 'spirit of openness'
+
+https://www.reuters.com/world/africa/congos-tshisekedi-fights-poll-fraud-accusations-with-spirit-openness-2023-12-31/
+
+When Democratic Republic of Congos President Felix Tshisekedi was
+declared the winner of another disputed election on Sunday, he pledged
+be a leader for all its 100 million\...
+
+#### How Israeli siblings survived Hamas captivity
+
+https://www.reuters.com/world/middle-east/painful-surgeries-passing-notes-how-israeli-siblings-survived-hamas-captivity-2023-12-31/
+
+Israeli Maya Regev lay badly wounded in a nondescript house in Gaza, her
+leg mangled from a gunshot, under orders not to make a\...
+
+#### Pope Francis tells Rome to clean up its act before 2025 Holy Year
+
+https://www.reuters.com/world/pope-francis-tells-rome-clean-up-its-act-before-2025-holy-year-2023-12-31/
+
+Pope Francis on Sunday said the city of Rome has to improve its basic
+services for residents and visitors before the start of the 2025 Holy
+Year that is expected to draw tens of millions of\...
+
+#### Magnitude 4.8 quake hits Indonesia's West Java, no casualties
+
+https://www.reuters.com/world/asia-pacific/magnitude-48-quake-hits-indonesias-west-java-no-casualties-2023-12-31/
+
+A series of shallow earthquakes hit Indonesias West Java province on
+Sunday with the biggest at magnitude 4.8 during night causing residents
+to flee their homes, damage to buildings but no casualties, local
+authorities\...
+
+#### Denmark's Queen Margrethe II announces surprise abdication on live TV
+
+https://www.reuters.com/world/europe/denmarks-queen-margrethe-ii-abdicate-jan-14-2024-royal-palace-2023-12-31/
+
+Denmarks Queen Margrethe II, Europes longest-serving monarch, will
+abdicate on Jan. 14 after 52 years on the throne and will be succeeded
+by her eldest son Crown Prince Frederik, she announced on\...
+
+#### Israeli minister repeats call for Palestinians to leave Gaza
+
+https://www.reuters.com/world/middle-east/israeli-minister-repeats-call-palestinians-leave-gaza-2023-12-31/
+
+One of the senior figures in Israeli Prime Minister Benjamin Netanyahus
+right-wing coalition called on Sunday for Palestinian residents of Gaza
+to leave the besieged enclave, making way for Israelis who could \"make
+the\...
+
+#### UN peacekeeping mission in Mali completes its withdrawal
+
+https://www.reuters.com/world/africa/un-peacekeeping-mission-mali-completes-its-withdrawal-2023-12-31/
+
+The U.N. peacekeeping mission in Mali, MINUSMA, is poised to complete
+its withdrawal from the country on Sunday, the United Nations said in
+a\...
+
+#### World welcomes New Year with fireworks, some stark words and a royal farewell
+
+https://www.reuters.com/business/aerospace-defense/world-starts-welcoming-new-year-with-fireworks-prayers-some-stark-words-2023-12-31/
+
+New Zealanders were among the first in the world to celebrate the
+arrival of 2024 with a fireworks display in Auckland on Monday. The
+fireworks illuminated the cloudy night sky and were accompanied by a
+laser light and animation\...
+
+#### Putin makes passing Ukraine reference in New Year's Eve address
+
+https://www.reuters.com/world/europe/putin-new-year-address-makes-only-passing-reference-ukraine-2023-12-31/
+
+Russian President Vladimir Putin, facing an election in March, made only
+passing reference in his New Year address on Sunday to his war in
+Ukraine, hailing his soldiers as heroes but mostly emphasising unity and
+shared\...
+
+#### US sinks three ships, kills 10 after Houthi Red Sea attack
+
+https://www.reuters.com/world/middle-east/maersk-pauses-red-sea-sailings-after-houthi-attack-container-ship-2023-12-31/
+
+U.S. helicopters sank three of the boats that attacked the Maersk
+container vessel, with no survivors. Houthi militants have been
+targeting ships in the Red Sea to show their support for Hamas as the
+Islamist group fights Israel in the\...
+
+### 联合早报
+
+#### 于泽远：中国军队反腐令人震撼
+
+https://www.zaobao.com/news/china/story20240101-1459267
+
+2023年12月29日，中国全国人大常委会一口气罢免了九名军方高级将领的全国人大代表资格，意味着这九名将领都"出事"了，否则不会被罢免。
+这九人中，有据可查的至少有三名上将、四名中将......
+
+#### 赖清德"中华民国宪法灾难"说冲击选情 但对蓝绿哪方加分仍难料
+
+https://www.zaobao.com/news/china/story20231231-1459272
+
+台湾民进党总统候选人赖清德的"中华民国宪法带来灾难"说，引起中国大陆国务院台湾事务办公室、台湾在野党强力抨击、赖清德再三灭火澄清，对两岸关系和选情的冲击持续发酵。
+受访学者评估，赖清德若上台，中国大陆将加大反独力道，赖清德则将紧握主流民意为后盾，但不至于走向制宪建国，也避免为美国制造麻烦。
+台湾将在不到两周后的1月13日迎来总统与立委选举......
+
+#### 大陆军事杂志：台湾"雄升"导弹的威胁有限
+
+https://www.zaobao.com/news/china/story20231231-1459254
+
+（香港/台北综合讯）中国大陆一家军事杂志的文章认为，台湾"雄升"地对地巡航导弹对大陆的威胁有限。
+《南华早报》星期天（12月31日）报道，雄升导弹的打击范围可达大陆东部、南部和中部。不过，《兵工科技》11月下旬发表的署名文章写道，由于雄升导弹的体积较大、速度亚音速且缺乏隐身技术，很容易"被现代、灵敏和精确的防空雷达系统探测、跟踪和监控"......
+
+#### 中国加强安全管控 多城宣布不办跨年夜活动
+
+https://www.zaobao.com/news/china/story20231231-1459252
+
+（北京综合讯）2024年元旦前夕，中国官方要求各地加强跨年夜安全防范，多个城市宣布不组织跨年夜庆祝活动，包括上海、广州和武汉等。
+中国应急管理部去年12月28日发布2024年元旦假期安全提示，指元旦假期节庆、旅游、娱乐等活动增多，人流物流聚集，需加强跨年夜等重大集会活动安全管控，防范人员密集场所发生火灾和踩踏等事故......
+
+#### 传民进党前主席施明德病危急需输血
+
+https://www.zaobao.com/news/china/story20231231-1459243
+
+（台北综合讯）民进党前主席施明德日前传出肝癌复发，状况危急入住加护病房抢救中；上星期六更传出他正使用叶克膜与死神搏斗，且血小板过低。台北荣民总医院星期天表示，施明德的血小板状况已回复稳定，请外界尽量给予空间。
+台湾民意基金会董事长游盈隆星期六（2023年12月30日）在脸书表示，施明德正使用叶克膜与死神搏斗中，且出现血小板过低状况......
+
+#### 告别疫情 北京方舱变民宅出租
+
+https://www.zaobao.com/news/china/story20231231-1459234
+
+金盏七彩家园目前入住率只有约十分之一，不少楼栋仍完全空置，空房间里摆着崭新的家具。（黄小芳摄）
+"一开始有种奇妙的感觉，像又被隔离了一样。但习惯以后，就觉得没什么。"
+北京金盏七彩家园的住户马识路（20岁，学生）坐在狭小的合租房里接受《联合早报》采访，房间乍看没有什么特别之处；但望出窗外，整齐排列的方舱建筑映入眼帘，抬头一看，则是有别于一般房屋的条纹铁皮天花板......
+
+#### 中国特稿：中国式催婚失效 大龄青年不将就结婚意愿降
+
+https://www.zaobao.com/news/china/story20231231-1458782
+
+中国年轻人的婚育年龄普遍推迟，在2020年中国平均初婚年龄为28.67岁，比2010年增加3.78岁。（中新社）
+随着社会变迁，中国现代婚姻观念出现明显改变，越来越多中国年轻人结婚意愿不足，推迟甚至放弃婚姻，婚姻不再是人生必备大事。自冠病疫情以来，个体对未来发展的不确定与失控感，更加剧了这一趋势。
+每逢佳节被催婚。年末将至，在一些中国家庭，长辈对年轻一代的"中国式催婚"又要开始了......
+
+#### 台总统候选人辩论 蓝绿白对决两岸与房地产议题
+
+https://www.zaobao.com/news/china/story20231231-1459154
+
+民进党总统候选人赖清德（左起）、国民党候选人侯友宜和民众党候选人柯文哲星期六（12月30日）在电视辩论会开始前，先礼后兵握手问好。（法新社）
+台湾总统候选人电视辩论会星期六（12月30日）登场，绿营民进党的赖清德、蓝营国民党的侯友宜，与白营民众党的柯文哲正面对决，针对两岸关系、疫苗采购合约和房地产争议激烈交锋......
+
+#### 赖清德辩称"中华民国给台湾带来灾难"是口误 受访学者：那是赖清德的真心话
+
+https://www.zaobao.com/news/china/story20231230-1459148
+
+台湾执政的民进党正副总统候选人赖清德（左三）和萧美琴（左四）共同出席电视辩论会后的记者会。
+（庄慧良摄）
+台湾执政的民进党总统候选人赖清德在电视辩论会上提及"中华民国给台湾带来灾难"，当场被民众党总统候选人柯文哲抓到把柄。赖清德会后澄清称是口误，漏讲了"宪法"两字。但国民党主席朱立伦直指赖清德是"务实的台独工作者"
+，只是说出自己的心声......
+
+#### 中使馆促英方将钟翰林缉拿归案并遣返香港
+
+https://www.zaobao.com/news/china/story20231230-1459133
+
+钟翰林星期五（12月29日）在其伦敦卧室内的港独旗帜前留影。（法新社）
+（北京综合讯）中国驻英国大使馆敦促英国政府尽快将香港独派学生组织"学生动源"前召集人钟翰林缉拿归案，并将他遣返香港。
+根据中国驻英使馆网站星期五（12月29日）消息，使馆发言人就钟翰林抵达英国寻求政治庇护一事答记者问时，作出以上呼吁，并称钟翰林违反监管令，潜逃英国，香港惩教署已发出召回令，对其依法通缉......
+
+#### 华为5G手机据报产能不足 未能改变中国市场格局
+
+https://www.zaobao.com/news/china/story20231230-1459129
+
+华为今年8月29日无预警开卖Mate 60
+Pro手机，测评达到5G速度，被认为成功突破美国科技战的卡脖子。图为今年9月华为在北京的旗舰店售出的Mate
+60机型。（路透社档案图）
+（深圳综合讯）中国通讯巨头华为今年8月无预警地推出5G手机，却因产能不足，出货量不如苹果和其他中国品牌，被中国科技媒体指未能改变中国手机竞争格局......
+
+#### 四川凉山百万粉丝网红因带货造假获刑
+
+https://www.zaobao.com/news/china/story20231230-1459128
+
+网红主播"赵灵儿"（右）和"曲布"在抖音开直播与观众互动。（互联网）
+（成都综合讯）曾是中国深度贫困地区的四川大凉山，爆出网红以"助农"名义直播销售假冒特色农产品牟利的案件，九人分别被判八个月至三年两个月不等的有期徒刑......
+
+#### 京东告阿里巴巴胜诉获赔10亿元人民币
+
+https://www.zaobao.com/news/china/story20231230-1459114
+
+业内人士称，中国电商巨头企业京东（左）起诉同行阿里巴巴（右）"二选一"案的判决有着创纪录的赔偿金额，具有示范效应。（互联网）
+（北京综合讯）中国电子商务巨企京东起诉同行阿里巴巴的"二选一"案一审胜诉，获赔10亿元（人民币，下同，1.87亿新元）......
+
+#### 新闻人间：五月天卷入两岸政治漩涡
+
+https://www.zaobao.com/news/china/story20231230-1458998
+
+从假唱疑云到一中政治漩涡，游走两岸如鱼得水的台湾知名摇滚乐团"五月天"在短短一个多月内，两次卷入风波。时间点正好是台湾总统大选倒数阶段的敏感时期。
+路透社星期四（12月28日）报道称，中国大陆国家广播电视总局施压五月天，在台湾大选前表态支持"台湾是中国的一部分"的亲大陆言论。五月天拒绝，大陆于是公布将就五月天上海演唱会涉嫌假唱事件展开调查......
+
+#### 庄慧良：国中生之死唤起重视校园安全
+
+https://www.zaobao.com/news/china/story20231230-1459004
+
+新北市12月25日发生校园割颈杀人事件，由于犯罪者均未成年，法界推估行凶男学生可能轻判五年，女学生可能无罪。（路透社）
+台湾一起校园割颈杀人事件，震惊社会，许多教育团体代表纷纷反应，现今师长对学生管教权弱化，是校园安全的最大隐忧。更多父母在意的是，不要让自己的孩子成为下一个黑暗校园的受害者。
+这起校园喋血事件星期一（12月25日）发生在新北市某所国中......
+
+#### 九名中国军方人大代表被免职 分析：火箭军和装备系统腐败窝案波及广泛
+
+https://www.zaobao.com/news/china/story20231230-1459005
+
+火箭军原司令员李玉超等九名中国军方将领被罢免全国人大代表职务，包括三名上将和四名中将。
+分析指出，中国国防部前部长李尚福以及火箭军案牵扯出来的军方腐败窝案，涉案深度和波及面超过外界预期；不过，官方至今平稳处理案件，没有掀起更大风波，显示高层对全局的严密把控......
+
+#### 台湾总统大选民调座谈会 专家指选情诡谲难测蓝绿都可能险胜
+
+https://www.zaobao.com/news/china/story20231229-1458993
+
+台湾将在2024年1月13日举行总统与立委选举。（彭博社）
+台湾民意基金会星期五（12月29日）举行选前民调座谈会，当前蓝绿白候选人三足鼎立，专家评估选情诡谲难测，选民预料将自主进行"弃保"策略投票，最后蓝绿都可能险胜......
+
+#### 砍掉部分核心功能 英伟达发布中国特供版游戏芯片
+
+https://www.zaobao.com/news/china/story20231229-1458970
+
+（华盛顿/郑州综合讯）全球芯片巨头英伟达最新发布特供中国的新品，为中国游戏市场提供性能较弱的RTX
+4090D芯片，其中砍掉了部分核心功能。
+英伟达中文网站星期四（12月28日）上线了一款名为RTX
+4090D的显卡，这是英伟达顶级旗舰显卡RTX 4090的低性能版本......
+
+#### 机师因病缺勤超预期 国泰航空取消超过50航班
+
+https://www.zaobao.com/news/china/story20231229-1458964
+
+据统计，从星期五（12月29日）到元旦（1月1日）期间，国泰航空暂有55个航班取消，主要是亚洲地区航班，公司就临时航班变动向乘客致歉。（中通社）
+（香港综合讯）国泰航空近期由于机师因病缺勤超出预期，被迫取消多个航班，影响了旅客行程。一些分析指出，员工短缺或是导致航班取消的深层原因......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023-2024 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

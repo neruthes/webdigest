@@ -1,0 +1,1008 @@
+Other formats: [PDF](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/webdigest/WebDigest-20240103.pdf--45658f1f7e9683329eacb730127e8926.pdf) / [HTML](https://webdigest.pages.dev/readhtml/2024/WebDigest-20240103.html)
+
+
+# Web Digest 2024-01-03
+
+
+## Developers
+
+### Hacker News
+
+#### Show HN: Resurrecting the Dillo Browser
+
+https://dillo-browser.github.io/
+
+https://news.ycombinator.com/item?id=38847613
+
+#### LLM spews nonsense in CVE report for curl
+
+https://hackerone.com/reports/2298307
+
+https://news.ycombinator.com/item?id=38845878
+
+#### 1D Pac-Man
+
+https://abagames.github.io/crisp-game-lib-11-games/?pakupaku
+
+https://news.ycombinator.com/item?id=38845510
+
+#### First do it, then do it right, then do it better
+
+https://twitter.com/addyosmani/status/1739052802314539371
+
+https://news.ycombinator.com/item?id=38845461
+
+#### How to do OCR on a Mac using the CLI or just Python
+
+https://blog.greg.technology/2024/01/02/how-do-you-ocr-on-a-mac.html
+
+https://news.ycombinator.com/item?id=38844943
+
+#### Do It Yourself Blind Repair
+
+https://fixmyblinds.com/
+
+https://news.ycombinator.com/item?id=38844274
+
+#### The I Hate AI License
+
+https://ihateailicense.eu/
+
+https://news.ycombinator.com/item?id=38843862
+
+#### A Canadian payroll dependency chart
+
+https://www.daemonology.net/blog/2023-12-31-Canadian-payroll-dependency-chart.html
+
+https://news.ycombinator.com/item?id=38843388
+
+#### Ask HN: Who is hiring? (January 2024)
+
+https://news.ycombinator.com/item?id=38842977
+
+https://news.ycombinator.com/item?id=38842977
+
+#### Japan Goes All In: Copyright Doesn't Apply to AI Training
+
+https://www.biia.com/japan-goes-all-in-copyright-doesnt-apply-to-ai-training/
+
+https://news.ycombinator.com/item?id=38842788
+
+#### The Infinite/Eternal Jukebox has been revived
+
+https://jukebox.davi.gq/jukebox_search.html
+
+https://news.ycombinator.com/item?id=38842703
+
+#### Thomas Cochrane
+
+https://sergey.substack.com/p/thomas-cochrane
+
+https://news.ycombinator.com/item?id=38842571
+
+#### A new blog for 2024
+
+https://chrisnicholas.dev/blog/a-new-blog-for-2024
+
+https://news.ycombinator.com/item?id=38842116
+
+#### Introduction to Plan 9
+
+http://fqa.9front.org/fqa0.html
+
+https://news.ycombinator.com/item?id=38841727
+
+#### JAL A359 at Tokyo collided with Coast Guard DH8C on runway and burst into flames
+
+http://avherald.com/h?article=5132b9fe
+
+https://news.ycombinator.com/item?id=38841708
+
+#### After 34 years, someone beat Tetris \[video\]
+
+https://www.youtube.com/watch?v=GuJ5UuknsHU
+
+https://news.ycombinator.com/item?id=38841080
+
+#### Earthquake in Japan yesterday may have shifted land 1.3 meters
+
+https://www3.nhk.or.jp/nhkworld/en/news/20240102_22/
+
+https://news.ycombinator.com/item?id=38840699
+
+#### LLMs and Programming in the first days of 2024
+
+http://antirez.com/news/140
+
+https://news.ycombinator.com/item?id=38840626
+
+#### Elizabeth line testing ways of banishing its \"ghosts in the walls\"
+
+https://www.ianvisits.co.uk/articles/elizabeth-line-testing-ways-of-banishing-its-ghosts-in-the-walls-68642/
+
+https://news.ycombinator.com/item?id=38840339
+
+#### Why does integer representation of a floating point approximate its logarithm?
+
+https://stackoverflow.com/questions/75772363/why-does-the-integer-representation-of-a-floating-point-number-offer-a-piecewise
+
+https://news.ycombinator.com/item?id=38840142
+
+### Phoronix
+
+#### Patches Updated To Tackle vmap/vmalloc Lock Contention That Can Yield  12x Throughput
+
+https://www.phoronix.com/news/Vmalloc-vmap-Lock-Contention-v3
+
+#### Vim 9.1 Released With Smooth Scrolling, Support For Vim9 Classes
+
+https://www.phoronix.com/news/Vim-9.1-Released
+
+#### Linux Patch Allows For Better HP OMEN 17 Laptop Performance - But With Higher TDP
+
+https://www.phoronix.com/news/HP-OMEN-8BAD-Linux-TDP
+
+#### NVIDIA's Open-Source Kernel Driver & Maturing Wayland Support Were Great In 2023
+
+https://www.phoronix.com/news/NVIDIA-2023-Highlights
+
+#### AMDVLK 2023.Q4.3 Released With Counter-Strike 2 Optimization, VKD3D Change
+
+https://www.phoronix.com/news/AMDVLK-2023.Q4.3
+
+#### Linux 6.8 To Support Next-Gen Intel Accelerators (QAT 420xx): More Engines, More Algos
+
+https://www.phoronix.com/news/Intel-QAT-420xx-Linux-6.8
+
+#### systemd In 2023 Added Windows-Inspired \"Blue Screen Of Death\" & macOS-Inspired T.D.M.
+
+https://www.phoronix.com/news/systemd-2023-highlights
+
+#### Mesa 24.0 Receives Further TGSI-To-NIR Conversion Work For AMD RadeonSI
+
+https://www.phoronix.com/news/RadeonSI-TGSI-To-NIR-Third
+
+#### Bcachefs Prepares Last Minute Fixes For Linux 6.7
+
+https://www.phoronix.com/news/Bcachefs-Last-Minute-Linux-6.7
+
+### GitHub
+
+#### donnemartin/system-design-primer
+
+https://github.com/donnemartin/system-design-primer
+
+Learn how to design large-scale systems. Prep for the system design
+interview. Includes Anki flashcards.\
+Language: Python\
+Stars: 240219\
+Forks: 41842
+
+#### KRTirtho/spotube
+
+https://github.com/KRTirtho/spotube
+
+🎧 Open source Spotify client that doesnt require Premium nor uses
+Electron! Available for both desktop & mobile!\
+Language: Dart\
+Stars: 9175\
+Forks: 425
+
+#### anoma/namada
+
+https://github.com/anoma/namada
+
+Rust implementation of Namada, a Proof-of-Stake L1 for interchain
+asset-agnostic privacy\
+Language: Rust\
+Stars: 2134\
+Forks: 1023
+
+#### freeCodeCamp/freeCodeCamp
+
+https://github.com/freeCodeCamp/freeCodeCamp
+
+freeCodeCamp.orgs open-source codebase and curriculum. Learn to code for
+free.\
+Language: TypeScript\
+Stars: 380621\
+Forks: 35295
+
+#### tiann/KernelSU
+
+https://github.com/tiann/KernelSU
+
+A Kernel based root solution for Android\
+Language: Kotlin\
+Stars: 5728\
+Forks: 1286
+
+#### darktable-org/darktable
+
+https://github.com/darktable-org/darktable
+
+darktable is an open source photography workflow application and raw
+developer\
+Language: C\
+Stars: 8332\
+Forks: 1057
+
+### Dribbble
+
+#### Illustration
+
+https://dribbble.com/shots/23360006
+
+#### Balloon
+
+https://dribbble.com/shots/23357446
+
+#### Website design for Safety Deposit Box Service
+
+https://dribbble.com/shots/23358748
+
+#### OWKIN
+
+https://dribbble.com/shots/23360119
+
+#### Whale \<\> UIDINO
+
+https://dribbble.com/shots/23353236
+
+#### Mountain Scene - Yonder Apparel Co.
+
+https://dribbble.com/shots/23342785
+
+#### Glyph beer 20
+
+https://dribbble.com/shots/23360719
+
+#### Clarity - SaaS Website
+
+https://dribbble.com/shots/23281511
+
+#### Dhal Ni Pol - old city
+
+https://dribbble.com/shots/23352965
+
+#### Dailin.AI: Inbox
+
+https://dribbble.com/shots/23352787
+
+#### Quicken -- Finance Management Software
+
+https://dribbble.com/shots/23334490
+
+#### Happy new year
+
+https://dribbble.com/shots/23352928
+
+#### Layers Xmas
+
+https://dribbble.com/shots/23350027
+
+#### 2024
+
+https://dribbble.com/shots/23348432
+
+#### 2024
+
+https://dribbble.com/shots/23349482
+
+#### Mordant & Ash Pattern
+
+https://dribbble.com/shots/23143971
+
+#### Surf Spark - Design Pack
+
+https://dribbble.com/shots/23346425
+
+#### TRADERLY DEX Liquidity Admin UI Dashboard React Template
+
+https://dribbble.com/shots/23344592
+
+#### My Best Nine (2023)
+
+https://dribbble.com/shots/23347773
+
+#### Fitness Watch Based Mobile iOS App
+
+https://dribbble.com/shots/23344265
+
+#### Logos 2023 ©DBWORKPLAY
+
+https://dribbble.com/shots/23341762
+
+#### Minute Coffee Branding
+
+https://dribbble.com/shots/23340849
+
+#### Planet FWD Footer
+
+https://dribbble.com/shots/23341509
+
+#### WIP.. Pigeon
+
+https://dribbble.com/shots/23342248
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### Scribus 1.6.0 释出
+
+https://www.solidot.org/story?sid=77031
+
+#### 荷兰限制向中国出口深紫外光刻机
+
+https://www.solidot.org/story?sid=77030
+
+#### Blender 诞生三十周年
+
+https://www.solidot.org/story?sid=77029
+
+#### AI 是否在浪费每一个人的时间？
+
+https://www.solidot.org/story?sid=77028
+
+#### 尼康、索尼和佳能用相机数字签名对抗 AI 作假
+
+https://www.solidot.org/story?sid=77027
+
+#### Steam 停止支持 Windows 7、Windows 8 和 8.1
+
+https://www.solidot.org/story?sid=77026
+
+#### Gentoo 提供二进制安装选项
+
+https://www.solidot.org/story?sid=77025
+
+#### 日本 18 岁人口数 106 万创新低
+
+https://www.solidot.org/story?sid=77024
+
+#### X5 级耀斑喷出的日冕物质抛射今天掠过地球
+
+https://www.solidot.org/story?sid=77023
+
+#### 1 美元癌症疗法
+
+https://www.solidot.org/story?sid=77022
+
+#### 对比 1970 年代的超算和当代的单板电脑树莓派
+
+https://www.solidot.org/story?sid=77021
+
+#### 美国原居民组织对在月球上洒人类骨灰发出警告
+
+https://www.solidot.org/story?sid=77020
+
+#### 日本西海岸发生里氏 7.6 级地震
+
+https://www.solidot.org/story?sid=77019
+
+#### 支付宝变更为无实际控制人
+
+https://www.solidot.org/story?sid=77018
+
+#### 在本地运行的 Emacs 辅助编程助手 Emacs Copilot
+
+https://www.solidot.org/story?sid=77017
+
+#### Bruce Perens 谈后开源运动
+
+https://www.solidot.org/story?sid=77016
+
+### V2EX
+
+#### \[分享创造\] 花了两年业余时间做了一个简历制作与润色网站
+
+https://www.v2ex.com/t/1005338
+
+#### \[酷工作\] 🔥 \[远程办公/全球招募/Web3 钱包招聘\] 后端工程师/产品经理/前端工程师/项目运营
+
+https://www.v2ex.com/t/1005337
+
+#### \[程序员\] 我把开源 README 又改成英文了
+
+https://www.v2ex.com/t/1005336
+
+#### \[问与答\] 2024 年了，有必要上软路由吗
+
+https://www.v2ex.com/t/1005335
+
+#### \[Android\] Android data 分区备份及加密问题
+
+https://www.v2ex.com/t/1005334
+
+#### \[酷工作\] 大学生兼职 - Google Earth 信息标记 (时薪 40 元)
+
+https://www.v2ex.com/t/1005333
+
+#### \[宽带症候群\] 求助大佬们！ Mac Surge Hysteria2 无法连接问题
+
+https://www.v2ex.com/t/1005331
+
+#### \[奇思妙想\] 想探讨一点汉语名称，例如动视和深信服
+
+https://www.v2ex.com/t/1005330
+
+#### \[Apple\] 同一系统推送通知， MacBook Pro 通知比 iPhone 和 iPad 慢若干秒，有无人遇到类似情况？
+
+https://www.v2ex.com/t/1005329
+
+#### \[问与答\] archive.org 上的资源可信度怎么样？
+
+https://www.v2ex.com/t/1005328
+
+#### \[分享发现\] 今天获发了一个很好的邮箱
+
+https://www.v2ex.com/t/1005327
+
+#### \[求职\] 2024 UI 设计 + 静态样式前端
+
+https://www.v2ex.com/t/1005326
+
+#### \[问与答\] 什么工具适合方便的发送原始 HTTP 包？
+
+https://www.v2ex.com/t/1005324
+
+#### \[Amazon Web Services\] AWS 抵扣优惠券是怎么获得的？
+
+https://www.v2ex.com/t/1005323
+
+#### \[创业组队\] 一起聊聊 35+ \^\_\^
+
+https://www.v2ex.com/t/1005322
+
+#### \[分享创造\] 有没有好用的 WEB 文件管理器?
+
+https://www.v2ex.com/t/1005321
+
+#### \[酷工作\] AI Agent 方向初创公司诚聘 前后端和 UI 设计师
+
+https://www.v2ex.com/t/1005318
+
+#### \[Apple\] 支付宝购买美区礼品卡显示「补货中」
+
+https://www.v2ex.com/t/1005314
+
+#### \[Apple\] 跟 iPad mini6 大小、性能差不多的安卓平板推荐
+
+https://www.v2ex.com/t/1005313
+
+#### \[Rust\] 为什么这一段 rust 报错？
+
+https://www.v2ex.com/t/1005312
+
+#### \[程序员\] 2023 总结：我在上海做程序员的第八年
+
+https://www.v2ex.com/t/1005310
+
+#### \[Chrome\] 如何导出导入或者直接迁移 chrome 中的下载记录到另一台电脑上?win 系统
+
+https://www.v2ex.com/t/1005309
+
+#### \[问与答\] 当使用硬件 RAID 的时候，如何搭建 NAS
+
+https://www.v2ex.com/t/1005308
+
+#### \[问与答\] 看电视剧繁花第一集遇到的数学问题
+
+https://www.v2ex.com/t/1005307
+
+#### \[V2EX\] 5000th day
+
+https://www.v2ex.com/t/1005306
+
+#### \[问与答\] 60G 数据的目录如何在多台笔记本电脑和台式机上自动同步
+
+https://www.v2ex.com/t/1005305
+
+#### \[分享创造\] 心血来潮写了一个推特图片、视频爬虫工具
+
+https://www.v2ex.com/t/1005304
+
+#### \[Android\] 为什么很多改机工作室都选用小米手机
+
+https://www.v2ex.com/t/1005303
+
+#### \[VPS\] natseek 怎么续费啊？
+
+https://www.v2ex.com/t/1005301
+
+#### \[问与答\] 求助： vscode 通过 ssh 连接虚拟机，此时 windows 中的 vscode go 无法自动补全
+
+https://www.v2ex.com/t/1005300
+
+#### \[macOS\] macos 使用 n 切换版本的使用很慢，用 rust 做了个小工具,创建临时的 nodejs 环境，需要配合 n 使用
+
+https://www.v2ex.com/t/1005299
+
+#### \[分享发现\] TrollStore2 现在已经在 16.6/16.6.1 安装
+
+https://www.v2ex.com/t/1005298
+
+#### \[问与答\] 请问一下大家，用什么平台给国内的亲人私密(unlisted)分享 vlog 视频？
+
+https://www.v2ex.com/t/1005297
+
+#### \[程序员\] 求购 21 年以前的 Apple 开发者账户，已过期的也可以
+
+https://www.v2ex.com/t/1005296
+
+#### \[电影\] 元旦休假，折腾了一天用台老电脑整了套 16T 的 nas
+
+https://www.v2ex.com/t/1005295
+
+#### \[程序员\] 基本可以确定 HP 自家的系列预装软件有内存泄漏问题
+
+https://www.v2ex.com/t/1005293
+
+#### \[路由器\] \[转需\] 看完这篇你会买到全淘宝最便宜的友善 R2S/R5S/R4S/R5C 软路由
+
+https://www.v2ex.com/t/1005291
+
+#### \[创业组队\] 关于 2024 年开始公司要 5 年内实缴注册资金，这个很多中小企业会活不下去
+
+https://www.v2ex.com/t/1005288
+
+#### \[职场话题\] 9 年码农 2023 年存下 25w,不知道算多还是少
+
+https://www.v2ex.com/t/1005287
+
+#### \[问与答\] 购买山里/村里的民房是否可行？
+
+https://www.v2ex.com/t/1005286
+
+#### \[Chrome\] chrome 启动时，偶尔会自己打开必应主页
+
+https://www.v2ex.com/t/1005285
+
+#### \[编程\] 2024 年的第一次更新， MoonBit 更新了这些......
+
+https://www.v2ex.com/t/1005284
+
+#### \[macOS\] 最近几年哪个大版本 macOS 更稳定？
+
+https://www.v2ex.com/t/1005283
+
+#### \[公司运营\] 24 年 7 月公司资金要实缴了
+
+https://www.v2ex.com/t/1005282
+
+#### \[程序员\] 不蒜子 博客计数又挂了。。
+
+https://www.v2ex.com/t/1005281
+
+#### \[Windows\] windows 触控笔&软件推荐
+
+https://www.v2ex.com/t/1005280
+
+#### \[职场话题\] ​大学生最近想去找实习，有过来人能说下实习要注意的套路吗？
+
+https://www.v2ex.com/t/1005279
+
+#### \[职场话题\] 关于请同学帮忙内推被拒绝
+
+https://www.v2ex.com/t/1005278
+
+#### \[iOS\] Apple music 什么都好 就是推荐机制不行
+
+https://www.v2ex.com/t/1005277
+
+## Generic News
+
+### AP News
+
+#### First Pooh, now Mickey. In public domain, early Mickey Mouse version will star in horror movies
+
+https://apnews.com/article/e5bd7d8c711554f42bdd277f0b7a29e7
+
+LOS ANGELES (AP) --- The earliest iteration of Mickey Mouse is on a
+rampage, barely two days in the public domain. Slashed free of Disney's
+copyright as of Monday, the iconic character from "Steamboat Willie" is
+already the focus of two\...
+
+#### DeSantis and Haley will appear at next week's CNN debate at the same time as Trump's Fox town hall
+
+https://apnews.com/article/88cddd58efa6dad45ca87ce14469f32e
+
+NEW YORK (AP) --- Florida Gov. Ron DeSantis and former United Nations
+Ambassador Nikki Haley are set to appear at next week's Republican
+presidential debate on CNN, while former President Donald Trump
+participates in a Fox News town hall\...
+
+#### 'Bachelorette' Rachel Lindsay's husband, Bryan Abasolo, files for divorce after 4 years of marriage
+
+https://apnews.com/article/8fa9ddcc1a1676326ba43757710b7231
+
+LOS ANGELES (AP) --- The bloom is off the final rose for "Bachelorette"
+star Rachel Lindsay and husband Bryan Abasolo, who found love on the
+reality dating show. Court records show that Abasolo filed to end their
+marriage Tuesday. He\...
+
+#### \$842 million Powerball ticket sold in Michigan, first time the game has been won on New Year's Day
+
+https://apnews.com/article/247f720c4248e9b0fa3bc73caaf9af9f
+
+JOHNSTON, Iowa (AP) --- Someone in Michigan won an \$842.4 million
+Powerball jackpot on the first day of 2024, the first time it has been
+won on New Year's Day since the game's start in 1992. The winning
+numbers drawn were: 12, 21, 42\...
+
+#### ESPN apologizes for showing video of woman flashing breast during Sugar Bowl broadcast
+
+https://apnews.com/article/8a210d87a4b0457cfb26f6bc6bba8e17
+
+NEW ORLEANS (AP) --- ESPN apologized Monday night for a video clip of a
+woman baring her breast that was shown during the broadcast of the Sugar
+Bowl in New Orleans. It was aired coming out of a commercial during the
+second half of\...
+
+#### Ex-gang leader makes his bid in Las Vegas court for house arrest before trial in Tupac Shakur case
+
+https://apnews.com/article/cb3817f66e204ec85ba678bd5bad4126
+
+LAS VEGAS (AP) --- A former Los Angeles-area gang leader charged with
+killing hip-hop music icon Tupac Shakur in 1996 in Las Vegas plans to
+ask a judge on Tuesday to release him to house arrest ahead of the trial
+in June. Court-appointed\...
+
+#### Les McCann, innovative jazz musician best known for 'Compared to What,' dies at 88
+
+https://apnews.com/article/587892db9a20cc4331c8c51f636e115d
+
+Les McCann, a prolific and influential musician and recording artist who
+helped found the soul-jazz genre and became a favorite source for
+sampling by Dr. Dre, A Tribe Called Quest and hundreds of other hip-hop
+performers, has died. He\...
+
+#### Rays shortstop Wander Franco arrested amid allegations of relationship with minor, AP source says
+
+https://apnews.com/article/99e94b7d6da72435535ac2b4d9cecef2
+
+SANTO DOMINGO, Dominican Republic (AP) --- Tampa Bay Rays shortstop
+Wander Franco was arrested Monday in the Dominican Republic after being
+interviewed by prosecutors investigating him for an alleged relationship
+with a minor, according\...
+
+#### Ashes of Canadian 'Star Trek' fan to be sent into space along with those of TV series' stars
+
+https://apnews.com/article/f3d795690919cafaa188080349bd4bda
+
+VANCOUVER, British Columbia (AP) --- The family of a mother of eight who
+was a huge "Star Trek" fan has ensured the final frontier will be her
+ultimate resting place. Gloria Knowlan was 86 at the time of her death
+12 years ago. A small\...
+
+#### 135th Rose Parade boasts floral floats and sunny skies as California tradition kicks off the new year
+
+https://apnews.com/article/ab1fbddeb87140ec465fa19ecf695949
+
+PASADENA, Calif. (AP) --- Floral floats, marching bands and equestrian
+units took to the streets under a sunny California sky as the 135th Rose
+Parade drew hundreds of thousands of spectators on New Year's Day. The
+Pasadena tradition on\...
+
+#### Former NBA G League player held in woman's killing due in Vegas court after transfer from Sacramento
+
+https://apnews.com/article/13c78b8a0d9da91931e15296ed185883
+
+LAS VEGAS (AP) --- A former NBA developmental league player accused with
+his ex-girlfriend of killing a woman whose body was found last month in
+southern Nevada is due to face a Las Vegas judge on Tuesday following
+his transfer in custody\...
+
+#### Elvis, fishmongers and a Kraken win in a nautical scene for the NHL Winter Classic
+
+https://apnews.com/article/428356869f7b273b5892ad9311869044
+
+SEATTLE (AP) --- The part-owner of the franchise who was once more known
+for his exploits on the football field led the way off the bus, followed
+by players clad in white T-shirts and orange overalls as a tribute to
+the fishmongers\...
+
+#### Influential former Texas US Rep. Eddie Bernice Johnson dies at 88
+
+https://apnews.com/article/b72ea50b8f6bba4dd24768616f7ade4f
+
+DALLAS, Texas (AP) --- Trailblazing longtime U.S. Rep. Eddie Bernice
+Johnson, a nurse from Texas who helped bring hundreds of millions of
+federal dollars to the Dallas area as the region's most powerful
+Democrat, died Sunday. She was 88\...
+
+### Reuters
+
+#### Malta-flagged container ship reported seeing 3 explosions towards its port quarter off Yemen -Ambrey
+
+https://www.reuters.com/world/middle-east/malta-flagged-container-ship-reported-seeing-3-explosions-towards-its-port-2024-01-02/
+
+British maritime security firm Ambrey said on Tuesday that a
+Malta-flagged container ship reported seeing three explosions towards
+its port quarter, 15 miles (24 km) southwest of Yemens\...
+
+#### UN Security Council likely to meet Wednesday on Red Sea, says French UN envoy
+
+https://www.reuters.com/world/middle-east/un-security-council-likely-meet-wednesday-red-sea-says-french-un-envoy-2024-01-02/
+
+The U.N. Security Council may meet as early as Wednesday on the
+situation in the Red Sea, the French ambassador to the United Nations,
+whose country assumed the council presidency, said on\...
+
+#### US slams Israeli ministers' statements on resettlement of Palestinians outside Gaza
+
+https://www.reuters.com/world/middle-east/us-slams-israeli-ministers-statements-resettlement-palestinians-outside-gaza-2024-01-02/
+
+The U.S. State Department on Tuesday slammed recent statements from
+Israeli ministers Bezalel Smotrich and Itamar Ben Gvir that advocated
+for the resettlement of Palestinians outside of Gaza, calling the
+rhetoric \"inflammatory and\...
+
+#### White House turns to US Supreme Court in Texas razor-wire border dispute
+
+https://www.reuters.com/world/us/biden-administration-asks-us-supreme-court-intervene-texas-border-row-2024-01-02/
+
+President Joe Bidens administration on Tuesday asked the U.S. Supreme
+Court to intervene after a federal appeals court temporarily blocked it
+from destroying razor wire fencing Texas placed along its border with
+Mexico to\...
+
+#### Hamas' Arouri was a key player until death in sudden Beirut strike
+
+https://www.reuters.com/world/middle-east/hamas-arouri-was-key-player-until-death-sudden-beirut-strike-2024-01-02/
+
+Deputy Hamas leader Saleh al-Arouri had long expected the Israeli drone
+strike that security sources said killed him in Beirut on Tuesday, three
+months after his groups surprise cross-border assault that triggered
+a\...
+
+#### Ukrainian apartment dweller works hard to cope after Russian bombing
+
+https://www.reuters.com/world/europe/ukrainian-apartment-dweller-works-hard-cope-after-russian-bombing-2024-01-02/
+
+Inured by nearly two years of war, Olena Ohiievych wasted no time
+getting to work on Tuesday as she confronted the shambles left in her
+apartment by the latest Russian air attacks on Kyiv and its\...
+
+#### Five Venezuelans freed out of 31 migrants kidnapped in Mexico
+
+https://www.reuters.com/world/americas/five-venezuelans-freed-out-31-migrants-kidnapped-mexico-2024-01-02/
+
+Mexican security services have freed five Venezuelans kidnapped over the
+weekend by gunmen, local authorities said on Tuesday, as they searched
+for another 26 people snatched from a bus traveling to the border city
+of\...
+
+#### 'It was a miracle': How passengers escaped a JAL fireball in Tokyo
+
+https://www.reuters.com/world/asia-pacific/it-was-miracle-how-passengers-escaped-jal-fireball-tokyo-2024-01-02/
+
+The flight between the northern city of Sapporo and Tokyos Haneda
+airport is Japans busiest air route, and one of the most frequent
+services anywhere in the world. Japan Airlines (JAL) operates 16
+round\...
+
+#### France to send forensic experts to Tokyo after airport collision
+
+https://www.reuters.com/world/japan/france-send-forensic-experts-tokyo-after-airport-collision-2024-01-02/
+
+A team of forensic experts from planemaker Airbus and French state
+agency BAE will arrive in Japan on Wednesday to help authorities
+investigate the deadly accident involving a A350 plane at Tokyos Haneda
+airport, they\...
+
+#### Evacuation from burning JAL jet helped by passengers leaving bags
+
+https://www.reuters.com/world/japan/evacuation-burning-jal-jet-helped-by-passengers-leaving-bags-2024-01-02/
+
+All 379 people aboard a Japan Airlines airliner escaped after a
+collision with a Coast Guard aircraft at Tokyos Haneda airport that
+killed five of six crew on the smaller aircraft on\...
+
+#### Israeli drone kills deputy Hamas chief in Beirut
+
+https://www.reuters.com/world/middle-east/explosion-southern-beirut-suburb-dahiyeh-two-security-sources-2024-01-02/
+
+Deputy Hamas chief Saleh al-Arouri was killed on Tuesday night in an
+Israeli drone strike on Beiruts southern suburbs of Dahiyeh, a
+stronghold of the allied Lebanese militant group Hezbollah, signalling
+the conflict\...
+
+#### Two more Congo presidential candidates do not plan court challenge
+
+https://www.reuters.com/world/africa/two-more-congo-presidential-candidates-do-not-plan-court-challenge-2024-01-02/
+
+Two more candidates who contested last months presidential election in
+Democratic Republic of Congo made clear on Tuesday they will not take
+the matter to court, making it more likely President Felix
+Tshisekedi\...
+
+#### Explainer: What will happen to Oscar Pistorius when he is released from jail?
+
+https://www.reuters.com/world/africa/what-will-happen-oscar-pistorius-when-he-is-released-jail-2024-01-02/
+
+Former Paralympic star Oscar Pistorius will be released from prison on
+Friday after he was granted parole nearly 11 years after killing his
+girlfriend Reeva\...
+
+### 联合早报
+
+#### 杨丹旭：悬念中开启2024
+
+https://www.zaobao.com/news/china/story20240103-1459650
+
+从2023年岁末迈入2024年开端，大中华区渡过了一个相对平静的周末。略微掀起波澜的，是台湾大选前唯一的一轮正副总统候选人电视辩论会。
+两场辩论会各方唇枪舌剑，火力交锋，两岸课题再度被炒热。执政党民进党的总统候选人赖清德抛出"中华民国灾难论"（他后来解释是口误，并称自己的原意是要表达'中华民国宪法'会带来灾难），不仅在台湾引发在野党强力攻击，也招来北京猛烈抨击......
+
+#### 台湾大选进入民调封关期 三组候选人选情走势迷雾重重
+
+https://www.zaobao.com/news/china/story20240103-1459652
+
+民进党总统候选人赖清德（左二），日前在高雄出席竞选活动，与支持者相互击掌打气。（路透社）
+台湾将在1月13日举行总统和立委大选，各政党和许多民调机构陆续在星期二（1月2日）民调封关日前公布民调。多数民调显示，执政的民进党"赖萧配"仍小幅领先，在野国民党"侯康配"紧追在后，民众党"柯盈配"落后前两者有段差距......
+
+#### 早知：封关民调知多少？
+
+https://www.zaobao.com/news/china/story20240102-1459638
+
+•封关民调有什么规定？
+台湾法律规定，任何人在投票日前10天起到投票截止前，不得发布、报道、散布、评论或引述民调报告。
+这项条例最初是在1995年立法，列在《总统副总统选举罢免法》第52条，过后也应用在《公职人员选举罢免法》，成为各级选举的规范。
+若政党、候选人或代理人等违法，会面对20万元（新台币，下同，8600新元）以上、200万元以下的罚款；其他人触法，罚款额减半为10万元至100万元......
+
+#### 广东佛山南山镇公示八名"躺平休闲人员" 分析：让公职人员有危机感
+
+https://www.zaobao.com/news/china/story20240102-1459635
+
+广东省佛山市南山镇发布"躺平休闲人员"的公示，共八名基层工作人员上榜，"躺平者"将有六个月的整改期。中国近年强调整治"躺平"公职人员，南山镇这一评选与惩治，再度引发关注。
+网络近期流传一份佛山市三水区南山镇12月28日发布的公文显示，通过谈话调研、民主评议、作风效能领导小组审定等工作环节，经该镇党委研究同意，有八人被列入该镇2023年度"躺平休闲人员"拟定名单......
+
+#### 河南学生校内死亡引发民众示威 学者：源自长期不信任官方说法
+
+https://www.zaobao.com/news/china/story20240102-1459631
+
+中国河南省宁陵县一名学生校内死亡后，引发民众示威。图为当地民众2023年12月28日在宁陵县政府大门前抗议。（网传视频截图）
+中国河南省商丘市宁陵县一名14岁初中生上个月在校内死亡后，官方公布的死因受到家属和当地民众质疑，引发大规模示威抗议。受访学者分析，本次事件出现警民对抗，实际上源自民众过去对类似事件长期不信任官方的说法......
+
+#### 大批陆客元旦凌晨滞留香港街头 港府拟与大陆商讨延长两地通关
+
+https://www.zaobao.com/news/china/story20240102-1459617
+
+香港在刚过去的跨年夜举办了有史以来规模最大和时间最长的跨年烟花汇演。图为1月1日凌晨，维港上空燃放烟花庆祝新年。（路透社）
+数以10万计的中国大陆游客跨年夜（2023年12月31日）到香港观赏烟花汇演倒数迎新年，过后许多人选择当天返回大陆，但由于交通配套不足，大批陆客深夜被迫滞留香港街头。港府星期二（1月2日）宣布将与大陆政府商讨延长两地通关的时间。
+香港去年复常后，访港旅客人数一直不理想......
+
+#### 阿斯麦应美国要求取消中国部分光刻机订单
+
+https://www.zaobao.com/news/china/story20240102-1459609
+
+荷兰半导体设备制造巨头阿斯麦（ASML）的品牌标志，去年6月出现在其位在上海国际半导体展览会的展位上。（路透社）
+（费尔德霍芬综合电）荷兰半导体设备制造巨头阿斯麦（ASML）应美国要求，在出口禁令实施前取消部分中国光刻机订单后，北京批评美国的霸凌行径违背国际贸易规则，并敦促荷方秉持市场原则，尊重契约精神......
+
+#### 黎智英拒认三项罪名 控方指他煽动制裁陆港官员
+
+https://www.zaobao.com/news/china/story20240102-1459605
+
+香港壹传媒创办人黎智英对被控的串谋刊印及复制煽动刊物罪等三项罪名，均不认罪。图为黎智英2020年6月16日在壹传媒的香港办公室接受法新社访问。（法新社）
+（香港综合讯）香港壹传媒创办人黎智英涉嫌违反国安法案，进入第四天审讯。控方指黎智英多次打着自由民主幌子，向美国等外国势力提出制裁北京及其他针对中国大陆的敌对活动。黎智英对被控的三项罪名，均不认罪......
+
+#### 侯友宜再提蓝白合：六点共识仍适用 组联合政府势在必行
+
+https://www.zaobao.com/news/china/story20240102-1459563
+
+台湾在野的国民党主席朱立伦（左起）、总统候选人侯友宜、前总统马英九，以及民众党总统候选人柯文哲，去年11月15日在马英九文教基金会的门口合照。当天，国民党和民众党宣布两党达成合作的六点共识。（路透社）
+台湾在野的国民党总统候选人侯友宜说，蓝白两党（国民党与另一在野党民众党）去年签署的蓝白合六点共识仍适用，承诺若当选，组联合政府势在必行......
+
+#### 戴庆成：香港新一年机遇与挑战并存
+
+https://www.zaobao.com/news/china/story20240102-1459431
+
+随着新年钟声响起，全球在星期一（1月1日）凌晨正式踏入2024年。不过对香港基层市民来说，新一年的开启不一定就是好的开始。一如往年，香港多项和衣食住行等民生相关的用品和服务在新的一年纷纷涨价。
+其中，连锁快餐店麦当劳宣布从1月2日起调整所有产品价格，每项产品都涨价1港元（约0.17新元），平均涨幅为2.6%......
+
+#### 中美元首就建交45周年互致贺信 学者：美国对华政策基调不太可能改变
+
+https://www.zaobao.com/news/china/story20240101-1459440
+
+时任中国副总理邓小平（左）在中美建交后到访美国，在1979年1月31日于白宫与时任美国总统卡特签订中美科技合作协定和文化协定。
+（互联网）
+中美两国元首在2024年元旦互致贺信，祝贺两国建交45周年。分析指出，中美元首会晤和建交45周年，为增进双边沟通与合作提供契机，但两国关系同时面对美国总统大选和台湾问题等风险压力......
+
+#### 澳门赌收逆势上扬 12月同比大涨433%
+
+https://www.zaobao.com/news/china/story20240101-1459426
+
+澳门12月的博彩收入飙升逾四倍。图为大批旅客星期天（12月31日）在澳门知名景点大三巴牌坊前游览。（新华社）
+（澳门综合讯）澳门博彩业在中国经济放缓下依旧稳健，12月博彩收入逆势飙升逾四倍，年度总收入达至疫情前的六成以上......
+
+#### 台湾副总统电视辩论会 两岸问题再成交锋重点
+
+https://www.zaobao.com/news/china/story20240101-1459424
+
+台湾副总统候选人电视辩论会1月1日登场，左起为民进党候选人萧美琴、民众党候选人吴欣盈，以及国民党候选人赵少康。（台北市摄影记者联谊会提供）
+距离台湾大选剩不到两星期，星期一登场的副总统候选人辩论会上，国民党候选人赵少康与民进党候选人萧美琴皆批评对方的两岸立场，将为台湾带来风险；民众党候选人吴欣盈则说蓝绿一个靠中、一个反中，都失去台湾主体性......
+
+#### 中国据报要求延后中日韩领导人峰会
+
+https://www.zaobao.com/news/china/story20240101-1459416
+
+（首尔／北京／东京综合讯）韩国外交消息人士称，中国要求将中日韩领导人峰会推迟到中国两会之后举行。
+据韩国《中央日报》上周五（12月29日）报道，熟悉中日韩三国领导人会议协商情况的韩国外交部门消息人士透露，中国大陆预计本月13日台湾总统选举结束后，下来一两个月要集中处理台湾相关情况，因此要求在今年3月两会（全国人大与政协年会）后举行中日韩三国领导人峰会......
+
+#### 蔡英文元旦记者会称 中华民国宪法不是风险 连结九二共识才是
+
+https://www.zaobao.com/news/china/story20240101-1459389
+
+台湾总统蔡英文星期一（1月1日）在总统府发表任内最后一次新年谈话后接受媒体联访。她说，《中华民国宪法》不是风险，跟"九二共识"连结才是。（自由时报）
+针对民进党总统候选人赖清德有关"中华民国宪法带来灾难"的说法，台湾总统蔡英文在元旦记者会上进一步解释，《中华民国宪法》不是风险，跟"九二共识"连结才是......
+
+#### 香港警方为市民提供骗案预警
+
+https://www.zaobao.com/news/china/story20240101-1459387
+
+（香港综合讯）香港警方将推出新措施，以手机短讯方式为市民提供骗案预警。
+根据香港政府星期一（1月1日）发布的新闻公报，警务处反诈骗协调中心下的"骗案预警"计划自星期二（1月2日）起，新增以短讯方式联络潜在受害人，适时发出警示和给予建议......
+
+#### 特稿：中国一线城市租房市场入冬
+
+https://www.zaobao.com/news/china/story20240101-1459386
+
+中国楼市冷风从买卖市场吹到租赁市场，北京、上海等一线城市的房租也持续走低。图为上海市中心楼房。（彭博社）
+"大家都以为（冠病疫情管控）放开后市场就会回暖，没想到2023年比2022年更惨。"
+上海租房中介刘燕（化名）告诉《联合早报》，2023年她经手的租约比2022年减少三成，租金水平同比下降20%至30％。入行八年来，她第一次感到"上海的房子也愁租"......
+
+#### 中国旅游业复苏强劲 免签政策提振入境游
+
+https://www.zaobao.com/news/china/story20240101-1459383
+
+在去年12月底的哈尔滨冰雪节上，许多游客都在与展示的冰雕拍照。（路透社）
+（北京综合讯）中国旅游市场在去年实现快速复苏，官方数据显示，实施六国免签政策首月有超过11万人次免签入境中国。预计今年中国国内出游人次将突破60亿，旅游收入也有望显著增长......
+
+#### 台湾历届总统和立委选举成绩
+
+https://www.zaobao.com/news/china/story20240101-1459500
+
+台湾将在1月13日举行总统和立委选举。《联合早报》依据台湾中央选举委员会网站数据，整理出从2000年至2020年的历届总统选举成绩，以及2016年和2020年的立委政党席次变化......
+
+#### 于泽远：中国军队反腐令人震撼
+
+https://www.zaobao.com/news/china/story20240101-1459267
+
+2023年12月29日，中国全国人大常委会一口气罢免了九名军方高级将领的全国人大代表资格，意味着这九名将领都"出事"了，否则不会被罢免。
+这九人中，有据可查的至少有三名上将、四名中将......
+
+#### 赖清德"中华民国宪法灾难"说冲击选情 但对蓝绿哪方加分仍难料
+
+https://www.zaobao.com/news/china/story20231231-1459272
+
+台湾民进党总统候选人赖清德的"中华民国宪法带来灾难"说，引起中国大陆国务院台湾事务办公室、台湾在野党强力抨击、赖清德再三灭火澄清，对两岸关系和选情的冲击持续发酵。
+受访学者评估，赖清德若上台，中国大陆将加大反独力道，赖清德则将紧握主流民意为后盾，但不至于走向制宪建国，也避免为美国制造麻烦。
+台湾将在不到两周后的1月13日迎来总统与立委选举......
+
+#### 大陆军事杂志：台湾"雄升"导弹的威胁有限
+
+https://www.zaobao.com/news/china/story20231231-1459254
+
+（香港/台北综合讯）中国大陆一家军事杂志的文章认为，台湾"雄升"地对地巡航导弹对大陆的威胁有限。
+《南华早报》星期天（12月31日）报道，雄升导弹的打击范围可达大陆东部、南部和中部。不过，《兵工科技》11月下旬发表的署名文章写道，由于雄升导弹的体积较大、速度亚音速且缺乏隐身技术，很容易"被现代、灵敏和精确的防空雷达系统探测、跟踪和监控"......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023-2024 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

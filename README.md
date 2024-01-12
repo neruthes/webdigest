@@ -24,7 +24,7 @@ https://github.com/neruthes/webdigest/blob/master/ISSUES.md
 
 ## Copyright
 
-Copyright (c) 2023 Neruthes and other contributors.
+Copyright (c) 2023-2024 Neruthes and other contributors.
 
 All PDF (published elsewhere) artifacts are published with CC BY-NC-ND 4.0 license.
 

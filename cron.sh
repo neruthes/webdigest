@@ -60,3 +60,6 @@ MARKUP=HTML tgbot-msg /home/neruthes/DEV/clinotifbot-tg $(pasm p tgid) _dist/tgm
 # git add .
 # git commit -m 'Automatic commit '"$(date '+%F %T')"
 # git push
+
+
+cfoss "$(./build.sh lastpdf).jpg"

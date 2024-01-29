@@ -1,0 +1,955 @@
+Other formats: [PDF](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/webdigest/WebDigest-20240129.pdf--6f22a363d38fa18cd2d7e23dfe28630f.pdf) / [HTML](https://webdigest.pages.dev/readhtml/2024/WebDigest-20240129.html)
+
+
+# Web Digest 2024-01-29
+
+
+## Developers
+
+### Hacker News
+
+#### German train company are looking for a Windows 3.11 Administrator
+
+https://www.gulp.de/gulp2/g/projekte/agentur/C00929028
+
+https://news.ycombinator.com/item?id=39168469
+
+#### New GitHub Copilot research finds 'downward pressure on code quality'
+
+https://visualstudiomagazine.com/articles/2024/01/25/copilot-research.aspx
+
+https://news.ycombinator.com/item?id=39168105
+
+#### I looked through attacks in my access logs
+
+https://nishtahir.com/i-looked-through-attacks-in-my-access-logs-heres-what-i-found/
+
+https://news.ycombinator.com/item?id=39165711
+
+#### Expert sounds alarm on new wave of US opioids crisis
+
+https://www.theguardian.com/us-news/2024/jan/28/us-opioids-crisis-fentanyl-appalachia
+
+https://news.ycombinator.com/item?id=39165175
+
+#### I hacked a train toilet
+
+[[https://www.devever.net/ hl/traintoilet](https://www.devever.net/~hl/traintoilet)]
+
+https://news.ycombinator.com/item?id=39163797
+
+#### Harvesting electricity from high-voltage transmission lines using fences
+
+https://hackaday.com/2024/01/27/harvesting-electricity-from-high-voltage-transmission-lines-using-fences/
+
+https://news.ycombinator.com/item?id=39163494
+
+#### Anki -- Powerful, intelligent flash cards
+
+https://apps.ankiweb.net/
+
+https://news.ycombinator.com/item?id=39163094
+
+#### U.S. army drops requirement for high school diploma (2022)
+
+https://www.military.com/daily-news/2022/06/24/army-drops-requirement-high-school-diploma-amid-recruiting-crisis.html
+
+https://news.ycombinator.com/item?id=39162084
+
+#### Solid-state EV batteries now face \"production hell\"
+
+https://spectrum.ieee.org/solid-state-battery-production-challenges
+
+https://news.ycombinator.com/item?id=39161841
+
+#### In loving memory of square checkbox
+
+https://tonsky.me/blog/checkbox/
+
+https://news.ycombinator.com/item?id=39161339
+
+#### If nothing changes, all remaining Nitter instances will go down eventually
+
+https://nitter.d420.de
+
+https://news.ycombinator.com/item?id=39161194
+
+#### Show HN: Pong Wars
+
+https://pong-wars.koenvangilst.nl/
+
+https://news.ycombinator.com/item?id=39159418
+
+#### The invention of a new pasta shape (2021)
+
+https://kottke.org/21/03/the-invention-of-a-new-pasta-shape
+
+https://news.ycombinator.com/item?id=39159263
+
+#### Sane C++ Libraries
+
+https://github.com/Pagghiu/SaneCppLibraries
+
+https://news.ycombinator.com/item?id=39159153
+
+#### Gitlab password reset bug leaves more than 5.3K servers up for grabs
+
+https://www.scmagazine.com/news/gitlab-password-reset-bug-leaves-more-than-5-3k-servers-up-for-grabs
+
+https://news.ycombinator.com/item?id=39159002
+
+#### Why good content gets posted on the wrong platform?
+
+https://danluu.com/why-video/
+
+https://news.ycombinator.com/item?id=39158250
+
+#### Is it insider trading if I bought Boeing puts while inside the wrecked airplane?
+
+https://law.stackexchange.com/questions/98706/is-it-insider-trading-if-i-bought-boeing-puts-while-i-am-inside-the-wrecked-airp
+
+https://news.ycombinator.com/item?id=39157797
+
+#### I used to not worry about climate change. Now I do \[video\]
+
+https://www.youtube.com/watch?v=4S9sDyooxf4
+
+https://news.ycombinator.com/item?id=39157010
+
+#### Remote work won, don't let anyone gaslight you to believe otherwise
+
+https://www.hottakes.space/p/remote-work-won-dont-let-anyone-gaslight
+
+https://news.ycombinator.com/item?id=39156987
+
+#### Spotify calls Apple's DMA compliance plan 'extortion"complete and total farce'
+
+https://techcrunch.com/2024/01/26/spotify-calls-apples-dma-compliance-plan-extortion-and-a-complete-and-total-farce/
+
+https://news.ycombinator.com/item?id=39156492
+
+### Phoronix
+
+#### Budgie 10.9 Desktop Brings Early Wayland Porting Work
+
+https://www.phoronix.com/news/Budgie-10.9-Released
+
+#### Wine Wayland Driver Prepares Display Mode Change Emulation
+
+https://www.phoronix.com/news/Wine-Wayland-Display-Emulation
+
+#### Linux 6.8-rc2 Adds More Zen 5 IDs, AMD PMF Will Know If You're In Front Of Your Laptop
+
+https://www.phoronix.com/news/Linux-6.8-More-Zen-5-And-PMF
+
+#### GNOME Sees Progress On Variable Refresh Rate Setting, Adding Battery Charge Control
+
+https://www.phoronix.com/news/GNOME-VRR-Setting-Battery-Con
+
+#### TuxClocker 1.5 Released With Radeon RX 7000 Series Fan Control Support
+
+https://www.phoronix.com/news/TuxClocker-1.5-Released
+
+#### Niri Debuts As A Scrollable-Tiling Wayland Compositor Inspired By PaperWM
+
+https://www.phoronix.com/news/Niri-0.1-Wayland-Compositor
+
+#### Arch-Based Endeavour OS Updates ISO With Linux 6.7 Kernel, Mesa 23.3.3
+
+https://www.phoronix.com/news/Endeavour-OS-Linux-6.7
+
+#### Ubuntu 24.04 LTS Will Aim To Ship With The Linux 6.8 Kernel
+
+https://www.phoronix.com/news/Ubuntu-24.04-Will-Use-Linux-6.8
+
+#### The Budgie Desktop Hopes To Do A Wayland-Only Release This Year
+
+https://www.phoronix.com/news/Budgie-Wayland-2024
+
+### GitHub
+
+#### SerenityOS/serenity
+
+https://github.com/SerenityOS/serenity
+
+The Serenity Operating System 🐞\
+Language: C++\
+Stars: 26992\
+Forks: 2942
+
+#### coolsnowwolf/lede
+
+https://github.com/coolsnowwolf/lede
+
+Leans LEDE source\
+Language: C\
+Stars: 28119\
+Forks: 19755
+
+### Dribbble
+
+#### Rick and Morty
+
+https://dribbble.com/shots/23521716
+
+#### 🚂 Little Train (part 1)
+
+https://dribbble.com/shots/23515525
+
+#### Ancient Philosophers
+
+https://dribbble.com/shots/23509294
+
+#### MEISENPRESS Halftone Processing Kit
+
+https://dribbble.com/shots/23508014
+
+#### Mushrooms
+
+https://dribbble.com/shots/23296850
+
+#### Travel and world monuments icons
+
+https://dribbble.com/shots/23507618
+
+#### Yoga
+
+https://dribbble.com/shots/23505363
+
+#### Geometric Boy Logo
+
+https://dribbble.com/shots/23504601
+
+#### Ammons Poems Website
+
+https://dribbble.com/shots/23508105
+
+#### Trees
+
+https://dribbble.com/shots/23507729
+
+#### Morning Commute
+
+https://dribbble.com/shots/23508580
+
+#### Patagonia (Store Mural)
+
+https://dribbble.com/shots/23493792
+
+#### Oregon State Park Landscapes
+
+https://dribbble.com/shots/23501428
+
+#### Travel Netherlands Icons
+
+https://dribbble.com/shots/23496864
+
+#### Ode to Farm
+
+https://dribbble.com/shots/23343211
+
+#### The Sounds of Spring
+
+https://dribbble.com/shots/23501862
+
+#### Glyph beer 26
+
+https://dribbble.com/shots/23475899
+
+#### Box Top Concept - which do you prefer?
+
+https://dribbble.com/shots/23501969
+
+#### Coram Deo Church Bremerton (Stained Glass Windows)
+
+https://dribbble.com/shots/23494095
+
+#### TG Sponsored Post
+
+https://dribbble.com/shots/23493125
+
+#### Landscape
+
+https://dribbble.com/shots/23262033
+
+#### Limited Edition Print Pt. II
+
+https://dribbble.com/shots/23488518
+
+#### Shape Studies: 054
+
+https://dribbble.com/shots/23486502
+
+#### Characters for the new mushroom brand from Wiz Khalifa
+
+https://dribbble.com/shots/23487679
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### GitHub Copilot 降低了代码质量和可维护性
+
+https://www.solidot.org/story?sid=77243
+
+#### 数千家空壳公司有年龄超过 123 岁的董事
+
+https://www.solidot.org/story?sid=77242
+
+#### Linux 应用商店 Flathub 的活跃 Flatpak App 用户突破百万
+
+https://www.solidot.org/story?sid=77241
+
+#### 天文学家在银河系内发现古老的巨恒星
+
+https://www.solidot.org/story?sid=77240
+
+#### 苹果 iOS 17.4 测试版发现大模型相关代码
+
+https://www.solidot.org/story?sid=77239
+
+#### 苹果的欧洲新规招致广泛批评
+
+https://www.solidot.org/story?sid=77238
+
+#### 年轻一代男女之间的政治分歧日益扩大
+
+https://www.solidot.org/story?sid=77237
+
+#### 接受基因疗法的耳聋儿童恢复听力和语言能力
+
+https://www.solidot.org/story?sid=77236
+
+#### 中国 2023 年新增太阳能装机容量超过其它任何国家
+
+https://www.solidot.org/story?sid=77235
+
+#### NASA 火星直升机将无法再次飞行
+
+https://www.solidot.org/story?sid=77234
+
+#### 印度法庭将裁决谁发明了黄油咖喱鸡
+
+https://www.solidot.org/story?sid=77233
+
+#### 某些癌症医生不想称呼其为癌症
+
+https://www.solidot.org/story?sid=77232
+
+#### 日本外籍劳工数量突破 200 万
+
+https://www.solidot.org/story?sid=77231
+
+#### 黑客劫持 WPS Office 更新安装恶意程序
+
+https://www.solidot.org/story?sid=77230
+
+#### 青叶真司就死刑判决提起上诉
+
+https://www.solidot.org/story?sid=77229
+
+#### 雨果奖引发审查争议
+
+https://www.solidot.org/story?sid=77228
+
+#### 苹果允许欧洲用户使用第三方应用商店
+
+https://www.solidot.org/story?sid=77227
+
+### V2EX
+
+#### \[宽带症候群\] 软路由不同端口能不能从上级路由 dhcp 获得两个不同的 ip？
+
+https://www.v2ex.com/t/1012288
+
+#### \[宽带症候群\] 中国移动部分家宽网络似乎没有 sni 干扰
+
+https://www.v2ex.com/t/1012287
+
+#### \[程序员\] 测试了可离线部署的本地多模态模型\"Qwen-VL-Chat\"
+
+https://www.v2ex.com/t/1012285
+
+#### \[海外运营\] 产品出海的朋友们，你们在海外有办公室吗？怎么收款的啊？好懵啊
+
+https://www.v2ex.com/t/1012284
+
+#### \[问与答\] 功能机时代的 SIM 卡输入 147258036 会锁住吗
+
+https://www.v2ex.com/t/1012283
+
+#### \[Android\] 三星 S24 系列的屏幕好像翻车了
+
+https://www.v2ex.com/t/1012278
+
+#### \[宽带症候群\] 谁在为测速节点买单？
+
+https://www.v2ex.com/t/1012277
+
+#### \[奇思妙想\] 对于自己的产品，大方大胆的对外分享真的很重要！
+
+https://www.v2ex.com/t/1012275
+
+#### \[问与答\] 老电脑配置疑问
+
+https://www.v2ex.com/t/1012274
+
+#### \[MacBook Pro\] MBP 带 AC+ 去官方店清灰什么价格？
+
+https://www.v2ex.com/t/1012272
+
+#### \[生活\] PVE8 至挂载 ext4 分区
+
+https://www.v2ex.com/t/1012271
+
+#### \[互联网\] 全球国家/地区旗帜图库（270 个）
+
+https://www.v2ex.com/t/1012270
+
+#### \[iDev\] 各位 iOSer 大佬们，请教下怎么让 app 支持捷径？
+
+https://www.v2ex.com/t/1012269
+
+#### \[Google\] Google Voice 号码还有没有用？
+
+https://www.v2ex.com/t/1012268
+
+#### \[问与答\] 卫生纸推荐
+
+https://www.v2ex.com/t/1012267
+
+#### \[问与答\] 春节酒店的价格真是涨得离谱
+
+https://www.v2ex.com/t/1012266
+
+#### \[Django\] 大家怎么处理开发时 Migration 一大堆，修修改改啰啰嗦嗦，同步到生产之前还得检查合并下这个问题的？
+
+https://www.v2ex.com/t/1012264
+
+#### \[问与答\] 有免费的域名范解析证书吗
+
+https://www.v2ex.com/t/1012262
+
+#### \[宽带症候群\] tproxy 的规则如何理解？
+
+https://www.v2ex.com/t/1012261
+
+#### \[MongoDB\] 关于远程 mongodb 数据同步到本地 Elasticsearch 问题
+
+https://www.v2ex.com/t/1012259
+
+#### \[分享发现\] 发现个还不错的《幻兽帕鲁》繁殖计算器 \| Palworld Breeding Combinations & Calculator
+
+https://www.v2ex.com/t/1012257
+
+#### \[Java\] 基于 netty+zk 开发高性能 rpc 框架
+
+https://www.v2ex.com/t/1012256
+
+#### \[分享创造\] 做了一本中英对照的 Paul Graham 2006 - 2023 中英对照的博客文集电子书
+
+https://www.v2ex.com/t/1012255
+
+#### \[宽带症候群\] nat1 下， dmz 指向了我的主机，那么开放端口挂了 web 会被查水表吗
+
+https://www.v2ex.com/t/1012254
+
+#### \[计算机\] 配置选好了，感谢回复的 V 友们，一般什么时间买比较合适呢？现在 or 半年内的什么 618 之类的活动？
+
+https://www.v2ex.com/t/1012252
+
+#### \[分享发现\] Apptisan #001｜ MusicHarbor：一个被 MacStories Selects 评选为 2020 年度最佳 App 的应用是怎么诞生的？
+
+https://www.v2ex.com/t/1012251
+
+#### \[分享创造\] 分享两个我们设计的关于 AI 绘画的 App
+
+https://www.v2ex.com/t/1012250
+
+#### \[OpenAI\] 推广一下自己的 OpenAI API 代理站
+
+https://www.v2ex.com/t/1012248
+
+#### \[宽带症候群\] 0755 电信相关
+
+https://www.v2ex.com/t/1012247
+
+#### \[问与答\] 家用 KTV 点歌机推荐
+
+https://www.v2ex.com/t/1012245
+
+#### \[问与答\] 请问能本地运行大模型的库，类似 jan
+
+https://www.v2ex.com/t/1012243
+
+#### \[奇思妙想\] 求赠我一些好书 以充实书架
+
+https://www.v2ex.com/t/1012242
+
+#### \[问与答\] 请问怎样管理多个 GPU 啊，有开源的方案吗，求推荐
+
+https://www.v2ex.com/t/1012241
+
+#### \[Apple\] Apple 龙年影片上线 「小蒜头」范伟主演
+
+https://www.v2ex.com/t/1012237
+
+#### \[iPhone\] 关于 clubesim 保号问题。
+
+https://www.v2ex.com/t/1012236
+
+#### \[分享发现\] 好像没有人说知乎的 +AI 系统？
+
+https://www.v2ex.com/t/1012235
+
+#### \[分享创造\] 做了一个帕鲁工具网站，欢迎大家使用
+
+https://www.v2ex.com/t/1012234
+
+#### \[程序员\] 国外有什么免费类似飞书/lark 的可以私有部署的应用吗？
+
+https://www.v2ex.com/t/1012233
+
+#### \[问与答\] 在某宝买到了一台在黑名单内的 iPhone ，如何向卖家索赔？
+
+https://www.v2ex.com/t/1012231
+
+#### \[问与答\] 为什么现在网上买处方药适应症全部模糊化处理
+
+https://www.v2ex.com/t/1012230
+
+#### \[问与答\] 你们一般活着干嘛？
+
+https://www.v2ex.com/t/1012229
+
+#### \[职场话题\] 现在全职兼职劳动合同签约率高不高，单位与你签合同吗
+
+https://www.v2ex.com/t/1012228
+
+#### \[酷工作\] \[急聘\] 图像算法工程师
+
+https://www.v2ex.com/t/1012226
+
+#### \[程序员\] LaTeX 报错有时候真感觉挺无力的
+
+https://www.v2ex.com/t/1012225
+
+#### \[程序员\] 求推荐一款可定制词典的词典笔
+
+https://www.v2ex.com/t/1012224
+
+#### \[问与答\] 问下搬家的利润到底多大？搬了两次家，搞得我都不想码了，想去搬家了。。
+
+https://www.v2ex.com/t/1012223
+
+#### \[分享发现\] npm 被用来保存盗版视频
+
+https://www.v2ex.com/t/1012222
+
+#### \[iOS\] ios 上电报和小火箭配合使用问题
+
+https://www.v2ex.com/t/1012219
+
+#### \[SSD\] 分享一下最近遇到的两起 ssd 故障
+
+https://www.v2ex.com/t/1012217
+
+#### \[生活\] 过年大家什么时候回去?
+
+https://www.v2ex.com/t/1012216
+
+## Generic News
+
+### AP News
+
+#### Three Americans killed, 'many' wounded in drone attack by Iran-backed militia in Jordan, Biden says
+
+https://apnews.com/article/5cb774fd835a558d840ae91263037489
+
+COLUMBIA, S.C. (AP) --- Three American service members were killed and
+"many" were wounded in a drone strike in northeast Jordan near the
+Syrian border, President Joe Biden said in a statement Sunday. He
+attributed the attack to Iran\...
+
+#### James outduels Curry with a triple-double as Lakers take double-OT thriller vs. Warriors 145-144
+
+https://apnews.com/article/d1e76dfc2d5893ed83214b77209ec1b7
+
+SAN FRANCISCO (AP) --- LeBron James made a pair of free throws with 1.2
+seconds left in the second overtime to cap his triple-double of 36
+points, 20 rebounds and 12 assists, outdueling Stephen Curry as the Los
+Angeles Lakers held off the\...
+
+#### Spurs mascot The Coyote captures bat with net -- to the delight of Wembanyama
+
+https://apnews.com/article/245eb5921082659f186cd310702e1bb3
+
+SAN ANTONIO (AP) --- A bat descended on the court and delayed play after
+Victor Wembanyama made a 3-pointer two minutes into the San Antonio
+Spurs' 113-112 victory over the Minnesota Timberwolves on Saturday
+night. The Spurs' mascot, The\...
+
+#### Oregon weekly newspaper to relaunch print edition after theft forced it to lay off its entire staff
+
+https://apnews.com/article/c6d2b677a370afffa26dfc2b5cac5549
+
+PORTLAND, Ore. (AP) --- An Oregon weekly newspaper that had to lay off
+its entire staff after its funds were embezzled by a former employee
+will relaunch its print edition next month, its editor said, a move made
+possible in large part by\...
+
+#### Bullfight advocates working with young people to attract new followers in Mexico
+
+https://apnews.com/article/1e2ba4342b531b468e35493018b2d6a3
+
+ACULCO, Mexico (AP) --- The corral gate swings open and an energetic
+calf charges in, only to be wrestled stuggling to the ground and
+immobilized by having its legs tied. The men go to work vaccinating the
+calf and marking its number with\...
+
+#### A snowboarder spent 15 hours trapped in a ski gondola. She rubbed her hands and feet to keep warm
+
+https://apnews.com/article/0cdeaac5df9ce655f8b253c804fcd2a8
+
+SOUTH LAKE TAHOE, Calif. (AP) --- A snowboarder spent 15 hours trapped
+overnight inside a ski lift gondola amid freezing temperatures at a Lake
+Tahoe resort, according to officials and media reports. Monica Laso
+boarded the gondola around\...
+
+#### 'Saltburn' actor Barry Keoghan named Hasty Pudding's Man of the Year
+
+https://apnews.com/article/b1334bb493311e77f4ea275b7198bff1
+
+CAMBRIDGE, Mass. (AP) --- Harvard University's Hasty Pudding Theatricals
+has named Barry Keoghan, best known for his roles in "Dunkirk," "The
+Killing of a Sacred Deer," "Eternals," and "The Banshees of Inisherin,"
+as the recipient\...
+
+#### Zebras, camels and flames, oh my! Circus animals rescued after truck catches fire on Indiana highway
+
+https://apnews.com/article/6e05d02f6382ffc0c2858487b66b4848
+
+MARION, Ind. (AP) --- A truck hauling zebras and camels for a series of
+weekend circus performances caught fire early Saturday on a northeastern
+Indiana highway, prompting a police rescue of the animals, which roamed
+along the freeway\...
+
+#### Charges against country singer Chris Young in Nashville bar arrest have been dropped
+
+https://apnews.com/article/ead6a027aafa8c985cccbec3a34ba750
+
+NASHVILLE, Tenn. (AP) --- A district attorney in Tennessee has dropped
+charges against country singer Chris Young stemming from an encounter
+with Alcoholic Beverage Commission agents who were doing compliance
+checks. In a statement\...
+
+#### Crash involving multiple vehicles and injuries snarls traffic on Chesapeake Bay bridge in Maryland
+
+https://apnews.com/article/17df78c1204638e7f403b82eccb87f91
+
+BALTIMORE (AP) --- A crash involving multiple vehicles and injuries
+closed all lanes on the heavily-traveled U.S. 50 Bay Bridge in Maryland
+on Saturday and motorists were advised to expect major delays,
+authorities said. The Maryland\...
+
+#### The world's largest cruise ship begins its maiden voyage from the Port of Miami
+
+https://apnews.com/article/e841449d2796b1fd76d022bbfbb4dada
+
+MIAMI (AP) --- The world's largest cruise ship is set to begin its
+maiden voyage Saturday as it gets underway from the Port of Miami. Royal
+Caribbean's Icon of the Seas, which runs nearly 1,200 feet (365 meters)
+from bow to stern, is\...
+
+#### Wrestling icon Vince McMahon resigns from WWE after former employee files sex abuse lawsuit
+
+https://apnews.com/article/4b7e1cd46a6646538637307bb0c8202b
+
+STAMFORD, Conn. (AP) --- Wrestling icon Vince McMahon resigned Friday
+from WWE's parent company the day after a former employee filed a
+federal lawsuit accusing him and another former executive of serious
+sexual misconduct, including\...
+
+#### Other passengers support man who opened emergency exit and walked on plane's wing in Mexico airport
+
+https://apnews.com/article/91e3411716e22bfd8778905860a7850f
+
+MEXICO CITY (AP) --- At first it sounds like a typical case of bad
+behavior aboard airplanes. The Mexico City International Airport
+acknowledged in a statement Friday that a man had opened an emergency
+exit and walked out on a wing of a\...
+
+### Reuters
+
+#### UK government to ban disposable vapes to prevent use by children
+
+https://www.reuters.com/world/uk/uk-government-ban-disposable-vapes-prevent-use-by-children-2024-01-28/
+
+British Prime Minister Rishi Sunak will announce plans on Monday to ban
+the sale of disposable vapes to prevent their use by children, and
+reiterate the governments intention to introduce a law preventing
+younger\...
+
+#### Ukraine's Zelenskiy publishes income as part of transparency drive
+
+https://www.reuters.com/world/europe/ukraines-zelenskiy-publishes-income-part-transparency-drive-2024-01-28/
+
+Ukrainian President Volodymyr Zelenskiy made public his income over a
+two-year period on Sunday as part of a drive to promote transparency and
+root out endemic\...
+
+#### Iran-backed attacks on US troops in the Middle East since Oct. 7
+
+https://www.reuters.com/world/middle-east/iran-backed-attacks-us-troops-middle-east-since-oct-7-2024-01-28/
+
+The unmanned aerial drone attack that killed three U.S. service members
+and wounded dozens in northeastern Jordan on Sunday is the latest by
+Iran-aligned militia groups in Iraq and\...
+
+#### North Korea tests submarine-launched cruise missiles, KCNA says
+
+https://www.reuters.com/world/asia-pacific/north-korea-tests-submarine-launched-cruise-missile-kcna-says-2024-01-28/
+
+North Korea tested its new strategic cruise missiles for the second time
+in a week on Sunday, calling it a newly developed submarine-launched
+cruise missile (SLCM), accelerating its navys nuclear armament, state
+media\...
+
+#### Seeking Western support, Zelenskiy voices world war risk
+
+https://www.reuters.com/world/europe/seeking-western-support-zelenskiy-voices-world-war-risk-2024-01-28/
+
+President Volodymyr Zelenskiy voiced the danger of the Ukraine conflict
+escalating into World War Three, as he pressed his case for support from
+nations from Germany to the United States in an interview with German
+state broadcaster ARD\...
+
+#### Jordan condemns 'terrorist attack' on post at Syria border
+
+https://www.reuters.com/world/middle-east/jordan-condemns-terrorist-attack-post-syria-border-2024-01-28/
+
+Jordan condemned on Sunday the \"terrorist attack\" on a military
+advance post just inside its border with Syria that killed three U.S.
+military members and injured\...
+
+#### Israeli settlers hold conference on resettlement in Gaza
+
+https://www.reuters.com/world/middle-east/israeli-settlers-hold-conference-resettlement-gaza-2024-01-28/
+
+Hundreds of members of the Israeli settler community gathered for a
+convention in Jerusalem on Sunday calling for Israel to rebuild
+settlements in Gaza and the northern part of the Occupied West\...
+
+#### What is Tower 22, site of the attack on US troops in Jordan?
+
+https://www.reuters.com/world/middle-east/what-is-tower-22-site-attack-us-troops-jordan-2024-01-28/
+
+Three U.S. troops were killed and dozens wounded after a drone hit a
+military outpost in Jordan known as Tower\...
+
+#### Russian missile hits Ukraine's Kremenchuk district for second day, no casualties
+
+https://www.reuters.com/world/europe/russian-missile-hits-ukraines-kremenchuk-district-second-day-no-casualties-2024-01-28/
+
+A Russian missile hit an industrial site in the central Ukrainian
+district of Kremenchuk on Sunday for a second straight day, the regional
+governor said, adding the strike had caused no\...
+
+#### Hostage-deal gaps remain, Israeli prime minister's office says
+
+https://www.reuters.com/world/middle-east/israeli-pms-office-says-summit-negotiate-hostage-deal-was-constructive-gaps-2024-01-28/
+
+Talks held on Sunday initiated by Qatar, the United States and Egypt to
+broker a hostage deal between Israel and Hamas were \"constructive\" but
+meaningful gaps remain, the Israeli prime ministers office\...
+
+#### Moldovan negotiator rules out Moscow role in solving separatist issue
+
+https://www.reuters.com/world/europe/moldovan-negotiator-rules-out-moscow-role-solving-separatist-issue-2024-01-28/
+
+Moldovas top negotiator in resolving the three-decade-old dispute with
+its pro-Russian Transdniestria separatist enclave on Sunday ruled out
+any role for Russia in finding a solution as long as it was engaged in
+its war\...
+
+#### Ex-central banker Carney backs Trudeau to lead Liberals in Canada's next election
+
+https://www.reuters.com/world/americas/ex-central-banker-carney-backs-trudeau-lead-liberals-canadas-next-election-2024-01-28/
+
+Former central bank Governor Mark Carney on Sunday said he supported
+Canadian Prime Minister Justin Trudeau leading the Liberal Party into
+the next federal election, quashing speculation that Carney would mount
+his own leadership\...
+
+#### Niger, Mali and Burkina Faso quit ECOWAS, testing regional unity
+
+https://www.reuters.com/world/africa/niger-mali-burkina-faso-quit-ecowas-testing-regional-unity-2024-01-28/
+
+Defying pressure by leaders of the Economic Community of West African
+States (ECOWAS) to restore constitutional rule, junta leaders of Niger,
+Mali and Burkina Faso said on Sunday they were quitting the regional\...
+
+### 联合早报
+
+#### 于泽远：中美关系今年相对缓和？
+
+https://www.zaobao.com/news/china/story20240129-1464930
+
+中国外交部长王毅同美国国家安全顾问沙利文1月26日至27日在泰国曼谷举行了两天会晤。（路透社）
+中国外交部长王毅同美国国家安全顾问沙利文1月26日至27日在泰国曼谷举行了两天会晤。从事后中美双方公布的消息看，这轮会晤气氛不错，为今年中美高层继续保持沟通创造了条件。
+中方通报称，王毅与沙利文进行了"坦诚、实质性、富有成果的战略沟通"......
+
+#### 港官员：积极争取国际知名歌手赴港表演
+
+https://www.zaobao.com/news/china/story20240128-1464956
+
+香港文化体育及旅游局局长杨润雄说，今年上半年香港将举行超过80项盛事，不包括演唱会。图为摄于今年元旦的香港维多利亚港。（法新社）
+（香港综合讯）香港文化体育及旅游局局长杨润雄说，香港特区政府会积极争取国际知名歌手赴港表演，但强调这些歌手会否答应属于商业决定......
+
+#### 中俄仍未敲定新天然气管道的开工时间
+
+https://www.zaobao.com/news/china/story20240128-1464932
+
+（伦敦综合讯）蒙古国总理奥云额尔登向英国媒体透露，俄罗斯原定在今年铺设、连接其西部天然气田到中国的新运输管道，可能会延迟展开。
+穿越蒙古国境内的"西伯利亚力量二号"管道，过去十多年来一直是莫斯科的优先事项。自从俄乌战争爆发，俄罗斯输往欧洲的"北溪一号"天然气管道在2022年遭到破坏后，可稳定供应500亿立方米天然气的"西伯利亚力量二号"管道，变得更加重要......
+
+#### 中日互指对方船只越界 钓鱼岛争端再起
+
+https://www.zaobao.com/news/china/story20240128-1464923
+
+钓鱼岛（日本称尖阁诸岛）紧张局势过去一个多月来出现升温迹象。图摄于2012年9月。（路透社档案照片）
+中日再就钓鱼岛问题交锋，中国海警称日本渔船和数艘巡视船星期六（1月27日）"非法进入"钓鱼岛领海，中国海警舰艇对其采取管控措施并警告驱离；日本则指中国两艘海警船跟随一艘日本渔船航行。
+钓鱼岛（日本称尖阁诸岛）紧张局势过去一个多月来出现升温迹象......
+
+#### 台湾立院龙头之战 蓝绿29日预计拜会民众党团
+
+https://www.zaobao.com/news/china/story20240128-1464903
+
+（台北综合讯）台湾立法院正副院长选举2月1日举行，国民党和民进党正副院长候选人预计29日将拜会民众党团，争取支持。由于三党的立法院席次都没有过半，拥有八席立委的民众党成关键少数。
+综合联合报、中时新闻网和自由时报报道，国民党已确定由立委当选人韩国瑜、立委江启臣角逐立法院龙头，民进党团29上午举行党团会议，预计推举现任立法院长游锡堃和立法院副院长蔡其昌应战......
+
+#### 开市客深圳开业 仓储超市模式崛起
+
+https://www.zaobao.com/news/china/story20240128-1464894
+
+美国仓储超市"开市客"1月中旬在深圳开设中国第六家分店，也是华南首家旗舰店。（林煇智摄）
+美国开市客（Costco）在深圳开业，是半年来在深圳开幕的第二家会员制仓储超市门店。随着中国电商平台崛起，传统超市近年来出现倒闭潮。与此同时，仓储超市纷纷入局，反映了中国消费模式微妙的转变......
+
+#### 中国特稿：绿营总统立委票萎缩 台湾进入"三国时代"
+
+https://www.zaobao.com/news/china/story20240128-1464571
+
+台湾候任总统赖清德（左）和候任副总统萧美琴在1月13日胜选之夜向支持群众挥手示意。
+（赖清德竞选总部提供）
+在台湾2024年大选，民进党总统当选人赖清德虽保住民进党的执政权，但选票未过半，朝野三党在立法院的席次也未过半。赖清德的"双少数"政府，能否如愿和在野党组成"民主大联盟"，攸关未来政策推动顺遂与否......
+
+#### 中国副外长访朝鲜 学者：旨在了解朝鲜近期外交转变
+
+https://www.zaobao.com/news/china/story20240127-1464802
+
+中国外交部副部长孙卫东（左）星期六（1月27日）离开平壤前与到机场送行的朝鲜外交部官员握手道别。（法新社）
+朝鲜继续深化与俄罗斯关系之际，中国外交部副部长孙卫东访问朝鲜，双方同意加强战略合作，共同维护核心利益。
+受访学者认为，中方此行旨在了解朝鲜近期外交政策取向的转变，试图确保平壤不脱离北京的影响。
+孙卫东是在星期五（1月26日）访问朝鲜平壤，与朝鲜副外长朴明浩举行磋商，并拜会了朝鲜外长崔善姬......
+
+#### 接连发生数起火灾 中国开展消防安全大整治行动
+
+https://www.zaobao.com/news/china/story20240127-1464796
+
+（北京/濮阳综合讯）中国近期接连发生多起火灾等安全事故后，中国国务院宣布在全国组织开展消防安全集中除患攻坚大整治行动。
+中国应急管理部星期五（1月26日）在官网发布通知称，一周之内接连发生重大和特别重大火灾事故，暴露出的问题教训极为深刻。国务院安委会办公室决定即日起至3月底，在全国组织开展消防安全集中除患攻坚大整治行动......
+
+#### 上海市长龚正：今年实现增长目标须奋力一跳甚至两跳
+
+https://www.zaobao.com/news/china/story20240127-1464794
+
+龚正星期六（1月27日）在上海市人大代表会议结束后的近两小时记者会中，提及"开放"超过30次。图为他1月23日在市人大会议开幕后作政府工作报告。（中新社）
+上海连续两年经济增速未达标后，市长龚正坦言，今年实现增长目标要经过十分艰苦的努力，"必须奋力一跳，甚至奋力两跳"。
+龚正星期六（1月27日）在市人大代表会议结束后的记者会上指出，会议确定今年全市经济增长预期目标为5%左右......
+
+#### 泰国最大咖啡连锁品牌退出中国
+
+https://www.zaobao.com/news/china/story20240127-1464779
+
+泰国最大咖啡品牌亚美森咖啡宣布将从星期六（1月27日）起暂别中国市场。（互联网）
+（上海综合讯）泰国最大咖啡品牌亚美森咖啡（Cafe
+Amazon）在其微信公众号公告，将从星期六（1月27日）起暂别中国市场。
+亚美森咖啡2019年进入中国市场，但在新咖啡品牌层出不穷的中国市场，消费者对亚美森比较陌生。到去年4月，该品牌的中国门店仅有13家，其中12家均布局在广西南宁，剩余一家在武汉......
+
+#### 重庆不雅视频案落马厅官雷政富减刑出狱惹议
+
+https://www.zaobao.com/news/china/story20240127-1464778
+
+因不雅视频在互联网曝光而落马的重庆市北碚区区委原书记雷政富目前已减刑出狱。（新华社资料照）
+（重庆综合讯）曾因不雅视频在互联网曝光而落马的重庆市北碚区区委原书记雷政富已减刑出狱，引发热议。不少网民对本应于2026年刑满的雷政富赃款尚未退清还能减刑一事提出质疑。
+综合《南方都市报》和观察者网报道，重庆市监狱管理局星期五（1月26日）证实，雷政富已刑满释放......
+
+#### 中国去年工业企业利润下降 下半年情况改善
+
+https://www.zaobao.com/news/china/story20240127-1464777
+
+2023年中国规模以上工业企业利润下降，反映出价格下跌和国内外需求疲软仍在拖累工业企业的利润增长。图为位于安徽省合肥市的中国汽车制造商蔚来汽车工厂。（法新社）
+（北京综合讯）2023年中国规模以上工业企业利润下降，反映出价格下跌和国内外需求疲软仍在拖累工业企业的利润增长......
+
+#### 新闻人间：搭上科目三和黄仁勋的夜市达人林定国
+
+https://www.zaobao.com/news/china/story20240127-1464583
+
+台湾夜市商圈产业工会总会长林定国（右一）星期四（1月25日）与宁夏夜市同业，向媒体示范风靡两岸的"科目三"舞蹈。
+台北宁夏夜市最近很红火，先是宣布举办抖音洗脑神曲"科目三"舞蹈竞赛，过后又连续两天接待AI（人工智能）教父、辉达（Nvidia，中国大陆译为英伟达）执行长黄仁勋。
+搭上这两股热潮背后的推手，是59岁的夜市达人、宁夏商圈发展协会理事长林定国......
+
+#### 黄小芳：龙宝宝促生育？
+
+https://www.zaobao.com/news/china/story20240127-1464634
+
+中国官方辟谣的新闻并不罕见，但中国民政部本周一则另类辟谣消息却引起舆论关注，冲上了微博热搜。
+在农历年将至的时间点上，坊间开始流传今年龙年属于"寡妇年"，不宜结婚生子的说法。"寡妇年"指的是一年中没有立春的年份，有说法称，这年结婚的人一辈子可能得结两次婚......
+
+#### 中国商务部：2024年外贸形势更加复杂严峻
+
+https://www.zaobao.com/news/china/story20240126-1464642
+
+中国今年外贸发展面临不小的外部环境挑战。图为堆放在江苏省南京港的海运集装箱。（法新社）
+中国商务部长王文涛说，由于需求不振、世界经济低迷，加上贸易保护主义抬头、地缘冲突加剧，外溢风险显著上升，中国今年外贸发展面临的外部形势将会更加复杂严峻......
+
+#### 中国推进房地产融资协调机制 首批项目名单月底前落地可争取贷款
+
+https://www.zaobao.com/news/china/story20240126-1464637
+
+（北京综合讯）为满足房地产企业合理的融资需求，中国官方要求各地尽快提出可给予融资支持的房地产项目名单，首批项目名单在本月底前落地，即可争取贷款。
+据《中国建设报》消息，中国住房城乡建设部部长倪虹星期五（1月26日）在城市房地产融资协调机制部署会上说，将加快推动城市房地产融资协调机制落地见效，支持房地产项目开发建设，一视同仁满足不同所有制房地产企业合理融资需求，促进房地产市场平稳健康发展......
+
+#### 被控恐吓支持民主人士 中国一留学生在美被裁定罪名成立
+
+https://www.zaobao.com/news/china/story20240126-1464621
+
+在波斯顿伯克利音乐学院就读的中国留学生吴啸雷，2022年12月14日坐在马萨诸塞州切尔西的联邦调查局办公室接受讯问。（路透社）
+（华盛顿综合讯）被控恐吓一名张贴支持中国民主海报的学生，并威胁要向中国执法部门举报她的中国留美学生，当地时间星期四（1月25日）被美国联邦陪审团裁定有罪......
+
+#### 日本代表团结束访华 关键经济问题未解决
+
+https://www.zaobao.com/news/china/story20240126-1464616
+
+（北京彭博讯）日本经济界一个由近200人组成的代表团，星期五（1月26日）结束访华之行。除了中国领导层对他们承诺改善营商环境外，代表团此行几乎没有具体成果可供宣布。
+据彭博社报道，日本经济代表团星期四与中国总理李强会谈之后，日中经济协会官员对媒体称，代表团提出希望允许日本公民可以免签入境中国。李强回应说，人员交流很重要，但免签须要按照对等原则来实施......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023-2024 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

@@ -1,0 +1,941 @@
+Other formats: [PDF](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/webdigest/WebDigest-20240212.pdf--ad8f07e1f688e795162c46b2f604520b.pdf) / [HTML](https://webdigest.pages.dev/readhtml/2024/WebDigest-20240212.html)
+
+
+# Web Digest 2024-02-12
+
+
+## Developers
+
+### Hacker News
+
+#### Finding a new software developer job
+
+https://henrikwarne.com/2024/02/11/finding-a-new-software-developer-job/
+
+https://news.ycombinator.com/item?id=39337696
+
+#### Ask HN: What are the best articles on managing people?
+
+https://news.ycombinator.com/item?id=39336840
+
+https://news.ycombinator.com/item?id=39336840
+
+#### 100% User-Supported
+
+https://stephango.com/vcware
+
+https://news.ycombinator.com/item?id=39336308
+
+#### Popcorn Time 0.5.0
+
+https://github.com/popcorn-official/popcorn-desktop/releases/tag/v0.5.0
+
+https://news.ycombinator.com/item?id=39336239
+
+#### I designed a cube that balances itself on a corner
+
+https://willempennings.nl/balancing-cube/
+
+https://news.ycombinator.com/item?id=39336139
+
+#### RLHF a LLM in \<50 lines of Python
+
+https://datadreamer.dev/docs/latest/pages/get_started/quick_tour/aligning.html
+
+https://news.ycombinator.com/item?id=39335509
+
+#### Show HN: Miracode, a Minecraft programming font that is readable
+
+https://github.com/IdreesInc/Miracode
+
+https://news.ycombinator.com/item?id=39335126
+
+#### Javalin -- a simple web framework for Java and Kotlin
+
+https://javalin.io/
+
+https://news.ycombinator.com/item?id=39334672
+
+#### Keycloak SSO with Docker Compose and Nginx
+
+https://du.nkel.dev/blog/2024-02-10_keycloak-docker-compose-nginx/
+
+https://news.ycombinator.com/item?id=39333360
+
+#### Show HN: Multi-monitor KVM using just a USB switch
+
+https://github.com/fiddyschmitt/SimpleKVM
+
+https://news.ycombinator.com/item?id=39333309
+
+#### What it was like working for Gitlab
+
+https://yorickpeterse.com/articles/what-it-was-like-working-for-gitlab/
+
+https://news.ycombinator.com/item?id=39333220
+
+#### Undisclosed tinkering in Excel behind economics paper
+
+https://retractionwatch.com/2024/02/05/no-data-no-problem-undisclosed-tinkering-in-excel-behind-economics-paper/
+
+https://news.ycombinator.com/item?id=39332834
+
+#### A man has been swatted 47 times for making a joke about Norm Macdonald
+
+https://www.independent.co.uk/news/world/americas/crime/swatting-nikki-haley-trump-fbi-stalkers-b2494097.html
+
+https://news.ycombinator.com/item?id=39331771
+
+#### Show HN: A platform for remote piano lessons based on the Web MIDI API
+
+https://keyboardconnect.com/
+
+https://news.ycombinator.com/item?id=39331383
+
+#### OpenTTD
+
+https://www.openttd.org/about
+
+https://news.ycombinator.com/item?id=39330797
+
+#### Demoscene and video game music streaming radio links
+
+https://mw.rat.bz/davgmsrl/
+
+https://news.ycombinator.com/item?id=39330330
+
+#### Show HN: Emacs minor mode for connecting assembly and assembled code buffers
+
+https://github.com/ebanner/hexasm
+
+https://news.ycombinator.com/item?id=39330281
+
+#### Detroit's abandoned tunnel systems open door to another world
+
+https://www.freep.com/story/news/local/michigan/2024/02/10/underground-tunnels-detroit-michigan/72060366007/
+
+https://news.ycombinator.com/item?id=39329912
+
+#### Nvidia pursues \$30B custom chip opportunity with new unit
+
+https://www.reuters.com/technology/nvidia-chases-30-billion-custom-chip-market-with-new-unit-sources-2024-02-09/
+
+https://news.ycombinator.com/item?id=39328368
+
+#### Becoming a dungeon master for an interview
+
+https://www.propelauth.com/post/interview-dungeon-master
+
+https://news.ycombinator.com/item?id=39328007
+
+### Phoronix
+
+#### Linux 6.8-rc4 Released With Bcachefs & NTFS3 File-System Fixes, Transmeta Crusoe Fix
+
+https://www.phoronix.com/news/Linux-6.8-rc4-Released
+
+#### AMDGPU Driver Changes Begin For Linux 6.9: RAS ACA Framework, SEQ64 Infrastructure & Fixes
+
+https://www.phoronix.com/news/AMDGPU-Linux-6.9-First
+
+#### TrenchBoot Progress For Adding More Security & Integrity To The Boot Process
+
+https://www.phoronix.com/news/TrenchBoot-Status-2024
+
+#### Debian 12.5 Released To Provide The Latest Security & Bug Fixes
+
+https://www.phoronix.com/news/Debian-12.5-Released
+
+#### AMD Zen 5 Compiler Support Posted For GCC - Confirms New AVX Features & More
+
+https://www.phoronix.com/news/AMD-Zen-5-Znver-5-GCC
+
+#### Qualcomm Hardware Support Increasingly In Good Shape On The Mainline Linux Kernel
+
+https://www.phoronix.com/news/Qualcomm-Mainline-Linux-2024
+
+#### Xfce 4.20 Aiming For Usable Wayland Support While Maintaining X11 Compatibility
+
+https://www.phoronix.com/news/Xfce-4.20-Wayland-Roadmap
+
+#### Variable Refresh Rate \"VRR\" Support Comes Down To The Wire For GNOME 46
+
+https://www.phoronix.com/news/GNOME-VRR-February
+
+#### Three Weeks To Go Until The KDE Plasma 6.0 Release
+
+https://www.phoronix.com/news/KDE-Plasma-6-Three-Weeks
+
+### GitHub
+
+#### Orange-OpenSource/hurl
+
+https://github.com/Orange-OpenSource/hurl
+
+Hurl, run and test HTTP requests with plain text.\
+Language: Rust\
+Stars: 8091\
+Forks: 263
+
+#### MetaMask/metamask-extension
+
+https://github.com/MetaMask/metamask-extension
+
+:globe_with_meridians: :electric_plug: The MetaMask browser extension
+enables browsing Ethereum blockchain enabled websites\
+Language: JavaScript\
+Stars: 11163\
+Forks: 4913
+
+#### dockersamples/example-voting-app
+
+https://github.com/dockersamples/example-voting-app
+
+Example distributed app composed of multiple containers for Docker,
+Compose, Swarm, and Kubernetes\
+Language: C#\
+Stars: 4032\
+Forks: 8770
+
+### Dribbble
+
+#### Raspberries
+
+https://dribbble.com/shots/23603611
+
+#### Cocktail hour
+
+https://dribbble.com/shots/23605705
+
+#### Year of the Dragon
+
+https://dribbble.com/shots/23606185
+
+#### Mill Valley Music Festival Posters
+
+https://dribbble.com/shots/23600459
+
+#### Shows I Wish I Went To #3
+
+https://dribbble.com/shots/23599359
+
+#### Jackson Layne Construction
+
+https://dribbble.com/shots/23600126
+
+#### Draw the Back of a Cloud Graphic
+
+https://dribbble.com/shots/23599365
+
+#### The Purple Platoon.
+
+https://dribbble.com/shots/23598472
+
+#### STEEL CITY BANDANA
+
+https://dribbble.com/shots/23594804
+
+#### Terror of Demons Double IPA
+
+https://dribbble.com/shots/23589215
+
+#### Go Where Your Heart Grows 🪴
+
+https://dribbble.com/shots/23361833
+
+#### Boba 2
+
+https://dribbble.com/shots/23591001
+
+#### Houses icons
+
+https://dribbble.com/shots/23590021
+
+#### Ode to Farm Logotype
+
+https://dribbble.com/shots/23561522
+
+#### ampersandrew
+
+https://dribbble.com/shots/23585452
+
+#### USA National Parks - Badges Vol. 1
+
+https://dribbble.com/shots/23579419
+
+#### Color Lush
+
+https://dribbble.com/shots/23578124
+
+#### Big Bag of Money
+
+https://dribbble.com/shots/23585082
+
+#### Data never looked so good! Luminate.
+
+https://dribbble.com/shots/23584793
+
+#### Bring Love
+
+https://dribbble.com/shots/23577861
+
+#### The Lunar Space Suit
+
+https://dribbble.com/shots/23584912
+
+#### Landscape
+
+https://dribbble.com/shots/23262040
+
+#### Year of the Dragon
+
+https://dribbble.com/shots/23582569
+
+#### HOT property opportunity 🗑️🔥
+
+https://dribbble.com/shots/23584619
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### 46% 的美国人去年没有读完一本书
+
+https://www.solidot.org/story?sid=77346
+
+#### 微软决定 Visual Studio Code 对 Ubuntu 18.04 提供额外 12 个月的支持时间
+
+https://www.solidot.org/story?sid=77345
+
+#### 人类知识无损压缩 Hutter 奖再次颁奖
+
+https://www.solidot.org/story?sid=77344
+
+#### Z 世代拥抱实体书
+
+https://www.solidot.org/story?sid=77343
+
+#### 华为法国办事处被突击搜查
+
+https://www.solidot.org/story?sid=77342
+
+#### Instagram 和 Threads 将停止推荐政治内容
+
+https://www.solidot.org/story?sid=77341
+
+#### 科学家找到数据存储和时间的最佳平衡
+
+https://www.solidot.org/story?sid=77340
+
+#### 研究发现政治扭曲了道德判断和宽容
+
+https://www.solidot.org/story?sid=77339
+
+#### Windows 版 iTunes 被分拆成多个应用
+
+https://www.solidot.org/story?sid=77338
+
+#### 巴基斯坦在选举日断网断手机
+
+https://www.solidot.org/story?sid=77337
+
+#### Bard 改名 Gemini
+
+https://www.solidot.org/story?sid=77336
+
+### V2EX
+
+#### \[问与答\] 有没有上海的朋友推荐一下现在上海有什么玩的
+
+https://www.v2ex.com/t/1015384
+
+#### \[加密货币\] 大家想用加密货币购买什么商品或者服务？做加密货币代购服务有没有前途？
+
+https://www.v2ex.com/t/1015383
+
+#### \[程序员\] 找一位擅长前端 React 开发的开源贡献者，我们有一些简单的开源项目网站需要进行简单维护和修复 bug，官网漂亮，展示有面子
+
+https://www.v2ex.com/t/1015382
+
+#### \[酷工作\] 创业团队招人，欢迎北上广深杭相关人士加入 - 支持远程工作
+
+https://www.v2ex.com/t/1015381
+
+#### \[问与答\] Windows 竟没有一个匹敌 downie 的下载软件
+
+https://www.v2ex.com/t/1015380
+
+#### \[问与答\] 中国现在的楼市和股市大部分原因源自美元加息所致
+
+https://www.v2ex.com/t/1015379
+
+#### \[中州韻\] 分享一个可以很方便地维护 Rime 词库的小工具
+
+https://www.v2ex.com/t/1015378
+
+#### \[生活\] 干掉不负责的物业！
+
+https://www.v2ex.com/t/1015377
+
+#### \[VPS\] 现在哪家的 VPS 便宜好用？
+
+https://www.v2ex.com/t/1015376
+
+#### \[程序员\] 用 rofi 的朋友，请给个现成的关机配置
+
+https://www.v2ex.com/t/1015375
+
+#### \[问与答\] 看一个招程序员的。请问符合以下要求的程序员能拿到多少 K？
+
+https://www.v2ex.com/t/1015374
+
+#### \[问与答\] 有没有大佬能帮我看下这段关于响应式页面的代码为什么没用啊？
+
+https://www.v2ex.com/t/1015373
+
+#### \[推广\] ChatGPT API 中转， gpt-4 低至 0.76 折
+
+https://www.v2ex.com/t/1015372
+
+#### \[问与答\] 求 office 365 outlook 客户端的正确打开方式+吐槽
+
+https://www.v2ex.com/t/1015371
+
+#### \[React\] 2024 了, 求推荐 React 最佳入门教程!
+
+https://www.v2ex.com/t/1015369
+
+#### \[程序员\] 为什么对一个语言熟悉以后就很想换个语言重新试一试。
+
+https://www.v2ex.com/t/1015368
+
+#### \[宽带症候群\] Linux clash 将已有 ip 的网络接口的 inbound 流量， outbound 到指定的 socks5，可行吗？
+
+https://www.v2ex.com/t/1015367
+
+#### \[Apple\] meidamate 有合买的吗？
+
+https://www.v2ex.com/t/1015363
+
+#### \[问与答\] 想升级一下 PC，请大家给一些建议
+
+https://www.v2ex.com/t/1015362
+
+#### \[问与答\] 有没有好的照片放映解决方案？
+
+https://www.v2ex.com/t/1015360
+
+#### \[全球工单系统\] 淘宝聊天窗口打不开 提示集团安全处罚
+
+https://www.v2ex.com/t/1015358
+
+#### \[问与答\] 网站部分功能出现 AxiosError: Request failed with status code 404 请问有知道怎么解决的吗？
+
+https://www.v2ex.com/t/1015357
+
+#### \[iCloud\] 自己只有 iCloud drive 和 物理硬盘，还有必要买 infuse pro 吗？
+
+https://www.v2ex.com/t/1015355
+
+#### \[问与答\] 有没有非智能电视？
+
+https://www.v2ex.com/t/1015354
+
+#### \[问与答\] 买票的疑惑
+
+https://www.v2ex.com/t/1015353
+
+#### \[哔哩哔哩\] 最近不知道浏览器怎么了，每次点开 b 站的视频都默认 2 倍速
+
+https://www.v2ex.com/t/1015352
+
+#### \[Pixel\] Pixel 6(Android 14) 微信语音电话、视频电话、小程序均无法启动
+
+https://www.v2ex.com/t/1015351
+
+#### \[随想\] 回乡发现抖音也没节操...
+
+https://www.v2ex.com/t/1015350
+
+#### \[Android\] 安卓输入法的多语言切换怎么才能更丝滑一点？
+
+https://www.v2ex.com/t/1015349
+
+#### \[问与答\] 回到家\...记得检查父母手机
+
+https://www.v2ex.com/t/1015348
+
+#### \[Windows\] 重复图片清理软件,求诸位大佬推荐个简单好用的,万分感谢.
+
+https://www.v2ex.com/t/1015347
+
+#### \[Apple\] 解决 AirTag 及 iPhone 公交卡 门禁录入问题
+
+https://www.v2ex.com/t/1015346
+
+#### \[iPhone\] 17.3.1 如何能不提示更新没有小红点？
+
+https://www.v2ex.com/t/1015344
+
+#### \[宽带症候群\] 未北岸国内服务器与 TLS 流量问题请教
+
+https://www.v2ex.com/t/1015342
+
+#### \[全球工单系统\] 京东 plus 会员 0 元先享后付，真的是套路
+
+https://www.v2ex.com/t/1015341
+
+#### \[旅行\] 初三初四云南游玩吗
+
+https://www.v2ex.com/t/1015340
+
+#### \[优惠信息\] 过年 V 站人少好多，果然摸鱼站
+
+https://www.v2ex.com/t/1015339
+
+#### \[耳机\] 求推荐性价比高，体验好的降噪耳机
+
+https://www.v2ex.com/t/1015338
+
+#### \[互联网\] 除了 hugo 和 hexo，还有其他简易静态博客编辑工具么？
+
+https://www.v2ex.com/t/1015337
+
+#### \[问与答\] 请教一下 web 里的权限控制的最佳实践
+
+https://www.v2ex.com/t/1015336
+
+#### \[职场话题\] 佬们，帮忙看看 24 校招前端的简历
+
+https://www.v2ex.com/t/1015335
+
+#### \[问与答\] 养老保险最低一千
+
+https://www.v2ex.com/t/1015333
+
+#### \[问与答\] 为啥最近电脑配件涨价这么厉害？
+
+https://www.v2ex.com/t/1015331
+
+#### \[微信\] 微信 Google Play 版怎么样，推荐下载吗
+
+https://www.v2ex.com/t/1015330
+
+#### \[分享创造\] 一个面试高频算法题网站
+
+https://www.v2ex.com/t/1015328
+
+#### \[程序员\] 我的大语言模型开源项目，希望大家来支持一波！
+
+https://www.v2ex.com/t/1015327
+
+#### \[宽带症候群\] 请问 AS135391 这家 AOFEI DATA INTERNATIONAL（奥飞数据国际）怎么样？
+
+https://www.v2ex.com/t/1015325
+
+#### \[生活\] 给老妈的女士手机有推荐的吗？（6 寸以下、配置新一点、颜色好看）
+
+https://www.v2ex.com/t/1015324
+
+#### \[问与答\] 老家鱼塘想装监控求推荐室外型监控
+
+https://www.v2ex.com/t/1015323
+
+#### \[VPS\] 快云上线啦！提供免费虚拟主机， VPS，域名注册， SSL 证书等云服务
+
+https://www.v2ex.com/t/1015321
+
+## Generic News
+
+### AP News
+
+#### Dexter Scott King remembered during memorial as keeper of his father Martin Luther King Jr.'s dream
+
+https://apnews.com/article/7e79af96ae0f37a6278c1565e42d9aac
+
+Dexter Scott King, the late son of Dr. Martin Luther King Jr. and
+Coretta Scott King, was remembered Saturday as the protector of his
+family's legacy and the keeper of his father's dream during a memorial
+service in Atlanta. "You, my\...
+
+#### From SpongeBob to TikTok, leagues and broadcasters using many methods to attract, retain young fans
+
+https://apnews.com/article/8ceff4f753d8e3e58e5f818aa0ac1a79
+
+There were plenty of critics when CBS announced four years ago that it
+would produce a kids-centric broadcast of an NFL playoff game on
+Nickelodeon. Now, if a league or network isn't doing something to appeal
+to younger fans, they are\...
+
+#### Jimmy Van Eaton, an early rock 'n' roll drummer who played at Sun Records, dies at 86
+
+https://apnews.com/article/38dfdf18a1cdbbaa5d90dd0726b265ff
+
+MEMPHIS, Tenn. (AP) --- J.M. "Jimmy" Van Eaton, a pioneering rock 'n'
+roll drummer who played behind the likes of Jerry Lee Lewis and Billy
+Lee Riley at Sun Records in Memphis, Tennessee, died Friday at age 86, a
+family member said. Van\...
+
+#### Chiefs and 49ers have high-profile offenses, but defense should decide the Super Bowl winner
+
+https://apnews.com/article/c693b5d4d1e5105ad346da54e626ad41
+
+LAS VEGAS (AP) --- The Chiefs go as far as Patrick Mahomes takes them.
+The 49ers have Christian McCaffrey, Deebo Samuel, George Kittle and a
+star-studded group surrounding Brock Purdy. This Super Bowl will come
+down to the other side of\...
+
+#### Elon Musk's Neuralink moves legal home to Nevada after Delaware judge invalidates his Tesla pay deal
+
+https://apnews.com/article/09c2eee269beebccf9a701f21ea2b9f7
+
+Elon Musk's brain implant company Neuralink has moved its legal
+corporate home from Delaware to Nevada after a Delaware judge struck
+down Musk's \$55.8 billion pay package as CEO of Tesla. Neuralink, which
+has its physical headquarters in\...
+
+#### Mary J. Blige, Mariah Carey, Cher, Sade, Oasis and Ozzy Osbourne among Rock Hall nominees for '24
+
+https://apnews.com/article/92e783daf67e2ee50472099f6dab14c8
+
+NEW YORK (AP) --- Mary J. Blige, Mariah Carey, Cher, Lenny Kravitz, the
+late Sinéad O'Connor and heavy metal's so-called Prince of Darkness are
+some the 2024 nominees for induction into the Rock & Roll Hall of Fame,
+a wide musical net\...
+
+#### How to defend against food poisoning at your Super Bowl party
+
+https://apnews.com/article/13d5a5231be21618c97de78c55e4e1b9
+
+When Americans gather to watch the Super Bowl on Sunday, the culinary
+choices may be as important as the final score. Because the event can
+stretch for more than four hours, that raises the risks of foodborne
+illness if party hosts and\...
+
+#### Wayne Kramer, late guitarist of rock band MC5, also leaves legacy of bringing music to prisons
+
+https://apnews.com/article/b7ac001d1fd51fc018b8b94e78f4e9f0
+
+LOS ANGELES (AP) --- The tributes that poured in following Wayne
+Kramer's death last week came from musicians praising the MC5
+guitarist's contributions to rock music, as well as from prison reform
+advocates who extolled his legacy of\...
+
+#### Nurse acquitted of involuntary manslaughter in 2019 death of a 24-year-old California jail inmate
+
+https://apnews.com/article/56b4441032b33f8bea28d4793cbc2257
+
+EL CAJON, Calif. (AP) --- A nurse at a California jail was found not
+guilty of involuntary manslaughter Friday in the November 2019 death of
+an inmate who collapsed in her cell. But jurors deadlocked on charges
+against a jail doctor\...
+
+#### Drug possession charge against rapper Kodak Black dismissed in Florida
+
+https://apnews.com/article/1c21974ad331329fb7bb25692717b740
+
+FORT LAUDERDALE, Fla. (AP) --- A drug possession charge against South
+Florida rapper Kodak Black was dismissed Friday, two months after an
+arrest, though a drug trafficking case from 2022 remains ongoing.
+Broward County Circuit Judge\...
+
+#### Record cocoa prices heading into Valentines Day proves to be a headache for sweets king Hershey
+
+https://apnews.com/article/8c3e04f080b7d773470987dff1f9ca29
+
+Hershey is cautioning on its 2024 profit growth as the company contends
+with rising cocoa costs that are leading to higher prices for chocolate.
+Cocoa futures prices have doubled over the past year and hit an all-time
+high of \$5,874 per\...
+
+#### Fire causes extensive damage to iconic Chicago restaurant known for its breakfasts
+
+https://apnews.com/article/374ef1c77a6803d285ae6e6ae0937ff4
+
+CHICAGO (AP) --- An overnight fire caused extensive damage to an iconic
+Chicago restaurant that's known for its breakfasts and is filled with
+decades of memorabilia, authorities said. Firefighters were called to
+the Palace Grill around 10\...
+
+#### An Oklahoma judge who sent more than 500 texts during a murder trial resigns
+
+https://apnews.com/article/b17209b610432c017887678cc587dbc6
+
+OKLAHOMA CITY (AP) --- An Oklahoma judge who sent more than 500 texts to
+her bailiff during a murder trial will resign, according to a court
+filing. In a proposed settlement agreement filed Thursday with the
+Oklahoma Court on the\...
+
+### Reuters
+
+#### Finland's new president sees no limit to NATO ties, Ukraine support
+
+https://www.reuters.com/world/europe/finlands-new-president-sees-no-limit-nato-ties-ukraine-support-2024-02-11/
+
+Alexander Stubb declared himself winner of Finlands presidential
+election on Sunday after a campaign built on promises to make the most
+of his countrys new membership of NATO and back Ukraine in its war\...
+
+#### Moldova police find Russian drone fragments near Ukraine border
+
+https://www.reuters.com/world/europe/moldova-police-find-russian-drone-fragments-near-ukraine-border-2024-02-11/
+
+Police on Sunday found fragments of a Russian drone alongside the
+Moldova border with Ukraine, prompting pro-European President Maia Sandu
+to renew her support for Kyiv in its nearly two-year-old war with\...
+
+#### Venezuela accuses detained activist of links to conspiracy plot
+
+https://www.reuters.com/world/americas/venezuelan-human-rights-activist-detained-airport-rights-groups-2024-02-11/
+
+Venezuelas Attorney General Tarek Saab said on Sunday that lawyer and
+human rights activist Rocio San Miguel has been arrested for her alleged
+involvement \"in the conspiracy plot and attempted assassination\" of
+President\...
+
+#### Brazil army colonel arrested in military coup probe on return from US
+
+https://www.reuters.com/world/americas/brazil-army-colonel-arrested-military-coup-probe-return-us-2024-02-11/
+
+Bernardo Correa Neto was arrested days after police raided Jair
+Bolsonaros beach house and political party office, and accused him of
+editing a draft decree to overturn the election result that he\...
+
+#### Jordan's King Abdullah participates in Gaza aid airdrop
+
+https://www.reuters.com/world/middle-east/jordans-king-abdullah-participates-gaza-aid-airdrop-2024-02-11/
+
+Jordans King Abdullah participated in an airdrop of humanitarian aid to
+Gaza, in a move highlighting his kingdoms role in pushing Israel to stop
+restricting efforts to help fend off illness, hunger and\...
+
+#### Stubb leads Finland's presidential election with 52.7% in early results
+
+https://www.reuters.com/world/europe/stubb-leads-finlands-presidential-election-with-527-early-results-2024-02-11/
+
+Centre-right Alexander Stubb of the National Coalition Party led in the
+run-off of Finlands presidential election on Sunday, with 52.7% support
+from ballots cast in advance, justice ministry data\...
+
+#### UN agency says aid shipment blocked in Israeli port
+
+https://www.reuters.com/world/middle-east/un-agency-says-aid-shipment-blocked-israeli-port-2024-02-11/
+
+The main United Nations agency providing aid to Palestinians in Gaza is
+facing growing administrative hurdles from Israel, with a shipment
+amounting to a months supply of food blocked in port, the agencys\...
+
+#### Netanyahu says 'enough' remaining Israeli hostages alive to warrant Gaza war
+
+https://www.reuters.com/world/middle-east/netanyahu-says-enough-remaining-israeli-hostages-alive-warrant-gaza-war-2024-02-11/
+
+Netanyahu also said that one Palestinian civilian has been killed for
+every Hamas fighter killed in\...
+
+#### Three dead in Senegal protests over delayed presidential election
+
+https://www.reuters.com/world/africa/three-dead-senegal-protests-over-delayed-presidential-election-2024-02-11/
+
+The death toll amid protests in Senegal over the postponement of the
+presidential election until December has climbed to three, as concerns
+grow that one of the remaining democracies in coup-hit West Africa is
+under\...
+
+#### Netanyahu says he has not spoken to Biden since 'over the top' remarks
+
+https://www.reuters.com/world/netanyahu-says-he-has-not-spoken-biden-since-over-top-remarks-2024-02-11/
+
+Israeli Prime Minister Benjamin Netanyahu said on Sunday he has not
+spoken to U.S. President Joe Biden since the president made remarks
+about Israels military response to Hamas being \"over the\...
+
+#### Desperate Gazans in Rafah fear coming Israeli assault
+
+https://www.reuters.com/world/middle-east/desperate-palestinians-gazas-rafah-fear-coming-israeli-assault-2024-02-11/
+
+Aid agencies say an assault on Rafah would be catastrophic in a war that
+has caused untold\...
+
+#### Trump's NATO comments draw scorn, White House calls them 'unhinged'
+
+https://www.reuters.com/world/european-officials-criticize-trumps-nato-comments-2024-02-11/
+
+Trump said he would encourage Russia to \"do whatever the hell they
+want\" if it attacked NATO allies that werent spending enough on
+defense. European officials assailed the presidential candidate for his
+\"reckless\...
+
+#### Senate advances Ukraine aid bill despite Trump opposition
+
+https://www.reuters.com/world/us/us-senate-faces-new-test-ukraine-aid-bill-2024-02-11/
+
+The money is viewed as crucial by Kyiv as it grinds toward the second
+anniversary of Russias invasion. Senate passage would send the bill to
+the Republican-controlled House of Representatives, where its fate
+is\...
+
+### 联合早报
+
+#### 于泽远：梅西在中国"没戏"了？
+
+https://www.zaobao.com/news/china/story20240212-1467506
+
+阿根廷著名球星梅西在香港引发的事件仍在发酵。2月9日大年三十，杭州市体育局宣布，鉴于众所周知的原因，阿根廷国家队的中国行取消。2月10日大年初一，北京足协宣称，目前没有举行梅西的参加相关比赛的计划。
+今年1月，阿根廷国家队宣布将在3月于北京和杭州两地进行两场热身赛，这将是球队备战2024年美洲杯的重要比赛。如今，这两场赛事的计划基本泡汤了......
+
+#### 港台求签求运势 分别得中签和下签
+
+https://www.zaobao.com/news/china/story20240211-1467553
+
+香港沙田车公庙大年初二按传统为香港新年运程求签，今年继续求得中签。（香港中通社）
+（香港／台北综合讯）香港沙田车公庙大年初二按传统为香港新年运程求签，今年继续求得中签。解签师傅称，香港整体"麻麻地（很普通）"，港府应聚焦处理民生问题。
+据香港01、Now新闻台等报道，香港新界乡议局主席刘业强星期天（2月11日），也就是大年初二车公诞，按传统为香港求签祈福，今年抽到第15号中签......
+
+#### 此龙非彼龙 中国开始使用"Loong"而非"Dragon"作英译
+
+https://www.zaobao.com/news/china/story20240211-1467552
+
+"龙"在英语中应该是"Loong"还是"Dragon"，成了中国农历新年期间的热门话题。图为位于德国柏林的圣乔治屠龙雕像。圣乔治屠龙是一则欧洲神话故事。传说中欧洲一城堡堡主的女儿美丽善良，恶龙威逼堡主将其女儿作为祭品献给它，就在恶龙准备接收祭品时，上帝的骑士圣乔治以主之名突然出现，经过激烈搏斗终将恶龙铲除，同时一地的龙血渐渐形成一个十字形......
+
+#### 重庆委任无公安政法背景"刀把子"
+
+https://www.zaobao.com/news/china/story20240211-1467546
+
+53岁张安疆出任重庆市公安局长，是重庆直辖近27年来首位没有公安政法背景的山城"刀把子"。（互联网）
+重庆警界高层迎来人事调整，在重庆八名副市长中排名第七的张安疆，接替已在警界服务近40年的胡明朗，平调履新市公安局长，成为重庆直辖近27年来首位没有公安政法背景的山城"刀把子"。
+分析人士指出，重庆高层任命拥有多年经济科创发展经验的张安疆掌舵公安局，是比较特殊的人事安排......
+
+#### 中国多家银行落实房地产白名单项目融资
+
+https://www.zaobao.com/news/china/story20240211-1467545
+
+（北京综合讯）中国金融监管总局要求对房地产项目合理融资需求做到"应满尽满"后，中国多家商业银行表示已提供一批新增融资。
+中国农业银行星期日（2月11日）在微信发布消息称，截至目前，农业银行已累计对接协调机制项目2700余个；自1月26日金融监管总局专题会议以来，新审批项目超过10个，审批贷款近50亿元（人民币，下同，约9.4亿新元）......
+
+#### 台湾夜市疫后复苏 人潮不逊疫前荣景
+
+https://www.zaobao.com/news/china/story20240211-1467538
+
+台北松山车站旁的饶河街观光夜市，大年初一（2月10日）照常营业，热闹的人潮对比疫情期间的冷清，有天壤之别。（温伟中摄）
+台湾夜市疫后复苏，摊商熬过三年疫情和陆客绝迹的困境，如今更凭着三年困难时期里练成的更环保、整洁与数码化"内功"，吸引大量饕客回流，人潮不逊疫前荣景。
+台湾夜市小吃汇聚了大江南北、原住民和国际美食，既是台湾庶民经济的代表，也吸引了各方观光客......
+
+#### 解放军作战部队首次亮相春晚
+
+https://www.zaobao.com/news/china/story20240211-1467513
+
+解放军作战部队首次亮相中国央视春晚。（视频截取）
+（北京综合讯）中国央视除夕夜（2月9日）播出的春晚节目中，解放军66477装甲部队带枪上场演出，这也是中国作战部队首次亮相春晚。
+综合星岛日报、环球网和美国之音报道，在名为《决胜》的节目中，解放军官兵头戴钢盔、身穿迷彩服、手持长枪，一面演唱军歌，一面变换不同队列......
+
+#### 中国证监会除夕发公告处理百余名从业人员
+
+https://www.zaobao.com/news/china/story20240211-1467502
+
+中国证监会星期五公布，集中查办多名从业人员买卖股票等违法违规行为。
+（路透社）
+（北京综合讯）中国资本市场低迷之际，监管部门正加紧对资本市场的各个方面参与者进行更为严格的监管。中国证监会星期五（2月9日）在网站发文公布，集中查办多名从业人员买卖股票等违法违规行为。
+据证监会发文，此次惩处涉及四大类......
+
+#### 蔡壁如不回民众党中央 指柯文哲不会用人
+
+https://www.zaobao.com/news/china/story20240211-1467495
+
+民众党前立委蔡壁如证实，将到国民党主政的台中市担任市政顾问。（自由时报资料照）
+（台北综合讯）追随民众党主席柯文哲多年的前立委蔡壁如证实，将到国民党主政的台中市担任市政顾问，接任民众党党中央委员职务。蔡壁如此前接受台媒采访时指，柯文哲不会用人，再下去民众党恐会泡沫化。
+综合联合报、风传媒、菱传媒等台湾媒体报道，蔡壁如2月8日证实，15日将到台中市政府担任有给职顾问......
+
+#### 农家乐去年掀倒闭潮 春节再遇冷？
+
+https://www.zaobao.com/news/china/story20240211-1467492
+
+农家乐是2000年后中国兴起的旅游产业，主打以农家菜为主的餐饮服务，一些业者也结合民俗、垂钓等休闲项目。图为1月11日旅客在苏州一家农家乐饭店用餐，该农家乐是目前经营情况较良好的业者之一。（新华社）
+去年"五一"假期开始，在北京怀柔经营农家乐的李祥（化名，40岁）发现客流量明显下滑。直至今年春节，农家乐的生意仍不见好转，以往春节满座的好景不再，今年的预约量只有往年的四分之三......
+
+#### 台政府停招赴陆旅行团 被批跳票和转移焦点
+
+https://www.zaobao.com/news/china/story20240208-1467308
+
+台湾政府下令业者停止招揽赴中国大陆旅行团，最大在野党国民党指控，政府选前承诺却转眼跳票，质疑是要转移猪肉片验出瘦肉精的食安焦点，却牺牲旅游业者和消费者的利益。
+2020年初冠病疫情爆发后，台湾就禁止旅行社组团赴陆旅游至今。去年11月，交通部长王国材宣布今年3月1日起将解除"禁团令"，开放组团赴陆旅游，被视为民进党政府的选举承诺......
+
+#### 数千名在华朝鲜劳工据报出现骚乱 抗议拖欠薪资
+
+https://www.zaobao.com/news/china/story20240208-1467282
+
+（首尔 /
+北京综合讯）韩国情报部门透露，海外朝鲜劳工面临的艰苦环境引发了纠纷与事故，有研究人员说，与朝鲜军方有关的贸易公司在中国的工人爆发了罕见的示威和骚乱。
+路透社星期四（2月8日）引述两名与韩国政府有关的研究人员------其中一人为朝鲜前外交官------报道，多达3000名朝鲜在华工人因无法忍受长期拖欠工资和冠病疫情封锁，上个月在中国展开了抗议活动......
+
+#### 港人北上深圳吃团圆饭 享受更高性价比
+
+https://www.zaobao.com/news/china/story20240208-1467267
+
+相当一部分香港家庭北上深圳吃团圆饭，是因为当地餐馆提供更高的性价比和更愉快的用餐体验。（林煇智摄）
+"三年了，我们终于可以回来深圳吃团圆饭了。"
+来自香港的吴先生在除夕前四天（2月5日）在深圳一家粤菜餐馆和家人一起提前吃了团圆饭。他告诉《联合早报》，在深圳餐馆吃团圆饭一直是家人的传统，但这个传统因冠病疫情两地封关被打破。
+能再次和家人北上深圳吃团圆饭，吴先生和家人满心欢喜......
+
+#### 梅西缺阵风波 陆港媒体将矛头指向"外部势力"
+
+https://www.zaobao.com/news/china/story20240208-1467250
+
+阿根廷球王梅西到香港参加表演赛不上阵的风波余波未了，中国大陆和香港的亲政府媒体星期四（2月8日）纷纷将矛头指向"外部势力"，香港《大公报》更指梅西效力的美职球队迈阿密国际，其老板的父亲曾"效力美中情局"。
+梅西2月4日缺阵迈阿密国际对垒香港队的表演赛，引来香港社会鼓噪......
+
+#### 台驻美代表称中国大陆科技靠作弊 大陆斥毫无常识
+
+https://www.zaobao.com/news/china/story20240208-1467239
+
+（华盛顿综合讯）台湾驻美代表俞大㵢说，中国大陆尝试通过不正当手段在晶片（大陆称芯片）技术上追赶台湾，但尽管投入巨资，到目前为止仍然未果。
+俞大㵢去年底抵达华盛顿，接替台湾副总统当选人萧美琴担任驻美代表。他星期三（2月7日）接受路透社访问时说，他对中国大陆晶片制造商能在今年制造出下一代智能手机处理器表示怀疑。他还指大陆晶片制造商，"不真正遵守规则。他们作弊、抄袭等等，他们窃取技术......
+
+#### 加拿大观察机构：30国逾百家推送亲中国内容网站由中国公关公司运作
+
+https://www.zaobao.com/news/china/story20240208-1467208
+
+（旧金山路透电）总部位于加拿大多伦多的数字观察机构公民实验室（Citizen
+Lab）发现，在欧洲、亚洲和拉丁美洲，有100多家伪装成当地新闻机构的网站在推送亲中国内容，这背后的操作与一家中国公关公司有关。
+据路透社报道，公民实验室星期三（2月7日）发布报告称，这些亲中内容散布在30个国家的网站上，其中夹杂着从当地新闻机构和中国国家媒体汇总而来的新闻......
+
+#### 陈婧：一纸禁令的涟漪效应
+
+https://www.zaobao.com/news/china/story20240208-1467053
+
+一道让人摸不着头脑的禁令，在兔年最后几天闪电出台又被迅速废除。它在上海内外引发的震荡，至今还没完全平息。
+上海市道路运输管理局在1月29日发布《关于禁止网约车在浦东机场运营的通知》，称为确保浦东机场陆侧交通顺畅有序，特别是春运期间，将严禁网约车在浦东机场区域揽客运营。
+消息传开，舆论立即炸了锅。要知道，从浦东机场乘车到市区，巡游出租车费用至少比网约车高30％，且排队等候时间通常比网约车更久......
+
+#### 香港龙年花车巡游和烟花汇演实施特别安排 方便陆客即日返回
+
+https://www.zaobao.com/news/china/story20240207-1467061
+
+时隔五年，香港将于今年农历新年再次举办花车巡游和大型烟花汇演。港府吸取早前中国大陆游客赴港参加元旦倒数活动后回不了大陆的教训，星期三（2月7日）宣布届时会实施多项交通特别安排措施，以方便陆客即日返回。
+受访的地区议员认为，当局的做法正确，并相信不会再发生类似上次的风波，且有助推动香港的夜经济......
+
+#### 台糖公司梅花肉片 验出瘦肉精"西布特罗"
+
+https://www.zaobao.com/news/china/story20240207-1467048
+
+台中市卫生局抽检台湾公营事业台糖公司的梅花肉片，验出禁用的瘦肉精"西布特罗"（Cimbuterol），引发地方扛上中央的争议。台湾卫生福利部和台中市卫生局双轨复检，星期三结果出炉，确认含有"西布特罗"。
+先前要求外界不要捕风捉影造成恐慌的行政院长陈建仁缓颊说，感谢台中市府在中央协助下将样品送到卫福部食品药物管理署，中央、地方都是同心协力维护食品安全......
+
+
+
+
+-----------------------------------
+
+Copyright © 2023-2024 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

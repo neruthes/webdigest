@@ -167,6 +167,23 @@
                             };
                         };
 
+                        // Issue HTML redirection
+                        const match_issuehtml = location.search.match(/[?&]issuehtml=\d{8}$/);
+                        if (match_issuehtml) {
+                            console.log(`Matched ${match_issuehtml[0]}`);
+                            const issueYear = match_issuehtml[0].match(/\d{4}/)[0];
+                            const issueId = match_issuehtml[0].match(/\d{8}/)[0];
+                            const lookupCriteria = `_dist/issue/${issueYear}/WebDigest-${issueId}.pdf`;
+                            const htmlurl = `./readhtml/${issueYear}/WebDigest-${issueId}`;
+                            console.log(`htmlurl = '${htmlurl}'`);
+                            if (htmlurl) {
+                                location.replace(htmlurl);
+                                return 0;
+                            };
+                        };
+
+
+
                         // Continue...
                         let latestIssueId = artifactsList[1].match(/\d{8}/)[0];
                         let latestIssueYear = latestIssueId.slice(0, 4);

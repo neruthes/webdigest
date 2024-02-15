@@ -1,5 +1,8 @@
 #!/bin/bash
 
+source .env
+source .localenv
+
 export TZ=UTC
 #source "$HOME/.python-venv/bin/activate"
 
@@ -125,7 +128,7 @@ case $1 in
     rss)
         function rss_header() {
             cat src/rsslib/header.txt
-            echo "<lastBuildDate>$(date)</lastBuildDate>"
+            echo "<lastBuildDate>$(date -Is)</lastBuildDate>"
         }
         function rss_footer() {
             cat src/rsslib/footer.txt
@@ -150,7 +153,7 @@ case $1 in
             echo "<item>"
             echo "    <title>$item_title</title>"
             echo '    <guid isPermaLink="false">'"https://webdigest.pages.dev/?issuepdf=$item_id"'</guid>'
-            echo "    <link>https://webdigest.pages.dev/?issuepdf=$item_id</link>"
+            echo "    <link>https://webdigest.pages.dev/?issuehtml=$item_id</link>"
             echo "    <pubDate>$item_pubdate</pubDate>"
             echo "    <description>"
             grep -v 'Web Digest ' ".tmp/tgmsg/${item_datemark:0:4}/$item_datemark.txt" |
@@ -164,7 +167,7 @@ case $1 in
             echo "</item>"
             echo ""
         }
-        RSS_FN=wwwsrc/rss.xml
+        RSS_FN="wwwsrc/rss.xml"
         rss_header > $RSS_FN
         IFS=$'\n'
         grep '.pdf http' .osslist | sort -r | head -n10 | while read -r pdffn_line; do
@@ -176,6 +179,7 @@ case $1 in
         # cat $RSS_FN
         ;;
     today)
+        mkdir -p .tmp/tgmsg/$(date +%Y)
         if [[ -e "_dist/issue/$(date +%Y)/WebDigest-$(date +%Y%m%d).pdf" ]]; then
             echo "[ERROR] The PDF artifact of today has been generated already."
             echo "        If you want to proceed, delete _dist/issue/$(date +%Y)/WebDigest-$(date +%Y%m%d).pdf"

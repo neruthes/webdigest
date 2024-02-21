@@ -190,7 +190,7 @@ case $1 in
         bash src/fetch.sh
         bash src/process.sh
         DOWNLOAD=y COMPRESS=y bash src/coverpic.sh
-        bash $0 "$(bash src/make.sh | tail -n1)"
+        bash "$0" "$(bash src/make.sh | tail -n1)" # Build target: issue/202X/{...}.tex
         # texfn="$(find issue -name '*.tex' | sort -r | head -n1)"
         # bash $0 $texfn
         bash src/markdown.sh

@@ -10,7 +10,7 @@ fi
 
 
 md_tex="$DATADIR/to-markdown.tex"
-cat src/misclib/mdhead.tex > $md_tex
+cat src/misclib/mdhead.tex > "$md_tex"
 
 output_md="$md_tex.md"
 
@@ -24,11 +24,11 @@ function convert_to_markdown() {
     if [[ ! -e $texpath ]]; then
         return 0
     fi
-    echo "\section{$part_title}" >> $md_tex
-    cat $texpath >> $md_tex
+    echo "\section{$part_title}" >> "$md_tex"
+    cat "$texpath" >> "$md_tex"
 }
 function set_chapter() {
-    echo "\chapter{$1}" >> $md_tex
+    echo "\chapter{$1}" >> "$md_tex"
 }
 
 
@@ -45,21 +45,22 @@ set_chapter             "Generic News"
 convert_to_markdown     ap              "AP News"
 convert_to_markdown     reuters         "Reuters"
 convert_to_markdown     zaobao          "联合早报"
+echo "" >> "$md_tex"
+# echo "(END OF FILE)" >> "$md_tex"
 
 
 
 
 
-
-
+echo "[INFO] Starting Pandoc CLI..."
 pandoc \
     --shift-heading-level-by=1 \
-    -i $md_tex \
-    -o $output_md || echo "markdown.sh:  Failed building $output_md" | tee $BOOMALERT
+    -i "$md_tex" -f latex \
+    -o "$output_md" -t gfm || echo "markdown.sh:  Failed building $output_md" | tee "$BOOMALERT"
 
 
 ### Post-processing
-sed -i 's| plus 11pt minus 1pt||g' $output_md
+sed -i 's| plus 11pt minus 1pt||g' "$output_md"
 
 
 ### Put to final destination
@@ -70,9 +71,9 @@ echo "[INFO] Generating $final_output_markdown_fn"
 
 mkdir -p "$DESTMDDIR"
 pdfossfn="$(grep "$DATEMARK.pdf https" .osslist | cut -d' ' -f2)"
-echo -e "Other formats: [PDF]($pdfossfn) / [HTML](https://webdigest.pages.dev/readhtml/$THISYEAR/WebDigest-$DATEMARK.html)\n\n" > $final_output_markdown_fn
-echo -e "# Web Digest $BETTER_DATEMARK\n\n" >> $final_output_markdown_fn
-cat $output_md >> $final_output_markdown_fn
+echo -e "Other formats: [PDF]($pdfossfn) / [HTML](https://webdigest.pages.dev/readhtml/$THISYEAR/WebDigest-$DATEMARK.html)\n\n" > "$final_output_markdown_fn"
+echo -e "# Web Digest $BETTER_DATEMARK\n\n" >> "$final_output_markdown_fn"
+cat "$output_md" >> "$final_output_markdown_fn"
 
 
 
@@ -87,27 +88,27 @@ final_output_html_fn="$DESTHTMLDIR/WebDigest-$DATEMARK.html"
 echo "[INFO] Generating $final_output_html_fn"
 
 mkdir -p "$DESTHTMLDIR"
-cat $final_output_markdown_fn |
+cat "$final_output_markdown_fn" |
     grep -v 'Other formats' |
     sed 's|\[\[TOC\]\]||' |
     grep -v '# Web Digest' |
-    pandoc -f markdown -o $final_output_html_fn.content.html || echo "markdown.sh:  Failed building $final_output_html_fn.content.html" >> $BOOMALERT
-sed -i 's|color\: blue\!80\!green||g' $final_output_html_fn.content.html
-sed -i 's|color\: black\!50|color: #888;|g' $final_output_html_fn.content.html
+    pandoc -f markdown -o "$final_output_html_fn.content.html" || echo "markdown.sh:  Failed building $final_output_html_fn.content.html" >> $BOOMALERT
+sed -i 's|color\: blue\!80\!green||g' "$final_output_html_fn.content.html"
+sed -i 's|color\: black\!50|color: #888;|g' "$final_output_html_fn.content.html"
 
 cat src/htmllib/artifact.header.html |
     sed "s|BETTER_DATEMARK|$BETTER_DATEMARK|g" |
     sed "s|DATEMARK|$DATEMARK|g" |
-    sed "s|PDFURL|$pdfossfn|g" > $final_output_html_fn
+    sed "s|PDFURL|$pdfossfn|g" > "$final_output_html_fn"
 
-cat $final_output_html_fn.content.html >> $final_output_html_fn
+cat "$final_output_html_fn.content.html" >> "$final_output_html_fn"
 
 cat src/htmllib/artifact.footer.html |
     sed "s|BETTER_DATEMARK|$BETTER_DATEMARK|g" |
     sed "s|DATEMARK|$DATEMARK|g" |
-    sed "s|PDFURL|$pdfossfn|g" >> $final_output_html_fn
+    sed "s|PDFURL|$pdfossfn|g" >> "$final_output_html_fn"
 
-rm $final_output_html_fn.content.html
+rm "$final_output_html_fn.content.html"
 
 
 
@@ -115,10 +116,10 @@ rm $final_output_html_fn.content.html
 
 
 ### Get back to remove heading anchors in the Markdown file
-sed -i 's|{#.*.unnumbered}$||' $final_output_markdown_fn
-sed -i 's|{style=.*||' $final_output_markdown_fn
-sed -i 's|^\[<||' $final_output_markdown_fn
-sed -i 's|>]$||' $final_output_markdown_fn
+sed -i 's|{#.*.unnumbered}$||' "$final_output_markdown_fn"
+sed -i 's|{style=.*||' "$final_output_markdown_fn"
+sed -i 's|^\[<||' "$final_output_markdown_fn"
+sed -i 's|>]$||' "$final_output_markdown_fn"
 
 ### And other patches
 echo -e "\n\n
@@ -138,4 +139,4 @@ The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](
 This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
 
 The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
-" >> $final_output_markdown_fn
+" >> "$final_output_markdown_fn"

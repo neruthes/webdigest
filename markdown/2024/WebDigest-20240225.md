@@ -1,0 +1,956 @@
+Other formats: [PDF](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/webdigest/WebDigest-20240225.pdf--3cd1f07b8996115211b8038f01c3fe23.pdf) / [HTML](https://webdigest.pages.dev/readhtml/2024/WebDigest-20240225.html)
+
+
+# Web Digest 2024-02-25
+
+
+## Developers
+
+### Hacker News
+
+#### Google helped destroy adoption of RSS feeds (2023)
+
+<span style="color: blue!80!green"><https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=39493770></span>
+
+#### U.S. rice exports to Haiti have unhealthy levels of arsenic, study finds
+
+<span style="color: blue!80!green"><https://www.reuters.com/world/americas/us-rice-exports-haiti-have-unhealthy-levels-arsenic-study-finds-2024-02-24/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=39493713></span>
+
+#### Plastic experts say recycling is a scam. Should we even do it anymore?
+
+<span style="color: blue!80!green"><https://www.salon.com/2024/02/23/plastic-experts-say-recycling-is-a-scam-should-we-even-do-it-anymore/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=39492423></span>
+
+#### Peter Thiel’s \$100k offer to skip college is more popular than ever
+
+<span style="color: blue!80!green"><https://www.wsj.com/finance/peter-thiels-100-000-offer-to-skip-college-is-more-popular-than-ever-162e281b></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=39491968></span>
+
+#### Institutions try to preserve the problem to which they are the solution
+
+<span style="color: blue!80!green"><https://effectiviology.com/shirky-principle/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=39491863></span>
+
+#### Everyone seems to forget why GNOME and GNOME 3 and Unity happened (2022)
+
+<span style="color: blue!80!green"><https://liam-on-linux.dreamwidth.org/85359.html></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=39490879></span>
+
+#### Notes from an Interviewer
+
+<span style="color: blue!80!green"><https://devwithahammer.wordpress.com/2024/02/23/notes-from-an-interviewer/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=39490404></span>
+
+#### Power Metal: is it really about dragons? (2018)
+
+<span style="color: blue!80!green"><https://notes.atomutek.org/power-metal-and-dragons.html></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=39489920></span>
+
+#### Quality is a hard sell in big tech
+
+<span style="color: blue!80!green"><https://www.pcloadletter.dev/blog/big-tech-quality/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=39489519></span>
+
+#### The Earth is getting greener
+
+<span style="color: blue!80!green"><https://www.vox.com/down-to-earth/2024/2/7/24057308/earth-global-greening-climate-change-carbon></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=39489431></span>
+
+#### Losing two jobs in one year
+
+<span style="color: blue!80!green"><https://jbennetcodes.medium.com/how-to-lose-two-jobs-in-one-year-e8e428702b91></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=39488833></span>
+
+#### A former Gizmodo writer changed name to ’Slackbot’, stayed undetected for months
+
+<span style="color: blue!80!green"><https://www.theverge.com/2024/2/23/24081249/slack-slackbot-gizmodo-tom-mckay></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=39487341></span>
+
+#### Generative Models: What do they know? Do they know things? Let’s find out
+
+<span style="color: blue!80!green"><https://intrinsic-lora.github.io/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=39487124></span>
+
+#### Meta’s new LLM-based test generator
+
+<span style="color: blue!80!green"><https://read.engineerscodex.com/p/metas-new-llm-based-test-generator></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=39486717></span>
+
+#### Scuttlebutt social network: a decentralised platform
+
+<span style="color: blue!80!green"><https://scuttlebutt.nz/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=39484907></span>
+
+#### Forum reactions to Satoshi’s Bitcoin paper
+
+<span style="color: blue!80!green"><https://www.mail-archive.com/search?l=cryptography%40metzdowd.com&q=subject%3A%22Bitcoin+P2P+e%5C-cash+paper%22&o=oldest&f=1&ref=blog.lopp.net></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=39484878></span>
+
+#### Recognizing the limitations of cloud drives
+
+<span style="color: blue!80!green"><https://www.backblaze.com/blog/whats-wrong-with-google-drive-dropbox-and-onedrive-more-than-you-think/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=39484158></span>
+
+#### Show HN: OK-Robot: open, modular home robot framework for pick-and-drop anywhere
+
+<span style="color: blue!80!green"><https://ok-robot.github.io/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=39483482></span>
+
+#### Why Writing by Hand Is Better for Memory and Learning
+
+<span style="color: blue!80!green"><https://www.scientificamerican.com/article/why-writing-by-hand-is-better-for-memory-and-learning/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=39482641></span>
+
+#### A ’scam manual’ written to help immigrants not become victims
+
+<span style="color: blue!80!green"><https://www.atlasobscura.com/articles/columns-scam-guide-books-con-artists></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=39481948></span>
+
+### Phoronix
+
+#### CachyOS Moves To Glibc 2.39 & Other Package Upgrades For February
+
+<span style="color: blue!80!green"><https://www.phoronix.com/news/CachyOS-240224-Linux></span>
+
+#### Sway 1.9 Released - Using New wlroots Rendering API For Better Performance
+
+<span style="color: blue!80!green"><https://www.phoronix.com/news/Sway-1.9-Released></span>
+
+#### Git 2.44 Released - Can Yield Faster Pack Generation & Faster Rebases
+
+<span style="color: blue!80!green"><https://www.phoronix.com/news/Git-2.44-Released></span>
+
+#### XZ 5.6 Released: Sandboxing Improvements, Prefers -O2 Instead Of -O3
+
+<span style="color: blue!80!green"><https://www.phoronix.com/news/XZ-5.6-Released></span>
+
+#### Intel Releases OSPRay Studio 1.0 As Its Awesome Interactive Visualization & Ray-Tracing App
+
+<span style="color: blue!80!green"><https://www.phoronix.com/news/OSPray-Studio-1.0-Released></span>
+
+#### KDE Plasma 6.0 Ready For Release Next Week, Plasma 6.1 Seeing Early Feature Work
+
+<span style="color: blue!80!green"><https://www.phoronix.com/news/KDE-Plasma-6.0-Next-Week></span>
+
+#### Proton 9.0 Beta Makes More Games Playable Under Steam Play, Updates VKD3D-Proton & DXVK
+
+<span style="color: blue!80!green"><https://www.phoronix.com/news/Proton-9.0-Beta-Steam-Play></span>
+
+#### Wine 9.3 Brings New HID Pointer Driver & Better Internet Proxy Support
+
+<span style="color: blue!80!green"><https://www.phoronix.com/news/Wine-9.3-Released></span>
+
+#### Micron Engineer Sends Out Linux Patches For New FAMFS File-System
+
+<span style="color: blue!80!green"><https://www.phoronix.com/news/Linux-RFC-FAMFS-File-System></span>
+
+### Dribbble
+
+#### Guest from the forest.
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/23692724></span>
+
+#### Aviator Cat Sneezing
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/23693604></span>
+
+#### Dave Matthews & Tim Reynolds 2024 Riviera Maya Branding
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/23688841></span>
+
+#### USA National Parks Badges - Full Preview
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/23682134></span>
+
+#### Knights ⚔️
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/23681459></span>
+
+#### Barilla Time
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/23590695></span>
+
+#### Smart Stack Concept
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/23685390></span>
+
+#### Morning Scenery of Chicago
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/23688883></span>
+
+#### Better Together
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/23680017></span>
+
+#### USA Travel map
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/23677594></span>
+
+#### Super Mario Reach for the stars!
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/23679352></span>
+
+#### Autumn Castle
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/23678918></span>
+
+#### Drawings ✍️
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/23681476></span>
+
+#### Hangar Sisters
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/23561594></span>
+
+#### Essentials
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/23671151></span>
+
+#### Blo-Me! Bubble Gum
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/23671310></span>
+
+#### ilcons mini illustrations and icons
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/23668970></span>
+
+#### Landscape
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/23262047></span>
+
+#### StickerApp x Red Halftone: Sticker Sheet
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/23618975></span>
+
+#### Lucky Manoeuvres
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/23670558></span>
+
+#### Glyph beer 29
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/23672477></span>
+
+#### Whale Logo
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/23668927></span>
+
+#### Utah Spirits
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/23665341></span>
+
+#### Plaza Theatre - Bangalore
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/23665068></span>
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### 《Palworld /幻兽帕鲁》吸引了 2500 万玩家，在 Steam 售出了 1500 万份拷贝
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=77432></span>
+
+#### 中国科学家研制出 Pb 级光盘
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=77431></span>
+
+#### 第一艘私人探测器登陆月球
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=77430></span>
+
+#### Bluesky 宣布自托管数据联邦
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=77428></span>
+
+#### Avast 被罚 1650 万美元，被禁止出售用户浏览数据
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=77427></span>
+
+#### Reddit 申请上市
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=77426></span>
+
+#### Vice.com 将停止发布新内容
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=77425></span>
+
+#### Stability AI 宣布 Stable Diffusion 3
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=77423></span>
+
+#### Google 暂停了 Gemini 的图像生成功能
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=77422></span>
+
+#### GIMP 3.0 之前的最后一个开发者预览版发布
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=77421></span>
+
+#### 全新世最大火山喷发事件发生在日本海底
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=77420></span>
+
+#### 中国 AI 模型建立在美国模型基础上
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=77419></span>
+
+#### Firefly 软件算法错误导致卫星留在错误轨道上
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=77418></span>
+
+#### ASML 取代 Applied Materials 成为全球最大的晶圆厂工具制造商
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=77417></span>
+
+#### 阿拉巴马州大学暂停体外受精手术
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=77416></span>
+
+#### Do Kwon 预计将被引渡到美国受审
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=77415></span>
+
+#### 英特尔将为微软代工其自研芯片
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=77414></span>
+
+#### Reddit 计划向最活跃用户出售 IPO 股票
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=77413></span>
+
+### V2EX
+
+#### \[宽带症候群\] 代理环境下的 IPv6 源 IP
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018210></span>
+
+#### \[程序员\] 很痛苦，火狐对扩展程序的限制让我开始自我怀疑了
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018209></span>
+
+#### \[macOS\] 强烈建议删除 mac 上的 Rosetta2
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018208></span>
+
+#### \[OpenAI\] 代开通 ChatGPT Plus 充到你账号上 赚一点手工辛苦费
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018207></span>
+
+#### \[问与答\] win11 笔记本华硕枪神 7plus ,大量下载后,经常断流 重启后就好 ,我该咋办呢?
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018206></span>
+
+#### \[硬件\] \[求助\]Mellanox ConnectX-3 网卡频繁重启无法连接网络(偶现)
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018205></span>
+
+#### \[V2EX\] 有一个邮箱被注册了， 我是邮箱的所有者，能帮我删除这个账号吗？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018202></span>
+
+#### \[程序员\] win11 笔记本华硕枪神 7plus ,大量下载后,经常断流 重启后就好 ,我该咋办呢?求大佬们搭救,感谢感谢.
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018201></span>
+
+#### \[分享创造\] 一个免费打印每日待办的网站
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018200></span>
+
+#### \[VPS\] vps 有异常下载流量，但是查不出来
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018199></span>
+
+#### \[VPS\] 用 2022-blake3-chacha20-poly1305 被封了，想问问现在有什么稳一点的协议和方法
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018198></span>
+
+#### \[Windows\] 这个文件夹里没有文件？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018197></span>
+
+#### \[香港\] 去香港开户除了汇丰、中银，还有哪些实体银行没有账户持有成本？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018194></span>
+
+#### \[问与答\] https://www.yanshou100.com/ 有朋友想仿照这个站建站，有推荐的 CMS 跟模版吗？ 主力 Python ， PHP 很多年没碰过了
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018193></span>
+
+#### \[职场话题\] 公司新人被老人要求帮忙低级耗时的事情，要不要拒绝？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018192></span>
+
+#### \[程序员\] 请问国密改造是什么意思？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018190></span>
+
+#### \[分享发现\] 拼多多疑似滥用竞业协议， 24 岁女孩绝笔信后失联
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018187></span>
+
+#### \[分享创造\] 提供用于轻松获取热榜数据的接口。
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018186></span>
+
+#### \[投资\] 支付宝将来依然是存钱的可靠途径吗?
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018184></span>
+
+#### \[问与答\] 动画片《小恐龙巴布》 为什么豆瓣都没有收录呢
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018182></span>
+
+#### \[OpenAI\] 写了个 GPTS,能用董宇辉小作文风格写出世界各地地名或景点
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018181></span>
+
+#### \[程序员\] RDP 和串流游戏软件的技术实现差异是什么？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018180></span>
+
+#### \[程序员\] Build Future , 新年一起来学 Solidity ！
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018178></span>
+
+#### \[汽车\] 新手上路，老司机们有什么建议吗？（跪谢）
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018177></span>
+
+#### \[分享创造\] YouCaster – 像听播客一样收听 YouTube 频道
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018175></span>
+
+#### \[Surge\] Surge for Mac ( 5 人车， 1=4）
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018174></span>
+
+#### \[求职\] 英文简历求大佬帮忙 check 下
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018171></span>
+
+#### \[JavaScript\] 有道翻译 js 逆向疑惑
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018170></span>
+
+#### \[问与答\] 有没有免费的键盘鼠标同步器？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018169></span>
+
+#### \[职场话题\] 5 年 Java ，是走是留，职场迷茫求教
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018168></span>
+
+#### \[Telegram\] telegram 在 clash 的节点 url-test 中，如何测速?
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018167></span>
+
+#### \[职场话题\] 大家国内远程怎么找的，还是都没有？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018165></span>
+
+#### \[Python\] Python 潮流周刊第 39 期（摘要）
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018164></span>
+
+#### \[问与答\] 有没有放弃大城市的职业和生活回老家的 V 友？回去后你们都从事什么行业谋生？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018163></span>
+
+#### \[硬件\] M2 128GB 的 Mac Studio 与 NVDIA A100 相比如何？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018162></span>
+
+#### \[Android\] 安卓手机接收到的 apk 文件在哪里找得到？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018160></span>
+
+#### \[NAS\] \[求助\]群晖公网访问求助
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018159></span>
+
+#### \[问与答\] 除了 Onedrive 以外还有什么云盘能够做到无缝文件同步
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018158></span>
+
+#### \[问与答\] overleaf 遭受网络攻击导致服务中断
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018155></span>
+
+#### \[程序员\] 有什么轻量的统计分析的 saas 平台吗
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018153></span>
+
+#### \[iPad\] 4200 入手 iPadmini6，问一下有啥好玩的不？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018152></span>
+
+#### \[Apple\] 16 寸的 21 款 m1 max 的 mbp ，现在买是不是太晚了
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018151></span>
+
+#### \[职场话题\] 新手程序员感到迷茫，求大佬指点
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018150></span>
+
+#### \[问与答\] vivo 手机的自动优化手机存储空间功能对视频无效吗？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018148></span>
+
+#### \[职场话题\] 要么忍要么滚，求大家意见
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018146></span>
+
+#### \[分享发现\] 请教问题，现在 UI 设计界面价格也那么卷了么？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018145></span>
+
+#### \[问与答\] 科技界网站推荐
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018144></span>
+
+#### \[问与答\] 九号电动车使用体验如何
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018143></span>
+
+#### \[分享创造\] 自荐一个可以免费在海外免费使用的问卷调查系统
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018141></span>
+
+#### \[分享发现\] 如何比较方便的下载 hf 模型
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1018140></span>
+
+## Generic News
+
+### AP News
+
+#### Pope Francis cancels audience because of a mild flu, Vatican says
+
+<span style="color: blue!80!green"><https://apnews.com/article/0f3e2c1e6db190883a5f9a5c63927dc0></span>
+
+VATICAN CITY (AP) — Pope Francis has canceled an audience scheduled for
+Saturday as a precaution after suffering a mild flu, the Vatican press
+office said in a short statement, without adding details. Francis was
+scheduled to meet with...
+
+#### Former Cowboys receiver Golden Richards, known for famous Super Bowl catch, dies at 73
+
+<span style="color: blue!80!green"><https://apnews.com/article/17fa8009af5884593d54054278cb852e></span>
+
+MURRAY, Utah (AP) — Golden Richards, the former Dallas Cowboys receiver
+known for his flowing blond hair who famously caught a touchdown pass
+off a gadget play in the 1978 Super Bowl, died Friday of congestive
+heart failure at his home...
+
+#### Celebrity owl Flaco dies a year after becoming beloved by New York City for zoo escape
+
+<span style="color: blue!80!green"><https://apnews.com/article/e44939489c422379723d9fdec1b8c9db></span>
+
+NEW YORK (AP) — Flaco, the Eurasian eagle-owl who escaped from New York
+City’s Central Park Zoo and became one of the city’s most beloved
+celebrities as he flew around Manhattan, has died, zoo officials
+announced Friday. A little over...
+
+#### Lifetime’s Wendy Williams documentary will air this weekend after effort to block broadcast fails
+
+<span style="color: blue!80!green"><https://apnews.com/article/53ab1058f97c18b7a77fae307b7db356></span>
+
+NEW YORK (AP) — Lifetime’s “Where is Wendy Williams?” documentary will
+air this weekend as scheduled after a New York court rejected an attempt
+to block the broadcast. The order signed Friday by a New York appellate
+judge says...
+
+#### Backstory of disputed ‘Hotel California’ lyrics pages ‘just felt thin,’ ex-auction exec tells court
+
+<span style="color: blue!80!green"><https://apnews.com/article/055fb4a490783c3080943f1cb2c9e8ae></span>
+
+NEW YORK (AP) — The explanation given for the source of 13 pages of
+drafts of lyrics to the Eagles’ “Hotel California” raised red flags to a
+prominent auction house, a former executive testified Friday at a
+criminal trial surrounding...
+
+#### A watch that melted during the atomic blast over Hiroshima, Japan, sells for more than \$31,000
+
+<span style="color: blue!80!green"><https://apnews.com/article/6252c36c669b6f148b331d83ca828677></span>
+
+BOSTON (AP) — A watch melted during the Aug. 6, 1945, bombing of
+Hiroshima, Japan, has sold for more than \$31,000 at auction. The watch
+is frozen in time at the moment of the detonation of an atomic bomb over
+the Japanese city — 8:15...
+
+#### Unexploded WWII bomb in English city of Plymouth to be transported by convoy and disposed of at sea
+
+<span style="color: blue!80!green"><https://apnews.com/article/f46b89a68adf7e716cec91bcf718bceb></span>
+
+LONDON (AP) — An unexploded World War II bomb was being transported
+Friday through the southwestern English port city of Plymouth by a
+military convoy and disposed of at sea, prompting one of the largest
+evacuations in the United...
+
+#### IS bride stuck in Syrian refugee camp loses her appeal over the removal of her UK citizenship
+
+<span style="color: blue!80!green"><https://apnews.com/article/5d6de3ac785ecb7d3a2b46f79e037777></span>
+
+LONDON (AP) — A woman who traveled to Syria as a teenager to join the
+Islamic State group lost her appeal Friday against the British
+government’s decision to revoke her U.K. citizenship, with judges saying
+that it wasn’t for them to...
+
+#### French actresses denounce abuse by directors when they were teenagers in new \#MeToo step
+
+<span style="color: blue!80!green"><https://apnews.com/article/e215e51b38c9500c9ac032be99d4e0f0></span>
+
+PARIS (AP) — As French cinema basks in Academy Awards attention, actors
+who allege they were teenage victims of sexual and physical abuse by
+directors decades older than them are shining the light on the repulsive
+underside of the...
+
+#### Vice Media says ‘several hundred’ staff members will be laid off, Vice.com news site shuttered
+
+<span style="color: blue!80!green"><https://apnews.com/article/3439e54142c88530a5825642a81aeec5></span>
+
+NEW YORK (AP) — Vice Media plans to lay off several hundred employees
+and no longer publish material on its Vice.com website, the company’s
+CEO said in a memo to staff Thursday. Vice, which filed for bankruptcy
+last year before being...
+
+#### Atlanta is the only place in US to see pandas for now. But dozens of spots abroad have them
+
+<span style="color: blue!80!green"><https://apnews.com/article/235de70dec5e6c6f11cd16f53547cfb8></span>
+
+SAN DIEGO (AP) — It will still be months before the San Diego Zoo gets
+new pandas, the first such bears sent to the United States by China in
+decades. For now, the only U.S. zoo left with any is in Atlanta. But
+globally there are many...
+
+#### MLB players miffed at sport’s new see-through pants, relaying concerns to league
+
+<span style="color: blue!80!green"><https://apnews.com/article/52ccd5bcc81043f1623d2480bf5db39b></span>
+
+PEORIA, Ariz. (AP) — MLB’s new uniform reveal hasn’t gone very well. Now
+some of the rampant criticism has moved below the belt. Major League
+Baseball Players Association deputy executive director Bruce Meyer
+confirmed on Thursday that...
+
+#### University of Georgia cancels classes after woman found dead on campus
+
+<span style="color: blue!80!green"><https://apnews.com/article/a7a654367dc8b815d45384a7f853626d></span>
+
+ATHENS, Ga. (AP) — A woman was found dead Thursday on the campus of the
+University of Georgia after a friend told police she had not returned
+from a morning run, authorities said. The woman was not a student at the
+university, the...
+
+### Reuters
+
+#### Germany still discussing supplying long-range weapons to Ukraine, foreign minister says
+
+<span style="color: blue!80!green"><https://www.reuters.com/world/europe/germany-still-discussing-supplying-long-range-weapons-ukraine-foreign-minister-2024-02-24/></span>
+
+German Foreign Minister Annalena Baerbock, in Ukraines Black Sea port of
+Odesa on Saturday, said Germany was still discussing whether to supply
+long-range weapons to...
+
+#### Western leaders in Kyiv, G7 pledge support for Ukraine on war anniversary
+
+<span style="color: blue!80!green"><https://www.reuters.com/world/europe/western-leaders-kyiv-g7-pledge-support-ukraine-war-anniversary-2024-02-24/></span>
+
+Heads of the Group of Seven major democracies on Saturday pledged to
+stand by war-weary Ukraine, and Western leaders traveled to Kyiv to show
+solidarity on the second anniversary of Russias invasion, with no end in
+the...
+
+#### Israel signals progress in Gaza truce talks, Palestinians see little movement
+
+<span style="color: blue!80!green"><https://www.reuters.com/world/middle-east/israel-signals-progress-gaza-truce-talks-palestinians-see-little-movement-2024-02-24/></span>
+
+Israeli leaders planned to convene on Saturday to hear of possible
+progress in mediated negotiations on a new Gaza truce to recover
+hostages held by Hamas, but Palestinians saw little change in polarised
+positions almost five months into...
+
+#### US military shoot down missile launched into Gulf of Aden, CENTCOM says
+
+<span style="color: blue!80!green"><https://www.reuters.com/world/us-military-shoot-down-missile-launched-into-gulf-aden-centcom-says-2024-02-24/></span>
+
+The U.S. Central Command (CENTCOM) said that the USS Mason (DDG 87) on
+Saturday shot down one Anti-Ship Ballistic Missile launched into the
+Gulf of Aden from Houthi-controlled areas in Yemen that was likely
+targeting a fuel...
+
+#### Pope accepts resignation of Polish cleric accused of ignoring abuse
+
+<span style="color: blue!80!green"><https://www.reuters.com/world/pope-accepts-resignation-polish-cleric-accused-ignoring-abuse-2024-02-24/></span>
+
+Pope Franciss representatives in Poland said on Saturday that he had
+accepted the resignation of an archbishop who was accused in a
+documentary of turning a blind eye to child...
+
+#### Stuttgart slip up with 1-1 against Cologne to stay third
+
+<span style="color: blue!80!green"><https://www.reuters.com/sports/soccer/stuttgart-slip-up-with-1-1-against-cologne-stay-third-2024-02-24/></span>
+
+VfB Stuttgart were held to a 1-1 draw at home against Cologne on
+Saturday as they missed their chance to close in on Bayern Munich in
+second place in the...
+
+#### UK Conservatives suspend lawmaker who said Islamists control London’s mayor
+
+<span style="color: blue!80!green"><https://www.reuters.com/world/uk/uk-conservatives-suspend-lawmaker-who-said-islamists-control-londons-mayor-2024-02-24/></span>
+
+Britains Conservative Party suspended one of its lawmakers, Lee
+Anderson, on Saturday after he said the mayor of London, Sadiq Khan, was
+under the control of...
+
+#### Italy and Canada sign security deals with Ukraine
+
+<span style="color: blue!80!green"><https://www.reuters.com/world/europe/italy-canada-sign-security-deals-with-ukraine-2024-02-24/></span>
+
+The leaders of Canada and Italy signed security agreements with Ukraine
+on Saturday after talks with President Volodymyr Zelenskiy as Kyiv
+marked the second anniversary of Russias full-scale...
+
+#### As Russia’s invasion enters third year, Ukrainians shed tears of defiance
+
+<span style="color: blue!80!green"><https://www.reuters.com/world/europe/ukrainians-shed-tears-defiance-russias-invasion-enters-third-year-2024-02-24/></span>
+
+Ukrainians on Saturday laid flowers to honour their dead, wept, and
+hoped for victory despite the wars mounting toll, as they marked two
+years since a full-scale Russian invasion that shows no sign of
+letting...
+
+#### Tunisian opposition figure sentenced to 6 months’ jail
+
+<span style="color: blue!80!green"><https://www.reuters.com/world/africa/tunisian-opposition-figure-sentenced-6-months-jail-2024-02-24/></span>
+
+A Tunisian court sentenced on Saturday prominent opposition figure
+Jawher Ben Mbarek to six months in prison after he criticised the 2022
+parliamentary election, his lawyer and sister Dalila Ben Mbarek...
+
+#### Alexei Navalny’s body handed over to his mother, spokeswoman says
+
+<span style="color: blue!80!green"><https://www.reuters.com/world/europe/alexei-navalnys-body-handed-over-his-mother-spokeswoman-says-2024-02-24/></span>
+
+The body of Russian opposition leader Alexei Navalny, who died suddenly
+and unexpectedly in prison last week, has been handed over to his
+mother, his spokeswoman Kira Yarmysh wrote on the social media platform
+X on...
+
+#### Eiffel Tower operator says strike by staff has ended, site to reopen on Sunday
+
+<span style="color: blue!80!green"><https://www.reuters.com/world/europe/eiffel-tower-operator-says-strike-by-staff-has-ended-site-reopen-sunday-2024-02-24/></span>
+
+A strike by staff at the Eiffel Tower has ended, the company that runs
+one of the most visited tourist sites in the world said in a statement
+on...
+
+#### How Russia’s military uses volunteer fighters to plug gaps in Ukraine
+
+<span style="color: blue!80!green"><https://www.reuters.com/world/europe/how-russias-military-uses-volunteer-fighters-plug-gaps-ukraine-2024-02-24/></span>
+
+Bodycam footage provides a rare first-hand view of the combat operations
+of a BARS unit, a loose assembly several thousand fighters that Russias
+defense ministry has deployed in Ukraine to supplement its regular...
+
+### 联合早报
+
+#### 南京居民楼火灾15人死 学者：地方政府对安全隐患麻痹
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240224-1470195></span>
+
+中国江苏省南京市雨花台区明尚西苑小区星期五（2月23日）发生火灾，多个楼层窜出滚滚浓烟。（路透社）
+中国江苏省南京市一小区因停放电动脚踏车处起火造成15人死亡。事发小区多年来屡屡被曝出电动脚踏车无序存放问题，受访学者认为，火灾反映地方政府对这类安全隐患的麻痹，不可避免受到严厉问责和惩罚。
+综合新华社、极目新闻报道，南京雨花台区明尚西苑小区星期五（2月23日）凌晨发生火灾……
+
+#### 东部战区元宵前发《回家》海报 标示金门位置首现海警元素
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240224-1470188></span>
+
+东部战区元宵前夕（2月23日）发布海报《回家》，首次出现中国海警元素，并用红色繁体字标示金门的位置。（东部战区微博截图）
+（北京综合讯）金厦争端加剧台海两岸紧张局势之际，中国大陆解放军东部战区在元宵前夕（2月23日）发布有关台湾海峡的海报《回家》，首次出现中国海警元素。
+东部战区在官方微博账号发布这张海报，写道：“小手抓大手，携手出火坑；点灯驱恶魔，回家才会赢……
+
+#### 中国新一代载人飞船命名为“梦舟”
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240224-1470185></span>
+
+（北京综合电）中国载人月球探测任务新飞行器名称已确定，新一代载人飞船命名为“梦舟”，月面着陆器命名为“揽月”。
+新华社引述中国载人航天工程办公室星期六（2月24日）的消息报道，随着中国载人月球探测工程登月阶段任务全面启动，该办公室2023年8月开展名称征集活动。
+评选结果最近出炉：“梦舟”寓意载人月球探测承载中国人的航天梦，开启探索太空的新征程，也体现了与神舟、天舟飞船家族的体系传承……
+
+#### 中国媒体揭年轻人在小红书买工作
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240224-1470183></span>
+
+（北京综合讯）中国媒体揭露，社交媒体小红书上出现一批卖工作的中介公司，东北地区年轻人以1万元（人民币，下同，1901新元）到几十万元不等的价格花钱买工作的现象越发严重。
+据新浪科技星期四（2月22日）报道，在小红书等社交平台上，存在着很多挂羊头卖狗肉的企业，它们表面上是人力咨询服务公司，实际业务是工作买卖……
+
+#### 庄慧良：金门翻船事件冲击“两岸互不隶属”
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240224-1470055></span>
+
+农历春节初五（2月14日）一艘中国大陆渔船进入金门禁限制水域，遭台湾海巡署强制驱离，两名大陆渔工在过程中死亡。死者家属与泉州、晋江红十字会人员、医生等近日陆续抵达金门，准备验尸，厘清真相。
+据报道，昨天下午双方谈判破裂，已有一半人员先行返陆……
+
+#### 中国大陆人员与台海巡署官员针对翻船事故协商触礁
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240223-1470051></span>
+
+（台北综合讯）中国大陆星期五（2月23日）派人员前往金门，与金厦海域翻船事故罹难者家属和台湾海巡署官员展开闭门协商。但陆台双方据报在究责与道歉方面没有取得共识，协商暂时触礁。
+综合中时新闻网、中广新闻网、联合新闻网和《上报》报道，晋江红十字会秘书长曹荣山等大陆人员，23日搭船抵达金门，与死者家属及泉州台办副主任李朝晖会合后，前往一家酒店与台湾海巡署副署长许静芝等官员展开闭门协商……
+
+#### 苏州工业园区一高架路面结冰 百多辆车相撞九人受伤
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240223-1470042></span>
+
+苏州工业园区一高架路段星期五早上因路面结冰，导致百多辆汽车相撞，其中一辆车还冲上其他车辆的车顶。（互联网）
+（苏州综合讯）中国江苏苏州工业园区一高架路段，星期五（2月23日）早上因路面结冰，导致百多辆汽车相撞，造成九人受伤。
+苏州市公安局园区分局交警大队在微信公众号上通报，23日早上7时许，苏州工业园区星塘立交唯新路段发生多车追尾交通事故。
+三名伤者已送医救治，另六人轻微擦伤，没有大碍……
+
+#### 增西安青岛两市 中国大陆赴港自由行城市范围扩大
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240223-1470041></span>
+
+（北京／香港综合讯）中国宣布扩大港澳自由行城市名单，自3月6日起，西安、青岛两市居民可办理赴港澳个人游。香港文化体育及旅游局局长杨润雄说，这对香港旅游业发展将有积极提振作用。
+据中国移民管理局星期五（2月23日）在微信公号发布的消息，中国国务院近日批准增加陕西西安市、山东青岛市为中国大陆赴港澳个人游城市……
+
+#### 台湾行政院长食安专案报告 被批甩锅
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240223-1470029></span>
+
+台湾行政院长陈建仁星期五（2月23日）赴立法院进行食品安全专案报告，再三强调台中市政府验出禁用的瘦肉精“西布特罗”（Cimbuterol），只是单一检体事件。
+不过，他对民进党执政八年的食安问题检讨报告，被在野党批评把重点放在甩锅给国民党，推卸责任多于认真检讨……
+
+#### 中国或在龙年迎来生育小高峰
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240223-1469997></span>
+
+（北京综合讯）中国或在龙年迎来生育小高峰，有助缓解今年人口下滑的情况。
+据第一财经星期四（2月22日）报道，受多重因素影响，中国今年出生人口或将迎来阶段性回升，其中一个原因是中国人对生肖“龙”有特殊偏爱。上一个龙年2012年时就出现生育小高峰。
+数据显示，2012年中国全年出生人口1973万人，是本世纪以来最高的一年，当时的生育率超过全面开放生育二孩和三孩的年份……
+
+#### 中国官方通报2.2亿福彩大奖：全流程严格按照规定程序进行
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240223-1469942></span>
+
+（北京/南昌综合讯）江西一彩民买福利彩票独中2.2亿元（人民币，下同，约4200万新元）大奖引发争议。事件发生两个多月后，中国民政部星期四通报，确认所有流程严格按照规定程序进行。
+中国民政部星期四（2月22日）在其门户网站通报，确认福利彩票“快乐8”游戏销售数据封存、摇奖、现场公证、开奖公告发布等工作严格按照规定程序进行，销售系统和摇奖设备正常运行，奖池资金不存在被挪用情形……
+
+#### 韩咏红：金门翻船让大陆反切香肠推“行政统一”
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240223-1469821></span>
+
+发生在农历年大年初五（2月14日）的金门翻船事件，在低温闷烧头几天后，终于酝酿成台海两岸一场高度紧张的情势。事件还在延烧，台湾对外岛海域的管辖现状被改写，美国已发声介入，国务院表示“正密切监督北京的行动”，呼吁克制及勿单方面改变现状。
+事发的第七天，两名生还的中国大陆籍渔民本星期二（20日）终于回到大陆。他们对大陆媒体申诉，自己的船只是被台湾海巡船冲撞才导致翻覆……
+
+#### 美众议员加拉格尔访台 称美国将继续支持台湾
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240222-1469815></span>
+
+美国众议院美中战略竞争特别委员会主席加拉格尔（左）2月22日与台湾总统蔡英文会面。（法新社／台湾总统府）
+率团访问台湾的美国众议院美中战略竞争特别委员会主席加拉格尔强调，台美关系坚若磐石，未来不管谁当选下任美国总统，美国将继续支持台湾……
+
+#### 广州一大桥被货船撞断 五人遇难
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240222-1469811></span>
+
+2月22日清晨5时30分左右，一艘空载的集装箱船从佛山开往广州南沙途中，经洪奇沥水道时触碰了沥心沙大桥桥墩，致桥面断裂。（新华社）
+桥面共有四辆车和一辆电动摩托车从断裂处坠落，其中一辆空载中巴车、一辆货车和一辆电动摩托车坠落到集装箱船舱内，两辆小货车掉落水中……
+
+#### 中国技术公司外泄文件揭黑客入侵多国政府网络
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240222-1469789></span>
+
+（北京综合讯）中国技术安全公司安洵（I-Soon）大量内部文件外泄，曝光该公司的黑客入侵十多个国家的政府网络，渗透社交媒体账户，并攻击个人电脑。
+据法新社报道，一名身份不明的人士上周把这些内部文件发布到开源平台GitHub，其中包括数百个显示聊天记录、演讲文稿和目标名单的文件。
+法新社在泄露的文件中发现疑似泰国和英国政府部门名单，以及试图登录个人脸书账号的截图等……
+
+#### 北京料扩大赴港自由行 以期振兴香港旅游业
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240222-1469779></span>
+
+春节黄金周期间，超过143万人次旅客到访香港，其中超过125万来自中国大陆。图为香港尖沙咀星光大道的游客。（中新社）
+香港旅游业疫后复苏步伐缓慢，中国政府可能在近期扩大港澳自由行城市，方便更多大陆民众到香港旅游。不过，该措施能否像2003年那样重振香港经济，业界有不同看法。
+负责香港事务的中国港澳办主任夏宝龙继去年4月访港后，星期四（2月22日）再到香港考察调研七天……
+
+#### 台海巡署还原陆渔船翻覆经过 允提供死者家属慰问金
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240222-1469771></span>
+
+台湾海巡署2月22日承诺会向翻覆大陆渔船死者家属提供慰问金。图为死者家属2月20日抵达金门县殡葬管理所停柩室，确认遇难船员身份。
+（中新社）
+中国大陆渔船在金门海域翻覆造成两死的事件持续延烧，台湾海巡署星期四（2月22日）举行记者会还原事发经过，指大陆渔船为躲避登船检查，蛇行甩尾才导致船尾自撞海巡艇。
+海巡署承诺，会向死者家属提供慰问金……
+
+#### 欧盟首次把中国公司列入俄乌战制裁名单 学者：象征性对华表达不满
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240222-1469768></span>
+
+欧盟星期三（2月21日）对俄罗斯实施新一轮制裁，首次把疑似为俄国提供援助的中国公司纳入制裁名单。图为摄于2021年7月的欧盟总部。（路透社）
+中国外交部长王毅结束欧洲访问行程之际，欧盟星期三（2月21日）对俄罗斯实施新一轮制裁，首次把疑似为俄国提供援助的中国公司纳入制裁名单。
+受访学者分析，欧盟象征性地就俄乌问题向中国表达不满，制裁料不会直接冲击中欧关系……
+
+#### 台交通部长：陆客不赴台 台湾将从其他地区补齐客源
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240222-1469742></span>
+
+（台北综合讯）中国大陆渔船在金厦海域翻覆后，两岸关系愈发紧绷，台湾交通部长王国材说，大陆游客如果今年不能赴台，台湾将努力从其他地区补齐客源。
+据《联合报》报道，王国材星期四（2月22日）在台湾交通部观光署的一场活动上说，去年台湾设定600万旅客目标数，其中100万客源是大陆游客，最终陆客没来，台湾从其他地区补齐，全年达到648万人次。
+台湾交通部今年设定的目标较去年翻倍……
+
+#### 美国务院批准7500万美元对台军售案
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240222-1469739></span>
+
+（华盛顿/台北综合讯）五角大楼星期三（2月21日）公布，美国国务院已批准可能向台湾出售约7500万美元（1.01亿新元）的先进战术数据链系统升级计划。
+据路透社报道，美国国防部的国防安全合作局同日知会了美国国会。台湾外交部也在官网证实，他们收到美国政府的正式通知，美国行政部门已通知国会这项“Link-16系统提升先期规划”对台军售案……
+
+#### 陈婧：新能源车过“春劫”
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240222-1469576></span>
+
+这个中国出行人数创下历史新高的农历新年，对许多行业来说都是好消息——除了新能源车。
+中国春节假期结束之际，大批新能源车主弃车逃离海南岛的消息上了热搜。据媒体报道，由于今年海南岛游客暴增，离岛轮渡船票紧张，新能源车船票更是一票难求。从2月中旬到3月2日的新能源车船票已经全部售罄，抢不到票的车主只得把车留在岛上，待节后再联系拖车……
+
+
+
+
+-----------------------------------
+
+Copyright © 2023-2024 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

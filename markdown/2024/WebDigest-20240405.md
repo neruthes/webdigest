@@ -20,6 +20,18 @@ Other formats: [PDF](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/we
 
 <span style="color: black!50"><https://news.ycombinator.com/item?id=39936246></span>
 
+#### Cory Doctorow on Kagi Search
+
+<span style="color: blue!80!green"><https://pluralistic.net/2024/04/04/teach-me-how-to-shruggie/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=39935805></span>
+
+#### Fake AI law firms are sending fake DMCA threats to generate fake SEO gains
+
+<span style="color: blue!80!green"><https://arstechnica.com/gadgets/2024/04/fake-ai-law-firms-are-sending-fake-dmca-threats-to-generate-fake-seo-gains/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=39934696></span>
+
 #### The design philosophy of Great Tables
 
 <span style="color: blue!80!green"><https://posit-dev.github.io/great-tables/blog/design-philosophy/></span>
@@ -116,17 +128,43 @@ Other formats: [PDF](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/we
 
 <span style="color: black!50"><https://news.ycombinator.com/item?id=39928913></span>
 
-#### A podcast about the xz backdoor with the guy who found it
+### Phoronix
 
-<span style="color: blue!80!green"><https://risky.biz/RB743/></span>
+#### AMD Working To Release MES Documentation & Source Code
 
-<span style="color: black!50"><https://news.ycombinator.com/item?id=39928867></span>
+<span style="color: blue!80!green"><https://www.phoronix.com/news/AMD-MES-Docs-And-Source-Code></span>
 
-#### Anatomy of a credit card rewards program
+#### Netplan 1.0 Is Ready To Go For Ubuntu 24.04 LTS
 
-<span style="color: blue!80!green"><https://www.bitsaboutmoney.com/archive/anatomy-of-credit-card-rewards-programs/></span>
+<span style="color: blue!80!green"><https://www.phoronix.com/news/Netplan-1.0-Ready-For-Ubuntu-24></span>
 
-<span style="color: black!50"><https://news.ycombinator.com/item?id=39928604></span>
+#### Wine Project’s April Fools’ Gag With Merit: Leveraging AI For Faster Code Review
+
+<span style="color: blue!80!green"><https://www.phoronix.com/news/Wine-AI-Code-Review></span>
+
+#### Intel Xeon Max Sees Some Performance Gains For OpenVINO & ONNX With Linux 6.9
+
+<span style="color: blue!80!green"><https://www.phoronix.com/review/linux-69-intel-xeon-max></span>
+
+#### PostgreSQL Merges JSON_TABLE(), Incremental JSON Parser
+
+<span style="color: blue!80!green"><https://www.phoronix.com/news/PostgreSQL-Adds-JSON_TABLE></span>
+
+#### UPower Power Profiles Daemon v0.21 Automatically Adapts For Linux Laptop Battery Use
+
+<span style="color: blue!80!green"><https://www.phoronix.com/news/Power-Profiles-Daemon-0.21></span>
+
+#### LLVM’s BOLT Being Adapted To Analyze Security Hardening Of Binaries
+
+<span style="color: blue!80!green"><https://www.phoronix.com/news/LLVM-BOLT-Security-Hardening></span>
+
+#### Qt Creator 13 Released For Enhancing Qt/C++ Development
+
+<span style="color: blue!80!green"><https://www.phoronix.com/news/Qt-Creator-13-IDE></span>
+
+#### Intel QAT Driver Preps Live Migration Support For Linux 6.10
+
+<span style="color: blue!80!green"><https://www.phoronix.com/news/Intel-QAT-Live-Migration-Linux></span>
 
 ### GitHub
 
@@ -140,8 +178,8 @@ PC with iGPU, discrete GPU such as Arc, Flex and Max). A PyTorch LLM
 library that seamlessly integrates with llama.cpp, HuggingFace,
 LangChain, LlamaIndex, DeepSpeed, vLLM, FastChat, ModelScope, etc.  
 Language: Python  
-Stars: 5482  
-Forks: 1174
+Stars: 5494  
+Forks: 1176
 
 #### gethomepage/homepage
 
@@ -150,7 +188,7 @@ Forks: 1174
 A highly customizable homepage (or startpage / application dashboard)
 with Docker and service API integrations.  
 Language: JavaScript  
-Stars: 15031  
+Stars: 15046  
 Forks: 843
 
 #### airbnb/javascript
@@ -159,7 +197,7 @@ Forks: 843
 
 JavaScript Style Guide  
 Language: JavaScript  
-Stars: 141384  
+Stars: 141389  
 Forks: 26110
 
 #### apache/superset
@@ -168,8 +206,8 @@ Forks: 26110
 
 Apache Superset is a Data Visualization and Data Exploration Platform  
 Language: TypeScript  
-Stars: 58153  
-Forks: 12414
+Stars: 58168  
+Forks: 12415
 
 #### actions/runner-images
 
@@ -177,10 +215,26 @@ Forks: 12414
 
 GitHub Actions runner images  
 Language: PowerShell  
-Stars: 8949  
+Stars: 8953  
 Forks: 2773
 
 ### Dribbble
+
+#### Boston General Store (Safety Matches)
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/23951811></span>
+
+#### Devotion
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/23952183></span>
+
+#### Brand Illos
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/23940583></span>
+
+#### Analog Pattern
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/23905573></span>
 
 #### How to beat the winter blues - Northshore Magazine
 
@@ -194,73 +248,65 @@ Forks: 2773
 
 <span style="color: blue!80!green"><https://dribbble.com/shots/23939057></span>
 
-#### Palestine
-
-<span style="color: blue!80!green"><https://dribbble.com/shots/23938053></span>
-
 #### Work for a new real estate development in Melbourne 🦘
 
 <span style="color: blue!80!green"><https://dribbble.com/shots/23937993></span>
 
-#### Mainspring London Branded Graphic \#2
+#### Sketch
 
-<span style="color: blue!80!green"><https://dribbble.com/shots/23930040></span>
-
-#### CH24 Pocket Square
-
-<span style="color: blue!80!green"><https://dribbble.com/shots/23935618></span>
+<span style="color: blue!80!green"><https://dribbble.com/shots/23938277></span>
 
 #### KAWAII City
 
 <span style="color: blue!80!green"><https://dribbble.com/shots/23940553></span>
 
-#### S Lettermark
+#### Banana phone 🍌☎️
 
-<span style="color: blue!80!green"><https://dribbble.com/shots/23936634></span>
+<span style="color: blue!80!green"><https://dribbble.com/shots/23939391></span>
+
+#### CH24 Pocket Square
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/23935618></span>
+
+#### Nature Workspace
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/23936299></span>
 
 #### Harry Potter Poster
 
 <span style="color: blue!80!green"><https://dribbble.com/shots/23933201></span>
 
-#### The Gravity of Dreams - 3D Animation
-
-<span style="color: blue!80!green"><https://dribbble.com/shots/23927961></span>
-
 #### Bandoola
 
 <span style="color: blue!80!green"><https://dribbble.com/shots/23678826></span>
 
-#### AI Art 🤖
+#### PU shoes logo
 
-<span style="color: blue!80!green"><https://dribbble.com/shots/23911632></span>
+<span style="color: blue!80!green"><https://dribbble.com/shots/23929256></span>
 
 #### Aqua Reef
 
 <span style="color: blue!80!green"><https://dribbble.com/shots/23912846></span>
 
-#### Worrying About The Past
+#### Matthew Alvarado Photography Logo Design
 
-<span style="color: blue!80!green"><https://dribbble.com/shots/23905560></span>
+<span style="color: blue!80!green"><https://dribbble.com/shots/23929948></span>
 
-#### Sailor.
+#### The Gravity of Dreams - 3D Animation
 
-<span style="color: blue!80!green"><https://dribbble.com/shots/23932086></span>
+<span style="color: blue!80!green"><https://dribbble.com/shots/23927961></span>
 
 #### HE IS RISEN + MY STORY
 
 <span style="color: blue!80!green"><https://dribbble.com/shots/23924246></span>
 
-#### ilcons 3D
-
-<span style="color: blue!80!green"><https://dribbble.com/shots/23925859></span>
-
 #### summit ⛰︎ men
 
 <span style="color: blue!80!green"><https://dribbble.com/shots/23926570></span>
 
-#### River Rocks (using AI)
+#### ilcons 3D
 
-<span style="color: blue!80!green"><https://dribbble.com/shots/23927662></span>
+<span style="color: blue!80!green"><https://dribbble.com/shots/23925859></span>
 
 #### 🐣🏎️
 
@@ -269,14 +315,6 @@ Forks: 2773
 #### Skateboarding Spot Illustrations
 
 <span style="color: blue!80!green"><https://dribbble.com/shots/23918833></span>
-
-#### Pink Serpent
-
-<span style="color: blue!80!green"><https://dribbble.com/shots/23915790></span>
-
-#### A real mane-iac on two wheels 🦁🛵
-
-<span style="color: blue!80!green"><https://dribbble.com/shots/23918133></span>
 
 ## Developers (zh-Hans)
 
@@ -363,6 +401,18 @@ Forks: 2773
 <span style="color: blue!80!green"><https://www.solidot.org/story?sid=77760></span>
 
 ### V2EX
+
+#### \[职场话题\] 有经历过裁员的老哥吗？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1029794></span>
+
+#### \[Windows\] Windows HDR 视频播放求解
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1029793></span>
+
+#### \[Windows\] win11 自带输入法，打字有时候会把选词的数字也一起打出来，你们遇到过吗？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1029792></span>
 
 #### \[阅读\] 2024 三月读逻辑学，觉醒，小王子…5 本
 
@@ -551,18 +601,6 @@ Forks: 2773
 #### \[Android\] 安卓备用机怎么去除 72 小时就要输入密码的限制？
 
 <span style="color: blue!80!green"><https://www.v2ex.com/t/1029727></span>
-
-#### \[问与答\] 求推荐有氧慢跑的缓震鞋？
-
-<span style="color: blue!80!green"><https://www.v2ex.com/t/1029726></span>
-
-#### \[C\] 用 riscv64- Linux -gnu-gcc 编译的 c 文件为啥能在 x8664 下运行？
-
-<span style="color: blue!80!green"><https://www.v2ex.com/t/1029725></span>
-
-#### \[问与答\] 有无 qq 产品人员，咨询下新版 qq 如何在独立聊天窗口的情况下合并窗口列表？
-
-<span style="color: blue!80!green"><https://www.v2ex.com/t/1029724></span>
 
 ## Generic News
 

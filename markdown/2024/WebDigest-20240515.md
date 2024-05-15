@@ -1,0 +1,955 @@
+Other formats: [PDF](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/webdigest/WebDigest-20240515.pdf--518d44eb19f0c6ec9cd04250a757ef5e.pdf) / [HTML](https://webdigest.pages.dev/readhtml/2024/WebDigest-20240515.html)
+
+
+# Web Digest 2024-05-15
+
+
+## Developers
+
+### Hacker News
+
+#### Veo
+
+<span style="color: blue!80!green"><https://deepmind.google/technologies/veo/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=40358041></span>
+
+#### Meta Is Shuttering Workplace, Its Enterprise Version of Facebook
+
+<span style="color: blue!80!green"><https://finance.yahoo.com/news/meta-shuttering-workplace-enterprise-version-170030864.html></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=40357671></span>
+
+#### VMware Fusion Pro: Now available free for personal use
+
+<span style="color: blue!80!green"><https://blogs.vmware.com/teamfusion/2024/05/fusion-pro-now-available-free-for-personal-use.html></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=40357271></span>
+
+#### Firefox search update
+
+<span style="color: blue!80!green"><https://blog.mozilla.org/en/products/firefox/firefox-search-update/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=40355982></span>
+
+#### Fast linked lists
+
+<span style="color: blue!80!green"><https://dygalo.dev/blog/blazingly-fast-linked-lists/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=40355227></span>
+
+#### Tech companies are flocking to the Middle East
+
+<span style="color: blue!80!green"><https://www.washingtonpost.com/technology/2024/05/14/middle-east-ai-tech-companies-saudi-arabia-uae/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=40355126></span>
+
+#### New gel breaks down alcohol in the body
+
+<span style="color: blue!80!green"><https://ethz.ch/en/news-and-events/eth-news/news/2024/05/press-release-new-gel-breaks-down-alcohol-in-the-body.html></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=40354130></span>
+
+#### My VM is lighter (and safer) than your container (2017)
+
+<span style="color: blue!80!green"><https://dl.acm.org/doi/10.1145/3132747.3132763></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=40353963></span>
+
+#### Claude is now available in Europe
+
+<span style="color: blue!80!green"><https://www.anthropic.com/news/claude-europe></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=40352204></span>
+
+#### The First Nuclear Microreactor Company Listed in the USA
+
+<span style="color: blue!80!green"><https://nanonuclearenergy.com/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=40351141></span>
+
+#### Australian man says border force made him hand over phone passcode
+
+<span style="color: blue!80!green"><https://www.theguardian.com/australia-news/article/2024/may/14/australian-man-says-border-force-made-him-hand-over-phone-passcode-by-threatening-to-keep-device-indefinitely></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=40349690></span>
+
+#### Not an iPad Pro Review: Why iPadOS Still Doesn’t Get the Basics Right
+
+<span style="color: blue!80!green"><https://www.macstories.net/stories/not-an-ipad-pro-review/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=40349347></span>
+
+#### Intel announces the Aurora supercomputer has broken the exascale barrier
+
+<span style="color: blue!80!green"><https://www.intel.com/content/www/us/en/newsroom/news/intel-powered-aurora-supercomputer-breaks-exascale-barrier.html></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=40348957></span>
+
+#### Unitree G1 Humanoid Agent
+
+<span style="color: blue!80!green"><https://www.unitree.com/g1/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=40348531></span>
+
+#### DOS game “F-15 Strike Eagle II” reverse engineering/reconstruction war stories
+
+<span style="color: blue!80!green"><https://neuviemeporte.github.io/category/f15-se2.html></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=40347662></span>
+
+#### Apple and Google deliver support for unwanted tracking alerts in iOS and Android
+
+<span style="color: blue!80!green"><https://www.apple.com/ca/newsroom/2024/05/apple-and-google-deliver-support-for-unwanted-tracking-alerts-in-ios-and-android/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=40346024></span>
+
+#### GPT-4o
+
+<span style="color: blue!80!green"><https://openai.com/index/hello-gpt-4o/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=40345775></span>
+
+#### A global plastic treaty will only work if it caps production, modeling shows
+
+<span style="color: blue!80!green"><https://phys.org/news/2024-05-global-plastic-treaty-caps-production.html></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=40345641></span>
+
+#### Discord has been using ML to determine the gender and age of some of its users
+
+<span style="color: blue!80!green"><https://twitter.com/DiscordPreviews/status/1790065494432608432></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=40345627></span>
+
+#### Good, Kind, Caring People Became the Bad Guys
+
+<span style="color: blue!80!green"><https://www.okdoomer.io/thebadguys/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=40345552></span>
+
+### Phoronix
+
+#### Framework 13 AMD Laptop Seeing Experimental Coreboot Port
+
+<span style="color: blue!80!green"><https://www.phoronix.com/news/Framework-13-AMD-Coreboot-WIP></span>
+
+#### Intel Releases Updated CPU Microcode For Fixing Three New Security Issues
+
+<span style="color: blue!80!green"><https://www.phoronix.com/news/Intel-20240514-CPU-Microcode></span>
+
+#### Benchmarking The First RISC-V Cloud Server: Scaleway EM-RV1 Performance
+
+<span style="color: blue!80!green"><https://www.phoronix.com/review/scaleway-risc-v-cloud></span>
+
+#### Microsoft Engineer Ports EXT2 File-System Driver To Rust
+
+<span style="color: blue!80!green"><https://www.phoronix.com/news/Rust-VFS-Linux-V2-Now-With-EXT2></span>
+
+#### Debian Releases APT 2.9.3 With New Package Solver
+
+<span style="color: blue!80!green"><https://www.phoronix.com/news/APT-2.9.3-New-Package-Solver></span>
+
+#### Steam Deck IMU Support Submitted For Linux 6.10 Plus ASUS ROG Ally HID
+
+<span style="color: blue!80!green"><https://www.phoronix.com/news/Linux-6.10-HID-Changes></span>
+
+#### NVK Vulkan Driver Lands DRM Format Modifiers Support
+
+<span style="color: blue!80!green"><https://www.phoronix.com/news/NVK-DRM-Modifiers-Land></span>
+
+#### Zone Write Plugging Comes To Linux 6.10 For Better Performance
+
+<span style="color: blue!80!green"><https://www.phoronix.com/news/Linux-6.10-Block-Changes></span>
+
+#### Qualcomm Talks Up Their Linux Support For The Snapdragon X Elite
+
+<span style="color: blue!80!green"><https://www.phoronix.com/news/Qualcomm-Snapdragon-X-Elite></span>
+
+### GitHub
+
+#### jellyfin/jellyfin
+
+<span style="color: blue!80!green"><https://github.com/jellyfin/jellyfin></span>
+
+The Free Software Media System  
+Language: C#  
+Stars: 30374  
+Forks: 2818
+
+#### sdmg15/Best-websites-a-programmer-should-visit
+
+<span style="color: blue!80!green"><https://github.com/sdmg15/Best-websites-a-programmer-should-visit></span>
+
+:link: Some useful websites for programmers.  
+Language: Unknown  
+Stars: 57721  
+Forks: 7337
+
+### Dribbble
+
+#### Paris City Guide Web Design
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24163656></span>
+
+#### Bitesized Mascots
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24161500></span>
+
+#### Best One Yet Market Canopy
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24163887></span>
+
+#### Blue Like Jay
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24150942></span>
+
+#### 🍎✏️💭
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24164215></span>
+
+#### Mid-Century Inspired Cocktail Illustrations
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24158942></span>
+
+#### Flatley Whiskey
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24153357></span>
+
+#### Framework
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24147571></span>
+
+#### 腐った
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24150899></span>
+
+#### Time to work
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24133355></span>
+
+#### St. John the Beloved Tertiary Logo
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24097566></span>
+
+#### The Original Trilogy
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24144928></span>
+
+#### Slurp
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24143680></span>
+
+#### Cocktails
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24052196></span>
+
+#### Couple walking
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24141263></span>
+
+#### You are enough
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24144370></span>
+
+#### Soda Can Design - Beverage Packaging🍸
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24145761></span>
+
+#### ilcons 3D
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24135169></span>
+
+#### Interconnected world
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24137069></span>
+
+#### Tree of Life
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24119120></span>
+
+#### Fallout
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24130867></span>
+
+#### Smart Stack Concept 2
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24135298></span>
+
+#### big plant
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/23998386></span>
+
+#### 🚨 New Series Alert: 2D/3D Mix Scapes!
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24136879></span>
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### 贝多芬不太可能死于铅中毒
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=78161></span>
+
+#### Frontier 继续称霸 Top500 超算榜单
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=78160></span>
+
+#### 美国警告勒索软件组织 Black Basta 对关键基础设施的攻击
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=78159></span>
+
+#### 英特尔的 Aurora 超算突破 Exaflops
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=78158></span>
+
+#### 上周末的太阳风暴影响了拖拉机的 GPS 系统 
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=78157></span>
+
+#### OpenAI 发布新的免费模型 GPT-4o
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=78156></span>
+
+#### 梅琳达·盖茨退出盖茨基金会
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=78155></span>
+
+#### IBM 开源 Granite 代码模型
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=78154></span>
+
+#### 修复免疫系统能延缓衰老
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=78153></span>
+
+#### 仍然没有放弃软盘的人
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=78152></span>
+
+#### Red Hat 和 CIQ 为 RHEL 7 提供扩展支持
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=78151></span>
+
+#### 互联网使用与全球幸福感上升相关
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=78150></span>
+
+#### 研究发现夫妻共同饮酒与长寿相关
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=78149></span>
+
+#### 游戏公司高管在指定居住期间死亡
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=78148></span>
+
+#### Linux Kernel 6.9 释出
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=78147></span>
+
+#### Google 员工就士气低落质疑高管
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=78146></span>
+
+#### 太阳爆发 X5.8 级耀斑，强地磁风暴将持续到周一
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=78145></span>
+
+#### 气候变暖增加中国城市火灾风险
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=78144></span>
+
+#### 法官驳回了 X 对数据抓取公司的诉讼
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=78143></span>
+
+### V2EX
+
+#### \[分享创造\] VMWare Fusion Pro 个人现在可以免费使用了
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040804></span>
+
+#### \[VMware\] VMware Fusion 和 Workstation 个人使用免费
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040803></span>
+
+#### \[程序员\] 大学本科，课程期末设计，选什么项目比较好啊。。。。
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040802></span>
+
+#### \[分享创造\] iTimeMachine-IOS 上的时间机器，备份神器
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040801></span>
+
+#### \[推广\] 自己目前在用的机场节点
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040800></span>
+
+#### \[问与答\] 老哥们，某宝买 iPad 以旧换靠谱吗
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040799></span>
+
+#### \[Android\] 开了 TrackerControl 就没法开 warp 了，肿么办
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040798></span>
+
+#### \[OpenAI\] GPT-4o 的新 tokenizer 词库污染严重
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040797></span>
+
+#### \[Telegram\] 出售 telegram 老号
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040796></span>
+
+#### \[职场话题\] 1 月被裁至今，有面试但没 offer
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040795></span>
+
+#### \[分享创造\] \[送码\] AIBotPro 一个不仅仅做 AI 服务集成的网站，提供最少一小时 10 次的 gpt4 服务，且有可玩性，已开源
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040794></span>
+
+#### \[问与答\] 凌晨三点回 HR 微信消息不礼貌吗？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040792></span>
+
+#### \[问与答\] 小米国际版机器（频段全），刷国内系统（国内便利），是否可行
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040791></span>
+
+#### \[Apple\] 有人要学生价的 Final Cut Pro 吗？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040790></span>
+
+#### \[OpenWrt\] 怎么劫持设备内置的 dns 查询
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040789></span>
+
+#### \[问与答\] Android 客户端为什么没有 gpt4o 选项
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040788></span>
+
+#### \[求职\] Java 7 年，找一份远程 Java 工作，不要菠菜
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040787></span>
+
+#### \[分享创造\] 海量 svg 矢量图标免费下载
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040786></span>
+
+#### \[分享发现\] 现在饿罗斯银行年息利率高达 16%
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040784></span>
+
+#### \[OpenAI\] 国内用户 android 手机如何使用 chatgpt 客户端
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040783></span>
+
+#### \[问与答\] 请问给小朋友买带屏幕的智能音箱,哪家综合体验比较好呢 ,谢谢?
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040782></span>
+
+#### \[VPS\] ucloud 香港 ping 效果很差正常吗？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040781></span>
+
+#### \[iOS\] 今天更新到 17.5 后的两个问题
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040779></span>
+
+#### \[酷工作\] 拼多多跨境搜索推荐团队 搜索推荐方向全部岗位开放招聘
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040776></span>
+
+#### \[Spotify\] 求一个 Spotify 长期车
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040775></span>
+
+#### \[Apple\] 求教， AppleTV 上 infuse 无法连接本地 smb 共享文件夹
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040774></span>
+
+#### \[问与答\] 关于 reddit 开启双因素认证登陆异常问题
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040773></span>
+
+#### \[分享创造\] 我们为纹身爱好者做了一个有趣的纹身图案生成工具
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040772></span>
+
+#### \[宽带症候群\] 分享一则 routeros + openclash + mosdns 的配置思路
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040771></span>
+
+#### \[生活\] 从未结婚的朋友爱上了一个离异带娃的女性，该如何劝分手？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040770></span>
+
+#### \[职场话题\] 得物真这样吗，有点不敢去了
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040769></span>
+
+#### \[问与答\] 哪里有邓白氏码卖？（申请苹果公司开发者用）
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040768></span>
+
+#### \[MongoDB\] 想请教一下， mongoDB 是否适合海量数据存储
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040767></span>
+
+#### \[YouTube\] 帮忙找油管上的一个视频，内容是教观众如何把自己的视频的播放量锁定在 317。
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040766></span>
+
+#### \[开源软件\] 大家对开源的误解？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040764></span>
+
+#### \[Chrome\] xdm,“Chrome 应用商店”开发者注册费 国内要有啥渠道可以交啊
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040762></span>
+
+#### \[问与答\] 四则混合运算字符串，关于数值替换的问题
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040759></span>
+
+#### \[机器学习\] 有没有专门智能解析 PDF 的开源模型？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040757></span>
+
+#### \[程序员\] 基于 hugo 的博客的谷歌索引的编制问题
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040755></span>
+
+#### \[宽带症候群\] 这是什么网线？啥规格的？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040754></span>
+
+#### \[问与答\] Ubuntu 下的五笔输入法，有没有能打的啊？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040753></span>
+
+#### \[NAS\] 群晖 nas 能换硬件吗
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040752></span>
+
+#### \[TypeScript\] ==TypeScript 写的 npm 包可以用 javascript 使用包的函数吗
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040750></span>
+
+#### \[问与答\] 使用 modbus4j 能实现通信中断提示吗
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040749></span>
+
+#### \[酷工作\] 寻资深 Python 自然语言/机器学习-兼职工程师
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040747></span>
+
+#### \[分享创造\] 基于 GPT-4o 做 Chatbot 应用还来得及吗？介绍页 https://gpt4o.im
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040746></span>
+
+#### \[程序员\] 大佬们云服务器怎么选
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040745></span>
+
+#### \[PayPal\] 美区 paypal 这样是被风控了么？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040744></span>
+
+#### \[iPhone\] 地铁闸机经常扫不开
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1040743></span>
+
+## Generic News
+
+### AP News
+
+#### Chiefs kicker Harrison Butker rails against Pride month, President Biden during commencement address
+
+<span style="color: blue!80!green"><https://apnews.com/article/e00f6ee45955c99ef1e809ec447239e0></span>
+
+KANSAS CITY, Mo. (AP) — Kansas City Chiefs kicker Harrison Butker railed
+against Pride month along with President Biden’s leadership during the
+COVID-19 pandemic and his stance on abortion during a commencement
+address at Benedictine...
+
+#### ‘Micropreemie’ baby who weighed just over 1 pound at birth goes home from Illinois hospital
+
+<span style="color: blue!80!green"><https://apnews.com/article/ff4a54895dd2e19a5ae9c0272f7e0e78></span>
+
+NEW LENOX, Ill. (AP) — A baby girl who weighed just over one pound when
+she was born prematurely in November has beaten the odds and gone home
+with her parents after spending her first six months at a suburban
+Chicago hospital. Nyla...
+
+#### TikTok content creators sue the U.S. government over law that could ban the popular platform
+
+<span style="color: blue!80!green"><https://apnews.com/article/3324b0fee4473f6e05c5c51ae5ff6946></span>
+
+Eight TikTok content creators sued the U.S. government on Tuesday,
+issuing another challenge to the new federal law that would ban the
+popular social media platform nationwide if its China-based parent
+company doesn’t sell its stakes...
+
+#### Messi the dog comes to Cannes for an encore
+
+<span style="color: blue!80!green"><https://apnews.com/article/6acbc9efff069a7580194aa49aaa8f18></span>
+
+CANNES, France (AP) — The first star to arrive on the red carpet at the
+77th Cannes Film Festival came on four legs. Messi, the dog from the
+film “Anatomy of a Fall,” walked up and down the Cannes carpet on
+Tuesday ahead of the...
+
+#### David Sanborn, Grammy-winning saxophonist who played on hundreds of albums, dies at 78
+
+<span style="color: blue!80!green"><https://apnews.com/article/dc8fd63e989e14134e25aefed7b824ff></span>
+
+NEW YORK (AP) — David Sanborn, the Grammy-winning saxophonist who played
+lively solos on such hits as David Bowie’s “Young Americans” and James
+Taylor’s “How Sweet It Is (To Be Loved By You)” and enjoyed his own
+highly successful...
+
+#### Caitlin Clark’s ready for her WNBA regular-season debut as Fever take on Connecticut
+
+<span style="color: blue!80!green"><https://apnews.com/article/656429e62e5dd9200d578d573b0e54f8></span>
+
+UNCASVILLE, Conn. (AP) — Caitlin Clark’s much anticipated WNBA debut is
+set for Tuesday night in Connecticut. The No. 1 pick in the WNBA draft
+is coming off a record-setting college career at Iowa. “This is what
+you’ve worked for and...
+
+#### Rory McIlroy files for divorce from his wife of 7 years. They have a 3-year-old daughter
+
+<span style="color: blue!80!green"><https://apnews.com/article/3a3edcda836504d76214c8512b6b0e70></span>
+
+LOUISVILLE, Ky. (AP) — Rory McIlroy has filed for divorce after seven
+years of marriage, according to court records in Palm Beach County,
+Florida, a stunning development going into the PGA Championship. McIlroy
+and his wife, Erica...
+
+#### Scarred by war, Nigeria’s wounded soldiers fought to recover at Prince Harry’s Invictus Games
+
+<span style="color: blue!80!green"><https://apnews.com/article/8ca490fcd87397ae61e2ff116e1e3545></span>
+
+ABUJA, Nigeria (AP) — One evening in November 2020, a year into his
+military service, Peacemaker Azuegbulam’s lifelong dream of being a
+soldier came to an abrupt end. He was among a group of Nigerian soldiers
+deployed in the country’s...
+
+#### Spain warns small ships of possible orca run-ins near the Strait of Gibraltar during the summer
+
+<span style="color: blue!80!green"><https://apnews.com/article/bd23ce9d634d0b33dd564e7106c0201e></span>
+
+BARCELONA, Spain (AP) — Following the ramming of a small boat by an orca
+in the Strait of Gibraltar, authorities in Spain issued recommendations
+Tuesday that small vessels stick to the coastline in that region to
+avoid often-scary...
+
+#### K-pop fans around globe rally for climate and environment goals
+
+<span style="color: blue!80!green"><https://apnews.com/article/0e7ec393f20ca0194d7291e70f49b084></span>
+
+JAKARTA, Indonesia (AP) — Fans of Korean pop bands around the world are
+increasingly channeling their millions-strong online community into
+climate and environmental activism, protesting business deals linked to
+coal power, urging K-pop...
+
+#### AP exclusive: Maradona heirs say his Golden Ball trophy was stolen. They want to stop its auction
+
+<span style="color: blue!80!green"><https://apnews.com/article/d8f03b38d4719fde28d448ae401bd491></span>
+
+PARIS (AP) — Diego Maradona’s heirs will launch a lawsuit to try and
+stop the auction of a trophy he was awarded after the 1986 World Cup won
+by Argentina, their lawyer told The Associated Press on Tuesday. The
+Golden Ball trophy...
+
+#### Gucci hosts star-studded cruise collection fashion show in London’s Tate Modern
+
+<span style="color: blue!80!green"><https://apnews.com/article/f7756a8f9a22dcc77d6e9a23057cc80d></span>
+
+LONDON (AP) — For one night only, the utilitarian, concrete basement of
+London’s Tate Modern museum was transformed into a lush green jungle
+Monday — and it was the hottest fashion ticket in town. Luxury Italian
+fashion house Gucci...
+
+#### ‘Judge Judy’ Sheindlin sues for defamation over National Enquirer, InTouch Weekly stories
+
+<span style="color: blue!80!green"><https://apnews.com/article/abbce19f6f33b03eb795a95134037719></span>
+
+NEW YORK (AP) — “Judge Judy” Sheindlin sued the parent company of the
+National Enquirer and InTouch Weekly on Monday for a story that she said
+falsely claimed that she was trying to help the Menendez brothers get a
+retrial after they...
+
+### Reuters
+
+#### Asia’s extreme April heat worsened by climate change, scientists say
+
+<span style="color: blue!80!green"><https://www.reuters.com/business/environment/asias-extreme-april-heat-worsened-by-climate-change-scientists-say-2024-05-14/></span>
+
+Extreme temperatures throughout Asia last month were made worse - and
+more likely - as a result of human-driven climate change, a team of
+international scientists said on...
+
+#### Ukrainian military moves troops in Kharkiv region in response to Russian fire
+
+<span style="color: blue!80!green"><https://www.reuters.com/world/europe/ukrainian-military-moves-troops-kharkiv-region-response-russian-fire-2024-05-14/></span>
+
+Ukraines military said on Tuesday it was moving troops to new positions
+in the north of Kharkiv region in response to heavy Russian fire and...
+
+#### Harvard pro-Palestinian students end encampment but vow continued protest
+
+<span style="color: blue!80!green"><https://www.reuters.com/world/us/harvard-pro-palestinian-students-end-encampment-vow-continued-protest-2024-05-14/></span>
+
+A group of Harvard students said on Tuesday they would peacefully end a
+pro-Palestinian protest encampment after the university agreed to
+discuss its endowment with the protesters and begin reconsidering
+involuntary leaves it imposed on...
+
+#### Meryl Streep honoured in emotional ceremony as Cannes opens
+
+<span style="color: blue!80!green"><https://www.reuters.com/lifestyle/meryl-streep-honoured-emotional-ceremony-cannes-opens-2024-05-14/></span>
+
+The Cannes Film Festival officially kicked off on Tuesday night as
+celebrities walked the red carpet into the plush Grand Theatre Lumiere
+to honour Hollywood actor Meryl Streep before settling in to watch this
+years...
+
+#### Portugal to build new airport across the river from Lisbon
+
+<span style="color: blue!80!green"><https://www.reuters.com/world/europe/portugal-build-new-airport-across-river-lisbon-2024-05-14/></span>
+
+Portugal will build a new international airport in the municipality of
+Alcochete, across the River Tagus from Lisbon, Prime Minister Luis
+Montenegro announced on Tuesday after decades of back-and-forth over
+the...
+
+#### Exclusive: North Korea laundered \$147.5 mln in stolen crypto in March, say UN experts
+
+<span style="color: blue!80!green"><https://www.reuters.com/technology/cybersecurity/north-korea-laundered-1475-mln-stolen-crypto-march-say-un-experts-2024-05-14/></span>
+
+North Korea laundered \$147.5 million through virtual currency platform
+Tornado Cash in March after stealing it last year from a cryptocurrency
+exchange, according to confidential work by United Nations sanctions
+monitors seen by Reuters...
+
+#### Putin signs decrees appointing government ministers
+
+<span style="color: blue!80!green"><https://www.reuters.com/world/europe/putin-signs-decrees-appointing-government-ministers-2024-05-14/></span>
+
+Russian President Vladimir Putin signed decrees on Tuesday appointing
+all members of the government and planned a late-evening meeting with
+his new cabinet line-up, Kremlin spokesman Dmitry Peskov was quoted as
+saying by Russian news...
+
+#### Canadian town threatened by wildfire likely to avoid direct hit
+
+<span style="color: blue!80!green"><https://www.reuters.com/world/americas/canadian-town-threatened-by-wildfire-likely-avoid-direct-hit-2024-05-14/></span>
+
+A wildfire burning near Fort Nelson, in rural British Columbia has grown
+in size but is moving away from the town, offering some relief to
+residents who were forced to evacuate, a provincial wildfire service
+said on...
+
+#### Blinken, guitar in hand, tells Ukraine to keep ’rockin’ in the free world’
+
+<span style="color: blue!80!green"><https://www.reuters.com/world/europe/blinken-guitar-hand-tells-ukraine-keep-rockin-free-world-2024-05-14/></span>
+
+U.S. Secretary of State Antony Blinken on Tuesday picked up a red guitar
+at a basement bar in Kyiv with a message for Ukraine - that the U.S. and
+much of the world was fighting not just for Ukraine but for the free...
+
+#### Islamic State claims attack on army post in northern Iraq
+
+<span style="color: blue!80!green"><https://www.reuters.com/world/middle-east/islamic-state-claims-attack-army-post-northern-iraq-2024-05-14/></span>
+
+Islamic State claimed responsibility on Tuesday for an attack on Monday
+targeting an army post in northern Iraq which security sources said had
+killed a commanding officer and four...
+
+#### German far-right regional leader Hoecke fined for using banned Nazi slogan
+
+<span style="color: blue!80!green"><https://www.reuters.com/world/europe/german-far-right-regional-leader-hoecke-fined-by-court-using-banned-nazi-slogan-2024-05-14/></span>
+
+A leading member of Germanys far-right Alternative for Germany (AfD)
+party was fined on Tuesday by a court for using a banned Nazi
+paramilitary slogan, a court spokesperson...
+
+#### Mexico election 2024: Claudia Sheinbaum holds wide lead in latest poll
+
+<span style="color: blue!80!green"><https://www.reuters.com/world/americas/mexicos-presidential-frontrunner-sheinbaum-holds-wide-lead-latest-poll-2024-05-14/></span>
+
+Former Mexico City Mayor and ruling party candidate Claudia Sheinbaum
+held a comfortable, albeit slightly narrower lead over her closest rival
+ahead of the nations elections less than three weeks away, a poll showed
+on...
+
+#### Explainer: What is the history of the Israel-Palestinian conflict?
+
+<span style="color: blue!80!green"><https://www.reuters.com/world/middle-east/what-is-history-israel-palestinian-conflict-2024-05-14/></span>
+
+Israel and Hamas have been waging war since gunmen from the Palestinian
+militant group went on the rampage in southern Israel on Oct. 7, killing
+1,200 people and capturing 253 hostages. Israel responded with a
+military campaign in which...
+
+### 联合早报
+
+#### 杨丹旭：中国迎来涨价周期？
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240515-3664575></span>
+
+第二季度以来，中国经济出现了一些回暖迹象，一个重要的衡量经济热度的指标——消费者价格指数（CPI）连续三个月上涨。中国国家统计局最新数据显示，4月份CPI同比上涨0.3％，涨幅较前值略有扩大，也高于预期。
+去年初中国解除疫情防控，与很多国家在走出疫情后经济迅速反弹，通货膨胀困扰执政者，甚至变成政治压力不同，中国经济反而陷入低迷期。消费需求疲弱、CPI上涨乏力，倒成了一件让官方很头痛的事……
+
+#### 香港驻伦敦经贸办行政经理被控违反英国《国家安全法》 英中外交部掀骂战
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240515-3664207></span>
+
+香港驻伦敦经贸办行政经理袁松彪5月13日被控协助香港情报部门后，离开伦敦威斯敏斯特地方法院。（路透社）
+三名被告之一的Chi Leung Wai
+5月13日被控协助香港情报部门后，离开伦敦威斯敏斯特地方法院。（路透社）
+伦敦和北京间的摩擦升级，继中国外交部表示“严重关切”香港驻伦敦经贸办行政经理等三人被英国起诉协助香港情报组织后，英国外交部召见中国驻英大使，称有关间谍活动“不可接受”……
+
+#### 路透社爆美台海军4月曾“巧遇”军演
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240514-3664315></span>
+
+美国与台湾海军据报4月在太平洋进行不对外公开、“在正式名义下不存在”的联合军演。图为台湾海军1月31日在高雄军事基地附近的水域进行演习。（路透社）
+（台北 /
+北京综合讯）距离台湾总统就职典礼倒数五天，路透社星期二（5月14日）引述四名知情人士报道，美国与台湾海军4月在太平洋进行不对外公开、“在正式名义下不存在”的联合军演……
+
+#### 青海海西州中院疑“垂帘听审”被批
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240514-3664139></span>
+
+青海海西州中级法院上周六（5月11日）疑似通过微信群组实时向下级法院传达指令，遥控指挥庭审。（互联网）
+中国青海一县级法院近日公开审理涉及多名被告的寻衅滋事案，辩方律师当庭拍到上级法院领导通过微信实时遥控指挥庭审。事件曝光后引发中国舆论高度关注，有网民批评上级法院是在“垂帘听审”，也有律师批评事件严重破坏中国刑事诉讼制度，质疑两审终审制可能形同虚设，被现场揭发则实属罕见……
+
+#### 陈水扁特赦争议 台法务部报告：未判案件不在特赦范围内
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240514-3663977></span>
+
+台湾舆论近来围绕涉贪的前总统陈水扁是否该获得特赦的争议不断。（互联网）
+（台北综合讯）台湾舆论近来围绕涉贪的前总统陈水扁是否该获得特赦的争议不断。台湾法务部报告说明，未判案件不在特赦范围内，也意味着若陈水扁获得特赦，他所涉尚未审结的四起案件均无法特赦，未没收款项也不在特赦范围内。
+《镜周刊》上星期二（5月7日）报道，总统蔡英文决定于5月20日卸任前特赦陈水扁……
+
+#### 中菲合作遣返160余名在菲律宾从事离岸博彩的中国公民
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240514-3662955></span>
+
+（马尼拉综合讯）160余名在菲律宾从事离岸博彩的中国公民，星期二被中菲两国执法部门合作遣返。
+根据中国驻菲律宾大使馆星期二（5月14日）通报，这是中菲两国执法部门再次合作。去年12月和今年2月，中菲执法部门已先后联手遣返180名和40余名在菲律宾从事离岸博彩的中国公民……
+
+#### 中国商飞正研发C939新型宽体客机
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240514-3663745></span>
+
+中国商飞现有两种飞机机型投入商业运营，其中C919型窄体客机曾在今年2月举行的新加坡航空展上亮相。（路透社）
+（北京综合讯）中国商用飞机有限责任公司（简称中国商飞）正研发C939新型宽体客机，以便同波音和空中客车竞争。
+香港《南华早报》星期一（5月13日）报道引述知情人士指，中国商飞已勾画C939初步设计方案，但要从初步概念到制造出可进行测试的原型机，还需要多年时间……
+
+#### 深圳拟引入港铁东铁线 罗湖口岸将“一地两检”
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240514-3663340></span>
+
+（深圳/香港综合讯）香港铁路公司（港铁）九条铁路线之一的东铁线，未来有可能直接开进中国大陆深圳市罗湖区。罗湖口岸即将规划重建，以实现“一地两检”及50分钟车程……
+
+#### 安徽动物园20只东北虎死亡 当地成立调查组
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240514-3662874></span>
+
+安徽阜阳一野生动物园中一只东北虎长期被关在一间“小黑屋”里。（中国慈善家杂志微信公众号）
+（北京／阜阳综合讯）安徽阜阳一野生动物园被曝过去五年内20只东北虎死亡，以及大量野生动物非正常死亡，阜阳市成立调查组全面调查事件……
+
+#### 需求低迷 澳洲昆达士停飞上海
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240514-3662366></span>
+
+澳大利亚昆达士航空公司表示将继续密切关注澳中市场，并在需求恢复后重返上海。（路透社）
+（悉尼路透电）由于需求低迷，澳大利亚昆达士（Qantas）航空公司宣布将从7月28日起停飞其往返悉尼与上海的航线。
+据路透社星期二（5月14日）报道，昆达士在九个月前复飞上述航线。不过，昆达士总裁华勒思（Cam
+Wallace）说，澳大利亚和中国之间的旅行需求并未像预期那样强劲恢复……
+
+#### 民进党前副秘书长林飞帆 将任台国安会副秘书长
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240514-3662048></span>
+
+民进党前副秘书长林飞帆将在5月20日后出任台湾国家安全会议副秘书长。（互联网）
+（台北讯）去年因绿营性骚扰案风波而退出立委选举的民进党前副秘书长林飞帆，将在5月20日后出任台湾国家安全会议副秘书长。
+据《自由时报》报道，距离5月20日台湾总统就职典礼不到一周，总统副总统交接小组星期二（5月14日）再公布新人事。
+在总统府和国安会这一波新人事中，今年36岁的林飞帆成为外界关注焦点……
+
+#### 中美人工智能政府间对话首次会议 周二将于瑞士日内瓦举行
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240513-3657247></span>
+
+中美围绕人工智能（AI）课题举行政府间对话首次会议，将于星期二（5月14日）在瑞士日内瓦召开。（路透社）
+（北京/华盛顿综合讯）中美围绕人工智能（AI）课题举行政府间对话首次会议，星期二（5月14日）将在瑞士日内瓦召开。美国官员指出，会议旨在降低这项新兴科技带来的风险，但强调美国不会与中国政府就针对中资企业的技术保护政策展开谈判……
+
+#### 蓝营智库提出国安战略法草案 应对大陆“蟒蛇困台战法”
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240513-3655837></span>
+
+台湾退役海军上将、国民党立委陈永康星期一（5月13日）在发表会提出“国家安全战略法草案”。（温伟中摄）
+台湾候任总统赖清德下周宣誓就职，国民党智库国政基金会星期一（5月13日）提出“国家安全战略法草案”，为资源分配和跨部会协调提供法源基础，以应对中国大陆四路并进的“蟒蛇困台战法”……
+
+#### 国际特赦组织：中国“跨国打压”参与政治活动的海外留学生
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240513-3656655></span>
+
+（伦敦／北京综合讯）人权机构国际特赦组织称，中国正在将参与政治活动的海外留学生作为目标，一些中国学生称，他们在国内的家人受到了骚扰。中国外交部回应指，相关言论“纯属恶意抹黑之辞”。
+法新社报道，在对欧洲和北美八个国家的数十名海外中国学生进行访谈后，国际特赦组织星期一（5月13日）发布报告说，北京对民众参与政治活动的限制，正以“跨国打压”的形式日益向海外扩张……
+
+#### 中国国家安全部：“外国教授”借学术合作窃取敏感数据
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240513-3655816></span>
+
+（北京讯）中国国家安全部称，一些境外人员以学术合与生态调研作为掩护，搜集与窃取非传统领域的各类敏感数据，为国家安全带来风险隐患。
+中国国家安全部星期一（5月13日）在微信公号发文称，一些境外非政府组织或基金会近年来打着“项目调查研究” “生态治理保护”的旗号，非法采集、窃取中国重要自然保护区的地理、气象、生物等敏感数据……
+
+#### 抖音辟谣不可发布时政财经等内容
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240513-3655478></span>
+
+抖音指出，调整商业素材发布授权功能，不影响创作者的其他变现或者商业化能力，包括自行发布商业素材、广告、电商等，也不涉及内容创作。（档案照片）
+（北京/上海综合讯）中国短视频平台抖音辟谣，称网抖音传限制发布社会时政、财经、法律或医疗等相关内容为不实信息，而是对商业素材发布授权功能做出调整……
+
+#### 中国多地发生数起致命工业和交通意外
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240512-3652283></span>
+
+（北京综合讯）中国多地近期发生数起致命事故，继湖北一家化工厂发生爆炸后，辽宁一家药企生产车间星期天也发生致命火灾。
+据新华社报道，辽宁省锦州市九泰药业生产车间星期天（5月12日）凌晨突发大火。事故造成两人受伤，送医抢救无效后死亡。截至星期天下午，现场大火已被扑灭，事故原因仍在调查中。
+官媒央视新闻星期天也报道另一起发生在5月9日的工业意外……
+
+#### 工作强度大收入低待遇差 中国护士缺口近400万人
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240512-3652027></span>
+
+中国山西省太原市妇幼保健院资深护理人员星期六（5月11日）为新护士授帽，迎接国际护士节。 （中新社）
+（北京综合讯）中国官媒报道，由于工作强度大、收入低待遇差等问题影响，目前中国的护士缺口接近400万人。
+星期天（5月12日）是国际护士节。《法治日报》星期六（11日）报道，因工作强度大、收入低待遇差、职业认可度不高等问题困扰着中国护士群体，导致队伍流动性大、人才流失现象严重，护士数量缺口巨大……
+
+
+
+
+-----------------------------------
+
+Copyright © 2023-2024 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

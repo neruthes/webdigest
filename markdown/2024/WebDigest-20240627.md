@@ -1,0 +1,987 @@
+Other formats: [PDF](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/webdigest/WebDigest-20240627.pdf--817cc614b1feb8c48500ca6baed4724d.pdf) / [HTML](https://webdigest.pages.dev/readhtml/2024/WebDigest-20240627.html)
+
+
+# Web Digest 2024-06-27
+
+
+## Developers
+
+### Hacker News
+
+#### Coup Attempt in Bolivia
+
+<span style="color: blue!80!green"><https://www.bloomberg.com/news/articles/2024-06-26/bolivia-presidential-palace-stormed-in-apparent-coup-attempt></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=40804645></span>
+
+#### Cloudflare automatically fixes Polyfill.io for free sites
+
+<span style="color: blue!80!green"><https://blog.cloudflare.com/automatically-replacing-polyfill-io-links-with-cloudflares-mirror-for-a-safer-internet></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=40804317></span>
+
+#### The Forth Deck mini: a portable Forth computer with a discrete CPU
+
+<span style="color: blue!80!green"><http://mynor.org/my4th_forthdeck.htm></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=40804122></span>
+
+#### Figma Slides
+
+<span style="color: blue!80!green"><https://www.figma.com/slides/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=40802676></span>
+
+#### Figma AI
+
+<span style="color: blue!80!green"><https://www.figma.com/blog/introducing-figma-ai/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=40802423></span>
+
+#### Anthropic: Expanding Access to Claude for Government
+
+<span style="color: blue!80!green"><https://www.anthropic.com/news/expanding-access-to-claude-for-government></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=40802334></span>
+
+#### Millions of Taxpayers Call the IRS for Help. Two-Thirds Don’t Reach Anyone
+
+<span style="color: blue!80!green"><https://www.wsj.com/personal-finance/taxes/irs-customer-service-phone-call-data-fe7c0e65></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=40802296></span>
+
+#### Supreme Court strikes anti-corruption law that bars officials from taking gifts
+
+<span style="color: blue!80!green"><https://www.latimes.com/world-nation/story/2024-06-26/supreme-court-anti-corruption-law></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=40801971></span>
+
+#### Rabbit failed to properly reset keys: emails can be sent from rabbit.tech domain
+
+<span style="color: blue!80!green"><https://rabbitu.de/articles/security-disclosure-2></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=40801523></span>
+
+#### Things you didn’t know about GNU readline (2019)
+
+<span style="color: blue!80!green"><https://twobithistory.org/2019/08/22/readline.html></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=40801475></span>
+
+#### One Million Checkboxes
+
+<span style="color: blue!80!green"><https://onemillioncheckboxes.com/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=40800869></span>
+
+#### If you’re using Polyfill.io code on your site – remove it immediately
+
+<span style="color: blue!80!green"><https://www.theregister.com/2024/06/25/polyfillio_china_crisis/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=40800734></span>
+
+#### Show HN: R2R V2 – A open source RAG engine with prod features
+
+<span style="color: blue!80!green"><https://github.com/SciPhi-AI/R2R></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=40799791></span>
+
+#### Ghosts in the ROM (2012)
+
+<span style="color: blue!80!green"><https://www.nycresistor.com/2012/08/21/ghosts-in-the-rom/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=40799090></span>
+
+#### Half of Workers Around the World Are Struggling with Burnout
+
+<span style="color: blue!80!green"><https://www.bcg.com/press/11june2024-half-of-workers-around-the-world-struggling-with-burnout></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=40799038></span>
+
+#### FICO and the Credit Bureau Cartel
+
+<span style="color: blue!80!green"><https://www.thebignewsletter.com/p/inside-fico-and-the-credit-bureau></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=40797217></span>
+
+#### Google dropping continuous scroll in search results
+
+<span style="color: blue!80!green"><https://searchengineland.com/google-dropping-continuous-scroll-in-search-results-443529></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=40797130></span>
+
+#### Vigorous Exercise, Cognitive Decline, and High Blood Pressure
+
+<span style="color: blue!80!green"><https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13887></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=40796459></span>
+
+#### Brazil’s Supreme Court decriminalizes marijuana
+
+<span style="color: blue!80!green"><https://www.bloomberg.com/news/articles/2024-06-25/brazil-supreme-court-decriminalizes-marijuana-for-personal-use></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=40795404></span>
+
+#### The album art of Phil Hartmann (2022)
+
+<span style="color: blue!80!green"><https://www.conorherbert.com/music/the-album-art-of-phil-hartmann></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=40795227></span>
+
+### Phoronix
+
+#### Intel Compute Runtime 24.22.29735.20 Brings Latest OpenCL & Level Zero Support On Linux
+
+<span style="color: blue!80!green"><https://www.phoronix.com/news/Intel-CR-24.22.29735.20></span>
+
+#### Arch Linux Installer "Archinstall" 2.8.1 Adds Experimental LVM Support
+
+<span style="color: blue!80!green"><https://www.phoronix.com/news/Archinstall-2.8.1-Released></span>
+
+#### COSMIC Alpha Desktop Release Still Planned For Late July
+
+<span style="color: blue!80!green"><https://www.phoronix.com/news/COSMIC-Alpha-Next-Month></span>
+
+#### Canonical Offers Up 12 Year "Everything LTS" For Docker Images
+
+<span style="color: blue!80!green"><https://www.phoronix.com/news/Canonical-12Year-Everything-LTS></span>
+
+#### Rust-Written OpenCL Driver Now Works On Raspberry Pi GPUs
+
+<span style="color: blue!80!green"><https://www.phoronix.com/news/Rusticl-V3D-OpenCL-Raspberry-Pi></span>
+
+#### AMDVLK 2024.Q2.3 Release Brings Few Changes
+
+<span style="color: blue!80!green"><https://www.phoronix.com/news/AMDVLK-2024.Q2.3></span>
+
+#### Intel Vulkan Driver Enables Cooperative Matrix Support For Xe2 GPUs
+
+<span style="color: blue!80!green"><https://www.phoronix.com/news/Intel-Xe2-Coop-Matrix-Enable></span>
+
+#### GCC 15 Adds NVIDIA Grace CPU Support With "-mcpu=grace" Option
+
+<span style="color: blue!80!green"><https://www.phoronix.com/news/GCC-15-NVIDIA-Grace-CPU></span>
+
+#### openSUSE Leap Micro 6.0 Now Available For Container & VM Needs
+
+<span style="color: blue!80!green"><https://www.phoronix.com/news/openSUSE-Leap-Micro-6.0></span>
+
+### GitHub
+
+#### ente-io/ente
+
+<span style="color: blue!80!green"><https://github.com/ente-io/ente></span>
+
+Fully open source, End to End Encrypted alternative to Google Photos and
+Apple Photos  
+Language: Dart  
+Stars: 10703  
+Forks: 594
+
+#### codecrafters-io/build-your-own-x
+
+<span style="color: blue!80!green"><https://github.com/codecrafters-io/build-your-own-x></span>
+
+Master programming by recreating your favorite technologies from
+scratch.  
+Language: Unknown  
+Stars: 279060  
+Forks: 26219
+
+### Dribbble
+
+#### Give me the money!
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24411866></span>
+
+#### HHC Living Brand Pattern
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24244791></span>
+
+#### Gorilla Surf
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24410947></span>
+
+#### 3D Illustrations For MAF
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24410053></span>
+
+#### Illustration \[ work in progress \]
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24412845></span>
+
+#### The Archer
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24406768></span>
+
+#### Rumble Golf Brand Identity
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24401074></span>
+
+#### Sours & Cobblers
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/23262650></span>
+
+#### Lotus Flower
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24400848></span>
+
+#### Happy Walkcycle
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24214457></span>
+
+#### Doug
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24389084></span>
+
+#### Creative Works West
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24391255></span>
+
+#### Kite
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24384267></span>
+
+#### Illustration
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24385039></span>
+
+#### Simms Fishing Products - Artist Series
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24386272></span>
+
+#### Gentry Brand: Full Preview
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24383307></span>
+
+#### Smoke city
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24386052></span>
+
+#### Configuration
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24382910></span>
+
+#### AI chats
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24383857></span>
+
+#### Heart of Africa
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24326208></span>
+
+#### Strength Over Temptation
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24374619></span>
+
+#### Apple no.5
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24383202></span>
+
+#### LIFE
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24387596></span>
+
+#### R2 Ride / iOS App
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/24384467></span>
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### 韩国 ISP 用恶意程序感染 Webhard 用户 
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=78537></span>
+
+#### 火箭残骸被拍下坠落在村庄附近
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=78536></span>
+
+#### Telegram 称它只有 30 名工程师，安全专家对此表示担忧
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=78535></span>
+
+#### Google 将用分页而不是滚动显示搜索结果
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=78534></span>
+
+#### OpenAI 对中国地区停止 API 服务
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=78533></span>
+
+#### WHO 称近三分之一成年人缺乏锻炼
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=78532></span>
+
+#### 富裕国家的生育率创下历史新低
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=78531></span>
+
+#### 网游上的纠纷变成线下谋杀
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=78530></span>
+
+#### Stability AI 获得新一轮投资
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=78529></span>
+
+#### 中国批准减肥药 Wegovy
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=78528></span>
+
+#### 不是所有声称开源的 AI 模型是真的开源
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=78527></span>
+
+#### CSDN 克隆了大部分 GitHub 公开代码库
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=78526></span>
+
+#### 嫦娥六号返回器返回地面
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=78525></span>
+
+#### 极端野火更常见更暴力
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=78524></span>
+
+#### 微软产品捆绑 Teams 被控违反欧盟反垄断法
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=78523></span>
+
+#### Firefox Nightly 引入实验性生成式 AI 功能
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=78522></span>
+
+#### WordPress 插件被植入后门
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=78521></span>
+
+#### 微软删除在 Windows 11 上切换本地账号的指南
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=78520></span>
+
+#### 科技大厂将员工推向极限
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=78519></span>
+
+#### 印尼国家数据中心遭勒索软件攻击
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=78518></span>
+
+### V2EX
+
+#### \[Android\] TWS 耳机求推荐
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052947></span>
+
+#### \[Apple\] 继安徽电信解封 imessage 后，湖北电信也解封了
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052946></span>
+
+#### \[酷工作\] v 友们，能否帮我分析一下关于找工作的一些问题。
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052945></span>
+
+#### \[Linux\] 求熟悉 Linux 内核编译的小伙伴指导以下 rock5b plus 板子的 Linux 内核编译问题
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052944></span>
+
+#### \[Android\] 红米 k60 至尊版 vs 红米 note12turbo vs 一加 ace3v，怎么选？二手机价格都差不多
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052941></span>
+
+#### \[Apple\] 在油管看到评论说 AirPlay 要支持播放 dolbyatmos
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052940></span>
+
+#### \[分享创造\] 分享下花了一段时间开发的 Java 字节码混淆加密工具
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052939></span>
+
+#### \[Android\] 大佬们 天玑 9200+ 刷机包多吗
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052938></span>
+
+#### \[iCloud\] iOS18 Beta2 导致其他存储空间暴增到 56.8GB 无法删除
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052936></span>
+
+#### \[酷工作\] \[成都\] 支付宝 \| 部门直招 流程快 Java P7
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052934></span>
+
+#### \[问与答\] 游戏论坛求推荐
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052932></span>
+
+#### \[OpenAI\] 如何绕开 Copilot 的屏蔽话题机制变成可正常回答？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052931></span>
+
+#### \[问与答\] 求推荐高性能网盘
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052930></span>
+
+#### \[OpenAI\] 推荐个迁移 openai api 比较便捷的方式
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052929></span>
+
+#### \[问与答\] 请教下关于家庭组网的几个问题
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052928></span>
+
+#### \[分享发现\] 给大家分享一个免费拥有企业邮箱的方法
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052927></span>
+
+#### \[程序员\] 聊聊 OpenAI API 检测机制，顺便分享下国内大模型 API 性能指标（TPS、TTFT、 Context 等）
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052926></span>
+
+#### \[分享发现\] 大量开发者要求 Gitcode 删除账号和项目 但要想删除请先授权 Github 账号
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052925></span>
+
+#### \[程序员\] raid0，有办法把一个盘(100G，实际只用了 20G)热迁移到另外一块盘(30G)吗？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052924></span>
+
+#### \[问与答\] 无法引入 web 分析工具，怎么办？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052923></span>
+
+#### \[程序员\] 是否应该听领导的
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052921></span>
+
+#### \[投资\] 学业之余想挣点儿奶茶钱
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052920></span>
+
+#### \[PHP\] 有偿解密 PHP 文件
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052919></span>
+
+#### \[macOS\] 低于 14 版本的 mac 有 chatgpt mac 版本平替的软件么？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052918></span>
+
+#### \[问与答\] 在 cloudflare 通过 let’s encrypt 申请证书，相同的操作转移到 cf 的域名就成功，解析到 cf 的域名就失败，为什么呀
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052917></span>
+
+#### \[教育\] 表妹今年高考 590 分多一点，对数学、物理感兴趣，计算机、电子这个也还行，求推荐学校
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052915></span>
+
+#### \[分享发现\] it 行业面试轮数多，问题五花八门，是对别人的不信任吗？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052914></span>
+
+#### \[硬件\] 12400f+华硕 b610m，无风扇开机 CPU 86 度正常不
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052913></span>
+
+#### \[程序员\] 前途如何抉择
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052912></span>
+
+#### \[程序员\] 1Password 7 的经典浏览器扩展又不能用了，这个公司真是恶心，逼着 1Password 7 买断版用户用它的 1Password 8 订阅版
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052911></span>
+
+#### \[职场话题\] 通过写代码来逃避业务的焦虑
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052910></span>
+
+#### \[外汇交易\] 现在适合抄底日元吗
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052909></span>
+
+#### \[问与答\] 想找个国内 API 版本的 chat web
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052908></span>
+
+#### \[奇思妙想\] 翻看 BewlyBewly 插件的源码，没想到看到了这么一段
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052906></span>
+
+#### \[宽带症候群\] 要怎么证明自家的宽带上下行不达标？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052905></span>
+
+#### \[VXNA\] 申请收录 https://blog.avezah.com/atom.xml
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052904></span>
+
+#### \[NAS\] NAS 软件：资源自动发现和下载，支持调用迅雷下载
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052903></span>
+
+#### \[程序员\] 想统计一下，有多少前端的 v 友会在开发中使用语义化 html？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052902></span>
+
+#### \[问与答\] 电视无法安装 Google Play 还能从哪里下载 Plex 啊？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052900></span>
+
+#### \[分享创造\] 想分享一下自己的还非常不成熟的产品
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052899></span>
+
+#### \[互联网\] 使用 c 某 dn 的程序员是一种什么心理？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052898></span>
+
+#### \[问与答\] 笔记本主板限制怎么升级大内存
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052897></span>
+
+#### \[问与答\] 有没有适用于大文件协同编辑及排版的工具
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052896></span>
+
+#### \[程序员\] BestBlogs.dev 精选文章 第 8 期
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052895></span>
+
+#### \[问与答\] 爱投屏 的安卓电视版哪个地方有最新版下载？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052893></span>
+
+#### \[问与答\] 利用 AI 技术第一次感受道德压力
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052892></span>
+
+#### \[Linux\] lxc 容器访问 k3s 的 nodeport 不通的问题。
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052890></span>
+
+#### \[酷工作\] 招 Java 高级工程师!
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052889></span>
+
+#### \[宽带症候群\] 家庭带宽被 DDOS 会出现什么效果？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052888></span>
+
+#### \[职场话题\] 佩服那些频繁换工作的人
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1052887></span>
+
+## Generic News
+
+### AP News
+
+#### Ex-“Jackass” star Bam Margera will spend six months on probation after plea over family altercation
+
+<span style="color: blue!80!green"><https://apnews.com/article/eb842909c083b6577f47eb379ce08f88></span>
+
+WEST CHESTER, Pa. (AP) — Former “Jackass” star Bam Margera will spend
+six months on probation after pleading guilty to disorderly conduct
+Wednesday over an altercation at his home near Philadelphia. Margera,
+44, had been charged with...
+
+#### Feds charge 5, including man acquitted at trial, with attempting to bribe Minnesota juror with \$120K
+
+<span style="color: blue!80!green"><https://apnews.com/article/a37cef15106e7c9dbbbcd62f9125613a></span>
+
+MINNEAPOLIS (AP) — Five people were charged on Wednesday with trying to
+bribe a juror in one of the country’s largest COVID-19-related fraud
+cases with a bag of \$120,000 in cash, the U.S. Attorney’s Office and
+the FBI announced...
+
+#### Wind-driven wildfire spreads outside a central Oregon community and prompts evacuations
+
+<span style="color: blue!80!green"><https://apnews.com/article/0bdfe630d379b6736b7796fbcf7848ef></span>
+
+LA PINE, Ore. (AP) — A wind-driven wildfire spread Wednesday outside a
+central Oregon community, where residents of numerous homes and
+businesses were urged to evacuate, authorities said. The Darlene 3 Fire
+grew to nearly 4 square...
+
+#### Alex Morgan left off the 18-player U.S. soccer roster headed to the Olympics
+
+<span style="color: blue!80!green"><https://apnews.com/article/c6fdd80ab9ce3744fd7138c457bcdefb></span>
+
+U.S. national team forward Alex Morgan was left off coach Emma Hayes’
+roster for the Paris Olympics. Morgan, a four-time Olympic veteran, was
+the most notable absence on the 18-player roster that Hayes announced on
+Wednesday. The 34-year...
+
+#### No charges for London driver who had seizure and plowed into a school, killing 2 children
+
+<span style="color: blue!80!green"><https://apnews.com/article/1b0ff0fd96e79ae662a8536af506d8b1></span>
+
+LONDON (AP) — The driver of a 4x4 who plowed into a school in southwest
+London in July, killing two children, suffered a seizure that could not
+have been predicted and will face no criminal charges, police said
+Wednesday. London’s...
+
+#### Cable car collapse in Colombia leaves at least 1 dead and 12 injured, officials say
+
+<span style="color: blue!80!green"><https://apnews.com/article/2d1be5aaf13785d0a89b05288d0f4d42></span>
+
+MEDELLIN, Colombia (AP) — At least one person died and 12 others were
+injured Wednesday when a cable car collapsed in Medellín, Colombia’s
+second-largest city, officials said. The manager of the cable car
+system, Tomás Elejalde, told...
+
+#### Closing arguments starting in class-action lawsuit against NFL by ‘Sunday Ticket’ subscribers
+
+<span style="color: blue!80!green"><https://apnews.com/article/1a3d5b7d1b10fe0e852f144f2168b834></span>
+
+LOS ANGELES (AP) — The jury in the class-action lawsuit filed by “Sunday
+Ticket” subscribers will receive instructions and hear closing arguments
+on Wednesday before beginning deliberations. U.S. District Judge Philip
+Gutierrez will...
+
+#### Afghanistan-South Africa T20 World Cup semifinal pits cricket’s overachievers against underachievers
+
+<span style="color: blue!80!green"><https://apnews.com/article/ccf2b0270f5a293847d6d38de214f4ff></span>
+
+TAROUBA, Trinidad (AP) — Rashid Khan was hoisted on the shoulders of his
+celebrating Afghan teammates and then joined in a circle with the squad
+and took his turn to dance on the field, all beamed live for the TV
+audience. The joy of...
+
+#### Native American ceremony will celebrate birth of white buffalo calf in Yellowstone park
+
+<span style="color: blue!80!green"><https://apnews.com/article/801ff8362d3dcae810d179bc4ad146a3></span>
+
+HELENA, Mont. (AP) — Ceremonies and celebrations are planned Wednesday
+near the west entrance of Yellowstone National Park to mark the recent
+birth of a white buffalo calf in the park, a spiritually significant
+event for many Native...
+
+#### Knicks set to acquire Mikal Bridges in a trade from the Brooklyn Nets, AP sources say
+
+<span style="color: blue!80!green"><https://apnews.com/article/ee33432d46ba2214b4d6b3bdc84c1cdb></span>
+
+NEW YORK (AP) — Mikal Bridges is being traded by the Brooklyn Nets to
+the New York Knicks, where he will join Jalen Brunson and his other
+former Villanova teammates, two people with knowledge of the details
+said Tuesday. The first trade...
+
+#### Gena Rowlands has Alzheimer’s, her son Nick Cassavetes says
+
+<span style="color: blue!80!green"><https://apnews.com/article/a3d21efc26f418b7dbd2d5d1b8434b0c></span>
+
+NEW YORK (AP) — The celebrated actor and honorary Academy Award
+recipient Gena Rowlands is suffering from Alzheimer’s disease, her son,
+the filmmaker Nick Cassavetes, has revealed. Cassavetes, in an interview
+with Entertainment Weekly...
+
+#### Chanel goes to the opera in a gleaming but designer-less couture collection
+
+<span style="color: blue!80!green"><https://apnews.com/article/1b5f090472acd5f26a79720c3f4aa780></span>
+
+PARIS (AP) — The show must go on, with aplomb. Chanel’s latest couture
+display Tuesday was a finely executed collection channeling
+theatricality. Few Parisian fashion houses can fill the Paris Opera and
+gain applause from Vogue editor...
+
+#### Korean Air, Malaysia Airlines flights disrupted by pressurization problems
+
+<span style="color: blue!80!green"><https://apnews.com/article/a70a54cc08e5f73943b1e14197de3742></span>
+
+SEOUL, South Korea (AP) — A Korean Air flight to Taiwan was forced to
+return to Incheon airport west of Seoul after a sudden depressurization
+on the plane, a Boeing 737 Max 8, the transport ministry said Tuesday.
+The ministry said 19 of...
+
+### Reuters
+
+#### Sunak and Starmer clash in testy final UK TV debate
+
+<span style="color: blue!80!green"><https://www.reuters.com/world/uk/sunak-starmer-clash-testy-final-uk-tv-debate-2024-06-26/></span>
+
+British Prime Minister Rishi Sunak and Labour leader Keir Starmer went
+head-to-head on Wednesday in their last debate before an election next
+week, with both launching highly personal attacks over their and their
+parties...
+
+#### US religious freedom report notes violence against Indian minorities
+
+<span style="color: blue!80!green"><https://www.reuters.com/world/india/us-religious-freedom-report-notes-violence-against-indian-minorities-2024-06-26/></span>
+
+The U.S. State Departments 2023 religious freedom report on India noted
+violent attacks on minority groups, especially Muslims and Christians,
+including killings, assaults and vandalism of houses of...
+
+#### Bolivia president Arce orders general to call off military action
+
+<span style="color: blue!80!green"><https://www.reuters.com/world/americas/bolivia-president-arce-orders-general-call-off-military-action-2024-06-26/></span>
+
+Bolivian President Luis Arce demanded on Wednesday that General Juan
+Jose Zuniga demobilize soldiers that have taken over the capitals
+central square, which has drawn strong international condemnation of an
+attempted...
+
+#### Philippines has not sought US resupply support in China dispute -ambassador
+
+<span style="color: blue!80!green"><https://www.reuters.com/world/philippines-has-not-sought-us-resupply-support-china-dispute-ambassador-2024-06-26/></span>
+
+The Philippines has not asked the United States for support in
+resupplying its troops in a stand-off with China in the disputed South
+China Sea, its Washington ambassador said on Wednesday, adding that the
+U.S. was providing only "...
+
+#### Global reaction to armed forces mobilizing in Bolivia
+
+<span style="color: blue!80!green"><https://www.reuters.com/world/americas/regional-reaction-armed-forces-mobilizing-bolivia-2024-06-26/></span>
+
+Bolivian armed forces took over the central square in La Paz on
+Wednesday and an armored vehicle rammed the entrance to the presidential
+palace as leftist President Luis Arce slammed an attempted coup against
+the government and called for...
+
+#### Bolivia’s Arce says country facing coup as soldiers seize central square
+
+<span style="color: blue!80!green"><https://www.reuters.com/world/americas/bolivias-president-slams-irregular-mobilization-army-units-2024-06-26/></span>
+
+Bolivian armed forces took over the central square in La Paz on
+Wednesday and an armored vehicle rammed the entrance to the presidential
+palace as leftist President Luis Arce slammed a "coup" against the
+government and called for...
+
+#### Mexico’s Sheinbaum vows to raise minimum wage, build infrastructure, without tax hikes
+
+<span style="color: blue!80!green"><https://www.reuters.com/world/americas/mexicos-sheinbaum-vows-raise-minimum-wage-build-infrastructure-without-tax-hikes-2024-06-26/></span>
+
+Mexican President-elect Claudia Sheinbaum said on Wednesday that she has
+no plans to increase taxes for the general population but that her
+administration would continue to invest in major infrastructure projects
+and increase the minimum...
+
+#### Israel preparing to increase water supply for Gazans, sources say
+
+<span style="color: blue!80!green"><https://www.reuters.com/world/middle-east/israel-preparing-increase-water-supply-gazans-sources-say-2024-06-26/></span>
+
+Israel, under pressure from Western allies to ease a humanitarian crisis
+in Gaza, is preparing to boost electricity to a desalination plant so it
+can produce more water for people in the enclave, an Israeli security
+official and a western...
+
+#### US State Department says Julian Assange’s actions put people at risk
+
+<span style="color: blue!80!green"><https://www.reuters.com/world/us-state-department-says-julian-assanges-actions-put-people-risk-2024-06-26/></span>
+
+The U.S. State Department said on Wednesday its involvement in the
+resolution of Julian Assanges case was very limited but a department
+spokesperson reiterated the American position that the WikiLeaks
+founder...
+
+#### US keeps pause on one bomb shipment to Israel while it is under review
+
+<span style="color: blue!80!green"><https://www.reuters.com/world/israeli-defense-chief-says-progress-made-munitions-supply-us-talks-2024-06-26/></span>
+
+U.S. President Joe Bidens top aides told the visiting Israeli defense
+chief this week that Washington is maintaining a pause on a shipment of
+heavy bombs for Israel while the issue is under review, a senior U.S.
+official...
+
+#### Argentina trial starts into gun attack on ex-President Cristina Kirchner
+
+<span style="color: blue!80!green"><https://www.reuters.com/world/americas/argentina-trial-starts-into-gun-attack-ex-president-cristina-kirchner-2024-06-26/></span>
+
+An Argentina court began the oral trial on Wednesday against three
+individuals accused of attempting to assassinate former President
+Cristina Fernandez de Kirchner in September 2022, when she was attacked
+with a loaded pistol that failed...
+
+#### UN aid chief concerned by possible expansion of Gaza war
+
+<span style="color: blue!80!green"><https://www.reuters.com/world/middle-east/un-aid-chief-concerned-by-possible-expansion-gaza-war-2024-06-26/></span>
+
+The United Nations aid chief said on Wednesday he was concerned by the
+possible spread of the Gaza war across the region, including to the West
+Bank, despite aid agencies being adequately prepared for that...
+
+#### French court upholds warrant for Syria’s Assad over chemical weapons
+
+<span style="color: blue!80!green"><https://www.reuters.com/world/french-court-upholds-warrant-syrias-assad-over-chemical-weapons-2024-06-26/></span>
+
+A French appeals court on Wednesday upheld an arrest warrant issued for
+Syrian President Bashar al-Assad over the use of banned chemical weapons
+against...
+
+### 联合早报
+
+#### 陈婧：再喝一杯咖啡，告别上海
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240627-3982415></span>
+
+四年前刚到上海时，朋友说：你来的真不巧，现在是最讨人厌的梅雨季。每天都在下雨，却一点也不凉快，只觉得湿哒哒，黏糊糊。
+我心想：这不就是新加坡的日常？
+四年后的今天，我和上海朋友见面时，自然而然就抱怨起梅雨季节的闷热黏稠。习惯了四季分明的气候，很难想象马上要回到常夏多雨的热带岛国……
+
+#### 中国国台办：主动放弃“台独”者 可不追究部分甚至全部刑事责任
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240626-3982362></span>
+
+中国国台办星期三（6月26日）在北京举行例行新闻发布会，发言人朱凤莲（台上）邀请记者提问。（新华社）
+（北京 /
+台北综合讯）北京上周发布惩治台独的司法解释文件，强调对台独分子最重可判处死刑。不过，中国国务院台湾事务办公室星期三称，主动放弃台独分裂立场者，可以不追究部分甚至全部刑事责任……
+
+#### 香港多所中小学被促改善唱国歌声线或态度
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240626-3983120></span>
+
+（香港综合讯）香港教育局公布了当地20所中小学的校外评核报告，当中涉及国民教育内容备受争议，多所中小学被要求改善唱中国国歌时的声线或态度。
+香港教育局星期三（6月26日）在官网发文解释，相关评论目的是协助学校完善国民教育工作，让学生在升旗礼更能展现对国家的认同和归属感……
+
+#### 台参谋总长指解放军威胁可能“由演转战” 汉光演习要让台军快速转变状态
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240626-3983169></span>
+
+台湾参谋总长梅家树星期三（6月26日）到立法院备询。这是台湾的参谋总长第二次到立法院备询。（自由时报）
+台湾参谋总长梅家树星期三指出，近年中国大陆的威胁有可能“由演转战”，所以今年7月汉光演习的重点，是台军要能从灰色地带快速转换成备战，快速从平时状态转换成战时状态，并针对解放军攻台可能的行动及其战力增长，去调整作战思维……
+
+#### 中国《治安管理处罚法》修订草案 不再使用“伤害民族感情”表述
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240626-3982819></span>
+
+人们在上海黄浦区过马路，图片拍摄于今年6月6日。（法新社）
+（北京综合讯）中国《治安管理处罚法》修订草案将不再使用“有损中华民族精神” “伤害中华民族感情”等主观色彩较强的表述。
+综合《人民日报》和《21世纪经济报道》报道，中国全国人大常委会本次会议星期二（6月25日）召开，听取全国人大宪法和法律委员会副主任委员沈春耀作的关于《治安管理处罚法修订草案》修改情况的汇报……
+
+#### 中国气候特使：美对华电动车加征关税问题 不应引入全球气候变化谈判
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240626-3982017></span>
+
+（大连讯）中国不希望美国把对华电动车加征关税措施，引到多边气候变化谈判，称如果这个问题介入，整个多边气候变化合作就会完全垮掉。
+据澎湃新闻报道，中国气候变化事务特使刘振民星期二（6月25日）在世界经济论坛第15届新领军者年会（又称“夏季达沃斯论坛”）一场名为“在充满竞争的世界格局中发挥气候领导力”的专题会议中说：“过去一年，中美在积极推动双边气候合作……
+
+#### 中国截获美国军机在南中国海投放潜艇探测器
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240626-3983053></span>
+
+（北京讯）据中国官媒社交网站星期三披露，中国海警近日截获美国军机在南中国海投放的潜艇探测器。
+中央广播电视总台旗下社交网站账号“玉渊谭天”，星期三（6月26日）刊登一则附带视频的帖文指，近日中国海警在南中国海巡航时，发现美国军机在南中国海海域上空盘旋，且不断向下投放不明电子物品。事发后，中国海警立即前往该海域展开打捞，并对不明物品进行检查……
+
+#### 台湾驻美代表俞大㵢否认滥用公务资源享奢华待遇
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240626-3981960></span>
+
+台湾驻美国代表俞大㵢去年12月抵达美国华盛顿履新。他当时受访说，未来的工作主轴，主要是安全、经贸合作和台湾的国际空间。（台湾驻美国代表处脸书专页）
+（华盛顿综合讯）台湾驻美国代表俞大㵢被指滥用公务资源享受奢华驻外待遇，他星期二亲自回应外界质疑，承认有搭公务车和家人赏樱，但否认官邸半年支出多达800万元（新台币，下同，33万3792新元）……
+
+#### 秘鲁据报撤回取消中企港口独家经营权
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240626-3981594></span>
+
+船只停泊在中企控股建设的秘鲁巨型港口钱凯港工地附近。图片拍摄于去年8月22日。（路透社档案照）
+（利马综合讯）消息人士称，秘鲁总统博鲁阿尔特访华前，秘鲁官方撤回此前取消一家中国企业对秘鲁超大型港口独家运营权的请求。
+秘鲁政府今年3月要求取消中国央企中远海运在秘鲁钱凯港的独家运营权，称2021年授予中远海运独家运营权是一个“行政错误”……
+
+#### 李家超：完成23条立法是上任至今最具满足感的政策
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240626-3980971></span>
+
+香港特首李家超接受专访时说，完成《基本法》第23条立法，是他上任近两年感受最深、最具满足感的政策。图为李家超6月18日上午出席行政会议前会见传媒。（中新社）
+（香港综合讯）香港特区行政长官李家超日前接受港媒专访时说，完成《基本法》第23条立法，是他上任近两周年感受最深、最具满足感的政策，但仍要提防来自海外的政治风险……
+
+#### 杨丹旭：中国核潜艇要“下饺子”了？
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240626-3978369></span>
+
+中国海军潜艇部队成立70周年之际，央视军事频道上周播出一段潜艇部队宣传片，当中释放的一些信息，连日来成为中国军迷热议的话题。
+一名海军潜艇支队军官在宣传片中，用八个字对解放军潜艇部队的发展做了总结：“核常兼备、以核为主”。
+这八个字被视为对中国潜艇部队建设的一个权威概括，尤其是当中“以核为主”四个字，被认为揭开了潜艇部队的神秘面纱，预示着中国未来会着重发展核动力潜艇……
+
+#### 一对日本母子苏州遭无业男子持刀捅伤
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240625-3977855></span>
+
+（北京综合讯）中国再次发生外国人被袭击事件。两名日本侨民在江苏省苏州市被一名无业中国男子持刀捅伤，另一名中国人因试图阻止嫌犯行凶而受重伤。
+日本放送协会中文网星期二（6月25日）引述日本驻上海总领事馆消息报道，苏州日本人学校的一辆校车，星期一下午载着放学回家的孩子抵达公交车站时，遭一名中国男子持刀袭击，一对日本母子和一名中国女子受伤……
+
+#### 传新华社记者“监制”台电视台政论节目 台湾政府要展开行政调查
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240625-3978085></span>
+
+台湾政府的大陆委员会主任委员邱垂正证实，台湾某电视台所制播的政论节目，中国大陆官媒新华社驻台记者均直接在录影棚盯梢，要发挥“以台制台”效果，陆委会跟文化部主管机关会一起做行政调查。
+邱垂正星期二（6月25日）是在立法院会答复在野国民党立委谢龙介质询时，作上述表示。他并称，该名新华社驻台记者赵博已轮调返回大陆了……
+
+#### 越南总理访华吁管控好海上问题
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240625-3977870></span>
+
+中国国务院总理李强（中间花盆右）星期一下午在大连会见越南总理范明政（中间花盆左）。（新华社）
+越南总理范明政星期一呼吁，越中两国管控好海上问题，互相尊重各自合法权利和利益，有效发挥两国海上问题谈判机制，妥当处理渔民渔船问题……
+
+#### 大陆海警船入金门限制水域 距金湖仅五海里史上最近
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240625-3977430></span>
+
+大陆海警局星期二下午通报，福建海警在金门附近海域依法开展的常态化执法巡查，图为通报中的一张照片显示大陆四艘海警船在海面上航行。（中国大陆海警局公号）
+（台北综合讯）四艘中国大陆海警船星期二清晨航入金门海域，一度距离金门金湖仅五海里（9.26公里），为史上最近一次。
+据台湾海洋委员会海巡署侦方分署网站公布的新闻稿，海巡署金马澎分署星期二（6月25日）清晨5时许掌握到大陆四艘海警船集结的迹象……
+
+#### 欧盟制裁19家涉支持俄罗斯侵乌中企 中方敦促撤销
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240625-3976377></span>
+
+（布鲁塞尔/北京综合讯）欧盟星期一（6月24日）宣布，对19家涉及支持俄罗斯侵略乌克兰行动的中国企业进行制裁，中国外交部表示已向欧方提出严正交涉，敦促欧方撤销制裁。
+据法新社报道，在最新一轮欧盟对俄罗斯的制裁中，有61家实体被纳入，近半源自俄罗斯，19家源自中国，九家土耳其，两家吉尔吉斯斯坦，印度、哈萨克斯坦和阿联酋各有一家。
+这些实体被指直接“支持俄罗斯军事工业复合体”，参与俄乌战争……
+
+#### 上海民众暑期赴非洲旅游热 黄热病疫苗一苗难求
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240625-3977547></span>
+
+中国暑期来临，非洲游、南美游受追捧，上海市黄热病疫苗接种名额吃紧。图为今年春节期间上海浦东机场。（路透社）
+（上海综合讯）中国暑期来临，非洲游、南美游受追捧，上海市黄热病疫苗接种名额吃紧，有民众表示过去一个月每天尝试都预约不上。
+据《解放日报》新媒体“上观新闻”报道，上海12345市民服务热线收到的大量投诉显示，当地不少人正苦于抢不到黄热病疫苗接种的名额……
+
+#### 台湾驻美代表被爆滥用公款 从百万沙发到牙膏都报销
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240625-3976951></span>
+
+台湾驻美代表俞大㵢被爆滥用公款。图为俞大㵢上周接受彭博社专访画面。（台驻美代表处脸书专页）
+（台北综合讯）有台媒爆料称，台湾驻美代表俞大㵢以公务之名购买各类高价品，就任半年已花费800万元（新台币，下同，33万3792新元）的公款……
+
+#### 李强：中国新兴产业崛起根植于自身独特优势
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240625-3976422></span>
+
+中国总理李强（左二）星期二（6月25日）在大连举行的世界经济论坛新领军者年会上发表特别致辞，参加同场活动的包括正在访华的越南总理范明正（右起）和波兰总统杜达。左一是世界经济论坛创始人施瓦布。（法新社）
+中国总理李强为中国电动汽车等新兴产业的发展辩护，强调中国这些产业的快速崛起，根植于自身独特的比较优势……
+
+#### 【东谈西论】大陆颁布意见台独可判死刑 是为武统做准备？
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240625-3975625></span>
+
+中国6月21日公布《关于依法惩治“台独”顽固分子分裂国家、煽动分裂国家犯罪的意见》，分四部共22条。图中左起为国台办发言人陈斌华、公安部法制局副局长孙萍、最高人民法院审判委员会委员马岩、最高人民检察院重大犯罪检察厅副厅长张庆彬，以及司法部律师工作局局长田昕……
+
+#### 中国发布今年首个暴雨红色预警
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20240625-3972741></span>
+
+中国安徽省黄山市歙县绍濂乡自6月19日起，因强降雨受灾严重，多个村庄一度断路、断电、断通信。图为中国武警部队在绍濂乡小溪村架设临时桥梁，协助村民跨越道路塌方点出行。
+（新华社）
+（北京／合肥／长沙／杭州综合讯）长江中下游地区雨势猛烈，中国中央气象台星期一（6月24日）上午10时发布今年以来的首个暴雨红色预警……
+
+
+
+
+-----------------------------------
+
+Copyright © 2023-2024 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

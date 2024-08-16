@@ -1,6 +1,7 @@
 # List of Issues
 
 
+- [WebDigest-20240816.pdf](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/webdigest/WebDigest-20240816.pdf--c6d4c3106f32bc39f2331a45747531f4.pdf)
 - [WebDigest-20240815.pdf](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/webdigest/WebDigest-20240815.pdf--e455e459db2cdf5830303ec403764b41.pdf)
 - [WebDigest-20240814.pdf](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/webdigest/WebDigest-20240814.pdf--0bd22166049b3df6e44dd8d19908929d.pdf)
 - [WebDigest-20240813.pdf](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/webdigest/WebDigest-20240813.pdf--ab5890e5c6a152c86be396a3f7b7b62c.pdf)

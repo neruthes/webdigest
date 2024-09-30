@@ -49,7 +49,9 @@ WRITE_OSSLIST=n minoss "$(./build.sh lastpdf)"
 
 ### Send Telegram bot message
 MARKUP=HTML tgbot-msg /home/neruthes/DEV/clinotifbot-tg $(pasm p tgid) .tmp/notif.html
-MARKUP=HTML tgbot-msg /home/neruthes/DEV/clinotifbot-tg $(pasm p tgid) _dist/tgmsg.txt
+MARKUP=HTML tgbot-msg /home/neruthes/DEV/clinotifbot-tg $(pasm p tgid) .tmp/notif.html
+channel_id="@webdigestchannel"
+MARKUP=HTML tgbot-msg /home/neruthes/DEV/clinotifbot-tg "$channel_id" _dist/tgmsg.txt
 [[ -e $BOOMALERT ]] && MARKUP=HTML tgbot-msg /home/neruthes/DEV/clinotifbot-tg $(pasm p tgid) <(echo -e "<strong>----- BOOM ALERT -----</strong>\n\n"; cat $BOOMALERT)
 
 

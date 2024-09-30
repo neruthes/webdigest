@@ -52,7 +52,7 @@ case $1 in
         tagname="v$(date +%Y%m).$tag_suffix"
         echo "Command:      $ git tag $tagname && git push origin $tagname"
         echo "URL:          https://github.com/neruthes/webdigest/releases/new"
-        echo "Message:      $(bash $0 count)"
+        echo "Message:      $(bash "$0" count)"
         echo "Artifacts:"
         du -h $(realpath pkgdist/pdfdist-2023.tar)
         ;;
@@ -179,20 +179,21 @@ case $1 in
         # cat $RSS_FN
         ;;
     today)
-        mkdir -p .tmp/tgmsg/$(date +%Y)
+        echo "Today date is  $(date -Is)"
+        mkdir -p ".tmp/tgmsg/$(date +%Y)"
         if [[ -e "_dist/issue/$(date +%Y)/WebDigest-$(date +%Y%m%d).pdf" ]]; then
             echo "[ERROR] The PDF artifact of today has been generated already."
             echo "        If you want to proceed, delete _dist/issue/$(date +%Y)/WebDigest-$(date +%Y%m%d).pdf"
             exit 1
         fi
-        source $HOME/.bashrc
+        source "$HOME/.bashrc"
         s5pon h
         bash src/fetch.sh
         bash src/process.sh
         DOWNLOAD=y COMPRESS=y bash src/coverpic.sh
         bash "$0" "$(bash src/make.sh | tail -n1)" # Build target: issue/202X/{...}.tex
         # texfn="$(find issue -name '*.tex' | sort -r | head -n1)"
-        # bash $0 $texfn
+        # bash "$0" $texfn
         bash src/markdown.sh
         bash "$0" tgmsg gc rss wwwdist deploy pkgdist pkgdist/{web,www}*.tar.zstd
         git add .
@@ -251,7 +252,7 @@ case $1 in
         }
         sed -i 's/oss-r2.neruthes.xyz/pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/g' .osslist
         grep '714f8d634e8f451d9f2fe91a4debfa23.r2.dev/' .osslist | grep 'WebDigest' | grep '_dist/issue' | sed 's/oss-r2.neruthes.xyz/pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/g' | sort -r > wwwsrc/artifacts-oss.txt
-        bash $0 ISSUES.md
+        bash "$0" ISSUES.md
         convert _dist/metatex/avatar.pdf.jpg -resize 1024x wwwsrc/favicon.png
         convert _dist/metatex/favicon.pdf.jpg -resize 256x wwwsrc/favicon.ico
         rsync -av --delete wwwsrc/ wwwdist/
@@ -274,9 +275,12 @@ case $1 in
         # shareDirToNasPublic
         wrangler pages deploy wwwdist --project-name=webdigest --commit-dirty=true --branch=main
         ;;
+    telegram)
+        TELEGRAM_BOT_TOKEN
+        ;;
     '')
-        bash $0 wwwdist pkgdist deploy
+        bash "$0" wwwdist pkgdist deploy
         # shareDirToNasPublic
-        bash $0 pkgdist/{web,www}*.tar.zstd tag
+        bash "$0" pkgdist/{web,www}*.tar.zstd tag
         ;;
 esac

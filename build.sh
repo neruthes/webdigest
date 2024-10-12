@@ -66,10 +66,10 @@ case $1 in
     ISSUES.md)
         echo -e "# List of Issues\n\n" > ISSUES.md
         IFS=$'\n'
-        for i in $(cat wwwsrc/artifacts-oss.txt | grep -v .jpg); do
-            # echo "- [$(cut -d/ -f4 <<< $i)](https://webdigest.pages.dev/$i)" >> ISSUES.md
-            pdfid="$(cut -d/ -f4 <<< "$i" | cut -d' ' -f1)"
-            echo "- [$pdfid]($(cut -d' ' -f2 <<< "$i"))" >> ISSUES.md
+        grep -v .jpg wwwsrc/artifacts-oss.txt | while read -r nojpgfn; do
+            # echo "- [$(cut -d/ -f4 <<< $nojpgfn)](https://webdigest.pages.dev/$nojpgfn)" >> ISSUES.md
+            pdfid="$(cut -d/ -f4 <<< "$nojpgfn" | cut -d' ' -f1)"
+            echo "- [$pdfid]($(cut -d' ' -f2 <<< "$nojpgfn"))" >> ISSUES.md
         done
         cat ISSUES.md
         ;;
@@ -203,7 +203,8 @@ case $1 in
     issue/*.tex)
         ntex "$1" --2
         pdffn="_dist/${1/.tex/.pdf}"
-        bash "$0" "$(bash "$0" lastpdf)"
+        # bash "$0" "$(bash "$0" lastpdf)"
+        bash "$0" "$pdffn"
         # echo "$pdffn"
         # pdfrange $pdffn 1-1
         # rangedfn="/tmp/http/pdfrange/$(basename "$pdffn")"
@@ -216,13 +217,9 @@ case $1 in
         pdffn="$1"
         echo "$pdffn"
         cfoss "$pdffn" &
-        pdfrange "$pdffn" 1-1
-        rangedfn="/tmp/http/pdfrange/$(basename "$pdffn")"
-        rangedfn="$(sed 's|.pdf$|_page1-1.pdf|' <<< "$rangedfn")"
-        pdftoimg "$rangedfn"
-        imgfn="$rangedfn.jpg"
-        convert "$imgfn" -resize x1200 "$pdffn.jpg"
-        minoss "$pdffn.jpg"
+        pdftoppm -v -f 1 -l 1 -singlefile -scale-to-y 1200 -jpeg "$pdffn" "$pdffn"
+        imgfn="$pdffn.jpg"
+        echo "$imgfn"
         cfoss "$pdffn.jpg"
         wait
         ;;
@@ -253,8 +250,8 @@ case $1 in
         sed -i 's/oss-r2.neruthes.xyz/pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/g' .osslist
         grep '714f8d634e8f451d9f2fe91a4debfa23.r2.dev/' .osslist | grep 'WebDigest' | grep '_dist/issue' | sed 's/oss-r2.neruthes.xyz/pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/g' | sort -r > wwwsrc/artifacts-oss.txt
         bash "$0" ISSUES.md
-        convert _dist/metatex/avatar.pdf.jpg -resize 1024x wwwsrc/favicon.png
-        convert _dist/metatex/favicon.pdf.jpg -resize 256x wwwsrc/favicon.ico
+        magick _dist/metatex/avatar.pdf.jpg -resize 1024x wwwsrc/favicon.png
+        magick _dist/metatex/favicon.pdf.jpg -resize 256x wwwsrc/favicon.ico
         rsync -av --delete wwwsrc/ wwwdist/
         make_indexhtml_for_dirs
         ;;
@@ -271,7 +268,7 @@ case $1 in
         du -h "$1"
         # echo cfoss "$1"
         ;;
-    deploy)
+    cf | deploy)
         # shareDirToNasPublic
         wrangler pages deploy wwwdist --project-name=webdigest --commit-dirty=true --branch=main
         ;;

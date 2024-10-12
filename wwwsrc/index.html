@@ -190,17 +190,17 @@
 
 
                         // Continue...
-                        let latestIssueId = artifactsList[1].match(/\d{8}/)[0];
+                        let latestIssueId = artifactsList.filter(x => x.endsWith('.pdf'))[0].match(/\d{8}/)[0];
                         let latestIssueYear = latestIssueId.slice(0, 4);
                         document.querySelector('.current-issue-links').innerHTML = `<div>
-                            <a href="${artifactsList[1].split(' ')[1]}">[PDF]</a>
+                            <a href="${artifactsList.filter(x => x.endsWith('.pdf'))[0].split(' ')[1]}">[PDF]</a>
                             <a href="/readhtml/${latestIssueYear}/WebDigest-${latestIssueId}.html">[HTML]</a>
                             <a href="https://github.com/neruthes/webdigest/blob/master/markdown/${latestIssueYear}/WebDigest-${latestIssueId}.md">[MD]</a>
                         </div>`;
                         document.querySelector('.current-issue').innerHTML = `<div>
                             <div>
-                                <a href="${artifactsList[1].split(' ')[1]}">
-                                    <img src="${artifactsList[0].split(' ')[1]}">
+                                <a href="${artifactsList.filter(x => x.endsWith('.pdf'))[0].split(' ')[1]}">
+                                    <img src="${artifactsList.filter(x => x.endsWith('.jpg'))[0].split(' ')[1]}">
                                 </a>
                             </div>
                         </div>`;

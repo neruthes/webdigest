@@ -205,23 +205,16 @@ case $1 in
         pdffn="_dist/${1/.tex/.pdf}"
         # bash "$0" "$(bash "$0" lastpdf)"
         bash "$0" "$pdffn"
-        # echo "$pdffn"
-        # pdfrange $pdffn 1-1
-        # rangedfn="/tmp/http/pdfrange/$(basename "$pdffn")"
-        # rangedfn="$(sed 's|.pdf$|_page1-1.pdf|' <<< "$rangedfn")"
-        # minoss "$pdffn.jpg"
-        # echo "wanted rangedfn=/tmp/http/pdfrange/issue-20230107_page1-1.pdf"
-        # echo "actual rangedfn=$rangedfn"
         ;;
     _dist/issue/*/*.pdf)
         pdffn="$1"
         echo "$pdffn"
         cfoss "$pdffn" &
-        pdftoppm -v -f 1 -l 1 -singlefile -scale-to-y 1200 -jpeg "$pdffn" "$pdffn"
+        pdftoppm -f 1 -l 1 -singlefile -jpeg "$pdffn" "$pdffn"
         imgfn="$pdffn.jpg"
-        echo "$imgfn"
-        cfoss "$pdffn.jpg"
-        wait
+        magick "$imgfn" -resize x1200 "$imgfn"
+        echo "imgfn=$imgfn"
+        cfoss "$imgfn" &
         ;;
     wwwdist*)
         echo "[INFO] Building website..."

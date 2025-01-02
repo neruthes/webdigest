@@ -23,7 +23,7 @@ bash build.sh today > .tmp/buildlog.txt 2>&1
 
 
 ### Upload build log
-WRITE_OSSLIST=n minoss .tmp/buildlog.txt
+WRITE_OSSLIST=n cfoss2 .tmp/buildlog.txt
 
 
 ### Generate Telegram bot message
@@ -33,8 +33,8 @@ if grep -qsi error .tmp/buildlog.txt; then
 else
     echo -e "Everything looks good." >> .tmp/notif.html
 fi
-echo -e "<a href='https://minio.neruthes.xyz/oss/keep/webdigest/buildlog.txt--a43ccfb78e5b960ad7a2b6226572bf19.txt'>
-https://minio.neruthes.xyz/oss/keep/webdigest/buildlog.txt--a43ccfb78e5b960ad7a2b6226572bf19.txt
+echo -e "<a href='https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/webdigest/b2468c4ee4b6dff6da025a23/buildlog.txt'>
+https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/webdigest/b2468c4ee4b6dff6da025a23/buildlog.txt
 </a>" >> .tmp/notif.html 2>/dev/null
 
 pdfurl="https://nas-public.neruthes.xyz/webdigest-07f285cda0d2dd34bc7a4d07/$(find _dist/issue -name '*.pdf' | sort -r | head -n1)"
@@ -44,7 +44,7 @@ echo -e "Artifact:
 
 ### Synchronize to NAS public
 # shareDirToNasPublic
-WRITE_OSSLIST=n minoss "$(./build.sh lastpdf)"
+WRITE_OSSLIST=n cfoss2 "$(./build.sh lastpdf)"
 
 
 ### Send Telegram bot message

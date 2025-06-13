@@ -1,0 +1,776 @@
+Other formats: [PDF](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/webdigest/WebDigest-20250613.pdf--b8221022bf1c79b60697d8f355d12975.pdf) / [HTML](https://webdigest.pages.dev/readhtml/2025/WebDigest-20250613.html)
+
+
+# Web Digest 2025-06-13
+
+
+## Developers
+
+### Hacker News
+
+<div class="minipage">
+
+#### Frequent reauth doesn’t make you more secure
+
+<span style="color: blue!80!green"><https://tailscale.com/blog/frequent-reath-security></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=44261777></span>
+
+</div>
+
+<div class="minipage">
+
+#### Cloudflare was down
+
+<span style="color: blue!80!green"><https://www.cloudflarestatus.com/incidents/25r9t0vz99rp></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=44261064></span>
+
+</div>
+
+<div class="minipage">
+
+#### GCP Outage
+
+<span style="color: blue!80!green"><https://status.cloud.google.com/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=44260810></span>
+
+</div>
+
+<div class="minipage">
+
+#### NASA Is Worth Saving
+
+<span style="color: blue!80!green"><https://caseyhandmer.wordpress.com/2025/06/12/nasa-is-worth-saving/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=44260661></span>
+
+</div>
+
+<div class="minipage">
+
+#### Google Pixels are no longer the AOSP reference device
+
+<span style="color: blue!80!green"><https://9to5google.com/2025/06/12/android-open-source-project-pixel-change/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=44259921></span>
+
+</div>
+
+<div class="minipage">
+
+#### US-backed Israeli company’s spyware used to target European journalists
+
+<span style="color: blue!80!green"><https://apnews.com/article/spyware-italy-paragon-meloni-pegasus-f36dd32106f44398ee24001317ccf2bb></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=44259398></span>
+
+</div>
+
+<div class="minipage">
+
+#### macOS Tahoe brings a new disk image format
+
+<span style="color: blue!80!green"><https://eclecticlight.co/2025/06/12/macos-tahoe-brings-a-new-disk-image-format/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=44259132></span>
+
+</div>
+
+<div class="minipage">
+
+#### Researchers confirm two journalists were hacked with Paragon spyware
+
+<span style="color: blue!80!green"><https://techcrunch.com/2025/06/12/researchers-confirm-two-journalists-were-hacked-with-paragon-spyware/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=44259039></span>
+
+</div>
+
+<div class="minipage">
+
+#### Trump’s NASA cuts would destroy decades of science and wipe out its future
+
+<span style="color: blue!80!green"><https://www.latimes.com/business/story/2025-06-09/trumps-nasa-cuts-would-destroy-decades-of-science-and-wipe-out-its-future></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=44259001></span>
+
+</div>
+
+<div class="minipage">
+
+#### iPhone 11 emulation done in QEMU
+
+<span style="color: blue!80!green"><https://github.com/ChefKissInc/QEMUAppleSilicon></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=44258670></span>
+
+</div>
+
+<div class="minipage">
+
+#### Seedance 1.0
+
+<span style="color: blue!80!green"><https://seed.bytedance.com/en/seedance></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=44258213></span>
+
+</div>
+
+<div class="minipage">
+
+#### Show HN: Tritium – The Legal IDE in Rust
+
+<span style="color: blue!80!green"><https://tritium.legal/preview></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=44256765></span>
+
+</div>
+
+<div class="minipage">
+
+#### A receipt printer cured my procrastination
+
+<span style="color: blue!80!green"><https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=44256499></span>
+
+</div>
+
+<div class="minipage">
+
+#### My Mac contacted 63 different Apple owned domains in an hour, while not is use
+
+<span style="color: blue!80!green"><https://appaddict.app/post/my-mac-contacted-63-different-apple-owned-domains-in-one-hour-while-not-is-use></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=44256338></span>
+
+</div>
+
+<div class="minipage">
+
+#### Next.js 15.1 is unusable outside of Vercel
+
+<span style="color: blue!80!green"><https://omarabid.com/nextjs-vercel></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=44255911></span>
+
+</div>
+
+<div class="minipage">
+
+#### Maximizing Battery Storage Profits via High-Frequency Intraday Trading
+
+<span style="color: blue!80!green"><https://arxiv.org/abs/2504.06932></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=44255728></span>
+
+</div>
+
+<div class="minipage">
+
+#### Pentagon Has Been Pushing Americans to Believe in UFOs for Decades, New Report
+
+<span style="color: blue!80!green"><https://gizmodo.com/pentagon-has-been-pushing-americans-to-believe-in-ufos-for-decades-new-report-finds-2000614615></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=44255724></span>
+
+</div>
+
+<div class="minipage">
+
+#### Agentic Coding Recommendations
+
+<span style="color: blue!80!green"><https://lucumr.pocoo.org/2025/6/12/agentic-coding/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=44255608></span>
+
+</div>
+
+<div class="minipage">
+
+#### Air India flight to London crashes in Ahmedabad with more than 240 onboard
+
+<span style="color: blue!80!green"><https://www.theguardian.com/world/live/2025/jun/12/air-india-flight-ai171-plane-crash-ahmedabad-india-latest-updates></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=44255602></span>
+
+</div>
+
+<div class="minipage">
+
+#### Danish Ministry Replaces Windows and Microsoft Office with Linux and LibreOffice
+
+<span style="color: blue!80!green"><https://www.heise.de/en/news/From-Word-and-Excel-to-LibreOffice-Danish-ministry-says-goodbye-to-Microsoft-10438942.html></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=44255352></span>
+
+</div>
+
+### Dribbble
+
+#### Aquasan
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/26100535-Aquasan></span>
+
+#### Eagle
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/26099428-Eagle></span>
+
+#### Mnp Technologies - Logo Design
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/26092034-Mnp-Technologies-Logo-Design></span>
+
+#### Singular Logo Concept (Unused)
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/26091755-Singular-Logo-Concept-Unused></span>
+
+#### Cre8tera // Website
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/26091009-Cre8tera-Website></span>
+
+#### Cool Pool Logo Design - Letter C Monogram
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/26091401-Cool-Pool-Logo-Design-Letter-C-Monogram></span>
+
+#### Gorilla + Bar Chart Logo
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/26092670-Gorilla-Bar-Chart-Logo></span>
+
+#### zeero logo design
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/26087342-zeero-logo-design></span>
+
+#### Create email inbox composition
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/26083118-Create-email-inbox-composition></span>
+
+#### Shori Brand
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/26088139-Shori-Brand></span>
+
+#### Roaring Bear
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/26087788-Roaring-Bear></span>
+
+#### Eagle
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/26085536-Eagle></span>
+
+#### Hand-drawn illustration pack
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/26084735-Hand-drawn-illustration-pack></span>
+
+#### Dog Mascot Various Poses
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/26087977-Dog-Mascot-Various-Poses></span>
+
+#### Branding Concept for Europe
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/26087652-Branding-Concept-for-Europe></span>
+
+#### B2B Dashboard & Web App UI UX Design for Carbon Solutions
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/26076624-B2B-Dashboard-Web-App-UI-UX-Design-for-Carbon-Solutions></span>
+
+#### Patriot Logo Design (Unused for Sale)
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/26081047-Patriot-Logo-Design-Unused-for-Sale></span>
+
+#### Heliopoint
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/26081987-Heliopoint></span>
+
+#### Apple
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/26084067-Apple></span>
+
+#### Illustration
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/26083223-Illustration></span>
+
+#### Europe Logo Animation
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/26082596-Europe-Logo-Animation></span>
+
+#### Arc Logo
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/26083648-Arc-Logo></span>
+
+#### Heyo Turns 2!
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/26078572-Heyo-Turns-2></span>
+
+#### Fox Brand Mascot
+
+<span style="color: blue!80!green"><https://dribbble.com/shots/26077954-Fox-Brand-Mascot></span>
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### 1997年，乔布斯在WWDC闭幕环节做了唯一一场即兴问答：我们要做“更好的产品”，而非“不同的产品”，十年后，iPhone发布
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=81537></span>
+
+#### 印度宇航员将搭乘 Axiom Space 的飞船前往国际空间站
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=81536></span>
+
+#### 太阳活动与 Starlink 卫星大量坠落相关
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=81535></span>
+
+#### 新闻网站来自 Google 的流量大幅下降
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=81534></span>
+
+#### 如果将所有人类都塞进肉球
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=81533></span>
+
+#### 因编辑反对维基百科叫停了 AI 生成文章摘要的实验
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=81529></span>
+
+#### 研究人员发现两个能完全绕过 Secure Boot 的漏洞利用，微软只给一个打上补丁
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=81528></span>
+
+#### 韦伯拍摄到寒冷气态巨行星的直接影像
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=81527></span>
+
+#### 全球盗版网站访问量继续下滑，但盗版漫画访问量在增长
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=81526></span>
+
+#### 今天的 AI 并没有智能
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=81525></span>
+
+#### 地球海洋酸化跨过“行星限度”
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=81524></span>
+
+#### Google 发布 Android 16
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=81523></span>
+
+#### Telegram、中间人以及 FSB
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=81522></span>
+
+#### Ubuntu 25.10 的 GNOME 桌面环境停止支持 X11 
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=81521></span>
+
+#### 研究称鱼临死前经历数十分钟的痛苦
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=81520></span>
+
+#### 中国 AI 公司在高考期间短暂禁用了部分功能以防止考试作弊
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=81519></span>
+
+#### 欧洲需要数字主权
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=81518></span>
+
+#### Mozilla 又关闭了两项服务
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=81517></span>
+
+#### macOS Tahoe 将是最后一个支持英特尔处理器的 macOS 版本
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=81516></span>
+
+#### 按摩脸部和颈部或有助于大脑冲掉垃圾
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=81515></span>
+
+### V2EX
+
+#### \[问与答\] 有一行代码不懂的产品经理，用 AI 开发出产品的真实案例吗
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138275></span>
+
+#### \[问与答\] 这两天曝光的 IOS26 水滴效果显示抖音隐藏二维码是真的么
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138274></span>
+
+#### \[Apple\] macOS 26 没有启动台解决方案
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138273></span>
+
+#### \[问与答\] 如何找到 10-15 年前初中、高中人教版各个学科的教材 PDF？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138272></span>
+
+#### \[Vim\] 不知道为什么存在的 vim 快捷键
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138271></span>
+
+#### \[Apple\] 最近老版 Paste 剪切板应用经常无法启动
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138270></span>
+
+#### \[分享发现\] 伦敦贵金属期货数据 API 获取全攻略： iTick 为何脱颖而出
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138269></span>
+
+#### \[全球工单系统\] Google 服务大面积故障
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138268></span>
+
+#### \[硬件\] 一个很幼稚、很弱智，但也可算作是数据安全的问题
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138267></span>
+
+#### \[天黑以后\] 20250613 午夜俱乐部
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138266></span>
+
+#### \[求职\] 求职/寻项目合作——-IT 行业界面 UI 设计——–2025
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138265></span>
+
+#### \[VPS\] 近期是否很多 digitalocean 服务器 ip 被墙？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138264></span>
+
+#### \[生活\] 我也分享一个类似的亲戚差点被骗经历
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138263></span>
+
+#### \[酷工作\] \[北京/上海/深圳\] 全新浏览器创业公司多岗位招聘： C/C++ 工程师， macOS app 开发工程师， UI/UX 设计师，互联网全栈开发工程师
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138262></span>
+
+#### \[随想\] 比起工作被 AI 抢走这种事情，感觉另外一件跟 AI 有关的事情也值得思考一下
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138261></span>
+
+#### \[程序员\] B 站又崩了-又到了复习高可用架构实践的时候
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138260></span>
+
+#### \[问与答\] 比亚迪车主们说说你真实的用车体验
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138257></span>
+
+#### \[生活方式\] 我好像多久没有大喊过了。
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138254></span>
+
+#### \[职场话题\] 感觉人生一片昏暗
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138253></span>
+
+#### \[分享发现\] 如果喜欢数独但觉得普通数独太常规，看看这个《数独恶魔城》吧
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138252></span>
+
+#### \[分享发现\] ai 英汉字典，元宝也可以
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138251></span>
+
+#### \[程序员\] 关于 Alist 被卖 我的一些想法
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138250></span>
+
+#### \[OpenWrt\] 请教一下各位的 Openwrt 固件都从哪里下载
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138249></span>
+
+#### \[Vercel\] Vercel 上运行的代码和仓库中一定相同吗？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138248></span>
+
+#### \[健康\] 大家用米诺地尔多久了？有效果吗
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138246></span>
+
+#### \[VXNA\] 申请收录个人博客—青萍叙事
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138245></span>
+
+#### \[问与答\] 今天一个技术群里小伙伴单位直接通知从 12000 薪水，降 4000—这日子怎么过？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138244></span>
+
+#### \[哔哩哔哩\] b 站是不是崩溃了？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138243></span>
+
+#### \[分享创造\] 用 Cursor 和 Claude 做了现代益智游戏站点，感谢 "温和的奇点"
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138242></span>
+
+#### \[程序员\] 这验证码也太反人类了吧！
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138241></span>
+
+#### \[问与答\] 前端小哥进： Monorepo 项目多 app 如何共用 api 定义。
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138239></span>
+
+#### \[程序员\] 怎么让 Shadowrocket 只连接美国节点？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138237></span>
+
+#### \[酷工作\] \[杭州\] 支付宝 招前端了
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138236></span>
+
+#### \[广州\] 新房精装修，求广州靠谱装修公司推荐
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138235></span>
+
+#### \[推广\] 来一起测试一下， AI 扑克，摸鱼请进
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138234></span>
+
+#### \[macOS\] macos26 对第三方 hdr 显示器的支持好了一些
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138233></span>
+
+#### \[分享发现\] iTunes 迁移备份到新 iPhone ， QQ 聊天记录中所有的图片全部灰掉、过期。手动用旧机 QQ app 内置的迁移聊天记录功能迁移到新机 QQ app 后，问题依旧
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138232></span>
+
+#### \[摄影\] 决赛圈 A6700 和 XT50 选哪个
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138231></span>
+
+#### \[GitHub Copilot\] GitHub Copilot 的回答太简洁，有什么好的配置方法或者提示词么？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138230></span>
+
+#### \[问与答\] alist 事件让我想到另一件事情，为什么国内网盘基本不支持 webdav 服务
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138229></span>
+
+#### \[互联网\] 百度账号现在登录强制要手机号验证码，可是手机号现在不是我自己的怎么办？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138228></span>
+
+#### \[OpenAI\] 根据我自己的日常查词习惯做了一个英汉字典 GPT，欢迎尝试
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138227></span>
+
+#### \[Apple\] mba m1 充电器过热的现象
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138226></span>
+
+#### \[求职\] 已经投递了两个月简历但是没收到几条回复的运维，想转行了。大家有什么推荐的吗？我感觉只能进厂打螺丝了，已经无路可走了
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138225></span>
+
+#### \[酷工作\] 游戏公司招人
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138223></span>
+
+#### \[问与答\] 遇到剪映罕见 bug，这是在内容审查吗？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138222></span>
+
+#### \[健康\] 那啥，你们怎么处理痔疮的，两个外痔，上厕所擦屁股嘎嘎疼
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138221></span>
+
+#### \[MacBook Pro\] 问下大家， m1 pro 可以升级内存吗，手里有个 16G 的感觉不够用了
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138220></span>
+
+#### \[V2EX\] 移除那些不想看的节点帖子的油猴脚本
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138219></span>
+
+#### \[NAS\] 家用低功耗全闪 NAS 的几点改进优化的想法
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1138216></span>
+
+## Generic News
+
+### 联合早报
+
+#### 于泽远：中美博弈进入战略相持阶段
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20250612-6679195></span>
+
+中美经贸谈判团队6月10日在伦敦就落实两国元首通话的共识达成框架，中美激烈的关税和出口管制交锋有望暂时得到缓解。
+中国商务部国际贸易谈判代表李成钢6月10日在伦敦说，这次伦敦会谈取得的进展，有利于中美之间进一步增进信任，进一步推动中美经贸关系稳定健康发展，也为全球经济的发展注入积极的正能量……
+
+#### 学者：特朗普是否访华成看点 中美需展现政治决断力
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20250611-6683767></span>
+
+受访学者分析，中美双方就落实两国元首通话共识，和巩固日内瓦经贸会谈成果的措施框架达成原则一致后，接下来重要看点是，中美领导人何时进行互访，因为中美经贸关系能否正常化，需要彼此展现政治决心。
+南京大学国际关系学院院长朱锋向《联合早报》分析，中美双方在伦敦达成框架后一致表示，要向各自领导人汇报内容。换句话说，须由两国领导人拍板后，才能执行框架内容……
+
+#### 中美谈判达框架暂缓冲突 学者评估各愿退让但细节待领导人背书
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20250611-6680373></span>
+
+中美两国经过两天谈判后，双方原则上就落实两国元首通话共识以及日内瓦会谈共识达成框架，将各自向本国领导人汇报，暂为高关税和管制战略性资源出口所引发的紧张关系降温。
+中美双方都没有说明何谓“框架”，也没有透露框架具体内容……
+
+#### 在野政学社运人士成立“党外在野大联盟” 拟提出台湾新论述
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20250611-6681646></span>
+
+台湾在野国民党前立委郑丽文邀集政界、学界及社运界人士，组成“党外在野大联盟”，希望集结在野力量，在未来三到五年凝聚新的台湾共识，提出主流论述。
+台湾解严前，国民党一党专政，不同政治立场的党外人士都积极争取言论和集会结社自由。当时号称“党外三剑客”的前总统陈水扁、前驻日代表谢长廷和刚过世的民进党前立委林正杰，就打出“民主靠制衡、制衡靠党外”的口号……
+
+#### 瑞银：90天关税暂停期后美对华关税或降低
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20250611-6677865></span>
+
+瑞银分析师研判，90天关税暂停期后，美国对中国加征的关税或进一步降低；再加上中国官方的财政政策，中国今年仍有望实现5%左右的经济增长。
+瑞银大中华区投资总监及亚太区宏观经济主管胡一帆星期三（6月11日）在上海举行的一场媒体分享会上说，对于90天关税暂停期后贸易战是暂停还是升级，市场有很大的问号……
+
+#### 美日台上将同场兵推 解放军攻占东沙澎湖东台湾
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20250611-6680382></span>
+
+美日台退役高阶将领的兵棋推演显示，即使美国有意积极介入，若台军仍顾虑避免冲突升级，中国大陆解放军可能逐步夺取东沙岛、澎湖及恒春半岛，最终挺进台湾东部。
+由美日台三方退役高阶将领共同参与的“台海防卫兵推”星期三（6月11日）在台北落幕。历时两天的兵推由台北政经学院基金会和平与安全中心、中华战略暨兵棋研究协会等民间单位主办，模拟2030年中国大陆武力犯台，分为威慑、胁迫、惩罚与进犯四个阶段进行……
+
+#### 反修例六周年香港社会平静淡化 海外港人举行纪念活动
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20250611-6679727></span>
+
+星期四（6月12日）是香港反修例运动六周年纪念日，香港社会近日一片平静，但在海外有一些港人团体发起不同形式的纪念活动。
+受访学者认为，随着时间流逝，今年不会有港人发起大规模纪念活动，不过特区政府需要致力改善经济和民生，这样才能提升民望。
+港府在2019年初提出修订《逃犯条例》，引发社会忧虑，民间人权阵线同年6月9日举行反修例游行，声称有103万人参与……
+
+#### 被指宣扬台独港独 台手游《逆统战：烽火》遭香港封杀
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20250611-6677598></span>
+
+（香港/台北综合讯）香港警方宣布禁制台湾手机游戏《逆统战：烽火》，指其宣扬台独、港独，发布、分享、下载或付款均可能触法犯罪，却让这款游戏的香港下载量在下架前急速攀升。
+香港警务处国家安全处星期二（6月10日）在官网发文告，提醒市民切勿下载《逆统战：烽火》，若任何人已下载该游戏，应立即删除，“切勿以身试法”……
+
+#### 中企获准向美出口稀土 中美贸易谈判进展提振陆港股市
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20250611-6679595></span>
+
+（北京/香港/纽约综合讯）中美伦敦经贸谈判取得进展后，一家中国大型稀土磁铁制造商宣布获得对美国的出口许可，中国大陆和香港股市星期三（6月11日）也受此提振上涨……
+
+#### 中国监管机构据报叫停银行用Labubu拉存款
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20250611-6677499></span>
+
+（北京综合讯）在利率与利润率双双下滑、银行争夺客户竞争日益激烈下，中国金融监管部门据报叫停银行通过赠送Labubu玩偶等礼品吸引储户的做法。
+彭博社引述知情人士报道，中国国家金融监督管理总局浙江监管局已要求当地银行避免通过不合规的赠品吸引存款。
+知情人士说，当局认为此类通过赠送大米、小家电或互联网平台会员等实物或虚拟礼品吸引存款的做法，将推高银行运营成本，并压缩利润空间……
+
+#### 台外长秘书据报泄露重要情报 助北京夺走台湾邦交国
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20250611-6679074></span>
+
+（台北综合讯）台湾绿营的中国大陆间谍案再有新消息。时任台湾外长吴钊燮秘书的何仁杰，据报将台湾与邦交国之间的重要分析情资外泄，让中国大陆掌握其中关键信息，怀疑与吴钊燮外长任内台湾连断八个邦交国有重要关联……
+
+#### 庄慧良：“馆长”登陆初体验
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20250611-6666908></span>
+
+堪称台湾最大网红的“馆长”（陈之汉）星期二（6月10日）首次踏上中国大陆土地！晚间一抵达上海，便迫不及待要搭磁浮列车，亲自证明高铁有靠背，厕所有门。他反讽说，要亲自来体验台湾执政的民进党所称“水深火热”、没有自由人权的大陆真实生活。
+一路上，他连连称赞上海浦东机场建设宏伟，外国游客众多，当地人文基建皆佳，民众很有礼貌。所到之处，不少人跟他打招呼“欢迎！”或跟他合照……
+
+#### 特朗普称“中国不易对付” 学者评估北京采“把球踢向未来”谈判策略
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20250611-6666911></span>
+
+中美两国在英国伦敦的经贸谈判星期二（6月10日）进入第二天，双方继续围绕各自就稀土和晶片而互设的出口管制措施进行谈判。美国总统特朗普在首日谈判结束后，在白宫对媒体称，他收到的都是好消息，但“中国不容易对付”。
+受访学者认为，中国因手握“稀土牌”而立场趋强硬，让美国觉得难应对……
+
+#### 任正非称晶片问题“没必要担心” 分析：淡化美管制措施
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20250610-6661421></span>
+
+中美贸易战与科技战双双升温之际，中国科技巨头华为创始人任正非接受中国官媒专访时直言，华为单晶片（中国称芯片）仍落后美国一代，但能通过其他方法弥补不足，没必要担心。他也强调“不去想困难，干就完了”。
+受访专家分析，任正非表态旨在向业界信心喊话，淡化美国管制措施的影响。但从晶片技术层面来看，中国确实还没有超越美国，北京尤其关切华盛顿对晶片供应链各环节的限制……
+
+#### 中国延长对欧盟进口猪肉产品反倾销调查半年
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20250610-6664817></span>
+
+（北京综合讯）中美两国就缓解经贸关系紧张进行谈判之际，中国宣布将对欧盟进口猪肉产品发起的反倾销调查，延长半年。
+中国商务部星期二（6月10日）在官网公告，依据《中华人民共和国反倾销条例》规定，在2024年6月17日决定，对原产于欧盟的进口相关猪肉及猪副产品进行反倾销立案调查。
+公告称，“鉴于本案情况复杂”，根据上述条例规定，中国商务部决定将本案的调查期限延长至2025年12月16日……
+
+#### 中国两艘航母首次被发现在太平洋同时活动
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20250610-6663208></span>
+
+（东京／北京综合讯）日本首次发现两艘中国航空母舰同时在太平洋活动。北京随后证实，两个航母编队赴西太平洋等海域开展训练，“不针对特定国家和目标”。
+日本国防部下辖的统合幕僚监部（即联合参谋部）星期一（6月9日）在官网发布消息称，日本海上自卫队6月7日确认，解放军航母山东舰、055型驱逐舰遵义舰，以及两艘054A型护卫舰和一艘903型综合补给舰，在宫古岛东南约550公里的海域航行……
+
+#### 美国基金据报正打折出售中国科企股份
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20250610-6660938></span>
+
+（波士顿／北京综合讯）中美关系紧张加剧，背靠富达集团的全球风险投资机构斯道资本（Eight
+Roads）计划退出对中国科技公司的投资。
+斯道资本由美国富达投资集团现任首席执行官阿比盖尔·约翰逊（Abigail
+Johnson）的家族创办，曾是中国互联网行业的早期投资者。
+彭博社星期二（6月10日）引述知情人士称，该机构从今年初开始寻求出售在40家中国科技企业的全部持股……
+
+#### 台湾作家兼评论家南方朔病逝 享寿80岁
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20250610-6664071></span>
+
+（台北讯）台湾作家、评论家南方朔星期一（6月9日）下午辞世，享寿80岁。据《联合报》星期二报道，家人证实他因肺炎于医院辞世，目前规划举办追思会。
+南方朔本名王杏庆，1946年生，台湾大学森林系、森林研究所毕业，文化大学实业计划研究所博士结业。曾任《中国时报》记者、专栏组主任、副总编辑、主笔与《新新闻》总主笔……
+
+#### 香港特区成立28周年纪念日 港府将举办100多项庆祝活动
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20250610-6662934></span>
+
+今年7月1日是香港回归及特区成立28周年纪念日，特区政府将举办100多项庆祝活动，商界也会推出不同的庆回归优惠活动。
+港府这一百多项庆祝活动，包括升旗礼、步操演练、嘉年华、综艺晚会及球类比赛等。“七一”当天，多个政府场地也将提供免费入场优惠，包括康文署多个室内及户外设施、科学馆及太空馆常设展览、香港湿地公园、西九文化区M+博物馆标准票的所有展览、香港故宫文化博物馆所有专题展览……
+
+#### 台湾绿营大陆间谍案侦结 核心嫌犯被求刑30年半
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20250610-6660083></span>
+
+台湾总统府共谍渗透案备受关注，台北地方检察署羁押四名民进党前党工黄取荣、吴尚雨、何仁杰和邱世元，星期二（10日）依违反《国安法》等罪起诉。
+其中，全案核心人物黄取荣，涉嫌收受陆方报酬在台发展情报组织，泄密给中国大陆情报人员，被检方求处合计30年六个月徒刑……
+
+#### 澳门卫星赌场将退出历史舞台
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20250610-6659246></span>
+
+（澳门综合讯）澳门11家卫星赌场将在今年底前结束经营，标志着这种博彩业形态退出历史舞台。
+据《澳门日报》报道，澳门政府星期一（6月9日）下午在政府总部举行发布会，宣布收到博彩业者澳娱综合、新濠博亚及银河公司正式通知，将在今年12月31日前结束11家卫星场的经营。
+目前卫星场内的澳门本地员工共有约5600人，政府要求三家博彩公司妥善安置受影响员工……
+
+#### 中国研究证实人工智能可自发形成人类级认知
+
+<span style="color: blue!80!green"><https://www.zaobao.com/news/china/story20250610-6658256></span>
+
+（北京综合讯）中国科学家团队证实，基于人工智能（AI）技术的多模态大语言模型能够自发形成与人类高度相似的物体概念表征系统，即AI可自发形成人类级认知。
+综合中新社和《北京晚报》报道，这项研究由中国科学院多个团队联合完成，相关论文星期一（6月9日）发表于国际专业学术期刊《自然·机器智能》……
+
+
+
+
+-----------------------------------
+
+Copyright © 2023-2025 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

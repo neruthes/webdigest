@@ -36,6 +36,9 @@ case $1 in
     lastpdf)
         find _dist -name 'WebDigest-*.pdf' | sort -r | head -n1
         ;;
+    lastmd)
+        find markdown -name 'WebDigest-*.md' | sort -r | head -n1 | xargs realpath
+        ;;
     tgmsg)
         source .env
         fn="_dist/tgmsg.txt"

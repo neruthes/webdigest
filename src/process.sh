@@ -6,9 +6,10 @@ source .localenv
 echo "  **  PROCESS_CURRENT_RETRY=$PROCESS_CURRENT_RETRY"
 if [[ $PROCESS_CURRENT_RETRY == 10 ]]; then
     echo "[ERROR] Reached max process retry count. Need human intervention."
-    echo "process.sh:  Reached max  retry count" >> $BOOMALERT
+    echo "process.sh:  Reached max  retry count" >> "$BOOMALERT"
+    exit 3
 else
-    PROCESS_CURRENT_RETRY=0
+    export PROCESS_CURRENT_RETRY=0
 fi
 
 
@@ -26,12 +27,12 @@ function retry_job() {
 ### Genric sources
 for js in src/data/*.js; do
     echo "[INFO] Working on '$js'..."
-    node $js || FAIL_LIST="$FAIL_LIST $(basename "$js" | cut -d. -f1)"
+    node "$js" || FAIL_LIST="$FAIL_LIST $(basename "$js" | cut -d. -f1)"
 done
 
 for sourcename in $FAIL_LIST; do
     retry_job "$sourcename"
-    # export PROCESS_CURRENT_RETRY="$((PROCESS_CURRENT_RETRY+1))"
-    echo '   **   ' exec bash $0
-    exec PROCESS_CURRENT_RETRY="$((PROCESS_CURRENT_RETRY+1))" bash $0
+    export PROCESS_CURRENT_RETRY="$((PROCESS_CURRENT_RETRY+1))"
+    echo '   **   ' exec bash "$0"
+    echo env PROCESS_CURRENT_RETRY="$((PROCESS_CURRENT_RETRY+1))" bash "$0"
 done

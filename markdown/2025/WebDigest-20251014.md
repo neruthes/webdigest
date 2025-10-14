@@ -1,0 +1,555 @@
+Other formats: [PDF](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/webdigest/WebDigest-20251014.pdf--be566ff52c4d867a0d1c3473a43b79e9.pdf) / [HTML](https://webdigest.pages.dev/readhtml/2025/WebDigest-20251014.html)
+
+
+# Web Digest 2025-10-14
+
+
+## Developers
+
+### Hacker News
+
+<div class="minipage">
+
+#### Don’t Be a Sucker (1943) \[video\]
+
+<span style="color: blue!80!green"><https://www.youtube.com/watch?v=vGAqYNFQdZ4></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=45573025></span>
+
+</div>
+
+<div class="minipage">
+
+#### Environment variables are a legacy mess: Let’s dive deep into them
+
+<span style="color: blue!80!green"><https://allvpv.org/haotic-journey-through-envvars/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=45570537></span>
+
+</div>
+
+<div class="minipage">
+
+#### Android’s sideloading limits are its most anti-consumer move
+
+<span style="color: blue!80!green"><https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=45569371></span>
+
+</div>
+
+<div class="minipage">
+
+#### NanoChat – The best ChatGPT that \$100 can buy
+
+<span style="color: blue!80!green"><https://github.com/karpathy/nanochat></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=45569350></span>
+
+</div>
+
+<div class="minipage">
+
+#### AI and the Future of American Politics
+
+<span style="color: blue!80!green"><https://www.schneier.com/blog/archives/2025/10/ai-and-the-future-of-american-politics.html></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=45568955></span>
+
+</div>
+
+<div class="minipage">
+
+#### A16Z-backed data firms Fivetran, dbt Labs to merge in all-stock deal
+
+<span style="color: blue!80!green"><https://www.reuters.com/business/a16z-backed-data-firms-fivetran-dbt-labs-merge-all-stock-deal-2025-10-13/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=45568842></span>
+
+</div>
+
+<div class="minipage">
+
+#### Ofcom fines 4chan £20K and counting for violating UK’s Online Safety Act
+
+<span style="color: blue!80!green"><https://www.theregister.com/2025/10/13/4chan_ofcom_fine/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=45568767></span>
+
+</div>
+
+<div class="minipage">
+
+#### Software update bricks some Jeep 4xe hybrids over the weekend
+
+<span style="color: blue!80!green"><https://arstechnica.com/cars/2025/10/software-update-bricks-some-jeep-4xe-hybrids-over-the-weekend/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=45568700></span>
+
+</div>
+
+<div class="minipage">
+
+#### Smartphones and being present
+
+<span style="color: blue!80!green"><https://herman.bearblog.dev/being-present/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=45568613></span>
+
+</div>
+
+<div class="minipage">
+
+#### No Science, No Startups: The Innovation Engine We’re Switching Off
+
+<span style="color: blue!80!green"><https://steveblank.com/2025/10/13/no-science-no-startups-the-unseen-engine-were-switching-off/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=45567877></span>
+
+</div>
+
+<div class="minipage">
+
+#### Show HN: SQLite Online – 11 years of solo development, 11K daily users
+
+<span style="color: blue!80!green"><https://sqliteonline.com/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=45567770></span>
+
+</div>
+
+<div class="minipage">
+
+#### California Will Stop Using Coal as a Power Source Next Month
+
+<span style="color: blue!80!green"><https://www.latimes.com/california/newsletter/2025-10-08/essential-california-california-dumps-coal-power></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=45567645></span>
+
+</div>
+
+<div class="minipage">
+
+#### The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2025
+
+<span style="color: blue!80!green"><https://www.nobelprize.org/prizes/economic-sciences/2025/summary/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=45567153></span>
+
+</div>
+
+<div class="minipage">
+
+#### Matrices can be your friends (2002)
+
+<span style="color: blue!80!green"><https://www.sjbaker.org/steve/omniv/matrices_can_be_your_friends.html></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=45566766></span>
+
+</div>
+
+<div class="minipage">
+
+#### Dutch government takes control of Chinese-owned chipmaker Nexperia
+
+<span style="color: blue!80!green"><https://www.cnbc.com/2025/10/13/dutch-government-takes-control-of-chinese-owned-chipmaker-nexperia.html></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=45566644></span>
+
+</div>
+
+<div class="minipage">
+
+#### American solar farms
+
+<span style="color: blue!80!green"><https://tech.marksblogg.com/american-solar-farms.html></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=45566638></span>
+
+</div>
+
+<div class="minipage">
+
+#### Modern Linux tools
+
+<span style="color: blue!80!green"><https://ikrima.dev/dev-notes/linux/linux-modern-tools/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=45566548></span>
+
+</div>
+
+<div class="minipage">
+
+#### MPTCP for Linux
+
+<span style="color: blue!80!green"><https://www.mptcp.dev/></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=45566441></span>
+
+</div>
+
+<div class="minipage">
+
+#### Spotlight on pdfly, the Swiss Army knife for PDF files
+
+<span style="color: blue!80!green"><https://chezsoi.org/lucas/blog/spotlight-on-pdfly.html></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=45566139></span>
+
+</div>
+
+<div class="minipage">
+
+#### HTTP3 Explained
+
+<span style="color: blue!80!green"><https://http3-explained.haxx.se></span>
+
+<span style="color: black!50"><https://news.ycombinator.com/item?id=45565646></span>
+
+</div>
+
+### Phoronix
+
+#### Intel Lands Big Linux GPU Driver Fix: Fixing Rendering Issues & Game Hangs/Crashes
+
+<span style="color: blue!80!green"><https://www.phoronix.com/news/Intel-Fixes-Long-GPU-Mesa-Issue></span>
+
+#### AMD Dev Proposes Dynamic Mitigations For Linux: Run-Time Toggling Of CPU Mitigations
+
+<span style="color: blue!80!green"><https://www.phoronix.com/news/Linux-Dynamic-Mitigations></span>
+
+#### Linux Patches Updated For Apple Silicon USB3 Support
+
+<span style="color: blue!80!green"><https://www.phoronix.com/news/Apple-Silicon-USB3-October-2025></span>
+
+#### Linux 6.18 Features: New AMD & Intel CPU Features, Rocket Driver, DM-PCACHE, Other New Drivers
+
+<span style="color: blue!80!green"><https://www.phoronix.com/review/linux-618-features></span>
+
+#### Mir 2.23 Released With New Documentation For Building A Desktop Environment
+
+<span style="color: blue!80!green"><https://www.phoronix.com/news/Mir-2.23-Released></span>
+
+#### Updated Intel Patches For Cache Aware Scheduling Net A 44% Win For AMD EPYC
+
+<span style="color: blue!80!green"><https://www.phoronix.com/news/Cache-Aware-Scheduling-Go></span>
+
+#### Box64 0.3.8 Brings DynaCache As Disk Cache For Generated Native Code From x86_64
+
+<span style="color: blue!80!green"><https://www.phoronix.com/news/Box64-0.3.8-Released></span>
+
+#### Intel Removing AMX-TRANSPOSE From The GCC Compiler
+
+<span style="color: blue!80!green"><https://www.phoronix.com/news/Intel-Remove-AMX-TRANSPOSE-GCC></span>
+
+#### ReactOS Making Progress On Windows WDDM Driver Support
+
+<span style="color: blue!80!green"><https://www.phoronix.com/news/ReactOS-WDDM-Effort></span>
+
+## Developers (zh-Hans)
+
+### Solidot
+
+#### 高龄父亲会将更多致病突变遗传给后代
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=82536></span>
+
+#### 法拉利宣布首款电动跑车
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=82535></span>
+
+#### Firefox 改进配置文件管理 
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=82534></span>
+
+#### 新生儿血液中的超级细菌十分普遍
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=82533></span>
+
+#### 流浪天体被发现可能是一颗反复爆发的亚恒星
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=82532></span>
+
+#### 金星大气层含水量超预期
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=82531></span>
+
+#### 2024 年 3% 的日本新生儿是外国人
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=82530></span>
+
+#### 调查显示美国八成员工抱怨工作损害心理健康
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=82529></span>
+
+#### Linux 6.18-rc1 释出
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=82528></span>
+
+#### LineageOS 23 释出
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=82527></span>
+
+#### 同卵双胞胎的 IQ 差异与学校教育相关
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=82526></span>
+
+#### 在特朗普宣布加征 100% 关税前 30 分钟有人对比特币进行巨额做空
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=82525></span>
+
+#### 线上学习的学生自信心低于线下学习的学生
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=82524></span>
+
+#### 在未支付赎金后黑客泄漏澳航 500 万客户数据
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=82523></span>
+
+#### AMD 和索尼演示 PS6 的图形技术
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=82522></span>
+
+#### 小鼠实验显示新癌症疫苗疗效显著
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=82521></span>
+
+#### 海关严查英伟达 AI 芯片
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=82520></span>
+
+#### 波兰称针对其关键基础设施的网络攻击在增加
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=82519></span>
+
+#### 我国成年人日均锌摄入量呈下降趋势
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=82518></span>
+
+#### 逾半数富有企业家考虑移民
+
+<span style="color: blue!80!green"><https://www.solidot.org/story?sid=82517></span>
+
+### V2EX
+
+#### \[English\] 地球上 40%以上的人口掌握至少两种语言。有 AI 真的就不用学习第二语言了吗？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1165005></span>
+
+#### \[Android\] 再推荐一款 可刷机，摄像头比较靠谱的安卓机？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1165004></span>
+
+#### \[分享创造\] 更新 V1.05, iPlay 最新版本，功能你懂的
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1165003></span>
+
+#### \[WireGuard\] Wireguard 为什么容易就断了？手动换 endpoint 非常麻烦
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1165002></span>
+
+#### \[推广\] 分享财经股票深度知识，欢迎关注 \[智股盈\]公众号，加入交流群
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1165000></span>
+
+#### \[Apple\] 新机 iCloud 恢复加速可能的一种方法？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164999></span>
+
+#### \[Apple\] Apple TV+ 宣布更名为“Apple TV”
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164995></span>
+
+#### \[问与答\] 关于空调的自动模式,你们有没有觉得很 SB 啊.
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164994></span>
+
+#### \[宽带症候群\] 求助， Wireguard 如何配置才能双向通信？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164993></span>
+
+#### \[职场话题\] 准备重新找个班上，有没有人说说南京前端现在咋样
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164992></span>
+
+#### \[程序员\] 写八股文用 Gemini 还是 grok3？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164991></span>
+
+#### \[浏览器\] Mac 端请使用非 webkit 内核浏览器以获得更好的字体体验
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164990></span>
+
+#### \[macOS\] 这个 macOS 通知中心的问题有没有人遇到过啊？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164989></span>
+
+#### \[生活\] 回家一趟，村里面的瓜还是多啊
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164988></span>
+
+#### \[小米\] 好奇一问，某演讲高手这次能大步踏过去吗？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164987></span>
+
+#### \[问与答\] 求救！音频 app 想要自建一个推荐引擎系统，有什么建议吗？ gorse 有问题用不了，阿里的 TorchEasyRec 又太贵了
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164986></span>
+
+#### \[职场话题\] 三十多岁的我裸辞了
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164985></span>
+
+#### \[服务器\] 请教代理服务器厂商选择建议
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164984></span>
+
+#### \[Apple\] 库克在抖音直播间宣布国行 iPhone Air 开卖
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164983></span>
+
+#### \[分享创造\] 在 Hugo 静态博客中优雅地展示 LivePhotos 实况照片
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164982></span>
+
+#### \[投资\] 跨境炒股真的容易错过啊
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164981></span>
+
+#### \[问与答\] 银行房贷 说你有一笔小额贷款 400 块 拒绝 让你上传首付款的余额证明
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164980></span>
+
+#### \[程序员\] xsavenow.com 一个能下载 X/Twitter 文字图片视频的小工具（免登录/不收费）
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164976></span>
+
+#### \[macOS\] macos 上为什么有时候鼠标有点不跟手？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164975></span>
+
+#### \[问与答\] 求推荐低功耗方案，想在家里弄个小服务器跑 seafile
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164973></span>
+
+#### \[问与答\] 曝光 TG 会员代充骗子
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164972></span>
+
+#### \[iPhone\] 今年的 17 pro 太脆弱了。
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164971></span>
+
+#### \[iPhone\] iPhone 17 air 17 号预定 22 开卖
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164970></span>
+
+#### \[Apple\] 苹果 CEO 库克宣布 iPhone Air 国行版 10 月 17 日开启预定， 10 月 22 日开售
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164969></span>
+
+#### \[分享发现\] 做了一个能下载 X/Twitter 视频的小工具（免登录 / 无水印）
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164966></span>
+
+#### \[程序员\] 记得打卡 (PunchClock)：新手的第一个安卓 APP
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164965></span>
+
+#### \[淘宝\] 阿里的 1688 线上商店商家商品包含的退货运费险，原来是由菜鸟速递承运啊？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164964></span>
+
+#### \[生活\] 人生第一次铁人三项！
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164963></span>
+
+#### \[投资\] 求推荐美股实战教程，系统化教程
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164962></span>
+
+#### \[程序员\] Java & Go 设计模式实现
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164961></span>
+
+#### \[分享创造\] 你比我猜：从派对游戏到社交神器的 40 年进化
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164960></span>
+
+#### \[V2EX\] V2EX 可不可以增加一个 @群友的功能？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164959></span>
+
+#### \[ WATCH\] V 友们在爱回收买的苹果手表买回来后发现质保到明年 6 月份
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164957></span>
+
+#### \[酷工作\] \[急急急\] \[招人\] 蚂蚁集团-大数据建设平台 Java 工程师-杭州
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164955></span>
+
+#### \[分享创造\] 简单实现 DDoZ 客户端内存耗尽攻击
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164954></span>
+
+#### \[问与答\] coze studio 有人在用么，感觉知识库嵌入和召回的能力好差
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164953></span>
+
+#### \[问与答\] 求助，解决旧插件不兼容 obs v30 及以上版本的问题
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164952></span>
+
+#### \[宽带症候群\] 不使用加速器在 ps5 玩单机 cod 使命召唤 网络无法连接
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164951></span>
+
+#### \[广州\] 转租，天河客运站 D 口
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164950></span>
+
+#### \[问与答\] 如果彻底失业+不婚丁克，是不是在一线城市和在二线城市没区别？
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164949></span>
+
+#### \[职场话题\] 阿里云 sre 招开发 p5/6
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164948></span>
+
+#### \[随想\] 朋友和我说人工智能的泡沫会在两个星期后破灭
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164946></span>
+
+#### \[macOS\] 升级到 macOS 26 以后导航栏多了个图标，而且点不了，有人知道这是什么吗
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164945></span>
+
+#### \[分享创造\] 做了个生成美女图片的网站（健康，安全，无涩图）
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164941></span>
+
+#### \[问与答\] 背单词 App 求助：关于爬虫字典数据的商业授权与合规数据源咨询
+
+<span style="color: blue!80!green"><https://www.v2ex.com/t/1164940></span>
+
+## Generic News
+
+
+
+
+-----------------------------------
+
+Copyright © 2023-2025 Neruthes and other contributors.
+
+This document is published with CC BY-NC-ND 4.0 license.
+
+The entries listed in this newsletter may be copyrighted by their respective creators.
+
+This newsletter is generated by the Web Digest project.
+
+The newsletters are also delivered via Telegram channel [t.me/webdigestchannel](https://t.me/webdigestchannel)
+
+This newsletter is available in PDF at [webdigest.pages.dev](https://webdigest.pages.dev/).
+
+The source code being used to generate this newsletter is available at [github.com/neruthes/webdigest](https://github.com/neruthes/webdigest).
+

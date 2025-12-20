@@ -1,0 +1,786 @@
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Web Digest - 2025-12-20</title>
+    <link rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" />
+
+    <script src="/js/readhtml.js" async data-is-loaded="false" data-runlevel="3"></script>
+
+    <script>
+        // Init for script startup
+        document.addEventListener('load', function () {
+            window.initRunlevel = 0;
+            const walkThroughRunlevels = function () {
+                // Reaching last runlevel, no more runlevels
+                if (window.initRunlevel === 4095) { return 0; };
+                if (document.querySelectorAll(`script[data-is-loaded="false"][data-runlevel="${window.initRunlevel}"]`).length > 0) {
+                    // This runlevel is not completed yet, wait 25 more milliseconds
+                    window.setTimeout(walkThroughRunlevels, 25);
+                } else {
+                    // This runlevel is complete, move to the next runlevel
+                    window.initRunlevel += 1;
+                    document.dispatchEvent(new Event(`runlevel${window.initRunlevel}`));
+                    walkThroughRunlevels();
+                };
+            };
+            walkThroughRunlevels();
+        }, { capture: true });
+    </script>
+
+    <style>
+        @import url('https://autowflibcdn.pages.dev/awfl-cdn/css/ibm-plex-sans.css');
+        * {
+            text-rendering: geometricPrecision;
+            box-sizing: border-box;
+            hyphens: none;
+            font-variant-ligatures: none;
+        }
+
+        html,
+        body {
+            font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            font-size: 15px;
+            line-height: 1.6;
+            padding: 0px;
+            margin: 0px;
+        }
+
+        a {
+            color: #03C;
+            text-decoration: none;
+        }
+
+        .global-container {}
+
+        .bigpart {
+            max-width: 700px;
+            padding: 30px;
+            margin: 0 auto;
+        }
+
+        #topnav {
+            text-align: center;
+        }
+
+
+
+        h1 {
+            font-size: 40px;
+            text-align: center;
+            margin: 20px 0 20px;
+        }
+
+        h2 {
+            font-size: 34px;
+            text-align: center;
+            border-top: 2px solid #000;
+            display: none;
+            padding: 100px 0 50px;
+            margin: 100px 0 0;
+        }
+
+        /* class="toc-entry" data-toc-entry-class */
+        #navtoc a.toc-entry {
+            display: block;
+        }
+
+        #navtoc a.toc-entry[data-toc-entry-class="h2"] {
+            font-size: 17px;
+            color: #000;
+            padding: 12px 0px 6px;
+        }
+        #navtoc a.toc-entry[data-toc-entry-class="h2"]::before {
+            content: "# ";
+        }
+
+        #navtoc a.toc-entry[data-toc-entry-class="h3"] {
+            font-size: 15px;
+            padding: 1px 0px 1px 30px;
+        }
+
+        h3 {
+            font-size: 26px;
+            text-align: center;
+            border-top: 2px solid #000;
+            padding: 100px 0 50px;
+            margin: 100px 0 0;
+        }
+
+        h4 {
+            font-size: 22px;
+            /* text-align: center; */
+            padding: 25px 0 5px;
+            margin: 0 0;
+        }
+
+        .pandoc-content p {
+            font-family: 'Brygada 1918', 'Baskervaldx', Georgia, 'Times New Roman', Times, serif;
+            font-size: 14px;
+            line-height: 1.4;
+            margin: 6px 0;
+        }
+
+        .pandoc-content p a {
+            font-family: 'JetBrains Mono NL', 'Inconsolata', 'Ubuntu Mono', monospace;
+            font-size: 13px;
+        }
+
+        .pandoc-content p+p a {
+            color: #888;
+        }
+
+        footer {
+            font-family: 'Brygada 1918', 'Baskervaldx', Georgia, 'Times New Roman', Times, serif;
+            padding: 100px 0;
+        }
+
+        footer p {
+            font-size: 13px;
+            margin: 5px 0;
+        }
+
+    </style>
+</head>
+
+<body>
+
+
+    <div class="global-container">
+        <div class="bigpart">
+            <nav id="topnav">
+                Other formats:
+                <a id="anchor-pdfurl" href="https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/webdigest/WebDigest-20251220.pdf--339b6bf07ce12313da9534a817849ee8.pdf">PDF</a> /
+                <a id="anchor-markdownurl" href="">Markdown</a>
+            </nav>
+            <script>
+                const year = '20251220'.slice(0, 4);
+                document.querySelector('#anchor-markdownurl').href = `https://github.com/neruthes/webdigest/blob/master/markdown/${year}/WebDigest-20251220.md`;
+            </script>
+        </div>
+
+
+        <!-- <div class="bigpart"></div> -->
+
+        <div class="bigpart">
+            <h1>Web Digest - 2025-12-20</h1>
+        </div>
+        <script>
+            // window.addEventListener('load', function () {
+            //     const toc = document.querySelector('#navtocul');
+            //     document.querySelectorAll('h2').forEach(function (h2) {
+            //         // console.log(h2.id)
+            //         toc.innerHTML += `<li><a href="#${h2.id}">${h2.innerText}</a></li>`;
+            //     });
+            // });
+        </script>
+
+        <div class="bigpart" id="js-preContent-container"></div>
+
+        <div class="bigpart pandoc-content">
+<h2 id="developers">Developers</h2>
+<h3 id="hacker-news">Hacker News</h3>
+<section id="css-grid-lanes" class="minipage">
+<h4>CSS Grid Lanes</h4>
+<p><span style=""><a
+href="https://webkit.org/blog/17660/introducing-css-grid-lanes/"
+class="uri">https://webkit.org/blog/17660/introducing-css-grid-lanes/</a></span></p>
+<p><span style="color: #888;"><a
+href="https://news.ycombinator.com/item?id=46331586"
+class="uri">https://news.ycombinator.com/item?id=46331586</a></span></p>
+</section>
+<section id="you-can-now-play-grand-theft-auto-vice-city-in-the-browser"
+class="minipage">
+<h4>You can now play Grand Theft Auto Vice City in the browser</h4>
+<p><span style=""><a
+href="https://dos.zone/grand-theft-auto-vice-city/"
+class="uri">https://dos.zone/grand-theft-auto-vice-city/</a></span></p>
+<p><span style="color: #888;"><a
+href="https://news.ycombinator.com/item?id=46329696"
+class="uri">https://news.ycombinator.com/item?id=46329696</a></span></p>
+</section>
+<section id="is-proton-leaving-switzerland" class="minipage">
+<h4>Is Proton leaving Switzerland?</h4>
+<p><span style=""><a
+href="https://www.techradar.com/vpn/vpn-privacy-security/is-proton-leaving-switzerland-legal-uncertainty-of-proposed-surveillance-laws-is-pushing-them-to-make-several-changes"
+class="uri">https://www.techradar.com/vpn/vpn-privacy-security/is-proton-leaving-switzerland-legal-uncertainty-of-proposed-surveillance-laws-is-pushing-them-to-make-several-changes</a></span></p>
+<p><span style="color: #888;"><a
+href="https://news.ycombinator.com/item?id=46329654"
+class="uri">https://news.ycombinator.com/item?id=46329654</a></span></p>
+</section>
+<section id="wall-street-ruined-the-roomba-and-then-blamed-lina-khan"
+class="minipage">
+<h4>Wall Street Ruined the Roomba and Then Blamed Lina Khan</h4>
+<p><span style=""><a
+href="https://www.thebignewsletter.com/p/how-wall-street-ruined-the-roomba"
+class="uri">https://www.thebignewsletter.com/p/how-wall-street-ruined-the-roomba</a></span></p>
+<p><span style="color: #888;"><a
+href="https://news.ycombinator.com/item?id=46329536"
+class="uri">https://news.ycombinator.com/item?id=46329536</a></span></p>
+</section>
+<section
+id="tp-link-tapo-c200-hardcoded-keys-buffer-overflows-and-privacy"
+class="minipage">
+<h4>TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy</h4>
+<p><span style=""><a
+href="https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/"
+class="uri">https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/</a></span></p>
+<p><span style="color: #888;"><a
+href="https://news.ycombinator.com/item?id=46329038"
+class="uri">https://news.ycombinator.com/item?id=46329038</a></span></p>
+</section>
+<section id="prepare-for-that-stupid-world" class="minipage">
+<h4>Prepare for That Stupid World</h4>
+<p><span style=""><a
+href="https://ploum.net/2025-12-19-prepare-for-that-world.html"
+class="uri">https://ploum.net/2025-12-19-prepare-for-that-world.html</a></span></p>
+<p><span style="color: #888;"><a
+href="https://news.ycombinator.com/item?id=46328109"
+class="uri">https://news.ycombinator.com/item?id=46328109</a></span></p>
+</section>
+<section
+id="tiktok-deal-is-the-shittiest-possible-outcome-making-everything-worse"
+class="minipage">
+<h4>TikTok Deal Is the Shittiest Possible Outcome, Making Everything
+Worse</h4>
+<p><span style=""><a
+href="https://www.techdirt.com/2025/12/19/tiktok-deal-done-and-its-somehow-the-shittiest-possible-outcome-making-everything-worse/"
+class="uri">https://www.techdirt.com/2025/12/19/tiktok-deal-done-and-its-somehow-the-shittiest-possible-outcome-making-everything-worse/</a></span></p>
+<p><span style="color: #888;"><a
+href="https://news.ycombinator.com/item?id=46327406"
+class="uri">https://news.ycombinator.com/item?id=46327406</a></span></p>
+</section>
+<section id="cursor-acquires-graphite" class="minipage">
+<h4>Cursor Acquires Graphite</h4>
+<p><span style=""><a
+href="https://graphite.com/blog/graphite-joins-cursor"
+class="uri">https://graphite.com/blog/graphite-joins-cursor</a></span></p>
+<p><span style="color: #888;"><a
+href="https://news.ycombinator.com/item?id=46327325"
+class="uri">https://news.ycombinator.com/item?id=46327325</a></span></p>
+</section>
+<section id="graphite-is-joining-cursor" class="minipage">
+<h4>Graphite is joining Cursor</h4>
+<p><span style=""><a
+href="https://cursor.com/blog/graphite"
+class="uri">https://cursor.com/blog/graphite</a></span></p>
+<p><span style="color: #888;"><a
+href="https://news.ycombinator.com/item?id=46327206"
+class="uri">https://news.ycombinator.com/item?id=46327206</a></span></p>
+</section>
+<section id="believe-the-checkbook" class="minipage">
+<h4>Believe the Checkbook</h4>
+<p><span style=""><a
+href="https://robertgreiner.com/believe-the-checkbook/"
+class="uri">https://robertgreiner.com/believe-the-checkbook/</a></span></p>
+<p><span style="color: #888;"><a
+href="https://news.ycombinator.com/item?id=46327133"
+class="uri">https://news.ycombinator.com/item?id=46327133</a></span></p>
+</section>
+<section
+id="garage-an-s3-object-store-so-reliable-you-can-run-it-outside-datacenters"
+class="minipage">
+<h4>Garage – An S3 object store so reliable you can run it outside
+datacenters</h4>
+<p><span style=""><a
+href="https://garagehq.deuxfleurs.fr/"
+class="uri">https://garagehq.deuxfleurs.fr/</a></span></p>
+<p><span style="color: #888;"><a
+href="https://news.ycombinator.com/item?id=46326984"
+class="uri">https://news.ycombinator.com/item?id=46326984</a></span></p>
+</section>
+<section id="hacker-news-front-page-now-but-the-titles-are-honest"
+class="minipage">
+<h4>Hacker News front page now, but the titles are honest</h4>
+<p><span style=""><a
+href="https://dosaygo-studio.github.io/hn-front-page-2035/news-honest.html"
+class="uri">https://dosaygo-studio.github.io/hn-front-page-2035/news-honest.html</a></span></p>
+<p><span style="color: #888;"><a
+href="https://news.ycombinator.com/item?id=46326588"
+class="uri">https://news.ycombinator.com/item?id=46326588</a></span></p>
+</section>
+<section
+id="the-freebsd-foundations-laptop-support-and-usability-project"
+class="minipage">
+<h4>The FreeBSD Foundation’s Laptop Support and Usability Project</h4>
+<p><span style=""><a
+href="https://github.com/FreeBSDFoundation/proj-laptop"
+class="uri">https://github.com/FreeBSDFoundation/proj-laptop</a></span></p>
+<p><span style="color: #888;"><a
+href="https://news.ycombinator.com/item?id=46326519"
+class="uri">https://news.ycombinator.com/item?id=46326519</a></span></p>
+</section>
+<section id="bit-boléro" class="minipage">
+<h4>8-bit Boléro</h4>
+<p><span style=""><a
+href="https://linusakesson.net/music/bolero/index.php"
+class="uri">https://linusakesson.net/music/bolero/index.php</a></span></p>
+<p><span style="color: #888;"><a
+href="https://news.ycombinator.com/item?id=46324702"
+class="uri">https://news.ycombinator.com/item?id=46324702</a></span></p>
+</section>
+<section
+id="show-hn-hacker-news-but-every-headline-is-hysterical-clickbait"
+class="minipage">
+<h4>Show HN: Hacker News, but every headline is hysterical
+clickbait</h4>
+<p><span style=""><a
+href="https://dosaygo-studio.github.io/hn-front-page-2035/news-max.html"
+class="uri">https://dosaygo-studio.github.io/hn-front-page-2035/news-max.html</a></span></p>
+<p><span style="color: #888;"><a
+href="https://news.ycombinator.com/item?id=46324579"
+class="uri">https://news.ycombinator.com/item?id=46324579</a></span></p>
+</section>
+<section id="gotatun-mullvads-wireguard-implementation-in-rust"
+class="minipage">
+<h4>GotaTun – Mullvad’s WireGuard Implementation in Rust</h4>
+<p><span style=""><a
+href="https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn"
+class="uri">https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn</a></span></p>
+<p><span style="color: #888;"><a
+href="https://news.ycombinator.com/item?id=46324543"
+class="uri">https://news.ycombinator.com/item?id=46324543</a></span></p>
+</section>
+<section
+id="amazon-will-allow-epub-and-pdf-downloads-for-drm-free-ebooks"
+class="minipage">
+<h4>Amazon will allow ePub and PDF downloads for DRM-free eBooks</h4>
+<p><span style=""><a
+href="https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US"
+class="uri">https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US</a></span></p>
+<p><span style="color: #888;"><a
+href="https://news.ycombinator.com/item?id=46324078"
+class="uri">https://news.ycombinator.com/item?id=46324078</a></span></p>
+</section>
+<section id="making-google-sans-flex" class="minipage">
+<h4>Making Google Sans Flex</h4>
+<p><span style=""><a
+href="https://design.google/library/google-sans-flex-font"
+class="uri">https://design.google/library/google-sans-flex-font</a></span></p>
+<p><span style="color: #888;"><a
+href="https://news.ycombinator.com/item?id=46322732"
+class="uri">https://news.ycombinator.com/item?id=46322732</a></span></p>
+</section>
+<section
+id="apple-introducing-more-ads-to-increase-opportunity-in-search-results"
+class="minipage">
+<h4>2026 Apple introducing more ads to increase opportunity in search
+results</h4>
+<p><span style=""><a
+href="https://ads.apple.com/app-store/help/ad-placements/0082-search-results"
+class="uri">https://ads.apple.com/app-store/help/ad-placements/0082-search-results</a></span></p>
+<p><span style="color: #888;"><a
+href="https://news.ycombinator.com/item?id=46322556"
+class="uri">https://news.ycombinator.com/item?id=46322556</a></span></p>
+</section>
+<section id="getting-bitten-by-intels-poor-naming-schemes"
+class="minipage">
+<h4>Getting bitten by Intel’s poor naming schemes</h4>
+<p><span style=""><a
+href="https://lorendb.dev/posts/getting-bitten-by-poor-naming-schemes/"
+class="uri">https://lorendb.dev/posts/getting-bitten-by-poor-naming-schemes/</a></span></p>
+<p><span style="color: #888;"><a
+href="https://news.ycombinator.com/item?id=46322540"
+class="uri">https://news.ycombinator.com/item?id=46322540</a></span></p>
+</section>
+<h2 id="developers-zh-hans">Developers (zh-Hans)</h2>
+<h3 id="solidot">Solidot</h3>
+<h4 id="字节跳动签署出售-tiktok-美国业务的协议">字节跳动签署出售 TikTok
+美国业务的协议</h4>
+<p><span style=""><a
+href="https://www.solidot.org/story?sid=83101"
+class="uri">https://www.solidot.org/story?sid=83101</a></span></p>
+<h4 id="中国研制出极紫外光刻机">中国研制出极紫外光刻机</h4>
+<p><span style=""><a
+href="https://www.solidot.org/story?sid=83100"
+class="uri">https://www.solidot.org/story?sid=83100</a></span></p>
+<h4 id="acm-所有出版物开放获取">ACM 所有出版物开放获取</h4>
+<p><span style=""><a
+href="https://www.solidot.org/story?sid=83099"
+class="uri">https://www.solidot.org/story?sid=83099</a></span></p>
+<h4 id="伊朗的水危机">伊朗的水危机</h4>
+<p><span style=""><a
+href="https://www.solidot.org/story?sid=83098"
+class="uri">https://www.solidot.org/story?sid=83098</a></span></p>
+<h4 id="奥斯卡奖直播从-2029-年起从-abc-转到-youtube">奥斯卡奖直播从 2029
+年起从 ABC 转到 YouTube</h4>
+<p><span style=""><a
+href="https://www.solidot.org/story?sid=83097"
+class="uri">https://www.solidot.org/story?sid=83097</a></span></p>
+<h4
+id="德国法庭裁决亚马逊不能强迫客户观看-prime-video-广告">德国法庭裁决亚马逊不能强迫客户观看
+Prime Video 广告</h4>
+<p><span style=""><a
+href="https://www.solidot.org/story?sid=83096"
+class="uri">https://www.solidot.org/story?sid=83096</a></span></p>
+<h4 id="丹麦政府测试迁移到-linux-操作系统">丹麦政府测试迁移到 Linux
+操作系统</h4>
+<p><span style=""><a
+href="https://www.solidot.org/story?sid=83095"
+class="uri">https://www.solidot.org/story?sid=83095</a></span></p>
+<h4 id="irobot-会继续在美国保存用户数据">iRobot
+会继续在美国保存用户数据</h4>
+<p><span style=""><a
+href="https://www.solidot.org/story?sid=83094"
+class="uri">https://www.solidot.org/story?sid=83094</a></span></p>
+<h4
+id="索尼和腾讯就抄袭地平线达成和解游戏下架">索尼和腾讯就抄袭《地平线》达成和解，游戏下架</h4>
+<p><span style=""><a
+href="https://www.solidot.org/story?sid=83093"
+class="uri">https://www.solidot.org/story?sid=83093</a></span></p>
+<h4 id="厨房里的塑料材料">厨房里的塑料材料</h4>
+<p><span style=""><a
+href="https://www.solidot.org/story?sid=83092"
+class="uri">https://www.solidot.org/story?sid=83092</a></span></p>
+<h4 id="年-steam-用户-14-的游戏时间是花在新游戏上">2025 年 Steam 用户
+14% 的游戏时间是花在新游戏上</h4>
+<p><span style=""><a
+href="https://www.solidot.org/story?sid=83091"
+class="uri">https://www.solidot.org/story?sid=83091</a></span></p>
+<h4
+id="在向-maga-捐赠了逾-200-万美元后美参议院确认-jared-isaacman-的-nasa-局长任命">在向
+MAGA 捐赠了逾 200 万美元后美参议院确认 Jared Isaacman 的 NASA
+局长任命</h4>
+<p><span style=""><a
+href="https://www.solidot.org/story?sid=83090"
+class="uri">https://www.solidot.org/story?sid=83090</a></span></p>
+<h4 id="coursera-以-9.3-亿美元收购-udemy">Coursera 以 9.3 亿美元收购
+Udemy</h4>
+<p><span style=""><a
+href="https://www.solidot.org/story?sid=83088"
+class="uri">https://www.solidot.org/story?sid=83088</a></span></p>
+<h4
+id="科学家发现基于植物的完美塑料">科学家发现基于植物的“完美塑料”</h4>
+<p><span style=""><a
+href="https://www.solidot.org/story?sid=83087"
+class="uri">https://www.solidot.org/story?sid=83087</a></span></p>
+<h4 id="锻炼什么时候都不晚">锻炼什么时候都不晚</h4>
+<p><span style=""><a
+href="https://www.solidot.org/story?sid=83086"
+class="uri">https://www.solidot.org/story?sid=83086</a></span></p>
+<h4 id="欧盟软化-2035-年内燃机汽车禁令">欧盟软化 2035
+年内燃机汽车禁令</h4>
+<p><span style=""><a
+href="https://www.solidot.org/story?sid=83085"
+class="uri">https://www.solidot.org/story?sid=83085</a></span></p>
+<h4 id="四成-fmri-信号与实际大脑活动不一致">四成 fMRI
+信号与实际大脑活动不一致</h4>
+<p><span style=""><a
+href="https://www.solidot.org/story?sid=83084"
+class="uri">https://www.solidot.org/story?sid=83084</a></span></p>
+<h4 id="苹果和-google-释出紧急更新修复-0day">苹果和 Google
+释出紧急更新修复 0day</h4>
+<p><span style=""><a
+href="https://www.solidot.org/story?sid=83083"
+class="uri">https://www.solidot.org/story?sid=83083</a></span></p>
+<h4
+id="多家中国火箭公司尝试复制-spacex-的-starship-火箭">多家中国火箭公司尝试复制
+SpaceX 的 Starship 火箭</h4>
+<p><span style=""><a
+href="https://www.solidot.org/story?sid=83082"
+class="uri">https://www.solidot.org/story?sid=83082</a></span></p>
+<h4 id="德州起诉五大-tv-制造商未经同意监视用户">德州起诉五大 TV
+制造商未经同意监视用户</h4>
+<p><span style=""><a
+href="https://www.solidot.org/story?sid=83081"
+class="uri">https://www.solidot.org/story?sid=83081</a></span></p>
+<h3 id="v2ex">V2EX</h3>
+<h4 id="电影-没看过阿凡达-2可以直接看阿凡达-3-吗">[电影] 没看过阿凡达
+2，可以直接看阿凡达 3 吗</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180095"
+class="uri">https://www.v2ex.com/t/1180095</a></span></p>
+<h4 id="生活-年龄欺骗朋友深度聊天聊错嘴了咋整">[生活]
+年龄欺骗朋友，深度聊天聊错嘴了，咋整？？</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180094"
+class="uri">https://www.v2ex.com/t/1180094</a></span></p>
+<h4 id="分享创造-做了一个简历自动优化的网站">[分享创造]
+做了一个简历自动优化的网站</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180093"
+class="uri">https://www.v2ex.com/t/1180093</a></span></p>
+<h4 id="生活-好朋友之间有利益牵扯以后真的就变味了吗">[生活]
+好朋友之间有利益牵扯以后真的就变味了吗</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180092"
+class="uri">https://www.v2ex.com/t/1180092</a></span></p>
+<h4
+id="程序员-通过中转-apikey-使用-cc-的chrome-功能登录自己浏览器账号是否会有安全风险">[程序员]
+通过中转 apikey 使用 cc 的/chrome
+功能登录自己浏览器账号是否会有安全风险？</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180091"
+class="uri">https://www.v2ex.com/t/1180091</a></span></p>
+<h4 id="问与答-android-是否有可以语音添加待办事项的-app">[问与答]
+android 是否有可以语音添加待办事项的 app？</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180090"
+class="uri">https://www.v2ex.com/t/1180090</a></span></p>
+<h4
+id="程序员-探讨动态未知环境下基于单设备异构传感的实时空间感知与建模">[程序员]
+探讨：动态未知环境下，基于单设备异构传感的实时空间感知与建模</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180089"
+class="uri">https://www.v2ex.com/t/1180089</a></span></p>
+<h4 id="编程-请教什么-ide-看内核代码比较好能否满足以下需求">[编程]
+请教，什么 IDE 看内核代码比较好？能否满足以下需求？</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180088"
+class="uri">https://www.v2ex.com/t/1180088</a></span></p>
+<h4 id="openai-硬核-智谱上市招股书深度解读">[OpenAI] 硬核 |
+智谱上市招股书深度解读</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180086"
+class="uri">https://www.v2ex.com/t/1180086</a></span></p>
+<h4 id="问与答-奈飞小铺又又又跑路了">[问与答]
+奈飞小铺又又又跑路了？</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180085"
+class="uri">https://www.v2ex.com/t/1180085</a></span></p>
+<h4
+id="iphone-买二手无锁-esim-果机挂外区-id-被风控后账号被停导致无法退出-id又不能恢复出厂的场景是否可防">[iPhone]
+买二手无锁 esim 果机，挂外区 ID 被风控后账号被停，导致无法退出
+ID，又不能恢复出厂的场景，是否可防?</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180084"
+class="uri">https://www.v2ex.com/t/1180084</a></span></p>
+<h4 id="职场话题-怎样算是一个合格的-cto">[职场话题] 怎样算是一个合格的
+CTO？</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180082"
+class="uri">https://www.v2ex.com/t/1180082</a></span></p>
+<h4 id="github-github-账号被封禁">[GitHub] Github 账号被封禁</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180081"
+class="uri">https://www.v2ex.com/t/1180081</a></span></p>
+<h4 id="推广-remitly-新客汇款免费赚25-美元">[推广] Remitly
+新客汇款免费赚$25 美元</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180079"
+class="uri">https://www.v2ex.com/t/1180079</a></span></p>
+<h4 id="问与答-请教这几个音乐服播放器会员选择">[问与答]
+请教这几个音乐服播放器会员选择</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180078"
+class="uri">https://www.v2ex.com/t/1180078</a></span></p>
+<h4 id="macos-macos-finder-的-smb-掉速问题">[macOS] MacOS Finder 的 SMB
+掉速问题</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180077"
+class="uri">https://www.v2ex.com/t/1180077</a></span></p>
+<h4 id="ios-authkey-simple-private-2fa-authenticator-for-ios">[iOS] 🔐
+AuthKey — Simple &amp; Private 2FA Authenticator for iOS</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180076"
+class="uri">https://www.v2ex.com/t/1180076</a></span></p>
+<h4 id="问与答-关于红米-gpro27u-连接-mac-使用配置问题">[问与答] 关于红米
+Gpro27u 连接 mac 使用配置问题</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180074"
+class="uri">https://www.v2ex.com/t/1180074</a></span></p>
+<h4
+id="硬件-最近想买一款-windows-和-ubuntu-兼容性都很好的-usb-无线网卡结果大失所望">[硬件]
+最近想买一款 windows 和 ubuntu 兼容性都很好的 usb
+无线网卡，结果大失所望</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180072"
+class="uri">https://www.v2ex.com/t/1180072</a></span></p>
+<h4 id="上海-马上就要离开上海了">[上海] 马上就要离开上海了</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180070"
+class="uri">https://www.v2ex.com/t/1180070</a></span></p>
+<h4 id="程序员-让-ai-在合并不同项目代码-大家有什么好的经验么">[程序员]
+让 AI 在合并不同项目代码, 大家有什么好的经验么</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180069"
+class="uri">https://www.v2ex.com/t/1180069</a></span></p>
+<h4 id="apple-推荐个显示第三方电量的-app">[Apple] 推荐个显示第三方电量的
+APP</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180068"
+class="uri">https://www.v2ex.com/t/1180068</a></span></p>
+<h4 id="经济-一个促进消费和改善经济的解决方案">[经济]
+一个促进消费和改善经济的解决方案💡</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180067"
+class="uri">https://www.v2ex.com/t/1180067</a></span></p>
+<h4 id="生活-家人摩托车被交警扣留了要不要赎回来">[生活]
+家人摩托车被交警扣留了，要不要赎回来</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180066"
+class="uri">https://www.v2ex.com/t/1180066</a></span></p>
+<h4
+id="分享发现-发现一个在线加密工具群聊敏感话语加密日常私密信息加密保存">[分享发现]
+发现一个在线加密工具，群聊敏感话语加密，日常私密信息加密保存</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180065"
+class="uri">https://www.v2ex.com/t/1180065</a></span></p>
+<h4
+id="分享创造-开源-旅游地图工作太累啦-不妨进来找找你的梦想">[分享创造]
+[开源] 旅游地图，工作太累啦   不妨进来找找你的梦想</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180064"
+class="uri">https://www.v2ex.com/t/1180064</a></span></p>
+<h4
+id="分享创造-开源-opencontext从-codingagent-里生长出来的个人上下文仓库mcp-cli-desktop">[分享创造]
+[开源] OpenContext：从 CodingAgent 里生长出来的“个人上下文仓库”（MCP +
+CLI + Desktop）</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180062"
+class="uri">https://www.v2ex.com/t/1180062</a></span></p>
+<h4 id="全球工单系统-cloudflare-又又又-出问题了么">[全球工单系统]
+cloudflare 又又又 出问题了么？</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180061"
+class="uri">https://www.v2ex.com/t/1180061</a></span></p>
+<h4 id="mac-mini-2981-入手-macmini-丐版推荐配件">[Mac mini] 2981 入手
+macmini 丐版，推荐配件</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180060"
+class="uri">https://www.v2ex.com/t/1180060</a></span></p>
+<h4 id="程序员-分享下我-mihomo-的分流规则">[程序员] 分享下我 mihomo
+的分流规则</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180058"
+class="uri">https://www.v2ex.com/t/1180058</a></span></p>
+<h4 id="nas-115-历史跑路事迹整理">[NAS] 115 历史跑路事迹整理</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180057"
+class="uri">https://www.v2ex.com/t/1180057</a></span></p>
+<h4 id="edge-edge-dev-最新版这个图标好丑啊">[Edge] Edge Dev
+最新版这个图标好丑啊</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180056"
+class="uri">https://www.v2ex.com/t/1180056</a></span></p>
+<h4 id="分享创造-做一个-3dgs-的格式转换库">[分享创造] 做一个 3DGS
+的格式转换库</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180055"
+class="uri">https://www.v2ex.com/t/1180055</a></span></p>
+<h4
+id="职场话题-校招-offer-求对比-oppo-互联网服务系统移动端开发-和-华为质量与流程-it-部后端开发">[职场话题]
+校招 offer 求对比 OPPO 互联网服务系统移动端开发 和 华为质量与流程 IT
+部后端开发</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180054"
+class="uri">https://www.v2ex.com/t/1180054</a></span></p>
+<h4
+id="生活-购物-大家在拼多多上购物买到让你感觉最有用小东西是什么呢">[生活]
+[购物] 大家在拼多多上购物，买到让你感觉最有用小东西，是什么呢？</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180053"
+class="uri">https://www.v2ex.com/t/1180053</a></span></p>
+<h4
+id="远程工作-远程-web-前端需求-6-名-php-golang-flutter-同样有需求">[远程工作]
+远程 Web 前端：需求 6 名 ， PHP ， Golang， Flutter 同样有需求</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180051"
+class="uri">https://www.v2ex.com/t/1180051</a></span></p>
+<h4 id="分享创造-大模型投研助手似乎有戏">[分享创造]
+大模型投研助手似乎有戏 </h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180050"
+class="uri">https://www.v2ex.com/t/1180050</a></span></p>
+<h4 id="微信-微信输入法在启用双拼时似乎词库无法更有效的匹配">[微信]
+微信输入法在启用双拼时，似乎词库无法更有效的匹配</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180049"
+class="uri">https://www.v2ex.com/t/1180049</a></span></p>
+<h4 id="问与答-ugit-是否开放给普通用户使用">[问与答] UGIT
+是否开放给普通用户使用</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180047"
+class="uri">https://www.v2ex.com/t/1180047</a></span></p>
+<h4 id="程序员-豆包格外显眼">[程序员] 豆包格外显眼</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180046"
+class="uri">https://www.v2ex.com/t/1180046</a></span></p>
+<h4 id="推广-自有算力平台-codeplan-ai-编程套餐">[推广]
+自有算力平台-CodePlan ai 编程套餐</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180045"
+class="uri">https://www.v2ex.com/t/1180045</a></span></p>
+<h4 id="程序员-ios-gemini-创建的-gem-对话会被删除">[程序员] ios gemini
+创建的 gem 对话会被删除</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180044"
+class="uri">https://www.v2ex.com/t/1180044</a></span></p>
+<h4 id="职场话题-中年的职场选择走还是留">[职场话题]
+中年的职场选择：走还是留？</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180043"
+class="uri">https://www.v2ex.com/t/1180043</a></span></p>
+<h4 id="宽带症候群-求助电脑-53-端口发出的-udp-包被阻挡">[宽带症候群]
+求助：电脑 53 端口发出的 udp 包被阻挡</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180042"
+class="uri">https://www.v2ex.com/t/1180042</a></span></p>
+<h4 id="宽带症候群-浙江联通移动晚高峰丢包">[宽带症候群]
+浙江联通/移动晚高峰丢包</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180041"
+class="uri">https://www.v2ex.com/t/1180041</a></span></p>
+<h4 id="程序员-免费教大家开源-2-天增加-200的秘诀有手就会">[程序员]
+免费教大家开源 2 天增加 200⭐️的秘诀，有手就会</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180040"
+class="uri">https://www.v2ex.com/t/1180040</a></span></p>
+<h4
+id="推广-novproxy-性价比极高的住宅代理-ip-支持试用-静态-动态-无限流量-socks5-ip">[推广]
+NovProxy-性价比极高的住宅代理 IP-支持试用-静态-动态-无限流量-SOCKS5
+IP</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180039"
+class="uri">https://www.v2ex.com/t/1180039</a></span></p>
+<h4 id="汽车-看上了钛-7今年买还是明年买呢">[汽车] 看上了钛
+7，今年买还是明年买呢</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180038"
+class="uri">https://www.v2ex.com/t/1180038</a></span></p>
+<h4 id="分享发现-百度脑图要停服了有需要的记得导出数据">[分享发现]
+百度脑图要停服了，有需要的记得导出数据</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180037"
+class="uri">https://www.v2ex.com/t/1180037</a></span></p>
+<h4
+id="投资-请教你们是怎么把消费贷信用贷之类的贷款合规的弄到投资账户里边去的">[投资]
+请教，你们是怎么把消费贷、信用贷之类的贷款合规的弄到投资账户里边去的？</h4>
+<p><span style=""><a
+href="https://www.v2ex.com/t/1180036"
+class="uri">https://www.v2ex.com/t/1180036</a></span></p>
+<h2 id="generic-news">Generic News</h2>
+</div>
+
+<div class="bigpart" id="js-preFooter-container">
+</div>
+<div class="bigpart">
+    <footer>
+        <p>Copyright &copy; 2025-12-20 Neruthes and other contributors.</p>
+        <p>This document is published with CC BY-NC-ND 4.0 license.</p>
+        <p>The entries listed in this newsletter may be copyrighted by their respective creators.</p>
+        <p>This newsletter is generated by the Web Digest project.</p>
+        <p>The newsletters are also delivered via Telegram channel <a
+                href="https://t.me/webdigestchannel">https://t.me/webdigestchannel</a>.
+        </p>
+        <p>RSS feed is available at <a
+                href="https://webdigest.pages.dev/rss.xml">https://webdigest.pages.dev/rss.xml</a>.
+        </p>
+        <p>Official website of the Web Digest project:
+            <a href="https://webdigest.pages.dev/">https://webdigest.pages.dev</a>.
+        </p>
+        <p>The source code being used to generate this newsletter is available at<br>
+            <a href="https://github.com/neruthes/webdigest">https://github.com/neruthes/webdigest</a>.
+        </p>
+        <p>
+            <script>document.write(document.querySelector('#topnav').innerHTML);</script>
+        </p>
+    </footer>
+</div>
+</div>
+
+
+
+</body>
+
+</html>
